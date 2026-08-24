@@ -2,17 +2,17 @@
 Custom Four-Dimension Metrics for Insight Evaluation.
 
 Dimensions:
-- Factuality (事实性): 30% weight
-- Completeness (完整性): 25% weight  
-- Logic (逻辑性): 20% weight
-- Insightfulness (洞察深度): 25% weight
+- Factuality: 30% weight
+- Completeness: 25% weight
+- Logic: 20% weight
+- Insightfulness: 25% weight
 """
 
 import os
 import re
 import time
 import numpy as np
-from typing import List, Dict, Any, Optional, Tuple
+from typing import List, Dict, Any, Tuple
 from dataclasses import dataclass
 
 import openai
@@ -106,7 +106,7 @@ def compute_llm_score(
         prompt = template.format(
             pred_insights=pred_formatted,
             gt_insights=gt_formatted,
-            goal=goal if goal else "未提供具体分析目标"
+            goal=goal if goal else "No analysis goal was provided."
         )
     else:
         prompt = template.format(
@@ -437,72 +437,3 @@ def compute_four_dim_score(
             "insightfulness": insightfulness_details,
         }
     )
-
-
-# =====================
-# Batch Processing Helper
-# =====================
-
-def evaluate_experiment_four_dim(
-    exp_data: Dict[str, Any],
-    gt_data: Dict[str, Any],
-    model_name: str = DEFAULT_MODEL,
-) -> Dict[str, Any]:
-    """Evaluate a single experiment with four-dimension metrics.
-    
-    Args:
-        exp_data: Experiment data (ExperimentData as dict or object).
-        gt_data: Ground truth data (GTData as dict or object).
-        model_name: OpenAI model to use.
-        
-    Returns:
-        Dictionary with evaluation results.
-    """
-    # Handle both dataclass objects and dicts
-    if hasattr(exp_data, 'synthesized_insights'):
-        synth_insights = exp_data.synthesized_insights
-        raw_insights = exp_data.raw_insights
-    else:
-        synth_insights = exp_data.get('synthesized_insights', [])
-        raw_insights = exp_data.get('raw_insights', [])
-    
-    if hasattr(gt_data, 'insights'):
-        gt_insights = gt_data.insights
-        goal = gt_data.goal
-    else:
-        gt_insights = gt_data.get('insights', [])
-        goal = gt_data.get('goal', '')
-    
-    results = {}
-    
-    # Evaluate synthesized insights
-    if synth_insights:
-        synth_scores = compute_four_dim_score(
-            synth_insights, gt_insights, goal, model_name, remove_prefixes=True
-        )
-        results['synthesized'] = {
-            'factuality': synth_scores.factuality,
-            'factuality_hard': synth_scores.factuality_hard,
-            'factuality_llm': synth_scores.factuality_llm,
-            'completeness': synth_scores.completeness,
-            'logic': synth_scores.logic,
-            'insightfulness': synth_scores.insightfulness,
-            'weighted_avg': synth_scores.weighted_avg,
-        }
-    
-    # Evaluate raw insights
-    if raw_insights:
-        raw_scores = compute_four_dim_score(
-            raw_insights, gt_insights, goal, model_name, remove_prefixes=False
-        )
-        results['raw'] = {
-            'factuality': raw_scores.factuality,
-            'factuality_hard': raw_scores.factuality_hard,
-            'factuality_llm': raw_scores.factuality_llm,
-            'completeness': raw_scores.completeness,
-            'logic': raw_scores.logic,
-            'insightfulness': raw_scores.insightfulness,
-            'weighted_avg': raw_scores.weighted_avg,
-        }
-    
-    return results

@@ -18,7 +18,6 @@ DataCrossBench/
     ├── prompts/
     ├── flag_classification.json
     ├── validate_benchmark.py
-    ├── AUDIT.md
     └── requirements.txt
 ```
 

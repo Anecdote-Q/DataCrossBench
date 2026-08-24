@@ -2,10 +2,10 @@
 Prompt templates for the four-dimension evaluation metrics.
 
 Used by metrics_custom.py to generate LLM evaluation prompts for:
-- Factuality (事实性): 30% weight
-- Completeness (完整性): 25% weight
-- Logic (逻辑性): 20% weight
-- Insightfulness (洞察深度): 25% weight
+- Factuality: 30% weight
+- Completeness: 25% weight
+- Logic: 20% weight
+- Insightfulness: 25% weight
 """
 
 # ==============================================================================
