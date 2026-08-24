@@ -1,0 +1,20 @@
+{
+    "goal": "比较医疗服务与生物医药的涨幅差异，探讨其背后的驱动因素。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 医疗服务涨幅为+9.3%，生物医药涨幅为+2.5%，表明不同子行业的表现差异。",
+        "Comparison: 中药饮片跌幅为-3.2%，与其他子行业形成鲜明对比，反映出市场对中药的不同看法。",
+        "Extreme: 中药饮片的跌幅为-3.2%，是本周表现最差的子行业。",
+        "Attribution: 随着医疗环节改革的深入，医药价值链也将发生比较大的重构，影响行业未来的发展。"
+    ],
+    "summary": "本周医药行业表现良好，医药指数上涨，成交额占比上升，板块估值提高，提供了多项投资建议。",
+    "flag_id": "flag-71",
+    "classifier": "Fund Analysis",
+    "classifier_cn": "基金分析",
+    "input_files": [
+        "output/industry_background.txt",
+        "output/industry_dimension.db",
+        "output/industry_json_details.json",
+        "output/industry_performance.png"
+    ]
+}

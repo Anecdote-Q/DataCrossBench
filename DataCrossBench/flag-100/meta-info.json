@@ -1,0 +1,20 @@
+{
+    "goal": "评估华商医药医疗行业基金在2024年2月23日的市场表现与同类基金的比较情况。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 2022年10月，医药板块兼具防疫属性和复苏属性，基金相对沪深300的超额收益达到14.15%。",
+        "Comparison: 2020年基金相对沪深300超额收益为18.85%，而2021年则为-1.90%。",
+        "Extreme: 截至2024年2月23日，医药板块估值为25.22倍，低于过去10年的平均估值37.25倍。",
+        "Attribution: 张晓认为医药行业的悲观预期已充分反映，当前投资具有性价比优势，且医保政策的变化也为行业带来支持。"
+    ],
+    "summary": "本报告分析了华商医药医疗行业基金在张晓的管理下的投资策略、业绩表现及市场趋势，强调了医药行业的长期配置价值和当前的投资机会。",
+    "flag_id": "flag-100",
+    "classifier": "Fund Analysis",
+    "classifier_cn": "基金分析",
+    "input_files": [
+        "output/business_background.txt",
+        "output/fund_performance.db",
+        "output/fund_profiles.json",
+        "output/market_comparison.png"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "goal": "比较不同能效标准对行业技术应用的影响及其发展趋势。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 第9页提到的绿色可持续发展目标与第10页的技术应用趋势相结合，表明行业正在向更高的能效标准迈进。",
+        "Comparison: 第13页的绿色节能等级与第14页的AI技术应用形成对比，强调了技术与标准的相辅相成。",
+        "Extreme: 第15页提到的通过AI技术实现的节能效果，显示出技术应用的极端效益。",
+        "Attribution: 第17页提到的绿色AI技术与第18页的能效提升直接相关，显示出技术创新对行业发展的重要性。"
+    ],
+    "summary": "本报告探讨了数据中心绿色节能建设的政策背景、技术应用及其对行业未来的影响，强调了政策与技术的协同作用。",
+    "flag_id": "flag-75",
+    "classifier": "AI Healthcare",
+    "classifier_cn": "AI 医疗健康",
+    "input_files": [
+        "output/business_background.txt",
+        "output/device_data.json",
+        "output/dimension_data.db",
+        "output/green_energy_fact.csv"
+    ]
+}

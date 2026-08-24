@@ -1,0 +1,20 @@
+{
+    "goal": "分析医药行业整体估值下降的主要原因，特别是高税收和医保监管对行业的影响。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 截至2024年3月22日，医药行业成交额3777.7亿元，占全部A股总成交额比例为7.0%，较前一周减少0.5pct。",
+        "Comparison: 医药持股占陆港通总资金的比例为8.1%，显示出投资者对医药行业的关注度。",
+        "Extreme: 医药北上资金环比减少83亿元，显示出资金流出的压力。",
+        "Attribution: 由于高税收和医保监管水平提升，医药行业进入供给侧改革新阶段，导致整体估值回调。"
+    ],
+    "summary": "医药行业面临整体估值回调和资金流出，但创新药物和医疗器械的需求依然强劲。投资者需关注政策变化和市场动态，以把握潜在的投资机会。",
+    "flag_id": "flag-74",
+    "classifier": "Fund Analysis",
+    "classifier_cn": "基金分析",
+    "input_files": [
+        "output/business_background.txt",
+        "output/pharma_products.json",
+        "output/pharmaceutical_dim.db",
+        "output/pharmaceutical_facts.csv"
+    ]
+}

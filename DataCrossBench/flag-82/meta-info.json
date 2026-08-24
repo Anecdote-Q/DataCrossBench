@@ -1,0 +1,18 @@
+{
+    "goal": "比较华商鑫安与华商双驱优选在短、中、长期的业绩表现，以评估其投资策略的有效性。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 2024年，航空公司的收入预计将持续增长，反映出市场复苏的迹象。",
+        "Comparison: 华商鑫安和华商双驱优选在短、中、长期均持续跑赢业绩基准和市场指数，表明其投资策略的成功。",
+        "Extreme: 华商鑫安的历史总收益率为230.56%，相对沪深300超额为201.83%，显示出其长期投资的成功。",
+        "Attribution: 由于加强技术研发，青达环保和洛阳钼业的市场拓展能力增强，推动了其股价的上涨。"
+    ],
+    "summary": "本报告分析了华商基金在市场中的表现及其未来的投资策略，强调了基金经理在不同市场环境下的灵活应对能力。",
+    "flag_id": "flag-82",
+    "classifier": "Fund Analysis",
+    "classifier_cn": "基金分析",
+    "input_files": [
+        "output/dimension_data.db",
+        "output/fact_fund_performance.png"
+    ]
+}

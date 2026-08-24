@@ -1,0 +1,20 @@
+{
+    "goal": "分析2023年全球金融科技领域风险投资资金降至300亿美元的原因。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 金融科技在VC投资方面平均吸引所有风险投资的12%份额，显示出其在投资市场中的重要性。",
+        "Comparison: 美国和加拿大地区的当地投资者集中度超过85%，而中东和北非地区的比例从2015年的10%上升到2023年的47.5%。",
+        "Extreme: 2023年，全球金融科技领域的风险投资资金降至300亿美元，反映出市场的不确定性。",
+        "Attribution: 风险投资推动了金融科技行业的发展，但势头有所放缓，尤其是在全球经济不确定性增加的情况下。"
+    ],
+    "summary": "本报告分析了风险投资在金融科技领域的影响，探讨了不同地区的投资趋势和挑战。",
+    "flag_id": "flag-116",
+    "classifier": "FinTech",
+    "classifier_cn": "金融科技",
+    "input_files": [
+        "output/business_background.txt",
+        "output/investment_payloads.json",
+        "output/investor_dim.db",
+        "output/venture_investment_fact.csv"
+    ]
+}

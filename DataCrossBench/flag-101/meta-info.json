@@ -1,0 +1,20 @@
+{
+    "goal": "分析华商基金资产管理规模持续增长的驱动因素。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 华商基金的资产管理总规模截至2023年12月31日达到1281.6亿元，显示出持续增长的趋势。",
+        "Comparison: 华商基金的区间总收益率为150.65%，相对沪深300的超额收益为151.93%，显示出其优于市场的表现。",
+        "Extreme: 华商基金的管理费率为1.20%，在行业中属于中等水平，反映出其成本控制的能力。",
+        "Attribution: 华商基金的业绩表现受到市场环境变化的影响，投资者需关注证券市场的波动可能导致的收益波动。"
+    ],
+    "summary": "本报告分析了华商基金管理公司的整体市场表现、资产管理规模及投资风险，强调了市场认可度的提升与投资者需关注的风险因素。",
+    "flag_id": "flag-101",
+    "classifier": "Fund Analysis",
+    "classifier_cn": "基金分析",
+    "input_files": [
+        "output/background.txt",
+        "output/fund_dimension.db",
+        "output/fund_performance.png",
+        "output/fund_risk_narratives.json"
+    ]
+}

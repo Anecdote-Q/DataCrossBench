@@ -1,0 +1,20 @@
+{
+    "goal": "比较一线城市与二线、三线城市在网络购物用户规模和使用率上的差异。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 2011年手机网民整体规模增速下降，手机网民在手机用户中的渗透率仅为36.5%。",
+        "Comparison: 广东网民数6300万人，普及率60.4%，增长率18.3%，在全国各省中排名第一。",
+        "Extreme: 网络视频用户规模达到3.25亿，年增长率14.6%，显示出强劲的市场需求。",
+        "Attribution: 网络购物用户增速放缓主要由于新网民对网络购物的参与度降低，且老网民转化乏力。"
+    ],
+    "summary": "本报告总结了中国互联网在2011年的发展状况，涵盖了网民规模、互联网普及率、各省市的互联网使用情况及应用趋势等多个方面。",
+    "flag_id": "flag-186",
+    "classifier": "Internet Dev.",
+    "classifier_cn": "互联网发展",
+    "input_files": [
+        "output/background.txt",
+        "output/dimension_data.db",
+        "output/internet_users_fact.csv",
+        "output/user_profiles.json"
+    ]
+}

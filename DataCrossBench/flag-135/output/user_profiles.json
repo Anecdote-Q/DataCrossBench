@@ -1,0 +1,8468 @@
+[
+  {
+    "user_id": 1,
+    "city_id": 7,
+    "city_name": "成都",
+    "interests": [
+      "冒险",
+      "历史",
+      "音乐",
+      "动作"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 80.94256905467425,
+    "last_login": "2025-12-11",
+    "powers": {
+      "冒险": 0.46,
+      "历史": 0.53,
+      "音乐": 0.17,
+      "动作": 0.8
+    }
+  },
+  {
+    "user_id": 2,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "喜剧",
+      "恋爱"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 70.72102142309502,
+    "last_login": "2025-12-15",
+    "powers": {
+      "喜剧": 0.25,
+      "恋爱": 0.59
+    }
+  },
+  {
+    "user_id": 3,
+    "city_id": 11,
+    "city_name": "重庆",
+    "interests": [
+      "冒险",
+      "历史",
+      "喜剧"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 52.64179849494096,
+    "last_login": "2025-12-16",
+    "powers": {
+      "冒险": 0.84,
+      "历史": 0.29,
+      "喜剧": 0.51
+    }
+  },
+  {
+    "user_id": 4,
+    "city_id": 3,
+    "city_name": "杭州",
+    "interests": [
+      "冒险"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 40.80955865646547,
+    "last_login": "2025-12-13",
+    "powers": {
+      "冒险": 0.81
+    }
+  },
+  {
+    "user_id": 5,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "科幻",
+      "喜剧",
+      "剧情"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 75.43523888010232,
+    "last_login": "2025-12-13",
+    "powers": {
+      "科幻": 0.23,
+      "喜剧": 0.12,
+      "剧情": 0.25
+    }
+  },
+  {
+    "user_id": 6,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "剧情",
+      "冒险",
+      "喜剧",
+      "恋爱"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 63.574960305511794,
+    "last_login": "2025-12-09",
+    "powers": {
+      "剧情": 0.69,
+      "冒险": 0.68,
+      "喜剧": 0.4,
+      "恋爱": 0.2
+    }
+  },
+  {
+    "user_id": 7,
+    "city_id": 2,
+    "city_name": "北京",
+    "interests": [
+      "动作",
+      "音乐"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 64.87223820062592,
+    "last_login": "2025-12-11",
+    "powers": {
+      "动作": 0.75,
+      "音乐": 0.21
+    }
+  },
+  {
+    "user_id": 8,
+    "city_id": 2,
+    "city_name": "北京",
+    "interests": [
+      "动作",
+      "剧情",
+      "历史"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 44.13665479030467,
+    "last_login": "2025-12-14",
+    "powers": {
+      "动作": 0.97,
+      "剧情": 0.52,
+      "历史": 0.5
+    }
+  },
+  {
+    "user_id": 9,
+    "city_id": 5,
+    "city_name": "广州",
+    "interests": [
+      "动作",
+      "历史",
+      "音乐",
+      "喜剧"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 47.68130873337832,
+    "last_login": "2025-12-10",
+    "powers": {
+      "动作": 0.97,
+      "历史": 0.69,
+      "音乐": 0.9,
+      "喜剧": 0.19
+    }
+  },
+  {
+    "user_id": 10,
+    "city_id": 5,
+    "city_name": "广州",
+    "interests": [
+      "悬疑"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 70.48018671186179,
+    "last_login": "2025-12-12",
+    "powers": {
+      "悬疑": 0.88
+    }
+  },
+  {
+    "user_id": 11,
+    "city_id": 10,
+    "city_name": "苏州",
+    "interests": [
+      "历史",
+      "喜剧",
+      "动作"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 58.09627508633699,
+    "last_login": "2025-12-08",
+    "powers": {
+      "历史": 0.97,
+      "喜剧": 0.62,
+      "动作": 0.63
+    }
+  },
+  {
+    "user_id": 12,
+    "city_id": 2,
+    "city_name": "北京",
+    "interests": [
+      "恋爱",
+      "历史"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 38.64996880990012,
+    "last_login": "2025-12-12",
+    "powers": {
+      "恋爱": 0.26,
+      "历史": 0.24
+    }
+  },
+  {
+    "user_id": 13,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "科幻",
+      "动作"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 47.51054462682359,
+    "last_login": "2025-12-15",
+    "powers": {
+      "科幻": 0.8,
+      "动作": 0.51
+    }
+  },
+  {
+    "user_id": 14,
+    "city_id": 3,
+    "city_name": "杭州",
+    "interests": [
+      "科幻",
+      "历史",
+      "动作"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 57.97801696230269,
+    "last_login": "2025-12-16",
+    "powers": {
+      "科幻": 0.85,
+      "历史": 0.24,
+      "动作": 0.74
+    }
+  },
+  {
+    "user_id": 15,
+    "city_id": 5,
+    "city_name": "广州",
+    "interests": [
+      "冒险"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 62.135845512580886,
+    "last_login": "2025-12-18",
+    "powers": {
+      "冒险": 0.25
+    }
+  },
+  {
+    "user_id": 16,
+    "city_id": 5,
+    "city_name": "广州",
+    "interests": [
+      "悬疑"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 64.2480314417399,
+    "last_login": "2025-12-10",
+    "powers": {
+      "悬疑": 0.34
+    }
+  },
+  {
+    "user_id": 17,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "剧情"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 82.78861785967023,
+    "last_login": "2025-12-17",
+    "powers": {
+      "剧情": 0.93
+    }
+  },
+  {
+    "user_id": 18,
+    "city_id": 3,
+    "city_name": "杭州",
+    "interests": [
+      "喜剧",
+      "历史",
+      "悬疑",
+      "动作"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 35.69097141130036,
+    "last_login": "2025-12-15",
+    "powers": {
+      "喜剧": 0.19,
+      "历史": 0.15,
+      "悬疑": 0.48,
+      "动作": 0.49
+    }
+  },
+  {
+    "user_id": 19,
+    "city_id": 5,
+    "city_name": "广州",
+    "interests": [
+      "动作",
+      "历史"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 76.494432187697,
+    "last_login": "2025-12-16",
+    "powers": {
+      "动作": 0.96,
+      "历史": 0.62
+    }
+  },
+  {
+    "user_id": 20,
+    "city_id": 2,
+    "city_name": "北京",
+    "interests": [
+      "动作",
+      "冒险",
+      "音乐",
+      "悬疑"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 69.23509644954609,
+    "last_login": "2025-12-17",
+    "powers": {
+      "动作": 0.94,
+      "冒险": 0.14,
+      "音乐": 0.82,
+      "悬疑": 0.83
+    }
+  },
+  {
+    "user_id": 21,
+    "city_id": 3,
+    "city_name": "杭州",
+    "interests": [
+      "历史",
+      "喜剧",
+      "冒险",
+      "悬疑"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 54.955202847185646,
+    "last_login": "2025-12-09",
+    "powers": {
+      "历史": 0.16,
+      "喜剧": 0.79,
+      "冒险": 0.31,
+      "悬疑": 0.42
+    }
+  },
+  {
+    "user_id": 22,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "动作",
+      "音乐"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 71.41476852985116,
+    "last_login": "2025-12-13",
+    "powers": {
+      "动作": 0.87,
+      "音乐": 0.76
+    }
+  },
+  {
+    "user_id": 23,
+    "city_id": 2,
+    "city_name": "北京",
+    "interests": [
+      "科幻",
+      "恋爱"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 68.26026197060398,
+    "last_login": "2025-12-14",
+    "powers": {
+      "科幻": 0.7,
+      "恋爱": 0.36
+    }
+  },
+  {
+    "user_id": 24,
+    "city_id": 3,
+    "city_name": "杭州",
+    "interests": [
+      "悬疑"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 34.55923079435468,
+    "last_login": "2025-12-09",
+    "powers": {
+      "悬疑": 0.41
+    }
+  },
+  {
+    "user_id": 25,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "音乐",
+      "科幻"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 84.21642757411219,
+    "last_login": "2025-12-17",
+    "powers": {
+      "音乐": 0.39,
+      "科幻": 0.6
+    }
+  },
+  {
+    "user_id": 26,
+    "city_id": 5,
+    "city_name": "广州",
+    "interests": [
+      "恋爱"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 48.365818377974804,
+    "last_login": "2025-12-11",
+    "powers": {
+      "恋爱": 0.93
+    }
+  },
+  {
+    "user_id": 27,
+    "city_id": 3,
+    "city_name": "杭州",
+    "interests": [
+      "音乐",
+      "冒险"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 72.33338079342754,
+    "last_login": "2025-12-13",
+    "powers": {
+      "音乐": 0.48,
+      "冒险": 0.1
+    }
+  },
+  {
+    "user_id": 28,
+    "city_id": 8,
+    "city_name": "武汉",
+    "interests": [
+      "恋爱",
+      "动作",
+      "悬疑",
+      "喜剧"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 62.32193983021806,
+    "last_login": "2025-12-13",
+    "powers": {
+      "恋爱": 0.52,
+      "动作": 0.9,
+      "悬疑": 0.66,
+      "喜剧": 0.67
+    }
+  },
+  {
+    "user_id": 29,
+    "city_id": 3,
+    "city_name": "杭州",
+    "interests": [
+      "冒险",
+      "动作"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 79.2033404686211,
+    "last_login": "2025-12-13",
+    "powers": {
+      "冒险": 0.41,
+      "动作": 0.12
+    }
+  },
+  {
+    "user_id": 30,
+    "city_id": 3,
+    "city_name": "杭州",
+    "interests": [
+      "动作"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 51.41309196328775,
+    "last_login": "2025-12-11",
+    "powers": {
+      "动作": 0.75
+    }
+  },
+  {
+    "user_id": 31,
+    "city_id": 3,
+    "city_name": "杭州",
+    "interests": [
+      "剧情",
+      "历史",
+      "科幻",
+      "冒险"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 49.795984948981776,
+    "last_login": "2025-12-09",
+    "powers": {
+      "剧情": 0.21,
+      "历史": 0.73,
+      "科幻": 0.34,
+      "冒险": 0.69
+    }
+  },
+  {
+    "user_id": 32,
+    "city_id": 3,
+    "city_name": "杭州",
+    "interests": [
+      "音乐"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 93.30644679187895,
+    "last_login": "2025-12-17",
+    "powers": {
+      "音乐": 0.18
+    }
+  },
+  {
+    "user_id": 33,
+    "city_id": 7,
+    "city_name": "成都",
+    "interests": [
+      "音乐"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 66.97253001199934,
+    "last_login": "2025-12-14",
+    "powers": {
+      "音乐": 0.22
+    }
+  },
+  {
+    "user_id": 34,
+    "city_id": 3,
+    "city_name": "杭州",
+    "interests": [
+      "历史",
+      "悬疑",
+      "冒险",
+      "科幻"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 45.759270460024695,
+    "last_login": "2025-12-11",
+    "powers": {
+      "历史": 0.14,
+      "悬疑": 0.8,
+      "冒险": 0.16,
+      "科幻": 0.8
+    }
+  },
+  {
+    "user_id": 35,
+    "city_id": 8,
+    "city_name": "武汉",
+    "interests": [
+      "剧情",
+      "动作",
+      "音乐"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 64.42852520063832,
+    "last_login": "2025-12-11",
+    "powers": {
+      "剧情": 0.8,
+      "动作": 0.68,
+      "音乐": 0.16
+    }
+  },
+  {
+    "user_id": 36,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "科幻",
+      "喜剧",
+      "历史"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 86.33332995089934,
+    "last_login": "2025-12-10",
+    "powers": {
+      "科幻": 0.29,
+      "喜剧": 0.91,
+      "历史": 0.5
+    }
+  },
+  {
+    "user_id": 37,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "悬疑",
+      "历史",
+      "恋爱",
+      "音乐"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 74.90436688460484,
+    "last_login": "2025-12-17",
+    "powers": {
+      "悬疑": 0.67,
+      "历史": 0.28,
+      "恋爱": 0.91,
+      "音乐": 0.82
+    }
+  },
+  {
+    "user_id": 38,
+    "city_id": 5,
+    "city_name": "广州",
+    "interests": [
+      "悬疑",
+      "喜剧",
+      "恋爱"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 61.42240840414329,
+    "last_login": "2025-12-15",
+    "powers": {
+      "悬疑": 0.17,
+      "喜剧": 0.24,
+      "恋爱": 0.5
+    }
+  },
+  {
+    "user_id": 39,
+    "city_id": 2,
+    "city_name": "北京",
+    "interests": [
+      "动作"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 91.05688111541694,
+    "last_login": "2025-12-16",
+    "powers": {
+      "动作": 0.69
+    }
+  },
+  {
+    "user_id": 40,
+    "city_id": 3,
+    "city_name": "杭州",
+    "interests": [
+      "剧情",
+      "悬疑",
+      "冒险",
+      "动作"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 44.97810029475262,
+    "last_login": "2025-12-19",
+    "powers": {
+      "剧情": 0.74,
+      "悬疑": 0.96,
+      "冒险": 0.66,
+      "动作": 0.99
+    }
+  },
+  {
+    "user_id": 41,
+    "city_id": 6,
+    "city_name": "上海",
+    "interests": [
+      "悬疑",
+      "恋爱",
+      "音乐",
+      "动作"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 67.00229586201235,
+    "last_login": "2025-12-12",
+    "powers": {
+      "悬疑": 1.0,
+      "恋爱": 0.1,
+      "音乐": 0.4,
+      "动作": 0.42
+    }
+  },
+  {
+    "user_id": 42,
+    "city_id": 2,
+    "city_name": "北京",
+    "interests": [
+      "恋爱",
+      "冒险",
+      "音乐"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 39.17569588483202,
+    "last_login": "2025-12-15",
+    "powers": {
+      "恋爱": 0.14,
+      "冒险": 0.27,
+      "音乐": 0.71
+    }
+  },
+  {
+    "user_id": 43,
+    "city_id": 3,
+    "city_name": "杭州",
+    "interests": [
+      "恋爱",
+      "剧情"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 45.36899703893462,
+    "last_login": "2025-12-16",
+    "powers": {
+      "恋爱": 0.71,
+      "剧情": 0.45
+    }
+  },
+  {
+    "user_id": 44,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "动作",
+      "喜剧",
+      "历史",
+      "音乐"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 71.64421884823831,
+    "last_login": "2025-12-11",
+    "powers": {
+      "动作": 0.23,
+      "喜剧": 0.33,
+      "历史": 0.69,
+      "音乐": 0.85
+    }
+  },
+  {
+    "user_id": 45,
+    "city_id": 2,
+    "city_name": "北京",
+    "interests": [
+      "剧情"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 65.84309892912312,
+    "last_login": "2025-12-11",
+    "powers": {
+      "剧情": 0.14
+    }
+  },
+  {
+    "user_id": 46,
+    "city_id": 6,
+    "city_name": "上海",
+    "interests": [
+      "动作",
+      "音乐"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 64.09531898320864,
+    "last_login": "2025-12-15",
+    "powers": {
+      "动作": 0.93,
+      "音乐": 0.89
+    }
+  },
+  {
+    "user_id": 47,
+    "city_id": 3,
+    "city_name": "杭州",
+    "interests": [
+      "冒险",
+      "音乐",
+      "动作"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 78.86134003383931,
+    "last_login": "2025-12-13",
+    "powers": {
+      "冒险": 0.86,
+      "音乐": 0.18,
+      "动作": 0.16
+    }
+  },
+  {
+    "user_id": 48,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "喜剧",
+      "科幻",
+      "恋爱",
+      "音乐"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 83.34386786765106,
+    "last_login": "2025-12-18",
+    "powers": {
+      "喜剧": 0.3,
+      "科幻": 0.79,
+      "恋爱": 0.6,
+      "音乐": 0.14
+    }
+  },
+  {
+    "user_id": 49,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "音乐"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 75.44640298778252,
+    "last_login": "2025-12-12",
+    "powers": {
+      "音乐": 0.4
+    }
+  },
+  {
+    "user_id": 50,
+    "city_id": 8,
+    "city_name": "武汉",
+    "interests": [
+      "剧情"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 62.47250863820733,
+    "last_login": "2025-12-14",
+    "powers": {
+      "剧情": 0.89
+    }
+  },
+  {
+    "user_id": 51,
+    "city_id": 3,
+    "city_name": "杭州",
+    "interests": [
+      "音乐",
+      "剧情",
+      "动作",
+      "冒险"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 70.93153476089883,
+    "last_login": "2025-12-15",
+    "powers": {
+      "音乐": 0.93,
+      "剧情": 0.36,
+      "动作": 0.39,
+      "冒险": 0.87
+    }
+  },
+  {
+    "user_id": 52,
+    "city_id": 2,
+    "city_name": "北京",
+    "interests": [
+      "历史",
+      "剧情"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 59.2638125376512,
+    "last_login": "2025-12-16",
+    "powers": {
+      "历史": 0.7,
+      "剧情": 0.88
+    }
+  },
+  {
+    "user_id": 53,
+    "city_id": 8,
+    "city_name": "武汉",
+    "interests": [
+      "历史",
+      "动作",
+      "冒险"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 57.630004060043944,
+    "last_login": "2025-12-14",
+    "powers": {
+      "历史": 0.45,
+      "动作": 0.77,
+      "冒险": 0.72
+    }
+  },
+  {
+    "user_id": 54,
+    "city_id": 2,
+    "city_name": "北京",
+    "interests": [
+      "动作"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 66.38241675820791,
+    "last_login": "2025-12-16",
+    "powers": {
+      "动作": 0.21
+    }
+  },
+  {
+    "user_id": 55,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "历史",
+      "喜剧"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 65.7284140919246,
+    "last_login": "2025-12-14",
+    "powers": {
+      "历史": 0.74,
+      "喜剧": 0.97
+    }
+  },
+  {
+    "user_id": 56,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "剧情",
+      "动作"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 79.90527302606259,
+    "last_login": "2025-12-11",
+    "powers": {
+      "剧情": 0.18,
+      "动作": 0.8
+    }
+  },
+  {
+    "user_id": 57,
+    "city_id": 7,
+    "city_name": "成都",
+    "interests": [
+      "喜剧",
+      "冒险"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 51.63945689622714,
+    "last_login": "2025-12-14",
+    "powers": {
+      "喜剧": 0.15,
+      "冒险": 0.84
+    }
+  },
+  {
+    "user_id": 58,
+    "city_id": 2,
+    "city_name": "北京",
+    "interests": [
+      "动作",
+      "音乐",
+      "冒险",
+      "悬疑"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 39.309330369064895,
+    "last_login": "2025-12-09",
+    "powers": {
+      "动作": 0.86,
+      "音乐": 0.96,
+      "冒险": 0.21,
+      "悬疑": 0.79
+    }
+  },
+  {
+    "user_id": 59,
+    "city_id": 2,
+    "city_name": "北京",
+    "interests": [
+      "科幻",
+      "悬疑"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 61.72786339454504,
+    "last_login": "2025-12-16",
+    "powers": {
+      "科幻": 0.42,
+      "悬疑": 0.81
+    }
+  },
+  {
+    "user_id": 60,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "剧情",
+      "悬疑"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 88.51654961197845,
+    "last_login": "2025-12-20",
+    "powers": {
+      "剧情": 0.34,
+      "悬疑": 0.99
+    }
+  },
+  {
+    "user_id": 61,
+    "city_id": 3,
+    "city_name": "杭州",
+    "interests": [
+      "悬疑"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 64.66735435354117,
+    "last_login": "2025-12-13",
+    "powers": {
+      "悬疑": 0.34
+    }
+  },
+  {
+    "user_id": 62,
+    "city_id": 2,
+    "city_name": "北京",
+    "interests": [
+      "历史"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 67.66566874282898,
+    "last_login": "2025-12-15",
+    "powers": {
+      "历史": 0.9
+    }
+  },
+  {
+    "user_id": 63,
+    "city_id": 2,
+    "city_name": "北京",
+    "interests": [
+      "剧情"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 56.33343291975642,
+    "last_login": "2025-12-15",
+    "powers": {
+      "剧情": 0.34
+    }
+  },
+  {
+    "user_id": 64,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "悬疑",
+      "冒险"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 80.25833873472868,
+    "last_login": "2025-12-09",
+    "powers": {
+      "悬疑": 0.34,
+      "冒险": 0.78
+    }
+  },
+  {
+    "user_id": 65,
+    "city_id": 6,
+    "city_name": "上海",
+    "interests": [
+      "恋爱",
+      "动作",
+      "历史",
+      "喜剧"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 50.180849621780446,
+    "last_login": "2025-12-21",
+    "powers": {
+      "恋爱": 0.1,
+      "动作": 0.16,
+      "历史": 0.68,
+      "喜剧": 0.21
+    }
+  },
+  {
+    "user_id": 66,
+    "city_id": 5,
+    "city_name": "广州",
+    "interests": [
+      "冒险",
+      "喜剧",
+      "悬疑"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 48.13897994164537,
+    "last_login": "2025-12-13",
+    "powers": {
+      "冒险": 0.17,
+      "喜剧": 0.74,
+      "悬疑": 0.86
+    }
+  },
+  {
+    "user_id": 67,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "恋爱",
+      "悬疑",
+      "喜剧"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 35.99804532408722,
+    "last_login": "2025-12-18",
+    "powers": {
+      "恋爱": 0.98,
+      "悬疑": 0.48,
+      "喜剧": 0.79
+    }
+  },
+  {
+    "user_id": 68,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "动作",
+      "历史",
+      "科幻",
+      "剧情"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 84.84888713214161,
+    "last_login": "2025-12-14",
+    "powers": {
+      "动作": 0.55,
+      "历史": 0.69,
+      "科幻": 0.97,
+      "剧情": 0.68
+    }
+  },
+  {
+    "user_id": 69,
+    "city_id": 5,
+    "city_name": "广州",
+    "interests": [
+      "喜剧",
+      "恋爱",
+      "科幻",
+      "音乐"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 79.36387393953126,
+    "last_login": "2025-12-10",
+    "powers": {
+      "喜剧": 0.44,
+      "恋爱": 0.46,
+      "科幻": 0.37,
+      "音乐": 0.83
+    }
+  },
+  {
+    "user_id": 70,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "喜剧",
+      "音乐",
+      "历史"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 83.70174177762327,
+    "last_login": "2025-12-12",
+    "powers": {
+      "喜剧": 0.86,
+      "音乐": 0.13,
+      "历史": 0.11
+    }
+  },
+  {
+    "user_id": 71,
+    "city_id": 5,
+    "city_name": "广州",
+    "interests": [
+      "历史",
+      "科幻",
+      "剧情",
+      "悬疑"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 80.01415462942303,
+    "last_login": "2025-12-14",
+    "powers": {
+      "历史": 0.99,
+      "科幻": 0.18,
+      "剧情": 0.83,
+      "悬疑": 0.32
+    }
+  },
+  {
+    "user_id": 72,
+    "city_id": 5,
+    "city_name": "广州",
+    "interests": [
+      "悬疑",
+      "恋爱",
+      "冒险",
+      "科幻"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 68.4189544514991,
+    "last_login": "2025-12-16",
+    "powers": {
+      "悬疑": 0.62,
+      "恋爱": 0.61,
+      "冒险": 0.42,
+      "科幻": 0.61
+    }
+  },
+  {
+    "user_id": 73,
+    "city_id": 10,
+    "city_name": "苏州",
+    "interests": [
+      "剧情"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 43.47895385489197,
+    "last_login": "2025-12-12",
+    "powers": {
+      "剧情": 0.61
+    }
+  },
+  {
+    "user_id": 74,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "恋爱"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 90.24734644639807,
+    "last_login": "2025-12-15",
+    "powers": {
+      "恋爱": 0.16
+    }
+  },
+  {
+    "user_id": 75,
+    "city_id": 2,
+    "city_name": "北京",
+    "interests": [
+      "音乐"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 36.341003136704174,
+    "last_login": "2025-12-14",
+    "powers": {
+      "音乐": 0.14
+    }
+  },
+  {
+    "user_id": 76,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "悬疑",
+      "历史",
+      "剧情"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 81.89256710027644,
+    "last_login": "2025-12-16",
+    "powers": {
+      "悬疑": 0.16,
+      "历史": 0.98,
+      "剧情": 0.96
+    }
+  },
+  {
+    "user_id": 77,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "恋爱"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 56.41291025806919,
+    "last_login": "2025-12-14",
+    "powers": {
+      "恋爱": 0.77
+    }
+  },
+  {
+    "user_id": 78,
+    "city_id": 2,
+    "city_name": "北京",
+    "interests": [
+      "悬疑"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 44.61389347211686,
+    "last_login": "2025-12-19",
+    "powers": {
+      "悬疑": 0.74
+    }
+  },
+  {
+    "user_id": 79,
+    "city_id": 10,
+    "city_name": "苏州",
+    "interests": [
+      "冒险",
+      "动作",
+      "悬疑"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 73.76053138122074,
+    "last_login": "2025-12-13",
+    "powers": {
+      "冒险": 0.38,
+      "动作": 0.38,
+      "悬疑": 0.67
+    }
+  },
+  {
+    "user_id": 80,
+    "city_id": 11,
+    "city_name": "重庆",
+    "interests": [
+      "音乐"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 61.53761944808439,
+    "last_login": "2025-12-12",
+    "powers": {
+      "音乐": 0.64
+    }
+  },
+  {
+    "user_id": 81,
+    "city_id": 2,
+    "city_name": "北京",
+    "interests": [
+      "动作",
+      "悬疑"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 43.49100078189471,
+    "last_login": "2025-12-20",
+    "powers": {
+      "动作": 0.57,
+      "悬疑": 0.21
+    }
+  },
+  {
+    "user_id": 82,
+    "city_id": 2,
+    "city_name": "北京",
+    "interests": [
+      "剧情",
+      "恋爱",
+      "冒险",
+      "动作"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 78.56587506270728,
+    "last_login": "2025-12-09",
+    "powers": {
+      "剧情": 0.86,
+      "恋爱": 0.99,
+      "冒险": 0.25,
+      "动作": 0.75
+    }
+  },
+  {
+    "user_id": 83,
+    "city_id": 3,
+    "city_name": "杭州",
+    "interests": [
+      "动作",
+      "冒险",
+      "科幻",
+      "剧情"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 76.35108639508655,
+    "last_login": "2025-12-14",
+    "powers": {
+      "动作": 0.96,
+      "冒险": 0.82,
+      "科幻": 0.21,
+      "剧情": 0.86
+    }
+  },
+  {
+    "user_id": 84,
+    "city_id": 3,
+    "city_name": "杭州",
+    "interests": [
+      "悬疑",
+      "剧情",
+      "历史",
+      "动作"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 54.48530190634842,
+    "last_login": "2025-12-09",
+    "powers": {
+      "悬疑": 0.55,
+      "剧情": 0.96,
+      "历史": 0.73,
+      "动作": 0.41
+    }
+  },
+  {
+    "user_id": 85,
+    "city_id": 4,
+    "city_name": "西安",
+    "interests": [
+      "剧情",
+      "历史",
+      "恋爱"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 63.36200762750832,
+    "last_login": "2025-12-14",
+    "powers": {
+      "剧情": 0.91,
+      "历史": 0.37,
+      "恋爱": 0.3
+    }
+  },
+  {
+    "user_id": 86,
+    "city_id": 3,
+    "city_name": "杭州",
+    "interests": [
+      "音乐"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 57.90736870276582,
+    "last_login": "2025-12-10",
+    "powers": {
+      "音乐": 0.62
+    }
+  },
+  {
+    "user_id": 87,
+    "city_id": 5,
+    "city_name": "广州",
+    "interests": [
+      "音乐",
+      "动作",
+      "剧情"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 60.66222003466035,
+    "last_login": "2025-12-15",
+    "powers": {
+      "音乐": 0.47,
+      "动作": 0.64,
+      "剧情": 0.5
+    }
+  },
+  {
+    "user_id": 88,
+    "city_id": 2,
+    "city_name": "北京",
+    "interests": [
+      "音乐",
+      "历史",
+      "冒险"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 47.50434901504703,
+    "last_login": "2025-12-16",
+    "powers": {
+      "音乐": 0.17,
+      "历史": 0.81,
+      "冒险": 0.31
+    }
+  },
+  {
+    "user_id": 89,
+    "city_id": 2,
+    "city_name": "北京",
+    "interests": [
+      "动作",
+      "音乐"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 64.20623376627616,
+    "last_login": "2025-12-18",
+    "powers": {
+      "动作": 0.26,
+      "音乐": 0.43
+    }
+  },
+  {
+    "user_id": 90,
+    "city_id": 3,
+    "city_name": "杭州",
+    "interests": [
+      "悬疑"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 38.96449712823864,
+    "last_login": "2025-12-13",
+    "powers": {
+      "悬疑": 0.46
+    }
+  },
+  {
+    "user_id": 91,
+    "city_id": 6,
+    "city_name": "上海",
+    "interests": [
+      "剧情",
+      "喜剧",
+      "动作",
+      "科幻"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 52.54540942374457,
+    "last_login": "2025-12-11",
+    "powers": {
+      "剧情": 0.57,
+      "喜剧": 0.85,
+      "动作": 0.12,
+      "科幻": 0.86
+    }
+  },
+  {
+    "user_id": 92,
+    "city_id": 5,
+    "city_name": "广州",
+    "interests": [
+      "冒险"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 48.65843683555908,
+    "last_login": "2025-12-15",
+    "powers": {
+      "冒险": 0.42
+    }
+  },
+  {
+    "user_id": 93,
+    "city_id": 2,
+    "city_name": "北京",
+    "interests": [
+      "科幻",
+      "喜剧",
+      "剧情",
+      "动作"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 57.33856389963356,
+    "last_login": "2025-12-10",
+    "powers": {
+      "科幻": 0.98,
+      "喜剧": 0.7,
+      "剧情": 0.61,
+      "动作": 0.29
+    }
+  },
+  {
+    "user_id": 94,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "动作"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 59.17146648848052,
+    "last_login": "2025-12-08",
+    "powers": {
+      "动作": 0.79
+    }
+  },
+  {
+    "user_id": 95,
+    "city_id": 9,
+    "city_name": "南京",
+    "interests": [
+      "喜剧",
+      "恋爱"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 51.58920621090243,
+    "last_login": "2025-12-09",
+    "powers": {
+      "喜剧": 0.21,
+      "恋爱": 0.39
+    }
+  },
+  {
+    "user_id": 96,
+    "city_id": 3,
+    "city_name": "杭州",
+    "interests": [
+      "动作",
+      "音乐",
+      "科幻",
+      "剧情"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 51.127278863375885,
+    "last_login": "2025-12-15",
+    "powers": {
+      "动作": 0.78,
+      "音乐": 0.31,
+      "科幻": 0.25,
+      "剧情": 0.53
+    }
+  },
+  {
+    "user_id": 97,
+    "city_id": 3,
+    "city_name": "杭州",
+    "interests": [
+      "恋爱"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 47.735784272648964,
+    "last_login": "2025-12-12",
+    "powers": {
+      "恋爱": 0.56
+    }
+  },
+  {
+    "user_id": 98,
+    "city_id": 6,
+    "city_name": "上海",
+    "interests": [
+      "剧情"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 68.30747606301836,
+    "last_login": "2025-12-07",
+    "powers": {
+      "剧情": 0.56
+    }
+  },
+  {
+    "user_id": 99,
+    "city_id": 2,
+    "city_name": "北京",
+    "interests": [
+      "音乐"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 34.60531532940849,
+    "last_login": "2025-12-16",
+    "powers": {
+      "音乐": 0.42
+    }
+  },
+  {
+    "user_id": 100,
+    "city_id": 3,
+    "city_name": "杭州",
+    "interests": [
+      "悬疑"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 47.797057957897,
+    "last_login": "2025-12-12",
+    "powers": {
+      "悬疑": 0.59
+    }
+  },
+  {
+    "user_id": 101,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "历史",
+      "科幻",
+      "恋爱",
+      "音乐"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 76.31188585388061,
+    "last_login": "2025-12-14",
+    "powers": {
+      "历史": 0.4,
+      "科幻": 0.84,
+      "恋爱": 0.51,
+      "音乐": 0.3
+    }
+  },
+  {
+    "user_id": 102,
+    "city_id": 3,
+    "city_name": "杭州",
+    "interests": [
+      "恋爱",
+      "科幻",
+      "音乐",
+      "剧情"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 73.23853192685694,
+    "last_login": "2025-12-13",
+    "powers": {
+      "恋爱": 0.75,
+      "科幻": 0.24,
+      "音乐": 0.77,
+      "剧情": 0.41
+    }
+  },
+  {
+    "user_id": 103,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "悬疑"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 58.6061213541405,
+    "last_login": "2025-12-13",
+    "powers": {
+      "悬疑": 0.22
+    }
+  },
+  {
+    "user_id": 104,
+    "city_id": 5,
+    "city_name": "广州",
+    "interests": [
+      "音乐",
+      "动作",
+      "恋爱"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 45.558006962107136,
+    "last_login": "2025-12-16",
+    "powers": {
+      "音乐": 0.66,
+      "动作": 0.99,
+      "恋爱": 0.25
+    }
+  },
+  {
+    "user_id": 105,
+    "city_id": 10,
+    "city_name": "苏州",
+    "interests": [
+      "喜剧",
+      "剧情",
+      "悬疑",
+      "历史"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 82.2692417155114,
+    "last_login": "2025-12-11",
+    "powers": {
+      "喜剧": 0.97,
+      "剧情": 0.4,
+      "悬疑": 0.31,
+      "历史": 0.69
+    }
+  },
+  {
+    "user_id": 106,
+    "city_id": 3,
+    "city_name": "杭州",
+    "interests": [
+      "恋爱",
+      "剧情"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 53.88522028434661,
+    "last_login": "2025-12-16",
+    "powers": {
+      "恋爱": 0.29,
+      "剧情": 0.3
+    }
+  },
+  {
+    "user_id": 107,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "音乐",
+      "科幻",
+      "恋爱"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 52.573475640899474,
+    "last_login": "2025-12-11",
+    "powers": {
+      "音乐": 0.43,
+      "科幻": 0.36,
+      "恋爱": 0.18
+    }
+  },
+  {
+    "user_id": 108,
+    "city_id": 3,
+    "city_name": "杭州",
+    "interests": [
+      "喜剧",
+      "音乐",
+      "科幻",
+      "剧情"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 37.73985017869927,
+    "last_login": "2025-12-13",
+    "powers": {
+      "喜剧": 0.46,
+      "音乐": 0.34,
+      "科幻": 0.33,
+      "剧情": 0.36
+    }
+  },
+  {
+    "user_id": 109,
+    "city_id": 2,
+    "city_name": "北京",
+    "interests": [
+      "冒险"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 72.965438166127,
+    "last_login": "2025-12-18",
+    "powers": {
+      "冒险": 0.69
+    }
+  },
+  {
+    "user_id": 110,
+    "city_id": 8,
+    "city_name": "武汉",
+    "interests": [
+      "历史",
+      "剧情",
+      "科幻",
+      "悬疑"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 41.49791761341224,
+    "last_login": "2025-12-09",
+    "powers": {
+      "历史": 0.89,
+      "剧情": 0.59,
+      "科幻": 0.79,
+      "悬疑": 0.18
+    }
+  },
+  {
+    "user_id": 111,
+    "city_id": 5,
+    "city_name": "广州",
+    "interests": [
+      "悬疑",
+      "剧情",
+      "历史",
+      "冒险"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 69.89088695746649,
+    "last_login": "2025-12-21",
+    "powers": {
+      "悬疑": 0.45,
+      "剧情": 0.7,
+      "历史": 0.97,
+      "冒险": 0.73
+    }
+  },
+  {
+    "user_id": 112,
+    "city_id": 5,
+    "city_name": "广州",
+    "interests": [
+      "喜剧",
+      "历史",
+      "冒险"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 43.82460237851271,
+    "last_login": "2025-12-16",
+    "powers": {
+      "喜剧": 0.51,
+      "历史": 0.46,
+      "冒险": 0.84
+    }
+  },
+  {
+    "user_id": 113,
+    "city_id": 6,
+    "city_name": "上海",
+    "interests": [
+      "喜剧",
+      "动作"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 36.72052914837526,
+    "last_login": "2025-12-13",
+    "powers": {
+      "喜剧": 0.63,
+      "动作": 0.9
+    }
+  },
+  {
+    "user_id": 114,
+    "city_id": 5,
+    "city_name": "广州",
+    "interests": [
+      "冒险"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 47.679454225841766,
+    "last_login": "2025-12-12",
+    "powers": {
+      "冒险": 0.93
+    }
+  },
+  {
+    "user_id": 115,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "恋爱",
+      "剧情"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 61.92699690064003,
+    "last_login": "2025-12-14",
+    "powers": {
+      "恋爱": 0.37,
+      "剧情": 0.21
+    }
+  },
+  {
+    "user_id": 116,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "科幻"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 59.08373217947066,
+    "last_login": "2025-12-12",
+    "powers": {
+      "科幻": 0.61
+    }
+  },
+  {
+    "user_id": 117,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "悬疑",
+      "剧情"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 91.35109642005526,
+    "last_login": "2025-12-17",
+    "powers": {
+      "悬疑": 0.28,
+      "剧情": 0.32
+    }
+  },
+  {
+    "user_id": 118,
+    "city_id": 5,
+    "city_name": "广州",
+    "interests": [
+      "历史",
+      "悬疑",
+      "喜剧"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 42.32478397198262,
+    "last_login": "2025-12-10",
+    "powers": {
+      "历史": 0.36,
+      "悬疑": 0.12,
+      "喜剧": 0.77
+    }
+  },
+  {
+    "user_id": 119,
+    "city_id": 2,
+    "city_name": "北京",
+    "interests": [
+      "悬疑",
+      "喜剧",
+      "科幻",
+      "恋爱"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 69.99179714799278,
+    "last_login": "2025-12-12",
+    "powers": {
+      "悬疑": 0.82,
+      "喜剧": 0.83,
+      "科幻": 0.53,
+      "恋爱": 0.45
+    }
+  },
+  {
+    "user_id": 120,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "剧情"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 67.4408422254937,
+    "last_login": "2025-12-16",
+    "powers": {
+      "剧情": 0.91
+    }
+  },
+  {
+    "user_id": 121,
+    "city_id": 5,
+    "city_name": "广州",
+    "interests": [
+      "动作",
+      "悬疑",
+      "历史",
+      "喜剧"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 41.55829476235202,
+    "last_login": "2025-12-15",
+    "powers": {
+      "动作": 0.11,
+      "悬疑": 0.74,
+      "历史": 0.73,
+      "喜剧": 0.72
+    }
+  },
+  {
+    "user_id": 122,
+    "city_id": 5,
+    "city_name": "广州",
+    "interests": [
+      "历史",
+      "冒险",
+      "喜剧",
+      "音乐"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 38.77689246214493,
+    "last_login": "2025-12-18",
+    "powers": {
+      "历史": 0.42,
+      "冒险": 0.6,
+      "喜剧": 0.72,
+      "音乐": 0.7
+    }
+  },
+  {
+    "user_id": 123,
+    "city_id": 2,
+    "city_name": "北京",
+    "interests": [
+      "冒险",
+      "喜剧",
+      "音乐"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 70.78941111756411,
+    "last_login": "2025-12-15",
+    "powers": {
+      "冒险": 0.16,
+      "喜剧": 0.38,
+      "音乐": 0.36
+    }
+  },
+  {
+    "user_id": 124,
+    "city_id": 11,
+    "city_name": "重庆",
+    "interests": [
+      "悬疑",
+      "冒险",
+      "音乐"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 60.80283602902878,
+    "last_login": "2025-12-17",
+    "powers": {
+      "悬疑": 0.87,
+      "冒险": 0.46,
+      "音乐": 0.44
+    }
+  },
+  {
+    "user_id": 125,
+    "city_id": 3,
+    "city_name": "杭州",
+    "interests": [
+      "历史"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 29.904450171255107,
+    "last_login": "2025-12-16",
+    "powers": {
+      "历史": 0.8
+    }
+  },
+  {
+    "user_id": 126,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "剧情",
+      "历史",
+      "科幻"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 65.91654056678692,
+    "last_login": "2025-12-15",
+    "powers": {
+      "剧情": 0.21,
+      "历史": 0.4,
+      "科幻": 0.31
+    }
+  },
+  {
+    "user_id": 127,
+    "city_id": 11,
+    "city_name": "重庆",
+    "interests": [
+      "悬疑",
+      "喜剧"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 85.73623015634726,
+    "last_login": "2025-12-11",
+    "powers": {
+      "悬疑": 0.66,
+      "喜剧": 0.52
+    }
+  },
+  {
+    "user_id": 128,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "悬疑",
+      "历史",
+      "剧情",
+      "动作"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 68.31293444170987,
+    "last_login": "2025-12-08",
+    "powers": {
+      "悬疑": 0.61,
+      "历史": 0.15,
+      "剧情": 0.43,
+      "动作": 0.25
+    }
+  },
+  {
+    "user_id": 129,
+    "city_id": 3,
+    "city_name": "杭州",
+    "interests": [
+      "喜剧",
+      "历史"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 59.40616522192759,
+    "last_login": "2025-12-12",
+    "powers": {
+      "喜剧": 0.67,
+      "历史": 0.41
+    }
+  },
+  {
+    "user_id": 130,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "动作",
+      "悬疑",
+      "喜剧"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 71.47150005593464,
+    "last_login": "2025-12-14",
+    "powers": {
+      "动作": 0.83,
+      "悬疑": 0.73,
+      "喜剧": 0.75
+    }
+  },
+  {
+    "user_id": 131,
+    "city_id": 5,
+    "city_name": "广州",
+    "interests": [
+      "动作"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 67.19595004326708,
+    "last_login": "2025-12-07",
+    "powers": {
+      "动作": 0.78
+    }
+  },
+  {
+    "user_id": 132,
+    "city_id": 5,
+    "city_name": "广州",
+    "interests": [
+      "恋爱",
+      "悬疑",
+      "动作"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 36.49052879592956,
+    "last_login": "2025-12-17",
+    "powers": {
+      "恋爱": 0.82,
+      "悬疑": 0.25,
+      "动作": 0.6
+    }
+  },
+  {
+    "user_id": 133,
+    "city_id": 5,
+    "city_name": "广州",
+    "interests": [
+      "冒险",
+      "科幻",
+      "音乐"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 46.633312448758176,
+    "last_login": "2025-12-12",
+    "powers": {
+      "冒险": 0.47,
+      "科幻": 0.48,
+      "音乐": 0.2
+    }
+  },
+  {
+    "user_id": 134,
+    "city_id": 2,
+    "city_name": "北京",
+    "interests": [
+      "历史",
+      "喜剧"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 30.465529596941472,
+    "last_login": "2025-12-15",
+    "powers": {
+      "历史": 0.16,
+      "喜剧": 0.12
+    }
+  },
+  {
+    "user_id": 135,
+    "city_id": 2,
+    "city_name": "北京",
+    "interests": [
+      "动作",
+      "喜剧",
+      "悬疑"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 43.44927405498214,
+    "last_login": "2025-12-14",
+    "powers": {
+      "动作": 0.2,
+      "喜剧": 0.44,
+      "悬疑": 0.96
+    }
+  },
+  {
+    "user_id": 136,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "悬疑",
+      "喜剧",
+      "历史",
+      "音乐"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 44.78965082069619,
+    "last_login": "2025-12-14",
+    "powers": {
+      "悬疑": 0.31,
+      "喜剧": 0.2,
+      "历史": 0.33,
+      "音乐": 0.57
+    }
+  },
+  {
+    "user_id": 137,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "音乐",
+      "科幻"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 35.262905250108126,
+    "last_login": "2025-12-13",
+    "powers": {
+      "音乐": 0.55,
+      "科幻": 0.6
+    }
+  },
+  {
+    "user_id": 138,
+    "city_id": 5,
+    "city_name": "广州",
+    "interests": [
+      "历史",
+      "冒险"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 46.883496887887844,
+    "last_login": "2025-12-11",
+    "powers": {
+      "历史": 0.51,
+      "冒险": 0.41
+    }
+  },
+  {
+    "user_id": 139,
+    "city_id": 3,
+    "city_name": "杭州",
+    "interests": [
+      "动作",
+      "喜剧",
+      "历史"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 69.66555429359592,
+    "last_login": "2025-12-12",
+    "powers": {
+      "动作": 0.58,
+      "喜剧": 0.36,
+      "历史": 0.25
+    }
+  },
+  {
+    "user_id": 140,
+    "city_id": 11,
+    "city_name": "重庆",
+    "interests": [
+      "喜剧",
+      "音乐",
+      "恋爱",
+      "科幻"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 47.66093960564939,
+    "last_login": "2025-12-14",
+    "powers": {
+      "喜剧": 0.71,
+      "音乐": 0.6,
+      "恋爱": 0.94,
+      "科幻": 0.91
+    }
+  },
+  {
+    "user_id": 141,
+    "city_id": 5,
+    "city_name": "广州",
+    "interests": [
+      "冒险",
+      "科幻",
+      "悬疑"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 74.86456775496494,
+    "last_login": "2025-12-11",
+    "powers": {
+      "冒险": 0.85,
+      "科幻": 0.23,
+      "悬疑": 0.99
+    }
+  },
+  {
+    "user_id": 142,
+    "city_id": 2,
+    "city_name": "北京",
+    "interests": [
+      "历史",
+      "音乐",
+      "科幻",
+      "恋爱"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 62.236044654241915,
+    "last_login": "2025-12-15",
+    "powers": {
+      "历史": 0.77,
+      "音乐": 0.33,
+      "科幻": 0.2,
+      "恋爱": 0.51
+    }
+  },
+  {
+    "user_id": 143,
+    "city_id": 3,
+    "city_name": "杭州",
+    "interests": [
+      "音乐",
+      "悬疑"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 62.662464599128995,
+    "last_login": "2025-12-14",
+    "powers": {
+      "音乐": 0.28,
+      "悬疑": 0.71
+    }
+  },
+  {
+    "user_id": 144,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "冒险",
+      "喜剧",
+      "恋爱"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 92.85436911741387,
+    "last_login": "2025-12-11",
+    "powers": {
+      "冒险": 0.13,
+      "喜剧": 0.93,
+      "恋爱": 0.41
+    }
+  },
+  {
+    "user_id": 145,
+    "city_id": 8,
+    "city_name": "武汉",
+    "interests": [
+      "动作",
+      "历史",
+      "科幻",
+      "喜剧"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 76.25599797048015,
+    "last_login": "2025-12-20",
+    "powers": {
+      "动作": 0.7,
+      "历史": 0.63,
+      "科幻": 0.87,
+      "喜剧": 0.15
+    }
+  },
+  {
+    "user_id": 146,
+    "city_id": 5,
+    "city_name": "广州",
+    "interests": [
+      "悬疑",
+      "科幻",
+      "历史"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 49.71135904473264,
+    "last_login": "2025-12-16",
+    "powers": {
+      "悬疑": 0.11,
+      "科幻": 0.48,
+      "历史": 0.8
+    }
+  },
+  {
+    "user_id": 147,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "悬疑",
+      "剧情"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 66.62044335745044,
+    "last_login": "2025-12-16",
+    "powers": {
+      "悬疑": 0.65,
+      "剧情": 0.73
+    }
+  },
+  {
+    "user_id": 148,
+    "city_id": 3,
+    "city_name": "杭州",
+    "interests": [
+      "悬疑",
+      "音乐",
+      "科幻",
+      "恋爱"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 48.146271872116046,
+    "last_login": "2025-12-12",
+    "powers": {
+      "悬疑": 0.33,
+      "音乐": 0.85,
+      "科幻": 0.37,
+      "恋爱": 0.11
+    }
+  },
+  {
+    "user_id": 149,
+    "city_id": 4,
+    "city_name": "西安",
+    "interests": [
+      "喜剧",
+      "历史",
+      "冒险"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 57.571344036652285,
+    "last_login": "2025-11-30",
+    "powers": {
+      "喜剧": 0.34,
+      "历史": 0.51,
+      "冒险": 0.4
+    }
+  },
+  {
+    "user_id": 150,
+    "city_id": 2,
+    "city_name": "北京",
+    "interests": [
+      "悬疑",
+      "剧情"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 91.33075929672478,
+    "last_login": "2025-12-14",
+    "powers": {
+      "悬疑": 0.28,
+      "剧情": 0.56
+    }
+  },
+  {
+    "user_id": 151,
+    "city_id": 2,
+    "city_name": "北京",
+    "interests": [
+      "恋爱",
+      "动作"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 73.52563927331651,
+    "last_login": "2025-12-14",
+    "powers": {
+      "恋爱": 0.57,
+      "动作": 0.63
+    }
+  },
+  {
+    "user_id": 152,
+    "city_id": 3,
+    "city_name": "杭州",
+    "interests": [
+      "剧情"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 67.55993634439224,
+    "last_login": "2025-12-16",
+    "powers": {
+      "剧情": 0.85
+    }
+  },
+  {
+    "user_id": 153,
+    "city_id": 2,
+    "city_name": "北京",
+    "interests": [
+      "喜剧",
+      "悬疑",
+      "音乐"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 13.12049649073527,
+    "last_login": "2025-12-10",
+    "powers": {
+      "喜剧": 0.16,
+      "悬疑": 0.74,
+      "音乐": 0.19
+    }
+  },
+  {
+    "user_id": 154,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "冒险",
+      "恋爱"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 59.476269976167366,
+    "last_login": "2025-12-19",
+    "powers": {
+      "冒险": 0.92,
+      "恋爱": 0.97
+    }
+  },
+  {
+    "user_id": 155,
+    "city_id": 6,
+    "city_name": "上海",
+    "interests": [
+      "悬疑",
+      "动作",
+      "恋爱"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 56.160651886937025,
+    "last_login": "2025-12-15",
+    "powers": {
+      "悬疑": 0.91,
+      "动作": 0.11,
+      "恋爱": 0.22
+    }
+  },
+  {
+    "user_id": 156,
+    "city_id": 2,
+    "city_name": "北京",
+    "interests": [
+      "冒险",
+      "动作"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 65.66359736597042,
+    "last_login": "2025-12-09",
+    "powers": {
+      "冒险": 0.48,
+      "动作": 0.5
+    }
+  },
+  {
+    "user_id": 157,
+    "city_id": 3,
+    "city_name": "杭州",
+    "interests": [
+      "喜剧",
+      "剧情",
+      "动作"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 53.17646791040575,
+    "last_login": "2025-12-14",
+    "powers": {
+      "喜剧": 0.6,
+      "剧情": 0.89,
+      "动作": 0.2
+    }
+  },
+  {
+    "user_id": 158,
+    "city_id": 3,
+    "city_name": "杭州",
+    "interests": [
+      "音乐",
+      "喜剧",
+      "历史"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 51.787825753781924,
+    "last_login": "2025-12-10",
+    "powers": {
+      "音乐": 0.35,
+      "喜剧": 0.32,
+      "历史": 0.99
+    }
+  },
+  {
+    "user_id": 159,
+    "city_id": 8,
+    "city_name": "武汉",
+    "interests": [
+      "科幻",
+      "悬疑",
+      "动作",
+      "音乐"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 76.86084868205681,
+    "last_login": "2025-12-14",
+    "powers": {
+      "科幻": 0.59,
+      "悬疑": 0.12,
+      "动作": 0.84,
+      "音乐": 0.49
+    }
+  },
+  {
+    "user_id": 160,
+    "city_id": 5,
+    "city_name": "广州",
+    "interests": [
+      "音乐"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 68.33669813259239,
+    "last_login": "2025-12-16",
+    "powers": {
+      "音乐": 0.87
+    }
+  },
+  {
+    "user_id": 161,
+    "city_id": 8,
+    "city_name": "武汉",
+    "interests": [
+      "科幻"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 31.210639295742453,
+    "last_login": "2025-12-15",
+    "powers": {
+      "科幻": 0.32
+    }
+  },
+  {
+    "user_id": 162,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "科幻"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 58.52919593381357,
+    "last_login": "2025-12-16",
+    "powers": {
+      "科幻": 0.66
+    }
+  },
+  {
+    "user_id": 163,
+    "city_id": 2,
+    "city_name": "北京",
+    "interests": [
+      "悬疑"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 59.03957004496409,
+    "last_login": "2025-12-18",
+    "powers": {
+      "悬疑": 0.75
+    }
+  },
+  {
+    "user_id": 164,
+    "city_id": 2,
+    "city_name": "北京",
+    "interests": [
+      "历史"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 68.38593152896485,
+    "last_login": "2025-12-14",
+    "powers": {
+      "历史": 0.49
+    }
+  },
+  {
+    "user_id": 165,
+    "city_id": 5,
+    "city_name": "广州",
+    "interests": [
+      "冒险",
+      "动作"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 59.08037828160019,
+    "last_login": "2025-12-19",
+    "powers": {
+      "冒险": 0.28,
+      "动作": 0.89
+    }
+  },
+  {
+    "user_id": 166,
+    "city_id": 2,
+    "city_name": "北京",
+    "interests": [
+      "剧情",
+      "动作",
+      "恋爱"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 70.6712000010453,
+    "last_login": "2025-12-11",
+    "powers": {
+      "剧情": 0.77,
+      "动作": 0.86,
+      "恋爱": 0.63
+    }
+  },
+  {
+    "user_id": 167,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "剧情"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 72.12248333399074,
+    "last_login": "2025-12-16",
+    "powers": {
+      "剧情": 0.17
+    }
+  },
+  {
+    "user_id": 168,
+    "city_id": 9,
+    "city_name": "南京",
+    "interests": [
+      "动作"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 49.75719833263847,
+    "last_login": "2025-12-11",
+    "powers": {
+      "动作": 0.4
+    }
+  },
+  {
+    "user_id": 169,
+    "city_id": 12,
+    "city_name": "天津",
+    "interests": [
+      "悬疑",
+      "冒险",
+      "历史"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 55.07799175170123,
+    "last_login": "2025-12-19",
+    "powers": {
+      "悬疑": 0.72,
+      "冒险": 0.84,
+      "历史": 0.81
+    }
+  },
+  {
+    "user_id": 170,
+    "city_id": 3,
+    "city_name": "杭州",
+    "interests": [
+      "悬疑"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 54.17520859621768,
+    "last_login": "2025-12-13",
+    "powers": {
+      "悬疑": 0.47
+    }
+  },
+  {
+    "user_id": 171,
+    "city_id": 5,
+    "city_name": "广州",
+    "interests": [
+      "悬疑",
+      "恋爱",
+      "科幻"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 59.937403494618735,
+    "last_login": "2025-12-16",
+    "powers": {
+      "悬疑": 0.9,
+      "恋爱": 0.15,
+      "科幻": 0.12
+    }
+  },
+  {
+    "user_id": 172,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "历史",
+      "科幻"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 67.16065337380607,
+    "last_login": "2025-12-19",
+    "powers": {
+      "历史": 0.47,
+      "科幻": 0.1
+    }
+  },
+  {
+    "user_id": 173,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "喜剧"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 80.72594335785956,
+    "last_login": "2025-12-11",
+    "powers": {
+      "喜剧": 0.28
+    }
+  },
+  {
+    "user_id": 174,
+    "city_id": 7,
+    "city_name": "成都",
+    "interests": [
+      "喜剧",
+      "冒险"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 80.56231049229895,
+    "last_login": "2025-12-09",
+    "powers": {
+      "喜剧": 0.89,
+      "冒险": 0.73
+    }
+  },
+  {
+    "user_id": 175,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "冒险",
+      "科幻",
+      "悬疑",
+      "历史"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 77.51842898309161,
+    "last_login": "2025-12-14",
+    "powers": {
+      "冒险": 0.42,
+      "科幻": 0.73,
+      "悬疑": 0.16,
+      "历史": 0.79
+    }
+  },
+  {
+    "user_id": 176,
+    "city_id": 2,
+    "city_name": "北京",
+    "interests": [
+      "恋爱",
+      "历史"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 94.80686422502002,
+    "last_login": "2025-12-08",
+    "powers": {
+      "恋爱": 0.29,
+      "历史": 0.32
+    }
+  },
+  {
+    "user_id": 177,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "历史",
+      "喜剧",
+      "科幻"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 54.98095758938085,
+    "last_login": "2025-12-13",
+    "powers": {
+      "历史": 0.12,
+      "喜剧": 0.82,
+      "科幻": 0.43
+    }
+  },
+  {
+    "user_id": 178,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "喜剧"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 78.91866992544556,
+    "last_login": "2025-12-12",
+    "powers": {
+      "喜剧": 0.31
+    }
+  },
+  {
+    "user_id": 179,
+    "city_id": 5,
+    "city_name": "广州",
+    "interests": [
+      "音乐",
+      "恋爱",
+      "剧情"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 41.47967280028356,
+    "last_login": "2025-12-14",
+    "powers": {
+      "音乐": 0.75,
+      "恋爱": 0.23,
+      "剧情": 0.14
+    }
+  },
+  {
+    "user_id": 180,
+    "city_id": 3,
+    "city_name": "杭州",
+    "interests": [
+      "音乐",
+      "历史",
+      "动作",
+      "科幻"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 39.189316409045055,
+    "last_login": "2025-12-15",
+    "powers": {
+      "音乐": 0.85,
+      "历史": 0.69,
+      "动作": 0.89,
+      "科幻": 0.41
+    }
+  },
+  {
+    "user_id": 181,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "喜剧",
+      "历史",
+      "动作"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 73.14763234545642,
+    "last_login": "2025-12-16",
+    "powers": {
+      "喜剧": 0.75,
+      "历史": 0.95,
+      "动作": 0.37
+    }
+  },
+  {
+    "user_id": 182,
+    "city_id": 3,
+    "city_name": "杭州",
+    "interests": [
+      "科幻",
+      "悬疑",
+      "音乐"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 68.17339718370287,
+    "last_login": "2025-12-18",
+    "powers": {
+      "科幻": 0.52,
+      "悬疑": 0.44,
+      "音乐": 0.28
+    }
+  },
+  {
+    "user_id": 183,
+    "city_id": 2,
+    "city_name": "北京",
+    "interests": [
+      "剧情",
+      "悬疑",
+      "冒险"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 52.387650420010885,
+    "last_login": "2025-12-19",
+    "powers": {
+      "剧情": 0.65,
+      "悬疑": 0.45,
+      "冒险": 0.86
+    }
+  },
+  {
+    "user_id": 184,
+    "city_id": 11,
+    "city_name": "重庆",
+    "interests": [
+      "喜剧",
+      "剧情",
+      "悬疑"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 46.39858873098953,
+    "last_login": "2025-12-08",
+    "powers": {
+      "喜剧": 0.91,
+      "剧情": 0.49,
+      "悬疑": 0.4
+    }
+  },
+  {
+    "user_id": 185,
+    "city_id": 5,
+    "city_name": "广州",
+    "interests": [
+      "喜剧",
+      "剧情",
+      "音乐",
+      "历史"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 76.92088787586769,
+    "last_login": "2025-12-19",
+    "powers": {
+      "喜剧": 0.45,
+      "剧情": 0.75,
+      "音乐": 0.78,
+      "历史": 0.67
+    }
+  },
+  {
+    "user_id": 186,
+    "city_id": 5,
+    "city_name": "广州",
+    "interests": [
+      "动作",
+      "悬疑",
+      "喜剧",
+      "科幻"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 82.20464277506831,
+    "last_login": "2025-12-12",
+    "powers": {
+      "动作": 0.91,
+      "悬疑": 0.29,
+      "喜剧": 0.43,
+      "科幻": 0.69
+    }
+  },
+  {
+    "user_id": 187,
+    "city_id": 10,
+    "city_name": "苏州",
+    "interests": [
+      "音乐",
+      "动作",
+      "悬疑"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 90.4108954721159,
+    "last_login": "2025-12-15",
+    "powers": {
+      "音乐": 0.54,
+      "动作": 0.84,
+      "悬疑": 0.17
+    }
+  },
+  {
+    "user_id": 188,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "动作",
+      "冒险",
+      "喜剧",
+      "恋爱"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 66.718273385238,
+    "last_login": "2025-12-10",
+    "powers": {
+      "动作": 0.44,
+      "冒险": 0.29,
+      "喜剧": 0.94,
+      "恋爱": 0.91
+    }
+  },
+  {
+    "user_id": 189,
+    "city_id": 11,
+    "city_name": "重庆",
+    "interests": [
+      "喜剧",
+      "恋爱"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 34.360088643523866,
+    "last_login": "2025-12-15",
+    "powers": {
+      "喜剧": 0.34,
+      "恋爱": 0.12
+    }
+  },
+  {
+    "user_id": 190,
+    "city_id": 2,
+    "city_name": "北京",
+    "interests": [
+      "恋爱"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 54.04547415507006,
+    "last_login": "2025-12-10",
+    "powers": {
+      "恋爱": 0.79
+    }
+  },
+  {
+    "user_id": 191,
+    "city_id": 3,
+    "city_name": "杭州",
+    "interests": [
+      "悬疑"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 66.79147129880837,
+    "last_login": "2025-12-15",
+    "powers": {
+      "悬疑": 0.62
+    }
+  },
+  {
+    "user_id": 192,
+    "city_id": 6,
+    "city_name": "上海",
+    "interests": [
+      "恋爱"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 81.32819390356008,
+    "last_login": "2025-12-16",
+    "powers": {
+      "恋爱": 0.15
+    }
+  },
+  {
+    "user_id": 193,
+    "city_id": 2,
+    "city_name": "北京",
+    "interests": [
+      "冒险"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 74.29259975111952,
+    "last_login": "2025-12-12",
+    "powers": {
+      "冒险": 0.43
+    }
+  },
+  {
+    "user_id": 194,
+    "city_id": 9,
+    "city_name": "南京",
+    "interests": [
+      "动作"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 49.70362885738631,
+    "last_login": "2025-12-12",
+    "powers": {
+      "动作": 0.64
+    }
+  },
+  {
+    "user_id": 195,
+    "city_id": 5,
+    "city_name": "广州",
+    "interests": [
+      "音乐",
+      "冒险",
+      "恋爱",
+      "动作"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 55.47424512802923,
+    "last_login": "2025-12-13",
+    "powers": {
+      "音乐": 0.54,
+      "冒险": 0.35,
+      "恋爱": 0.86,
+      "动作": 0.91
+    }
+  },
+  {
+    "user_id": 196,
+    "city_id": 2,
+    "city_name": "北京",
+    "interests": [
+      "音乐"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 81.60905812463237,
+    "last_login": "2025-12-11",
+    "powers": {
+      "音乐": 0.84
+    }
+  },
+  {
+    "user_id": 197,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "科幻",
+      "动作",
+      "恋爱",
+      "剧情"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 19.542703519826077,
+    "last_login": "2025-12-09",
+    "powers": {
+      "科幻": 0.97,
+      "动作": 0.18,
+      "恋爱": 0.75,
+      "剧情": 0.41
+    }
+  },
+  {
+    "user_id": 198,
+    "city_id": 3,
+    "city_name": "杭州",
+    "interests": [
+      "音乐",
+      "历史"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 37.2753651725031,
+    "last_login": "2025-12-14",
+    "powers": {
+      "音乐": 0.85,
+      "历史": 0.56
+    }
+  },
+  {
+    "user_id": 199,
+    "city_id": 6,
+    "city_name": "上海",
+    "interests": [
+      "冒险",
+      "动作"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 81.99293047343308,
+    "last_login": "2025-12-15",
+    "powers": {
+      "冒险": 0.21,
+      "动作": 0.74
+    }
+  },
+  {
+    "user_id": 200,
+    "city_id": 2,
+    "city_name": "北京",
+    "interests": [
+      "喜剧",
+      "音乐"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 68.75717680839742,
+    "last_login": "2025-12-16",
+    "powers": {
+      "喜剧": 0.59,
+      "音乐": 0.39
+    }
+  },
+  {
+    "user_id": 201,
+    "city_id": 2,
+    "city_name": "北京",
+    "interests": [
+      "历史",
+      "冒险"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 41.468933969913984,
+    "last_login": "2025-12-12",
+    "powers": {
+      "历史": 0.35,
+      "冒险": 0.18
+    }
+  },
+  {
+    "user_id": 202,
+    "city_id": 9,
+    "city_name": "南京",
+    "interests": [
+      "恋爱",
+      "喜剧",
+      "音乐"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 33.15626427262832,
+    "last_login": "2025-12-14",
+    "powers": {
+      "恋爱": 0.44,
+      "喜剧": 0.95,
+      "音乐": 0.24
+    }
+  },
+  {
+    "user_id": 203,
+    "city_id": 2,
+    "city_name": "北京",
+    "interests": [
+      "音乐"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 42.64335127204176,
+    "last_login": "2025-12-17",
+    "powers": {
+      "音乐": 0.26
+    }
+  },
+  {
+    "user_id": 204,
+    "city_id": 5,
+    "city_name": "广州",
+    "interests": [
+      "喜剧",
+      "历史",
+      "冒险",
+      "悬疑"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 50.49486751789672,
+    "last_login": "2025-12-10",
+    "powers": {
+      "喜剧": 0.86,
+      "历史": 0.22,
+      "冒险": 0.25,
+      "悬疑": 0.11
+    }
+  },
+  {
+    "user_id": 205,
+    "city_id": 3,
+    "city_name": "杭州",
+    "interests": [
+      "恋爱",
+      "悬疑",
+      "冒险"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 51.984061365221095,
+    "last_login": "2025-12-15",
+    "powers": {
+      "恋爱": 0.53,
+      "悬疑": 0.51,
+      "冒险": 0.28
+    }
+  },
+  {
+    "user_id": 206,
+    "city_id": 6,
+    "city_name": "上海",
+    "interests": [
+      "悬疑",
+      "动作",
+      "剧情",
+      "喜剧"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 63.825331684337215,
+    "last_login": "2025-12-08",
+    "powers": {
+      "悬疑": 0.36,
+      "动作": 0.9,
+      "剧情": 0.74,
+      "喜剧": 0.35
+    }
+  },
+  {
+    "user_id": 207,
+    "city_id": 3,
+    "city_name": "杭州",
+    "interests": [
+      "历史"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 53.98147968778911,
+    "last_login": "2025-12-14",
+    "powers": {
+      "历史": 0.94
+    }
+  },
+  {
+    "user_id": 208,
+    "city_id": 6,
+    "city_name": "上海",
+    "interests": [
+      "喜剧"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 73.98905021617914,
+    "last_login": "2025-12-15",
+    "powers": {
+      "喜剧": 0.45
+    }
+  },
+  {
+    "user_id": 209,
+    "city_id": 2,
+    "city_name": "北京",
+    "interests": [
+      "冒险",
+      "历史",
+      "音乐",
+      "悬疑"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 79.7562358091068,
+    "last_login": "2025-12-14",
+    "powers": {
+      "冒险": 0.41,
+      "历史": 0.39,
+      "音乐": 0.57,
+      "悬疑": 0.87
+    }
+  },
+  {
+    "user_id": 210,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "科幻",
+      "恋爱",
+      "喜剧",
+      "音乐"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 74.56072419375458,
+    "last_login": "2025-12-15",
+    "powers": {
+      "科幻": 0.42,
+      "恋爱": 0.66,
+      "喜剧": 0.64,
+      "音乐": 0.96
+    }
+  },
+  {
+    "user_id": 211,
+    "city_id": 3,
+    "city_name": "杭州",
+    "interests": [
+      "恋爱",
+      "剧情",
+      "历史",
+      "动作"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 48.07868075688002,
+    "last_login": "2025-12-18",
+    "powers": {
+      "恋爱": 0.83,
+      "剧情": 0.2,
+      "历史": 0.69,
+      "动作": 0.2
+    }
+  },
+  {
+    "user_id": 212,
+    "city_id": 2,
+    "city_name": "北京",
+    "interests": [
+      "恋爱"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 47.640020481166985,
+    "last_login": "2025-12-14",
+    "powers": {
+      "恋爱": 0.28
+    }
+  },
+  {
+    "user_id": 213,
+    "city_id": 4,
+    "city_name": "西安",
+    "interests": [
+      "科幻"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 71.0596411597835,
+    "last_login": "2025-12-17",
+    "powers": {
+      "科幻": 0.67
+    }
+  },
+  {
+    "user_id": 214,
+    "city_id": 2,
+    "city_name": "北京",
+    "interests": [
+      "科幻"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 50.99653582814795,
+    "last_login": "2025-12-07",
+    "powers": {
+      "科幻": 0.84
+    }
+  },
+  {
+    "user_id": 215,
+    "city_id": 5,
+    "city_name": "广州",
+    "interests": [
+      "冒险",
+      "音乐",
+      "悬疑",
+      "恋爱"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 61.07214651685792,
+    "last_login": "2025-12-18",
+    "powers": {
+      "冒险": 0.17,
+      "音乐": 0.54,
+      "悬疑": 0.3,
+      "恋爱": 0.56
+    }
+  },
+  {
+    "user_id": 216,
+    "city_id": 10,
+    "city_name": "苏州",
+    "interests": [
+      "剧情",
+      "科幻",
+      "历史"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 55.70059154862086,
+    "last_login": "2025-12-18",
+    "powers": {
+      "剧情": 0.2,
+      "科幻": 0.4,
+      "历史": 0.73
+    }
+  },
+  {
+    "user_id": 217,
+    "city_id": 2,
+    "city_name": "北京",
+    "interests": [
+      "科幻",
+      "动作",
+      "喜剧"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 66.46093924835006,
+    "last_login": "2025-12-15",
+    "powers": {
+      "科幻": 0.49,
+      "动作": 0.7,
+      "喜剧": 0.24
+    }
+  },
+  {
+    "user_id": 218,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "历史"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 81.46482631059108,
+    "last_login": "2025-12-11",
+    "powers": {
+      "历史": 0.35
+    }
+  },
+  {
+    "user_id": 219,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "悬疑",
+      "冒险",
+      "音乐"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 53.84416579516923,
+    "last_login": "2025-12-12",
+    "powers": {
+      "悬疑": 1.0,
+      "冒险": 0.14,
+      "音乐": 0.43
+    }
+  },
+  {
+    "user_id": 220,
+    "city_id": 5,
+    "city_name": "广州",
+    "interests": [
+      "恋爱"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 66.47684167286404,
+    "last_login": "2025-12-18",
+    "powers": {
+      "恋爱": 0.39
+    }
+  },
+  {
+    "user_id": 221,
+    "city_id": 5,
+    "city_name": "广州",
+    "interests": [
+      "悬疑"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 50.70003121259423,
+    "last_login": "2025-12-10",
+    "powers": {
+      "悬疑": 0.71
+    }
+  },
+  {
+    "user_id": 222,
+    "city_id": 2,
+    "city_name": "北京",
+    "interests": [
+      "剧情",
+      "喜剧",
+      "恋爱"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 62.729179297977005,
+    "last_login": "2025-12-16",
+    "powers": {
+      "剧情": 0.7,
+      "喜剧": 0.81,
+      "恋爱": 0.47
+    }
+  },
+  {
+    "user_id": 223,
+    "city_id": 2,
+    "city_name": "北京",
+    "interests": [
+      "冒险",
+      "动作",
+      "音乐"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 52.53924048838158,
+    "last_login": "2025-12-15",
+    "powers": {
+      "冒险": 0.47,
+      "动作": 0.44,
+      "音乐": 0.94
+    }
+  },
+  {
+    "user_id": 224,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "剧情"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 91.52489678350634,
+    "last_login": "2025-12-12",
+    "powers": {
+      "剧情": 0.16
+    }
+  },
+  {
+    "user_id": 225,
+    "city_id": 8,
+    "city_name": "武汉",
+    "interests": [
+      "冒险"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 72.22509151791989,
+    "last_login": "2025-12-10",
+    "powers": {
+      "冒险": 0.22
+    }
+  },
+  {
+    "user_id": 226,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "恋爱",
+      "音乐",
+      "历史"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 49.83415999938665,
+    "last_login": "2025-12-15",
+    "powers": {
+      "恋爱": 0.19,
+      "音乐": 0.74,
+      "历史": 0.38
+    }
+  },
+  {
+    "user_id": 227,
+    "city_id": 5,
+    "city_name": "广州",
+    "interests": [
+      "悬疑"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 43.48142119056931,
+    "last_login": "2025-12-11",
+    "powers": {
+      "悬疑": 0.15
+    }
+  },
+  {
+    "user_id": 228,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "科幻",
+      "冒险",
+      "剧情",
+      "动作"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 79.41546953988373,
+    "last_login": "2025-12-16",
+    "powers": {
+      "科幻": 0.98,
+      "冒险": 0.23,
+      "剧情": 0.85,
+      "动作": 0.44
+    }
+  },
+  {
+    "user_id": 229,
+    "city_id": 8,
+    "city_name": "武汉",
+    "interests": [
+      "恋爱",
+      "冒险",
+      "动作"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 63.7012364407741,
+    "last_login": "2025-12-09",
+    "powers": {
+      "恋爱": 0.6,
+      "冒险": 0.29,
+      "动作": 0.42
+    }
+  },
+  {
+    "user_id": 230,
+    "city_id": 3,
+    "city_name": "杭州",
+    "interests": [
+      "剧情",
+      "动作",
+      "冒险",
+      "悬疑"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 63.4366385710533,
+    "last_login": "2025-12-13",
+    "powers": {
+      "剧情": 0.89,
+      "动作": 0.65,
+      "冒险": 0.48,
+      "悬疑": 0.75
+    }
+  },
+  {
+    "user_id": 231,
+    "city_id": 2,
+    "city_name": "北京",
+    "interests": [
+      "恋爱",
+      "历史",
+      "喜剧",
+      "音乐"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 34.662205392488474,
+    "last_login": "2025-12-19",
+    "powers": {
+      "恋爱": 0.36,
+      "历史": 0.95,
+      "喜剧": 0.28,
+      "音乐": 0.37
+    }
+  },
+  {
+    "user_id": 232,
+    "city_id": 7,
+    "city_name": "成都",
+    "interests": [
+      "剧情",
+      "恋爱",
+      "历史",
+      "科幻"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 91.34047480471622,
+    "last_login": "2025-12-16",
+    "powers": {
+      "剧情": 0.17,
+      "恋爱": 0.79,
+      "历史": 0.34,
+      "科幻": 0.26
+    }
+  },
+  {
+    "user_id": 233,
+    "city_id": 5,
+    "city_name": "广州",
+    "interests": [
+      "动作"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 41.608485703429615,
+    "last_login": "2025-12-14",
+    "powers": {
+      "动作": 0.65
+    }
+  },
+  {
+    "user_id": 234,
+    "city_id": 2,
+    "city_name": "北京",
+    "interests": [
+      "音乐",
+      "剧情"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 54.742823699138384,
+    "last_login": "2025-12-13",
+    "powers": {
+      "音乐": 0.93,
+      "剧情": 0.76
+    }
+  },
+  {
+    "user_id": 235,
+    "city_id": 3,
+    "city_name": "杭州",
+    "interests": [
+      "剧情",
+      "动作",
+      "历史"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 77.18620091513954,
+    "last_login": "2025-12-17",
+    "powers": {
+      "剧情": 0.63,
+      "动作": 0.83,
+      "历史": 0.24
+    }
+  },
+  {
+    "user_id": 236,
+    "city_id": 12,
+    "city_name": "天津",
+    "interests": [
+      "音乐",
+      "剧情"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 66.43790535625841,
+    "last_login": "2025-12-12",
+    "powers": {
+      "音乐": 0.7,
+      "剧情": 0.19
+    }
+  },
+  {
+    "user_id": 237,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "历史",
+      "音乐",
+      "冒险",
+      "喜剧"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 76.82972621146052,
+    "last_login": "2025-12-15",
+    "powers": {
+      "历史": 0.4,
+      "音乐": 0.95,
+      "冒险": 0.27,
+      "喜剧": 0.19
+    }
+  },
+  {
+    "user_id": 238,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "科幻",
+      "音乐",
+      "历史"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 53.69714758579749,
+    "last_login": "2025-12-15",
+    "powers": {
+      "科幻": 0.81,
+      "音乐": 0.2,
+      "历史": 0.86
+    }
+  },
+  {
+    "user_id": 239,
+    "city_id": 5,
+    "city_name": "广州",
+    "interests": [
+      "悬疑",
+      "恋爱"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 62.58994514078715,
+    "last_login": "2025-12-17",
+    "powers": {
+      "悬疑": 0.28,
+      "恋爱": 0.59
+    }
+  },
+  {
+    "user_id": 240,
+    "city_id": 3,
+    "city_name": "杭州",
+    "interests": [
+      "动作",
+      "恋爱"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 56.10574724691726,
+    "last_login": "2025-12-21",
+    "powers": {
+      "动作": 0.62,
+      "恋爱": 0.91
+    }
+  },
+  {
+    "user_id": 241,
+    "city_id": 2,
+    "city_name": "北京",
+    "interests": [
+      "动作",
+      "喜剧",
+      "悬疑"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 60.3865509362526,
+    "last_login": "2025-12-12",
+    "powers": {
+      "动作": 0.82,
+      "喜剧": 0.26,
+      "悬疑": 0.71
+    }
+  },
+  {
+    "user_id": 242,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "历史"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 73.03050533528128,
+    "last_login": "2025-12-13",
+    "powers": {
+      "历史": 0.85
+    }
+  },
+  {
+    "user_id": 243,
+    "city_id": 3,
+    "city_name": "杭州",
+    "interests": [
+      "恋爱",
+      "喜剧",
+      "历史",
+      "剧情"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 56.921051956370924,
+    "last_login": "2025-12-09",
+    "powers": {
+      "恋爱": 0.48,
+      "喜剧": 0.79,
+      "历史": 0.62,
+      "剧情": 0.85
+    }
+  },
+  {
+    "user_id": 244,
+    "city_id": 5,
+    "city_name": "广州",
+    "interests": [
+      "音乐",
+      "冒险"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 60.64188073762529,
+    "last_login": "2025-12-18",
+    "powers": {
+      "音乐": 0.33,
+      "冒险": 0.48
+    }
+  },
+  {
+    "user_id": 245,
+    "city_id": 5,
+    "city_name": "广州",
+    "interests": [
+      "剧情"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 79.8257095937804,
+    "last_login": "2025-12-14",
+    "powers": {
+      "剧情": 0.19
+    }
+  },
+  {
+    "user_id": 246,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "冒险",
+      "动作"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 85.89207621055948,
+    "last_login": "2025-12-13",
+    "powers": {
+      "冒险": 0.53,
+      "动作": 0.39
+    }
+  },
+  {
+    "user_id": 247,
+    "city_id": 5,
+    "city_name": "广州",
+    "interests": [
+      "音乐",
+      "冒险",
+      "历史",
+      "恋爱"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 74.16386266221262,
+    "last_login": "2025-12-16",
+    "powers": {
+      "音乐": 0.11,
+      "冒险": 0.11,
+      "历史": 0.97,
+      "恋爱": 0.77
+    }
+  },
+  {
+    "user_id": 248,
+    "city_id": 3,
+    "city_name": "杭州",
+    "interests": [
+      "悬疑",
+      "历史",
+      "音乐",
+      "冒险"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 60.05753973962382,
+    "last_login": "2025-12-12",
+    "powers": {
+      "悬疑": 0.75,
+      "历史": 0.46,
+      "音乐": 0.29,
+      "冒险": 0.9
+    }
+  },
+  {
+    "user_id": 249,
+    "city_id": 3,
+    "city_name": "杭州",
+    "interests": [
+      "动作",
+      "喜剧"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 64.864547809707,
+    "last_login": "2025-12-14",
+    "powers": {
+      "动作": 0.31,
+      "喜剧": 0.41
+    }
+  },
+  {
+    "user_id": 250,
+    "city_id": 3,
+    "city_name": "杭州",
+    "interests": [
+      "音乐",
+      "恋爱"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 72.84025321041783,
+    "last_login": "2025-12-17",
+    "powers": {
+      "音乐": 0.22,
+      "恋爱": 0.97
+    }
+  },
+  {
+    "user_id": 251,
+    "city_id": 5,
+    "city_name": "广州",
+    "interests": [
+      "科幻",
+      "悬疑",
+      "恋爱"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 72.91834319100045,
+    "last_login": "2025-12-15",
+    "powers": {
+      "科幻": 0.55,
+      "悬疑": 0.33,
+      "恋爱": 0.55
+    }
+  },
+  {
+    "user_id": 252,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "喜剧",
+      "剧情",
+      "音乐",
+      "动作"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 66.17260606617036,
+    "last_login": "2025-12-14",
+    "powers": {
+      "喜剧": 0.24,
+      "剧情": 0.55,
+      "音乐": 0.38,
+      "动作": 0.79
+    }
+  },
+  {
+    "user_id": 253,
+    "city_id": 3,
+    "city_name": "杭州",
+    "interests": [
+      "悬疑",
+      "冒险"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 46.257744051755296,
+    "last_login": "2025-12-12",
+    "powers": {
+      "悬疑": 0.27,
+      "冒险": 0.67
+    }
+  },
+  {
+    "user_id": 254,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "剧情",
+      "恋爱"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 64.76344565367714,
+    "last_login": "2025-12-15",
+    "powers": {
+      "剧情": 0.86,
+      "恋爱": 0.29
+    }
+  },
+  {
+    "user_id": 255,
+    "city_id": 5,
+    "city_name": "广州",
+    "interests": [
+      "动作"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 43.08085386956203,
+    "last_login": "2025-12-14",
+    "powers": {
+      "动作": 0.69
+    }
+  },
+  {
+    "user_id": 256,
+    "city_id": 8,
+    "city_name": "武汉",
+    "interests": [
+      "音乐"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 59.69126772749337,
+    "last_login": "2025-12-14",
+    "powers": {
+      "音乐": 0.73
+    }
+  },
+  {
+    "user_id": 257,
+    "city_id": 7,
+    "city_name": "成都",
+    "interests": [
+      "悬疑",
+      "剧情"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 70.14431229993819,
+    "last_login": "2025-12-15",
+    "powers": {
+      "悬疑": 0.21,
+      "剧情": 0.38
+    }
+  },
+  {
+    "user_id": 258,
+    "city_id": 6,
+    "city_name": "上海",
+    "interests": [
+      "冒险",
+      "历史"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 51.09577870203866,
+    "last_login": "2025-12-16",
+    "powers": {
+      "冒险": 0.57,
+      "历史": 1.0
+    }
+  },
+  {
+    "user_id": 259,
+    "city_id": 2,
+    "city_name": "北京",
+    "interests": [
+      "恋爱",
+      "喜剧"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 64.91500387184372,
+    "last_login": "2025-12-11",
+    "powers": {
+      "恋爱": 0.95,
+      "喜剧": 0.77
+    }
+  },
+  {
+    "user_id": 260,
+    "city_id": 3,
+    "city_name": "杭州",
+    "interests": [
+      "恋爱",
+      "历史"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 61.070523023165734,
+    "last_login": "2025-12-19",
+    "powers": {
+      "恋爱": 0.98,
+      "历史": 0.42
+    }
+  },
+  {
+    "user_id": 261,
+    "city_id": 3,
+    "city_name": "杭州",
+    "interests": [
+      "科幻",
+      "喜剧"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 57.99669802711135,
+    "last_login": "2025-12-17",
+    "powers": {
+      "科幻": 0.32,
+      "喜剧": 0.62
+    }
+  },
+  {
+    "user_id": 262,
+    "city_id": 5,
+    "city_name": "广州",
+    "interests": [
+      "科幻",
+      "历史",
+      "动作",
+      "悬疑"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 59.28728785668967,
+    "last_login": "2025-12-17",
+    "powers": {
+      "科幻": 0.45,
+      "历史": 0.61,
+      "动作": 0.75,
+      "悬疑": 0.36
+    }
+  },
+  {
+    "user_id": 263,
+    "city_id": 5,
+    "city_name": "广州",
+    "interests": [
+      "悬疑",
+      "科幻"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 58.38709296032677,
+    "last_login": "2025-12-16",
+    "powers": {
+      "悬疑": 0.57,
+      "科幻": 0.31
+    }
+  },
+  {
+    "user_id": 264,
+    "city_id": 3,
+    "city_name": "杭州",
+    "interests": [
+      "科幻",
+      "喜剧",
+      "历史",
+      "悬疑"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 54.62069368950741,
+    "last_login": "2025-12-14",
+    "powers": {
+      "科幻": 0.63,
+      "喜剧": 0.18,
+      "历史": 0.61,
+      "悬疑": 0.34
+    }
+  },
+  {
+    "user_id": 265,
+    "city_id": 9,
+    "city_name": "南京",
+    "interests": [
+      "冒险"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 71.62580229413912,
+    "last_login": "2025-12-10",
+    "powers": {
+      "冒险": 0.99
+    }
+  },
+  {
+    "user_id": 266,
+    "city_id": 10,
+    "city_name": "苏州",
+    "interests": [
+      "科幻",
+      "冒险",
+      "动作",
+      "喜剧"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 48.93606857459267,
+    "last_login": "2025-12-13",
+    "powers": {
+      "科幻": 0.56,
+      "冒险": 0.15,
+      "动作": 0.13,
+      "喜剧": 0.97
+    }
+  },
+  {
+    "user_id": 267,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "悬疑",
+      "音乐",
+      "历史"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 67.87724989171737,
+    "last_login": "2025-12-10",
+    "powers": {
+      "悬疑": 0.69,
+      "音乐": 0.36,
+      "历史": 0.44
+    }
+  },
+  {
+    "user_id": 268,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "音乐"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 70.88772297785836,
+    "last_login": "2025-12-13",
+    "powers": {
+      "音乐": 0.23
+    }
+  },
+  {
+    "user_id": 269,
+    "city_id": 2,
+    "city_name": "北京",
+    "interests": [
+      "历史"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 61.540720829194605,
+    "last_login": "2025-12-17",
+    "powers": {
+      "历史": 0.28
+    }
+  },
+  {
+    "user_id": 270,
+    "city_id": 5,
+    "city_name": "广州",
+    "interests": [
+      "动作"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 71.63077895900891,
+    "last_login": "2025-12-12",
+    "powers": {
+      "动作": 0.73
+    }
+  },
+  {
+    "user_id": 271,
+    "city_id": 3,
+    "city_name": "杭州",
+    "interests": [
+      "喜剧",
+      "悬疑",
+      "冒险",
+      "科幻"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 67.18459729219995,
+    "last_login": "2025-12-15",
+    "powers": {
+      "喜剧": 0.33,
+      "悬疑": 0.69,
+      "冒险": 0.27,
+      "科幻": 0.29
+    }
+  },
+  {
+    "user_id": 272,
+    "city_id": 2,
+    "city_name": "北京",
+    "interests": [
+      "恋爱",
+      "喜剧",
+      "音乐"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 47.461168920044194,
+    "last_login": "2025-12-08",
+    "powers": {
+      "恋爱": 0.15,
+      "喜剧": 0.19,
+      "音乐": 0.21
+    }
+  },
+  {
+    "user_id": 273,
+    "city_id": 5,
+    "city_name": "广州",
+    "interests": [
+      "动作",
+      "冒险",
+      "音乐"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 100.0,
+    "last_login": "2025-12-08",
+    "powers": {
+      "动作": 0.43,
+      "冒险": 0.71,
+      "音乐": 0.17
+    }
+  },
+  {
+    "user_id": 274,
+    "city_id": 9,
+    "city_name": "南京",
+    "interests": [
+      "科幻",
+      "恋爱"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 81.06429853360706,
+    "last_login": "2025-12-14",
+    "powers": {
+      "科幻": 0.98,
+      "恋爱": 0.5
+    }
+  },
+  {
+    "user_id": 275,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "动作"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 69.36726371467095,
+    "last_login": "2025-12-11",
+    "powers": {
+      "动作": 0.44
+    }
+  },
+  {
+    "user_id": 276,
+    "city_id": 9,
+    "city_name": "南京",
+    "interests": [
+      "历史",
+      "冒险",
+      "剧情"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 65.58415329992332,
+    "last_login": "2025-12-10",
+    "powers": {
+      "历史": 0.31,
+      "冒险": 0.65,
+      "剧情": 0.25
+    }
+  },
+  {
+    "user_id": 277,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "冒险",
+      "动作",
+      "悬疑"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 49.00104163420967,
+    "last_login": "2025-12-15",
+    "powers": {
+      "冒险": 0.26,
+      "动作": 0.99,
+      "悬疑": 0.1
+    }
+  },
+  {
+    "user_id": 278,
+    "city_id": 5,
+    "city_name": "广州",
+    "interests": [
+      "喜剧",
+      "恋爱",
+      "悬疑",
+      "历史"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 27.049950169272773,
+    "last_login": "2025-12-14",
+    "powers": {
+      "喜剧": 0.39,
+      "恋爱": 0.71,
+      "悬疑": 0.99,
+      "历史": 0.65
+    }
+  },
+  {
+    "user_id": 279,
+    "city_id": 3,
+    "city_name": "杭州",
+    "interests": [
+      "动作",
+      "音乐",
+      "剧情"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 65.67739849137753,
+    "last_login": "2025-12-15",
+    "powers": {
+      "动作": 0.89,
+      "音乐": 0.31,
+      "剧情": 0.43
+    }
+  },
+  {
+    "user_id": 280,
+    "city_id": 3,
+    "city_name": "杭州",
+    "interests": [
+      "音乐"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 76.32058799943054,
+    "last_login": "2025-12-15",
+    "powers": {
+      "音乐": 0.34
+    }
+  },
+  {
+    "user_id": 281,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "科幻",
+      "历史"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 85.06494513096447,
+    "last_login": "2025-12-15",
+    "powers": {
+      "科幻": 0.88,
+      "历史": 0.41
+    }
+  },
+  {
+    "user_id": 282,
+    "city_id": 2,
+    "city_name": "北京",
+    "interests": [
+      "科幻",
+      "历史",
+      "喜剧"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 42.714083087804575,
+    "last_login": "2025-12-18",
+    "powers": {
+      "科幻": 0.37,
+      "历史": 0.85,
+      "喜剧": 1.0
+    }
+  },
+  {
+    "user_id": 283,
+    "city_id": 5,
+    "city_name": "广州",
+    "interests": [
+      "悬疑",
+      "历史",
+      "剧情"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 54.45041112987809,
+    "last_login": "2025-12-15",
+    "powers": {
+      "悬疑": 0.53,
+      "历史": 0.22,
+      "剧情": 0.52
+    }
+  },
+  {
+    "user_id": 284,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "悬疑"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 78.3270662187162,
+    "last_login": "2025-12-10",
+    "powers": {
+      "悬疑": 0.27
+    }
+  },
+  {
+    "user_id": 285,
+    "city_id": 8,
+    "city_name": "武汉",
+    "interests": [
+      "科幻"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 56.913729021850635,
+    "last_login": "2025-12-11",
+    "powers": {
+      "科幻": 0.37
+    }
+  },
+  {
+    "user_id": 286,
+    "city_id": 5,
+    "city_name": "广州",
+    "interests": [
+      "悬疑"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 59.896261992996784,
+    "last_login": "2025-12-10",
+    "powers": {
+      "悬疑": 0.44
+    }
+  },
+  {
+    "user_id": 287,
+    "city_id": 5,
+    "city_name": "广州",
+    "interests": [
+      "科幻",
+      "冒险"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 43.00085613871373,
+    "last_login": "2025-12-09",
+    "powers": {
+      "科幻": 0.72,
+      "冒险": 0.53
+    }
+  },
+  {
+    "user_id": 288,
+    "city_id": 7,
+    "city_name": "成都",
+    "interests": [
+      "音乐",
+      "喜剧",
+      "动作",
+      "恋爱"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 35.96367016627227,
+    "last_login": "2025-12-20",
+    "powers": {
+      "音乐": 0.96,
+      "喜剧": 0.88,
+      "动作": 0.9,
+      "恋爱": 0.62
+    }
+  },
+  {
+    "user_id": 289,
+    "city_id": 3,
+    "city_name": "杭州",
+    "interests": [
+      "悬疑",
+      "恋爱",
+      "冒险"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 53.51428103042478,
+    "last_login": "2025-12-08",
+    "powers": {
+      "悬疑": 0.66,
+      "恋爱": 0.79,
+      "冒险": 0.13
+    }
+  },
+  {
+    "user_id": 290,
+    "city_id": 2,
+    "city_name": "北京",
+    "interests": [
+      "恋爱",
+      "剧情",
+      "科幻"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 40.35571337610975,
+    "last_login": "2025-12-18",
+    "powers": {
+      "恋爱": 0.48,
+      "剧情": 1.0,
+      "科幻": 0.87
+    }
+  },
+  {
+    "user_id": 291,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "历史",
+      "喜剧",
+      "剧情"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 79.75163111426014,
+    "last_login": "2025-12-08",
+    "powers": {
+      "历史": 0.4,
+      "喜剧": 0.13,
+      "剧情": 0.64
+    }
+  },
+  {
+    "user_id": 292,
+    "city_id": 2,
+    "city_name": "北京",
+    "interests": [
+      "历史",
+      "音乐",
+      "恋爱"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 45.721212189577514,
+    "last_login": "2025-12-09",
+    "powers": {
+      "历史": 0.6,
+      "音乐": 0.48,
+      "恋爱": 0.99
+    }
+  },
+  {
+    "user_id": 293,
+    "city_id": 3,
+    "city_name": "杭州",
+    "interests": [
+      "剧情"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 55.85377231761317,
+    "last_login": "2025-12-12",
+    "powers": {
+      "剧情": 0.53
+    }
+  },
+  {
+    "user_id": 294,
+    "city_id": 2,
+    "city_name": "北京",
+    "interests": [
+      "剧情",
+      "悬疑"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 55.87670711278314,
+    "last_login": "2025-12-11",
+    "powers": {
+      "剧情": 0.54,
+      "悬疑": 0.79
+    }
+  },
+  {
+    "user_id": 295,
+    "city_id": 5,
+    "city_name": "广州",
+    "interests": [
+      "音乐",
+      "科幻",
+      "剧情"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 85.23551945469086,
+    "last_login": "2025-12-13",
+    "powers": {
+      "音乐": 0.96,
+      "科幻": 0.34,
+      "剧情": 0.95
+    }
+  },
+  {
+    "user_id": 296,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "恋爱"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 51.45844301895524,
+    "last_login": "2025-12-08",
+    "powers": {
+      "恋爱": 0.77
+    }
+  },
+  {
+    "user_id": 297,
+    "city_id": 10,
+    "city_name": "苏州",
+    "interests": [
+      "恋爱",
+      "动作",
+      "喜剧",
+      "悬疑"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 82.23267239589043,
+    "last_login": "2025-12-14",
+    "powers": {
+      "恋爱": 0.22,
+      "动作": 0.69,
+      "喜剧": 0.27,
+      "悬疑": 0.78
+    }
+  },
+  {
+    "user_id": 298,
+    "city_id": 3,
+    "city_name": "杭州",
+    "interests": [
+      "悬疑",
+      "恋爱"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 70.73049313928627,
+    "last_login": "2025-12-07",
+    "powers": {
+      "悬疑": 0.65,
+      "恋爱": 0.73
+    }
+  },
+  {
+    "user_id": 299,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "科幻"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 65.5624447494592,
+    "last_login": "2025-12-12",
+    "powers": {
+      "科幻": 0.83
+    }
+  },
+  {
+    "user_id": 300,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "音乐",
+      "悬疑",
+      "喜剧"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 50.86749443730336,
+    "last_login": "2025-12-13",
+    "powers": {
+      "音乐": 0.44,
+      "悬疑": 0.91,
+      "喜剧": 0.27
+    }
+  },
+  {
+    "user_id": 301,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "音乐"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 49.78178524375647,
+    "last_login": "2025-12-17",
+    "powers": {
+      "音乐": 0.36
+    }
+  },
+  {
+    "user_id": 302,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "科幻",
+      "恋爱",
+      "喜剧"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 51.42442288923787,
+    "last_login": "2025-12-18",
+    "powers": {
+      "科幻": 0.26,
+      "恋爱": 0.29,
+      "喜剧": 0.49
+    }
+  },
+  {
+    "user_id": 303,
+    "city_id": 2,
+    "city_name": "北京",
+    "interests": [
+      "悬疑",
+      "恋爱"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 53.96262767629618,
+    "last_login": "2025-12-16",
+    "powers": {
+      "悬疑": 0.19,
+      "恋爱": 0.92
+    }
+  },
+  {
+    "user_id": 304,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "科幻",
+      "历史",
+      "动作",
+      "恋爱"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 83.92062094013583,
+    "last_login": "2025-12-18",
+    "powers": {
+      "科幻": 0.48,
+      "历史": 0.58,
+      "动作": 0.41,
+      "恋爱": 0.96
+    }
+  },
+  {
+    "user_id": 305,
+    "city_id": 3,
+    "city_name": "杭州",
+    "interests": [
+      "剧情",
+      "悬疑",
+      "动作"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 56.399066867312285,
+    "last_login": "2025-12-15",
+    "powers": {
+      "剧情": 0.22,
+      "悬疑": 0.54,
+      "动作": 0.5
+    }
+  },
+  {
+    "user_id": 306,
+    "city_id": 2,
+    "city_name": "北京",
+    "interests": [
+      "悬疑",
+      "剧情",
+      "历史"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 58.349086948463395,
+    "last_login": "2025-12-13",
+    "powers": {
+      "悬疑": 0.18,
+      "剧情": 0.97,
+      "历史": 0.16
+    }
+  },
+  {
+    "user_id": 307,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "悬疑",
+      "历史",
+      "科幻"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 75.7520187249455,
+    "last_login": "2025-12-19",
+    "powers": {
+      "悬疑": 0.85,
+      "历史": 0.44,
+      "科幻": 0.59
+    }
+  },
+  {
+    "user_id": 308,
+    "city_id": 3,
+    "city_name": "杭州",
+    "interests": [
+      "剧情",
+      "科幻"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 54.181972453864866,
+    "last_login": "2025-12-11",
+    "powers": {
+      "剧情": 0.22,
+      "科幻": 0.24
+    }
+  },
+  {
+    "user_id": 309,
+    "city_id": 3,
+    "city_name": "杭州",
+    "interests": [
+      "喜剧",
+      "冒险"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 70.14302378933651,
+    "last_login": "2025-12-15",
+    "powers": {
+      "喜剧": 0.6,
+      "冒险": 0.17
+    }
+  },
+  {
+    "user_id": 310,
+    "city_id": 2,
+    "city_name": "北京",
+    "interests": [
+      "恋爱",
+      "喜剧",
+      "动作",
+      "剧情"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 77.74026358247367,
+    "last_login": "2025-12-10",
+    "powers": {
+      "恋爱": 0.56,
+      "喜剧": 0.82,
+      "动作": 0.95,
+      "剧情": 0.32
+    }
+  },
+  {
+    "user_id": 311,
+    "city_id": 3,
+    "city_name": "杭州",
+    "interests": [
+      "剧情",
+      "悬疑"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 44.191927425156805,
+    "last_login": "2025-12-08",
+    "powers": {
+      "剧情": 0.2,
+      "悬疑": 0.36
+    }
+  },
+  {
+    "user_id": 312,
+    "city_id": 2,
+    "city_name": "北京",
+    "interests": [
+      "剧情"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 90.28951489120266,
+    "last_login": "2025-12-14",
+    "powers": {
+      "剧情": 0.66
+    }
+  },
+  {
+    "user_id": 313,
+    "city_id": 3,
+    "city_name": "杭州",
+    "interests": [
+      "音乐"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 52.84866726757325,
+    "last_login": "2025-12-13",
+    "powers": {
+      "音乐": 0.47
+    }
+  },
+  {
+    "user_id": 314,
+    "city_id": 5,
+    "city_name": "广州",
+    "interests": [
+      "剧情",
+      "动作",
+      "历史"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 69.25903080799335,
+    "last_login": "2025-12-12",
+    "powers": {
+      "剧情": 0.16,
+      "动作": 0.61,
+      "历史": 0.12
+    }
+  },
+  {
+    "user_id": 315,
+    "city_id": 5,
+    "city_name": "广州",
+    "interests": [
+      "音乐",
+      "动作",
+      "剧情",
+      "科幻"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 63.49208049527925,
+    "last_login": "2025-12-13",
+    "powers": {
+      "音乐": 0.87,
+      "动作": 0.92,
+      "剧情": 0.85,
+      "科幻": 0.59
+    }
+  },
+  {
+    "user_id": 316,
+    "city_id": 3,
+    "city_name": "杭州",
+    "interests": [
+      "动作",
+      "恋爱",
+      "冒险",
+      "音乐"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 67.15719714323485,
+    "last_login": "2025-12-16",
+    "powers": {
+      "动作": 0.23,
+      "恋爱": 0.57,
+      "冒险": 0.62,
+      "音乐": 0.61
+    }
+  },
+  {
+    "user_id": 317,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "科幻"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 34.205591538758824,
+    "last_login": "2025-12-13",
+    "powers": {
+      "科幻": 0.25
+    }
+  },
+  {
+    "user_id": 318,
+    "city_id": 5,
+    "city_name": "广州",
+    "interests": [
+      "恋爱",
+      "历史",
+      "悬疑"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 61.60405635801162,
+    "last_login": "2025-12-13",
+    "powers": {
+      "恋爱": 0.36,
+      "历史": 0.67,
+      "悬疑": 0.7
+    }
+  },
+  {
+    "user_id": 319,
+    "city_id": 2,
+    "city_name": "北京",
+    "interests": [
+      "喜剧",
+      "历史"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 71.76390098373307,
+    "last_login": "2025-12-15",
+    "powers": {
+      "喜剧": 0.51,
+      "历史": 0.35
+    }
+  },
+  {
+    "user_id": 320,
+    "city_id": 5,
+    "city_name": "广州",
+    "interests": [
+      "喜剧",
+      "剧情",
+      "动作",
+      "冒险"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 62.52704825945597,
+    "last_login": "2025-12-14",
+    "powers": {
+      "喜剧": 0.47,
+      "剧情": 0.98,
+      "动作": 0.58,
+      "冒险": 0.57
+    }
+  },
+  {
+    "user_id": 321,
+    "city_id": 5,
+    "city_name": "广州",
+    "interests": [
+      "恋爱",
+      "动作",
+      "冒险",
+      "科幻"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 75.30648370115827,
+    "last_login": "2025-12-17",
+    "powers": {
+      "恋爱": 0.76,
+      "动作": 0.17,
+      "冒险": 0.31,
+      "科幻": 0.96
+    }
+  },
+  {
+    "user_id": 322,
+    "city_id": 2,
+    "city_name": "北京",
+    "interests": [
+      "恋爱",
+      "冒险",
+      "剧情"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 67.95996024556719,
+    "last_login": "2025-12-12",
+    "powers": {
+      "恋爱": 0.59,
+      "冒险": 0.77,
+      "剧情": 0.99
+    }
+  },
+  {
+    "user_id": 323,
+    "city_id": 6,
+    "city_name": "上海",
+    "interests": [
+      "冒险",
+      "音乐",
+      "历史"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 78.5887753341509,
+    "last_login": "2025-12-15",
+    "powers": {
+      "冒险": 0.24,
+      "音乐": 0.55,
+      "历史": 0.47
+    }
+  },
+  {
+    "user_id": 324,
+    "city_id": 2,
+    "city_name": "北京",
+    "interests": [
+      "恋爱",
+      "历史",
+      "冒险",
+      "科幻"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 67.34584547690196,
+    "last_login": "2025-12-20",
+    "powers": {
+      "恋爱": 0.88,
+      "历史": 0.7,
+      "冒险": 0.71,
+      "科幻": 0.91
+    }
+  },
+  {
+    "user_id": 325,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "剧情",
+      "历史",
+      "音乐",
+      "悬疑"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 69.13980754718894,
+    "last_login": "2025-12-16",
+    "powers": {
+      "剧情": 0.78,
+      "历史": 0.38,
+      "音乐": 0.47,
+      "悬疑": 0.9
+    }
+  },
+  {
+    "user_id": 326,
+    "city_id": 8,
+    "city_name": "武汉",
+    "interests": [
+      "冒险"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 57.77831508571813,
+    "last_login": "2025-12-10",
+    "powers": {
+      "冒险": 0.6
+    }
+  },
+  {
+    "user_id": 327,
+    "city_id": 2,
+    "city_name": "北京",
+    "interests": [
+      "悬疑",
+      "恋爱",
+      "冒险",
+      "剧情"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 72.8379905718491,
+    "last_login": "2025-12-14",
+    "powers": {
+      "悬疑": 0.96,
+      "恋爱": 0.79,
+      "冒险": 0.55,
+      "剧情": 0.71
+    }
+  },
+  {
+    "user_id": 328,
+    "city_id": 11,
+    "city_name": "重庆",
+    "interests": [
+      "喜剧"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 94.685125407684,
+    "last_login": "2025-12-09",
+    "powers": {
+      "喜剧": 0.79
+    }
+  },
+  {
+    "user_id": 329,
+    "city_id": 2,
+    "city_name": "北京",
+    "interests": [
+      "音乐",
+      "动作",
+      "剧情"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 53.231514129437606,
+    "last_login": "2025-12-15",
+    "powers": {
+      "音乐": 0.16,
+      "动作": 0.7,
+      "剧情": 0.76
+    }
+  },
+  {
+    "user_id": 330,
+    "city_id": 4,
+    "city_name": "西安",
+    "interests": [
+      "历史",
+      "动作"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 63.84501365373527,
+    "last_login": "2025-12-14",
+    "powers": {
+      "历史": 0.88,
+      "动作": 0.53
+    }
+  },
+  {
+    "user_id": 331,
+    "city_id": 2,
+    "city_name": "北京",
+    "interests": [
+      "恋爱",
+      "冒险",
+      "音乐"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 71.55705844371673,
+    "last_login": "2025-12-15",
+    "powers": {
+      "恋爱": 0.46,
+      "冒险": 0.86,
+      "音乐": 0.18
+    }
+  },
+  {
+    "user_id": 332,
+    "city_id": 3,
+    "city_name": "杭州",
+    "interests": [
+      "剧情",
+      "悬疑"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 68.60323020274726,
+    "last_login": "2025-12-13",
+    "powers": {
+      "剧情": 0.61,
+      "悬疑": 0.59
+    }
+  },
+  {
+    "user_id": 333,
+    "city_id": 3,
+    "city_name": "杭州",
+    "interests": [
+      "音乐",
+      "剧情",
+      "动作",
+      "历史"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 43.71833198733322,
+    "last_login": "2025-12-16",
+    "powers": {
+      "音乐": 0.32,
+      "剧情": 0.89,
+      "动作": 0.91,
+      "历史": 0.24
+    }
+  },
+  {
+    "user_id": 334,
+    "city_id": 2,
+    "city_name": "北京",
+    "interests": [
+      "音乐",
+      "悬疑"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 69.72418522376935,
+    "last_login": "2025-12-13",
+    "powers": {
+      "音乐": 0.35,
+      "悬疑": 0.64
+    }
+  },
+  {
+    "user_id": 335,
+    "city_id": 3,
+    "city_name": "杭州",
+    "interests": [
+      "喜剧"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 51.228462576669145,
+    "last_login": "2025-12-12",
+    "powers": {
+      "喜剧": 0.12
+    }
+  },
+  {
+    "user_id": 336,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "冒险",
+      "动作",
+      "音乐"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 84.74367602325665,
+    "last_login": "2025-12-16",
+    "powers": {
+      "冒险": 0.22,
+      "动作": 0.5,
+      "音乐": 0.8
+    }
+  },
+  {
+    "user_id": 337,
+    "city_id": 4,
+    "city_name": "西安",
+    "interests": [
+      "动作",
+      "悬疑",
+      "冒险"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 74.16612606457926,
+    "last_login": "2025-12-13",
+    "powers": {
+      "动作": 0.63,
+      "悬疑": 1.0,
+      "冒险": 0.68
+    }
+  },
+  {
+    "user_id": 338,
+    "city_id": 4,
+    "city_name": "西安",
+    "interests": [
+      "悬疑",
+      "冒险"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 64.3030170741471,
+    "last_login": "2025-12-19",
+    "powers": {
+      "悬疑": 0.32,
+      "冒险": 0.76
+    }
+  },
+  {
+    "user_id": 339,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "剧情"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 60.46380490474215,
+    "last_login": "2025-12-21",
+    "powers": {
+      "剧情": 0.98
+    }
+  },
+  {
+    "user_id": 340,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "历史"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 45.372712445697545,
+    "last_login": "2025-12-15",
+    "powers": {
+      "历史": 0.44
+    }
+  },
+  {
+    "user_id": 341,
+    "city_id": 5,
+    "city_name": "广州",
+    "interests": [
+      "历史"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 52.79946060082662,
+    "last_login": "2025-12-16",
+    "powers": {
+      "历史": 0.49
+    }
+  },
+  {
+    "user_id": 342,
+    "city_id": 3,
+    "city_name": "杭州",
+    "interests": [
+      "科幻"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 48.136723612225325,
+    "last_login": "2025-12-20",
+    "powers": {
+      "科幻": 0.97
+    }
+  },
+  {
+    "user_id": 343,
+    "city_id": 3,
+    "city_name": "杭州",
+    "interests": [
+      "科幻",
+      "恋爱",
+      "喜剧"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 44.83608335236155,
+    "last_login": "2025-12-12",
+    "powers": {
+      "科幻": 0.35,
+      "恋爱": 0.68,
+      "喜剧": 0.66
+    }
+  },
+  {
+    "user_id": 344,
+    "city_id": 5,
+    "city_name": "广州",
+    "interests": [
+      "悬疑",
+      "历史",
+      "冒险",
+      "喜剧"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 68.77477927112987,
+    "last_login": "2025-12-14",
+    "powers": {
+      "悬疑": 0.81,
+      "历史": 0.68,
+      "冒险": 0.35,
+      "喜剧": 0.78
+    }
+  },
+  {
+    "user_id": 345,
+    "city_id": 3,
+    "city_name": "杭州",
+    "interests": [
+      "悬疑",
+      "音乐"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 44.7568237844773,
+    "last_login": "2025-12-17",
+    "powers": {
+      "悬疑": 0.25,
+      "音乐": 0.31
+    }
+  },
+  {
+    "user_id": 346,
+    "city_id": 5,
+    "city_name": "广州",
+    "interests": [
+      "动作",
+      "喜剧"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 68.1009575305728,
+    "last_login": "2025-12-12",
+    "powers": {
+      "动作": 0.26,
+      "喜剧": 0.61
+    }
+  },
+  {
+    "user_id": 347,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "科幻",
+      "悬疑",
+      "历史"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 64.43794496294366,
+    "last_login": "2025-12-12",
+    "powers": {
+      "科幻": 0.33,
+      "悬疑": 0.47,
+      "历史": 0.86
+    }
+  },
+  {
+    "user_id": 348,
+    "city_id": 2,
+    "city_name": "北京",
+    "interests": [
+      "冒险"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 71.33423314071521,
+    "last_login": "2025-12-12",
+    "powers": {
+      "冒险": 0.96
+    }
+  },
+  {
+    "user_id": 349,
+    "city_id": 5,
+    "city_name": "广州",
+    "interests": [
+      "喜剧",
+      "恋爱",
+      "动作",
+      "历史"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 77.52745426903275,
+    "last_login": "2025-12-08",
+    "powers": {
+      "喜剧": 0.92,
+      "恋爱": 0.5,
+      "动作": 0.88,
+      "历史": 0.87
+    }
+  },
+  {
+    "user_id": 350,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "剧情",
+      "喜剧",
+      "音乐",
+      "历史"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 69.029909877668,
+    "last_login": "2025-12-17",
+    "powers": {
+      "剧情": 0.37,
+      "喜剧": 0.42,
+      "音乐": 0.84,
+      "历史": 0.77
+    }
+  },
+  {
+    "user_id": 351,
+    "city_id": 10,
+    "city_name": "苏州",
+    "interests": [
+      "恋爱",
+      "音乐",
+      "动作"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 72.19057569659927,
+    "last_login": "2025-12-13",
+    "powers": {
+      "恋爱": 0.46,
+      "音乐": 0.44,
+      "动作": 0.47
+    }
+  },
+  {
+    "user_id": 352,
+    "city_id": 11,
+    "city_name": "重庆",
+    "interests": [
+      "动作",
+      "音乐",
+      "剧情",
+      "科幻"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 51.63457009236987,
+    "last_login": "2025-12-12",
+    "powers": {
+      "动作": 0.72,
+      "音乐": 0.35,
+      "剧情": 0.31,
+      "科幻": 0.16
+    }
+  },
+  {
+    "user_id": 353,
+    "city_id": 3,
+    "city_name": "杭州",
+    "interests": [
+      "冒险"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 60.81453025811771,
+    "last_login": "2025-12-16",
+    "powers": {
+      "冒险": 0.4
+    }
+  },
+  {
+    "user_id": 354,
+    "city_id": 7,
+    "city_name": "成都",
+    "interests": [
+      "恋爱",
+      "剧情",
+      "喜剧"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 75.46734482446456,
+    "last_login": "2025-12-15",
+    "powers": {
+      "恋爱": 0.78,
+      "剧情": 0.27,
+      "喜剧": 0.17
+    }
+  },
+  {
+    "user_id": 355,
+    "city_id": 10,
+    "city_name": "苏州",
+    "interests": [
+      "冒险",
+      "历史",
+      "恋爱",
+      "动作"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 81.88163076087528,
+    "last_login": "2025-12-09",
+    "powers": {
+      "冒险": 0.39,
+      "历史": 0.36,
+      "恋爱": 0.37,
+      "动作": 0.74
+    }
+  },
+  {
+    "user_id": 356,
+    "city_id": 2,
+    "city_name": "北京",
+    "interests": [
+      "剧情",
+      "喜剧"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 77.01386107272772,
+    "last_login": "2025-12-11",
+    "powers": {
+      "剧情": 0.12,
+      "喜剧": 0.36
+    }
+  },
+  {
+    "user_id": 357,
+    "city_id": 11,
+    "city_name": "重庆",
+    "interests": [
+      "音乐",
+      "冒险",
+      "剧情",
+      "恋爱"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 55.65677208457399,
+    "last_login": "2025-12-20",
+    "powers": {
+      "音乐": 0.72,
+      "冒险": 0.25,
+      "剧情": 0.12,
+      "恋爱": 0.46
+    }
+  },
+  {
+    "user_id": 358,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "喜剧",
+      "音乐",
+      "恋爱",
+      "剧情"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 45.64993817332672,
+    "last_login": "2025-12-12",
+    "powers": {
+      "喜剧": 0.88,
+      "音乐": 0.32,
+      "恋爱": 0.7,
+      "剧情": 0.55
+    }
+  },
+  {
+    "user_id": 359,
+    "city_id": 3,
+    "city_name": "杭州",
+    "interests": [
+      "科幻",
+      "剧情"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 36.03519827583428,
+    "last_login": "2025-12-15",
+    "powers": {
+      "科幻": 0.2,
+      "剧情": 0.9
+    }
+  },
+  {
+    "user_id": 360,
+    "city_id": 2,
+    "city_name": "北京",
+    "interests": [
+      "恋爱",
+      "剧情"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 41.36136127662738,
+    "last_login": "2025-12-11",
+    "powers": {
+      "恋爱": 0.72,
+      "剧情": 0.67
+    }
+  },
+  {
+    "user_id": 361,
+    "city_id": 5,
+    "city_name": "广州",
+    "interests": [
+      "剧情",
+      "悬疑",
+      "喜剧"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 81.9437562172945,
+    "last_login": "2025-12-12",
+    "powers": {
+      "剧情": 0.84,
+      "悬疑": 0.67,
+      "喜剧": 0.62
+    }
+  },
+  {
+    "user_id": 362,
+    "city_id": 5,
+    "city_name": "广州",
+    "interests": [
+      "剧情",
+      "音乐",
+      "历史",
+      "恋爱"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 53.78585255031863,
+    "last_login": "2025-12-15",
+    "powers": {
+      "剧情": 0.91,
+      "音乐": 0.11,
+      "历史": 0.63,
+      "恋爱": 0.93
+    }
+  },
+  {
+    "user_id": 363,
+    "city_id": 5,
+    "city_name": "广州",
+    "interests": [
+      "恋爱",
+      "动作",
+      "历史"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 51.92441432940438,
+    "last_login": "2025-12-17",
+    "powers": {
+      "恋爱": 0.88,
+      "动作": 0.44,
+      "历史": 0.95
+    }
+  },
+  {
+    "user_id": 364,
+    "city_id": 3,
+    "city_name": "杭州",
+    "interests": [
+      "冒险",
+      "历史"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 86.75530473679339,
+    "last_login": "2025-12-16",
+    "powers": {
+      "冒险": 0.15,
+      "历史": 0.71
+    }
+  },
+  {
+    "user_id": 365,
+    "city_id": 10,
+    "city_name": "苏州",
+    "interests": [
+      "冒险"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 75.32750660525383,
+    "last_login": "2025-12-14",
+    "powers": {
+      "冒险": 0.89
+    }
+  },
+  {
+    "user_id": 366,
+    "city_id": 2,
+    "city_name": "北京",
+    "interests": [
+      "剧情"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 55.1581777433093,
+    "last_login": "2025-12-14",
+    "powers": {
+      "剧情": 0.55
+    }
+  },
+  {
+    "user_id": 367,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "喜剧"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 81.23097537111184,
+    "last_login": "2025-12-10",
+    "powers": {
+      "喜剧": 0.55
+    }
+  },
+  {
+    "user_id": 368,
+    "city_id": 6,
+    "city_name": "上海",
+    "interests": [
+      "历史"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 50.844594388591695,
+    "last_login": "2025-12-10",
+    "powers": {
+      "历史": 0.96
+    }
+  },
+  {
+    "user_id": 369,
+    "city_id": 5,
+    "city_name": "广州",
+    "interests": [
+      "剧情",
+      "悬疑"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 34.24473775093584,
+    "last_login": "2025-12-11",
+    "powers": {
+      "剧情": 0.42,
+      "悬疑": 0.83
+    }
+  },
+  {
+    "user_id": 370,
+    "city_id": 8,
+    "city_name": "武汉",
+    "interests": [
+      "剧情",
+      "动作",
+      "喜剧"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 49.04037052576404,
+    "last_login": "2025-12-15",
+    "powers": {
+      "剧情": 0.88,
+      "动作": 0.19,
+      "喜剧": 0.91
+    }
+  },
+  {
+    "user_id": 371,
+    "city_id": 9,
+    "city_name": "南京",
+    "interests": [
+      "历史",
+      "冒险"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 51.66163674476367,
+    "last_login": "2025-12-10",
+    "powers": {
+      "历史": 0.25,
+      "冒险": 0.49
+    }
+  },
+  {
+    "user_id": 372,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "动作",
+      "剧情",
+      "音乐"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 82.78114941336315,
+    "last_login": "2025-12-13",
+    "powers": {
+      "动作": 0.38,
+      "剧情": 0.97,
+      "音乐": 0.45
+    }
+  },
+  {
+    "user_id": 373,
+    "city_id": 2,
+    "city_name": "北京",
+    "interests": [
+      "悬疑",
+      "历史",
+      "剧情",
+      "恋爱"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 51.67493175521207,
+    "last_login": "2025-12-13",
+    "powers": {
+      "悬疑": 0.25,
+      "历史": 0.42,
+      "剧情": 0.43,
+      "恋爱": 0.16
+    }
+  },
+  {
+    "user_id": 374,
+    "city_id": 3,
+    "city_name": "杭州",
+    "interests": [
+      "科幻",
+      "历史",
+      "冒险"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 58.873237861987,
+    "last_login": "2025-12-17",
+    "powers": {
+      "科幻": 0.59,
+      "历史": 0.92,
+      "冒险": 0.25
+    }
+  },
+  {
+    "user_id": 375,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "动作",
+      "冒险",
+      "悬疑"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 84.36713609086944,
+    "last_login": "2025-12-09",
+    "powers": {
+      "动作": 0.17,
+      "冒险": 0.95,
+      "悬疑": 0.85
+    }
+  },
+  {
+    "user_id": 376,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "恋爱",
+      "历史",
+      "冒险"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 64.5417042806395,
+    "last_login": "2025-12-14",
+    "powers": {
+      "恋爱": 0.34,
+      "历史": 0.98,
+      "冒险": 0.98
+    }
+  },
+  {
+    "user_id": 377,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "冒险",
+      "剧情",
+      "音乐",
+      "科幻"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 85.59917301584605,
+    "last_login": "2025-12-21",
+    "powers": {
+      "冒险": 0.7,
+      "剧情": 0.45,
+      "音乐": 0.93,
+      "科幻": 0.19
+    }
+  },
+  {
+    "user_id": 378,
+    "city_id": 2,
+    "city_name": "北京",
+    "interests": [
+      "恋爱"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 50.344886949001605,
+    "last_login": "2025-12-19",
+    "powers": {
+      "恋爱": 0.16
+    }
+  },
+  {
+    "user_id": 379,
+    "city_id": 5,
+    "city_name": "广州",
+    "interests": [
+      "音乐",
+      "历史",
+      "科幻",
+      "恋爱"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 85.67066484712417,
+    "last_login": "2025-12-15",
+    "powers": {
+      "音乐": 0.15,
+      "历史": 0.49,
+      "科幻": 0.92,
+      "恋爱": 0.57
+    }
+  },
+  {
+    "user_id": 380,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "动作",
+      "剧情",
+      "音乐"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 63.28211780500202,
+    "last_login": "2025-12-15",
+    "powers": {
+      "动作": 0.66,
+      "剧情": 0.32,
+      "音乐": 0.59
+    }
+  },
+  {
+    "user_id": 381,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "冒险",
+      "恋爱",
+      "历史",
+      "悬疑"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 84.37088352482843,
+    "last_login": "2025-12-14",
+    "powers": {
+      "冒险": 0.51,
+      "恋爱": 0.54,
+      "历史": 0.24,
+      "悬疑": 0.68
+    }
+  },
+  {
+    "user_id": 382,
+    "city_id": 5,
+    "city_name": "广州",
+    "interests": [
+      "喜剧",
+      "科幻"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 80.89185374066854,
+    "last_login": "2025-12-17",
+    "powers": {
+      "喜剧": 0.11,
+      "科幻": 0.95
+    }
+  },
+  {
+    "user_id": 383,
+    "city_id": 2,
+    "city_name": "北京",
+    "interests": [
+      "动作",
+      "冒险",
+      "悬疑"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 44.661691211629304,
+    "last_login": "2025-12-12",
+    "powers": {
+      "动作": 0.58,
+      "冒险": 0.85,
+      "悬疑": 0.66
+    }
+  },
+  {
+    "user_id": 384,
+    "city_id": 2,
+    "city_name": "北京",
+    "interests": [
+      "音乐",
+      "科幻",
+      "悬疑",
+      "历史"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 59.86009638960546,
+    "last_login": "2025-12-16",
+    "powers": {
+      "音乐": 0.97,
+      "科幻": 0.89,
+      "悬疑": 0.81,
+      "历史": 0.49
+    }
+  },
+  {
+    "user_id": 385,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "悬疑",
+      "音乐",
+      "动作",
+      "喜剧"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 71.73323826808885,
+    "last_login": "2025-12-20",
+    "powers": {
+      "悬疑": 0.13,
+      "音乐": 0.41,
+      "动作": 0.42,
+      "喜剧": 0.61
+    }
+  },
+  {
+    "user_id": 386,
+    "city_id": 5,
+    "city_name": "广州",
+    "interests": [
+      "冒险",
+      "悬疑",
+      "科幻"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 53.18110529594368,
+    "last_login": "2025-12-17",
+    "powers": {
+      "冒险": 0.79,
+      "悬疑": 0.76,
+      "科幻": 0.9
+    }
+  },
+  {
+    "user_id": 387,
+    "city_id": 3,
+    "city_name": "杭州",
+    "interests": [
+      "喜剧"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 68.95110796752628,
+    "last_login": "2025-12-12",
+    "powers": {
+      "喜剧": 0.72
+    }
+  },
+  {
+    "user_id": 388,
+    "city_id": 2,
+    "city_name": "北京",
+    "interests": [
+      "历史"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 65.42723774552506,
+    "last_login": "2025-12-07",
+    "powers": {
+      "历史": 0.89
+    }
+  },
+  {
+    "user_id": 389,
+    "city_id": 5,
+    "city_name": "广州",
+    "interests": [
+      "悬疑"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 49.44124179484044,
+    "last_login": "2025-12-11",
+    "powers": {
+      "悬疑": 0.92
+    }
+  },
+  {
+    "user_id": 390,
+    "city_id": 2,
+    "city_name": "北京",
+    "interests": [
+      "音乐",
+      "冒险"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 61.0839451247471,
+    "last_login": "2025-12-10",
+    "powers": {
+      "音乐": 0.33,
+      "冒险": 0.18
+    }
+  },
+  {
+    "user_id": 391,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "科幻",
+      "冒险"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 100.0,
+    "last_login": "2025-12-11",
+    "powers": {
+      "科幻": 0.3,
+      "冒险": 0.5
+    }
+  },
+  {
+    "user_id": 392,
+    "city_id": 3,
+    "city_name": "杭州",
+    "interests": [
+      "冒险",
+      "音乐",
+      "恋爱",
+      "动作"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 68.47128255145975,
+    "last_login": "2025-12-13",
+    "powers": {
+      "冒险": 0.81,
+      "音乐": 0.98,
+      "恋爱": 0.58,
+      "动作": 0.33
+    }
+  },
+  {
+    "user_id": 393,
+    "city_id": 2,
+    "city_name": "北京",
+    "interests": [
+      "悬疑",
+      "动作",
+      "剧情"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 78.13311524463903,
+    "last_login": "2025-12-17",
+    "powers": {
+      "悬疑": 0.51,
+      "动作": 0.91,
+      "剧情": 0.94
+    }
+  },
+  {
+    "user_id": 394,
+    "city_id": 2,
+    "city_name": "北京",
+    "interests": [
+      "音乐",
+      "喜剧",
+      "剧情",
+      "科幻"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 67.90796530915068,
+    "last_login": "2025-12-16",
+    "powers": {
+      "音乐": 0.16,
+      "喜剧": 0.89,
+      "剧情": 0.69,
+      "科幻": 0.95
+    }
+  },
+  {
+    "user_id": 395,
+    "city_id": 11,
+    "city_name": "重庆",
+    "interests": [
+      "喜剧"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 72.89023051111228,
+    "last_login": "2025-12-18",
+    "powers": {
+      "喜剧": 0.7
+    }
+  },
+  {
+    "user_id": 396,
+    "city_id": 2,
+    "city_name": "北京",
+    "interests": [
+      "冒险",
+      "音乐"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 63.61460419178058,
+    "last_login": "2025-12-13",
+    "powers": {
+      "冒险": 0.18,
+      "音乐": 0.7
+    }
+  },
+  {
+    "user_id": 397,
+    "city_id": 11,
+    "city_name": "重庆",
+    "interests": [
+      "科幻",
+      "悬疑",
+      "剧情",
+      "音乐"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 65.02867661969643,
+    "last_login": "2025-12-11",
+    "powers": {
+      "科幻": 0.38,
+      "悬疑": 0.31,
+      "剧情": 0.12,
+      "音乐": 0.3
+    }
+  },
+  {
+    "user_id": 398,
+    "city_id": 5,
+    "city_name": "广州",
+    "interests": [
+      "动作",
+      "音乐",
+      "历史",
+      "恋爱"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 57.86160883830216,
+    "last_login": "2025-12-10",
+    "powers": {
+      "动作": 0.44,
+      "音乐": 0.69,
+      "历史": 0.47,
+      "恋爱": 0.8
+    }
+  },
+  {
+    "user_id": 399,
+    "city_id": 2,
+    "city_name": "北京",
+    "interests": [
+      "悬疑",
+      "恋爱",
+      "音乐",
+      "冒险"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 55.31995183576842,
+    "last_login": "2025-12-18",
+    "powers": {
+      "悬疑": 0.27,
+      "恋爱": 0.96,
+      "音乐": 0.35,
+      "冒险": 0.4
+    }
+  },
+  {
+    "user_id": 400,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "冒险"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 75.26417432568701,
+    "last_login": "2025-12-15",
+    "powers": {
+      "冒险": 0.32
+    }
+  },
+  {
+    "user_id": 401,
+    "city_id": 10,
+    "city_name": "苏州",
+    "interests": [
+      "喜剧",
+      "动作"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 50.03597380861914,
+    "last_login": "2025-12-20",
+    "powers": {
+      "喜剧": 0.83,
+      "动作": 0.17
+    }
+  },
+  {
+    "user_id": 402,
+    "city_id": 2,
+    "city_name": "北京",
+    "interests": [
+      "音乐",
+      "剧情",
+      "悬疑"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 39.21121495716841,
+    "last_login": "2025-12-17",
+    "powers": {
+      "音乐": 0.94,
+      "剧情": 0.33,
+      "悬疑": 0.43
+    }
+  },
+  {
+    "user_id": 403,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "历史",
+      "恋爱"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 42.09740991558629,
+    "last_login": "2025-12-13",
+    "powers": {
+      "历史": 0.48,
+      "恋爱": 0.57
+    }
+  },
+  {
+    "user_id": 404,
+    "city_id": 10,
+    "city_name": "苏州",
+    "interests": [
+      "冒险",
+      "科幻",
+      "剧情",
+      "动作"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 58.555628446487376,
+    "last_login": "2025-12-14",
+    "powers": {
+      "冒险": 0.26,
+      "科幻": 0.27,
+      "剧情": 0.54,
+      "动作": 0.64
+    }
+  },
+  {
+    "user_id": 405,
+    "city_id": 2,
+    "city_name": "北京",
+    "interests": [
+      "动作",
+      "音乐",
+      "悬疑"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 62.00156812859197,
+    "last_login": "2025-12-10",
+    "powers": {
+      "动作": 0.5,
+      "音乐": 0.71,
+      "悬疑": 0.33
+    }
+  },
+  {
+    "user_id": 406,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "历史"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 45.94624794025877,
+    "last_login": "2025-12-15",
+    "powers": {
+      "历史": 0.91
+    }
+  },
+  {
+    "user_id": 407,
+    "city_id": 10,
+    "city_name": "苏州",
+    "interests": [
+      "悬疑"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 62.397604219212546,
+    "last_login": "2025-12-20",
+    "powers": {
+      "悬疑": 0.33
+    }
+  },
+  {
+    "user_id": 408,
+    "city_id": 8,
+    "city_name": "武汉",
+    "interests": [
+      "历史"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 59.998008473526944,
+    "last_login": "2025-12-13",
+    "powers": {
+      "历史": 0.66
+    }
+  },
+  {
+    "user_id": 409,
+    "city_id": 3,
+    "city_name": "杭州",
+    "interests": [
+      "冒险"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 68.44827108825567,
+    "last_login": "2025-12-20",
+    "powers": {
+      "冒险": 0.97
+    }
+  },
+  {
+    "user_id": 410,
+    "city_id": 3,
+    "city_name": "杭州",
+    "interests": [
+      "恋爱",
+      "科幻",
+      "音乐",
+      "动作"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 79.68261516724633,
+    "last_login": "2025-12-16",
+    "powers": {
+      "恋爱": 0.65,
+      "科幻": 0.28,
+      "音乐": 0.54,
+      "动作": 0.48
+    }
+  },
+  {
+    "user_id": 411,
+    "city_id": 5,
+    "city_name": "广州",
+    "interests": [
+      "科幻",
+      "喜剧",
+      "冒险",
+      "动作"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 56.47473862372419,
+    "last_login": "2025-12-19",
+    "powers": {
+      "科幻": 0.48,
+      "喜剧": 0.58,
+      "冒险": 0.98,
+      "动作": 0.65
+    }
+  },
+  {
+    "user_id": 412,
+    "city_id": 12,
+    "city_name": "天津",
+    "interests": [
+      "剧情",
+      "恋爱",
+      "喜剧",
+      "音乐"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 56.29093089739599,
+    "last_login": "2025-12-18",
+    "powers": {
+      "剧情": 0.21,
+      "恋爱": 0.81,
+      "喜剧": 0.56,
+      "音乐": 0.88
+    }
+  },
+  {
+    "user_id": 413,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "冒险",
+      "历史",
+      "喜剧",
+      "科幻"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 30.87027439166343,
+    "last_login": "2025-12-15",
+    "powers": {
+      "冒险": 0.37,
+      "历史": 0.76,
+      "喜剧": 0.89,
+      "科幻": 0.23
+    }
+  },
+  {
+    "user_id": 414,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "喜剧"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 99.7696610388279,
+    "last_login": "2025-12-14",
+    "powers": {
+      "喜剧": 0.49
+    }
+  },
+  {
+    "user_id": 415,
+    "city_id": 2,
+    "city_name": "北京",
+    "interests": [
+      "喜剧"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 43.70901329242554,
+    "last_login": "2025-12-20",
+    "powers": {
+      "喜剧": 0.33
+    }
+  },
+  {
+    "user_id": 416,
+    "city_id": 8,
+    "city_name": "武汉",
+    "interests": [
+      "剧情",
+      "科幻",
+      "冒险"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 37.545788006695595,
+    "last_login": "2025-12-13",
+    "powers": {
+      "剧情": 0.28,
+      "科幻": 0.21,
+      "冒险": 0.57
+    }
+  },
+  {
+    "user_id": 417,
+    "city_id": 3,
+    "city_name": "杭州",
+    "interests": [
+      "恋爱"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 46.827954849739506,
+    "last_login": "2025-12-14",
+    "powers": {
+      "恋爱": 0.46
+    }
+  },
+  {
+    "user_id": 418,
+    "city_id": 8,
+    "city_name": "武汉",
+    "interests": [
+      "动作"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 58.843985497975346,
+    "last_login": "2025-12-17",
+    "powers": {
+      "动作": 0.79
+    }
+  },
+  {
+    "user_id": 419,
+    "city_id": 12,
+    "city_name": "天津",
+    "interests": [
+      "剧情",
+      "音乐",
+      "科幻",
+      "动作"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 52.494350069683456,
+    "last_login": "2025-12-09",
+    "powers": {
+      "剧情": 0.52,
+      "音乐": 0.89,
+      "科幻": 0.89,
+      "动作": 0.71
+    }
+  },
+  {
+    "user_id": 420,
+    "city_id": 2,
+    "city_name": "北京",
+    "interests": [
+      "科幻",
+      "恋爱",
+      "喜剧"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 65.09224605811639,
+    "last_login": "2025-12-14",
+    "powers": {
+      "科幻": 0.93,
+      "恋爱": 0.94,
+      "喜剧": 0.55
+    }
+  },
+  {
+    "user_id": 421,
+    "city_id": 8,
+    "city_name": "武汉",
+    "interests": [
+      "剧情",
+      "动作",
+      "喜剧",
+      "悬疑"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 40.531139004209564,
+    "last_login": "2025-12-13",
+    "powers": {
+      "剧情": 0.73,
+      "动作": 0.97,
+      "喜剧": 0.17,
+      "悬疑": 0.41
+    }
+  },
+  {
+    "user_id": 422,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "恋爱",
+      "剧情",
+      "冒险"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 77.55833723282306,
+    "last_login": "2025-12-16",
+    "powers": {
+      "恋爱": 0.93,
+      "剧情": 0.88,
+      "冒险": 0.97
+    }
+  },
+  {
+    "user_id": 423,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "冒险",
+      "历史"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 53.23375290953998,
+    "last_login": "2025-12-17",
+    "powers": {
+      "冒险": 0.8,
+      "历史": 0.9
+    }
+  },
+  {
+    "user_id": 424,
+    "city_id": 2,
+    "city_name": "北京",
+    "interests": [
+      "悬疑",
+      "科幻",
+      "动作"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 76.57440710714984,
+    "last_login": "2025-12-16",
+    "powers": {
+      "悬疑": 0.5,
+      "科幻": 0.75,
+      "动作": 0.46
+    }
+  },
+  {
+    "user_id": 425,
+    "city_id": 3,
+    "city_name": "杭州",
+    "interests": [
+      "喜剧",
+      "动作",
+      "恋爱",
+      "冒险"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 92.42754118480673,
+    "last_login": "2025-12-18",
+    "powers": {
+      "喜剧": 0.79,
+      "动作": 0.21,
+      "恋爱": 0.87,
+      "冒险": 0.74
+    }
+  },
+  {
+    "user_id": 426,
+    "city_id": 5,
+    "city_name": "广州",
+    "interests": [
+      "动作",
+      "历史",
+      "恋爱"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 52.795299862524594,
+    "last_login": "2025-12-12",
+    "powers": {
+      "动作": 0.86,
+      "历史": 0.5,
+      "恋爱": 1.0
+    }
+  },
+  {
+    "user_id": 427,
+    "city_id": 12,
+    "city_name": "天津",
+    "interests": [
+      "恋爱",
+      "冒险",
+      "喜剧",
+      "历史"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 72.87047618433974,
+    "last_login": "2025-12-15",
+    "powers": {
+      "恋爱": 0.62,
+      "冒险": 0.66,
+      "喜剧": 0.4,
+      "历史": 0.14
+    }
+  },
+  {
+    "user_id": 428,
+    "city_id": 3,
+    "city_name": "杭州",
+    "interests": [
+      "动作",
+      "恋爱",
+      "冒险",
+      "剧情"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 44.34102389752374,
+    "last_login": "2025-12-17",
+    "powers": {
+      "动作": 0.55,
+      "恋爱": 0.34,
+      "冒险": 0.9,
+      "剧情": 0.33
+    }
+  },
+  {
+    "user_id": 429,
+    "city_id": 4,
+    "city_name": "西安",
+    "interests": [
+      "悬疑"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 76.00235533402238,
+    "last_login": "2025-12-18",
+    "powers": {
+      "悬疑": 0.52
+    }
+  },
+  {
+    "user_id": 430,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "剧情",
+      "恋爱",
+      "喜剧"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 86.136115934282,
+    "last_login": "2025-12-17",
+    "powers": {
+      "剧情": 0.16,
+      "恋爱": 0.15,
+      "喜剧": 0.81
+    }
+  },
+  {
+    "user_id": 431,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "动作"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 64.27653886314916,
+    "last_login": "2025-12-16",
+    "powers": {
+      "动作": 0.3
+    }
+  },
+  {
+    "user_id": 432,
+    "city_id": 5,
+    "city_name": "广州",
+    "interests": [
+      "恋爱",
+      "音乐"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 67.44037399181676,
+    "last_login": "2025-12-11",
+    "powers": {
+      "恋爱": 0.53,
+      "音乐": 0.18
+    }
+  },
+  {
+    "user_id": 433,
+    "city_id": 5,
+    "city_name": "广州",
+    "interests": [
+      "喜剧",
+      "恋爱",
+      "音乐",
+      "科幻"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 70.1182463664157,
+    "last_login": "2025-12-13",
+    "powers": {
+      "喜剧": 0.25,
+      "恋爱": 0.13,
+      "音乐": 0.94,
+      "科幻": 0.18
+    }
+  },
+  {
+    "user_id": 434,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "悬疑",
+      "历史",
+      "动作"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 90.1086700657954,
+    "last_login": "2025-12-17",
+    "powers": {
+      "悬疑": 0.39,
+      "历史": 0.65,
+      "动作": 0.77
+    }
+  },
+  {
+    "user_id": 435,
+    "city_id": 3,
+    "city_name": "杭州",
+    "interests": [
+      "音乐",
+      "喜剧"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 46.82114899643445,
+    "last_login": "2025-12-19",
+    "powers": {
+      "音乐": 0.8,
+      "喜剧": 0.33
+    }
+  },
+  {
+    "user_id": 436,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "冒险",
+      "剧情",
+      "喜剧"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 50.511576705108574,
+    "last_login": "2025-12-15",
+    "powers": {
+      "冒险": 0.38,
+      "剧情": 0.61,
+      "喜剧": 0.68
+    }
+  },
+  {
+    "user_id": 437,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "喜剧",
+      "科幻"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 44.847932512810054,
+    "last_login": "2025-12-13",
+    "powers": {
+      "喜剧": 0.86,
+      "科幻": 0.19
+    }
+  },
+  {
+    "user_id": 438,
+    "city_id": 10,
+    "city_name": "苏州",
+    "interests": [
+      "历史",
+      "剧情",
+      "音乐"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 78.26072674429284,
+    "last_login": "2025-12-13",
+    "powers": {
+      "历史": 0.79,
+      "剧情": 0.41,
+      "音乐": 0.46
+    }
+  },
+  {
+    "user_id": 439,
+    "city_id": 5,
+    "city_name": "广州",
+    "interests": [
+      "科幻"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 56.63031489402512,
+    "last_login": "2025-12-15",
+    "powers": {
+      "科幻": 1.0
+    }
+  },
+  {
+    "user_id": 440,
+    "city_id": 12,
+    "city_name": "天津",
+    "interests": [
+      "剧情",
+      "动作"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 55.67810502889405,
+    "last_login": "2025-12-15",
+    "powers": {
+      "剧情": 0.12,
+      "动作": 0.42
+    }
+  },
+  {
+    "user_id": 441,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "恋爱",
+      "音乐",
+      "冒险",
+      "历史"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 69.37701672581723,
+    "last_login": "2025-12-14",
+    "powers": {
+      "恋爱": 0.28,
+      "音乐": 0.14,
+      "冒险": 0.97,
+      "历史": 0.96
+    }
+  },
+  {
+    "user_id": 442,
+    "city_id": 2,
+    "city_name": "北京",
+    "interests": [
+      "冒险",
+      "科幻",
+      "悬疑"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 46.55498575613968,
+    "last_login": "2025-12-15",
+    "powers": {
+      "冒险": 0.16,
+      "科幻": 0.53,
+      "悬疑": 0.26
+    }
+  },
+  {
+    "user_id": 443,
+    "city_id": 4,
+    "city_name": "西安",
+    "interests": [
+      "冒险",
+      "音乐"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 25.138752410119316,
+    "last_login": "2025-12-11",
+    "powers": {
+      "冒险": 0.16,
+      "音乐": 0.6
+    }
+  },
+  {
+    "user_id": 444,
+    "city_id": 6,
+    "city_name": "上海",
+    "interests": [
+      "喜剧",
+      "悬疑"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 57.72361319072455,
+    "last_login": "2025-12-16",
+    "powers": {
+      "喜剧": 0.33,
+      "悬疑": 0.81
+    }
+  },
+  {
+    "user_id": 445,
+    "city_id": 3,
+    "city_name": "杭州",
+    "interests": [
+      "冒险"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 54.504249465045845,
+    "last_login": "2025-12-13",
+    "powers": {
+      "冒险": 0.18
+    }
+  },
+  {
+    "user_id": 446,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "悬疑",
+      "科幻"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 57.27905115786461,
+    "last_login": "2025-12-16",
+    "powers": {
+      "悬疑": 0.41,
+      "科幻": 0.48
+    }
+  },
+  {
+    "user_id": 447,
+    "city_id": 5,
+    "city_name": "广州",
+    "interests": [
+      "剧情",
+      "喜剧",
+      "科幻"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 61.40696382246717,
+    "last_login": "2025-12-13",
+    "powers": {
+      "剧情": 0.92,
+      "喜剧": 0.88,
+      "科幻": 0.7
+    }
+  },
+  {
+    "user_id": 448,
+    "city_id": 3,
+    "city_name": "杭州",
+    "interests": [
+      "历史",
+      "音乐"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 59.20708379721135,
+    "last_login": "2025-12-06",
+    "powers": {
+      "历史": 0.49,
+      "音乐": 0.9
+    }
+  },
+  {
+    "user_id": 449,
+    "city_id": 4,
+    "city_name": "西安",
+    "interests": [
+      "剧情",
+      "动作"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 58.00304681246324,
+    "last_login": "2025-12-15",
+    "powers": {
+      "剧情": 0.79,
+      "动作": 0.99
+    }
+  },
+  {
+    "user_id": 450,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "喜剧",
+      "冒险",
+      "动作"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 96.97055741311365,
+    "last_login": "2025-12-10",
+    "powers": {
+      "喜剧": 0.39,
+      "冒险": 0.12,
+      "动作": 0.55
+    }
+  },
+  {
+    "user_id": 451,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "科幻",
+      "冒险"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 50.897431919587085,
+    "last_login": "2025-12-21",
+    "powers": {
+      "科幻": 0.47,
+      "冒险": 0.11
+    }
+  },
+  {
+    "user_id": 452,
+    "city_id": 2,
+    "city_name": "北京",
+    "interests": [
+      "历史",
+      "悬疑"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 66.0933613114517,
+    "last_login": "2025-12-12",
+    "powers": {
+      "历史": 0.94,
+      "悬疑": 0.31
+    }
+  },
+  {
+    "user_id": 453,
+    "city_id": 12,
+    "city_name": "天津",
+    "interests": [
+      "恋爱"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 67.50341283096911,
+    "last_login": "2025-12-12",
+    "powers": {
+      "恋爱": 0.17
+    }
+  },
+  {
+    "user_id": 454,
+    "city_id": 5,
+    "city_name": "广州",
+    "interests": [
+      "冒险",
+      "历史"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 56.07709598848135,
+    "last_login": "2025-12-14",
+    "powers": {
+      "冒险": 0.61,
+      "历史": 0.33
+    }
+  },
+  {
+    "user_id": 455,
+    "city_id": 5,
+    "city_name": "广州",
+    "interests": [
+      "动作",
+      "喜剧",
+      "悬疑"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 76.30627689831552,
+    "last_login": "2025-12-19",
+    "powers": {
+      "动作": 0.24,
+      "喜剧": 0.37,
+      "悬疑": 0.98
+    }
+  },
+  {
+    "user_id": 456,
+    "city_id": 7,
+    "city_name": "成都",
+    "interests": [
+      "科幻",
+      "喜剧",
+      "动作",
+      "剧情"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 43.25438541521627,
+    "last_login": "2025-12-14",
+    "powers": {
+      "科幻": 0.14,
+      "喜剧": 0.6,
+      "动作": 0.27,
+      "剧情": 0.74
+    }
+  },
+  {
+    "user_id": 457,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "恋爱",
+      "历史"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 90.85118353167843,
+    "last_login": "2025-12-11",
+    "powers": {
+      "恋爱": 0.21,
+      "历史": 0.29
+    }
+  },
+  {
+    "user_id": 458,
+    "city_id": 2,
+    "city_name": "北京",
+    "interests": [
+      "音乐"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 65.44901600396109,
+    "last_login": "2025-12-19",
+    "powers": {
+      "音乐": 0.69
+    }
+  },
+  {
+    "user_id": 459,
+    "city_id": 3,
+    "city_name": "杭州",
+    "interests": [
+      "历史",
+      "科幻"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 59.786405502300425,
+    "last_login": "2025-12-16",
+    "powers": {
+      "历史": 0.88,
+      "科幻": 0.56
+    }
+  },
+  {
+    "user_id": 460,
+    "city_id": 3,
+    "city_name": "杭州",
+    "interests": [
+      "冒险",
+      "喜剧",
+      "悬疑"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 45.47997833850881,
+    "last_login": "2025-12-17",
+    "powers": {
+      "冒险": 0.18,
+      "喜剧": 0.78,
+      "悬疑": 0.22
+    }
+  },
+  {
+    "user_id": 461,
+    "city_id": 9,
+    "city_name": "南京",
+    "interests": [
+      "悬疑",
+      "历史",
+      "冒险"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 70.98771526006487,
+    "last_login": "2025-12-13",
+    "powers": {
+      "悬疑": 0.52,
+      "历史": 0.27,
+      "冒险": 0.59
+    }
+  },
+  {
+    "user_id": 462,
+    "city_id": 5,
+    "city_name": "广州",
+    "interests": [
+      "科幻",
+      "冒险",
+      "历史"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 60.32067206556604,
+    "last_login": "2025-12-12",
+    "powers": {
+      "科幻": 0.62,
+      "冒险": 0.83,
+      "历史": 0.34
+    }
+  },
+  {
+    "user_id": 463,
+    "city_id": 10,
+    "city_name": "苏州",
+    "interests": [
+      "动作",
+      "恋爱"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 76.25583962796524,
+    "last_login": "2025-12-13",
+    "powers": {
+      "动作": 0.56,
+      "恋爱": 0.41
+    }
+  },
+  {
+    "user_id": 464,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "动作",
+      "历史",
+      "喜剧",
+      "科幻"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 69.29641766298923,
+    "last_login": "2025-12-13",
+    "powers": {
+      "动作": 0.67,
+      "历史": 0.26,
+      "喜剧": 0.62,
+      "科幻": 0.35
+    }
+  },
+  {
+    "user_id": 465,
+    "city_id": 5,
+    "city_name": "广州",
+    "interests": [
+      "喜剧",
+      "动作",
+      "科幻",
+      "剧情"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 52.11856927686214,
+    "last_login": "2025-12-13",
+    "powers": {
+      "喜剧": 0.91,
+      "动作": 0.33,
+      "科幻": 0.65,
+      "剧情": 0.79
+    }
+  },
+  {
+    "user_id": 466,
+    "city_id": 2,
+    "city_name": "北京",
+    "interests": [
+      "剧情",
+      "悬疑",
+      "动作"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 61.670702535263274,
+    "last_login": "2025-12-14",
+    "powers": {
+      "剧情": 0.76,
+      "悬疑": 0.42,
+      "动作": 0.59
+    }
+  },
+  {
+    "user_id": 467,
+    "city_id": 12,
+    "city_name": "天津",
+    "interests": [
+      "冒险",
+      "剧情",
+      "喜剧"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 55.00739793136101,
+    "last_login": "2025-12-14",
+    "powers": {
+      "冒险": 0.85,
+      "剧情": 0.85,
+      "喜剧": 0.39
+    }
+  },
+  {
+    "user_id": 468,
+    "city_id": 5,
+    "city_name": "广州",
+    "interests": [
+      "历史"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 58.547579240324616,
+    "last_login": "2025-12-14",
+    "powers": {
+      "历史": 0.23
+    }
+  },
+  {
+    "user_id": 469,
+    "city_id": 3,
+    "city_name": "杭州",
+    "interests": [
+      "恋爱"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 55.949957888924864,
+    "last_login": "2025-12-20",
+    "powers": {
+      "恋爱": 0.23
+    }
+  },
+  {
+    "user_id": 470,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "喜剧",
+      "剧情",
+      "动作",
+      "恋爱"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 62.06807346931585,
+    "last_login": "2025-12-16",
+    "powers": {
+      "喜剧": 0.99,
+      "剧情": 0.88,
+      "动作": 0.83,
+      "恋爱": 0.8
+    }
+  },
+  {
+    "user_id": 471,
+    "city_id": 3,
+    "city_name": "杭州",
+    "interests": [
+      "历史",
+      "科幻"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 44.2996941309996,
+    "last_login": "2025-12-15",
+    "powers": {
+      "历史": 0.68,
+      "科幻": 0.62
+    }
+  },
+  {
+    "user_id": 472,
+    "city_id": 5,
+    "city_name": "广州",
+    "interests": [
+      "动作",
+      "历史"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 72.78073239730317,
+    "last_login": "2025-12-12",
+    "powers": {
+      "动作": 0.41,
+      "历史": 0.7
+    }
+  },
+  {
+    "user_id": 473,
+    "city_id": 3,
+    "city_name": "杭州",
+    "interests": [
+      "科幻",
+      "冒险"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 76.04507528521857,
+    "last_login": "2025-12-15",
+    "powers": {
+      "科幻": 0.6,
+      "冒险": 0.34
+    }
+  },
+  {
+    "user_id": 474,
+    "city_id": 3,
+    "city_name": "杭州",
+    "interests": [
+      "悬疑",
+      "喜剧"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 60.93506584736833,
+    "last_login": "2025-12-19",
+    "powers": {
+      "悬疑": 0.38,
+      "喜剧": 0.57
+    }
+  },
+  {
+    "user_id": 475,
+    "city_id": 8,
+    "city_name": "武汉",
+    "interests": [
+      "历史",
+      "剧情"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 57.330163193222255,
+    "last_login": "2025-12-19",
+    "powers": {
+      "历史": 0.36,
+      "剧情": 0.41
+    }
+  },
+  {
+    "user_id": 476,
+    "city_id": 5,
+    "city_name": "广州",
+    "interests": [
+      "科幻"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 69.74129814295468,
+    "last_login": "2025-12-19",
+    "powers": {
+      "科幻": 0.88
+    }
+  },
+  {
+    "user_id": 477,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "喜剧",
+      "科幻"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 59.55295243944525,
+    "last_login": "2025-12-11",
+    "powers": {
+      "喜剧": 0.88,
+      "科幻": 0.16
+    }
+  },
+  {
+    "user_id": 478,
+    "city_id": 2,
+    "city_name": "北京",
+    "interests": [
+      "悬疑",
+      "喜剧",
+      "恋爱",
+      "动作"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 53.8670342033104,
+    "last_login": "2025-12-16",
+    "powers": {
+      "悬疑": 0.64,
+      "喜剧": 0.27,
+      "恋爱": 0.13,
+      "动作": 0.95
+    }
+  },
+  {
+    "user_id": 479,
+    "city_id": 2,
+    "city_name": "北京",
+    "interests": [
+      "喜剧"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 51.24148824696045,
+    "last_login": "2025-12-13",
+    "powers": {
+      "喜剧": 0.77
+    }
+  },
+  {
+    "user_id": 480,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "剧情",
+      "动作",
+      "悬疑",
+      "喜剧"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 55.204354320747555,
+    "last_login": "2025-12-13",
+    "powers": {
+      "剧情": 0.91,
+      "动作": 0.29,
+      "悬疑": 0.8,
+      "喜剧": 0.4
+    }
+  },
+  {
+    "user_id": 481,
+    "city_id": 2,
+    "city_name": "北京",
+    "interests": [
+      "恋爱"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 56.870628646973465,
+    "last_login": "2025-12-15",
+    "powers": {
+      "恋爱": 0.68
+    }
+  },
+  {
+    "user_id": 482,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "冒险"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 54.42614533754498,
+    "last_login": "2025-12-16",
+    "powers": {
+      "冒险": 0.68
+    }
+  },
+  {
+    "user_id": 483,
+    "city_id": 2,
+    "city_name": "北京",
+    "interests": [
+      "音乐",
+      "冒险",
+      "喜剧",
+      "剧情"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 69.19307093344122,
+    "last_login": "2025-12-16",
+    "powers": {
+      "音乐": 0.39,
+      "冒险": 0.13,
+      "喜剧": 0.33,
+      "剧情": 0.79
+    }
+  },
+  {
+    "user_id": 484,
+    "city_id": 3,
+    "city_name": "杭州",
+    "interests": [
+      "喜剧",
+      "恋爱"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 85.18412944123557,
+    "last_login": "2025-12-15",
+    "powers": {
+      "喜剧": 0.93,
+      "恋爱": 0.62
+    }
+  },
+  {
+    "user_id": 485,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "音乐",
+      "冒险",
+      "科幻",
+      "恋爱"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 48.9396767337011,
+    "last_login": "2025-12-10",
+    "powers": {
+      "音乐": 0.69,
+      "冒险": 0.74,
+      "科幻": 0.89,
+      "恋爱": 0.75
+    }
+  },
+  {
+    "user_id": 486,
+    "city_id": 8,
+    "city_name": "武汉",
+    "interests": [
+      "恋爱"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 55.73000971675568,
+    "last_login": "2025-12-14",
+    "powers": {
+      "恋爱": 0.28
+    }
+  },
+  {
+    "user_id": 487,
+    "city_id": 3,
+    "city_name": "杭州",
+    "interests": [
+      "剧情",
+      "历史"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 52.12177367863006,
+    "last_login": "2025-12-19",
+    "powers": {
+      "剧情": 0.12,
+      "历史": 0.92
+    }
+  },
+  {
+    "user_id": 488,
+    "city_id": 5,
+    "city_name": "广州",
+    "interests": [
+      "剧情"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 73.76295988098934,
+    "last_login": "2025-12-18",
+    "powers": {
+      "剧情": 0.78
+    }
+  },
+  {
+    "user_id": 489,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "动作",
+      "剧情"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 64.90308341149999,
+    "last_login": "2025-12-16",
+    "powers": {
+      "动作": 0.55,
+      "剧情": 0.44
+    }
+  },
+  {
+    "user_id": 490,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "科幻",
+      "喜剧"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 88.7620827311921,
+    "last_login": "2025-12-08",
+    "powers": {
+      "科幻": 0.68,
+      "喜剧": 0.99
+    }
+  },
+  {
+    "user_id": 491,
+    "city_id": 12,
+    "city_name": "天津",
+    "interests": [
+      "科幻"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 68.62916077198247,
+    "last_login": "2025-12-05",
+    "powers": {
+      "科幻": 0.34
+    }
+  },
+  {
+    "user_id": 492,
+    "city_id": 5,
+    "city_name": "广州",
+    "interests": [
+      "科幻"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 69.77260840302347,
+    "last_login": "2025-12-14",
+    "powers": {
+      "科幻": 0.84
+    }
+  },
+  {
+    "user_id": 493,
+    "city_id": 2,
+    "city_name": "北京",
+    "interests": [
+      "音乐",
+      "悬疑"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 64.44555226837089,
+    "last_login": "2025-12-19",
+    "powers": {
+      "音乐": 0.17,
+      "悬疑": 0.96
+    }
+  },
+  {
+    "user_id": 494,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "剧情",
+      "历史"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 69.09051396949575,
+    "last_login": "2025-12-06",
+    "powers": {
+      "剧情": 0.89,
+      "历史": 0.28
+    }
+  },
+  {
+    "user_id": 495,
+    "city_id": 5,
+    "city_name": "广州",
+    "interests": [
+      "冒险",
+      "动作"
+    ],
+    "subscription_type": "basic",
+    "engagement_score": 65.79311283778513,
+    "last_login": "2025-12-15",
+    "powers": {
+      "冒险": 0.38,
+      "动作": 0.4
+    }
+  },
+  {
+    "user_id": 496,
+    "city_id": 3,
+    "city_name": "杭州",
+    "interests": [
+      "历史",
+      "音乐"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 74.84436486014191,
+    "last_login": "2025-12-16",
+    "powers": {
+      "历史": 0.37,
+      "音乐": 0.13
+    }
+  },
+  {
+    "user_id": 497,
+    "city_id": 3,
+    "city_name": "杭州",
+    "interests": [
+      "动作"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 54.20618842969335,
+    "last_login": "2025-12-16",
+    "powers": {
+      "动作": 0.37
+    }
+  },
+  {
+    "user_id": 498,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "音乐",
+      "喜剧"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 71.39484370685354,
+    "last_login": "2025-12-15",
+    "powers": {
+      "音乐": 0.94,
+      "喜剧": 0.72
+    }
+  },
+  {
+    "user_id": 499,
+    "city_id": 9,
+    "city_name": "南京",
+    "interests": [
+      "喜剧",
+      "音乐"
+    ],
+    "subscription_type": "free",
+    "engagement_score": 49.66528108665949,
+    "last_login": "2025-12-15",
+    "powers": {
+      "喜剧": 0.18,
+      "音乐": 0.68
+    }
+  },
+  {
+    "user_id": 500,
+    "city_id": 1,
+    "city_name": "深圳",
+    "interests": [
+      "恋爱",
+      "剧情",
+      "科幻"
+    ],
+    "subscription_type": "premium",
+    "engagement_score": 76.0900363572491,
+    "last_login": "2025-12-16",
+    "powers": {
+      "恋爱": 0.3,
+      "剧情": 1.0,
+      "科幻": 0.33
+    }
+  }
+]

@@ -1,0 +1,24 @@
+{
+    "goal": "分析医药行业中药饮片跌幅的原因及其市场影响。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 医药（中信）指数自2025年以来累计涨幅3.9%，显示出行业的持续增长。",
+        "Comparison: 医疗服务涨幅居前，CXO涨幅为+9.2%，显示出医疗服务领域的强劲表现。",
+        "Extreme: 维亚生物涨幅为+20.5%，是本周表现最好的个股之一。",
+        "Attribution: 由于高税收，销售额下降，影响了部分企业的业绩表现。"
+    ],
+    "summary": "本周医药行业表现良好，医药指数上涨，成交额占比上升，板块估值提高，提供了多项投资建议。",
+    "flag_id": "flag-70",
+    "classifier": "Fund Analysis",
+    "classifier_cn": "基金分析",
+    "input_files": [
+        "output/company_profiles.json",
+        "output/correlation_heatmap.png",
+        "output/industry_background.txt",
+        "output/performance_vs_sales.png",
+        "output/pharma_dimension.db",
+        "output/pharma_fact.csv",
+        "output/sales_distribution.png",
+        "output/taxes_by_category.png"
+    ]
+}

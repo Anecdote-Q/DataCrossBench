@@ -1,0 +1,20 @@
+{
+    "goal": "分析2023H1证券行业归母净利润增长10%的驱动因素。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 2023H1证券行业预计实现归母净利润842亿元，同比增长10%，显示出行业景气度回升的趋势。",
+        "Comparison: 截至2023年7月17日，证券板块PB估值为1.16x，较2018年10月的1.02有所上升，显示出市场对券商的信心逐步恢复。",
+        "Extreme: 2023Q1上市券商业绩显著回升，归母净利润达到450亿元，同比增长78%，为行业的最高峰。",
+        "Attribution: 由于全面注册制的实施，券商差异化发展格局有望加速形成，推动投行业务的增长。"
+    ],
+    "summary": "本报告分析了科技金融及券商行业的中期策略，强调业绩修复的确定性和行业变革的引领作用，结合政策变化与市场动态，展望未来发展趋势。",
+    "flag_id": "flag-157",
+    "classifier": "Fund Analysis",
+    "classifier_cn": "基金分析",
+    "input_files": [
+        "output/background_description.txt",
+        "output/dimension_data.db",
+        "output/industry_policies.json",
+        "output/securities_industry_performance.png"
+    ]
+}

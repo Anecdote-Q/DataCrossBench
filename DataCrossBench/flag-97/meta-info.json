@@ -1,0 +1,20 @@
+{
+    "goal": "分析美联储降息预期对南方中证申万有色金属ETF表现的具体影响。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 自2019年以来，南方中证申万有色金属ETF年化收益为14.89%，显示出稳定的投资回报。",
+        "Comparison: 南方中证申万有色金属ETF的年化超额收益为2.4%，在同类产品中表现优异。",
+        "Extreme: 截至2024年4月15日，沪铜价格突破77000元/吨，显示出铜市场的供应紧张。",
+        "Attribution: 美联储降息预期导致有色金属市场新一轮价格潮，直接推动了南方中证申万有色金属ETF的表现。"
+    ],
+    "summary": "本报告分析了南方中证申万有色金属ETF的投资价值及其在有色金属市场中的表现，强调了美联储降息预期对市场的影响以及铝和铜的供需状况。",
+    "flag_id": "flag-97",
+    "classifier": "Fund Analysis",
+    "classifier_cn": "基金分析",
+    "input_files": [
+        "output/business_background.txt",
+        "output/etf_dimension.db",
+        "output/etf_news_events.json",
+        "output/etf_performance_fact.csv"
+    ]
+}

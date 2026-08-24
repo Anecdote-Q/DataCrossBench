@@ -1,0 +1,20 @@
+{
+    "goal": "分析2010年中国网民规模增长的主要驱动因素。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 截至2010年，中国网民规模达到4.57亿，年增幅19.1%。",
+        "Comparison: 北京的互联网普及率为69.4%，显著高于全国平均水平34.3%。",
+        "Extreme: 截至2010年12月，中国的IPv4地址数量达到2.78亿，尽管网站数量下降，但互联网资源如网页数和字节数却在增长。",
+        "Attribution: 网民规模的增长与国家政策推动信息产品消费直接相关，特别是国家扩内需的政策力度持续加大。"
+    ],
+    "summary": "本报告总结了2010年中国互联网的快速发展，特别是在网民规模、互联网应用和安全防护等方面的显著变化。",
+    "flag_id": "flag-182",
+    "classifier": "Internet Dev.",
+    "classifier_cn": "互联网发展",
+    "input_files": [
+        "output/business_background.txt",
+        "output/usage_logs.csv",
+        "output/user_dimension.db",
+        "output/user_profiles.json"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "goal": "分析自2022年以来卡特尔官方调查增加的原因及其对竞争监管的影响。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 自2022年以来，卡特尔官方调查显著增加，显示出竞争监管机构在检测卡特尔方面的积极努力。",
+        "Comparison: 智利和墨西哥的市场情报部门在反垄断调查中的应用显示出不同国家在卡特尔检测工具上的差异，智利的情报单位在2022年执行了约25%的反垄断调查。",
+        "Extreme: 在公共采购中，罚金总额约为800万美元，显示出该地区在打击投标操纵方面的高额罚款案例。",
+        "Attribution: 由于拉美地区对竞争法的认识特别有限，竞争当局投资于建立竞争文化，以提高卡特尔发现力。"
+    ],
+    "summary": "本报告探讨了拉丁美洲和加勒比地区在卡特尔检测工具的应用及国际合作方面的努力，强调了数据分析和市场情报的重要性。",
+    "flag_id": "flag-163",
+    "classifier": "Fund Analysis",
+    "classifier_cn": "基金分析",
+    "input_files": [
+        "output/antitrust_investigations.csv",
+        "output/background.txt",
+        "output/dimension_data.db",
+        "output/user_profiles.json"
+    ]
+}

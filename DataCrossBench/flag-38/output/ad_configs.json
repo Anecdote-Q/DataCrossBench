@@ -1,0 +1,582 @@
+[
+  {
+    "channel_id": 1,
+    "ad_strategy": {
+      "max_bid": 26.56,
+      "max_daily_budget": 548.83,
+      "preferred_regions": [
+        "华南",
+        "西北",
+        "西南"
+      ],
+      "holiday_boost_factors": {
+        "春节": 2.204,
+        "劳动节": 2.282,
+        "端午节": 2.581
+      },
+      "custom_rules": [
+        {
+          "rule_id": 1,
+          "desc": "避免夜间投放",
+          "enabled": true
+        },
+        {
+          "rule_id": 2,
+          "desc": "优先18-24岁时段",
+          "enabled": false
+        }
+      ]
+    }
+  },
+  {
+    "channel_id": 2,
+    "ad_strategy": {
+      "max_bid": 21.8,
+      "max_daily_budget": 690.27,
+      "preferred_regions": [
+        "华南",
+        "华北",
+        "西北"
+      ],
+      "holiday_boost_factors": {
+        "春节": 2.61,
+        "劳动节": 1.906,
+        "端午节": 3.72
+      },
+      "custom_rules": [
+        {
+          "rule_id": 1,
+          "desc": "避免夜间投放",
+          "enabled": true
+        },
+        {
+          "rule_id": 2,
+          "desc": "优先18-24岁时段",
+          "enabled": false
+        }
+      ]
+    }
+  },
+  {
+    "channel_id": 3,
+    "ad_strategy": {
+      "max_bid": 20.77,
+      "max_daily_budget": 603.31,
+      "preferred_regions": [
+        "华东",
+        "东北",
+        "华南"
+      ],
+      "holiday_boost_factors": {
+        "春节": 2.494,
+        "劳动节": 1.834,
+        "端午节": 3.223
+      },
+      "custom_rules": [
+        {
+          "rule_id": 1,
+          "desc": "避免夜间投放",
+          "enabled": true
+        },
+        {
+          "rule_id": 2,
+          "desc": "优先18-24岁时段",
+          "enabled": false
+        }
+      ]
+    }
+  },
+  {
+    "channel_id": 4,
+    "ad_strategy": {
+      "max_bid": 25.7,
+      "max_daily_budget": 677.02,
+      "preferred_regions": [
+        "华南",
+        "华东",
+        "东北"
+      ],
+      "holiday_boost_factors": {
+        "春节": 1.782,
+        "劳动节": 2.364,
+        "端午节": 3.407
+      },
+      "custom_rules": [
+        {
+          "rule_id": 1,
+          "desc": "避免夜间投放",
+          "enabled": true
+        },
+        {
+          "rule_id": 2,
+          "desc": "优先18-24岁时段",
+          "enabled": false
+        }
+      ]
+    }
+  },
+  {
+    "channel_id": 5,
+    "ad_strategy": {
+      "max_bid": 26.3,
+      "max_daily_budget": 621.47,
+      "preferred_regions": [
+        "西南",
+        "华东",
+        "华南"
+      ],
+      "holiday_boost_factors": {
+        "春节": 1.527,
+        "劳动节": 2.331,
+        "端午节": 3.855
+      },
+      "custom_rules": [
+        {
+          "rule_id": 1,
+          "desc": "避免夜间投放",
+          "enabled": true
+        },
+        {
+          "rule_id": 2,
+          "desc": "优先18-24岁时段",
+          "enabled": false
+        }
+      ]
+    }
+  },
+  {
+    "channel_id": 6,
+    "ad_strategy": {
+      "max_bid": 21.53,
+      "max_daily_budget": 612.76,
+      "preferred_regions": [
+        "西北",
+        "东北",
+        "华东"
+      ],
+      "holiday_boost_factors": {
+        "春节": 2.318,
+        "劳动节": 1.986,
+        "端午节": 2.806
+      },
+      "custom_rules": [
+        {
+          "rule_id": 1,
+          "desc": "避免夜间投放",
+          "enabled": true
+        },
+        {
+          "rule_id": 2,
+          "desc": "优先18-24岁时段",
+          "enabled": false
+        }
+      ]
+    }
+  },
+  {
+    "channel_id": 7,
+    "ad_strategy": {
+      "max_bid": 23.18,
+      "max_daily_budget": 699.39,
+      "preferred_regions": [
+        "东北",
+        "西南",
+        "华南"
+      ],
+      "holiday_boost_factors": {
+        "春节": 2.976,
+        "劳动节": 1.974,
+        "端午节": 3.914
+      },
+      "custom_rules": [
+        {
+          "rule_id": 1,
+          "desc": "避免夜间投放",
+          "enabled": true
+        },
+        {
+          "rule_id": 2,
+          "desc": "优先18-24岁时段",
+          "enabled": false
+        }
+      ]
+    }
+  },
+  {
+    "channel_id": 8,
+    "ad_strategy": {
+      "max_bid": 25.05,
+      "max_daily_budget": 612.21,
+      "preferred_regions": [
+        "华北",
+        "东北",
+        "西南"
+      ],
+      "holiday_boost_factors": {
+        "春节": 2.229,
+        "劳动节": 2.466,
+        "端午节": 3.389
+      },
+      "custom_rules": [
+        {
+          "rule_id": 1,
+          "desc": "避免夜间投放",
+          "enabled": true
+        },
+        {
+          "rule_id": 2,
+          "desc": "优先18-24岁时段",
+          "enabled": false
+        }
+      ]
+    }
+  },
+  {
+    "channel_id": 9,
+    "ad_strategy": {
+      "max_bid": 25.0,
+      "max_daily_budget": 591.46,
+      "preferred_regions": [
+        "东北",
+        "西南",
+        "华东"
+      ],
+      "holiday_boost_factors": {
+        "春节": 1.768,
+        "劳动节": 1.999,
+        "端午节": 2.892
+      },
+      "custom_rules": [
+        {
+          "rule_id": 1,
+          "desc": "避免夜间投放",
+          "enabled": true
+        },
+        {
+          "rule_id": 2,
+          "desc": "优先18-24岁时段",
+          "enabled": false
+        }
+      ]
+    }
+  },
+  {
+    "channel_id": 10,
+    "ad_strategy": {
+      "max_bid": 21.59,
+      "max_daily_budget": 539.93,
+      "preferred_regions": [
+        "华北",
+        "东北",
+        "西南"
+      ],
+      "holiday_boost_factors": {
+        "春节": 1.908,
+        "劳动节": 1.991,
+        "端午节": 3.536
+      },
+      "custom_rules": [
+        {
+          "rule_id": 1,
+          "desc": "避免夜间投放",
+          "enabled": true
+        },
+        {
+          "rule_id": 2,
+          "desc": "优先18-24岁时段",
+          "enabled": false
+        }
+      ]
+    }
+  },
+  {
+    "channel_id": 11,
+    "ad_strategy": {
+      "max_bid": 29.47,
+      "max_daily_budget": 616.75,
+      "preferred_regions": [
+        "西北",
+        "西南",
+        "华东"
+      ],
+      "holiday_boost_factors": {
+        "春节": 2.821,
+        "劳动节": 2.204,
+        "端午节": 3.711
+      },
+      "custom_rules": [
+        {
+          "rule_id": 1,
+          "desc": "避免夜间投放",
+          "enabled": true
+        },
+        {
+          "rule_id": 2,
+          "desc": "优先18-24岁时段",
+          "enabled": false
+        }
+      ]
+    }
+  },
+  {
+    "channel_id": 12,
+    "ad_strategy": {
+      "max_bid": 29.07,
+      "max_daily_budget": 551.13,
+      "preferred_regions": [
+        "华南",
+        "西北",
+        "华北"
+      ],
+      "holiday_boost_factors": {
+        "春节": 2.332,
+        "劳动节": 2.187,
+        "端午节": 2.636
+      },
+      "custom_rules": [
+        {
+          "rule_id": 1,
+          "desc": "避免夜间投放",
+          "enabled": true
+        },
+        {
+          "rule_id": 2,
+          "desc": "优先18-24岁时段",
+          "enabled": false
+        }
+      ]
+    }
+  },
+  {
+    "channel_id": 13,
+    "ad_strategy": {
+      "max_bid": 24.64,
+      "max_daily_budget": 608.18,
+      "preferred_regions": [
+        "东北",
+        "华南",
+        "西南"
+      ],
+      "holiday_boost_factors": {
+        "春节": 1.785,
+        "劳动节": 2.271,
+        "端午节": 3.632
+      },
+      "custom_rules": [
+        {
+          "rule_id": 1,
+          "desc": "避免夜间投放",
+          "enabled": true
+        },
+        {
+          "rule_id": 2,
+          "desc": "优先18-24岁时段",
+          "enabled": false
+        }
+      ]
+    }
+  },
+  {
+    "channel_id": 14,
+    "ad_strategy": {
+      "max_bid": 23.36,
+      "max_daily_budget": 624.57,
+      "preferred_regions": [
+        "华北",
+        "东北",
+        "西南"
+      ],
+      "holiday_boost_factors": {
+        "春节": 2.125,
+        "劳动节": 2.167,
+        "端午节": 3.921
+      },
+      "custom_rules": [
+        {
+          "rule_id": 1,
+          "desc": "避免夜间投放",
+          "enabled": true
+        },
+        {
+          "rule_id": 2,
+          "desc": "优先18-24岁时段",
+          "enabled": false
+        }
+      ]
+    }
+  },
+  {
+    "channel_id": 15,
+    "ad_strategy": {
+      "max_bid": 22.73,
+      "max_daily_budget": 656.05,
+      "preferred_regions": [
+        "华北",
+        "东北",
+        "西北"
+      ],
+      "holiday_boost_factors": {
+        "春节": 2.831,
+        "劳动节": 2.474,
+        "端午节": 2.987
+      },
+      "custom_rules": [
+        {
+          "rule_id": 1,
+          "desc": "避免夜间投放",
+          "enabled": true
+        },
+        {
+          "rule_id": 2,
+          "desc": "优先18-24岁时段",
+          "enabled": false
+        }
+      ]
+    }
+  },
+  {
+    "channel_id": 16,
+    "ad_strategy": {
+      "max_bid": 24.21,
+      "max_daily_budget": 613.34,
+      "preferred_regions": [
+        "华南",
+        "西北",
+        "西南"
+      ],
+      "holiday_boost_factors": {
+        "春节": 1.785,
+        "劳动节": 1.982,
+        "端午节": 3.524
+      },
+      "custom_rules": [
+        {
+          "rule_id": 1,
+          "desc": "避免夜间投放",
+          "enabled": true
+        },
+        {
+          "rule_id": 2,
+          "desc": "优先18-24岁时段",
+          "enabled": false
+        }
+      ]
+    }
+  },
+  {
+    "channel_id": 17,
+    "ad_strategy": {
+      "max_bid": 20.58,
+      "max_daily_budget": 633.91,
+      "preferred_regions": [
+        "华东",
+        "西南",
+        "华北"
+      ],
+      "holiday_boost_factors": {
+        "春节": 2.971,
+        "劳动节": 2.418,
+        "端午节": 3.067
+      },
+      "custom_rules": [
+        {
+          "rule_id": 1,
+          "desc": "避免夜间投放",
+          "enabled": true
+        },
+        {
+          "rule_id": 2,
+          "desc": "优先18-24岁时段",
+          "enabled": false
+        }
+      ]
+    }
+  },
+  {
+    "channel_id": 18,
+    "ad_strategy": {
+      "max_bid": 28.05,
+      "max_daily_budget": 690.46,
+      "preferred_regions": [
+        "华北",
+        "西北",
+        "西南"
+      ],
+      "holiday_boost_factors": {
+        "春节": 2.083,
+        "劳动节": 2.164,
+        "端午节": 2.902
+      },
+      "custom_rules": [
+        {
+          "rule_id": 1,
+          "desc": "避免夜间投放",
+          "enabled": true
+        },
+        {
+          "rule_id": 2,
+          "desc": "优先18-24岁时段",
+          "enabled": false
+        }
+      ]
+    }
+  },
+  {
+    "channel_id": 19,
+    "ad_strategy": {
+      "max_bid": 25.85,
+      "max_daily_budget": 604.92,
+      "preferred_regions": [
+        "东北",
+        "华北",
+        "西南"
+      ],
+      "holiday_boost_factors": {
+        "春节": 1.684,
+        "劳动节": 2.138,
+        "端午节": 3.076
+      },
+      "custom_rules": [
+        {
+          "rule_id": 1,
+          "desc": "避免夜间投放",
+          "enabled": true
+        },
+        {
+          "rule_id": 2,
+          "desc": "优先18-24岁时段",
+          "enabled": false
+        }
+      ]
+    }
+  },
+  {
+    "channel_id": 20,
+    "ad_strategy": {
+      "max_bid": 20.96,
+      "max_daily_budget": 673.77,
+      "preferred_regions": [
+        "华南",
+        "西北",
+        "东北"
+      ],
+      "holiday_boost_factors": {
+        "春节": 2.739,
+        "劳动节": 2.038,
+        "端午节": 3.758
+      },
+      "custom_rules": [
+        {
+          "rule_id": 1,
+          "desc": "避免夜间投放",
+          "enabled": true
+        },
+        {
+          "rule_id": 2,
+          "desc": "优先18-24岁时段",
+          "enabled": false
+        }
+      ]
+    }
+  }
+]

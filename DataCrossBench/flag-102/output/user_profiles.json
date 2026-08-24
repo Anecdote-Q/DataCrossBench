@@ -1,0 +1,959 @@
+[
+  {
+    "manager_id": "MGR001",
+    "position": "Junior Manager",
+    "education": "Bachelor",
+    "years_at_company": 4,
+    "certifications": [
+      "PhD"
+    ],
+    "description": "Continue set open statement site."
+  },
+  {
+    "manager_id": "MGR001",
+    "position": "Junior Manager",
+    "education": "Bachelor",
+    "years_at_company": 6,
+    "certifications": [
+      "FRM",
+      "CFA"
+    ],
+    "description": "Front among already music learn budget. Tough class couple partner simply girl."
+  },
+  {
+    "manager_id": "MGR002",
+    "position": "Analyst",
+    "education": "Bachelor",
+    "years_at_company": 7,
+    "certifications": [
+      "CFA",
+      "PhD"
+    ],
+    "description": "Teacher read hospital television dream both."
+  },
+  {
+    "manager_id": "MGR002",
+    "position": "Analyst",
+    "education": "Bachelor",
+    "years_at_company": 4,
+    "certifications": [],
+    "description": "Someone item hear. Employee either still threat up."
+  },
+  {
+    "manager_id": "MGR003",
+    "position": "Analyst",
+    "education": "Bachelor",
+    "years_at_company": 8,
+    "certifications": [
+      "MBA"
+    ],
+    "description": "Success enough student still response. Common role feeling suggest sometimes message. Specific capital show ago deep return once push."
+  },
+  {
+    "manager_id": "MGR003",
+    "position": "Junior Manager",
+    "education": "Bachelor",
+    "years_at_company": 5,
+    "certifications": [
+      "CFA",
+      "FRM"
+    ],
+    "description": "Hair enter speech. Play trouble society notice."
+  },
+  {
+    "manager_id": "MGR004",
+    "position": "Analyst",
+    "education": "MBA",
+    "years_at_company": 4,
+    "certifications": [],
+    "description": "Left various later build decide between low direction. Woman practice contain someone until between part."
+  },
+  {
+    "manager_id": "MGR004",
+    "position": "Analyst",
+    "education": "Master",
+    "years_at_company": 6,
+    "certifications": [],
+    "description": "Worker will rate attack adult plan rather. Soon across Mrs admit six finally."
+  },
+  {
+    "manager_id": "MGR005",
+    "position": "Junior Manager",
+    "education": "Bachelor",
+    "years_at_company": 4,
+    "certifications": [],
+    "description": "Expert into occur dog. Back enjoy defense cold something weight party. Minute energy red glass."
+  },
+  {
+    "manager_id": "MGR005",
+    "position": "Junior Manager",
+    "education": null,
+    "years_at_company": 4,
+    "certifications": [
+      "MBA",
+      "CPA"
+    ],
+    "description": "Heavy such store draw option. Safe cold soon test us gas. Nothing power yet from black experience suffer."
+  },
+  {
+    "manager_id": "MGR006",
+    "position": "Senior Manager",
+    "education": "PhD",
+    "years_at_company": 4,
+    "certifications": [
+      "FRM"
+    ],
+    "description": "Parent read step. Change adult light build including between debate."
+  },
+  {
+    "manager_id": "MGR006",
+    "position": "Analyst",
+    "education": null,
+    "years_at_company": 5,
+    "certifications": [
+      "CPA"
+    ],
+    "description": "Between financial may fact detail some national. Miss every all us summer our. Responsibility risk law official bar brother force."
+  },
+  {
+    "manager_id": "MGR007",
+    "position": "Senior Manager",
+    "education": null,
+    "years_at_company": 9,
+    "certifications": [
+      "MBA",
+      "CPA"
+    ],
+    "description": "Identify tree general will so pull. Create bank benefit far. Hold lead system guess."
+  },
+  {
+    "manager_id": "MGR007",
+    "position": "Junior Manager",
+    "education": "Master",
+    "years_at_company": 7,
+    "certifications": [],
+    "description": "Develop pattern shake year throw team radio. Ten high recent picture blue stock."
+  },
+  {
+    "manager_id": "MGR008",
+    "position": "Senior Manager",
+    "education": "Bachelor",
+    "years_at_company": 4,
+    "certifications": [
+      "CPA",
+      "CFA"
+    ],
+    "description": "Society yes choice want. Near voice support magazine decade level. Determine able need few nature."
+  },
+  {
+    "manager_id": "MGR008",
+    "position": "Senior Manager",
+    "education": "Bachelor",
+    "years_at_company": 6,
+    "certifications": [
+      "MBA",
+      "CPA"
+    ],
+    "description": "Me stuff article plant across. Industry allow prepare hair. Among authority more fact order record sort rather."
+  },
+  {
+    "manager_id": "MGR009",
+    "position": "Analyst",
+    "education": "Bachelor",
+    "years_at_company": 2,
+    "certifications": [
+      "CPA",
+      "FRM"
+    ],
+    "description": "Firm who determine agreement. Sort also dream walk paper."
+  },
+  {
+    "manager_id": "MGR009",
+    "position": "Senior Manager",
+    "education": "PhD",
+    "years_at_company": 13,
+    "certifications": [
+      "FRM",
+      "MBA"
+    ],
+    "description": "Against husband image citizen. Home pick throw."
+  },
+  {
+    "manager_id": "MGR010",
+    "position": "Lead Analyst",
+    "education": null,
+    "years_at_company": 6,
+    "certifications": [
+      "PhD"
+    ],
+    "description": "Place bag Mrs even central. Old smile measure board. Because present per glass serious."
+  },
+  {
+    "manager_id": "MGR010",
+    "position": "Junior Manager",
+    "education": "Bachelor",
+    "years_at_company": 3,
+    "certifications": [
+      "PhD",
+      "FRM"
+    ],
+    "description": "Environmental investment left it only social west. Half tree series. Carry game crime box after."
+  },
+  {
+    "manager_id": "MGR011",
+    "position": "Junior Manager",
+    "education": "PhD",
+    "years_at_company": 3,
+    "certifications": [
+      "PhD",
+      "FRM"
+    ],
+    "description": "City take investment appear idea student actually. Front others arm. Likely likely believe mention more material resource."
+  },
+  {
+    "manager_id": "MGR011",
+    "position": "Junior Manager",
+    "education": null,
+    "years_at_company": 4,
+    "certifications": [
+      "CFA"
+    ],
+    "description": "Suggest leg serve lead. Use seek thus according attack rock play."
+  },
+  {
+    "manager_id": "MGR012",
+    "position": "Lead Analyst",
+    "education": "Bachelor",
+    "years_at_company": 3,
+    "certifications": [
+      "CFA",
+      "PhD"
+    ],
+    "description": "Four any middle plan bad be. Inside sit several keep study significant. Responsibility apply instead share recognize religious growth."
+  },
+  {
+    "manager_id": "MGR012",
+    "position": "Senior Manager",
+    "education": "Bachelor",
+    "years_at_company": 4,
+    "certifications": [],
+    "description": "Include notice establish bad health run. Model management read soldier poor situation. Suddenly whatever become full school teacher time enjoy. Read later which."
+  },
+  {
+    "manager_id": "MGR013",
+    "position": "Senior Manager",
+    "education": "Master",
+    "years_at_company": 9,
+    "certifications": [
+      "CFA",
+      "MBA"
+    ],
+    "description": "Here rich thing. Enjoy until certain short including. Quality today test rich shoulder."
+  },
+  {
+    "manager_id": "MGR013",
+    "position": "Junior Manager",
+    "education": "MBA",
+    "years_at_company": 9,
+    "certifications": [],
+    "description": "Example event how people them. Letter no simply case test evening. Concern check go arm cold either give."
+  },
+  {
+    "manager_id": "MGR014",
+    "position": "Lead Analyst",
+    "education": "Bachelor",
+    "years_at_company": 4,
+    "certifications": [],
+    "description": "Continue nation three today energy. Together even wonder political as within."
+  },
+  {
+    "manager_id": "MGR014",
+    "position": "Senior Manager",
+    "education": "Bachelor",
+    "years_at_company": 4,
+    "certifications": [],
+    "description": "Few throw key myself yourself. Main order consumer choose short anything. Source sometimes art."
+  },
+  {
+    "manager_id": "MGR015",
+    "position": "Junior Manager",
+    "education": "Bachelor",
+    "years_at_company": 3,
+    "certifications": [],
+    "description": "Both blood term better choice. Significant send not condition forward almost month build."
+  },
+  {
+    "manager_id": "MGR015",
+    "position": "Junior Manager",
+    "education": "Master",
+    "years_at_company": 10,
+    "certifications": [
+      "PhD"
+    ],
+    "description": "Than knowledge station few stuff present. Common risk allow strategy with single."
+  },
+  {
+    "manager_id": "MGR016",
+    "position": "Senior Manager",
+    "education": "PhD",
+    "years_at_company": 2,
+    "certifications": [
+      "CFA",
+      "CPA"
+    ],
+    "description": "Worker arrive home. Usually despite tree various. Above cut example wrong add."
+  },
+  {
+    "manager_id": "MGR016",
+    "position": "Lead Analyst",
+    "education": null,
+    "years_at_company": 4,
+    "certifications": [
+      "FRM"
+    ],
+    "description": "Condition newspaper land radio learn list. Road paper role exactly society order method."
+  },
+  {
+    "manager_id": "MGR017",
+    "position": "Junior Manager",
+    "education": null,
+    "years_at_company": 5,
+    "certifications": [
+      "FRM"
+    ],
+    "description": "Reflect focus case hundred stage decide. Expert return leave force six inside institution. Treat out us government star more."
+  },
+  {
+    "manager_id": "MGR017",
+    "position": "Junior Manager",
+    "education": "Master",
+    "years_at_company": 2,
+    "certifications": [
+      "FRM",
+      "PhD"
+    ],
+    "description": "Wall policy act process power bag admit. Act customer Congress budget sea consumer finally. Field article soldier international customer wrong drive."
+  },
+  {
+    "manager_id": "MGR018",
+    "position": "Analyst",
+    "education": null,
+    "years_at_company": 7,
+    "certifications": [
+      "CPA",
+      "FRM"
+    ],
+    "description": "Off couple democratic. Upon record road foot high painting back whose."
+  },
+  {
+    "manager_id": "MGR018",
+    "position": "Senior Manager",
+    "education": "Master",
+    "years_at_company": 1,
+    "certifications": [],
+    "description": "Memory yet sort lose modern dark commercial. Product wait American."
+  },
+  {
+    "manager_id": "MGR019",
+    "position": "Junior Manager",
+    "education": "Bachelor",
+    "years_at_company": 5,
+    "certifications": [],
+    "description": "While answer market second. Bag fight firm happy cell. Federal method accept seat sometimes."
+  },
+  {
+    "manager_id": "MGR019",
+    "position": "Analyst",
+    "education": "Bachelor",
+    "years_at_company": 4,
+    "certifications": [
+      "PhD",
+      "CPA"
+    ],
+    "description": "Less leg pretty fire less detail. Choose then weight accept purpose. Field relationship edge would medical how thing seat."
+  },
+  {
+    "manager_id": "MGR020",
+    "position": "Junior Manager",
+    "education": "Bachelor",
+    "years_at_company": 2,
+    "certifications": [
+      "FRM"
+    ],
+    "description": "Piece fly work throw simply because. Option necessary foot manage trade you white director. Let outside spend."
+  },
+  {
+    "manager_id": "MGR020",
+    "position": "Junior Manager",
+    "education": "Bachelor",
+    "years_at_company": 7,
+    "certifications": [
+      "CFA"
+    ],
+    "description": "Second until it add. Office that pay it."
+  },
+  {
+    "manager_id": "MGR021",
+    "position": "Senior Manager",
+    "education": "Bachelor",
+    "years_at_company": 8,
+    "certifications": [
+      "FRM",
+      "MBA"
+    ],
+    "description": "Including task player defense tell knowledge need. Series culture care generation whether clearly campaign."
+  },
+  {
+    "manager_id": "MGR021",
+    "position": "Lead Analyst",
+    "education": "Bachelor",
+    "years_at_company": 4,
+    "certifications": [
+      "CPA",
+      "FRM"
+    ],
+    "description": "Hospital system personal difficult project. Card effect executive individual once type. Hear collection evidence defense mean song."
+  },
+  {
+    "manager_id": "MGR022",
+    "position": "Junior Manager",
+    "education": null,
+    "years_at_company": 7,
+    "certifications": [
+      "CPA",
+      "PhD"
+    ],
+    "description": "Son door room. Increase next since."
+  },
+  {
+    "manager_id": "MGR022",
+    "position": "Analyst",
+    "education": "Master",
+    "years_at_company": 5,
+    "certifications": [
+      "CPA",
+      "FRM"
+    ],
+    "description": "Agreement PM travel financial sign kitchen hard."
+  },
+  {
+    "manager_id": "MGR023",
+    "position": "Lead Analyst",
+    "education": "Master",
+    "years_at_company": 6,
+    "certifications": [],
+    "description": "Fish morning look body well cover. Before employee open today group mission whole."
+  },
+  {
+    "manager_id": "MGR023",
+    "position": "Senior Manager",
+    "education": "Master",
+    "years_at_company": 6,
+    "certifications": [
+      "FRM",
+      "MBA"
+    ],
+    "description": "Figure full president respond. However during large identify. Whom day guess individual. Guy half bad number around head seven."
+  },
+  {
+    "manager_id": "MGR024",
+    "position": "Senior Manager",
+    "education": "PhD",
+    "years_at_company": 6,
+    "certifications": [
+      "MBA"
+    ],
+    "description": "Part probably worker small life enough seven. House husband myself many."
+  },
+  {
+    "manager_id": "MGR024",
+    "position": "Lead Analyst",
+    "education": "Master",
+    "years_at_company": 3,
+    "certifications": [
+      "CPA"
+    ],
+    "description": "Realize star move indeed art particularly act. Eight activity industry six. Measure also campaign."
+  },
+  {
+    "manager_id": "MGR025",
+    "position": "Junior Manager",
+    "education": "Bachelor",
+    "years_at_company": 4,
+    "certifications": [],
+    "description": "Room outside and firm night floor. Official table dog size people."
+  },
+  {
+    "manager_id": "MGR025",
+    "position": "Lead Analyst",
+    "education": "Bachelor",
+    "years_at_company": 3,
+    "certifications": [],
+    "description": "Wind dark why Democrat. Performance look hope character about several as whose. Crime little nothing seek. Watch line reason fine interesting family."
+  },
+  {
+    "manager_id": "MGR026",
+    "position": "Analyst",
+    "education": "Bachelor",
+    "years_at_company": 4,
+    "certifications": [],
+    "description": "Measure serve note senior rich. Media collection help president."
+  },
+  {
+    "manager_id": "MGR026",
+    "position": "Senior Manager",
+    "education": "Bachelor",
+    "years_at_company": 6,
+    "certifications": [
+      "PhD",
+      "FRM"
+    ],
+    "description": "Mind visit lay. Structure forward scene letter mean prove. War attention join story little task."
+  },
+  {
+    "manager_id": "MGR027",
+    "position": "Junior Manager",
+    "education": "Master",
+    "years_at_company": 7,
+    "certifications": [],
+    "description": "Fill food arm name east city. Speak yeah answer practice concern."
+  },
+  {
+    "manager_id": "MGR027",
+    "position": "Analyst",
+    "education": "MBA",
+    "years_at_company": 8,
+    "certifications": [
+      "CPA"
+    ],
+    "description": "Share similar your employee determine agreement project that. Popular fund fall site hand."
+  },
+  {
+    "manager_id": "MGR028",
+    "position": "Analyst",
+    "education": null,
+    "years_at_company": 11,
+    "certifications": [],
+    "description": "Fly help magazine though glass generation consumer. Time record green southern fly over heavy. Begin beautiful number military list administration."
+  },
+  {
+    "manager_id": "MGR028",
+    "position": "Senior Manager",
+    "education": "Bachelor",
+    "years_at_company": 5,
+    "certifications": [],
+    "description": "Lay box computer always personal three performance. Section increase say possible. Him vote fear other raise generation on."
+  },
+  {
+    "manager_id": "MGR029",
+    "position": "Junior Manager",
+    "education": "Bachelor",
+    "years_at_company": 4,
+    "certifications": [],
+    "description": "Adult one result rate continue part impact. Say bank identify door that."
+  },
+  {
+    "manager_id": "MGR029",
+    "position": "Analyst",
+    "education": "Bachelor",
+    "years_at_company": 5,
+    "certifications": [
+      "FRM"
+    ],
+    "description": "Market art follow share. Ground participant final simply crime."
+  },
+  {
+    "manager_id": "MGR030",
+    "position": "Junior Manager",
+    "education": "Bachelor",
+    "years_at_company": 6,
+    "certifications": [
+      "PhD"
+    ],
+    "description": "Allow wonder movement paper week price mention. Score myself ok wide. Ground their measure test."
+  },
+  {
+    "manager_id": "MGR030",
+    "position": "Senior Manager",
+    "education": "Bachelor",
+    "years_at_company": 9,
+    "certifications": [
+      "MBA",
+      "CPA"
+    ],
+    "description": "Everyone fire bill energy next go. Fill way phone discussion. Take executive cup although level health."
+  },
+  {
+    "manager_id": "MGR031",
+    "position": "Analyst",
+    "education": "Bachelor",
+    "years_at_company": 4,
+    "certifications": [
+      "MBA",
+      "CPA"
+    ],
+    "description": "However describe walk. Serious nearly third law media sister reality. Left son happy miss establish article action. Receive material trip remember factor pay."
+  },
+  {
+    "manager_id": "MGR031",
+    "position": "Analyst",
+    "education": "Bachelor",
+    "years_at_company": 6,
+    "certifications": [
+      "PhD",
+      "MBA"
+    ],
+    "description": "Audience camera population stuff now figure consider. Media clearly ground the effort although card skill."
+  },
+  {
+    "manager_id": "MGR032",
+    "position": "Senior Manager",
+    "education": "PhD",
+    "years_at_company": 4,
+    "certifications": [
+      "CFA",
+      "MBA"
+    ],
+    "description": "From long matter garden space Congress whether. Edge technology structure ground everything. Building difficult wind."
+  },
+  {
+    "manager_id": "MGR032",
+    "position": "Junior Manager",
+    "education": "Bachelor",
+    "years_at_company": 6,
+    "certifications": [
+      "PhD",
+      "MBA"
+    ],
+    "description": "Think hundred degree record make. Personal I defense again able work security. Ability close paper ability free."
+  },
+  {
+    "manager_id": "MGR033",
+    "position": "Junior Manager",
+    "education": "Bachelor",
+    "years_at_company": 4,
+    "certifications": [],
+    "description": "Provide next work admit pattern appear. Between indeed late group. Policy music low deep oil."
+  },
+  {
+    "manager_id": "MGR033",
+    "position": "Junior Manager",
+    "education": "Bachelor",
+    "years_at_company": 2,
+    "certifications": [
+      "CPA",
+      "CFA"
+    ],
+    "description": "Few moment place pretty finish. Record pressure make fill worker customer."
+  },
+  {
+    "manager_id": "MGR034",
+    "position": "Junior Manager",
+    "education": "Master",
+    "years_at_company": 8,
+    "certifications": [],
+    "description": "Stock most easy doctor clearly what. Physical benefit be produce her not."
+  },
+  {
+    "manager_id": "MGR034",
+    "position": "Junior Manager",
+    "education": null,
+    "years_at_company": 4,
+    "certifications": [
+      "FRM"
+    ],
+    "description": "Upon what since explain. Brother explain standard individual method. Year investment room inside represent back concern."
+  },
+  {
+    "manager_id": "MGR035",
+    "position": "Junior Manager",
+    "education": "Bachelor",
+    "years_at_company": 4,
+    "certifications": [],
+    "description": "Crime stuff race different seat. Industry issue truth already put member."
+  },
+  {
+    "manager_id": "MGR035",
+    "position": "Junior Manager",
+    "education": "Master",
+    "years_at_company": 5,
+    "certifications": [
+      "FRM"
+    ],
+    "description": "Game age suggest drop star such. Election under early major fight similar type animal."
+  },
+  {
+    "manager_id": "MGR036",
+    "position": "Senior Manager",
+    "education": "Bachelor",
+    "years_at_company": 3,
+    "certifications": [],
+    "description": "Direction tell adult thus up avoid pretty. Personal yard same."
+  },
+  {
+    "manager_id": "MGR036",
+    "position": "Analyst",
+    "education": "Bachelor",
+    "years_at_company": 7,
+    "certifications": [
+      "CFA"
+    ],
+    "description": "Type if information ever single international. Best cost nature west heart beautiful."
+  },
+  {
+    "manager_id": "MGR037",
+    "position": "Senior Manager",
+    "education": "MBA",
+    "years_at_company": 5,
+    "certifications": [],
+    "description": "Election how response without school. Daughter think staff school able herself growth."
+  },
+  {
+    "manager_id": "MGR037",
+    "position": "Junior Manager",
+    "education": "PhD",
+    "years_at_company": 4,
+    "certifications": [],
+    "description": "Attention she cell cold fly property outside. Present arrive open. Various clearly ground scientist notice staff respond. Edge exist brother man music low."
+  },
+  {
+    "manager_id": "MGR038",
+    "position": "Junior Manager",
+    "education": "Bachelor",
+    "years_at_company": 5,
+    "certifications": [],
+    "description": "History job now. Will charge service book campaign member. Student really century be unit."
+  },
+  {
+    "manager_id": "MGR038",
+    "position": "Analyst",
+    "education": "Bachelor",
+    "years_at_company": 4,
+    "certifications": [
+      "CFA"
+    ],
+    "description": "White year dinner government it point company. Thank word political main relate suddenly."
+  },
+  {
+    "manager_id": "MGR039",
+    "position": "Junior Manager",
+    "education": "Bachelor",
+    "years_at_company": 5,
+    "certifications": [
+      "CPA",
+      "MBA"
+    ],
+    "description": "Action indicate mind candidate."
+  },
+  {
+    "manager_id": "MGR039",
+    "position": "Senior Manager",
+    "education": "Bachelor",
+    "years_at_company": 5,
+    "certifications": [],
+    "description": "Debate break seat plant. Other magazine mind white hit."
+  },
+  {
+    "manager_id": "MGR040",
+    "position": "Senior Manager",
+    "education": null,
+    "years_at_company": 5,
+    "certifications": [],
+    "description": "Sell fire newspaper full. Industry cover win whole our clearly PM member."
+  },
+  {
+    "manager_id": "MGR040",
+    "position": "Senior Manager",
+    "education": "Bachelor",
+    "years_at_company": 6,
+    "certifications": [],
+    "description": "Paper forward out campaign send. Pay task yard bit my study direction. Work your much paper. Support follow audience those tax water dark."
+  },
+  {
+    "manager_id": "MGR041",
+    "position": "Senior Manager",
+    "education": "Master",
+    "years_at_company": 3,
+    "certifications": [],
+    "description": "Similar still wife respond leave. Rock management know sister any little local. Table low door goal house sure enough."
+  },
+  {
+    "manager_id": "MGR041",
+    "position": "Senior Manager",
+    "education": "Bachelor",
+    "years_at_company": 4,
+    "certifications": [
+      "CFA"
+    ],
+    "description": "We whatever same nothing. Million check popular red standard."
+  },
+  {
+    "manager_id": "MGR042",
+    "position": "Senior Manager",
+    "education": "MBA",
+    "years_at_company": 4,
+    "certifications": [],
+    "description": "Sound appear degree wait address base successful. Born major TV between talk history address. Talk person could realize leader middle although nice."
+  },
+  {
+    "manager_id": "MGR042",
+    "position": "Senior Manager",
+    "education": null,
+    "years_at_company": 5,
+    "certifications": [
+      "MBA"
+    ],
+    "description": "Use officer also less specific various. It each fall truth."
+  },
+  {
+    "manager_id": "MGR043",
+    "position": "Analyst",
+    "education": "Master",
+    "years_at_company": 6,
+    "certifications": [
+      "FRM"
+    ],
+    "description": "Defense blue dog design many standard. Just laugh speech possible though off clearly. Lose body customer three college media serve."
+  },
+  {
+    "manager_id": "MGR043",
+    "position": "Junior Manager",
+    "education": "Bachelor",
+    "years_at_company": 10,
+    "certifications": [
+      "CFA",
+      "PhD"
+    ],
+    "description": "Bring if police respond bed partner assume. Charge evening out card."
+  },
+  {
+    "manager_id": "MGR044",
+    "position": "Senior Manager",
+    "education": "Bachelor",
+    "years_at_company": 7,
+    "certifications": [
+      "FRM"
+    ],
+    "description": "Guy perform student. Each front decide green. Financial development example mind cup ask."
+  },
+  {
+    "manager_id": "MGR044",
+    "position": "Senior Manager",
+    "education": "Bachelor",
+    "years_at_company": 6,
+    "certifications": [
+      "CPA",
+      "PhD"
+    ],
+    "description": "Summer imagine face recently toward report measure. May fly raise crime both type clear guy. Source student player part care focus church."
+  },
+  {
+    "manager_id": "MGR045",
+    "position": "Lead Analyst",
+    "education": "Master",
+    "years_at_company": 5,
+    "certifications": [],
+    "description": "Along free guess some church pattern provide likely. Chance seven return approach."
+  },
+  {
+    "manager_id": "MGR045",
+    "position": "Senior Manager",
+    "education": "MBA",
+    "years_at_company": 3,
+    "certifications": [
+      "FRM",
+      "CFA"
+    ],
+    "description": "Bring hour by Congress hard. Fact last cut no get political."
+  },
+  {
+    "manager_id": "MGR046",
+    "position": "Senior Manager",
+    "education": "MBA",
+    "years_at_company": 0,
+    "certifications": [],
+    "description": "Painting interview director indeed part begin. Method help sometimes need early serious wife."
+  },
+  {
+    "manager_id": "MGR046",
+    "position": "Analyst",
+    "education": "Master",
+    "years_at_company": 1,
+    "certifications": [],
+    "description": "Administration at either degree. Determine amount product manager certainly myself area. Present fine beyond build."
+  },
+  {
+    "manager_id": "MGR047",
+    "position": "Junior Manager",
+    "education": "PhD",
+    "years_at_company": 6,
+    "certifications": [],
+    "description": "Society PM off quickly environmental voice indeed population. Imagine those few high pretty. Five without position drive. Establish tough maintain rest audience half."
+  },
+  {
+    "manager_id": "MGR047",
+    "position": "Junior Manager",
+    "education": "Master",
+    "years_at_company": 5,
+    "certifications": [
+      "FRM",
+      "MBA"
+    ],
+    "description": "Ball ball lot hear can figure. Remain agency attention source difficult pay. Name wrong win oil movement right expect."
+  },
+  {
+    "manager_id": "MGR048",
+    "position": "Analyst",
+    "education": "Bachelor",
+    "years_at_company": 8,
+    "certifications": [],
+    "description": "Ability view human travel successful. Recently however baby voice close second. Medical else artist light reveal."
+  },
+  {
+    "manager_id": "MGR048",
+    "position": "Senior Manager",
+    "education": "Bachelor",
+    "years_at_company": 9,
+    "certifications": [
+      "FRM"
+    ],
+    "description": "Economic fall father my by board. Music rock should."
+  },
+  {
+    "manager_id": "MGR049",
+    "position": "Junior Manager",
+    "education": "Bachelor",
+    "years_at_company": 3,
+    "certifications": [
+      "FRM"
+    ],
+    "description": "Modern likely well among citizen green even. Image former north."
+  },
+  {
+    "manager_id": "MGR049",
+    "position": "Senior Manager",
+    "education": "Bachelor",
+    "years_at_company": 6,
+    "certifications": [],
+    "description": "Look it them treat economy. Laugh later positive. Specific a off off Mr. Interesting reduce war voice reality official."
+  },
+  {
+    "manager_id": "MGR050",
+    "position": "Lead Analyst",
+    "education": "Bachelor",
+    "years_at_company": 2,
+    "certifications": [],
+    "description": "Window indicate event company she interesting each than. Away play your computer."
+  },
+  {
+    "manager_id": "MGR050",
+    "position": "Senior Manager",
+    "education": "Bachelor",
+    "years_at_company": 2,
+    "certifications": [
+      "MBA",
+      "CPA"
+    ],
+    "description": "Eat material investment environment. Later so decade summer. Good police important natural financial."
+  }
+]

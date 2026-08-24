@@ -1,0 +1,802 @@
+[
+  {
+    "trend_id": 1,
+    "trend_description": {
+      "id": 1,
+      "summary": "趋势：行业整合，市场关注度波动明显。",
+      "details": {
+        "topic": "行业整合",
+        "impacted_sectors": [
+          "制造",
+          "消费"
+        ],
+        "sentiment_score": -0.051
+      }
+    },
+    "trend_date": "2023-07-03"
+  },
+  {
+    "trend_id": 2,
+    "trend_description": {
+      "id": 2,
+      "summary": "趋势：全球影响，市场关注度波动明显。",
+      "details": {
+        "topic": "全球影响",
+        "impacted_sectors": [
+          "金融",
+          "消费"
+        ],
+        "sentiment_score": -0.501
+      }
+    },
+    "trend_date": "2022-12-26"
+  },
+  {
+    "trend_id": 3,
+    "trend_description": {
+      "id": 3,
+      "summary": "趋势：行业整合，市场关注度波动明显。",
+      "details": {
+        "topic": "行业整合",
+        "impacted_sectors": [
+          "金融",
+          "消费"
+        ],
+        "sentiment_score": 0.944
+      }
+    },
+    "trend_date": "2023-02-17"
+  },
+  {
+    "trend_id": 4,
+    "trend_description": {
+      "id": 4,
+      "summary": "趋势：市场波动，市场关注度波动明显。",
+      "details": {
+        "topic": "市场波动",
+        "impacted_sectors": [
+          "消费",
+          "金融"
+        ],
+        "sentiment_score": -0.254
+      }
+    },
+    "trend_date": "2023-04-11"
+  },
+  {
+    "trend_id": 5,
+    "trend_description": {
+      "id": 5,
+      "summary": "趋势：监管变化，市场关注度波动明显。",
+      "details": {
+        "topic": "监管变化",
+        "impacted_sectors": [
+          "制造",
+          "金融"
+        ],
+        "sentiment_score": 0.518
+      }
+    },
+    "trend_date": "2023-05-21"
+  },
+  {
+    "trend_id": 6,
+    "trend_description": {
+      "id": 6,
+      "summary": "趋势：经济增长，市场关注度波动明显。",
+      "details": {
+        "topic": "经济增长",
+        "impacted_sectors": [
+          "消费",
+          "制造"
+        ],
+        "sentiment_score": -0.201
+      }
+    },
+    "trend_date": "2023-06-03"
+  },
+  {
+    "trend_id": 7,
+    "trend_description": {
+      "id": 7,
+      "summary": "趋势：全球影响，市场关注度波动明显。",
+      "details": {
+        "topic": "全球影响",
+        "impacted_sectors": [
+          "医疗",
+          "科技"
+        ],
+        "sentiment_score": -0.192
+      }
+    },
+    "trend_date": "2023-03-09"
+  },
+  {
+    "trend_id": 8,
+    "trend_description": {
+      "id": 8,
+      "summary": "趋势：科技发展，市场关注度波动明显。",
+      "details": {
+        "topic": "科技发展",
+        "impacted_sectors": [
+          "消费",
+          "金融"
+        ],
+        "sentiment_score": 0.246
+      }
+    },
+    "trend_date": "2022-07-10"
+  },
+  {
+    "trend_id": 9,
+    "trend_description": {
+      "id": 9,
+      "summary": "趋势：科技发展，市场关注度波动明显。",
+      "details": {
+        "topic": "科技发展",
+        "impacted_sectors": [
+          "金融",
+          "科技"
+        ],
+        "sentiment_score": 0.088
+      }
+    },
+    "trend_date": "2023-03-06"
+  },
+  {
+    "trend_id": 10,
+    "trend_description": {
+      "id": 10,
+      "summary": "趋势：科技发展，市场关注度波动明显。",
+      "details": {
+        "topic": "科技发展",
+        "impacted_sectors": [
+          "制造",
+          "医疗"
+        ],
+        "sentiment_score": -0.907
+      }
+    },
+    "trend_date": "2022-04-29"
+  },
+  {
+    "trend_id": 11,
+    "trend_description": {
+      "id": 11,
+      "summary": "趋势：行业整合，市场关注度波动明显。",
+      "details": {
+        "topic": "行业整合",
+        "impacted_sectors": [
+          "医疗",
+          "金融"
+        ],
+        "sentiment_score": 0.076
+      }
+    },
+    "trend_date": "2023-08-23"
+  },
+  {
+    "trend_id": 12,
+    "trend_description": {
+      "id": 12,
+      "summary": "趋势：全球影响，市场关注度波动明显。",
+      "details": {
+        "topic": "全球影响",
+        "impacted_sectors": [
+          "制造",
+          "医疗"
+        ],
+        "sentiment_score": 0.047
+      }
+    },
+    "trend_date": "2022-12-09"
+  },
+  {
+    "trend_id": 13,
+    "trend_description": {
+      "id": 13,
+      "summary": "趋势：行业整合，市场关注度波动明显。",
+      "details": {
+        "topic": "行业整合",
+        "impacted_sectors": [
+          "消费",
+          "制造"
+        ],
+        "sentiment_score": 0.187
+      }
+    },
+    "trend_date": "2022-04-18"
+  },
+  {
+    "trend_id": 14,
+    "trend_description": {
+      "id": 14,
+      "summary": "趋势：监管变化，市场关注度波动明显。",
+      "details": {
+        "topic": "监管变化",
+        "impacted_sectors": [
+          "金融",
+          "消费"
+        ],
+        "sentiment_score": -0.384
+      }
+    },
+    "trend_date": "2022-05-14"
+  },
+  {
+    "trend_id": 15,
+    "trend_description": {
+      "id": 15,
+      "summary": "趋势：投资机遇，市场关注度波动明显。",
+      "details": {
+        "topic": "投资机遇",
+        "impacted_sectors": [
+          "消费",
+          "科技"
+        ],
+        "sentiment_score": 0.769
+      }
+    },
+    "trend_date": "2023-05-24"
+  },
+  {
+    "trend_id": 16,
+    "trend_description": {
+      "id": 16,
+      "summary": "趋势：全球影响，市场关注度波动明显。",
+      "details": {
+        "topic": "全球影响",
+        "impacted_sectors": [
+          "制造",
+          "金融"
+        ],
+        "sentiment_score": 0.528
+      }
+    },
+    "trend_date": "2022-03-15"
+  },
+  {
+    "trend_id": 17,
+    "trend_description": {
+      "id": 17,
+      "summary": "趋势：投资机遇，市场关注度波动明显。",
+      "details": {
+        "topic": "投资机遇",
+        "impacted_sectors": [
+          "医疗",
+          "科技"
+        ],
+        "sentiment_score": 0.898
+      }
+    },
+    "trend_date": "2022-05-15"
+  },
+  {
+    "trend_id": 18,
+    "trend_description": {
+      "id": 18,
+      "summary": "趋势：监管变化，市场关注度波动明显。",
+      "details": {
+        "topic": "监管变化",
+        "impacted_sectors": [
+          "医疗",
+          "金融"
+        ],
+        "sentiment_score": 0.121
+      }
+    },
+    "trend_date": "2023-10-25"
+  },
+  {
+    "trend_id": 19,
+    "trend_description": {
+      "id": 19,
+      "summary": "趋势：政策调整，市场关注度波动明显。",
+      "details": {
+        "topic": "政策调整",
+        "impacted_sectors": [
+          "医疗",
+          "科技"
+        ],
+        "sentiment_score": -0.9
+      }
+    },
+    "trend_date": "2022-03-14"
+  },
+  {
+    "trend_id": 20,
+    "trend_description": {
+      "id": 20,
+      "summary": "趋势：投资机遇，市场关注度波动明显。",
+      "details": {
+        "topic": "投资机遇",
+        "impacted_sectors": [
+          "科技",
+          "医疗"
+        ],
+        "sentiment_score": -0.994
+      }
+    },
+    "trend_date": "2023-09-04"
+  },
+  {
+    "trend_id": 21,
+    "trend_description": {
+      "id": 21,
+      "summary": "趋势：市场波动，市场关注度波动明显。",
+      "details": {
+        "topic": "市场波动",
+        "impacted_sectors": [
+          "医疗",
+          "金融"
+        ],
+        "sentiment_score": -0.242
+      }
+    },
+    "trend_date": "2022-06-22"
+  },
+  {
+    "trend_id": 22,
+    "trend_description": {
+      "id": 22,
+      "summary": "趋势：政策调整，市场关注度波动明显。",
+      "details": {
+        "topic": "政策调整",
+        "impacted_sectors": [
+          "消费",
+          "金融"
+        ],
+        "sentiment_score": -0.902
+      }
+    },
+    "trend_date": "2023-03-29"
+  },
+  {
+    "trend_id": 23,
+    "trend_description": {
+      "id": 23,
+      "summary": "趋势：全球影响，市场关注度波动明显。",
+      "details": {
+        "topic": "全球影响",
+        "impacted_sectors": [
+          "制造",
+          "医疗"
+        ],
+        "sentiment_score": -0.952
+      }
+    },
+    "trend_date": "2022-09-08"
+  },
+  {
+    "trend_id": 24,
+    "trend_description": {
+      "id": 24,
+      "summary": "趋势：投资机遇，市场关注度波动明显。",
+      "details": {
+        "topic": "投资机遇",
+        "impacted_sectors": [
+          "科技",
+          "金融"
+        ],
+        "sentiment_score": -0.975
+      }
+    },
+    "trend_date": "2023-01-06"
+  },
+  {
+    "trend_id": 25,
+    "trend_description": {
+      "id": 25,
+      "summary": "趋势：市场波动，市场关注度波动明显。",
+      "details": {
+        "topic": "市场波动",
+        "impacted_sectors": [
+          "制造",
+          "金融"
+        ],
+        "sentiment_score": 0.83
+      }
+    },
+    "trend_date": "2023-10-25"
+  },
+  {
+    "trend_id": 26,
+    "trend_description": {
+      "id": 26,
+      "summary": "趋势：投资机遇，市场关注度波动明显。",
+      "details": {
+        "topic": "投资机遇",
+        "impacted_sectors": [
+          "制造",
+          "消费"
+        ],
+        "sentiment_score": 0.856
+      }
+    },
+    "trend_date": "2023-09-12"
+  },
+  {
+    "trend_id": 27,
+    "trend_description": {
+      "id": 27,
+      "summary": "趋势：投资机遇，市场关注度波动明显。",
+      "details": {
+        "topic": "投资机遇",
+        "impacted_sectors": [
+          "科技",
+          "制造"
+        ],
+        "sentiment_score": 0.71
+      }
+    },
+    "trend_date": "2022-10-10"
+  },
+  {
+    "trend_id": 28,
+    "trend_description": {
+      "id": 28,
+      "summary": "趋势：监管变化，市场关注度波动明显。",
+      "details": {
+        "topic": "监管变化",
+        "impacted_sectors": [
+          "制造",
+          "消费"
+        ],
+        "sentiment_score": -0.554
+      }
+    },
+    "trend_date": "2023-09-02"
+  },
+  {
+    "trend_id": 29,
+    "trend_description": {
+      "id": 29,
+      "summary": "趋势：市场波动，市场关注度波动明显。",
+      "details": {
+        "topic": "市场波动",
+        "impacted_sectors": [
+          "金融",
+          "消费"
+        ],
+        "sentiment_score": -0.197
+      }
+    },
+    "trend_date": "2022-02-26"
+  },
+  {
+    "trend_id": 30,
+    "trend_description": {
+      "id": 30,
+      "summary": "趋势：投资机遇，市场关注度波动明显。",
+      "details": {
+        "topic": "投资机遇",
+        "impacted_sectors": [
+          "金融",
+          "消费"
+        ],
+        "sentiment_score": -0.664
+      }
+    },
+    "trend_date": "2023-12-09"
+  },
+  {
+    "trend_id": 31,
+    "trend_description": {
+      "id": 31,
+      "summary": "趋势：监管变化，市场关注度波动明显。",
+      "details": {
+        "topic": "监管变化",
+        "impacted_sectors": [
+          "科技",
+          "消费"
+        ],
+        "sentiment_score": 0.18
+      }
+    },
+    "trend_date": "2024-01-23"
+  },
+  {
+    "trend_id": 32,
+    "trend_description": {
+      "id": 32,
+      "summary": "趋势：市场波动，市场关注度波动明显。",
+      "details": {
+        "topic": "市场波动",
+        "impacted_sectors": [
+          "金融",
+          "科技"
+        ],
+        "sentiment_score": -0.403
+      }
+    },
+    "trend_date": "2023-04-26"
+  },
+  {
+    "trend_id": 33,
+    "trend_description": {
+      "id": 33,
+      "summary": "趋势：行业整合，市场关注度波动明显。",
+      "details": {
+        "topic": "行业整合",
+        "impacted_sectors": [
+          "消费",
+          "制造"
+        ],
+        "sentiment_score": 0.736
+      }
+    },
+    "trend_date": "2022-11-04"
+  },
+  {
+    "trend_id": 34,
+    "trend_description": {
+      "id": 34,
+      "summary": "趋势：政策调整，市场关注度波动明显。",
+      "details": {
+        "topic": "政策调整",
+        "impacted_sectors": [
+          "医疗",
+          "金融"
+        ],
+        "sentiment_score": -0.728
+      }
+    },
+    "trend_date": "2022-03-15"
+  },
+  {
+    "trend_id": 35,
+    "trend_description": {
+      "id": 35,
+      "summary": "趋势：市场波动，市场关注度波动明显。",
+      "details": {
+        "topic": "市场波动",
+        "impacted_sectors": [
+          "消费",
+          "医疗"
+        ],
+        "sentiment_score": -0.027
+      }
+    },
+    "trend_date": "2023-05-07"
+  },
+  {
+    "trend_id": 36,
+    "trend_description": {
+      "id": 36,
+      "summary": "趋势：市场波动，市场关注度波动明显。",
+      "details": {
+        "topic": "市场波动",
+        "impacted_sectors": [
+          "科技",
+          "金融"
+        ],
+        "sentiment_score": -0.824
+      }
+    },
+    "trend_date": "2023-10-04"
+  },
+  {
+    "trend_id": 37,
+    "trend_description": {
+      "id": 37,
+      "summary": "趋势：市场波动，市场关注度波动明显。",
+      "details": {
+        "topic": "市场波动",
+        "impacted_sectors": [
+          "金融",
+          "科技"
+        ],
+        "sentiment_score": -0.27
+      }
+    },
+    "trend_date": "2023-08-16"
+  },
+  {
+    "trend_id": 38,
+    "trend_description": {
+      "id": 38,
+      "summary": "趋势：行业整合，市场关注度波动明显。",
+      "details": {
+        "topic": "行业整合",
+        "impacted_sectors": [
+          "科技",
+          "医疗"
+        ],
+        "sentiment_score": -0.035
+      }
+    },
+    "trend_date": "2023-03-08"
+  },
+  {
+    "trend_id": 39,
+    "trend_description": {
+      "id": 39,
+      "summary": "趋势：全球影响，市场关注度波动明显。",
+      "details": {
+        "topic": "全球影响",
+        "impacted_sectors": [
+          "科技",
+          "消费"
+        ],
+        "sentiment_score": -0.829
+      }
+    },
+    "trend_date": "2022-01-05"
+  },
+  {
+    "trend_id": 40,
+    "trend_description": {
+      "id": 40,
+      "summary": "趋势：政策调整，市场关注度波动明显。",
+      "details": {
+        "topic": "政策调整",
+        "impacted_sectors": [
+          "科技",
+          "金融"
+        ],
+        "sentiment_score": 0.678
+      }
+    },
+    "trend_date": "2023-11-08"
+  },
+  {
+    "trend_id": 41,
+    "trend_description": {
+      "id": 41,
+      "summary": "趋势：监管变化，市场关注度波动明显。",
+      "details": {
+        "topic": "监管变化",
+        "impacted_sectors": [
+          "消费",
+          "金融"
+        ],
+        "sentiment_score": -0.044
+      }
+    },
+    "trend_date": "2024-01-28"
+  },
+  {
+    "trend_id": 42,
+    "trend_description": {
+      "id": 42,
+      "summary": "趋势：经济增长，市场关注度波动明显。",
+      "details": {
+        "topic": "经济增长",
+        "impacted_sectors": [
+          "科技",
+          "制造"
+        ],
+        "sentiment_score": 0.606
+      }
+    },
+    "trend_date": "2022-03-28"
+  },
+  {
+    "trend_id": 43,
+    "trend_description": {
+      "id": 43,
+      "summary": "趋势：政策调整，市场关注度波动明显。",
+      "details": {
+        "topic": "政策调整",
+        "impacted_sectors": [
+          "消费",
+          "科技"
+        ],
+        "sentiment_score": -0.225
+      }
+    },
+    "trend_date": "2023-03-20"
+  },
+  {
+    "trend_id": 44,
+    "trend_description": {
+      "id": 44,
+      "summary": "趋势：科技发展，市场关注度波动明显。",
+      "details": {
+        "topic": "科技发展",
+        "impacted_sectors": [
+          "制造",
+          "金融"
+        ],
+        "sentiment_score": -0.647
+      }
+    },
+    "trend_date": "2023-02-15"
+  },
+  {
+    "trend_id": 45,
+    "trend_description": {
+      "id": 45,
+      "summary": "趋势：监管变化，市场关注度波动明显。",
+      "details": {
+        "topic": "监管变化",
+        "impacted_sectors": [
+          "科技",
+          "制造"
+        ],
+        "sentiment_score": 0.67
+      }
+    },
+    "trend_date": "2022-04-04"
+  },
+  {
+    "trend_id": 46,
+    "trend_description": {
+      "id": 46,
+      "summary": "趋势：市场波动，市场关注度波动明显。",
+      "details": {
+        "topic": "市场波动",
+        "impacted_sectors": [
+          "金融",
+          "医疗"
+        ],
+        "sentiment_score": 0.193
+      }
+    },
+    "trend_date": "2023-09-28"
+  },
+  {
+    "trend_id": 47,
+    "trend_description": {
+      "id": 47,
+      "summary": "趋势：监管变化，市场关注度波动明显。",
+      "details": {
+        "topic": "监管变化",
+        "impacted_sectors": [
+          "医疗",
+          "制造"
+        ],
+        "sentiment_score": -0.667
+      }
+    },
+    "trend_date": "2022-08-08"
+  },
+  {
+    "trend_id": 48,
+    "trend_description": {
+      "id": 48,
+      "summary": "趋势：行业整合，市场关注度波动明显。",
+      "details": {
+        "topic": "行业整合",
+        "impacted_sectors": [
+          "医疗",
+          "制造"
+        ],
+        "sentiment_score": -0.978
+      }
+    },
+    "trend_date": "2023-11-11"
+  },
+  {
+    "trend_id": 49,
+    "trend_description": {
+      "id": 49,
+      "summary": "趋势：经济增长，市场关注度波动明显。",
+      "details": {
+        "topic": "经济增长",
+        "impacted_sectors": [
+          "制造",
+          "金融"
+        ],
+        "sentiment_score": -0.677
+      }
+    },
+    "trend_date": "2022-02-02"
+  },
+  {
+    "trend_id": 50,
+    "trend_description": {
+      "id": 50,
+      "summary": "趋势：全球影响，市场关注度波动明显。",
+      "details": {
+        "topic": "全球影响",
+        "impacted_sectors": [
+          "消费",
+          "医疗"
+        ],
+        "sentiment_score": -0.352
+      }
+    },
+    "trend_date": "2024-03-11"
+  }
+]

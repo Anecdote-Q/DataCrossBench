@@ -1,0 +1,21 @@
+{
+    "goal": "比较中美AI医疗投资中技术驱动型企业与消费应用型企业的市场表现差异。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 预计到2025年底，全国80%左右统筹区基本实现与定点医药机构的高效对接，表明政策推动下的行业整合趋势。",
+        "Comparison: 医药行业整体估值为27倍PE，相对沪深300的估值溢价率为122%，显示出中国市场的投资吸引力。",
+        "Extreme: 医药行业成交额5168亿元，占A股总成交额比例为5.4%，显示出行业的活跃度。",
+        "Attribution: 政策变化如医保政策的推进直接影响了行业的投资机会和企业的市场表现。"
+    ],
+    "summary": "本报告分析了中美在AI医疗领域的投资机会，强调了技术驱动型和消费应用型企业的成功要素，并提供了相关企业推荐。",
+    "flag_id": "flag-69",
+    "classifier": "AI Healthcare",
+    "classifier_cn": "AI 医疗健康",
+    "input_files": [
+        "output/business_background.txt",
+        "output/company_profiles.db",
+        "output/investment_opportunities.png",
+        "output/market_analysis.png",
+        "output/product_lines.json"
+    ]
+}

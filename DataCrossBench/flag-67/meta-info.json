@@ -1,0 +1,21 @@
+{
+    "goal": "比较迈瑞医疗与祥生医疗在市场信任度和市值上的差异，探讨其背后的原因。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 中国医疗资源短缺，AI医学影像需求大幅增长，预计市场规模将从2022年的4.6亿元增长到2030年的358.9亿，年复合增长率为72.4%。",
+        "Comparison: AI在乳腺癌早期筛查中的应用显示，AI系统处理300个病例仅需半小时，而人类医生需10小时以上，体现了AI的效率优势。",
+        "Extreme: 微创机器人-B在全球首次实施的5G超远程手术成功率为100%，显示出其技术的成熟度。",
+        "Attribution: 国家医保局出台影像检查类收费新规，AI辅助诊断被纳入扩展项，旨在提升医疗机构的诊疗效率并防止患者负担增加。"
+    ],
+    "summary": "本报告分析了人工智能在医疗设备领域的应用及其对行业的影响，强调了市场规模的快速增长和技术的不断进步。",
+    "flag_id": "flag-67",
+    "classifier": "AI Healthcare",
+    "classifier_cn": "AI 医疗健康",
+    "input_files": [
+        "output/ai_efficiency.png",
+        "output/background.txt",
+        "output/company_comparison.json",
+        "output/dimensions.db",
+        "output/market_growth.png"
+    ]
+}

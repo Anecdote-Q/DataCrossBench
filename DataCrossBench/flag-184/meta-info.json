@@ -1,0 +1,20 @@
+{
+    "goal": "分析2010年中国网民遭遇病毒或木马攻击比例下降的原因。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 2010年，遇到过病毒或木马攻击的网民比例为45.8%，较2009年下降了10.8个百分点。",
+        "Comparison: 与2009年相比，2010年遇到过账号或密码被盗经历的网民比例下降至21.8%。",
+        "Extreme: 2010年共受理钓鱼网站举报23455个，处理钓鱼网站22573个，显示出网络安全治理的加强。",
+        "Attribution: 网络安全问题的改善与政府对网络安全问题集中治理力度的不断加大密切相关。"
+    ],
+    "summary": "本报告分析了2010年中国互联网的安全状况，指出网络安全问题有所改善，但仍需加强。",
+    "flag_id": "flag-184",
+    "classifier": "Internet Dev.",
+    "classifier_cn": "互联网发展",
+    "input_files": [
+        "output/background.txt",
+        "output/security_events.csv",
+        "output/user_profiles.json",
+        "output/users_dimension.db"
+    ]
+}

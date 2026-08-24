@@ -1,0 +1,20 @@
+{
+    "goal": "比较不同地区（如北京、广东和西藏）网民增长的差异及其原因。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 农村网民规模达到1.25亿，占整体网民的27.3%，同比增长16.9%。",
+        "Comparison: 广东的网民数为5324万人，占全国网民的11.6%。",
+        "Extreme: 2010年，中国网站数量减少到191万个，年降幅41%。",
+        "Attribution: 农村网民的增长与农村互联网接入条件改善、网络硬件设备完备密切相关。"
+    ],
+    "summary": "本报告总结了2010年中国互联网的快速发展，特别是在网民规模、互联网应用和安全防护等方面的显著变化。",
+    "flag_id": "flag-183",
+    "classifier": "Internet Dev.",
+    "classifier_cn": "互联网发展",
+    "input_files": [
+        "output/background.txt",
+        "output/internet_users.csv",
+        "output/user_profiles.json",
+        "output/website_statistics.db"
+    ]
+}

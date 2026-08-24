@@ -1,0 +1,4202 @@
+[
+  {
+    "company_id": "C0001",
+    "company_name": "Oconnor-Wilkins",
+    "industry": "房地产",
+    "sub_industry": "住宅",
+    "market_type": "中小板",
+    "listing_date": "2019-04-05",
+    "stats": {
+      "total_transaction_amount": 141950438.01051962,
+      "median_transaction_amount": 817540.3971764534,
+      "risk_warning_count": 5,
+      "fund_count": 38
+    }
+  },
+  {
+    "company_id": "C0002",
+    "company_name": "Huynh-Nelson",
+    "industry": "医药",
+    "sub_industry": "制药",
+    "market_type": "中小板",
+    "listing_date": "2008-08-17",
+    "stats": {
+      "total_transaction_amount": 56030245.32382093,
+      "median_transaction_amount": 1373734.7220403668,
+      "risk_warning_count": 0,
+      "fund_count": 30
+    }
+  },
+  {
+    "company_id": "C0003",
+    "company_name": "Martinez-Hamilton",
+    "industry": "教育",
+    "sub_industry": "职业培训",
+    "market_type": "主板",
+    "listing_date": "2012-04-11",
+    "stats": {
+      "total_transaction_amount": 22559569.091694288,
+      "median_transaction_amount": 548045.6077820042,
+      "risk_warning_count": 0,
+      "fund_count": 26
+    }
+  },
+  {
+    "company_id": "C0004",
+    "company_name": "Carr and Sons",
+    "industry": "医药",
+    "sub_industry": "制药",
+    "market_type": "中小板",
+    "listing_date": "2006-04-09",
+    "stats": {
+      "total_transaction_amount": 49773099.6864827,
+      "median_transaction_amount": 1242620.7649755278,
+      "risk_warning_count": 2,
+      "fund_count": 34
+    }
+  },
+  {
+    "company_id": "C0005",
+    "company_name": "Davis, Irwin and Jenkins",
+    "industry": "消费",
+    "sub_industry": "家电",
+    "market_type": "创业板",
+    "listing_date": "2010-08-04",
+    "stats": {
+      "total_transaction_amount": 199026879.87890062,
+      "median_transaction_amount": 1449130.5225416457,
+      "risk_warning_count": 1,
+      "fund_count": 36
+    }
+  },
+  {
+    "company_id": "C0006",
+    "company_name": "Harris Inc",
+    "industry": "制造",
+    "sub_industry": "电子",
+    "market_type": "创业板",
+    "listing_date": "2001-06-27",
+    "stats": {
+      "total_transaction_amount": 64490814.58516766,
+      "median_transaction_amount": 1059008.561706509,
+      "risk_warning_count": 1,
+      "fund_count": 42
+    }
+  },
+  {
+    "company_id": "C0007",
+    "company_name": "Morris-Ellis",
+    "industry": "制造",
+    "sub_industry": "汽车",
+    "market_type": "创业板",
+    "listing_date": "1996-10-03",
+    "stats": {
+      "total_transaction_amount": 57120876.721547,
+      "median_transaction_amount": 1067754.025239548,
+      "risk_warning_count": 2,
+      "fund_count": 39
+    }
+  },
+  {
+    "company_id": "C0008",
+    "company_name": "Irwin, Garner and Smith",
+    "industry": "金融",
+    "sub_industry": "证券",
+    "market_type": "创业板",
+    "listing_date": "2023-03-31",
+    "stats": {
+      "total_transaction_amount": 55309164.69838882,
+      "median_transaction_amount": 1346569.142955298,
+      "risk_warning_count": 5,
+      "fund_count": 30
+    }
+  },
+  {
+    "company_id": "C0009",
+    "company_name": "Townsend and Sons",
+    "industry": "房地产",
+    "sub_industry": "住宅",
+    "market_type": "主板",
+    "listing_date": "2004-04-15",
+    "stats": {
+      "total_transaction_amount": 60786363.594820626,
+      "median_transaction_amount": 1305422.3040273464,
+      "risk_warning_count": 3,
+      "fund_count": 27
+    }
+  },
+  {
+    "company_id": "C0010",
+    "company_name": "Perry, Mcclure and Lane",
+    "industry": "能源",
+    "sub_industry": "石油",
+    "market_type": "主板",
+    "listing_date": "2017-05-03",
+    "stats": {
+      "total_transaction_amount": 28063705.408878688,
+      "median_transaction_amount": 858203.6346425774,
+      "risk_warning_count": 4,
+      "fund_count": 23
+    }
+  },
+  {
+    "company_id": "C0011",
+    "company_name": "Choi PLC",
+    "industry": "医药",
+    "sub_industry": "医疗器械",
+    "market_type": "主板",
+    "listing_date": "2016-07-19",
+    "stats": {
+      "total_transaction_amount": 50484180.252299696,
+      "median_transaction_amount": 1463204.4488699057,
+      "risk_warning_count": 2,
+      "fund_count": 26
+    }
+  },
+  {
+    "company_id": "C0012",
+    "company_name": "Roman-Hall",
+    "industry": "交通运输",
+    "sub_industry": "航空",
+    "market_type": "主板",
+    "listing_date": "2021-04-19",
+    "stats": {
+      "total_transaction_amount": 61175880.893662006,
+      "median_transaction_amount": 924912.008340995,
+      "risk_warning_count": 0,
+      "fund_count": 40
+    }
+  },
+  {
+    "company_id": "C0013",
+    "company_name": "Mclaughlin PLC",
+    "industry": "农业",
+    "sub_industry": "养殖",
+    "market_type": "主板",
+    "listing_date": "2015-05-26",
+    "stats": {
+      "total_transaction_amount": 41870228.53327421,
+      "median_transaction_amount": 803933.2729545047,
+      "risk_warning_count": 0,
+      "fund_count": 36
+    }
+  },
+  {
+    "company_id": "C0014",
+    "company_name": "Chapman-Holmes",
+    "industry": "科技",
+    "sub_industry": "硬件",
+    "market_type": "创业板",
+    "listing_date": "2023-10-12",
+    "stats": {
+      "total_transaction_amount": 76621400.37865734,
+      "median_transaction_amount": 1371933.5189011178,
+      "risk_warning_count": 3,
+      "fund_count": 39
+    }
+  },
+  {
+    "company_id": "C0015",
+    "company_name": "Petty LLC",
+    "industry": "制造",
+    "sub_industry": "汽车",
+    "market_type": "主板",
+    "listing_date": "2024-06-29",
+    "stats": {
+      "total_transaction_amount": 81860993.84695512,
+      "median_transaction_amount": 1085923.2710743053,
+      "risk_warning_count": 1,
+      "fund_count": 24
+    }
+  },
+  {
+    "company_id": "C0016",
+    "company_name": "Hernandez and Sons",
+    "industry": "房地产",
+    "sub_industry": "住宅",
+    "market_type": "创业板",
+    "listing_date": "2006-02-13",
+    "stats": {
+      "total_transaction_amount": 50512388.17702644,
+      "median_transaction_amount": 889773.4224377654,
+      "risk_warning_count": 3,
+      "fund_count": 33
+    }
+  },
+  {
+    "company_id": "C0017",
+    "company_name": "Moore-Morris",
+    "industry": "教育",
+    "sub_industry": "高等教育",
+    "market_type": "创业板",
+    "listing_date": "1997-05-29",
+    "stats": {
+      "total_transaction_amount": 21535511.82191587,
+      "median_transaction_amount": 497616.45983791567,
+      "risk_warning_count": 0,
+      "fund_count": 33
+    }
+  },
+  {
+    "company_id": "C0018",
+    "company_name": "Wallace, Hughes and Lloyd",
+    "industry": "房地产",
+    "sub_industry": "住宅",
+    "market_type": "创业板",
+    "listing_date": "2001-03-08",
+    "stats": {
+      "total_transaction_amount": 38587469.259085655,
+      "median_transaction_amount": 1195055.1464886458,
+      "risk_warning_count": 1,
+      "fund_count": 27
+    }
+  },
+  {
+    "company_id": "C0019",
+    "company_name": "Barton LLC",
+    "industry": "教育",
+    "sub_industry": "职业培训",
+    "market_type": "主板",
+    "listing_date": "2002-03-22",
+    "stats": {
+      "total_transaction_amount": 46105091.966964565,
+      "median_transaction_amount": 543510.4780273571,
+      "risk_warning_count": 0,
+      "fund_count": 37
+    }
+  },
+  {
+    "company_id": "C0020",
+    "company_name": "Juarez, Castillo and Brown",
+    "industry": "能源",
+    "sub_industry": "石油",
+    "market_type": "中小板",
+    "listing_date": "2014-02-18",
+    "stats": {
+      "total_transaction_amount": 144455108.28984848,
+      "median_transaction_amount": 1308780.7924769723,
+      "risk_warning_count": 5,
+      "fund_count": 29
+    }
+  },
+  {
+    "company_id": "C0021",
+    "company_name": "Ingram-Church",
+    "industry": "能源",
+    "sub_industry": "石油",
+    "market_type": "中小板",
+    "listing_date": "2022-09-25",
+    "stats": {
+      "total_transaction_amount": 37564438.73113692,
+      "median_transaction_amount": 814595.2450418111,
+      "risk_warning_count": 4,
+      "fund_count": 35
+    }
+  },
+  {
+    "company_id": "C0022",
+    "company_name": "Harris, Mack and Hale",
+    "industry": "教育",
+    "sub_industry": "职业培训",
+    "market_type": "创业板",
+    "listing_date": "2012-02-13",
+    "stats": {
+      "total_transaction_amount": 25290130.944528963,
+      "median_transaction_amount": 416565.49147853453,
+      "risk_warning_count": 0,
+      "fund_count": 28
+    }
+  },
+  {
+    "company_id": "C0023",
+    "company_name": "Simpson LLC",
+    "industry": "制造",
+    "sub_industry": "机械",
+    "market_type": "主板",
+    "listing_date": "2002-08-31",
+    "stats": {
+      "total_transaction_amount": 61346036.20469518,
+      "median_transaction_amount": 1137352.402538584,
+      "risk_warning_count": 2,
+      "fund_count": 30
+    }
+  },
+  {
+    "company_id": "C0024",
+    "company_name": "Martin and Sons",
+    "industry": "消费",
+    "sub_industry": "食品",
+    "market_type": "主板",
+    "listing_date": "2011-07-22",
+    "stats": {
+      "total_transaction_amount": 80969666.07542905,
+      "median_transaction_amount": 1442475.2085962305,
+      "risk_warning_count": 0,
+      "fund_count": 42
+    }
+  },
+  {
+    "company_id": "C0025",
+    "company_name": "Dominguez, Thomas and Sandoval",
+    "industry": "能源",
+    "sub_industry": "新能源",
+    "market_type": "创业板",
+    "listing_date": "2021-09-01",
+    "stats": {
+      "total_transaction_amount": 23182021.870304465,
+      "median_transaction_amount": 569423.9240095273,
+      "risk_warning_count": 4,
+      "fund_count": 22
+    }
+  },
+  {
+    "company_id": "C0026",
+    "company_name": "Peck, Jefferson and Baker",
+    "industry": "医药",
+    "sub_industry": "制药",
+    "market_type": "中小板",
+    "listing_date": "2017-09-23",
+    "stats": {
+      "total_transaction_amount": 101477797.86836353,
+      "median_transaction_amount": 1449983.3827136778,
+      "risk_warning_count": 1,
+      "fund_count": 34
+    }
+  },
+  {
+    "company_id": "C0027",
+    "company_name": "Tyler Group",
+    "industry": "医药",
+    "sub_industry": "制药",
+    "market_type": "主板",
+    "listing_date": "2008-01-23",
+    "stats": {
+      "total_transaction_amount": 74911346.93994188,
+      "median_transaction_amount": 1470115.395305903,
+      "risk_warning_count": 0,
+      "fund_count": 35
+    }
+  },
+  {
+    "company_id": "C0028",
+    "company_name": "Ellison and Sons",
+    "industry": "科技",
+    "sub_industry": "半导体",
+    "market_type": "主板",
+    "listing_date": "1996-10-07",
+    "stats": {
+      "total_transaction_amount": 124832599.7633737,
+      "median_transaction_amount": 1574622.417419647,
+      "risk_warning_count": 2,
+      "fund_count": 44
+    }
+  },
+  {
+    "company_id": "C0029",
+    "company_name": "Thompson-Thompson",
+    "industry": "房地产",
+    "sub_industry": "住宅",
+    "market_type": "主板",
+    "listing_date": "2012-07-21",
+    "stats": {
+      "total_transaction_amount": 53650983.77374025,
+      "median_transaction_amount": 937966.4727435769,
+      "risk_warning_count": 2,
+      "fund_count": 18
+    }
+  },
+  {
+    "company_id": "C0030",
+    "company_name": "Barry, Choi and Palmer",
+    "industry": "医药",
+    "sub_industry": "制药",
+    "market_type": "创业板",
+    "listing_date": "2008-02-01",
+    "stats": {
+      "total_transaction_amount": 55924494.49744581,
+      "median_transaction_amount": 1345329.2426845697,
+      "risk_warning_count": 2,
+      "fund_count": 28
+    }
+  },
+  {
+    "company_id": "C0031",
+    "company_name": "Jones Group",
+    "industry": "农业",
+    "sub_industry": "种植",
+    "market_type": "中小板",
+    "listing_date": "2017-07-16",
+    "stats": {
+      "total_transaction_amount": 20937843.83925695,
+      "median_transaction_amount": 614670.3951420491,
+      "risk_warning_count": 0,
+      "fund_count": 23
+    }
+  },
+  {
+    "company_id": "C0032",
+    "company_name": "Howell, Harris and Taylor",
+    "industry": "教育",
+    "sub_industry": "高等教育",
+    "market_type": "主板",
+    "listing_date": "2021-11-25",
+    "stats": {
+      "total_transaction_amount": 23630416.757786904,
+      "median_transaction_amount": 427125.8728645339,
+      "risk_warning_count": 0,
+      "fund_count": 39
+    }
+  },
+  {
+    "company_id": "C0033",
+    "company_name": "Bradley-Martinez",
+    "industry": "交通运输",
+    "sub_industry": "航空",
+    "market_type": "创业板",
+    "listing_date": "2010-10-11",
+    "stats": {
+      "total_transaction_amount": 61500020.33495331,
+      "median_transaction_amount": 988193.7377795713,
+      "risk_warning_count": 3,
+      "fund_count": 35
+    }
+  },
+  {
+    "company_id": "C0034",
+    "company_name": "Snow, Brown and Waters",
+    "industry": "房地产",
+    "sub_industry": "住宅",
+    "market_type": "中小板",
+    "listing_date": "1997-04-03",
+    "stats": {
+      "total_transaction_amount": 40670649.09331813,
+      "median_transaction_amount": 955232.0913903739,
+      "risk_warning_count": 3,
+      "fund_count": 27
+    }
+  },
+  {
+    "company_id": "C0035",
+    "company_name": "Herrera, Rodriguez and Blake",
+    "industry": "金融",
+    "sub_industry": "证券",
+    "market_type": "主板",
+    "listing_date": "2000-07-04",
+    "stats": {
+      "total_transaction_amount": 179487529.87674707,
+      "median_transaction_amount": 1360261.699039625,
+      "risk_warning_count": 5,
+      "fund_count": 36
+    }
+  },
+  {
+    "company_id": "C0036",
+    "company_name": "Walters, Hill and Wallace",
+    "industry": "金融",
+    "sub_industry": "保险",
+    "market_type": "主板",
+    "listing_date": "2006-09-02",
+    "stats": {
+      "total_transaction_amount": 74444042.41160649,
+      "median_transaction_amount": 1378819.8521291106,
+      "risk_warning_count": 4,
+      "fund_count": 34
+    }
+  },
+  {
+    "company_id": "C0037",
+    "company_name": "Cole-Baker",
+    "industry": "医药",
+    "sub_industry": "制药",
+    "market_type": "主板",
+    "listing_date": "2017-05-10",
+    "stats": {
+      "total_transaction_amount": 91128964.82749705,
+      "median_transaction_amount": 1129228.91782874,
+      "risk_warning_count": 0,
+      "fund_count": 26
+    }
+  },
+  {
+    "company_id": "C0038",
+    "company_name": "Williams-Griffin",
+    "industry": "制造",
+    "sub_industry": "机械",
+    "market_type": "中小板",
+    "listing_date": "2002-05-07",
+    "stats": {
+      "total_transaction_amount": 67738065.56299026,
+      "median_transaction_amount": 1460215.0378977598,
+      "risk_warning_count": 2,
+      "fund_count": 34
+    }
+  },
+  {
+    "company_id": "C0039",
+    "company_name": "Mccall Ltd",
+    "industry": "制造",
+    "sub_industry": "电子",
+    "market_type": "主板",
+    "listing_date": "2024-02-04",
+    "stats": {
+      "total_transaction_amount": 84794448.74971914,
+      "median_transaction_amount": 1221923.744454691,
+      "risk_warning_count": 4,
+      "fund_count": 40
+    }
+  },
+  {
+    "company_id": "C0040",
+    "company_name": "Johnson PLC",
+    "industry": "农业",
+    "sub_industry": "种植",
+    "market_type": "主板",
+    "listing_date": "2021-04-08",
+    "stats": {
+      "total_transaction_amount": 39370687.04658048,
+      "median_transaction_amount": 847191.746773164,
+      "risk_warning_count": 0,
+      "fund_count": 37
+    }
+  },
+  {
+    "company_id": "C0041",
+    "company_name": "Henry-Nelson",
+    "industry": "科技",
+    "sub_industry": "半导体",
+    "market_type": "主板",
+    "listing_date": "2002-01-09",
+    "stats": {
+      "total_transaction_amount": 68012199.82038663,
+      "median_transaction_amount": 1564793.613568564,
+      "risk_warning_count": 2,
+      "fund_count": 30
+    }
+  },
+  {
+    "company_id": "C0042",
+    "company_name": "Swanson-Mathis",
+    "industry": "教育",
+    "sub_industry": "高等教育",
+    "market_type": "中小板",
+    "listing_date": "1998-03-02",
+    "stats": {
+      "total_transaction_amount": 21814410.722890574,
+      "median_transaction_amount": 524052.5934419941,
+      "risk_warning_count": 0,
+      "fund_count": 29
+    }
+  },
+  {
+    "company_id": "C0043",
+    "company_name": "Richardson-Hancock",
+    "industry": "农业",
+    "sub_industry": "养殖",
+    "market_type": "主板",
+    "listing_date": "2008-02-19",
+    "stats": {
+      "total_transaction_amount": 79316487.78896639,
+      "median_transaction_amount": 852494.7112713513,
+      "risk_warning_count": 2,
+      "fund_count": 31
+    }
+  },
+  {
+    "company_id": "C0044",
+    "company_name": "Miller LLC",
+    "industry": "交通运输",
+    "sub_industry": "航空",
+    "market_type": "主板",
+    "listing_date": "2002-09-17",
+    "stats": {
+      "total_transaction_amount": 81609871.97694634,
+      "median_transaction_amount": 1165533.113882266,
+      "risk_warning_count": 1,
+      "fund_count": 43
+    }
+  },
+  {
+    "company_id": "C0045",
+    "company_name": "Harris-Hernandez",
+    "industry": "能源",
+    "sub_industry": "石油",
+    "market_type": "主板",
+    "listing_date": "2023-07-30",
+    "stats": {
+      "total_transaction_amount": 59413731.65042916,
+      "median_transaction_amount": 975905.2806325016,
+      "risk_warning_count": 2,
+      "fund_count": 29
+    }
+  },
+  {
+    "company_id": "C0046",
+    "company_name": "Moody LLC",
+    "industry": "医药",
+    "sub_industry": "医疗器械",
+    "market_type": "主板",
+    "listing_date": "2007-05-08",
+    "stats": {
+      "total_transaction_amount": 62060157.45185161,
+      "median_transaction_amount": 1423673.435729898,
+      "risk_warning_count": 2,
+      "fund_count": 38
+    }
+  },
+  {
+    "company_id": "C0047",
+    "company_name": "Allen Group",
+    "industry": "房地产",
+    "sub_industry": "住宅",
+    "market_type": "主板",
+    "listing_date": "2000-04-14",
+    "stats": {
+      "total_transaction_amount": 33638168.91228038,
+      "median_transaction_amount": 979987.2263611292,
+      "risk_warning_count": 0,
+      "fund_count": 25
+    }
+  },
+  {
+    "company_id": "C0048",
+    "company_name": "Green PLC",
+    "industry": "教育",
+    "sub_industry": "高等教育",
+    "market_type": "中小板",
+    "listing_date": "2006-05-21",
+    "stats": {
+      "total_transaction_amount": 44112055.329617515,
+      "median_transaction_amount": 394565.5292488509,
+      "risk_warning_count": 0,
+      "fund_count": 31
+    }
+  },
+  {
+    "company_id": "C0049",
+    "company_name": "Mitchell, Chase and Davis",
+    "industry": "农业",
+    "sub_industry": "养殖",
+    "market_type": "中小板",
+    "listing_date": "2011-04-12",
+    "stats": {
+      "total_transaction_amount": 23371257.93011018,
+      "median_transaction_amount": 614089.6808029213,
+      "risk_warning_count": 3,
+      "fund_count": 31
+    }
+  },
+  {
+    "company_id": "C0050",
+    "company_name": "Gordon, Ali and Hooper",
+    "industry": "金融",
+    "sub_industry": "银行",
+    "market_type": "创业板",
+    "listing_date": "1996-06-02",
+    "stats": {
+      "total_transaction_amount": 154465072.84650984,
+      "median_transaction_amount": 1285185.5094541032,
+      "risk_warning_count": 4,
+      "fund_count": 31
+    }
+  },
+  {
+    "company_id": "C0051",
+    "company_name": "Hernandez, Schmidt and Chapman",
+    "industry": "交通运输",
+    "sub_industry": "铁路",
+    "market_type": "创业板",
+    "listing_date": "2018-08-24",
+    "stats": {
+      "total_transaction_amount": 40119655.024441734,
+      "median_transaction_amount": 1392043.2151951704,
+      "risk_warning_count": 1,
+      "fund_count": 23
+    }
+  },
+  {
+    "company_id": "C0052",
+    "company_name": "Ellis Group",
+    "industry": "教育",
+    "sub_industry": "高等教育",
+    "market_type": "创业板",
+    "listing_date": "1996-09-09",
+    "stats": {
+      "total_transaction_amount": 21326022.960448924,
+      "median_transaction_amount": 448860.145485655,
+      "risk_warning_count": 0,
+      "fund_count": 29
+    }
+  },
+  {
+    "company_id": "C0053",
+    "company_name": "Johnson, Price and Craig",
+    "industry": "制造",
+    "sub_industry": "电子",
+    "market_type": "主板",
+    "listing_date": "2011-08-31",
+    "stats": {
+      "total_transaction_amount": 66461960.82313793,
+      "median_transaction_amount": 1136211.8163498791,
+      "risk_warning_count": 1,
+      "fund_count": 29
+    }
+  },
+  {
+    "company_id": "C0054",
+    "company_name": "Smith, Harrison and Williams",
+    "industry": "医药",
+    "sub_industry": "医疗器械",
+    "market_type": "主板",
+    "listing_date": "2005-01-22",
+    "stats": {
+      "total_transaction_amount": 99109176.8413246,
+      "median_transaction_amount": 1226964.978024596,
+      "risk_warning_count": 1,
+      "fund_count": 32
+    }
+  },
+  {
+    "company_id": "C0055",
+    "company_name": "Martinez-Cunningham",
+    "industry": "农业",
+    "sub_industry": "种植",
+    "market_type": "中小板",
+    "listing_date": "1997-08-15",
+    "stats": {
+      "total_transaction_amount": 25874232.245847024,
+      "median_transaction_amount": 577822.2242141871,
+      "risk_warning_count": 1,
+      "fund_count": 34
+    }
+  },
+  {
+    "company_id": "C0056",
+    "company_name": "Tucker Inc",
+    "industry": "房地产",
+    "sub_industry": "住宅",
+    "market_type": "中小板",
+    "listing_date": "1998-10-10",
+    "stats": {
+      "total_transaction_amount": 82803278.45687856,
+      "median_transaction_amount": 1034532.6018067528,
+      "risk_warning_count": 2,
+      "fund_count": 43
+    }
+  },
+  {
+    "company_id": "C0057",
+    "company_name": "Johnson Inc",
+    "industry": "农业",
+    "sub_industry": "种植",
+    "market_type": "创业板",
+    "listing_date": "2004-12-07",
+    "stats": {
+      "total_transaction_amount": 24496350.258601945,
+      "median_transaction_amount": 838076.1851590392,
+      "risk_warning_count": 0,
+      "fund_count": 23
+    }
+  },
+  {
+    "company_id": "C0058",
+    "company_name": "Warren Group",
+    "industry": "金融",
+    "sub_industry": "银行",
+    "market_type": "中小板",
+    "listing_date": "2010-06-16",
+    "stats": {
+      "total_transaction_amount": 54218281.53297637,
+      "median_transaction_amount": 1129333.953494397,
+      "risk_warning_count": 4,
+      "fund_count": 30
+    }
+  },
+  {
+    "company_id": "C0059",
+    "company_name": "Henderson and Sons",
+    "industry": "科技",
+    "sub_industry": "互联网",
+    "market_type": "创业板",
+    "listing_date": "2005-07-14",
+    "stats": {
+      "total_transaction_amount": 44065989.616879284,
+      "median_transaction_amount": 1397590.5996574252,
+      "risk_warning_count": 0,
+      "fund_count": 22
+    }
+  },
+  {
+    "company_id": "C0060",
+    "company_name": "Reyes PLC",
+    "industry": "交通运输",
+    "sub_industry": "航空",
+    "market_type": "中小板",
+    "listing_date": "2002-12-26",
+    "stats": {
+      "total_transaction_amount": 129944572.57583016,
+      "median_transaction_amount": 1082444.8716201559,
+      "risk_warning_count": 0,
+      "fund_count": 32
+    }
+  },
+  {
+    "company_id": "C0061",
+    "company_name": "Ewing, Bradshaw and Mccullough",
+    "industry": "消费",
+    "sub_industry": "服装",
+    "market_type": "创业板",
+    "listing_date": "2012-01-13",
+    "stats": {
+      "total_transaction_amount": 63030128.19544494,
+      "median_transaction_amount": 1595158.356308758,
+      "risk_warning_count": 1,
+      "fund_count": 33
+    }
+  },
+  {
+    "company_id": "C0062",
+    "company_name": "Bowman, Moore and Oconnor",
+    "industry": "消费",
+    "sub_industry": "服装",
+    "market_type": "创业板",
+    "listing_date": "2020-08-09",
+    "stats": {
+      "total_transaction_amount": 108906571.88520168,
+      "median_transaction_amount": 1428552.3093804002,
+      "risk_warning_count": 0,
+      "fund_count": 37
+    }
+  },
+  {
+    "company_id": "C0063",
+    "company_name": "Curtis Inc",
+    "industry": "交通运输",
+    "sub_industry": "航空",
+    "market_type": "主板",
+    "listing_date": "2018-09-21",
+    "stats": {
+      "total_transaction_amount": 141759390.34259444,
+      "median_transaction_amount": 1333288.150322158,
+      "risk_warning_count": 2,
+      "fund_count": 50
+    }
+  },
+  {
+    "company_id": "C0064",
+    "company_name": "Castro Inc",
+    "industry": "消费",
+    "sub_industry": "服装",
+    "market_type": "主板",
+    "listing_date": "1998-09-19",
+    "stats": {
+      "total_transaction_amount": 83128061.28347826,
+      "median_transaction_amount": 1477896.1021841252,
+      "risk_warning_count": 2,
+      "fund_count": 32
+    }
+  },
+  {
+    "company_id": "C0065",
+    "company_name": "Young, Hooper and Perez",
+    "industry": "能源",
+    "sub_industry": "新能源",
+    "market_type": "主板",
+    "listing_date": "2006-09-17",
+    "stats": {
+      "total_transaction_amount": 30531964.022945814,
+      "median_transaction_amount": 870629.1871818402,
+      "risk_warning_count": 5,
+      "fund_count": 29
+    }
+  },
+  {
+    "company_id": "C0066",
+    "company_name": "Griffin, Powell and Wright",
+    "industry": "科技",
+    "sub_industry": "软件",
+    "market_type": "主板",
+    "listing_date": "2009-01-16",
+    "stats": {
+      "total_transaction_amount": 147105193.58510232,
+      "median_transaction_amount": 1515492.8258733316,
+      "risk_warning_count": 3,
+      "fund_count": 33
+    }
+  },
+  {
+    "company_id": "C0067",
+    "company_name": "Rodriguez, Johnson and Mcintyre",
+    "industry": "金融",
+    "sub_industry": "证券",
+    "market_type": "主板",
+    "listing_date": "2022-05-17",
+    "stats": {
+      "total_transaction_amount": 116412349.53312044,
+      "median_transaction_amount": 1608613.8919186392,
+      "risk_warning_count": 4,
+      "fund_count": 27
+    }
+  },
+  {
+    "company_id": "C0068",
+    "company_name": "Allen-Snyder",
+    "industry": "房地产",
+    "sub_industry": "商业地产",
+    "market_type": "主板",
+    "listing_date": "1998-05-14",
+    "stats": {
+      "total_transaction_amount": 42313941.1425109,
+      "median_transaction_amount": 1017658.5482525345,
+      "risk_warning_count": 0,
+      "fund_count": 27
+    }
+  },
+  {
+    "company_id": "C0069",
+    "company_name": "Rodriguez-Wright",
+    "industry": "消费",
+    "sub_industry": "服装",
+    "market_type": "主板",
+    "listing_date": "2004-10-14",
+    "stats": {
+      "total_transaction_amount": 113258147.69206628,
+      "median_transaction_amount": 1410625.5390995573,
+      "risk_warning_count": 1,
+      "fund_count": 41
+    }
+  },
+  {
+    "company_id": "C0070",
+    "company_name": "Martinez, Robinson and Jensen",
+    "industry": "消费",
+    "sub_industry": "家电",
+    "market_type": "中小板",
+    "listing_date": "2022-09-04",
+    "stats": {
+      "total_transaction_amount": 70522727.52778773,
+      "median_transaction_amount": 1883015.6002296805,
+      "risk_warning_count": 2,
+      "fund_count": 28
+    }
+  },
+  {
+    "company_id": "C0071",
+    "company_name": "Hudson-Fields",
+    "industry": "房地产",
+    "sub_industry": "住宅",
+    "market_type": "创业板",
+    "listing_date": "2019-02-13",
+    "stats": {
+      "total_transaction_amount": 34054271.20989658,
+      "median_transaction_amount": 918864.7135768267,
+      "risk_warning_count": 0,
+      "fund_count": 27
+    }
+  },
+  {
+    "company_id": "C0072",
+    "company_name": "Smith, Dennis and Hill",
+    "industry": "消费",
+    "sub_industry": "服装",
+    "market_type": "主板",
+    "listing_date": "2019-05-12",
+    "stats": {
+      "total_transaction_amount": 96825702.36758459,
+      "median_transaction_amount": 1308138.8169719137,
+      "risk_warning_count": 0,
+      "fund_count": 45
+    }
+  },
+  {
+    "company_id": "C0073",
+    "company_name": "Roach-Benson",
+    "industry": "房地产",
+    "sub_industry": "住宅",
+    "market_type": "主板",
+    "listing_date": "2001-10-28",
+    "stats": {
+      "total_transaction_amount": 53201421.3178228,
+      "median_transaction_amount": 978673.5403570685,
+      "risk_warning_count": 1,
+      "fund_count": 34
+    }
+  },
+  {
+    "company_id": "C0074",
+    "company_name": "Turner, Acosta and Richardson",
+    "industry": "金融",
+    "sub_industry": "银行",
+    "market_type": "中小板",
+    "listing_date": "2023-02-16",
+    "stats": {
+      "total_transaction_amount": 41577743.426064685,
+      "median_transaction_amount": 1436556.5909663914,
+      "risk_warning_count": 2,
+      "fund_count": 23
+    }
+  },
+  {
+    "company_id": "C0075",
+    "company_name": "Hall-Mora",
+    "industry": "能源",
+    "sub_industry": "新能源",
+    "market_type": "中小板",
+    "listing_date": "2001-11-23",
+    "stats": {
+      "total_transaction_amount": 102931517.04708569,
+      "median_transaction_amount": 941710.3526513899,
+      "risk_warning_count": 4,
+      "fund_count": 39
+    }
+  },
+  {
+    "company_id": "C0076",
+    "company_name": "Smith, Hernandez and Perkins",
+    "industry": "能源",
+    "sub_industry": "石油",
+    "market_type": "主板",
+    "listing_date": "2022-11-29",
+    "stats": {
+      "total_transaction_amount": 51671407.007318504,
+      "median_transaction_amount": 966730.9523483262,
+      "risk_warning_count": 2,
+      "fund_count": 31
+    }
+  },
+  {
+    "company_id": "C0077",
+    "company_name": "Murphy and Sons",
+    "industry": "金融",
+    "sub_industry": "证券",
+    "market_type": "主板",
+    "listing_date": "2020-04-07",
+    "stats": {
+      "total_transaction_amount": 48027677.38917024,
+      "median_transaction_amount": 1099843.2297989465,
+      "risk_warning_count": 7,
+      "fund_count": 31
+    }
+  },
+  {
+    "company_id": "C0078",
+    "company_name": "Parker, Mitchell and Clark",
+    "industry": "医药",
+    "sub_industry": "医疗器械",
+    "market_type": "中小板",
+    "listing_date": "2007-05-21",
+    "stats": {
+      "total_transaction_amount": 203605013.42979956,
+      "median_transaction_amount": 1396540.9704306456,
+      "risk_warning_count": 1,
+      "fund_count": 47
+    }
+  },
+  {
+    "company_id": "C0079",
+    "company_name": "Carpenter, Gibbs and Bowman",
+    "industry": "科技",
+    "sub_industry": "硬件",
+    "market_type": "主板",
+    "listing_date": "2015-02-18",
+    "stats": {
+      "total_transaction_amount": 92435400.79357763,
+      "median_transaction_amount": 1615967.2790126642,
+      "risk_warning_count": 1,
+      "fund_count": 29
+    }
+  },
+  {
+    "company_id": "C0080",
+    "company_name": "Duncan-Mooney",
+    "industry": "交通运输",
+    "sub_industry": "铁路",
+    "market_type": "创业板",
+    "listing_date": "2010-07-15",
+    "stats": {
+      "total_transaction_amount": 81643188.41066106,
+      "median_transaction_amount": 1133560.5089880368,
+      "risk_warning_count": 1,
+      "fund_count": 46
+    }
+  },
+  {
+    "company_id": "C0081",
+    "company_name": "Jones, Woods and Atkinson",
+    "industry": "能源",
+    "sub_industry": "新能源",
+    "market_type": "创业板",
+    "listing_date": "2009-12-21",
+    "stats": {
+      "total_transaction_amount": 51428067.752529785,
+      "median_transaction_amount": 904515.7695439178,
+      "risk_warning_count": 6,
+      "fund_count": 43
+    }
+  },
+  {
+    "company_id": "C0082",
+    "company_name": "Moore, Henderson and Warner",
+    "industry": "农业",
+    "sub_industry": "养殖",
+    "market_type": "主板",
+    "listing_date": "2017-03-23",
+    "stats": {
+      "total_transaction_amount": 29789840.343587674,
+      "median_transaction_amount": 671462.447456552,
+      "risk_warning_count": 2,
+      "fund_count": 35
+    }
+  },
+  {
+    "company_id": "C0083",
+    "company_name": "Adams LLC",
+    "industry": "消费",
+    "sub_industry": "食品",
+    "market_type": "主板",
+    "listing_date": "2021-09-22",
+    "stats": {
+      "total_transaction_amount": 80420508.55859849,
+      "median_transaction_amount": 1298295.5090968132,
+      "risk_warning_count": 2,
+      "fund_count": 37
+    }
+  },
+  {
+    "company_id": "C0084",
+    "company_name": "Long, Davis and Price",
+    "industry": "金融",
+    "sub_industry": "证券",
+    "market_type": "主板",
+    "listing_date": "2014-08-10",
+    "stats": {
+      "total_transaction_amount": 72533135.70630258,
+      "median_transaction_amount": 1156911.2149398632,
+      "risk_warning_count": 5,
+      "fund_count": 33
+    }
+  },
+  {
+    "company_id": "C0085",
+    "company_name": "Jordan, Mooney and Smith",
+    "industry": "农业",
+    "sub_industry": "养殖",
+    "market_type": "创业板",
+    "listing_date": "2009-04-14",
+    "stats": {
+      "total_transaction_amount": 63739028.9553425,
+      "median_transaction_amount": 830251.1312713245,
+      "risk_warning_count": 1,
+      "fund_count": 41
+    }
+  },
+  {
+    "company_id": "C0086",
+    "company_name": "Smith, Moore and Shelton",
+    "industry": "科技",
+    "sub_industry": "硬件",
+    "market_type": "创业板",
+    "listing_date": "2022-06-18",
+    "stats": {
+      "total_transaction_amount": 80382234.55923888,
+      "median_transaction_amount": 1423379.306860732,
+      "risk_warning_count": 3,
+      "fund_count": 37
+    }
+  },
+  {
+    "company_id": "C0087",
+    "company_name": "Martin-Morris",
+    "industry": "农业",
+    "sub_industry": "养殖",
+    "market_type": "创业板",
+    "listing_date": "2013-05-26",
+    "stats": {
+      "total_transaction_amount": 217960170.53609103,
+      "median_transaction_amount": 636075.2021016676,
+      "risk_warning_count": 1,
+      "fund_count": 30
+    }
+  },
+  {
+    "company_id": "C0088",
+    "company_name": "Williams-Sanchez",
+    "industry": "制造",
+    "sub_industry": "汽车",
+    "market_type": "中小板",
+    "listing_date": "2013-05-23",
+    "stats": {
+      "total_transaction_amount": 72329122.4194413,
+      "median_transaction_amount": 1044071.6098231511,
+      "risk_warning_count": 3,
+      "fund_count": 38
+    }
+  },
+  {
+    "company_id": "C0089",
+    "company_name": "Johnson-Lambert",
+    "industry": "交通运输",
+    "sub_industry": "铁路",
+    "market_type": "中小板",
+    "listing_date": "2010-05-31",
+    "stats": {
+      "total_transaction_amount": 50517735.30620376,
+      "median_transaction_amount": 981095.421950218,
+      "risk_warning_count": 1,
+      "fund_count": 35
+    }
+  },
+  {
+    "company_id": "C0090",
+    "company_name": "Saunders, Brooks and Vaughn",
+    "industry": "科技",
+    "sub_industry": "半导体",
+    "market_type": "中小板",
+    "listing_date": "2012-06-11",
+    "stats": {
+      "total_transaction_amount": 69111687.48220927,
+      "median_transaction_amount": 1423822.8593871507,
+      "risk_warning_count": 0,
+      "fund_count": 29
+    }
+  },
+  {
+    "company_id": "C0091",
+    "company_name": "Hogan-Anderson",
+    "industry": "农业",
+    "sub_industry": "种植",
+    "market_type": "中小板",
+    "listing_date": "2009-01-25",
+    "stats": {
+      "total_transaction_amount": 44274854.99866056,
+      "median_transaction_amount": 617511.8954358483,
+      "risk_warning_count": 2,
+      "fund_count": 37
+    }
+  },
+  {
+    "company_id": "C0092",
+    "company_name": "Owens LLC",
+    "industry": "交通运输",
+    "sub_industry": "航空",
+    "market_type": "主板",
+    "listing_date": "2002-09-02",
+    "stats": {
+      "total_transaction_amount": 63466052.74702883,
+      "median_transaction_amount": 1272784.244174029,
+      "risk_warning_count": 3,
+      "fund_count": 31
+    }
+  },
+  {
+    "company_id": "C0093",
+    "company_name": "Perez-Romero",
+    "industry": "医药",
+    "sub_industry": "医疗器械",
+    "market_type": "中小板",
+    "listing_date": "2010-03-26",
+    "stats": {
+      "total_transaction_amount": 30519324.537147272,
+      "median_transaction_amount": 1329581.9548259622,
+      "risk_warning_count": 0,
+      "fund_count": 18
+    }
+  },
+  {
+    "company_id": "C0094",
+    "company_name": "Perez, Perry and Rocha",
+    "industry": "消费",
+    "sub_industry": "食品",
+    "market_type": "中小板",
+    "listing_date": "2000-04-29",
+    "stats": {
+      "total_transaction_amount": 83309721.49696378,
+      "median_transaction_amount": 1730083.2864456517,
+      "risk_warning_count": 1,
+      "fund_count": 36
+    }
+  },
+  {
+    "company_id": "C0095",
+    "company_name": "Williams, Zimmerman and Parks",
+    "industry": "教育",
+    "sub_industry": "高等教育",
+    "market_type": "创业板",
+    "listing_date": "2017-11-11",
+    "stats": {
+      "total_transaction_amount": 20637674.315436833,
+      "median_transaction_amount": 373168.82415676274,
+      "risk_warning_count": 0,
+      "fund_count": 38
+    }
+  },
+  {
+    "company_id": "C0096",
+    "company_name": "Martinez-Brown",
+    "industry": "金融",
+    "sub_industry": "保险",
+    "market_type": "主板",
+    "listing_date": "2015-02-02",
+    "stats": {
+      "total_transaction_amount": 86698989.7262889,
+      "median_transaction_amount": 1344995.7732172182,
+      "risk_warning_count": 5,
+      "fund_count": 37
+    }
+  },
+  {
+    "company_id": "C0097",
+    "company_name": "Davis LLC",
+    "industry": "金融",
+    "sub_industry": "证券",
+    "market_type": "主板",
+    "listing_date": "2013-01-07",
+    "stats": {
+      "total_transaction_amount": 79168528.40847686,
+      "median_transaction_amount": 1222211.6223901203,
+      "risk_warning_count": 1,
+      "fund_count": 40
+    }
+  },
+  {
+    "company_id": "C0098",
+    "company_name": "Medina, Hill and Austin",
+    "industry": "科技",
+    "sub_industry": "软件",
+    "market_type": "中小板",
+    "listing_date": "2012-08-05",
+    "stats": {
+      "total_transaction_amount": 346473555.6735006,
+      "median_transaction_amount": 1715214.2762381227,
+      "risk_warning_count": 1,
+      "fund_count": 41
+    }
+  },
+  {
+    "company_id": "C0099",
+    "company_name": "Edwards-Smith",
+    "industry": "能源",
+    "sub_industry": "石油",
+    "market_type": "中小板",
+    "listing_date": "1999-06-28",
+    "stats": {
+      "total_transaction_amount": 56481188.05034155,
+      "median_transaction_amount": 968568.0199442755,
+      "risk_warning_count": 6,
+      "fund_count": 29
+    }
+  },
+  {
+    "company_id": "C0100",
+    "company_name": "Alexander-Stewart",
+    "industry": "交通运输",
+    "sub_industry": "航空",
+    "market_type": "主板",
+    "listing_date": "2003-05-18",
+    "stats": {
+      "total_transaction_amount": 70735189.41061974,
+      "median_transaction_amount": 1072407.233232701,
+      "risk_warning_count": 2,
+      "fund_count": 32
+    }
+  },
+  {
+    "company_id": "C0101",
+    "company_name": "Cohen Ltd",
+    "industry": "房地产",
+    "sub_industry": "住宅",
+    "market_type": "主板",
+    "listing_date": "1997-09-28",
+    "stats": {
+      "total_transaction_amount": 38846993.35766149,
+      "median_transaction_amount": 1027334.3421850845,
+      "risk_warning_count": 3,
+      "fund_count": 34
+    }
+  },
+  {
+    "company_id": "C0102",
+    "company_name": "Thomas and Sons",
+    "industry": "医药",
+    "sub_industry": "制药",
+    "market_type": "中小板",
+    "listing_date": "2016-04-24",
+    "stats": {
+      "total_transaction_amount": 67635302.11273581,
+      "median_transaction_amount": 1212485.2122530714,
+      "risk_warning_count": 0,
+      "fund_count": 27
+    }
+  },
+  {
+    "company_id": "C0103",
+    "company_name": "Farrell LLC",
+    "industry": "教育",
+    "sub_industry": "高等教育",
+    "market_type": "创业板",
+    "listing_date": "1997-05-06",
+    "stats": {
+      "total_transaction_amount": 40235296.335264556,
+      "median_transaction_amount": 558246.526682355,
+      "risk_warning_count": 2,
+      "fund_count": 43
+    }
+  },
+  {
+    "company_id": "C0104",
+    "company_name": "Durham, Mcguire and Hall",
+    "industry": "交通运输",
+    "sub_industry": "铁路",
+    "market_type": "主板",
+    "listing_date": "2024-01-08",
+    "stats": {
+      "total_transaction_amount": 81638046.75297576,
+      "median_transaction_amount": 1054419.9107391653,
+      "risk_warning_count": 0,
+      "fund_count": 33
+    }
+  },
+  {
+    "company_id": "C0105",
+    "company_name": "Smith and Sons",
+    "industry": "农业",
+    "sub_industry": "种植",
+    "market_type": "主板",
+    "listing_date": "2006-12-09",
+    "stats": {
+      "total_transaction_amount": 61917822.68101608,
+      "median_transaction_amount": 594020.0022577327,
+      "risk_warning_count": 2,
+      "fund_count": 29
+    }
+  },
+  {
+    "company_id": "C0106",
+    "company_name": "Fisher, Thompson and Moore",
+    "industry": "交通运输",
+    "sub_industry": "铁路",
+    "market_type": "创业板",
+    "listing_date": "2010-10-08",
+    "stats": {
+      "total_transaction_amount": 71365338.50167584,
+      "median_transaction_amount": 1356681.404191176,
+      "risk_warning_count": 0,
+      "fund_count": 36
+    }
+  },
+  {
+    "company_id": "C0107",
+    "company_name": "Vasquez Inc",
+    "industry": "能源",
+    "sub_industry": "石油",
+    "market_type": "主板",
+    "listing_date": "2006-04-25",
+    "stats": {
+      "total_transaction_amount": 42055280.07006418,
+      "median_transaction_amount": 851778.1618913756,
+      "risk_warning_count": 5,
+      "fund_count": 37
+    }
+  },
+  {
+    "company_id": "C0108",
+    "company_name": "Figueroa Inc",
+    "industry": "农业",
+    "sub_industry": "种植",
+    "market_type": "主板",
+    "listing_date": "1998-01-23",
+    "stats": {
+      "total_transaction_amount": 30952567.47010918,
+      "median_transaction_amount": 661108.8941868893,
+      "risk_warning_count": 4,
+      "fund_count": 33
+    }
+  },
+  {
+    "company_id": "C0109",
+    "company_name": "Anderson-Ward",
+    "industry": "消费",
+    "sub_industry": "家电",
+    "market_type": "主板",
+    "listing_date": "2023-10-26",
+    "stats": {
+      "total_transaction_amount": 181582336.59763676,
+      "median_transaction_amount": 1876720.6884850152,
+      "risk_warning_count": 1,
+      "fund_count": 37
+    }
+  },
+  {
+    "company_id": "C0110",
+    "company_name": "Gonzalez-Rivera",
+    "industry": "能源",
+    "sub_industry": "新能源",
+    "market_type": "主板",
+    "listing_date": "1998-01-11",
+    "stats": {
+      "total_transaction_amount": 23294120.845463727,
+      "median_transaction_amount": 814968.8652882464,
+      "risk_warning_count": 2,
+      "fund_count": 22
+    }
+  },
+  {
+    "company_id": "C0111",
+    "company_name": "King PLC",
+    "industry": "交通运输",
+    "sub_industry": "航空",
+    "market_type": "创业板",
+    "listing_date": "2000-11-23",
+    "stats": {
+      "total_transaction_amount": 68239991.69983546,
+      "median_transaction_amount": 1009003.0633890185,
+      "risk_warning_count": 1,
+      "fund_count": 39
+    }
+  },
+  {
+    "company_id": "C0112",
+    "company_name": "Anderson, Johnson and Thomas",
+    "industry": "交通运输",
+    "sub_industry": "航空",
+    "market_type": "创业板",
+    "listing_date": "2022-01-23",
+    "stats": {
+      "total_transaction_amount": 34408231.22045627,
+      "median_transaction_amount": 966539.2734618859,
+      "risk_warning_count": 4,
+      "fund_count": 23
+    }
+  },
+  {
+    "company_id": "C0113",
+    "company_name": "Townsend and Sons",
+    "industry": "能源",
+    "sub_industry": "新能源",
+    "market_type": "创业板",
+    "listing_date": "2012-02-01",
+    "stats": {
+      "total_transaction_amount": 38526156.82562405,
+      "median_transaction_amount": 717198.3307732474,
+      "risk_warning_count": 3,
+      "fund_count": 35
+    }
+  },
+  {
+    "company_id": "C0114",
+    "company_name": "King, Holt and Roberts",
+    "industry": "金融",
+    "sub_industry": "证券",
+    "market_type": "主板",
+    "listing_date": "1996-01-17",
+    "stats": {
+      "total_transaction_amount": 62556935.52682041,
+      "median_transaction_amount": 1438347.75763663,
+      "risk_warning_count": 4,
+      "fund_count": 32
+    }
+  },
+  {
+    "company_id": "C0115",
+    "company_name": "Richardson, Morales and Harris",
+    "industry": "农业",
+    "sub_industry": "养殖",
+    "market_type": "主板",
+    "listing_date": "1998-11-26",
+    "stats": {
+      "total_transaction_amount": 43752303.96954216,
+      "median_transaction_amount": 707635.0098964395,
+      "risk_warning_count": 1,
+      "fund_count": 39
+    }
+  },
+  {
+    "company_id": "C0116",
+    "company_name": "Bowman and Sons",
+    "industry": "房地产",
+    "sub_industry": "商业地产",
+    "market_type": "创业板",
+    "listing_date": "2009-06-06",
+    "stats": {
+      "total_transaction_amount": 67148553.67604946,
+      "median_transaction_amount": 1099391.9878565918,
+      "risk_warning_count": 4,
+      "fund_count": 34
+    }
+  },
+  {
+    "company_id": "C0117",
+    "company_name": "Lopez, Bates and Willis",
+    "industry": "金融",
+    "sub_industry": "保险",
+    "market_type": "中小板",
+    "listing_date": "2019-01-31",
+    "stats": {
+      "total_transaction_amount": 126720982.85106912,
+      "median_transaction_amount": 1433848.577443359,
+      "risk_warning_count": 2,
+      "fund_count": 39
+    }
+  },
+  {
+    "company_id": "C0118",
+    "company_name": "Hernandez-Chang",
+    "industry": "金融",
+    "sub_industry": "保险",
+    "market_type": "主板",
+    "listing_date": "1997-04-18",
+    "stats": {
+      "total_transaction_amount": 62992928.83032759,
+      "median_transaction_amount": 1444127.3827873794,
+      "risk_warning_count": 5,
+      "fund_count": 34
+    }
+  },
+  {
+    "company_id": "C0119",
+    "company_name": "Martinez, Scott and Anderson",
+    "industry": "交通运输",
+    "sub_industry": "航空",
+    "market_type": "中小板",
+    "listing_date": "2011-02-03",
+    "stats": {
+      "total_transaction_amount": 87497328.58695172,
+      "median_transaction_amount": 1216589.5056837273,
+      "risk_warning_count": 1,
+      "fund_count": 42
+    }
+  },
+  {
+    "company_id": "C0120",
+    "company_name": "Thompson, Garcia and Thomas",
+    "industry": "教育",
+    "sub_industry": "高等教育",
+    "market_type": "主板",
+    "listing_date": "2003-01-19",
+    "stats": {
+      "total_transaction_amount": 27548335.724612027,
+      "median_transaction_amount": 525414.9490807916,
+      "risk_warning_count": 1,
+      "fund_count": 33
+    }
+  },
+  {
+    "company_id": "C0121",
+    "company_name": "Lambert Ltd",
+    "industry": "能源",
+    "sub_industry": "新能源",
+    "market_type": "中小板",
+    "listing_date": "2007-06-19",
+    "stats": {
+      "total_transaction_amount": 50688071.8444847,
+      "median_transaction_amount": 916245.9963099884,
+      "risk_warning_count": 7,
+      "fund_count": 47
+    }
+  },
+  {
+    "company_id": "C0122",
+    "company_name": "Chapman, Baker and Brooks",
+    "industry": "教育",
+    "sub_industry": "高等教育",
+    "market_type": "创业板",
+    "listing_date": "2004-12-16",
+    "stats": {
+      "total_transaction_amount": 31074718.974527013,
+      "median_transaction_amount": 532300.0074264504,
+      "risk_warning_count": 1,
+      "fund_count": 28
+    }
+  },
+  {
+    "company_id": "C0123",
+    "company_name": "Maddox-Mcclain",
+    "industry": "科技",
+    "sub_industry": "互联网",
+    "market_type": "主板",
+    "listing_date": "2016-07-20",
+    "stats": {
+      "total_transaction_amount": 62717009.634190194,
+      "median_transaction_amount": 1345246.718436669,
+      "risk_warning_count": 1,
+      "fund_count": 35
+    }
+  },
+  {
+    "company_id": "C0124",
+    "company_name": "Hayes-Washington",
+    "industry": "交通运输",
+    "sub_industry": "航空",
+    "market_type": "创业板",
+    "listing_date": "1999-01-10",
+    "stats": {
+      "total_transaction_amount": 52557387.07093027,
+      "median_transaction_amount": 1078921.9893207976,
+      "risk_warning_count": 1,
+      "fund_count": 35
+    }
+  },
+  {
+    "company_id": "C0125",
+    "company_name": "Robinson-Williams",
+    "industry": "能源",
+    "sub_industry": "新能源",
+    "market_type": "主板",
+    "listing_date": "2001-01-15",
+    "stats": {
+      "total_transaction_amount": 53817353.27604598,
+      "median_transaction_amount": 1026589.6406465152,
+      "risk_warning_count": 1,
+      "fund_count": 37
+    }
+  },
+  {
+    "company_id": "C0126",
+    "company_name": "Kidd Inc",
+    "industry": "房地产",
+    "sub_industry": "商业地产",
+    "market_type": "主板",
+    "listing_date": "2022-03-04",
+    "stats": {
+      "total_transaction_amount": 49493381.0616987,
+      "median_transaction_amount": 1009105.0792537339,
+      "risk_warning_count": 2,
+      "fund_count": 34
+    }
+  },
+  {
+    "company_id": "C0127",
+    "company_name": "Burnett, Ballard and Clark",
+    "industry": "农业",
+    "sub_industry": "养殖",
+    "market_type": "主板",
+    "listing_date": "1999-10-22",
+    "stats": {
+      "total_transaction_amount": 33705748.70445318,
+      "median_transaction_amount": 685536.7067728969,
+      "risk_warning_count": 1,
+      "fund_count": 33
+    }
+  },
+  {
+    "company_id": "C0128",
+    "company_name": "Smith, Gilmore and Anderson",
+    "industry": "金融",
+    "sub_industry": "银行",
+    "market_type": "中小板",
+    "listing_date": "2022-05-30",
+    "stats": {
+      "total_transaction_amount": 94451700.16289069,
+      "median_transaction_amount": 1530182.5872136073,
+      "risk_warning_count": 5,
+      "fund_count": 41
+    }
+  },
+  {
+    "company_id": "C0129",
+    "company_name": "Green PLC",
+    "industry": "农业",
+    "sub_industry": "种植",
+    "market_type": "主板",
+    "listing_date": "2004-08-20",
+    "stats": {
+      "total_transaction_amount": 76317037.65307881,
+      "median_transaction_amount": 749630.1374673953,
+      "risk_warning_count": 1,
+      "fund_count": 36
+    }
+  },
+  {
+    "company_id": "C0130",
+    "company_name": "Olson PLC",
+    "industry": "制造",
+    "sub_industry": "电子",
+    "market_type": "创业板",
+    "listing_date": "2002-06-30",
+    "stats": {
+      "total_transaction_amount": 89727576.90277427,
+      "median_transaction_amount": 1081838.458362281,
+      "risk_warning_count": 2,
+      "fund_count": 34
+    }
+  },
+  {
+    "company_id": "C0131",
+    "company_name": "Davis, Smith and Jenkins",
+    "industry": "制造",
+    "sub_industry": "汽车",
+    "market_type": "主板",
+    "listing_date": "2004-12-10",
+    "stats": {
+      "total_transaction_amount": 65609733.86379879,
+      "median_transaction_amount": 1126320.3646562286,
+      "risk_warning_count": 0,
+      "fund_count": 37
+    }
+  },
+  {
+    "company_id": "C0132",
+    "company_name": "Jones and Sons",
+    "industry": "制造",
+    "sub_industry": "电子",
+    "market_type": "创业板",
+    "listing_date": "2009-01-22",
+    "stats": {
+      "total_transaction_amount": 40038090.52312165,
+      "median_transaction_amount": 1201662.8470944918,
+      "risk_warning_count": 3,
+      "fund_count": 26
+    }
+  },
+  {
+    "company_id": "C0133",
+    "company_name": "Singh-Thomas",
+    "industry": "消费",
+    "sub_industry": "家电",
+    "market_type": "中小板",
+    "listing_date": "2020-01-13",
+    "stats": {
+      "total_transaction_amount": 60445112.644462,
+      "median_transaction_amount": 1589041.1453167591,
+      "risk_warning_count": 1,
+      "fund_count": 30
+    }
+  },
+  {
+    "company_id": "C0134",
+    "company_name": "Farrell-Jenkins",
+    "industry": "科技",
+    "sub_industry": "硬件",
+    "market_type": "中小板",
+    "listing_date": "2000-02-27",
+    "stats": {
+      "total_transaction_amount": 94479134.36311157,
+      "median_transaction_amount": 1485687.9846192112,
+      "risk_warning_count": 2,
+      "fund_count": 43
+    }
+  },
+  {
+    "company_id": "C0135",
+    "company_name": "Monroe, Padilla and Perez",
+    "industry": "房地产",
+    "sub_industry": "商业地产",
+    "market_type": "创业板",
+    "listing_date": "2023-06-20",
+    "stats": {
+      "total_transaction_amount": 57825045.17797221,
+      "median_transaction_amount": 1067316.8560828536,
+      "risk_warning_count": 5,
+      "fund_count": 39
+    }
+  },
+  {
+    "company_id": "C0136",
+    "company_name": "Cooper-Moyer",
+    "industry": "交通运输",
+    "sub_industry": "航空",
+    "market_type": "创业板",
+    "listing_date": "2009-11-02",
+    "stats": {
+      "total_transaction_amount": 69377873.83437745,
+      "median_transaction_amount": 956630.8010828833,
+      "risk_warning_count": 3,
+      "fund_count": 43
+    }
+  },
+  {
+    "company_id": "C0137",
+    "company_name": "Wilson-Nelson",
+    "industry": "消费",
+    "sub_industry": "家电",
+    "market_type": "主板",
+    "listing_date": "2011-03-26",
+    "stats": {
+      "total_transaction_amount": 55267762.87006089,
+      "median_transaction_amount": 1347725.354891548,
+      "risk_warning_count": 2,
+      "fund_count": 26
+    }
+  },
+  {
+    "company_id": "C0138",
+    "company_name": "Garcia Group",
+    "industry": "交通运输",
+    "sub_industry": "航空",
+    "market_type": "创业板",
+    "listing_date": "2014-12-29",
+    "stats": {
+      "total_transaction_amount": 22950957.00479296,
+      "median_transaction_amount": 766182.8428557182,
+      "risk_warning_count": 2,
+      "fund_count": 22
+    }
+  },
+  {
+    "company_id": "C0139",
+    "company_name": "Simpson, White and Brady",
+    "industry": "制造",
+    "sub_industry": "汽车",
+    "market_type": "主板",
+    "listing_date": "2008-05-17",
+    "stats": {
+      "total_transaction_amount": 56841649.32133479,
+      "median_transaction_amount": 1020029.0503000811,
+      "risk_warning_count": 1,
+      "fund_count": 29
+    }
+  },
+  {
+    "company_id": "C0140",
+    "company_name": "Martinez Group",
+    "industry": "金融",
+    "sub_industry": "证券",
+    "market_type": "主板",
+    "listing_date": "2002-10-01",
+    "stats": {
+      "total_transaction_amount": 98864786.52375,
+      "median_transaction_amount": 1482626.145066589,
+      "risk_warning_count": 5,
+      "fund_count": 32
+    }
+  },
+  {
+    "company_id": "C0141",
+    "company_name": "Lopez Group",
+    "industry": "消费",
+    "sub_industry": "家电",
+    "market_type": "中小板",
+    "listing_date": "2015-01-13",
+    "stats": {
+      "total_transaction_amount": 68353365.56374836,
+      "median_transaction_amount": 1772713.2145092366,
+      "risk_warning_count": 3,
+      "fund_count": 30
+    }
+  },
+  {
+    "company_id": "C0142",
+    "company_name": "Chapman Group",
+    "industry": "房地产",
+    "sub_industry": "商业地产",
+    "market_type": "中小板",
+    "listing_date": "2010-07-19",
+    "stats": {
+      "total_transaction_amount": 54462162.24181261,
+      "median_transaction_amount": 943216.2369011315,
+      "risk_warning_count": 5,
+      "fund_count": 34
+    }
+  },
+  {
+    "company_id": "C0143",
+    "company_name": "Price, Nelson and Russell",
+    "industry": "金融",
+    "sub_industry": "保险",
+    "market_type": "创业板",
+    "listing_date": "2001-05-03",
+    "stats": {
+      "total_transaction_amount": 82421966.8543943,
+      "median_transaction_amount": 1241694.2882343326,
+      "risk_warning_count": 5,
+      "fund_count": 36
+    }
+  },
+  {
+    "company_id": "C0144",
+    "company_name": "Moran, Mccann and Davis",
+    "industry": "金融",
+    "sub_industry": "证券",
+    "market_type": "中小板",
+    "listing_date": "2008-10-28",
+    "stats": {
+      "total_transaction_amount": 75335040.03223816,
+      "median_transaction_amount": 1239631.298289506,
+      "risk_warning_count": 6,
+      "fund_count": 28
+    }
+  },
+  {
+    "company_id": "C0145",
+    "company_name": "Mack-Murray",
+    "industry": "能源",
+    "sub_industry": "石油",
+    "market_type": "中小板",
+    "listing_date": "2011-10-16",
+    "stats": {
+      "total_transaction_amount": 46567655.08617019,
+      "median_transaction_amount": 1003060.7235589924,
+      "risk_warning_count": 2,
+      "fund_count": 21
+    }
+  },
+  {
+    "company_id": "C0146",
+    "company_name": "Garcia, Juarez and Griffin",
+    "industry": "制造",
+    "sub_industry": "电子",
+    "market_type": "主板",
+    "listing_date": "2019-05-11",
+    "stats": {
+      "total_transaction_amount": 89479046.71907577,
+      "median_transaction_amount": 1036916.7414719926,
+      "risk_warning_count": 5,
+      "fund_count": 38
+    }
+  },
+  {
+    "company_id": "C0147",
+    "company_name": "Miller and Sons",
+    "industry": "医药",
+    "sub_industry": "制药",
+    "market_type": "创业板",
+    "listing_date": "2008-09-13",
+    "stats": {
+      "total_transaction_amount": 66599914.85842799,
+      "median_transaction_amount": 1431427.8634434277,
+      "risk_warning_count": 2,
+      "fund_count": 28
+    }
+  },
+  {
+    "company_id": "C0148",
+    "company_name": "Gonzales, Jarvis and Hodge",
+    "industry": "消费",
+    "sub_industry": "食品",
+    "market_type": "中小板",
+    "listing_date": "2005-06-14",
+    "stats": {
+      "total_transaction_amount": 113820239.69426163,
+      "median_transaction_amount": 1274729.441437872,
+      "risk_warning_count": 1,
+      "fund_count": 31
+    }
+  },
+  {
+    "company_id": "C0149",
+    "company_name": "Gutierrez-Payne",
+    "industry": "制造",
+    "sub_industry": "汽车",
+    "market_type": "中小板",
+    "listing_date": "2003-08-20",
+    "stats": {
+      "total_transaction_amount": 75307097.2415272,
+      "median_transaction_amount": 1194198.8622375294,
+      "risk_warning_count": 5,
+      "fund_count": 35
+    }
+  },
+  {
+    "company_id": "C0150",
+    "company_name": "Coleman-White",
+    "industry": "教育",
+    "sub_industry": "职业培训",
+    "market_type": "中小板",
+    "listing_date": "2003-03-10",
+    "stats": {
+      "total_transaction_amount": 16718959.146465566,
+      "median_transaction_amount": 365170.4684661572,
+      "risk_warning_count": 1,
+      "fund_count": 29
+    }
+  },
+  {
+    "company_id": "C0151",
+    "company_name": "Simon-Armstrong",
+    "industry": "科技",
+    "sub_industry": "互联网",
+    "market_type": "主板",
+    "listing_date": "1998-07-23",
+    "stats": {
+      "total_transaction_amount": 58078810.22801265,
+      "median_transaction_amount": 1348271.88776509,
+      "risk_warning_count": 2,
+      "fund_count": 34
+    }
+  },
+  {
+    "company_id": "C0152",
+    "company_name": "Stephens-Trujillo",
+    "industry": "教育",
+    "sub_industry": "职业培训",
+    "market_type": "主板",
+    "listing_date": "2009-12-21",
+    "stats": {
+      "total_transaction_amount": 24680452.482856203,
+      "median_transaction_amount": 555080.7315385955,
+      "risk_warning_count": 1,
+      "fund_count": 27
+    }
+  },
+  {
+    "company_id": "C0153",
+    "company_name": "Hogan, Vazquez and Schmidt",
+    "industry": "医药",
+    "sub_industry": "医疗器械",
+    "market_type": "中小板",
+    "listing_date": "2016-01-21",
+    "stats": {
+      "total_transaction_amount": 91679570.88712233,
+      "median_transaction_amount": 1364697.4774289897,
+      "risk_warning_count": 3,
+      "fund_count": 34
+    }
+  },
+  {
+    "company_id": "C0154",
+    "company_name": "Jones-Ellis",
+    "industry": "制造",
+    "sub_industry": "电子",
+    "market_type": "中小板",
+    "listing_date": "2008-07-21",
+    "stats": {
+      "total_transaction_amount": 30980922.35695583,
+      "median_transaction_amount": 933728.6564744409,
+      "risk_warning_count": 0,
+      "fund_count": 23
+    }
+  },
+  {
+    "company_id": "C0155",
+    "company_name": "Dennis-Andrews",
+    "industry": "教育",
+    "sub_industry": "职业培训",
+    "market_type": "创业板",
+    "listing_date": "2008-05-12",
+    "stats": {
+      "total_transaction_amount": 19578825.01889311,
+      "median_transaction_amount": 501200.4111777013,
+      "risk_warning_count": 0,
+      "fund_count": 31
+    }
+  },
+  {
+    "company_id": "C0156",
+    "company_name": "Hubbard, Roth and Stevens",
+    "industry": "制造",
+    "sub_industry": "汽车",
+    "market_type": "中小板",
+    "listing_date": "2008-08-12",
+    "stats": {
+      "total_transaction_amount": 57830009.985389605,
+      "median_transaction_amount": 1116656.4400569815,
+      "risk_warning_count": 1,
+      "fund_count": 25
+    }
+  },
+  {
+    "company_id": "C0157",
+    "company_name": "Dodson-Davis",
+    "industry": "科技",
+    "sub_industry": "半导体",
+    "market_type": "中小板",
+    "listing_date": "1996-09-08",
+    "stats": {
+      "total_transaction_amount": 51032284.16684809,
+      "median_transaction_amount": 1251071.5412049498,
+      "risk_warning_count": 1,
+      "fund_count": 29
+    }
+  },
+  {
+    "company_id": "C0158",
+    "company_name": "Cross-Moon",
+    "industry": "能源",
+    "sub_industry": "新能源",
+    "market_type": "中小板",
+    "listing_date": "2020-07-19",
+    "stats": {
+      "total_transaction_amount": 72662336.01537476,
+      "median_transaction_amount": 780285.9536176592,
+      "risk_warning_count": 3,
+      "fund_count": 31
+    }
+  },
+  {
+    "company_id": "C0159",
+    "company_name": "Donaldson Ltd",
+    "industry": "能源",
+    "sub_industry": "新能源",
+    "market_type": "中小板",
+    "listing_date": "2003-01-07",
+    "stats": {
+      "total_transaction_amount": 49170423.765455194,
+      "median_transaction_amount": 707044.4310983733,
+      "risk_warning_count": 4,
+      "fund_count": 36
+    }
+  },
+  {
+    "company_id": "C0160",
+    "company_name": "Thomas PLC",
+    "industry": "消费",
+    "sub_industry": "家电",
+    "market_type": "主板",
+    "listing_date": "2020-09-10",
+    "stats": {
+      "total_transaction_amount": 74342434.93251191,
+      "median_transaction_amount": 1190374.6414861109,
+      "risk_warning_count": 2,
+      "fund_count": 32
+    }
+  },
+  {
+    "company_id": "C0161",
+    "company_name": "Lee Inc",
+    "industry": "房地产",
+    "sub_industry": "商业地产",
+    "market_type": "主板",
+    "listing_date": "2004-05-30",
+    "stats": {
+      "total_transaction_amount": 82643431.53191632,
+      "median_transaction_amount": 1108393.5984311332,
+      "risk_warning_count": 2,
+      "fund_count": 38
+    }
+  },
+  {
+    "company_id": "C0162",
+    "company_name": "Holder-Lucas",
+    "industry": "制造",
+    "sub_industry": "机械",
+    "market_type": "创业板",
+    "listing_date": "2001-10-19",
+    "stats": {
+      "total_transaction_amount": 59341319.283651,
+      "median_transaction_amount": 1254422.6596537442,
+      "risk_warning_count": 3,
+      "fund_count": 34
+    }
+  },
+  {
+    "company_id": "C0163",
+    "company_name": "Stewart-Peterson",
+    "industry": "科技",
+    "sub_industry": "软件",
+    "market_type": "中小板",
+    "listing_date": "2019-07-27",
+    "stats": {
+      "total_transaction_amount": 89873197.7740679,
+      "median_transaction_amount": 1707536.2470587292,
+      "risk_warning_count": 0,
+      "fund_count": 33
+    }
+  },
+  {
+    "company_id": "C0164",
+    "company_name": "Velazquez Inc",
+    "industry": "制造",
+    "sub_industry": "汽车",
+    "market_type": "主板",
+    "listing_date": "2002-09-27",
+    "stats": {
+      "total_transaction_amount": 100858565.86658403,
+      "median_transaction_amount": 1141621.7396116739,
+      "risk_warning_count": 1,
+      "fund_count": 43
+    }
+  },
+  {
+    "company_id": "C0165",
+    "company_name": "Skinner, Mcguire and Ramos",
+    "industry": "能源",
+    "sub_industry": "石油",
+    "market_type": "主板",
+    "listing_date": "2001-02-04",
+    "stats": {
+      "total_transaction_amount": 36438155.21875367,
+      "median_transaction_amount": 1029163.3712578563,
+      "risk_warning_count": 1,
+      "fund_count": 29
+    }
+  },
+  {
+    "company_id": "C0166",
+    "company_name": "Raymond Ltd",
+    "industry": "金融",
+    "sub_industry": "保险",
+    "market_type": "中小板",
+    "listing_date": "2020-04-10",
+    "stats": {
+      "total_transaction_amount": 68103911.69883415,
+      "median_transaction_amount": 1324104.880916216,
+      "risk_warning_count": 10,
+      "fund_count": 39
+    }
+  },
+  {
+    "company_id": "C0167",
+    "company_name": "Taylor-Owens",
+    "industry": "教育",
+    "sub_industry": "高等教育",
+    "market_type": "创业板",
+    "listing_date": "2015-04-13",
+    "stats": {
+      "total_transaction_amount": 18650000.918438148,
+      "median_transaction_amount": 474347.4584653153,
+      "risk_warning_count": 0,
+      "fund_count": 26
+    }
+  },
+  {
+    "company_id": "C0168",
+    "company_name": "Mendez-Morris",
+    "industry": "农业",
+    "sub_industry": "养殖",
+    "market_type": "创业板",
+    "listing_date": "1998-11-01",
+    "stats": {
+      "total_transaction_amount": 33940734.85153476,
+      "median_transaction_amount": 681288.0087041061,
+      "risk_warning_count": 0,
+      "fund_count": 40
+    }
+  },
+  {
+    "company_id": "C0169",
+    "company_name": "Harrell Ltd",
+    "industry": "教育",
+    "sub_industry": "职业培训",
+    "market_type": "中小板",
+    "listing_date": "1999-06-19",
+    "stats": {
+      "total_transaction_amount": 22709959.612733513,
+      "median_transaction_amount": 482021.7486162137,
+      "risk_warning_count": 0,
+      "fund_count": 27
+    }
+  },
+  {
+    "company_id": "C0170",
+    "company_name": "Hamilton, Cantrell and Cook",
+    "industry": "医药",
+    "sub_industry": "医疗器械",
+    "market_type": "主板",
+    "listing_date": "2014-12-05",
+    "stats": {
+      "total_transaction_amount": 90964346.18908608,
+      "median_transaction_amount": 1173732.8963320334,
+      "risk_warning_count": 2,
+      "fund_count": 36
+    }
+  },
+  {
+    "company_id": "C0171",
+    "company_name": "Clark-Miller",
+    "industry": "教育",
+    "sub_industry": "高等教育",
+    "market_type": "创业板",
+    "listing_date": "2001-09-16",
+    "stats": {
+      "total_transaction_amount": 22320500.110304672,
+      "median_transaction_amount": 528442.9714094872,
+      "risk_warning_count": 1,
+      "fund_count": 35
+    }
+  },
+  {
+    "company_id": "C0172",
+    "company_name": "Wilson Ltd",
+    "industry": "交通运输",
+    "sub_industry": "航空",
+    "market_type": "创业板",
+    "listing_date": "2001-01-29",
+    "stats": {
+      "total_transaction_amount": 69457477.40728438,
+      "median_transaction_amount": 1142558.7799052736,
+      "risk_warning_count": 1,
+      "fund_count": 36
+    }
+  },
+  {
+    "company_id": "C0173",
+    "company_name": "Rodriguez-Villegas",
+    "industry": "医药",
+    "sub_industry": "制药",
+    "market_type": "中小板",
+    "listing_date": "2024-08-07",
+    "stats": {
+      "total_transaction_amount": 41464570.406108394,
+      "median_transaction_amount": 1107984.0325059667,
+      "risk_warning_count": 1,
+      "fund_count": 26
+    }
+  },
+  {
+    "company_id": "C0174",
+    "company_name": "Thomas-Noble",
+    "industry": "金融",
+    "sub_industry": "银行",
+    "market_type": "创业板",
+    "listing_date": "2002-06-05",
+    "stats": {
+      "total_transaction_amount": 65877680.916405044,
+      "median_transaction_amount": 1357813.4518648114,
+      "risk_warning_count": 4,
+      "fund_count": 30
+    }
+  },
+  {
+    "company_id": "C0175",
+    "company_name": "Maynard, Woods and Johnson",
+    "industry": "消费",
+    "sub_industry": "家电",
+    "market_type": "主板",
+    "listing_date": "2004-01-16",
+    "stats": {
+      "total_transaction_amount": 71296633.39727831,
+      "median_transaction_amount": 1701576.8932256359,
+      "risk_warning_count": 1,
+      "fund_count": 27
+    }
+  },
+  {
+    "company_id": "C0176",
+    "company_name": "Cochran-Andrade",
+    "industry": "农业",
+    "sub_industry": "种植",
+    "market_type": "主板",
+    "listing_date": "2021-02-03",
+    "stats": {
+      "total_transaction_amount": 38353449.59176533,
+      "median_transaction_amount": 694695.4590418587,
+      "risk_warning_count": 1,
+      "fund_count": 41
+    }
+  },
+  {
+    "company_id": "C0177",
+    "company_name": "Barrett, Johnson and Diaz",
+    "industry": "农业",
+    "sub_industry": "种植",
+    "market_type": "创业板",
+    "listing_date": "2016-07-16",
+    "stats": {
+      "total_transaction_amount": 36835679.44149383,
+      "median_transaction_amount": 721374.3018123017,
+      "risk_warning_count": 0,
+      "fund_count": 31
+    }
+  },
+  {
+    "company_id": "C0178",
+    "company_name": "Johnson Ltd",
+    "industry": "消费",
+    "sub_industry": "食品",
+    "market_type": "中小板",
+    "listing_date": "2013-03-15",
+    "stats": {
+      "total_transaction_amount": 64877442.16838743,
+      "median_transaction_amount": 1426090.668738425,
+      "risk_warning_count": 0,
+      "fund_count": 36
+    }
+  },
+  {
+    "company_id": "C0179",
+    "company_name": "Ferrell Ltd",
+    "industry": "医药",
+    "sub_industry": "制药",
+    "market_type": "主板",
+    "listing_date": "2004-06-15",
+    "stats": {
+      "total_transaction_amount": 194059537.5432737,
+      "median_transaction_amount": 1314661.00600797,
+      "risk_warning_count": 1,
+      "fund_count": 31
+    }
+  },
+  {
+    "company_id": "C0180",
+    "company_name": "Johnson-Frazier",
+    "industry": "制造",
+    "sub_industry": "电子",
+    "market_type": "主板",
+    "listing_date": "2021-11-09",
+    "stats": {
+      "total_transaction_amount": 69227430.77544057,
+      "median_transaction_amount": 1288327.8409434836,
+      "risk_warning_count": 0,
+      "fund_count": 32
+    }
+  },
+  {
+    "company_id": "C0181",
+    "company_name": "Jones, Cunningham and Bowers",
+    "industry": "科技",
+    "sub_industry": "硬件",
+    "market_type": "主板",
+    "listing_date": "2002-04-27",
+    "stats": {
+      "total_transaction_amount": 54482540.39285372,
+      "median_transaction_amount": 1313022.4364682334,
+      "risk_warning_count": 1,
+      "fund_count": 32
+    }
+  },
+  {
+    "company_id": "C0182",
+    "company_name": "Pratt-Nguyen",
+    "industry": "科技",
+    "sub_industry": "硬件",
+    "market_type": "中小板",
+    "listing_date": "2020-02-05",
+    "stats": {
+      "total_transaction_amount": 93487337.52666941,
+      "median_transaction_amount": 1472066.4357171215,
+      "risk_warning_count": 2,
+      "fund_count": 31
+    }
+  },
+  {
+    "company_id": "C0183",
+    "company_name": "Rodriguez, Grimes and Oliver",
+    "industry": "房地产",
+    "sub_industry": "商业地产",
+    "market_type": "主板",
+    "listing_date": "2004-09-24",
+    "stats": {
+      "total_transaction_amount": 50393998.60077686,
+      "median_transaction_amount": 990024.1317999202,
+      "risk_warning_count": 2,
+      "fund_count": 35
+    }
+  },
+  {
+    "company_id": "C0184",
+    "company_name": "Fisher Ltd",
+    "industry": "制造",
+    "sub_industry": "机械",
+    "market_type": "创业板",
+    "listing_date": "2001-08-05",
+    "stats": {
+      "total_transaction_amount": 53115194.74235526,
+      "median_transaction_amount": 1154559.2067967597,
+      "risk_warning_count": 4,
+      "fund_count": 32
+    }
+  },
+  {
+    "company_id": "C0185",
+    "company_name": "Rivera-Barnes",
+    "industry": "农业",
+    "sub_industry": "种植",
+    "market_type": "中小板",
+    "listing_date": "2006-09-14",
+    "stats": {
+      "total_transaction_amount": 40815432.20825532,
+      "median_transaction_amount": 722348.6283168297,
+      "risk_warning_count": 1,
+      "fund_count": 34
+    }
+  },
+  {
+    "company_id": "C0186",
+    "company_name": "Howard and Sons",
+    "industry": "金融",
+    "sub_industry": "保险",
+    "market_type": "创业板",
+    "listing_date": "2008-12-09",
+    "stats": {
+      "total_transaction_amount": 93295937.04844762,
+      "median_transaction_amount": 1329786.6633721942,
+      "risk_warning_count": 7,
+      "fund_count": 35
+    }
+  },
+  {
+    "company_id": "C0187",
+    "company_name": "Clay, Patterson and Clay",
+    "industry": "金融",
+    "sub_industry": "证券",
+    "market_type": "主板",
+    "listing_date": "2010-05-01",
+    "stats": {
+      "total_transaction_amount": 54320145.289270364,
+      "median_transaction_amount": 1525697.7076326695,
+      "risk_warning_count": 3,
+      "fund_count": 26
+    }
+  },
+  {
+    "company_id": "C0188",
+    "company_name": "Wilkins, Livingston and Jordan",
+    "industry": "科技",
+    "sub_industry": "软件",
+    "market_type": "中小板",
+    "listing_date": "2022-08-26",
+    "stats": {
+      "total_transaction_amount": 119050469.23508444,
+      "median_transaction_amount": 1666228.380797484,
+      "risk_warning_count": 1,
+      "fund_count": 34
+    }
+  },
+  {
+    "company_id": "C0189",
+    "company_name": "Foley-White",
+    "industry": "制造",
+    "sub_industry": "汽车",
+    "market_type": "中小板",
+    "listing_date": "2012-11-12",
+    "stats": {
+      "total_transaction_amount": 49669311.701726004,
+      "median_transaction_amount": 1358372.0052507496,
+      "risk_warning_count": 2,
+      "fund_count": 29
+    }
+  },
+  {
+    "company_id": "C0190",
+    "company_name": "Smith, Morgan and Hill",
+    "industry": "能源",
+    "sub_industry": "新能源",
+    "market_type": "主板",
+    "listing_date": "1996-04-29",
+    "stats": {
+      "total_transaction_amount": 39790215.751880676,
+      "median_transaction_amount": 759499.8276731495,
+      "risk_warning_count": 2,
+      "fund_count": 22
+    }
+  },
+  {
+    "company_id": "C0191",
+    "company_name": "Patterson-Webb",
+    "industry": "农业",
+    "sub_industry": "养殖",
+    "market_type": "中小板",
+    "listing_date": "2022-02-24",
+    "stats": {
+      "total_transaction_amount": 24367063.517812867,
+      "median_transaction_amount": 662128.8600380057,
+      "risk_warning_count": 0,
+      "fund_count": 26
+    }
+  },
+  {
+    "company_id": "C0192",
+    "company_name": "Dalton-Lewis",
+    "industry": "金融",
+    "sub_industry": "保险",
+    "market_type": "主板",
+    "listing_date": "2016-04-10",
+    "stats": {
+      "total_transaction_amount": 42957548.74359763,
+      "median_transaction_amount": 1275283.8017577787,
+      "risk_warning_count": 3,
+      "fund_count": 27
+    }
+  },
+  {
+    "company_id": "C0193",
+    "company_name": "Santos LLC",
+    "industry": "消费",
+    "sub_industry": "服装",
+    "market_type": "创业板",
+    "listing_date": "1999-11-16",
+    "stats": {
+      "total_transaction_amount": 48555344.451683566,
+      "median_transaction_amount": 1359465.7581808541,
+      "risk_warning_count": 1,
+      "fund_count": 29
+    }
+  },
+  {
+    "company_id": "C0194",
+    "company_name": "Barrett Group",
+    "industry": "制造",
+    "sub_industry": "电子",
+    "market_type": "创业板",
+    "listing_date": "2022-08-06",
+    "stats": {
+      "total_transaction_amount": 38785740.354086556,
+      "median_transaction_amount": 1164893.4279227564,
+      "risk_warning_count": 1,
+      "fund_count": 24
+    }
+  },
+  {
+    "company_id": "C0195",
+    "company_name": "Davis, Tyler and Miller",
+    "industry": "制造",
+    "sub_industry": "汽车",
+    "market_type": "主板",
+    "listing_date": "2006-05-19",
+    "stats": {
+      "total_transaction_amount": 52048647.0760168,
+      "median_transaction_amount": 1404256.7730109475,
+      "risk_warning_count": 1,
+      "fund_count": 24
+    }
+  },
+  {
+    "company_id": "C0196",
+    "company_name": "Rodriguez, Bradley and Fisher",
+    "industry": "交通运输",
+    "sub_industry": "铁路",
+    "market_type": "中小板",
+    "listing_date": "2015-07-22",
+    "stats": {
+      "total_transaction_amount": 90778047.24808377,
+      "median_transaction_amount": 1060747.3653533256,
+      "risk_warning_count": 0,
+      "fund_count": 37
+    }
+  },
+  {
+    "company_id": "C0197",
+    "company_name": "Grant, Frederick and Mosley",
+    "industry": "制造",
+    "sub_industry": "电子",
+    "market_type": "主板",
+    "listing_date": "2000-09-19",
+    "stats": {
+      "total_transaction_amount": 29194385.381387014,
+      "median_transaction_amount": 1177958.084825648,
+      "risk_warning_count": 4,
+      "fund_count": 22
+    }
+  },
+  {
+    "company_id": "C0198",
+    "company_name": "Holden and Sons",
+    "industry": "农业",
+    "sub_industry": "养殖",
+    "market_type": "创业板",
+    "listing_date": "2010-09-15",
+    "stats": {
+      "total_transaction_amount": 94092496.4853604,
+      "median_transaction_amount": 665122.3358058141,
+      "risk_warning_count": 0,
+      "fund_count": 31
+    }
+  },
+  {
+    "company_id": "C0199",
+    "company_name": "Haynes, Obrien and Lewis",
+    "industry": "消费",
+    "sub_industry": "服装",
+    "market_type": "创业板",
+    "listing_date": "2014-04-02",
+    "stats": {
+      "total_transaction_amount": 150480011.62912154,
+      "median_transaction_amount": 1547072.3229688273,
+      "risk_warning_count": 1,
+      "fund_count": 35
+    }
+  },
+  {
+    "company_id": "C0200",
+    "company_name": "Valdez Group",
+    "industry": "科技",
+    "sub_industry": "互联网",
+    "market_type": "创业板",
+    "listing_date": "2000-04-28",
+    "stats": {
+      "total_transaction_amount": 125116163.78299074,
+      "median_transaction_amount": 1911185.4435202437,
+      "risk_warning_count": 3,
+      "fund_count": 35
+    }
+  },
+  {
+    "company_id": "C0201",
+    "company_name": "Huff-Gates",
+    "industry": "房地产",
+    "sub_industry": "住宅",
+    "market_type": "中小板",
+    "listing_date": "2016-10-25",
+    "stats": {
+      "total_transaction_amount": 41457517.59296861,
+      "median_transaction_amount": 1026756.0442464161,
+      "risk_warning_count": 6,
+      "fund_count": 34
+    }
+  },
+  {
+    "company_id": "C0202",
+    "company_name": "Kramer, Johnson and Stewart",
+    "industry": "金融",
+    "sub_industry": "银行",
+    "market_type": "创业板",
+    "listing_date": "1998-11-20",
+    "stats": {
+      "total_transaction_amount": 72188459.30750792,
+      "median_transaction_amount": 1320099.3566779173,
+      "risk_warning_count": 4,
+      "fund_count": 44
+    }
+  },
+  {
+    "company_id": "C0203",
+    "company_name": "Gonzalez LLC",
+    "industry": "农业",
+    "sub_industry": "种植",
+    "market_type": "中小板",
+    "listing_date": "2017-09-15",
+    "stats": {
+      "total_transaction_amount": 41082073.84345522,
+      "median_transaction_amount": 1059500.8533537933,
+      "risk_warning_count": 1,
+      "fund_count": 29
+    }
+  },
+  {
+    "company_id": "C0204",
+    "company_name": "Adams Ltd",
+    "industry": "农业",
+    "sub_industry": "种植",
+    "market_type": "主板",
+    "listing_date": "1996-02-29",
+    "stats": {
+      "total_transaction_amount": 37407397.22897128,
+      "median_transaction_amount": 628869.6102362891,
+      "risk_warning_count": 1,
+      "fund_count": 35
+    }
+  },
+  {
+    "company_id": "C0205",
+    "company_name": "Walls-Palmer",
+    "industry": "教育",
+    "sub_industry": "高等教育",
+    "market_type": "主板",
+    "listing_date": "2010-01-09",
+    "stats": {
+      "total_transaction_amount": 41446029.52100814,
+      "median_transaction_amount": 566590.6247113921,
+      "risk_warning_count": 0,
+      "fund_count": 29
+    }
+  },
+  {
+    "company_id": "C0206",
+    "company_name": "Wilson, Jones and Cunningham",
+    "industry": "房地产",
+    "sub_industry": "住宅",
+    "market_type": "创业板",
+    "listing_date": "1998-09-22",
+    "stats": {
+      "total_transaction_amount": 112349191.31941225,
+      "median_transaction_amount": 901053.1671846468,
+      "risk_warning_count": 1,
+      "fund_count": 30
+    }
+  },
+  {
+    "company_id": "C0207",
+    "company_name": "Webster-Massey",
+    "industry": "科技",
+    "sub_industry": "半导体",
+    "market_type": "创业板",
+    "listing_date": "2014-07-28",
+    "stats": {
+      "total_transaction_amount": 80534394.65243366,
+      "median_transaction_amount": 1491471.6078650241,
+      "risk_warning_count": 1,
+      "fund_count": 39
+    }
+  },
+  {
+    "company_id": "C0208",
+    "company_name": "Graham, Lane and Reed",
+    "industry": "金融",
+    "sub_industry": "保险",
+    "market_type": "中小板",
+    "listing_date": "1997-12-22",
+    "stats": {
+      "total_transaction_amount": 78708357.83912423,
+      "median_transaction_amount": 1456825.8080300766,
+      "risk_warning_count": 7,
+      "fund_count": 31
+    }
+  },
+  {
+    "company_id": "C0209",
+    "company_name": "Ryan-Mullins",
+    "industry": "消费",
+    "sub_industry": "食品",
+    "market_type": "创业板",
+    "listing_date": "2013-09-20",
+    "stats": {
+      "total_transaction_amount": 53167882.05023959,
+      "median_transaction_amount": 1200892.0510416494,
+      "risk_warning_count": 2,
+      "fund_count": 28
+    }
+  },
+  {
+    "company_id": "C0210",
+    "company_name": "Smith-Lin",
+    "industry": "农业",
+    "sub_industry": "种植",
+    "market_type": "创业板",
+    "listing_date": "2001-09-06",
+    "stats": {
+      "total_transaction_amount": 43943843.42223278,
+      "median_transaction_amount": 844441.4920078118,
+      "risk_warning_count": 0,
+      "fund_count": 34
+    }
+  },
+  {
+    "company_id": "C0211",
+    "company_name": "Hopkins, Stewart and Adams",
+    "industry": "制造",
+    "sub_industry": "电子",
+    "market_type": "主板",
+    "listing_date": "2023-12-29",
+    "stats": {
+      "total_transaction_amount": 363558469.5632085,
+      "median_transaction_amount": 1037896.890403956,
+      "risk_warning_count": 1,
+      "fund_count": 33
+    }
+  },
+  {
+    "company_id": "C0212",
+    "company_name": "Clarke-English",
+    "industry": "房地产",
+    "sub_industry": "住宅",
+    "market_type": "中小板",
+    "listing_date": "1996-03-15",
+    "stats": {
+      "total_transaction_amount": 51740310.40511658,
+      "median_transaction_amount": 871667.3543986802,
+      "risk_warning_count": 3,
+      "fund_count": 35
+    }
+  },
+  {
+    "company_id": "C0213",
+    "company_name": "Williams LLC",
+    "industry": "能源",
+    "sub_industry": "石油",
+    "market_type": "创业板",
+    "listing_date": "2024-11-14",
+    "stats": {
+      "total_transaction_amount": 103032823.2098033,
+      "median_transaction_amount": 1143407.1767279112,
+      "risk_warning_count": 4,
+      "fund_count": 39
+    }
+  },
+  {
+    "company_id": "C0214",
+    "company_name": "White, Mathis and Brady",
+    "industry": "医药",
+    "sub_industry": "医疗器械",
+    "market_type": "创业板",
+    "listing_date": "2019-06-02",
+    "stats": {
+      "total_transaction_amount": 82958389.31595142,
+      "median_transaction_amount": 1363071.8497628942,
+      "risk_warning_count": 0,
+      "fund_count": 26
+    }
+  },
+  {
+    "company_id": "C0215",
+    "company_name": "Fitzgerald PLC",
+    "industry": "教育",
+    "sub_industry": "职业培训",
+    "market_type": "主板",
+    "listing_date": "2003-10-23",
+    "stats": {
+      "total_transaction_amount": 27705311.5340841,
+      "median_transaction_amount": 507416.3805718562,
+      "risk_warning_count": 2,
+      "fund_count": 39
+    }
+  },
+  {
+    "company_id": "C0216",
+    "company_name": "Forbes, Smith and Cain",
+    "industry": "医药",
+    "sub_industry": "医疗器械",
+    "market_type": "中小板",
+    "listing_date": "2021-06-08",
+    "stats": {
+      "total_transaction_amount": 84816311.59519228,
+      "median_transaction_amount": 1136186.741958678,
+      "risk_warning_count": 3,
+      "fund_count": 29
+    }
+  },
+  {
+    "company_id": "C0217",
+    "company_name": "Bruce-Campbell",
+    "industry": "科技",
+    "sub_industry": "互联网",
+    "market_type": "创业板",
+    "listing_date": "1997-07-01",
+    "stats": {
+      "total_transaction_amount": 97870093.56817132,
+      "median_transaction_amount": 1458728.0268884823,
+      "risk_warning_count": 3,
+      "fund_count": 40
+    }
+  },
+  {
+    "company_id": "C0218",
+    "company_name": "Haley Ltd",
+    "industry": "教育",
+    "sub_industry": "职业培训",
+    "market_type": "中小板",
+    "listing_date": "2017-08-08",
+    "stats": {
+      "total_transaction_amount": 35968739.5932654,
+      "median_transaction_amount": 454732.895279465,
+      "risk_warning_count": 0,
+      "fund_count": 36
+    }
+  },
+  {
+    "company_id": "C0219",
+    "company_name": "Hall and Sons",
+    "industry": "房地产",
+    "sub_industry": "商业地产",
+    "market_type": "主板",
+    "listing_date": "1996-01-11",
+    "stats": {
+      "total_transaction_amount": 69149635.18185547,
+      "median_transaction_amount": 1119917.5145440728,
+      "risk_warning_count": 4,
+      "fund_count": 43
+    }
+  },
+  {
+    "company_id": "C0220",
+    "company_name": "Webster, Gonzalez and Lopez",
+    "industry": "交通运输",
+    "sub_industry": "航空",
+    "market_type": "主板",
+    "listing_date": "2006-03-15",
+    "stats": {
+      "total_transaction_amount": 72649347.84508868,
+      "median_transaction_amount": 1161120.7972490077,
+      "risk_warning_count": 1,
+      "fund_count": 43
+    }
+  },
+  {
+    "company_id": "C0221",
+    "company_name": "Jones-Smith",
+    "industry": "教育",
+    "sub_industry": "高等教育",
+    "market_type": "中小板",
+    "listing_date": "2007-01-28",
+    "stats": {
+      "total_transaction_amount": 37001406.699242234,
+      "median_transaction_amount": 471563.36728620075,
+      "risk_warning_count": 2,
+      "fund_count": 40
+    }
+  },
+  {
+    "company_id": "C0222",
+    "company_name": "Marshall LLC",
+    "industry": "制造",
+    "sub_industry": "电子",
+    "market_type": "主板",
+    "listing_date": "2011-11-02",
+    "stats": {
+      "total_transaction_amount": 46762370.048717104,
+      "median_transaction_amount": 1171987.4549939078,
+      "risk_warning_count": 0,
+      "fund_count": 24
+    }
+  },
+  {
+    "company_id": "C0223",
+    "company_name": "Hoover, Clark and Martinez",
+    "industry": "能源",
+    "sub_industry": "石油",
+    "market_type": "创业板",
+    "listing_date": "2022-08-12",
+    "stats": {
+      "total_transaction_amount": 334152787.5702837,
+      "median_transaction_amount": 1077558.3365981304,
+      "risk_warning_count": 6,
+      "fund_count": 39
+    }
+  },
+  {
+    "company_id": "C0224",
+    "company_name": "Patrick-Willis",
+    "industry": "农业",
+    "sub_industry": "种植",
+    "market_type": "主板",
+    "listing_date": "2009-06-07",
+    "stats": {
+      "total_transaction_amount": 36383615.14879296,
+      "median_transaction_amount": 652892.2481184086,
+      "risk_warning_count": 2,
+      "fund_count": 31
+    }
+  },
+  {
+    "company_id": "C0225",
+    "company_name": "Atkins-Lang",
+    "industry": "制造",
+    "sub_industry": "机械",
+    "market_type": "创业板",
+    "listing_date": "2003-05-06",
+    "stats": {
+      "total_transaction_amount": 67141822.98950665,
+      "median_transaction_amount": 1146627.464446216,
+      "risk_warning_count": 0,
+      "fund_count": 27
+    }
+  },
+  {
+    "company_id": "C0226",
+    "company_name": "Greene, Long and Peters",
+    "industry": "科技",
+    "sub_industry": "软件",
+    "market_type": "主板",
+    "listing_date": "2014-04-05",
+    "stats": {
+      "total_transaction_amount": 122388668.23270893,
+      "median_transaction_amount": 1647024.108823229,
+      "risk_warning_count": 1,
+      "fund_count": 35
+    }
+  },
+  {
+    "company_id": "C0227",
+    "company_name": "Monroe Inc",
+    "industry": "科技",
+    "sub_industry": "软件",
+    "market_type": "中小板",
+    "listing_date": "2003-04-17",
+    "stats": {
+      "total_transaction_amount": 64616320.36019461,
+      "median_transaction_amount": 1486494.4733274067,
+      "risk_warning_count": 0,
+      "fund_count": 26
+    }
+  },
+  {
+    "company_id": "C0228",
+    "company_name": "Palmer-Curtis",
+    "industry": "金融",
+    "sub_industry": "证券",
+    "market_type": "中小板",
+    "listing_date": "2010-08-18",
+    "stats": {
+      "total_transaction_amount": 85546016.271222,
+      "median_transaction_amount": 1352723.400960587,
+      "risk_warning_count": 4,
+      "fund_count": 36
+    }
+  },
+  {
+    "company_id": "C0229",
+    "company_name": "Hale, French and May",
+    "industry": "科技",
+    "sub_industry": "半导体",
+    "market_type": "创业板",
+    "listing_date": "2003-07-23",
+    "stats": {
+      "total_transaction_amount": 103488779.13332112,
+      "median_transaction_amount": 1472052.4916835753,
+      "risk_warning_count": 0,
+      "fund_count": 38
+    }
+  },
+  {
+    "company_id": "C0230",
+    "company_name": "Hughes LLC",
+    "industry": "教育",
+    "sub_industry": "高等教育",
+    "market_type": "中小板",
+    "listing_date": "2018-11-02",
+    "stats": {
+      "total_transaction_amount": 25049786.39789531,
+      "median_transaction_amount": 401039.69856957684,
+      "risk_warning_count": 1,
+      "fund_count": 32
+    }
+  },
+  {
+    "company_id": "C0231",
+    "company_name": "Dixon PLC",
+    "industry": "金融",
+    "sub_industry": "银行",
+    "market_type": "主板",
+    "listing_date": "2005-04-19",
+    "stats": {
+      "total_transaction_amount": 71965409.61301635,
+      "median_transaction_amount": 1352112.1786334426,
+      "risk_warning_count": 5,
+      "fund_count": 29
+    }
+  },
+  {
+    "company_id": "C0232",
+    "company_name": "Moore-Hayden",
+    "industry": "房地产",
+    "sub_industry": "住宅",
+    "market_type": "中小板",
+    "listing_date": "2024-01-17",
+    "stats": {
+      "total_transaction_amount": 38225336.81447149,
+      "median_transaction_amount": 844898.2633277592,
+      "risk_warning_count": 6,
+      "fund_count": 38
+    }
+  },
+  {
+    "company_id": "C0233",
+    "company_name": "Moore LLC",
+    "industry": "交通运输",
+    "sub_industry": "铁路",
+    "market_type": "主板",
+    "listing_date": "2017-11-09",
+    "stats": {
+      "total_transaction_amount": 80189674.35646188,
+      "median_transaction_amount": 1319596.7699990063,
+      "risk_warning_count": 1,
+      "fund_count": 38
+    }
+  },
+  {
+    "company_id": "C0234",
+    "company_name": "Lee-Jenkins",
+    "industry": "房地产",
+    "sub_industry": "住宅",
+    "market_type": "中小板",
+    "listing_date": "2000-02-11",
+    "stats": {
+      "total_transaction_amount": 72715635.2576721,
+      "median_transaction_amount": 813171.3997326554,
+      "risk_warning_count": 3,
+      "fund_count": 45
+    }
+  },
+  {
+    "company_id": "C0235",
+    "company_name": "French-Ramos",
+    "industry": "医药",
+    "sub_industry": "医疗器械",
+    "market_type": "创业板",
+    "listing_date": "2014-05-19",
+    "stats": {
+      "total_transaction_amount": 53604152.34470339,
+      "median_transaction_amount": 1223304.973466842,
+      "risk_warning_count": 0,
+      "fund_count": 26
+    }
+  },
+  {
+    "company_id": "C0236",
+    "company_name": "Horn-Jones",
+    "industry": "制造",
+    "sub_industry": "电子",
+    "market_type": "创业板",
+    "listing_date": "2015-11-16",
+    "stats": {
+      "total_transaction_amount": 80077365.24472313,
+      "median_transaction_amount": 972552.004450566,
+      "risk_warning_count": 1,
+      "fund_count": 41
+    }
+  },
+  {
+    "company_id": "C0237",
+    "company_name": "Craig-Savage",
+    "industry": "房地产",
+    "sub_industry": "住宅",
+    "market_type": "中小板",
+    "listing_date": "2010-01-13",
+    "stats": {
+      "total_transaction_amount": 59404197.3216398,
+      "median_transaction_amount": 1159490.8959661103,
+      "risk_warning_count": 2,
+      "fund_count": 42
+    }
+  },
+  {
+    "company_id": "C0238",
+    "company_name": "Jefferson PLC",
+    "industry": "制造",
+    "sub_industry": "汽车",
+    "market_type": "创业板",
+    "listing_date": "2001-07-22",
+    "stats": {
+      "total_transaction_amount": 87414591.38620901,
+      "median_transaction_amount": 1045364.9398740776,
+      "risk_warning_count": 3,
+      "fund_count": 45
+    }
+  },
+  {
+    "company_id": "C0239",
+    "company_name": "Moss, Evans and Turner",
+    "industry": "医药",
+    "sub_industry": "制药",
+    "market_type": "中小板",
+    "listing_date": "1999-08-22",
+    "stats": {
+      "total_transaction_amount": 78029006.78193627,
+      "median_transaction_amount": 1199092.897875587,
+      "risk_warning_count": 3,
+      "fund_count": 34
+    }
+  },
+  {
+    "company_id": "C0240",
+    "company_name": "Golden-Moore",
+    "industry": "科技",
+    "sub_industry": "半导体",
+    "market_type": "中小板",
+    "listing_date": "1998-06-01",
+    "stats": {
+      "total_transaction_amount": 66893996.33678302,
+      "median_transaction_amount": 1851228.218724131,
+      "risk_warning_count": 2,
+      "fund_count": 24
+    }
+  },
+  {
+    "company_id": "C0241",
+    "company_name": "Jones-Schaefer",
+    "industry": "金融",
+    "sub_industry": "证券",
+    "market_type": "中小板",
+    "listing_date": "2022-06-13",
+    "stats": {
+      "total_transaction_amount": 121427180.05688809,
+      "median_transaction_amount": 1265767.8390567922,
+      "risk_warning_count": 5,
+      "fund_count": 37
+    }
+  },
+  {
+    "company_id": "C0242",
+    "company_name": "Anderson, Melton and Spence",
+    "industry": "医药",
+    "sub_industry": "制药",
+    "market_type": "创业板",
+    "listing_date": "2017-06-12",
+    "stats": {
+      "total_transaction_amount": 63539994.12190045,
+      "median_transaction_amount": 1137959.25597579,
+      "risk_warning_count": 2,
+      "fund_count": 39
+    }
+  },
+  {
+    "company_id": "C0243",
+    "company_name": "Lopez, Curry and Zimmerman",
+    "industry": "消费",
+    "sub_industry": "食品",
+    "market_type": "创业板",
+    "listing_date": "2023-09-19",
+    "stats": {
+      "total_transaction_amount": 162396795.83059794,
+      "median_transaction_amount": 1571735.194411791,
+      "risk_warning_count": 0,
+      "fund_count": 38
+    }
+  },
+  {
+    "company_id": "C0244",
+    "company_name": "Rangel Inc",
+    "industry": "能源",
+    "sub_industry": "石油",
+    "market_type": "主板",
+    "listing_date": "2016-05-02",
+    "stats": {
+      "total_transaction_amount": 142308074.61609486,
+      "median_transaction_amount": 717555.2628596528,
+      "risk_warning_count": 4,
+      "fund_count": 32
+    }
+  },
+  {
+    "company_id": "C0245",
+    "company_name": "Reyes-Alexander",
+    "industry": "房地产",
+    "sub_industry": "商业地产",
+    "market_type": "创业板",
+    "listing_date": "2020-12-24",
+    "stats": {
+      "total_transaction_amount": 30103404.656245172,
+      "median_transaction_amount": 799829.2634433706,
+      "risk_warning_count": 1,
+      "fund_count": 31
+    }
+  },
+  {
+    "company_id": "C0246",
+    "company_name": "Boone-Wells",
+    "industry": "交通运输",
+    "sub_industry": "铁路",
+    "market_type": "主板",
+    "listing_date": "1999-09-17",
+    "stats": {
+      "total_transaction_amount": 74620796.20616725,
+      "median_transaction_amount": 1305139.4520513196,
+      "risk_warning_count": 1,
+      "fund_count": 33
+    }
+  },
+  {
+    "company_id": "C0247",
+    "company_name": "Craig PLC",
+    "industry": "消费",
+    "sub_industry": "服装",
+    "market_type": "主板",
+    "listing_date": "2007-02-25",
+    "stats": {
+      "total_transaction_amount": 106584812.98034284,
+      "median_transaction_amount": 1350454.874661374,
+      "risk_warning_count": 2,
+      "fund_count": 28
+    }
+  },
+  {
+    "company_id": "C0248",
+    "company_name": "Sullivan-Hughes",
+    "industry": "制造",
+    "sub_industry": "机械",
+    "market_type": "主板",
+    "listing_date": "1997-07-26",
+    "stats": {
+      "total_transaction_amount": 49756182.025181554,
+      "median_transaction_amount": 1049916.7699181587,
+      "risk_warning_count": 1,
+      "fund_count": 38
+    }
+  },
+  {
+    "company_id": "C0249",
+    "company_name": "King, Ramirez and King",
+    "industry": "房地产",
+    "sub_industry": "住宅",
+    "market_type": "主板",
+    "listing_date": "2001-05-04",
+    "stats": {
+      "total_transaction_amount": 41946906.35676108,
+      "median_transaction_amount": 954220.2086515562,
+      "risk_warning_count": 3,
+      "fund_count": 34
+    }
+  },
+  {
+    "company_id": "C0250",
+    "company_name": "Salinas-Moore",
+    "industry": "能源",
+    "sub_industry": "新能源",
+    "market_type": "创业板",
+    "listing_date": "2024-10-16",
+    "stats": {
+      "total_transaction_amount": 39546558.23214293,
+      "median_transaction_amount": 765149.7711841036,
+      "risk_warning_count": 3,
+      "fund_count": 35
+    }
+  },
+  {
+    "company_id": "C0251",
+    "company_name": "Hogan LLC",
+    "industry": "科技",
+    "sub_industry": "硬件",
+    "market_type": "创业板",
+    "listing_date": "2011-08-08",
+    "stats": {
+      "total_transaction_amount": 83657518.41146663,
+      "median_transaction_amount": 1371763.8522683333,
+      "risk_warning_count": 3,
+      "fund_count": 40
+    }
+  },
+  {
+    "company_id": "C0252",
+    "company_name": "Massey-Harris",
+    "industry": "交通运输",
+    "sub_industry": "航空",
+    "market_type": "创业板",
+    "listing_date": "2010-10-23",
+    "stats": {
+      "total_transaction_amount": 48880530.87371939,
+      "median_transaction_amount": 1027327.5576788738,
+      "risk_warning_count": 0,
+      "fund_count": 30
+    }
+  },
+  {
+    "company_id": "C0253",
+    "company_name": "Petty-Cruz",
+    "industry": "医药",
+    "sub_industry": "医疗器械",
+    "market_type": "中小板",
+    "listing_date": "2014-02-28",
+    "stats": {
+      "total_transaction_amount": 50194761.88550055,
+      "median_transaction_amount": 1312816.4087302887,
+      "risk_warning_count": 0,
+      "fund_count": 25
+    }
+  },
+  {
+    "company_id": "C0254",
+    "company_name": "Davis-Chen",
+    "industry": "消费",
+    "sub_industry": "服装",
+    "market_type": "主板",
+    "listing_date": "2015-03-07",
+    "stats": {
+      "total_transaction_amount": 56827088.10935693,
+      "median_transaction_amount": 1277463.967711438,
+      "risk_warning_count": 2,
+      "fund_count": 34
+    }
+  },
+  {
+    "company_id": "C0255",
+    "company_name": "Ayers LLC",
+    "industry": "制造",
+    "sub_industry": "电子",
+    "market_type": "创业板",
+    "listing_date": "2020-08-25",
+    "stats": {
+      "total_transaction_amount": 106660470.37437022,
+      "median_transaction_amount": 1174313.0761888553,
+      "risk_warning_count": 3,
+      "fund_count": 36
+    }
+  },
+  {
+    "company_id": "C0256",
+    "company_name": "Hartman, Porter and Herman",
+    "industry": "金融",
+    "sub_industry": "保险",
+    "market_type": "中小板",
+    "listing_date": "2000-06-21",
+    "stats": {
+      "total_transaction_amount": 108446536.98479885,
+      "median_transaction_amount": 1641094.4336831267,
+      "risk_warning_count": 5,
+      "fund_count": 29
+    }
+  },
+  {
+    "company_id": "C0257",
+    "company_name": "Long, Robbins and Scott",
+    "industry": "科技",
+    "sub_industry": "互联网",
+    "market_type": "主板",
+    "listing_date": "1999-09-27",
+    "stats": {
+      "total_transaction_amount": 45332223.75818112,
+      "median_transaction_amount": 1417482.1121727366,
+      "risk_warning_count": 1,
+      "fund_count": 27
+    }
+  },
+  {
+    "company_id": "C0258",
+    "company_name": "Thomas-Hansen",
+    "industry": "交通运输",
+    "sub_industry": "铁路",
+    "market_type": "创业板",
+    "listing_date": "2022-01-06",
+    "stats": {
+      "total_transaction_amount": 67749269.74778827,
+      "median_transaction_amount": 1253898.316465822,
+      "risk_warning_count": 0,
+      "fund_count": 32
+    }
+  },
+  {
+    "company_id": "C0259",
+    "company_name": "Ayers-Henderson",
+    "industry": "交通运输",
+    "sub_industry": "航空",
+    "market_type": "主板",
+    "listing_date": "2015-03-17",
+    "stats": {
+      "total_transaction_amount": 43257485.73080094,
+      "median_transaction_amount": 1048544.5236525375,
+      "risk_warning_count": 2,
+      "fund_count": 26
+    }
+  },
+  {
+    "company_id": "C0260",
+    "company_name": "Delgado, Brown and Nicholson",
+    "industry": "科技",
+    "sub_industry": "软件",
+    "market_type": "主板",
+    "listing_date": "2004-04-08",
+    "stats": {
+      "total_transaction_amount": 67899623.07210131,
+      "median_transaction_amount": 1343378.537495661,
+      "risk_warning_count": 2,
+      "fund_count": 38
+    }
+  },
+  {
+    "company_id": "C0261",
+    "company_name": "Jackson, Lewis and Torres",
+    "industry": "制造",
+    "sub_industry": "汽车",
+    "market_type": "创业板",
+    "listing_date": "2009-08-06",
+    "stats": {
+      "total_transaction_amount": 44679619.5765875,
+      "median_transaction_amount": 1245741.4068511175,
+      "risk_warning_count": 2,
+      "fund_count": 28
+    }
+  },
+  {
+    "company_id": "C0262",
+    "company_name": "Hunt-Peters",
+    "industry": "交通运输",
+    "sub_industry": "铁路",
+    "market_type": "中小板",
+    "listing_date": "2017-10-15",
+    "stats": {
+      "total_transaction_amount": 86952221.52814664,
+      "median_transaction_amount": 1294578.6864956128,
+      "risk_warning_count": 2,
+      "fund_count": 36
+    }
+  },
+  {
+    "company_id": "C0263",
+    "company_name": "Navarro PLC",
+    "industry": "房地产",
+    "sub_industry": "商业地产",
+    "market_type": "中小板",
+    "listing_date": "1997-06-01",
+    "stats": {
+      "total_transaction_amount": 71349139.55933629,
+      "median_transaction_amount": 1119284.6404595387,
+      "risk_warning_count": 2,
+      "fund_count": 32
+    }
+  },
+  {
+    "company_id": "C0264",
+    "company_name": "Johnson PLC",
+    "industry": "房地产",
+    "sub_industry": "商业地产",
+    "market_type": "中小板",
+    "listing_date": "1997-03-26",
+    "stats": {
+      "total_transaction_amount": 39542845.36082649,
+      "median_transaction_amount": 932544.5299455042,
+      "risk_warning_count": 1,
+      "fund_count": 34
+    }
+  },
+  {
+    "company_id": "C0265",
+    "company_name": "Hill, Morales and King",
+    "industry": "医药",
+    "sub_industry": "医疗器械",
+    "market_type": "主板",
+    "listing_date": "2003-07-20",
+    "stats": {
+      "total_transaction_amount": 85036292.45023991,
+      "median_transaction_amount": 1223677.2742993266,
+      "risk_warning_count": 2,
+      "fund_count": 39
+    }
+  },
+  {
+    "company_id": "C0266",
+    "company_name": "Miller-Foster",
+    "industry": "制造",
+    "sub_industry": "机械",
+    "market_type": "中小板",
+    "listing_date": "2023-12-26",
+    "stats": {
+      "total_transaction_amount": 69436287.25122295,
+      "median_transaction_amount": 905104.9355821555,
+      "risk_warning_count": 2,
+      "fund_count": 28
+    }
+  },
+  {
+    "company_id": "C0267",
+    "company_name": "Thompson Inc",
+    "industry": "交通运输",
+    "sub_industry": "铁路",
+    "market_type": "中小板",
+    "listing_date": "2011-01-16",
+    "stats": {
+      "total_transaction_amount": 46131618.506334335,
+      "median_transaction_amount": 1044536.4202804345,
+      "risk_warning_count": 4,
+      "fund_count": 36
+    }
+  },
+  {
+    "company_id": "C0268",
+    "company_name": "Rivas, Hernandez and Alexander",
+    "industry": "消费",
+    "sub_industry": "家电",
+    "market_type": "中小板",
+    "listing_date": "2015-06-14",
+    "stats": {
+      "total_transaction_amount": 212328254.28702503,
+      "median_transaction_amount": 1474443.075403361,
+      "risk_warning_count": 0,
+      "fund_count": 38
+    }
+  },
+  {
+    "company_id": "C0269",
+    "company_name": "Williams, Williams and Jones",
+    "industry": "交通运输",
+    "sub_industry": "航空",
+    "market_type": "创业板",
+    "listing_date": "2024-09-26",
+    "stats": {
+      "total_transaction_amount": 49607681.34946181,
+      "median_transaction_amount": 1079014.1313459603,
+      "risk_warning_count": 3,
+      "fund_count": 31
+    }
+  },
+  {
+    "company_id": "C0270",
+    "company_name": "Mills, Mitchell and Romero",
+    "industry": "消费",
+    "sub_industry": "家电",
+    "market_type": "创业板",
+    "listing_date": "2017-06-04",
+    "stats": {
+      "total_transaction_amount": 82306980.26358217,
+      "median_transaction_amount": 1422149.1340881493,
+      "risk_warning_count": 4,
+      "fund_count": 40
+    }
+  },
+  {
+    "company_id": "C0271",
+    "company_name": "Williams-Berry",
+    "industry": "医药",
+    "sub_industry": "制药",
+    "market_type": "中小板",
+    "listing_date": "1998-03-19",
+    "stats": {
+      "total_transaction_amount": 58661423.15669217,
+      "median_transaction_amount": 1174208.3658454504,
+      "risk_warning_count": 0,
+      "fund_count": 35
+    }
+  },
+  {
+    "company_id": "C0272",
+    "company_name": "Williams, Wilson and Cortez",
+    "industry": "金融",
+    "sub_industry": "银行",
+    "market_type": "中小板",
+    "listing_date": "2005-11-25",
+    "stats": {
+      "total_transaction_amount": 72421180.80682598,
+      "median_transaction_amount": 1479451.7401884587,
+      "risk_warning_count": 6,
+      "fund_count": 35
+    }
+  },
+  {
+    "company_id": "C0273",
+    "company_name": "Beck-Petersen",
+    "industry": "房地产",
+    "sub_industry": "商业地产",
+    "market_type": "中小板",
+    "listing_date": "2002-02-04",
+    "stats": {
+      "total_transaction_amount": 104287213.36768712,
+      "median_transaction_amount": 1080247.986210938,
+      "risk_warning_count": 0,
+      "fund_count": 31
+    }
+  },
+  {
+    "company_id": "C0274",
+    "company_name": "Martinez PLC",
+    "industry": "教育",
+    "sub_industry": "高等教育",
+    "market_type": "中小板",
+    "listing_date": "2017-10-27",
+    "stats": {
+      "total_transaction_amount": 32001351.028616324,
+      "median_transaction_amount": 460915.8426289245,
+      "risk_warning_count": 0,
+      "fund_count": 36
+    }
+  },
+  {
+    "company_id": "C0275",
+    "company_name": "Gibbs-Butler",
+    "industry": "能源",
+    "sub_industry": "石油",
+    "market_type": "中小板",
+    "listing_date": "2023-07-23",
+    "stats": {
+      "total_transaction_amount": 63683557.00661394,
+      "median_transaction_amount": 892272.4215231778,
+      "risk_warning_count": 7,
+      "fund_count": 35
+    }
+  },
+  {
+    "company_id": "C0276",
+    "company_name": "Campos, Shepard and Odonnell",
+    "industry": "交通运输",
+    "sub_industry": "航空",
+    "market_type": "中小板",
+    "listing_date": "2012-05-12",
+    "stats": {
+      "total_transaction_amount": 66417576.80800378,
+      "median_transaction_amount": 1058278.1972219385,
+      "risk_warning_count": 0,
+      "fund_count": 35
+    }
+  },
+  {
+    "company_id": "C0277",
+    "company_name": "Mcfarland PLC",
+    "industry": "房地产",
+    "sub_industry": "住宅",
+    "market_type": "主板",
+    "listing_date": "2010-05-09",
+    "stats": {
+      "total_transaction_amount": 57857188.160387464,
+      "median_transaction_amount": 884139.6481841624,
+      "risk_warning_count": 3,
+      "fund_count": 36
+    }
+  },
+  {
+    "company_id": "C0278",
+    "company_name": "Alexander PLC",
+    "industry": "医药",
+    "sub_industry": "医疗器械",
+    "market_type": "主板",
+    "listing_date": "2005-01-19",
+    "stats": {
+      "total_transaction_amount": 87665698.62571041,
+      "median_transaction_amount": 1329371.137833341,
+      "risk_warning_count": 2,
+      "fund_count": 38
+    }
+  },
+  {
+    "company_id": "C0279",
+    "company_name": "Lopez, Reeves and Williams",
+    "industry": "能源",
+    "sub_industry": "石油",
+    "market_type": "主板",
+    "listing_date": "2021-03-10",
+    "stats": {
+      "total_transaction_amount": 42952848.65693985,
+      "median_transaction_amount": 888259.3422507946,
+      "risk_warning_count": 5,
+      "fund_count": 34
+    }
+  },
+  {
+    "company_id": "C0280",
+    "company_name": "Sullivan-Dunlap",
+    "industry": "医药",
+    "sub_industry": "制药",
+    "market_type": "主板",
+    "listing_date": "2008-11-02",
+    "stats": {
+      "total_transaction_amount": 95521819.23747545,
+      "median_transaction_amount": 1223882.3613695279,
+      "risk_warning_count": 2,
+      "fund_count": 44
+    }
+  },
+  {
+    "company_id": "C0281",
+    "company_name": "Garcia, Roy and Roth",
+    "industry": "科技",
+    "sub_industry": "互联网",
+    "market_type": "创业板",
+    "listing_date": "2010-10-31",
+    "stats": {
+      "total_transaction_amount": 64289297.98921502,
+      "median_transaction_amount": 1426103.7743209086,
+      "risk_warning_count": 6,
+      "fund_count": 38
+    }
+  },
+  {
+    "company_id": "C0282",
+    "company_name": "Baker, Alvarado and Miller",
+    "industry": "房地产",
+    "sub_industry": "住宅",
+    "market_type": "主板",
+    "listing_date": "2017-01-13",
+    "stats": {
+      "total_transaction_amount": 55030056.071538985,
+      "median_transaction_amount": 1034247.0470155852,
+      "risk_warning_count": 2,
+      "fund_count": 33
+    }
+  },
+  {
+    "company_id": "C0283",
+    "company_name": "Miller Group",
+    "industry": "医药",
+    "sub_industry": "医疗器械",
+    "market_type": "中小板",
+    "listing_date": "2023-07-20",
+    "stats": {
+      "total_transaction_amount": 108032517.69558138,
+      "median_transaction_amount": 1507776.213628782,
+      "risk_warning_count": 0,
+      "fund_count": 33
+    }
+  },
+  {
+    "company_id": "C0284",
+    "company_name": "Harrison-Oliver",
+    "industry": "房地产",
+    "sub_industry": "住宅",
+    "market_type": "主板",
+    "listing_date": "2009-10-17",
+    "stats": {
+      "total_transaction_amount": 85137399.5469723,
+      "median_transaction_amount": 1346344.7827339938,
+      "risk_warning_count": 1,
+      "fund_count": 38
+    }
+  },
+  {
+    "company_id": "C0285",
+    "company_name": "Cox-Miller",
+    "industry": "交通运输",
+    "sub_industry": "铁路",
+    "market_type": "主板",
+    "listing_date": "2000-09-12",
+    "stats": {
+      "total_transaction_amount": 62551159.87481152,
+      "median_transaction_amount": 1322942.4158984278,
+      "risk_warning_count": 0,
+      "fund_count": 34
+    }
+  },
+  {
+    "company_id": "C0286",
+    "company_name": "Bell-Thomas",
+    "industry": "能源",
+    "sub_industry": "石油",
+    "market_type": "中小板",
+    "listing_date": "2023-09-10",
+    "stats": {
+      "total_transaction_amount": 30998587.805570588,
+      "median_transaction_amount": 929581.3705089289,
+      "risk_warning_count": 1,
+      "fund_count": 24
+    }
+  },
+  {
+    "company_id": "C0287",
+    "company_name": "Ramirez Ltd",
+    "industry": "制造",
+    "sub_industry": "机械",
+    "market_type": "创业板",
+    "listing_date": "2007-12-21",
+    "stats": {
+      "total_transaction_amount": 62610543.47044865,
+      "median_transaction_amount": 1085773.7637808886,
+      "risk_warning_count": 3,
+      "fund_count": 34
+    }
+  },
+  {
+    "company_id": "C0288",
+    "company_name": "Henry Inc",
+    "industry": "交通运输",
+    "sub_industry": "铁路",
+    "market_type": "主板",
+    "listing_date": "2018-11-03",
+    "stats": {
+      "total_transaction_amount": 50728234.28577137,
+      "median_transaction_amount": 1094115.4479131927,
+      "risk_warning_count": 1,
+      "fund_count": 27
+    }
+  },
+  {
+    "company_id": "C0289",
+    "company_name": "Hanson, Frazier and Johnson",
+    "industry": "交通运输",
+    "sub_industry": "航空",
+    "market_type": "创业板",
+    "listing_date": "2016-07-03",
+    "stats": {
+      "total_transaction_amount": 35729195.01902387,
+      "median_transaction_amount": 1037865.093033901,
+      "risk_warning_count": 0,
+      "fund_count": 29
+    }
+  },
+  {
+    "company_id": "C0290",
+    "company_name": "May-Jenkins",
+    "industry": "能源",
+    "sub_industry": "新能源",
+    "market_type": "主板",
+    "listing_date": "2003-12-25",
+    "stats": {
+      "total_transaction_amount": 97302244.30783471,
+      "median_transaction_amount": 821355.1442334834,
+      "risk_warning_count": 9,
+      "fund_count": 52
+    }
+  },
+  {
+    "company_id": "C0291",
+    "company_name": "Farrell, Banks and Anderson",
+    "industry": "金融",
+    "sub_industry": "银行",
+    "market_type": "主板",
+    "listing_date": "2017-06-18",
+    "stats": {
+      "total_transaction_amount": 80455413.10445507,
+      "median_transaction_amount": 1226953.7159182036,
+      "risk_warning_count": 11,
+      "fund_count": 41
+    }
+  },
+  {
+    "company_id": "C0292",
+    "company_name": "Davila, Wilson and Hudson",
+    "industry": "金融",
+    "sub_industry": "证券",
+    "market_type": "主板",
+    "listing_date": "2014-06-25",
+    "stats": {
+      "total_transaction_amount": 172756635.4740882,
+      "median_transaction_amount": 1511677.2436218332,
+      "risk_warning_count": 8,
+      "fund_count": 39
+    }
+  },
+  {
+    "company_id": "C0293",
+    "company_name": "Monroe, Schaefer and Bean",
+    "industry": "医药",
+    "sub_industry": "医疗器械",
+    "market_type": "创业板",
+    "listing_date": "2004-10-11",
+    "stats": {
+      "total_transaction_amount": 73950260.6550498,
+      "median_transaction_amount": 1237525.4690469876,
+      "risk_warning_count": 1,
+      "fund_count": 29
+    }
+  },
+  {
+    "company_id": "C0294",
+    "company_name": "Velasquez Ltd",
+    "industry": "医药",
+    "sub_industry": "医疗器械",
+    "market_type": "主板",
+    "listing_date": "2015-09-21",
+    "stats": {
+      "total_transaction_amount": 63405134.28120441,
+      "median_transaction_amount": 1092122.1468950587,
+      "risk_warning_count": 0,
+      "fund_count": 29
+    }
+  },
+  {
+    "company_id": "C0295",
+    "company_name": "Allen, Cole and Gardner",
+    "industry": "房地产",
+    "sub_industry": "住宅",
+    "market_type": "中小板",
+    "listing_date": "2008-01-21",
+    "stats": {
+      "total_transaction_amount": 71453912.2368385,
+      "median_transaction_amount": 1289250.338089079,
+      "risk_warning_count": 1,
+      "fund_count": 29
+    }
+  },
+  {
+    "company_id": "C0296",
+    "company_name": "Moore, Benson and Clarke",
+    "industry": "能源",
+    "sub_industry": "新能源",
+    "market_type": "主板",
+    "listing_date": "1996-01-26",
+    "stats": {
+      "total_transaction_amount": 44806588.76979423,
+      "median_transaction_amount": 653690.1185843227,
+      "risk_warning_count": 4,
+      "fund_count": 30
+    }
+  },
+  {
+    "company_id": "C0297",
+    "company_name": "Mccarty Group",
+    "industry": "金融",
+    "sub_industry": "银行",
+    "market_type": "创业板",
+    "listing_date": "2017-05-14",
+    "stats": {
+      "total_transaction_amount": 121982975.86045843,
+      "median_transaction_amount": 1530273.5211581227,
+      "risk_warning_count": 6,
+      "fund_count": 35
+    }
+  },
+  {
+    "company_id": "C0298",
+    "company_name": "Contreras Ltd",
+    "industry": "制造",
+    "sub_industry": "电子",
+    "market_type": "中小板",
+    "listing_date": "2018-04-21",
+    "stats": {
+      "total_transaction_amount": 90099833.48233719,
+      "median_transaction_amount": 1049692.7140607152,
+      "risk_warning_count": 2,
+      "fund_count": 43
+    }
+  },
+  {
+    "company_id": "C0299",
+    "company_name": "Cochran PLC",
+    "industry": "金融",
+    "sub_industry": "银行",
+    "market_type": "创业板",
+    "listing_date": "2022-11-13",
+    "stats": {
+      "total_transaction_amount": 76017535.04413374,
+      "median_transaction_amount": 1490045.435192057,
+      "risk_warning_count": 4,
+      "fund_count": 31
+    }
+  },
+  {
+    "company_id": "C0300",
+    "company_name": "Mccoy-Reyes",
+    "industry": "消费",
+    "sub_industry": "食品",
+    "market_type": "中小板",
+    "listing_date": "2000-02-04",
+    "stats": {
+      "total_transaction_amount": 47179723.90793983,
+      "median_transaction_amount": 1206374.2455213265,
+      "risk_warning_count": 2,
+      "fund_count": 28
+    }
+  }
+]

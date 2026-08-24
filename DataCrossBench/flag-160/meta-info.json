@@ -1,0 +1,20 @@
+{
+    "goal": "比较学而思网校与高途和猿辅导的用户增长策略，找出其竞争优势所在。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 活跃用户30天留存率稳定在16-20%区间，表明用户粘性增强。",
+        "Comparison: 2024年英语天天练App的月活用户数量从不到50万人增长至511万人，增长显著。",
+        "Extreme: 2022年公司总收入为10.2亿美元，显示出双减政策实施后的最低点。",
+        "Attribution: 双减后K12在线教育行业重新洗牌，学而思网校与同行逐渐拉开差距。"
+    ],
+    "summary": "学而思网校在用户增长和市场渗透率方面表现出色，尤其是在推出新产品和响应政策后，活跃用户留存率稳定。",
+    "flag_id": "flag-160",
+    "classifier": "Internet Firms",
+    "classifier_cn": "互联网公司研究",
+    "input_files": [
+        "output/business_background.txt",
+        "output/revenue_market_data.json",
+        "output/user_retention_fact.csv",
+        "output/users_dimension.db"
+    ]
+}

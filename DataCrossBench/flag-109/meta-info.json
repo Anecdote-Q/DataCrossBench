@@ -1,0 +1,20 @@
+{
+    "goal": "分析2008年金融危机对银行贷款市场的具体影响。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 2008年到2010年，银行贷款下降了20%以上，而金融公司贷款在2010年至2016年间增长了55%。",
+        "Comparison: 2016年，非银行贷款人提供了大部分小企业贷款，而银行贷款在同年仅占小企业贷款的40%。",
+        "Extreme: 第4页显示了非银行贷款市场份额增加了6.9个百分点，表明其在小企业贷款中的重要性。",
+        "Attribution: 银行贷款的下降与2008年金融危机的负面冲击直接相关，而非银行贷款的增长则是由于对小企业贷款需求的增加和银行贷款供应的减少所致。"
+    ],
+    "summary": "自2008年金融危机以来，小企业贷款市场经历了显著变化，银行贷款的减少被金融公司和金融科技贷款人的崛起所抵消，非银行贷款市场份额显著增加。",
+    "flag_id": "flag-109",
+    "classifier": "FinTech",
+    "classifier_cn": "金融科技",
+    "input_files": [
+        "output/business_background.txt",
+        "output/dimension_tables.db",
+        "output/loan_market_fact.csv",
+        "output/policy_impact.json"
+    ]
+}

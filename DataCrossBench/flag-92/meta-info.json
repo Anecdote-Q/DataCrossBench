@@ -1,0 +1,20 @@
+{
+    "goal": "分析2022年华商稳健双利基金收益率下降至-0.25%的原因。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 华商稳健双利基金在2019年、2020年和2021年表现出色，分别实现收益率15.37%、10.35%和8.39%。然而，2022年由于市场环境变化，收益率下降至-0.25%。",
+        "Comparison: 华商稳健双利的年化回报率为6.16%，而华商稳定增利的年化回报率为6.60%，两者在同类基金中均表现优异。",
+        "Extreme: 华商稳健双利的总回报达到90.06%，在同类基金中排名第25/118，显示出其在长期投资中的卓越表现。",
+        "Attribution: 华商稳健双利的超额收益与张永志先生的稳健均衡型投资风格密切相关，尤其是在市场波动时，能够有效控制风险并获取超额收益。"
+    ],
+    "summary": "华商稳健双利基金在过去五年中表现优异，年化回报率达到6.16%，并在多个市场环境中展现出强大的适应能力。基金经理张永志凭借其稳健的投资风格和灵活的策略，成功控制风险并获取超额收益。",
+    "flag_id": "flag-92",
+    "classifier": "Fund Analysis",
+    "classifier_cn": "基金分析",
+    "input_files": [
+        "output/fund_background.txt",
+        "output/fund_transactions.csv",
+        "output/investor_dimension.db",
+        "output/investor_profiles.json"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "goal": "评估京东国际管培生项目的选拔标准对人才质量的影响。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 随着京东业务的拓展，人才培养和管理体系也在不断完善，形成了系统化的人才发展战略。",
+        "Comparison: 京东大学与中欧商学院的合作项目显示出京东在高端人才培养方面的积极探索，旨在打造稳定的团队结构。",
+        "Extreme: TET项目在培养年轻管理者方面取得显著成效，管理者平均年龄比公司同级别管理者年轻5.5岁，体现了其对年轻人才的重视。",
+        "Attribution: 由于业务拓展和规模扩张带来的新岗位，京东重视人才继任项目，以保障优秀管理者的持续供给和提升组织能力。"
+    ],
+    "summary": "本报告总结了京东在人才发展和人力资源管理方面的战略，强调了其快速发展的HR部门、人才培养体系及其对业务发展的重要性。",
+    "flag_id": "flag-26",
+    "classifier": "Internet Firms",
+    "classifier_cn": "互联网公司研究",
+    "input_files": [
+        "output/background.txt",
+        "output/dimension_data.db",
+        "output/talent_management.png",
+        "output/user_profiles.json"
+    ]
+}

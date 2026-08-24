@@ -1,0 +1,4854 @@
+[
+  {
+    "company_id": 1000,
+    "user_profile": {
+      "avg_monthly_usage_hours": 173.48035856464625,
+      "preferred_tech": [
+        "Blockchain",
+        "AI",
+        "Cloud"
+      ],
+      "recent_activity": [
+        {
+          "timestamp": "2025-12-24T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "Mobile",
+            "region": "六盘水"
+          }
+        },
+        {
+          "timestamp": "2025-12-12T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "Mobile",
+            "region": "拉萨"
+          }
+        },
+        {
+          "timestamp": "2025-12-08T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "Tablet",
+            "region": "淮安"
+          }
+        },
+        {
+          "timestamp": "2025-12-16T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "PC",
+            "region": "荆门"
+          }
+        },
+        {
+          "timestamp": "2025-12-22T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "PC",
+            "region": "石家庄"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "company_id": 1001,
+    "user_profile": {
+      "avg_monthly_usage_hours": 158.57915571165452,
+      "preferred_tech": [
+        "5G",
+        "IoT",
+        "Blockchain"
+      ],
+      "recent_activity": [
+        {
+          "timestamp": "2025-12-12T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "Tablet",
+            "region": "北镇"
+          }
+        },
+        {
+          "timestamp": "2025-12-20T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "Mobile",
+            "region": "辽阳"
+          }
+        },
+        {
+          "timestamp": "2025-12-19T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "Tablet",
+            "region": "济南"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "company_id": 1002,
+    "user_profile": {
+      "avg_monthly_usage_hours": 69.67845295256724,
+      "preferred_tech": [
+        "AI",
+        "5G",
+        "Blockchain"
+      ],
+      "recent_activity": [
+        {
+          "timestamp": "2025-12-07T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "Mobile",
+            "region": "邯郸"
+          }
+        },
+        {
+          "timestamp": "2025-11-29T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "Mobile",
+            "region": "东莞"
+          }
+        },
+        {
+          "timestamp": "2025-12-07T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "Tablet",
+            "region": "沈阳"
+          }
+        },
+        {
+          "timestamp": "2025-12-03T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "PC",
+            "region": "永安"
+          }
+        },
+        {
+          "timestamp": "2025-12-18T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "Mobile",
+            "region": "兴城"
+          }
+        },
+        {
+          "timestamp": "2025-11-30T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "Mobile",
+            "region": "马鞍山"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "company_id": 1003,
+    "user_profile": {
+      "avg_monthly_usage_hours": 111.21693020669579,
+      "preferred_tech": [
+        "BigData",
+        "IoT",
+        "Cloud"
+      ],
+      "recent_activity": [
+        {
+          "timestamp": "2025-12-04T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "PC",
+            "region": "辛集"
+          }
+        },
+        {
+          "timestamp": "2025-12-08T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "Tablet",
+            "region": "太原"
+          }
+        },
+        {
+          "timestamp": "2025-12-09T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "PC",
+            "region": "南宁"
+          }
+        },
+        {
+          "timestamp": "2025-11-28T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "Mobile",
+            "region": "宁德"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "company_id": 1004,
+    "user_profile": {
+      "avg_monthly_usage_hours": 124.26068429369323,
+      "preferred_tech": [
+        "Blockchain",
+        "Cloud",
+        "AI"
+      ],
+      "recent_activity": [
+        {
+          "timestamp": "2025-12-14T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "PC",
+            "region": "海门"
+          }
+        },
+        {
+          "timestamp": "2025-12-16T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "Mobile",
+            "region": "贵阳"
+          }
+        },
+        {
+          "timestamp": "2025-12-01T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "PC",
+            "region": "邯郸"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "company_id": 1005,
+    "user_profile": {
+      "avg_monthly_usage_hours": 146.48051871025837,
+      "preferred_tech": [
+        "IoT",
+        "5G",
+        "Blockchain"
+      ],
+      "recent_activity": [
+        {
+          "timestamp": "2025-12-16T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "Mobile",
+            "region": "马鞍山"
+          }
+        },
+        {
+          "timestamp": "2025-12-01T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "Mobile",
+            "region": "北京"
+          }
+        },
+        {
+          "timestamp": "2025-12-12T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "Tablet",
+            "region": "邯郸"
+          }
+        },
+        {
+          "timestamp": "2025-12-06T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "PC",
+            "region": "太原"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "company_id": 1006,
+    "user_profile": {
+      "avg_monthly_usage_hours": 50.0,
+      "preferred_tech": [
+        "IoT",
+        "Blockchain",
+        "AI"
+      ],
+      "recent_activity": [
+        {
+          "timestamp": "2025-12-21T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "Tablet",
+            "region": "杭州"
+          }
+        },
+        {
+          "timestamp": "2025-12-01T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "Tablet",
+            "region": "荆门"
+          }
+        },
+        {
+          "timestamp": "2025-12-09T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "PC",
+            "region": "兴城"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "company_id": 1007,
+    "user_profile": {
+      "avg_monthly_usage_hours": 162.74401653014087,
+      "preferred_tech": [
+        "5G",
+        "Cloud",
+        "IoT"
+      ],
+      "recent_activity": [
+        {
+          "timestamp": "2025-12-01T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "Mobile",
+            "region": "佛山"
+          }
+        },
+        {
+          "timestamp": "2025-12-13T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "PC",
+            "region": "潜江"
+          }
+        },
+        {
+          "timestamp": "2025-11-26T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "Tablet",
+            "region": "潜江"
+          }
+        },
+        {
+          "timestamp": "2025-12-07T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "PC",
+            "region": "南昌"
+          }
+        },
+        {
+          "timestamp": "2025-12-07T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "Tablet",
+            "region": "梧州"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "company_id": 1008,
+    "user_profile": {
+      "avg_monthly_usage_hours": 87.76444399774584,
+      "preferred_tech": [
+        "Blockchain",
+        "BigData",
+        "Cloud"
+      ],
+      "recent_activity": [
+        {
+          "timestamp": "2025-12-22T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "Mobile",
+            "region": "深圳"
+          }
+        },
+        {
+          "timestamp": "2025-12-21T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "PC",
+            "region": "成都"
+          }
+        },
+        {
+          "timestamp": "2025-11-27T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "PC",
+            "region": "兰州"
+          }
+        },
+        {
+          "timestamp": "2025-12-17T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "Tablet",
+            "region": "太原"
+          }
+        },
+        {
+          "timestamp": "2025-12-01T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "PC",
+            "region": "梧州"
+          }
+        },
+        {
+          "timestamp": "2025-12-15T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "Mobile",
+            "region": "北镇"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "company_id": 1009,
+    "user_profile": {
+      "avg_monthly_usage_hours": 97.46917340730583,
+      "preferred_tech": [
+        "5G",
+        "Cloud",
+        "Blockchain"
+      ],
+      "recent_activity": [
+        {
+          "timestamp": "2025-12-05T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "Mobile",
+            "region": "西宁"
+          }
+        },
+        {
+          "timestamp": "2025-12-22T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "PC",
+            "region": "台北"
+          }
+        },
+        {
+          "timestamp": "2025-11-27T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "PC",
+            "region": "沈阳"
+          }
+        },
+        {
+          "timestamp": "2025-12-23T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "PC",
+            "region": "广州"
+          }
+        },
+        {
+          "timestamp": "2025-12-19T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "Mobile",
+            "region": "拉萨"
+          }
+        },
+        {
+          "timestamp": "2025-12-06T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "Mobile",
+            "region": "武汉"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "company_id": 1010,
+    "user_profile": {
+      "avg_monthly_usage_hours": 157.36062430634297,
+      "preferred_tech": [
+        "5G",
+        "AI",
+        "Cloud"
+      ],
+      "recent_activity": [
+        {
+          "timestamp": "2025-11-25T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "Mobile",
+            "region": "重庆"
+          }
+        },
+        {
+          "timestamp": "2025-12-02T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "PC",
+            "region": "长春"
+          }
+        },
+        {
+          "timestamp": "2025-12-04T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "Mobile",
+            "region": "海口"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "company_id": 1011,
+    "user_profile": {
+      "avg_monthly_usage_hours": 98.28356765703904,
+      "preferred_tech": [
+        "Blockchain",
+        "AI",
+        "BigData"
+      ],
+      "recent_activity": [
+        {
+          "timestamp": "2025-12-23T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "Mobile",
+            "region": "深圳"
+          }
+        },
+        {
+          "timestamp": "2025-12-19T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "Mobile",
+            "region": "乌鲁木齐"
+          }
+        },
+        {
+          "timestamp": "2025-11-30T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "Mobile",
+            "region": "宜都"
+          }
+        },
+        {
+          "timestamp": "2025-11-26T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "PC",
+            "region": "宁德"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "company_id": 1012,
+    "user_profile": {
+      "avg_monthly_usage_hours": 143.0812879753005,
+      "preferred_tech": [
+        "5G",
+        "AI",
+        "Blockchain"
+      ],
+      "recent_activity": [
+        {
+          "timestamp": "2025-12-16T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "PC",
+            "region": "南宁"
+          }
+        },
+        {
+          "timestamp": "2025-12-10T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "PC",
+            "region": "六安"
+          }
+        },
+        {
+          "timestamp": "2025-12-11T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "PC",
+            "region": "汕尾"
+          }
+        },
+        {
+          "timestamp": "2025-12-18T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "Tablet",
+            "region": "马鞍山"
+          }
+        },
+        {
+          "timestamp": "2025-12-06T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "Tablet",
+            "region": "海口"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "company_id": 1013,
+    "user_profile": {
+      "avg_monthly_usage_hours": 105.51636575181632,
+      "preferred_tech": [
+        "AI",
+        "Blockchain",
+        "BigData"
+      ],
+      "recent_activity": [
+        {
+          "timestamp": "2025-12-21T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "PC",
+            "region": "武汉"
+          }
+        },
+        {
+          "timestamp": "2025-12-13T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "Mobile",
+            "region": "北京"
+          }
+        },
+        {
+          "timestamp": "2025-12-15T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "Tablet",
+            "region": "银川"
+          }
+        },
+        {
+          "timestamp": "2025-12-20T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "PC",
+            "region": "嘉禾"
+          }
+        },
+        {
+          "timestamp": "2025-11-29T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "PC",
+            "region": "广州"
+          }
+        },
+        {
+          "timestamp": "2025-12-07T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "Mobile",
+            "region": "贵阳"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "company_id": 1014,
+    "user_profile": {
+      "avg_monthly_usage_hours": 178.19766767013547,
+      "preferred_tech": [
+        "IoT",
+        "BigData",
+        "Cloud"
+      ],
+      "recent_activity": [
+        {
+          "timestamp": "2025-12-12T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "Mobile",
+            "region": "柳州"
+          }
+        },
+        {
+          "timestamp": "2025-12-10T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "PC",
+            "region": "佛山"
+          }
+        },
+        {
+          "timestamp": "2025-12-05T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "Mobile",
+            "region": "沈阳"
+          }
+        },
+        {
+          "timestamp": "2025-12-07T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "Tablet",
+            "region": "海口"
+          }
+        },
+        {
+          "timestamp": "2025-12-22T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "Mobile",
+            "region": "济南"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "company_id": 1015,
+    "user_profile": {
+      "avg_monthly_usage_hours": 107.45896289604117,
+      "preferred_tech": [
+        "Cloud",
+        "Blockchain",
+        "IoT"
+      ],
+      "recent_activity": [
+        {
+          "timestamp": "2025-12-07T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "Tablet",
+            "region": "宜都"
+          }
+        },
+        {
+          "timestamp": "2025-12-01T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "Mobile",
+            "region": "合肥"
+          }
+        },
+        {
+          "timestamp": "2025-12-04T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "PC",
+            "region": "佛山"
+          }
+        },
+        {
+          "timestamp": "2025-11-28T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "Mobile",
+            "region": "合山"
+          }
+        },
+        {
+          "timestamp": "2025-12-11T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "PC",
+            "region": "辽阳"
+          }
+        },
+        {
+          "timestamp": "2025-12-24T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "PC",
+            "region": "潜江"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "company_id": 1016,
+    "user_profile": {
+      "avg_monthly_usage_hours": 115.02892475376741,
+      "preferred_tech": [
+        "BigData",
+        "Cloud",
+        "IoT"
+      ],
+      "recent_activity": [
+        {
+          "timestamp": "2025-11-30T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "Mobile",
+            "region": "东莞"
+          }
+        },
+        {
+          "timestamp": "2025-11-26T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "Mobile",
+            "region": "嘉禾"
+          }
+        },
+        {
+          "timestamp": "2025-12-12T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "PC",
+            "region": "大冶"
+          }
+        },
+        {
+          "timestamp": "2025-11-26T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "PC",
+            "region": "南京"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "company_id": 1017,
+    "user_profile": {
+      "avg_monthly_usage_hours": 90.68475234616228,
+      "preferred_tech": [
+        "BigData",
+        "5G",
+        "Blockchain"
+      ],
+      "recent_activity": [
+        {
+          "timestamp": "2025-12-22T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "Mobile",
+            "region": "深圳"
+          }
+        },
+        {
+          "timestamp": "2025-12-05T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "PC",
+            "region": "大冶"
+          }
+        },
+        {
+          "timestamp": "2025-12-19T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "Mobile",
+            "region": "澳门"
+          }
+        },
+        {
+          "timestamp": "2025-12-15T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "Tablet",
+            "region": "海口"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "company_id": 1018,
+    "user_profile": {
+      "avg_monthly_usage_hours": 117.24909270406172,
+      "preferred_tech": [
+        "AI",
+        "Cloud",
+        "IoT"
+      ],
+      "recent_activity": [
+        {
+          "timestamp": "2025-12-10T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "Mobile",
+            "region": "兴安盟"
+          }
+        },
+        {
+          "timestamp": "2025-12-08T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "PC",
+            "region": "柳州"
+          }
+        },
+        {
+          "timestamp": "2025-12-11T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "PC",
+            "region": "惠州"
+          }
+        },
+        {
+          "timestamp": "2025-12-10T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "Tablet",
+            "region": "台北"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "company_id": 1019,
+    "user_profile": {
+      "avg_monthly_usage_hours": 125.76121451517292,
+      "preferred_tech": [
+        "IoT",
+        "Blockchain",
+        "AI"
+      ],
+      "recent_activity": [
+        {
+          "timestamp": "2025-12-18T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "Tablet",
+            "region": "兴安盟"
+          }
+        },
+        {
+          "timestamp": "2025-12-16T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "PC",
+            "region": "潜江"
+          }
+        },
+        {
+          "timestamp": "2025-12-15T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "PC",
+            "region": "乌鲁木齐"
+          }
+        },
+        {
+          "timestamp": "2025-12-13T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "Tablet",
+            "region": "太原"
+          }
+        },
+        {
+          "timestamp": "2025-11-27T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "PC",
+            "region": "台北"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "company_id": 1020,
+    "user_profile": {
+      "avg_monthly_usage_hours": 83.06708973005078,
+      "preferred_tech": [
+        "Cloud",
+        "Blockchain",
+        "5G"
+      ],
+      "recent_activity": [
+        {
+          "timestamp": "2025-11-29T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "Tablet",
+            "region": "通辽"
+          }
+        },
+        {
+          "timestamp": "2025-12-22T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "PC",
+            "region": "北镇"
+          }
+        },
+        {
+          "timestamp": "2025-11-29T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "PC",
+            "region": "辽阳"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "company_id": 1021,
+    "user_profile": {
+      "avg_monthly_usage_hours": 129.55224329352816,
+      "preferred_tech": [
+        "Cloud",
+        "Blockchain",
+        "AI"
+      ],
+      "recent_activity": [
+        {
+          "timestamp": "2025-11-27T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "PC",
+            "region": "关岭"
+          }
+        },
+        {
+          "timestamp": "2025-12-18T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "Tablet",
+            "region": "兰州"
+          }
+        },
+        {
+          "timestamp": "2025-12-15T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "PC",
+            "region": "合肥"
+          }
+        },
+        {
+          "timestamp": "2025-12-21T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "Tablet",
+            "region": "长沙"
+          }
+        },
+        {
+          "timestamp": "2025-12-10T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "Tablet",
+            "region": "福州"
+          }
+        },
+        {
+          "timestamp": "2025-12-04T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "PC",
+            "region": "六安"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "company_id": 1022,
+    "user_profile": {
+      "avg_monthly_usage_hours": 149.12497581074896,
+      "preferred_tech": [
+        "5G",
+        "Cloud",
+        "Blockchain"
+      ],
+      "recent_activity": [
+        {
+          "timestamp": "2025-12-21T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "PC",
+            "region": "长沙"
+          }
+        },
+        {
+          "timestamp": "2025-11-27T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "Tablet",
+            "region": "南昌"
+          }
+        },
+        {
+          "timestamp": "2025-12-02T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "PC",
+            "region": "石家庄"
+          }
+        },
+        {
+          "timestamp": "2025-12-13T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "PC",
+            "region": "宁德"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "company_id": 1023,
+    "user_profile": {
+      "avg_monthly_usage_hours": 128.83223489065745,
+      "preferred_tech": [
+        "Cloud",
+        "AI",
+        "IoT"
+      ],
+      "recent_activity": [
+        {
+          "timestamp": "2025-12-24T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "Tablet",
+            "region": "永安"
+          }
+        },
+        {
+          "timestamp": "2025-12-14T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "PC",
+            "region": "北镇"
+          }
+        },
+        {
+          "timestamp": "2025-12-21T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "Mobile",
+            "region": "关岭"
+          }
+        },
+        {
+          "timestamp": "2025-12-14T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "Mobile",
+            "region": "佛山"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "company_id": 1024,
+    "user_profile": {
+      "avg_monthly_usage_hours": 135.36216520460164,
+      "preferred_tech": [
+        "Cloud",
+        "Blockchain",
+        "BigData"
+      ],
+      "recent_activity": [
+        {
+          "timestamp": "2025-12-24T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "Tablet",
+            "region": "宁德"
+          }
+        },
+        {
+          "timestamp": "2025-12-16T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "PC",
+            "region": "呼和浩特"
+          }
+        },
+        {
+          "timestamp": "2025-12-03T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "Mobile",
+            "region": "杭州"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "company_id": 1025,
+    "user_profile": {
+      "avg_monthly_usage_hours": 156.82176315804247,
+      "preferred_tech": [
+        "5G",
+        "Blockchain",
+        "Cloud"
+      ],
+      "recent_activity": [
+        {
+          "timestamp": "2025-12-23T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "PC",
+            "region": "宁德"
+          }
+        },
+        {
+          "timestamp": "2025-12-24T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "Mobile",
+            "region": "六安"
+          }
+        },
+        {
+          "timestamp": "2025-12-21T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "PC",
+            "region": "天津"
+          }
+        },
+        {
+          "timestamp": "2025-12-01T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "Mobile",
+            "region": "海门"
+          }
+        },
+        {
+          "timestamp": "2025-12-15T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "Tablet",
+            "region": "潮州"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "company_id": 1026,
+    "user_profile": {
+      "avg_monthly_usage_hours": 114.3572615635052,
+      "preferred_tech": [
+        "AI",
+        "IoT",
+        "BigData"
+      ],
+      "recent_activity": [
+        {
+          "timestamp": "2025-12-04T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "Mobile",
+            "region": "北京"
+          }
+        },
+        {
+          "timestamp": "2025-12-09T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "Tablet",
+            "region": "齐齐哈尔"
+          }
+        },
+        {
+          "timestamp": "2025-12-20T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "Tablet",
+            "region": "邯郸"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "company_id": 1027,
+    "user_profile": {
+      "avg_monthly_usage_hours": 89.91971368705677,
+      "preferred_tech": [
+        "5G",
+        "IoT",
+        "BigData"
+      ],
+      "recent_activity": [
+        {
+          "timestamp": "2025-12-19T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "Mobile",
+            "region": "六安"
+          }
+        },
+        {
+          "timestamp": "2025-12-23T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "Tablet",
+            "region": "宁德"
+          }
+        },
+        {
+          "timestamp": "2025-12-12T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "Mobile",
+            "region": "六盘水"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "company_id": 1028,
+    "user_profile": {
+      "avg_monthly_usage_hours": 129.75725111249375,
+      "preferred_tech": [
+        "AI",
+        "BigData",
+        "5G"
+      ],
+      "recent_activity": [
+        {
+          "timestamp": "2025-12-11T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "PC",
+            "region": "关岭"
+          }
+        },
+        {
+          "timestamp": "2025-11-30T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "Mobile",
+            "region": "广州"
+          }
+        },
+        {
+          "timestamp": "2025-12-19T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "Tablet",
+            "region": "惠州"
+          }
+        },
+        {
+          "timestamp": "2025-12-19T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "Mobile",
+            "region": "广州"
+          }
+        },
+        {
+          "timestamp": "2025-12-10T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "Tablet",
+            "region": "通辽"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "company_id": 1029,
+    "user_profile": {
+      "avg_monthly_usage_hours": 145.73549860488404,
+      "preferred_tech": [
+        "AI",
+        "BigData",
+        "Cloud"
+      ],
+      "recent_activity": [
+        {
+          "timestamp": "2025-12-09T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "Mobile",
+            "region": "荆门"
+          }
+        },
+        {
+          "timestamp": "2025-12-18T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "PC",
+            "region": "惠州"
+          }
+        },
+        {
+          "timestamp": "2025-12-14T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "PC",
+            "region": "重庆"
+          }
+        },
+        {
+          "timestamp": "2025-12-15T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "Mobile",
+            "region": "六安"
+          }
+        },
+        {
+          "timestamp": "2025-12-08T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "Tablet",
+            "region": "阜新"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "company_id": 1030,
+    "user_profile": {
+      "avg_monthly_usage_hours": 109.58902790132215,
+      "preferred_tech": [
+        "IoT",
+        "AI",
+        "Cloud"
+      ],
+      "recent_activity": [
+        {
+          "timestamp": "2025-12-14T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "PC",
+            "region": "马鞍山"
+          }
+        },
+        {
+          "timestamp": "2025-12-05T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "Tablet",
+            "region": "成都"
+          }
+        },
+        {
+          "timestamp": "2025-11-30T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "Tablet",
+            "region": "佛山"
+          }
+        },
+        {
+          "timestamp": "2025-11-27T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "PC",
+            "region": "太原"
+          }
+        },
+        {
+          "timestamp": "2025-12-12T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "Mobile",
+            "region": "六盘水"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "company_id": 1031,
+    "user_profile": {
+      "avg_monthly_usage_hours": 146.15930581978,
+      "preferred_tech": [
+        "IoT",
+        "BigData",
+        "AI"
+      ],
+      "recent_activity": [
+        {
+          "timestamp": "2025-12-03T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "Tablet",
+            "region": "重庆"
+          }
+        },
+        {
+          "timestamp": "2025-11-26T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "Mobile",
+            "region": "巢湖"
+          }
+        },
+        {
+          "timestamp": "2025-12-24T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "PC",
+            "region": "重庆"
+          }
+        },
+        {
+          "timestamp": "2025-12-06T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "Mobile",
+            "region": "兰州"
+          }
+        },
+        {
+          "timestamp": "2025-12-18T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "Tablet",
+            "region": "嘉禾"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "company_id": 1032,
+    "user_profile": {
+      "avg_monthly_usage_hours": 146.10986679807326,
+      "preferred_tech": [
+        "AI",
+        "Cloud",
+        "BigData"
+      ],
+      "recent_activity": [
+        {
+          "timestamp": "2025-11-27T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "Tablet",
+            "region": "合肥"
+          }
+        },
+        {
+          "timestamp": "2025-12-18T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "PC",
+            "region": "佛山"
+          }
+        },
+        {
+          "timestamp": "2025-11-30T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "PC",
+            "region": "昆明"
+          }
+        },
+        {
+          "timestamp": "2025-12-09T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "Mobile",
+            "region": "沈阳"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "company_id": 1033,
+    "user_profile": {
+      "avg_monthly_usage_hours": 113.19173443548867,
+      "preferred_tech": [
+        "AI",
+        "BigData",
+        "Cloud"
+      ],
+      "recent_activity": [
+        {
+          "timestamp": "2025-12-03T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "Tablet",
+            "region": "澳门"
+          }
+        },
+        {
+          "timestamp": "2025-12-21T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "Tablet",
+            "region": "海门"
+          }
+        },
+        {
+          "timestamp": "2025-12-24T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "PC",
+            "region": "兴城"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "company_id": 1034,
+    "user_profile": {
+      "avg_monthly_usage_hours": 171.5228970418042,
+      "preferred_tech": [
+        "IoT",
+        "BigData",
+        "Cloud"
+      ],
+      "recent_activity": [
+        {
+          "timestamp": "2025-12-17T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "Mobile",
+            "region": "南昌"
+          }
+        },
+        {
+          "timestamp": "2025-12-18T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "Mobile",
+            "region": "宜都"
+          }
+        },
+        {
+          "timestamp": "2025-11-30T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "Mobile",
+            "region": "兴城"
+          }
+        },
+        {
+          "timestamp": "2025-11-27T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "PC",
+            "region": "阜新"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "company_id": 1035,
+    "user_profile": {
+      "avg_monthly_usage_hours": 127.18698387774009,
+      "preferred_tech": [
+        "AI",
+        "Blockchain",
+        "Cloud"
+      ],
+      "recent_activity": [
+        {
+          "timestamp": "2025-12-12T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "PC",
+            "region": "海门"
+          }
+        },
+        {
+          "timestamp": "2025-12-07T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "Mobile",
+            "region": "兴安盟"
+          }
+        },
+        {
+          "timestamp": "2025-12-10T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "PC",
+            "region": "宁德"
+          }
+        },
+        {
+          "timestamp": "2025-12-17T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "PC",
+            "region": "香港"
+          }
+        },
+        {
+          "timestamp": "2025-12-22T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "Tablet",
+            "region": "兰州"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "company_id": 1036,
+    "user_profile": {
+      "avg_monthly_usage_hours": 119.09308612457453,
+      "preferred_tech": [
+        "Blockchain",
+        "BigData",
+        "IoT"
+      ],
+      "recent_activity": [
+        {
+          "timestamp": "2025-12-18T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "Mobile",
+            "region": "深圳"
+          }
+        },
+        {
+          "timestamp": "2025-12-02T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "Mobile",
+            "region": "天津"
+          }
+        },
+        {
+          "timestamp": "2025-12-01T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "Mobile",
+            "region": "关岭"
+          }
+        },
+        {
+          "timestamp": "2025-12-21T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "Mobile",
+            "region": "沈阳"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "company_id": 1037,
+    "user_profile": {
+      "avg_monthly_usage_hours": 150.5901115693116,
+      "preferred_tech": [
+        "IoT",
+        "Cloud",
+        "5G"
+      ],
+      "recent_activity": [
+        {
+          "timestamp": "2025-12-11T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "PC",
+            "region": "哈尔滨"
+          }
+        },
+        {
+          "timestamp": "2025-11-29T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "PC",
+            "region": "广州"
+          }
+        },
+        {
+          "timestamp": "2025-12-22T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "Tablet",
+            "region": "石家庄"
+          }
+        },
+        {
+          "timestamp": "2025-11-29T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "PC",
+            "region": "长春"
+          }
+        },
+        {
+          "timestamp": "2025-12-23T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "Tablet",
+            "region": "重庆"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "company_id": 1038,
+    "user_profile": {
+      "avg_monthly_usage_hours": 137.77351156220996,
+      "preferred_tech": [
+        "5G",
+        "BigData",
+        "Blockchain"
+      ],
+      "recent_activity": [
+        {
+          "timestamp": "2025-12-23T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "PC",
+            "region": "海口"
+          }
+        },
+        {
+          "timestamp": "2025-12-15T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "Mobile",
+            "region": "拉萨"
+          }
+        },
+        {
+          "timestamp": "2025-12-10T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "Mobile",
+            "region": "天津"
+          }
+        },
+        {
+          "timestamp": "2025-11-28T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "PC",
+            "region": "长沙"
+          }
+        },
+        {
+          "timestamp": "2025-11-29T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "Tablet",
+            "region": "台北"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "company_id": 1039,
+    "user_profile": {
+      "avg_monthly_usage_hours": 129.46887459021025,
+      "preferred_tech": [
+        "5G",
+        "BigData",
+        "Cloud"
+      ],
+      "recent_activity": [
+        {
+          "timestamp": "2025-12-09T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "Tablet",
+            "region": "太原"
+          }
+        },
+        {
+          "timestamp": "2025-12-16T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "PC",
+            "region": "深圳"
+          }
+        },
+        {
+          "timestamp": "2025-11-28T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "Mobile",
+            "region": "郑州"
+          }
+        },
+        {
+          "timestamp": "2025-11-27T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "PC",
+            "region": "南昌"
+          }
+        },
+        {
+          "timestamp": "2025-12-04T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "Tablet",
+            "region": "佛山"
+          }
+        },
+        {
+          "timestamp": "2025-12-19T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "PC",
+            "region": "香港"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "company_id": 1040,
+    "user_profile": {
+      "avg_monthly_usage_hours": 132.70356295665118,
+      "preferred_tech": [
+        "IoT",
+        "5G",
+        "Blockchain"
+      ],
+      "recent_activity": [
+        {
+          "timestamp": "2025-12-21T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "Tablet",
+            "region": "张家港"
+          }
+        },
+        {
+          "timestamp": "2025-11-25T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "PC",
+            "region": "成都"
+          }
+        },
+        {
+          "timestamp": "2025-12-15T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "Mobile",
+            "region": "郑州"
+          }
+        },
+        {
+          "timestamp": "2025-12-09T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "Mobile",
+            "region": "南京"
+          }
+        },
+        {
+          "timestamp": "2025-12-11T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "PC",
+            "region": "沈阳"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "company_id": 1041,
+    "user_profile": {
+      "avg_monthly_usage_hours": 77.67449185684956,
+      "preferred_tech": [
+        "IoT",
+        "AI",
+        "5G"
+      ],
+      "recent_activity": [
+        {
+          "timestamp": "2025-11-29T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "Mobile",
+            "region": "银川"
+          }
+        },
+        {
+          "timestamp": "2025-11-25T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "PC",
+            "region": "重庆"
+          }
+        },
+        {
+          "timestamp": "2025-12-23T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "PC",
+            "region": "沈阳"
+          }
+        },
+        {
+          "timestamp": "2025-11-28T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "PC",
+            "region": "海门"
+          }
+        },
+        {
+          "timestamp": "2025-12-22T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "Mobile",
+            "region": "巢湖"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "company_id": 1042,
+    "user_profile": {
+      "avg_monthly_usage_hours": 110.11307932052118,
+      "preferred_tech": [
+        "BigData",
+        "IoT",
+        "Blockchain"
+      ],
+      "recent_activity": [
+        {
+          "timestamp": "2025-11-26T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "PC",
+            "region": "拉萨"
+          }
+        },
+        {
+          "timestamp": "2025-12-01T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "Tablet",
+            "region": "乌鲁木齐"
+          }
+        },
+        {
+          "timestamp": "2025-12-03T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "Mobile",
+            "region": "海口"
+          }
+        },
+        {
+          "timestamp": "2025-12-18T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "Mobile",
+            "region": "银川"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "company_id": 1043,
+    "user_profile": {
+      "avg_monthly_usage_hours": 95.34292431999688,
+      "preferred_tech": [
+        "5G",
+        "IoT",
+        "Cloud"
+      ],
+      "recent_activity": [
+        {
+          "timestamp": "2025-12-18T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "Mobile",
+            "region": "邯郸"
+          }
+        },
+        {
+          "timestamp": "2025-12-09T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "Mobile",
+            "region": "济南"
+          }
+        },
+        {
+          "timestamp": "2025-12-06T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "Tablet",
+            "region": "长春"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "company_id": 1044,
+    "user_profile": {
+      "avg_monthly_usage_hours": 174.8749370980774,
+      "preferred_tech": [
+        "BigData",
+        "5G",
+        "AI"
+      ],
+      "recent_activity": [
+        {
+          "timestamp": "2025-12-19T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "Tablet",
+            "region": "哈尔滨"
+          }
+        },
+        {
+          "timestamp": "2025-11-28T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "Tablet",
+            "region": "六盘水"
+          }
+        },
+        {
+          "timestamp": "2025-11-25T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "Mobile",
+            "region": "嘉禾"
+          }
+        },
+        {
+          "timestamp": "2025-12-22T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "Mobile",
+            "region": "张家港"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "company_id": 1045,
+    "user_profile": {
+      "avg_monthly_usage_hours": 173.61108106880224,
+      "preferred_tech": [
+        "Blockchain",
+        "Cloud",
+        "5G"
+      ],
+      "recent_activity": [
+        {
+          "timestamp": "2025-12-01T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "Tablet",
+            "region": "石家庄"
+          }
+        },
+        {
+          "timestamp": "2025-12-09T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "Mobile",
+            "region": "东莞"
+          }
+        },
+        {
+          "timestamp": "2025-12-20T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "Tablet",
+            "region": "阜新"
+          }
+        },
+        {
+          "timestamp": "2025-12-19T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "PC",
+            "region": "上海"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "company_id": 1046,
+    "user_profile": {
+      "avg_monthly_usage_hours": 113.7222798211119,
+      "preferred_tech": [
+        "Cloud",
+        "AI",
+        "IoT"
+      ],
+      "recent_activity": [
+        {
+          "timestamp": "2025-12-18T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "Tablet",
+            "region": "宁德"
+          }
+        },
+        {
+          "timestamp": "2025-12-02T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "Tablet",
+            "region": "惠州"
+          }
+        },
+        {
+          "timestamp": "2025-12-11T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "PC",
+            "region": "银川"
+          }
+        },
+        {
+          "timestamp": "2025-11-28T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "Tablet",
+            "region": "荆门"
+          }
+        },
+        {
+          "timestamp": "2025-12-12T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "PC",
+            "region": "淮安"
+          }
+        },
+        {
+          "timestamp": "2025-12-06T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "PC",
+            "region": "宜都"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "company_id": 1047,
+    "user_profile": {
+      "avg_monthly_usage_hours": 159.99540263839702,
+      "preferred_tech": [
+        "5G",
+        "IoT",
+        "BigData"
+      ],
+      "recent_activity": [
+        {
+          "timestamp": "2025-12-18T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "PC",
+            "region": "长沙"
+          }
+        },
+        {
+          "timestamp": "2025-12-15T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "Tablet",
+            "region": "荆门"
+          }
+        },
+        {
+          "timestamp": "2025-12-20T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "Tablet",
+            "region": "贵阳"
+          }
+        },
+        {
+          "timestamp": "2025-12-03T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "Tablet",
+            "region": "柳州"
+          }
+        },
+        {
+          "timestamp": "2025-12-01T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "Mobile",
+            "region": "通辽"
+          }
+        },
+        {
+          "timestamp": "2025-11-29T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "Tablet",
+            "region": "六盘水"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "company_id": 1048,
+    "user_profile": {
+      "avg_monthly_usage_hours": 163.95719208770052,
+      "preferred_tech": [
+        "BigData",
+        "AI",
+        "5G"
+      ],
+      "recent_activity": [
+        {
+          "timestamp": "2025-12-07T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "Tablet",
+            "region": "潮州"
+          }
+        },
+        {
+          "timestamp": "2025-12-10T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "Mobile",
+            "region": "佛山"
+          }
+        },
+        {
+          "timestamp": "2025-12-17T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "Mobile",
+            "region": "荆门"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "company_id": 1049,
+    "user_profile": {
+      "avg_monthly_usage_hours": 98.53596992711007,
+      "preferred_tech": [
+        "Blockchain",
+        "5G",
+        "AI"
+      ],
+      "recent_activity": [
+        {
+          "timestamp": "2025-11-28T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "Mobile",
+            "region": "通辽"
+          }
+        },
+        {
+          "timestamp": "2025-12-01T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "PC",
+            "region": "兴城"
+          }
+        },
+        {
+          "timestamp": "2025-12-11T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "Mobile",
+            "region": "海口"
+          }
+        },
+        {
+          "timestamp": "2025-11-26T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "Tablet",
+            "region": "西宁"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "company_id": 1050,
+    "user_profile": {
+      "avg_monthly_usage_hours": 112.9652088819675,
+      "preferred_tech": [
+        "BigData",
+        "IoT",
+        "5G"
+      ],
+      "recent_activity": [
+        {
+          "timestamp": "2025-12-14T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "PC",
+            "region": "兴安盟"
+          }
+        },
+        {
+          "timestamp": "2025-12-15T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "Mobile",
+            "region": "大冶"
+          }
+        },
+        {
+          "timestamp": "2025-11-26T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "Tablet",
+            "region": "海口"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "company_id": 1051,
+    "user_profile": {
+      "avg_monthly_usage_hours": 151.34220555532016,
+      "preferred_tech": [
+        "5G",
+        "AI",
+        "IoT"
+      ],
+      "recent_activity": [
+        {
+          "timestamp": "2025-11-25T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "Tablet",
+            "region": "佛山"
+          }
+        },
+        {
+          "timestamp": "2025-12-23T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "Mobile",
+            "region": "海门"
+          }
+        },
+        {
+          "timestamp": "2025-12-14T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "Mobile",
+            "region": "阜新"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "company_id": 1052,
+    "user_profile": {
+      "avg_monthly_usage_hours": 126.47920201410408,
+      "preferred_tech": [
+        "Blockchain",
+        "BigData",
+        "5G"
+      ],
+      "recent_activity": [
+        {
+          "timestamp": "2025-11-30T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "PC",
+            "region": "重庆"
+          }
+        },
+        {
+          "timestamp": "2025-12-03T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "PC",
+            "region": "汕尾"
+          }
+        },
+        {
+          "timestamp": "2025-11-30T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "Mobile",
+            "region": "兴城"
+          }
+        },
+        {
+          "timestamp": "2025-12-10T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "Tablet",
+            "region": "昆明"
+          }
+        },
+        {
+          "timestamp": "2025-11-27T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "Tablet",
+            "region": "惠州"
+          }
+        },
+        {
+          "timestamp": "2025-11-27T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "Tablet",
+            "region": "南昌"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "company_id": 1053,
+    "user_profile": {
+      "avg_monthly_usage_hours": 137.95545402726532,
+      "preferred_tech": [
+        "Blockchain",
+        "BigData",
+        "AI"
+      ],
+      "recent_activity": [
+        {
+          "timestamp": "2025-12-23T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "Tablet",
+            "region": "齐齐哈尔"
+          }
+        },
+        {
+          "timestamp": "2025-12-22T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "Tablet",
+            "region": "澳门"
+          }
+        },
+        {
+          "timestamp": "2025-12-03T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "PC",
+            "region": "阜新"
+          }
+        },
+        {
+          "timestamp": "2025-12-22T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "Mobile",
+            "region": "兴安盟"
+          }
+        },
+        {
+          "timestamp": "2025-11-27T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "Tablet",
+            "region": "兴安盟"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "company_id": 1054,
+    "user_profile": {
+      "avg_monthly_usage_hours": 94.38941876236947,
+      "preferred_tech": [
+        "Cloud",
+        "BigData",
+        "5G"
+      ],
+      "recent_activity": [
+        {
+          "timestamp": "2025-12-10T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "PC",
+            "region": "上海"
+          }
+        },
+        {
+          "timestamp": "2025-12-07T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "Tablet",
+            "region": "柳州"
+          }
+        },
+        {
+          "timestamp": "2025-12-09T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "Tablet",
+            "region": "南宁"
+          }
+        },
+        {
+          "timestamp": "2025-12-15T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "PC",
+            "region": "兰州"
+          }
+        },
+        {
+          "timestamp": "2025-11-30T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "Mobile",
+            "region": "台北"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "company_id": 1055,
+    "user_profile": {
+      "avg_monthly_usage_hours": 156.78178286683047,
+      "preferred_tech": [
+        "Blockchain",
+        "5G",
+        "IoT"
+      ],
+      "recent_activity": [
+        {
+          "timestamp": "2025-12-09T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "Tablet",
+            "region": "永安"
+          }
+        },
+        {
+          "timestamp": "2025-12-16T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "PC",
+            "region": "惠州"
+          }
+        },
+        {
+          "timestamp": "2025-11-27T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "Mobile",
+            "region": "台北"
+          }
+        },
+        {
+          "timestamp": "2025-12-10T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "Tablet",
+            "region": "深圳"
+          }
+        },
+        {
+          "timestamp": "2025-12-17T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "Mobile",
+            "region": "惠州"
+          }
+        },
+        {
+          "timestamp": "2025-12-15T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "Mobile",
+            "region": "大冶"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "company_id": 1056,
+    "user_profile": {
+      "avg_monthly_usage_hours": 135.616761243943,
+      "preferred_tech": [
+        "BigData",
+        "Blockchain",
+        "5G"
+      ],
+      "recent_activity": [
+        {
+          "timestamp": "2025-11-28T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "Tablet",
+            "region": "天津"
+          }
+        },
+        {
+          "timestamp": "2025-11-26T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "PC",
+            "region": "西宁"
+          }
+        },
+        {
+          "timestamp": "2025-11-27T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "PC",
+            "region": "辛集"
+          }
+        },
+        {
+          "timestamp": "2025-12-23T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "Tablet",
+            "region": "广州"
+          }
+        },
+        {
+          "timestamp": "2025-11-27T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "PC",
+            "region": "马鞍山"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "company_id": 1057,
+    "user_profile": {
+      "avg_monthly_usage_hours": 107.51910836539473,
+      "preferred_tech": [
+        "Blockchain",
+        "5G",
+        "IoT"
+      ],
+      "recent_activity": [
+        {
+          "timestamp": "2025-12-20T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "PC",
+            "region": "海口"
+          }
+        },
+        {
+          "timestamp": "2025-11-30T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "PC",
+            "region": "沈阳"
+          }
+        },
+        {
+          "timestamp": "2025-12-06T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "PC",
+            "region": "张家港"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "company_id": 1058,
+    "user_profile": {
+      "avg_monthly_usage_hours": 92.76133866885118,
+      "preferred_tech": [
+        "Cloud",
+        "Blockchain",
+        "BigData"
+      ],
+      "recent_activity": [
+        {
+          "timestamp": "2025-12-17T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "Mobile",
+            "region": "深圳"
+          }
+        },
+        {
+          "timestamp": "2025-11-29T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "Tablet",
+            "region": "合山"
+          }
+        },
+        {
+          "timestamp": "2025-12-10T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "Mobile",
+            "region": "哈尔滨"
+          }
+        },
+        {
+          "timestamp": "2025-12-08T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "Tablet",
+            "region": "嘉禾"
+          }
+        },
+        {
+          "timestamp": "2025-12-17T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "Tablet",
+            "region": "北镇"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "company_id": 1059,
+    "user_profile": {
+      "avg_monthly_usage_hours": 158.53733209433886,
+      "preferred_tech": [
+        "Blockchain",
+        "5G",
+        "BigData"
+      ],
+      "recent_activity": [
+        {
+          "timestamp": "2025-12-16T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "Mobile",
+            "region": "齐齐哈尔"
+          }
+        },
+        {
+          "timestamp": "2025-11-30T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "Mobile",
+            "region": "宜都"
+          }
+        },
+        {
+          "timestamp": "2025-12-08T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "Tablet",
+            "region": "通辽"
+          }
+        },
+        {
+          "timestamp": "2025-12-18T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "Mobile",
+            "region": "沈阳"
+          }
+        },
+        {
+          "timestamp": "2025-12-01T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "Mobile",
+            "region": "香港"
+          }
+        },
+        {
+          "timestamp": "2025-12-15T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "PC",
+            "region": "福州"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "company_id": 1060,
+    "user_profile": {
+      "avg_monthly_usage_hours": 117.61463522426564,
+      "preferred_tech": [
+        "Blockchain",
+        "Cloud",
+        "BigData"
+      ],
+      "recent_activity": [
+        {
+          "timestamp": "2025-12-11T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "Mobile",
+            "region": "济南"
+          }
+        },
+        {
+          "timestamp": "2025-12-21T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "PC",
+            "region": "南宁"
+          }
+        },
+        {
+          "timestamp": "2025-12-02T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "Tablet",
+            "region": "辽阳"
+          }
+        },
+        {
+          "timestamp": "2025-12-13T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "Tablet",
+            "region": "济南"
+          }
+        },
+        {
+          "timestamp": "2025-12-19T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "Mobile",
+            "region": "六盘水"
+          }
+        },
+        {
+          "timestamp": "2025-12-02T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "PC",
+            "region": "昆明"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "company_id": 1061,
+    "user_profile": {
+      "avg_monthly_usage_hours": 147.7786492675118,
+      "preferred_tech": [
+        "Cloud",
+        "5G",
+        "Blockchain"
+      ],
+      "recent_activity": [
+        {
+          "timestamp": "2025-12-20T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "Mobile",
+            "region": "南宁"
+          }
+        },
+        {
+          "timestamp": "2025-12-16T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "Tablet",
+            "region": "南昌"
+          }
+        },
+        {
+          "timestamp": "2025-11-27T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "PC",
+            "region": "潮州"
+          }
+        },
+        {
+          "timestamp": "2025-12-14T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "Tablet",
+            "region": "兴安盟"
+          }
+        },
+        {
+          "timestamp": "2025-12-11T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "Mobile",
+            "region": "合山"
+          }
+        },
+        {
+          "timestamp": "2025-12-05T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "PC",
+            "region": "太原"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "company_id": 1062,
+    "user_profile": {
+      "avg_monthly_usage_hours": 121.82321723238796,
+      "preferred_tech": [
+        "Blockchain",
+        "BigData",
+        "AI"
+      ],
+      "recent_activity": [
+        {
+          "timestamp": "2025-12-01T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "Mobile",
+            "region": "西安"
+          }
+        },
+        {
+          "timestamp": "2025-12-21T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "Mobile",
+            "region": "南宁"
+          }
+        },
+        {
+          "timestamp": "2025-12-15T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "Tablet",
+            "region": "辛集"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "company_id": 1063,
+    "user_profile": {
+      "avg_monthly_usage_hours": 140.40535921284206,
+      "preferred_tech": [
+        "5G",
+        "BigData",
+        "AI"
+      ],
+      "recent_activity": [
+        {
+          "timestamp": "2025-12-07T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "Mobile",
+            "region": "福州"
+          }
+        },
+        {
+          "timestamp": "2025-12-13T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "Mobile",
+            "region": "淮安"
+          }
+        },
+        {
+          "timestamp": "2025-11-29T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "Mobile",
+            "region": "贵阳"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "company_id": 1064,
+    "user_profile": {
+      "avg_monthly_usage_hours": 112.64560625586259,
+      "preferred_tech": [
+        "BigData",
+        "Blockchain",
+        "Cloud"
+      ],
+      "recent_activity": [
+        {
+          "timestamp": "2025-12-18T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "Tablet",
+            "region": "邯郸"
+          }
+        },
+        {
+          "timestamp": "2025-12-13T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "PC",
+            "region": "上海"
+          }
+        },
+        {
+          "timestamp": "2025-12-12T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "PC",
+            "region": "六盘水"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "company_id": 1065,
+    "user_profile": {
+      "avg_monthly_usage_hours": 117.41423199335732,
+      "preferred_tech": [
+        "Cloud",
+        "BigData",
+        "IoT"
+      ],
+      "recent_activity": [
+        {
+          "timestamp": "2025-12-17T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "Mobile",
+            "region": "太原"
+          }
+        },
+        {
+          "timestamp": "2025-12-15T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "PC",
+            "region": "兴安盟"
+          }
+        },
+        {
+          "timestamp": "2025-12-12T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "PC",
+            "region": "长春"
+          }
+        },
+        {
+          "timestamp": "2025-12-05T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "Tablet",
+            "region": "沈阳"
+          }
+        },
+        {
+          "timestamp": "2025-12-22T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "Tablet",
+            "region": "辛集"
+          }
+        },
+        {
+          "timestamp": "2025-11-30T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "Mobile",
+            "region": "太原"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "company_id": 1066,
+    "user_profile": {
+      "avg_monthly_usage_hours": 101.29154700784039,
+      "preferred_tech": [
+        "Cloud",
+        "BigData",
+        "Blockchain"
+      ],
+      "recent_activity": [
+        {
+          "timestamp": "2025-12-06T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "Tablet",
+            "region": "惠州"
+          }
+        },
+        {
+          "timestamp": "2025-12-13T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "Tablet",
+            "region": "银川"
+          }
+        },
+        {
+          "timestamp": "2025-12-06T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "Mobile",
+            "region": "上海"
+          }
+        },
+        {
+          "timestamp": "2025-12-03T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "Tablet",
+            "region": "太原"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "company_id": 1067,
+    "user_profile": {
+      "avg_monthly_usage_hours": 157.5042192273844,
+      "preferred_tech": [
+        "Blockchain",
+        "5G",
+        "IoT"
+      ],
+      "recent_activity": [
+        {
+          "timestamp": "2025-12-22T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "Mobile",
+            "region": "深圳"
+          }
+        },
+        {
+          "timestamp": "2025-12-16T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "Mobile",
+            "region": "潮州"
+          }
+        },
+        {
+          "timestamp": "2025-11-25T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "PC",
+            "region": "潜江"
+          }
+        },
+        {
+          "timestamp": "2025-12-20T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "PC",
+            "region": "阜新"
+          }
+        },
+        {
+          "timestamp": "2025-11-28T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "Tablet",
+            "region": "昆明"
+          }
+        },
+        {
+          "timestamp": "2025-12-16T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "PC",
+            "region": "沈阳"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "company_id": 1068,
+    "user_profile": {
+      "avg_monthly_usage_hours": 118.39782409032068,
+      "preferred_tech": [
+        "5G",
+        "Cloud",
+        "Blockchain"
+      ],
+      "recent_activity": [
+        {
+          "timestamp": "2025-12-11T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "Tablet",
+            "region": "香港"
+          }
+        },
+        {
+          "timestamp": "2025-11-25T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "Mobile",
+            "region": "潮州"
+          }
+        },
+        {
+          "timestamp": "2025-12-22T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "Mobile",
+            "region": "郑州"
+          }
+        },
+        {
+          "timestamp": "2025-11-25T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "PC",
+            "region": "石家庄"
+          }
+        },
+        {
+          "timestamp": "2025-12-17T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "Tablet",
+            "region": "马鞍山"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "company_id": 1069,
+    "user_profile": {
+      "avg_monthly_usage_hours": 122.67901569448385,
+      "preferred_tech": [
+        "AI",
+        "Blockchain",
+        "5G"
+      ],
+      "recent_activity": [
+        {
+          "timestamp": "2025-12-21T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "Mobile",
+            "region": "惠州"
+          }
+        },
+        {
+          "timestamp": "2025-12-21T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "Tablet",
+            "region": "乌鲁木齐"
+          }
+        },
+        {
+          "timestamp": "2025-12-06T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "Tablet",
+            "region": "沈阳"
+          }
+        },
+        {
+          "timestamp": "2025-11-25T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "Tablet",
+            "region": "长沙"
+          }
+        },
+        {
+          "timestamp": "2025-12-16T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "PC",
+            "region": "长沙"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "company_id": 1070,
+    "user_profile": {
+      "avg_monthly_usage_hours": 93.82869909667667,
+      "preferred_tech": [
+        "AI",
+        "IoT",
+        "Cloud"
+      ],
+      "recent_activity": [
+        {
+          "timestamp": "2025-12-05T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "PC",
+            "region": "邯郸"
+          }
+        },
+        {
+          "timestamp": "2025-12-22T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "Mobile",
+            "region": "兰州"
+          }
+        },
+        {
+          "timestamp": "2025-12-20T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "PC",
+            "region": "海口"
+          }
+        },
+        {
+          "timestamp": "2025-11-30T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "Mobile",
+            "region": "济南"
+          }
+        },
+        {
+          "timestamp": "2025-12-06T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "Mobile",
+            "region": "宁德"
+          }
+        },
+        {
+          "timestamp": "2025-12-20T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "Tablet",
+            "region": "广州"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "company_id": 1071,
+    "user_profile": {
+      "avg_monthly_usage_hours": 132.17683061519648,
+      "preferred_tech": [
+        "Cloud",
+        "AI",
+        "Blockchain"
+      ],
+      "recent_activity": [
+        {
+          "timestamp": "2025-12-20T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "Mobile",
+            "region": "柳州"
+          }
+        },
+        {
+          "timestamp": "2025-12-23T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "Mobile",
+            "region": "海门"
+          }
+        },
+        {
+          "timestamp": "2025-12-15T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "Tablet",
+            "region": "大冶"
+          }
+        },
+        {
+          "timestamp": "2025-12-23T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "Mobile",
+            "region": "潜江"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "company_id": 1072,
+    "user_profile": {
+      "avg_monthly_usage_hours": 134.55191515344524,
+      "preferred_tech": [
+        "Cloud",
+        "AI",
+        "Blockchain"
+      ],
+      "recent_activity": [
+        {
+          "timestamp": "2025-11-26T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "PC",
+            "region": "邯郸"
+          }
+        },
+        {
+          "timestamp": "2025-12-18T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "PC",
+            "region": "嘉禾"
+          }
+        },
+        {
+          "timestamp": "2025-12-16T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "PC",
+            "region": "沈阳"
+          }
+        },
+        {
+          "timestamp": "2025-12-18T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "Mobile",
+            "region": "呼和浩特"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "company_id": 1073,
+    "user_profile": {
+      "avg_monthly_usage_hours": 124.97256783714337,
+      "preferred_tech": [
+        "Cloud",
+        "5G",
+        "BigData"
+      ],
+      "recent_activity": [
+        {
+          "timestamp": "2025-11-25T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "PC",
+            "region": "西安"
+          }
+        },
+        {
+          "timestamp": "2025-12-22T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "PC",
+            "region": "杭州"
+          }
+        },
+        {
+          "timestamp": "2025-12-11T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "Mobile",
+            "region": "南昌"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "company_id": 1074,
+    "user_profile": {
+      "avg_monthly_usage_hours": 67.1876040558891,
+      "preferred_tech": [
+        "BigData",
+        "AI",
+        "5G"
+      ],
+      "recent_activity": [
+        {
+          "timestamp": "2025-12-01T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "PC",
+            "region": "澳门"
+          }
+        },
+        {
+          "timestamp": "2025-12-15T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "Mobile",
+            "region": "兰州"
+          }
+        },
+        {
+          "timestamp": "2025-12-06T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "Tablet",
+            "region": "南京"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "company_id": 1075,
+    "user_profile": {
+      "avg_monthly_usage_hours": 90.56010919246455,
+      "preferred_tech": [
+        "Blockchain",
+        "BigData",
+        "5G"
+      ],
+      "recent_activity": [
+        {
+          "timestamp": "2025-11-25T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "Mobile",
+            "region": "台北"
+          }
+        },
+        {
+          "timestamp": "2025-11-28T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "Mobile",
+            "region": "贵阳"
+          }
+        },
+        {
+          "timestamp": "2025-12-01T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "Tablet",
+            "region": "乌鲁木齐"
+          }
+        },
+        {
+          "timestamp": "2025-12-08T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "PC",
+            "region": "南京"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "company_id": 1076,
+    "user_profile": {
+      "avg_monthly_usage_hours": 159.81933681195008,
+      "preferred_tech": [
+        "Cloud",
+        "IoT",
+        "BigData"
+      ],
+      "recent_activity": [
+        {
+          "timestamp": "2025-12-07T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "Mobile",
+            "region": "北京"
+          }
+        },
+        {
+          "timestamp": "2025-11-27T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "PC",
+            "region": "永安"
+          }
+        },
+        {
+          "timestamp": "2025-12-15T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "PC",
+            "region": "大冶"
+          }
+        },
+        {
+          "timestamp": "2025-12-14T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "Tablet",
+            "region": "深圳"
+          }
+        },
+        {
+          "timestamp": "2025-12-21T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "Mobile",
+            "region": "辛集"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "company_id": 1077,
+    "user_profile": {
+      "avg_monthly_usage_hours": 113.8819389094672,
+      "preferred_tech": [
+        "Cloud",
+        "IoT",
+        "Blockchain"
+      ],
+      "recent_activity": [
+        {
+          "timestamp": "2025-12-06T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "PC",
+            "region": "哈尔滨"
+          }
+        },
+        {
+          "timestamp": "2025-12-03T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "Mobile",
+            "region": "福州"
+          }
+        },
+        {
+          "timestamp": "2025-12-12T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "PC",
+            "region": "太原"
+          }
+        },
+        {
+          "timestamp": "2025-11-26T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "Tablet",
+            "region": "太原"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "company_id": 1078,
+    "user_profile": {
+      "avg_monthly_usage_hours": 132.24972662349228,
+      "preferred_tech": [
+        "IoT",
+        "AI",
+        "Cloud"
+      ],
+      "recent_activity": [
+        {
+          "timestamp": "2025-12-21T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "Mobile",
+            "region": "宜都"
+          }
+        },
+        {
+          "timestamp": "2025-12-13T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "PC",
+            "region": "乌鲁木齐"
+          }
+        },
+        {
+          "timestamp": "2025-12-22T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "PC",
+            "region": "福州"
+          }
+        },
+        {
+          "timestamp": "2025-12-16T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "Tablet",
+            "region": "澳门"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "company_id": 1079,
+    "user_profile": {
+      "avg_monthly_usage_hours": 106.21547632765362,
+      "preferred_tech": [
+        "Cloud",
+        "AI",
+        "5G"
+      ],
+      "recent_activity": [
+        {
+          "timestamp": "2025-12-10T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "PC",
+            "region": "拉萨"
+          }
+        },
+        {
+          "timestamp": "2025-12-19T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "PC",
+            "region": "嘉禾"
+          }
+        },
+        {
+          "timestamp": "2025-12-21T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "PC",
+            "region": "郑州"
+          }
+        },
+        {
+          "timestamp": "2025-12-07T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "Mobile",
+            "region": "关岭"
+          }
+        },
+        {
+          "timestamp": "2025-11-29T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "PC",
+            "region": "广州"
+          }
+        },
+        {
+          "timestamp": "2025-12-16T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "Tablet",
+            "region": "长沙"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "company_id": 1080,
+    "user_profile": {
+      "avg_monthly_usage_hours": 159.58088298755206,
+      "preferred_tech": [
+        "5G",
+        "BigData",
+        "IoT"
+      ],
+      "recent_activity": [
+        {
+          "timestamp": "2025-12-08T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "Mobile",
+            "region": "通辽"
+          }
+        },
+        {
+          "timestamp": "2025-12-17T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "PC",
+            "region": "武汉"
+          }
+        },
+        {
+          "timestamp": "2025-12-20T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "PC",
+            "region": "乌鲁木齐"
+          }
+        },
+        {
+          "timestamp": "2025-11-25T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "Mobile",
+            "region": "呼和浩特"
+          }
+        },
+        {
+          "timestamp": "2025-12-18T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "Mobile",
+            "region": "成都"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "company_id": 1081,
+    "user_profile": {
+      "avg_monthly_usage_hours": 122.76022875112058,
+      "preferred_tech": [
+        "Cloud",
+        "BigData",
+        "AI"
+      ],
+      "recent_activity": [
+        {
+          "timestamp": "2025-12-13T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "Mobile",
+            "region": "沈阳"
+          }
+        },
+        {
+          "timestamp": "2025-12-14T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "Tablet",
+            "region": "太原"
+          }
+        },
+        {
+          "timestamp": "2025-12-07T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "Tablet",
+            "region": "潜江"
+          }
+        },
+        {
+          "timestamp": "2025-12-16T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "Mobile",
+            "region": "济南"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "company_id": 1082,
+    "user_profile": {
+      "avg_monthly_usage_hours": 155.94248625149197,
+      "preferred_tech": [
+        "5G",
+        "BigData",
+        "IoT"
+      ],
+      "recent_activity": [
+        {
+          "timestamp": "2025-12-11T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "Mobile",
+            "region": "佛山"
+          }
+        },
+        {
+          "timestamp": "2025-12-14T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "Tablet",
+            "region": "邯郸"
+          }
+        },
+        {
+          "timestamp": "2025-11-30T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "PC",
+            "region": "马鞍山"
+          }
+        },
+        {
+          "timestamp": "2025-11-28T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "Tablet",
+            "region": "通辽"
+          }
+        },
+        {
+          "timestamp": "2025-12-24T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "Mobile",
+            "region": "东莞"
+          }
+        },
+        {
+          "timestamp": "2025-12-05T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "Mobile",
+            "region": "关岭"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "company_id": 1083,
+    "user_profile": {
+      "avg_monthly_usage_hours": 108.47166301039043,
+      "preferred_tech": [
+        "AI",
+        "5G",
+        "Blockchain"
+      ],
+      "recent_activity": [
+        {
+          "timestamp": "2025-12-03T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "PC",
+            "region": "汕尾"
+          }
+        },
+        {
+          "timestamp": "2025-12-04T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "PC",
+            "region": "潜江"
+          }
+        },
+        {
+          "timestamp": "2025-11-29T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "PC",
+            "region": "兰州"
+          }
+        },
+        {
+          "timestamp": "2025-11-25T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "Tablet",
+            "region": "长春"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "company_id": 1084,
+    "user_profile": {
+      "avg_monthly_usage_hours": 163.0457968597567,
+      "preferred_tech": [
+        "5G",
+        "BigData",
+        "Blockchain"
+      ],
+      "recent_activity": [
+        {
+          "timestamp": "2025-11-27T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "PC",
+            "region": "荆门"
+          }
+        },
+        {
+          "timestamp": "2025-12-03T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "Mobile",
+            "region": "兴城"
+          }
+        },
+        {
+          "timestamp": "2025-12-15T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "Tablet",
+            "region": "香港"
+          }
+        },
+        {
+          "timestamp": "2025-12-21T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "Tablet",
+            "region": "重庆"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "company_id": 1085,
+    "user_profile": {
+      "avg_monthly_usage_hours": 97.95688093540045,
+      "preferred_tech": [
+        "Blockchain",
+        "IoT",
+        "Cloud"
+      ],
+      "recent_activity": [
+        {
+          "timestamp": "2025-12-19T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "Mobile",
+            "region": "西宁"
+          }
+        },
+        {
+          "timestamp": "2025-12-12T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "Mobile",
+            "region": "福州"
+          }
+        },
+        {
+          "timestamp": "2025-12-09T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "PC",
+            "region": "天津"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "company_id": 1086,
+    "user_profile": {
+      "avg_monthly_usage_hours": 69.11645807089597,
+      "preferred_tech": [
+        "AI",
+        "5G",
+        "BigData"
+      ],
+      "recent_activity": [
+        {
+          "timestamp": "2025-12-24T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "Tablet",
+            "region": "通辽"
+          }
+        },
+        {
+          "timestamp": "2025-11-30T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "PC",
+            "region": "长春"
+          }
+        },
+        {
+          "timestamp": "2025-12-08T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "Tablet",
+            "region": "贵阳"
+          }
+        },
+        {
+          "timestamp": "2025-12-14T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "Mobile",
+            "region": "深圳"
+          }
+        },
+        {
+          "timestamp": "2025-11-26T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "Mobile",
+            "region": "柳州"
+          }
+        },
+        {
+          "timestamp": "2025-12-04T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "Mobile",
+            "region": "潜江"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "company_id": 1087,
+    "user_profile": {
+      "avg_monthly_usage_hours": 115.42579451014747,
+      "preferred_tech": [
+        "IoT",
+        "5G",
+        "Cloud"
+      ],
+      "recent_activity": [
+        {
+          "timestamp": "2025-12-02T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "PC",
+            "region": "兴安盟"
+          }
+        },
+        {
+          "timestamp": "2025-12-21T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "Mobile",
+            "region": "昆明"
+          }
+        },
+        {
+          "timestamp": "2025-12-22T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "Tablet",
+            "region": "荆门"
+          }
+        },
+        {
+          "timestamp": "2025-12-04T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "Mobile",
+            "region": "惠州"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "company_id": 1088,
+    "user_profile": {
+      "avg_monthly_usage_hours": 113.42699552568344,
+      "preferred_tech": [
+        "Cloud",
+        "BigData",
+        "Blockchain"
+      ],
+      "recent_activity": [
+        {
+          "timestamp": "2025-12-22T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "PC",
+            "region": "西宁"
+          }
+        },
+        {
+          "timestamp": "2025-11-26T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "Mobile",
+            "region": "深圳"
+          }
+        },
+        {
+          "timestamp": "2025-12-10T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "PC",
+            "region": "哈尔滨"
+          }
+        },
+        {
+          "timestamp": "2025-12-21T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "PC",
+            "region": "永安"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "company_id": 1089,
+    "user_profile": {
+      "avg_monthly_usage_hours": 112.56209335957634,
+      "preferred_tech": [
+        "BigData",
+        "IoT",
+        "Cloud"
+      ],
+      "recent_activity": [
+        {
+          "timestamp": "2025-12-05T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "Mobile",
+            "region": "北镇"
+          }
+        },
+        {
+          "timestamp": "2025-11-28T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "Tablet",
+            "region": "兴城"
+          }
+        },
+        {
+          "timestamp": "2025-11-27T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "PC",
+            "region": "银川"
+          }
+        },
+        {
+          "timestamp": "2025-12-06T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "PC",
+            "region": "南京"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "company_id": 1090,
+    "user_profile": {
+      "avg_monthly_usage_hours": 132.88292156206947,
+      "preferred_tech": [
+        "BigData",
+        "Cloud",
+        "Blockchain"
+      ],
+      "recent_activity": [
+        {
+          "timestamp": "2025-12-06T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "PC",
+            "region": "北镇"
+          }
+        },
+        {
+          "timestamp": "2025-12-19T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "Tablet",
+            "region": "永安"
+          }
+        },
+        {
+          "timestamp": "2025-12-07T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "Mobile",
+            "region": "汕尾"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "company_id": 1091,
+    "user_profile": {
+      "avg_monthly_usage_hours": 71.6229172484702,
+      "preferred_tech": [
+        "5G",
+        "AI",
+        "Blockchain"
+      ],
+      "recent_activity": [
+        {
+          "timestamp": "2025-12-11T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "Mobile",
+            "region": "太原"
+          }
+        },
+        {
+          "timestamp": "2025-12-15T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "Tablet",
+            "region": "马鞍山"
+          }
+        },
+        {
+          "timestamp": "2025-12-04T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "PC",
+            "region": "哈尔滨"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "company_id": 1092,
+    "user_profile": {
+      "avg_monthly_usage_hours": 88.70082470887996,
+      "preferred_tech": [
+        "BigData",
+        "Blockchain",
+        "Cloud"
+      ],
+      "recent_activity": [
+        {
+          "timestamp": "2025-12-05T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "PC",
+            "region": "宜都"
+          }
+        },
+        {
+          "timestamp": "2025-12-21T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "PC",
+            "region": "西宁"
+          }
+        },
+        {
+          "timestamp": "2025-12-18T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "Tablet",
+            "region": "辽阳"
+          }
+        },
+        {
+          "timestamp": "2025-11-25T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "Tablet",
+            "region": "香港"
+          }
+        },
+        {
+          "timestamp": "2025-11-27T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "Mobile",
+            "region": "兴城"
+          }
+        },
+        {
+          "timestamp": "2025-11-30T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "Mobile",
+            "region": "郑州"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "company_id": 1093,
+    "user_profile": {
+      "avg_monthly_usage_hours": 130.1027491671387,
+      "preferred_tech": [
+        "Cloud",
+        "Blockchain",
+        "AI"
+      ],
+      "recent_activity": [
+        {
+          "timestamp": "2025-12-07T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "PC",
+            "region": "马鞍山"
+          }
+        },
+        {
+          "timestamp": "2025-11-25T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "PC",
+            "region": "梧州"
+          }
+        },
+        {
+          "timestamp": "2025-12-22T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "Tablet",
+            "region": "北京"
+          }
+        },
+        {
+          "timestamp": "2025-12-01T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "Mobile",
+            "region": "关岭"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "company_id": 1094,
+    "user_profile": {
+      "avg_monthly_usage_hours": 145.46119743846901,
+      "preferred_tech": [
+        "Blockchain",
+        "Cloud",
+        "5G"
+      ],
+      "recent_activity": [
+        {
+          "timestamp": "2025-12-23T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "Mobile",
+            "region": "佛山"
+          }
+        },
+        {
+          "timestamp": "2025-12-05T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "Mobile",
+            "region": "永安"
+          }
+        },
+        {
+          "timestamp": "2025-12-01T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "Mobile",
+            "region": "沈阳"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "company_id": 1095,
+    "user_profile": {
+      "avg_monthly_usage_hours": 129.25400987470414,
+      "preferred_tech": [
+        "Cloud",
+        "BigData",
+        "AI"
+      ],
+      "recent_activity": [
+        {
+          "timestamp": "2025-11-26T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "PC",
+            "region": "南宁"
+          }
+        },
+        {
+          "timestamp": "2025-12-08T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "Tablet",
+            "region": "柳州"
+          }
+        },
+        {
+          "timestamp": "2025-11-27T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "Mobile",
+            "region": "淮安"
+          }
+        },
+        {
+          "timestamp": "2025-12-11T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "PC",
+            "region": "汕尾"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "company_id": 1096,
+    "user_profile": {
+      "avg_monthly_usage_hours": 116.90641007486218,
+      "preferred_tech": [
+        "AI",
+        "Blockchain",
+        "IoT"
+      ],
+      "recent_activity": [
+        {
+          "timestamp": "2025-12-02T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "Mobile",
+            "region": "潜江"
+          }
+        },
+        {
+          "timestamp": "2025-11-30T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "Mobile",
+            "region": "沈阳"
+          }
+        },
+        {
+          "timestamp": "2025-12-13T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "PC",
+            "region": "杭州"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "company_id": 1097,
+    "user_profile": {
+      "avg_monthly_usage_hours": 161.64780011088922,
+      "preferred_tech": [
+        "IoT",
+        "5G",
+        "AI"
+      ],
+      "recent_activity": [
+        {
+          "timestamp": "2025-12-04T05:52:08",
+          "activity_type": "data_submit",
+          "metadata": {
+            "device": "Tablet",
+            "region": "通辽"
+          }
+        },
+        {
+          "timestamp": "2025-11-29T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "PC",
+            "region": "太原"
+          }
+        },
+        {
+          "timestamp": "2025-12-18T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "Mobile",
+            "region": "太原"
+          }
+        },
+        {
+          "timestamp": "2025-11-29T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "Mobile",
+            "region": "潜江"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "company_id": 1098,
+    "user_profile": {
+      "avg_monthly_usage_hours": 107.40267276466363,
+      "preferred_tech": [
+        "BigData",
+        "AI",
+        "Blockchain"
+      ],
+      "recent_activity": [
+        {
+          "timestamp": "2025-12-04T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "Tablet",
+            "region": "惠州"
+          }
+        },
+        {
+          "timestamp": "2025-12-05T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "Tablet",
+            "region": "济南"
+          }
+        },
+        {
+          "timestamp": "2025-12-22T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "Mobile",
+            "region": "重庆"
+          }
+        },
+        {
+          "timestamp": "2025-12-20T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "Tablet",
+            "region": "台北"
+          }
+        },
+        {
+          "timestamp": "2025-12-01T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "Mobile",
+            "region": "南京"
+          }
+        },
+        {
+          "timestamp": "2025-12-03T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "PC",
+            "region": "沈阳"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "company_id": 1099,
+    "user_profile": {
+      "avg_monthly_usage_hours": 91.17384259246535,
+      "preferred_tech": [
+        "BigData",
+        "AI",
+        "IoT"
+      ],
+      "recent_activity": [
+        {
+          "timestamp": "2025-11-28T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "Tablet",
+            "region": "上海"
+          }
+        },
+        {
+          "timestamp": "2025-12-08T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "Tablet",
+            "region": "永安"
+          }
+        },
+        {
+          "timestamp": "2025-12-19T05:52:08",
+          "activity_type": "patent_search",
+          "metadata": {
+            "device": "Mobile",
+            "region": "西宁"
+          }
+        },
+        {
+          "timestamp": "2025-12-14T05:52:08",
+          "activity_type": "blockchain_txn",
+          "metadata": {
+            "device": "Tablet",
+            "region": "广州"
+          }
+        },
+        {
+          "timestamp": "2025-11-28T05:52:08",
+          "activity_type": "login",
+          "metadata": {
+            "device": "Tablet",
+            "region": "郑州"
+          }
+        }
+      ]
+    }
+  }
+]

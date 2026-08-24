@@ -1,0 +1,20 @@
+{
+    "goal": "分析湘财股份2023年归母净利润扭亏为盈的具体因素。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 湘财股份2023年归母净利润预计为1.86亿元，较2022年大幅改善，显示出扭亏为盈的趋势。",
+        "Comparison: 湘财股份2022年营业总收入为10.76亿元，较2021年下降，显示出业绩压力，而2023年预计将回升至24.96亿元。",
+        "Extreme: 湘财股份2022年归母净利润为-3.26亿元，显示出其在2022年面临的极大财务压力。",
+        "Attribution: 湘财股份的业绩改善主要归因于市场环境的改善和金融科技的推动，预计将逐步恢复增长。"
+    ],
+    "summary": "湘财股份在经历了2022年的业绩承压后，预计在2023年实现扭亏为盈，未来几年将逐步恢复增长。",
+    "flag_id": "flag-149",
+    "classifier": "Fund Analysis",
+    "classifier_cn": "基金分析",
+    "input_files": [
+        "output/business_background.txt",
+        "output/dimension_data.db",
+        "output/financial_payloads.json",
+        "output/financial_performance.png"
+    ]
+}

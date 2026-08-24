@@ -1,0 +1,20 @@
+{
+    "goal": "比较不同平台短剧单集付费价格差异对用户付费意愿的影响。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 短剧的制作周期短，商业验证周期高效，现金回流效率高，推动了行业的快速发展。",
+        "Comparison: 短剧在不同平台的用户分布也有所不同，抖音和快手的用户主要集中在二线及以上城市，而小程序短剧的受众则主要分布在非一二线城市。",
+        "Extreme: 短剧播放量累计突破20亿，反映出短剧在市场中的广泛接受度。",
+        "Attribution: 短剧行业的低门槛和多样化的播出渠道导致内容质量参差不齐，市场同质化现象严重，需加强监管以提升整体质量。"
+    ],
+    "summary": "短剧行业的变现模式日益多样化，主要包括单集付费、广告植入和衍生模式。随着短剧题材的多样化，行业面临着内容质量和制作成本的双重挑战。",
+    "flag_id": "flag-44",
+    "classifier": "Short-form Drama",
+    "classifier_cn": "短剧/微短剧内容",
+    "input_files": [
+        "output/business_background.txt",
+        "output/dimension_data.db",
+        "output/payments.csv",
+        "output/user_payment_profiles.json"
+    ]
+}

@@ -1,0 +1,9989 @@
+[
+  {
+    "user_id": "U000001",
+    "risk_score": 30.7,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Bond",
+      "Value",
+      "Growth",
+      "Long-term"
+    ]
+  },
+  {
+    "user_id": "U000002",
+    "risk_score": 16.0,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Growth",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000003",
+    "risk_score": 64.2,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Energy",
+      "Speculation"
+    ]
+  },
+  {
+    "user_id": "U000004",
+    "risk_score": 8.2,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Bond",
+      "Speculation",
+      "ETF",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000005",
+    "risk_score": 38.4,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Dividend",
+      "Long-term",
+      "Bond",
+      "Growth"
+    ]
+  },
+  {
+    "user_id": "U000006",
+    "risk_score": 22.6,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Dividend",
+      "Healthcare",
+      "Growth"
+    ]
+  },
+  {
+    "user_id": "U000007",
+    "risk_score": 15.7,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "Speculation",
+      "Long-term",
+      "Tech"
+    ]
+  },
+  {
+    "user_id": "U000008",
+    "risk_score": 21.0,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Bond",
+      "Tech",
+      "Energy",
+      "Speculation"
+    ]
+  },
+  {
+    "user_id": "U000009",
+    "risk_score": 24.1,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Healthcare",
+      "Energy",
+      "Dividend",
+      "Value"
+    ]
+  },
+  {
+    "user_id": "U000010",
+    "risk_score": 25.1,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Dividend",
+      "Long-term",
+      "Speculation",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000011",
+    "risk_score": 7.8,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Dividend",
+      "Energy",
+      "Growth",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000012",
+    "risk_score": 14.4,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "ETF",
+      "Healthcare",
+      "Growth"
+    ]
+  },
+  {
+    "user_id": "U000013",
+    "risk_score": 41.0,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Speculation",
+      "Value"
+    ]
+  },
+  {
+    "user_id": "U000014",
+    "risk_score": 29.1,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Energy",
+      "ETF",
+      "Long-term"
+    ]
+  },
+  {
+    "user_id": "U000015",
+    "risk_score": 20.1,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Bond",
+      "Growth"
+    ]
+  },
+  {
+    "user_id": "U000016",
+    "risk_score": 27.1,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "ETF",
+      "Long-term",
+      "Growth",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000017",
+    "risk_score": 21.9,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Bond",
+      "Healthcare",
+      "Growth",
+      "ETF"
+    ]
+  },
+  {
+    "user_id": "U000018",
+    "risk_score": 10.1,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Value",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000019",
+    "risk_score": 9.5,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Speculation",
+      "Tech",
+      "Healthcare",
+      "Growth"
+    ]
+  },
+  {
+    "user_id": "U000020",
+    "risk_score": 14.5,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Bond",
+      "Energy"
+    ]
+  },
+  {
+    "user_id": "U000021",
+    "risk_score": 12.4,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "ETF",
+      "Bond",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000022",
+    "risk_score": 50.1,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Value",
+      "ETF",
+      "Long-term",
+      "Speculation"
+    ]
+  },
+  {
+    "user_id": "U000023",
+    "risk_score": 31.3,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Growth",
+      "Value",
+      "Energy"
+    ]
+  },
+  {
+    "user_id": "U000024",
+    "risk_score": 28.6,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Tech",
+      "ETF",
+      "Speculation"
+    ]
+  },
+  {
+    "user_id": "U000025",
+    "risk_score": 6.3,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "Energy",
+      "Long-term",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000026",
+    "risk_score": 10.8,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Tech",
+      "Speculation",
+      "Value"
+    ]
+  },
+  {
+    "user_id": "U000027",
+    "risk_score": 17.9,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Long-term",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000028",
+    "risk_score": 32.0,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "ETF",
+      "Energy",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000029",
+    "risk_score": 22.9,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Speculation",
+      "Tech",
+      "Energy",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000030",
+    "risk_score": 9.3,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Value",
+      "Speculation",
+      "Long-term"
+    ]
+  },
+  {
+    "user_id": "U000031",
+    "risk_score": 14.2,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Bond",
+      "Value"
+    ]
+  },
+  {
+    "user_id": "U000032",
+    "risk_score": 17.1,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "Healthcare",
+      "Speculation"
+    ]
+  },
+  {
+    "user_id": "U000033",
+    "risk_score": 14.1,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Healthcare",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000034",
+    "risk_score": 25.5,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Dividend",
+      "Speculation"
+    ]
+  },
+  {
+    "user_id": "U000035",
+    "risk_score": 44.6,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "ETF",
+      "Healthcare",
+      "Long-term",
+      "Growth"
+    ]
+  },
+  {
+    "user_id": "U000036",
+    "risk_score": 16.6,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Growth",
+      "Dividend",
+      "Long-term",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000037",
+    "risk_score": 48.6,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Value",
+      "Bond",
+      "Energy"
+    ]
+  },
+  {
+    "user_id": "U000038",
+    "risk_score": 28.9,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "ETF",
+      "Healthcare",
+      "Growth"
+    ]
+  },
+  {
+    "user_id": "U000039",
+    "risk_score": 43.8,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Growth",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000040",
+    "risk_score": 29.1,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Dividend",
+      "Speculation",
+      "Energy",
+      "Growth"
+    ]
+  },
+  {
+    "user_id": "U000041",
+    "risk_score": 1.9,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Growth",
+      "Value",
+      "ETF",
+      "Speculation"
+    ]
+  },
+  {
+    "user_id": "U000042",
+    "risk_score": 35.6,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Bond",
+      "Growth",
+      "Speculation"
+    ]
+  },
+  {
+    "user_id": "U000043",
+    "risk_score": 37.8,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Tech",
+      "Energy",
+      "ETF"
+    ]
+  },
+  {
+    "user_id": "U000044",
+    "risk_score": 43.1,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "ETF",
+      "Long-term",
+      "Energy",
+      "Value"
+    ]
+  },
+  {
+    "user_id": "U000045",
+    "risk_score": 58.9,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Tech",
+      "Speculation",
+      "Healthcare",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000046",
+    "risk_score": 28.7,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Bond",
+      "Healthcare",
+      "Value",
+      "Energy"
+    ]
+  },
+  {
+    "user_id": "U000047",
+    "risk_score": 26.6,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Growth",
+      "Tech",
+      "Dividend",
+      "Energy"
+    ]
+  },
+  {
+    "user_id": "U000048",
+    "risk_score": 26.8,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Long-term",
+      "ETF"
+    ]
+  },
+  {
+    "user_id": "U000049",
+    "risk_score": 28.5,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "Speculation",
+      "Long-term",
+      "ETF",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000050",
+    "risk_score": 36.6,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Value",
+      "Bond",
+      "Long-term"
+    ]
+  },
+  {
+    "user_id": "U000051",
+    "risk_score": 10.1,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Value",
+      "Dividend",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000052",
+    "risk_score": 48.0,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Energy",
+      "Dividend",
+      "Healthcare",
+      "ETF"
+    ]
+  },
+  {
+    "user_id": "U000053",
+    "risk_score": 51.8,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Value",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000054",
+    "risk_score": 34.2,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Tech",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000055",
+    "risk_score": 62.3,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Value",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000056",
+    "risk_score": 39.0,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Long-term",
+      "Tech",
+      "Speculation"
+    ]
+  },
+  {
+    "user_id": "U000057",
+    "risk_score": 18.6,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Healthcare",
+      "Tech",
+      "Long-term",
+      "Growth"
+    ]
+  },
+  {
+    "user_id": "U000058",
+    "risk_score": 15.6,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Tech",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000059",
+    "risk_score": 26.6,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Value",
+      "Growth",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000060",
+    "risk_score": 51.5,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Dividend",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000061",
+    "risk_score": 5.4,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Healthcare",
+      "Growth",
+      "Energy"
+    ]
+  },
+  {
+    "user_id": "U000062",
+    "risk_score": 34.8,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "Healthcare",
+      "Energy"
+    ]
+  },
+  {
+    "user_id": "U000063",
+    "risk_score": 8.8,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Speculation",
+      "Tech"
+    ]
+  },
+  {
+    "user_id": "U000064",
+    "risk_score": 32.4,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "Dividend",
+      "Speculation"
+    ]
+  },
+  {
+    "user_id": "U000065",
+    "risk_score": 41.6,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Bond",
+      "Energy"
+    ]
+  },
+  {
+    "user_id": "U000066",
+    "risk_score": 46.4,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Tech",
+      "Healthcare",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000067",
+    "risk_score": 31.6,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Dividend",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000068",
+    "risk_score": 35.6,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "ETF",
+      "Bond",
+      "Long-term"
+    ]
+  },
+  {
+    "user_id": "U000069",
+    "risk_score": 23.1,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Bond",
+      "Long-term",
+      "ETF"
+    ]
+  },
+  {
+    "user_id": "U000070",
+    "risk_score": 28.2,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Energy",
+      "Long-term",
+      "Tech",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000071",
+    "risk_score": 10.3,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Bond",
+      "Energy"
+    ]
+  },
+  {
+    "user_id": "U000072",
+    "risk_score": 43.0,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Energy",
+      "Growth",
+      "Long-term",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000073",
+    "risk_score": 17.4,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "ETF",
+      "Speculation",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000074",
+    "risk_score": 19.8,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Value",
+      "ETF",
+      "Energy",
+      "Tech"
+    ]
+  },
+  {
+    "user_id": "U000075",
+    "risk_score": 28.4,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "Speculation",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000076",
+    "risk_score": 7.4,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Healthcare",
+      "Value",
+      "Long-term"
+    ]
+  },
+  {
+    "user_id": "U000077",
+    "risk_score": 27.9,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Long-term",
+      "Healthcare",
+      "Energy",
+      "Tech"
+    ]
+  },
+  {
+    "user_id": "U000078",
+    "risk_score": 26.4,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Speculation",
+      "Tech"
+    ]
+  },
+  {
+    "user_id": "U000079",
+    "risk_score": 41.1,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "Bond",
+      "Speculation",
+      "Growth"
+    ]
+  },
+  {
+    "user_id": "U000080",
+    "risk_score": 57.7,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Speculation",
+      "Energy"
+    ]
+  },
+  {
+    "user_id": "U000081",
+    "risk_score": 19.2,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "Bond",
+      "Tech",
+      "Energy"
+    ]
+  },
+  {
+    "user_id": "U000082",
+    "risk_score": 12.1,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Value",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000083",
+    "risk_score": 36.5,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "ETF",
+      "Growth",
+      "Value",
+      "Energy"
+    ]
+  },
+  {
+    "user_id": "U000084",
+    "risk_score": 25.7,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Long-term",
+      "Value",
+      "Bond",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000085",
+    "risk_score": 39.3,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Dividend",
+      "Healthcare",
+      "Value"
+    ]
+  },
+  {
+    "user_id": "U000086",
+    "risk_score": 3.9,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Growth",
+      "Value",
+      "ETF",
+      "Speculation"
+    ]
+  },
+  {
+    "user_id": "U000087",
+    "risk_score": 53.4,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Growth",
+      "Healthcare",
+      "ETF",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000088",
+    "risk_score": 51.6,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "Dividend",
+      "Speculation"
+    ]
+  },
+  {
+    "user_id": "U000089",
+    "risk_score": 14.3,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Energy",
+      "Speculation"
+    ]
+  },
+  {
+    "user_id": "U000090",
+    "risk_score": 31.8,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Value",
+      "Speculation",
+      "Growth",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000091",
+    "risk_score": 19.9,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Long-term",
+      "Speculation"
+    ]
+  },
+  {
+    "user_id": "U000092",
+    "risk_score": 33.7,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Bond",
+      "Speculation"
+    ]
+  },
+  {
+    "user_id": "U000093",
+    "risk_score": 42.6,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "ETF",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000094",
+    "risk_score": 30.0,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Healthcare",
+      "Speculation",
+      "ETF",
+      "Tech"
+    ]
+  },
+  {
+    "user_id": "U000095",
+    "risk_score": 39.1,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Energy",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000096",
+    "risk_score": 29.2,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Speculation",
+      "Growth",
+      "Long-term",
+      "ETF"
+    ]
+  },
+  {
+    "user_id": "U000097",
+    "risk_score": 15.3,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Value",
+      "Growth",
+      "Tech"
+    ]
+  },
+  {
+    "user_id": "U000098",
+    "risk_score": 26.9,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Growth",
+      "Dividend",
+      "Healthcare",
+      "Long-term"
+    ]
+  },
+  {
+    "user_id": "U000099",
+    "risk_score": 43.5,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Long-term",
+      "Tech"
+    ]
+  },
+  {
+    "user_id": "U000100",
+    "risk_score": 43.1,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Healthcare",
+      "Long-term",
+      "Growth",
+      "Value"
+    ]
+  },
+  {
+    "user_id": "U000101",
+    "risk_score": 52.8,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Growth",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000102",
+    "risk_score": 33.7,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Bond",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000103",
+    "risk_score": 13.3,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Energy",
+      "Bond",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000104",
+    "risk_score": 15.7,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Dividend",
+      "Bond",
+      "Value",
+      "ETF"
+    ]
+  },
+  {
+    "user_id": "U000105",
+    "risk_score": 15.8,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Value",
+      "Dividend",
+      "Energy"
+    ]
+  },
+  {
+    "user_id": "U000106",
+    "risk_score": 21.6,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Dividend",
+      "Long-term",
+      "Value"
+    ]
+  },
+  {
+    "user_id": "U000107",
+    "risk_score": 26.4,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Energy",
+      "Speculation"
+    ]
+  },
+  {
+    "user_id": "U000108",
+    "risk_score": 20.0,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Tech",
+      "Growth",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000109",
+    "risk_score": 12.8,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Healthcare",
+      "Tech",
+      "Speculation"
+    ]
+  },
+  {
+    "user_id": "U000110",
+    "risk_score": 6.8,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Dividend",
+      "Healthcare",
+      "Value",
+      "Speculation"
+    ]
+  },
+  {
+    "user_id": "U000111",
+    "risk_score": 28.4,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Speculation",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000112",
+    "risk_score": 45.6,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Dividend",
+      "Long-term",
+      "Healthcare",
+      "Energy"
+    ]
+  },
+  {
+    "user_id": "U000113",
+    "risk_score": 22.3,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Dividend",
+      "Long-term",
+      "Speculation"
+    ]
+  },
+  {
+    "user_id": "U000114",
+    "risk_score": 40.3,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Bond",
+      "ETF",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000115",
+    "risk_score": 49.5,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Healthcare",
+      "Dividend",
+      "Energy",
+      "Long-term"
+    ]
+  },
+  {
+    "user_id": "U000116",
+    "risk_score": 16.0,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Value",
+      "Tech"
+    ]
+  },
+  {
+    "user_id": "U000117",
+    "risk_score": 29.3,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Speculation",
+      "Tech",
+      "ETF"
+    ]
+  },
+  {
+    "user_id": "U000118",
+    "risk_score": 30.0,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Healthcare",
+      "Long-term"
+    ]
+  },
+  {
+    "user_id": "U000119",
+    "risk_score": 25.2,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "ETF",
+      "Dividend",
+      "Growth",
+      "Speculation"
+    ]
+  },
+  {
+    "user_id": "U000120",
+    "risk_score": 44.3,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Dividend",
+      "ETF",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000121",
+    "risk_score": 9.1,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Speculation",
+      "Value"
+    ]
+  },
+  {
+    "user_id": "U000122",
+    "risk_score": 20.6,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Tech",
+      "ETF"
+    ]
+  },
+  {
+    "user_id": "U000123",
+    "risk_score": 9.9,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Growth",
+      "Speculation"
+    ]
+  },
+  {
+    "user_id": "U000124",
+    "risk_score": 24.4,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "Long-term",
+      "Growth",
+      "Value"
+    ]
+  },
+  {
+    "user_id": "U000125",
+    "risk_score": 22.4,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "ETF",
+      "Value",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000126",
+    "risk_score": 22.3,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "ETF",
+      "Speculation",
+      "Long-term",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000127",
+    "risk_score": 40.1,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Speculation",
+      "Healthcare",
+      "Growth"
+    ]
+  },
+  {
+    "user_id": "U000128",
+    "risk_score": 26.3,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Tech",
+      "Speculation",
+      "Bond",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000129",
+    "risk_score": 29.8,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Healthcare",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000130",
+    "risk_score": 27.9,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Energy",
+      "Value"
+    ]
+  },
+  {
+    "user_id": "U000131",
+    "risk_score": 33.3,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Long-term",
+      "Healthcare",
+      "ETF"
+    ]
+  },
+  {
+    "user_id": "U000132",
+    "risk_score": 4.7,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Tech",
+      "Long-term"
+    ]
+  },
+  {
+    "user_id": "U000133",
+    "risk_score": 8.7,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Long-term",
+      "ETF"
+    ]
+  },
+  {
+    "user_id": "U000134",
+    "risk_score": 11.2,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Dividend",
+      "ETF"
+    ]
+  },
+  {
+    "user_id": "U000135",
+    "risk_score": 24.8,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Dividend",
+      "Long-term",
+      "Tech"
+    ]
+  },
+  {
+    "user_id": "U000136",
+    "risk_score": 31.5,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Speculation",
+      "Value",
+      "Bond",
+      "Energy"
+    ]
+  },
+  {
+    "user_id": "U000137",
+    "risk_score": 25.1,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Healthcare",
+      "Bond",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000138",
+    "risk_score": 38.0,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Long-term",
+      "Tech",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000139",
+    "risk_score": 12.1,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "Long-term",
+      "Healthcare",
+      "Energy"
+    ]
+  },
+  {
+    "user_id": "U000140",
+    "risk_score": 18.7,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Growth",
+      "Energy"
+    ]
+  },
+  {
+    "user_id": "U000141",
+    "risk_score": 12.6,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Dividend",
+      "Healthcare",
+      "Long-term",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000142",
+    "risk_score": 80.3,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Speculation",
+      "Bond",
+      "Value",
+      "Energy"
+    ]
+  },
+  {
+    "user_id": "U000143",
+    "risk_score": 23.8,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Bond",
+      "Growth"
+    ]
+  },
+  {
+    "user_id": "U000144",
+    "risk_score": 29.3,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Energy",
+      "Long-term"
+    ]
+  },
+  {
+    "user_id": "U000145",
+    "risk_score": 48.3,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "ETF",
+      "Long-term",
+      "Speculation"
+    ]
+  },
+  {
+    "user_id": "U000146",
+    "risk_score": 15.7,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Long-term",
+      "Tech",
+      "Speculation",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000147",
+    "risk_score": 41.3,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Speculation",
+      "Healthcare",
+      "Energy"
+    ]
+  },
+  {
+    "user_id": "U000148",
+    "risk_score": 37.1,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "Healthcare",
+      "Energy"
+    ]
+  },
+  {
+    "user_id": "U000149",
+    "risk_score": 45.4,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "ETF",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000150",
+    "risk_score": 31.9,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Long-term",
+      "Speculation"
+    ]
+  },
+  {
+    "user_id": "U000151",
+    "risk_score": 43.3,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Dividend",
+      "Energy",
+      "Tech",
+      "Value"
+    ]
+  },
+  {
+    "user_id": "U000152",
+    "risk_score": 21.1,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Long-term",
+      "ETF"
+    ]
+  },
+  {
+    "user_id": "U000153",
+    "risk_score": 40.7,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "ETF",
+      "Energy",
+      "Value"
+    ]
+  },
+  {
+    "user_id": "U000154",
+    "risk_score": 65.4,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "Speculation",
+      "ETF"
+    ]
+  },
+  {
+    "user_id": "U000155",
+    "risk_score": 30.8,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Speculation",
+      "Tech",
+      "Healthcare",
+      "Energy"
+    ]
+  },
+  {
+    "user_id": "U000156",
+    "risk_score": 19.1,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Speculation",
+      "ETF",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000157",
+    "risk_score": 16.4,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Dividend",
+      "Value",
+      "Speculation"
+    ]
+  },
+  {
+    "user_id": "U000158",
+    "risk_score": 16.6,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Energy",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000159",
+    "risk_score": 43.4,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Healthcare",
+      "Value",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000160",
+    "risk_score": 4.5,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Growth",
+      "Dividend",
+      "ETF"
+    ]
+  },
+  {
+    "user_id": "U000161",
+    "risk_score": 15.5,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Value",
+      "Tech",
+      "Speculation"
+    ]
+  },
+  {
+    "user_id": "U000162",
+    "risk_score": 26.7,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Long-term",
+      "Value",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000163",
+    "risk_score": 38.8,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "Long-term",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000164",
+    "risk_score": 33.4,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "Value",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000165",
+    "risk_score": 11.4,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Bond",
+      "ETF",
+      "Value",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000166",
+    "risk_score": 22.2,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Bond",
+      "Growth"
+    ]
+  },
+  {
+    "user_id": "U000167",
+    "risk_score": 21.5,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Tech",
+      "Value",
+      "Healthcare",
+      "ETF"
+    ]
+  },
+  {
+    "user_id": "U000168",
+    "risk_score": 62.6,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Value",
+      "Growth"
+    ]
+  },
+  {
+    "user_id": "U000169",
+    "risk_score": 22.1,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Bond",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000170",
+    "risk_score": 48.7,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Bond",
+      "Tech",
+      "Long-term",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000171",
+    "risk_score": 35.6,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Value",
+      "Healthcare",
+      "Tech",
+      "Growth"
+    ]
+  },
+  {
+    "user_id": "U000172",
+    "risk_score": 15.7,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Energy",
+      "Long-term",
+      "Tech",
+      "ETF"
+    ]
+  },
+  {
+    "user_id": "U000173",
+    "risk_score": 13.1,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "ETF",
+      "Healthcare",
+      "Value"
+    ]
+  },
+  {
+    "user_id": "U000174",
+    "risk_score": 32.0,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Energy",
+      "Healthcare",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000175",
+    "risk_score": 2.3,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Dividend",
+      "Energy",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000176",
+    "risk_score": 31.3,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Tech",
+      "Healthcare",
+      "Energy"
+    ]
+  },
+  {
+    "user_id": "U000177",
+    "risk_score": 52.9,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Energy",
+      "Tech",
+      "Growth"
+    ]
+  },
+  {
+    "user_id": "U000178",
+    "risk_score": 30.6,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Bond",
+      "Speculation",
+      "Dividend",
+      "Value"
+    ]
+  },
+  {
+    "user_id": "U000179",
+    "risk_score": 61.2,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Long-term",
+      "ETF",
+      "Energy"
+    ]
+  },
+  {
+    "user_id": "U000180",
+    "risk_score": 24.4,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Energy",
+      "Healthcare",
+      "ETF"
+    ]
+  },
+  {
+    "user_id": "U000181",
+    "risk_score": 17.4,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Value",
+      "Speculation",
+      "Long-term"
+    ]
+  },
+  {
+    "user_id": "U000182",
+    "risk_score": 24.3,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Speculation",
+      "Growth"
+    ]
+  },
+  {
+    "user_id": "U000183",
+    "risk_score": 49.4,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Dividend",
+      "Long-term",
+      "Value"
+    ]
+  },
+  {
+    "user_id": "U000184",
+    "risk_score": 5.3,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Energy",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000185",
+    "risk_score": 10.9,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "ETF",
+      "Value",
+      "Healthcare",
+      "Speculation"
+    ]
+  },
+  {
+    "user_id": "U000186",
+    "risk_score": 27.4,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Healthcare",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000187",
+    "risk_score": 25.6,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Bond",
+      "Speculation",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000188",
+    "risk_score": 35.1,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Growth",
+      "Bond",
+      "ETF"
+    ]
+  },
+  {
+    "user_id": "U000189",
+    "risk_score": 8.6,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Speculation",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000190",
+    "risk_score": 61.5,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Value",
+      "Tech",
+      "Long-term"
+    ]
+  },
+  {
+    "user_id": "U000191",
+    "risk_score": 18.2,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Bond",
+      "Speculation",
+      "Tech",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000192",
+    "risk_score": 6.2,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Speculation",
+      "Value",
+      "Energy",
+      "Long-term"
+    ]
+  },
+  {
+    "user_id": "U000193",
+    "risk_score": 19.1,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Speculation",
+      "ETF",
+      "Value"
+    ]
+  },
+  {
+    "user_id": "U000194",
+    "risk_score": 35.8,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Dividend",
+      "Tech",
+      "Value"
+    ]
+  },
+  {
+    "user_id": "U000195",
+    "risk_score": 28.3,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Dividend",
+      "Growth"
+    ]
+  },
+  {
+    "user_id": "U000196",
+    "risk_score": 45.1,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Long-term",
+      "Value",
+      "Speculation",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000197",
+    "risk_score": 26.3,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "ETF",
+      "Healthcare",
+      "Tech"
+    ]
+  },
+  {
+    "user_id": "U000198",
+    "risk_score": 19.6,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "Speculation",
+      "Growth",
+      "ETF"
+    ]
+  },
+  {
+    "user_id": "U000199",
+    "risk_score": 22.1,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Long-term",
+      "Speculation",
+      "Energy",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000200",
+    "risk_score": 9.6,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "ETF",
+      "Long-term",
+      "Energy",
+      "Tech"
+    ]
+  },
+  {
+    "user_id": "U000201",
+    "risk_score": 33.7,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Value",
+      "Growth",
+      "Long-term"
+    ]
+  },
+  {
+    "user_id": "U000202",
+    "risk_score": 42.7,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Tech",
+      "Long-term",
+      "Speculation"
+    ]
+  },
+  {
+    "user_id": "U000203",
+    "risk_score": 38.9,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Growth",
+      "Long-term"
+    ]
+  },
+  {
+    "user_id": "U000204",
+    "risk_score": 5.6,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Bond",
+      "Speculation",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000205",
+    "risk_score": 54.8,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Long-term",
+      "Speculation",
+      "Value",
+      "Growth"
+    ]
+  },
+  {
+    "user_id": "U000206",
+    "risk_score": 25.1,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "Growth",
+      "Long-term"
+    ]
+  },
+  {
+    "user_id": "U000207",
+    "risk_score": 32.0,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "Healthcare",
+      "Speculation",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000208",
+    "risk_score": 7.2,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Growth",
+      "Dividend",
+      "Long-term"
+    ]
+  },
+  {
+    "user_id": "U000209",
+    "risk_score": 58.1,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Healthcare",
+      "Speculation"
+    ]
+  },
+  {
+    "user_id": "U000210",
+    "risk_score": 18.1,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Dividend",
+      "Value"
+    ]
+  },
+  {
+    "user_id": "U000211",
+    "risk_score": 25.8,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "Value",
+      "Long-term",
+      "ETF"
+    ]
+  },
+  {
+    "user_id": "U000212",
+    "risk_score": 28.6,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Speculation",
+      "Long-term",
+      "ETF"
+    ]
+  },
+  {
+    "user_id": "U000213",
+    "risk_score": 14.2,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Energy",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000214",
+    "risk_score": 41.5,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Bond",
+      "Long-term"
+    ]
+  },
+  {
+    "user_id": "U000215",
+    "risk_score": 22.9,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Tech",
+      "Growth",
+      "Energy"
+    ]
+  },
+  {
+    "user_id": "U000216",
+    "risk_score": 27.0,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Healthcare",
+      "Dividend",
+      "Speculation",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000217",
+    "risk_score": 55.7,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Value",
+      "Healthcare",
+      "ETF",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000218",
+    "risk_score": 19.9,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Growth",
+      "Value",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000219",
+    "risk_score": 38.7,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Dividend",
+      "Energy",
+      "Healthcare",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000220",
+    "risk_score": 46.3,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Energy",
+      "Tech",
+      "Healthcare",
+      "Value"
+    ]
+  },
+  {
+    "user_id": "U000221",
+    "risk_score": 11.8,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Bond",
+      "Value",
+      "Healthcare",
+      "Energy"
+    ]
+  },
+  {
+    "user_id": "U000222",
+    "risk_score": 24.0,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "ETF",
+      "Speculation",
+      "Energy"
+    ]
+  },
+  {
+    "user_id": "U000223",
+    "risk_score": 13.1,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Healthcare",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000224",
+    "risk_score": 41.3,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Dividend",
+      "Value"
+    ]
+  },
+  {
+    "user_id": "U000225",
+    "risk_score": 28.0,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "Healthcare",
+      "Tech",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000226",
+    "risk_score": 24.4,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "ETF",
+      "Energy",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000227",
+    "risk_score": 20.5,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Value",
+      "ETF",
+      "Speculation",
+      "Long-term"
+    ]
+  },
+  {
+    "user_id": "U000228",
+    "risk_score": 8.2,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Dividend",
+      "Growth",
+      "Speculation",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000229",
+    "risk_score": 32.7,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Energy",
+      "ETF",
+      "Tech",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000230",
+    "risk_score": 9.5,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Bond",
+      "Long-term"
+    ]
+  },
+  {
+    "user_id": "U000231",
+    "risk_score": 28.6,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "ETF",
+      "Tech",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000232",
+    "risk_score": 18.9,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Growth",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000233",
+    "risk_score": 21.1,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Bond",
+      "Dividend",
+      "Long-term",
+      "Tech"
+    ]
+  },
+  {
+    "user_id": "U000234",
+    "risk_score": 43.2,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Healthcare",
+      "Growth",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000235",
+    "risk_score": 8.5,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Healthcare",
+      "Growth"
+    ]
+  },
+  {
+    "user_id": "U000236",
+    "risk_score": 3.6,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Energy",
+      "Speculation"
+    ]
+  },
+  {
+    "user_id": "U000237",
+    "risk_score": 66.9,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Speculation",
+      "Long-term",
+      "Energy",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000238",
+    "risk_score": 16.1,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Tech",
+      "ETF"
+    ]
+  },
+  {
+    "user_id": "U000239",
+    "risk_score": 11.0,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "ETF",
+      "Dividend",
+      "Growth"
+    ]
+  },
+  {
+    "user_id": "U000240",
+    "risk_score": 26.1,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Dividend",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000241",
+    "risk_score": 6.8,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "Energy",
+      "Growth",
+      "Tech",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000242",
+    "risk_score": 12.9,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Tech",
+      "Healthcare",
+      "Growth"
+    ]
+  },
+  {
+    "user_id": "U000243",
+    "risk_score": 10.9,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Speculation",
+      "Long-term",
+      "Bond",
+      "ETF"
+    ]
+  },
+  {
+    "user_id": "U000244",
+    "risk_score": 3.5,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Growth",
+      "Energy",
+      "Long-term"
+    ]
+  },
+  {
+    "user_id": "U000245",
+    "risk_score": 23.3,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Growth",
+      "Healthcare",
+      "Speculation",
+      "ETF"
+    ]
+  },
+  {
+    "user_id": "U000246",
+    "risk_score": 7.0,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Healthcare",
+      "Growth",
+      "Value",
+      "ETF"
+    ]
+  },
+  {
+    "user_id": "U000247",
+    "risk_score": 29.8,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Dividend",
+      "Bond",
+      "Growth",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000248",
+    "risk_score": 19.1,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "Healthcare",
+      "Tech",
+      "Growth",
+      "Value"
+    ]
+  },
+  {
+    "user_id": "U000249",
+    "risk_score": 41.8,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Healthcare",
+      "Long-term"
+    ]
+  },
+  {
+    "user_id": "U000250",
+    "risk_score": 10.6,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Dividend",
+      "Bond",
+      "Tech"
+    ]
+  },
+  {
+    "user_id": "U000251",
+    "risk_score": 25.0,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "Energy",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000252",
+    "risk_score": 4.1,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Dividend",
+      "Speculation",
+      "Value",
+      "Long-term"
+    ]
+  },
+  {
+    "user_id": "U000253",
+    "risk_score": 40.2,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Speculation",
+      "Growth",
+      "ETF",
+      "Long-term"
+    ]
+  },
+  {
+    "user_id": "U000254",
+    "risk_score": 11.1,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Value",
+      "ETF"
+    ]
+  },
+  {
+    "user_id": "U000255",
+    "risk_score": 27.6,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Healthcare",
+      "Growth",
+      "Energy"
+    ]
+  },
+  {
+    "user_id": "U000256",
+    "risk_score": 22.7,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Tech",
+      "Speculation"
+    ]
+  },
+  {
+    "user_id": "U000257",
+    "risk_score": 15.7,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Healthcare",
+      "Speculation"
+    ]
+  },
+  {
+    "user_id": "U000258",
+    "risk_score": 29.3,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Growth",
+      "Dividend",
+      "Long-term"
+    ]
+  },
+  {
+    "user_id": "U000259",
+    "risk_score": 12.2,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Growth",
+      "Bond",
+      "Dividend",
+      "Speculation"
+    ]
+  },
+  {
+    "user_id": "U000260",
+    "risk_score": 15.2,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Dividend",
+      "Value"
+    ]
+  },
+  {
+    "user_id": "U000261",
+    "risk_score": 18.9,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Value",
+      "Long-term"
+    ]
+  },
+  {
+    "user_id": "U000262",
+    "risk_score": 27.5,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "Dividend",
+      "Speculation",
+      "Long-term"
+    ]
+  },
+  {
+    "user_id": "U000263",
+    "risk_score": 25.0,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Energy",
+      "Long-term",
+      "Tech"
+    ]
+  },
+  {
+    "user_id": "U000264",
+    "risk_score": 59.9,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Bond",
+      "ETF",
+      "Value",
+      "Speculation"
+    ]
+  },
+  {
+    "user_id": "U000265",
+    "risk_score": 33.3,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Dividend",
+      "ETF",
+      "Healthcare",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000266",
+    "risk_score": 28.1,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Speculation",
+      "Dividend",
+      "Growth"
+    ]
+  },
+  {
+    "user_id": "U000267",
+    "risk_score": 15.2,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "Value",
+      "ETF"
+    ]
+  },
+  {
+    "user_id": "U000268",
+    "risk_score": 28.3,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "ETF",
+      "Speculation",
+      "Long-term",
+      "Value"
+    ]
+  },
+  {
+    "user_id": "U000269",
+    "risk_score": 18.5,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Long-term",
+      "Growth",
+      "Value",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000270",
+    "risk_score": 37.3,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Tech",
+      "Energy",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000271",
+    "risk_score": 15.4,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Speculation",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000272",
+    "risk_score": 25.6,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Bond",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000273",
+    "risk_score": 32.0,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Bond",
+      "ETF"
+    ]
+  },
+  {
+    "user_id": "U000274",
+    "risk_score": 67.1,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Dividend",
+      "Energy",
+      "Long-term"
+    ]
+  },
+  {
+    "user_id": "U000275",
+    "risk_score": 1.5,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Dividend",
+      "Energy",
+      "Long-term",
+      "Growth"
+    ]
+  },
+  {
+    "user_id": "U000276",
+    "risk_score": 44.8,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Energy",
+      "Healthcare",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000277",
+    "risk_score": 10.7,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Speculation",
+      "Healthcare",
+      "ETF"
+    ]
+  },
+  {
+    "user_id": "U000278",
+    "risk_score": 28.5,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Growth",
+      "Long-term",
+      "Tech"
+    ]
+  },
+  {
+    "user_id": "U000279",
+    "risk_score": 62.2,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Dividend",
+      "Energy",
+      "Speculation"
+    ]
+  },
+  {
+    "user_id": "U000280",
+    "risk_score": 15.5,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Value",
+      "ETF",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000281",
+    "risk_score": 21.0,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Dividend",
+      "ETF",
+      "Speculation"
+    ]
+  },
+  {
+    "user_id": "U000282",
+    "risk_score": 35.6,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Healthcare",
+      "Speculation"
+    ]
+  },
+  {
+    "user_id": "U000283",
+    "risk_score": 35.3,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Bond",
+      "Energy",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000284",
+    "risk_score": 35.0,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "ETF",
+      "Tech",
+      "Value"
+    ]
+  },
+  {
+    "user_id": "U000285",
+    "risk_score": 8.6,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Healthcare",
+      "Tech",
+      "Bond",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000286",
+    "risk_score": 20.9,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Energy",
+      "Growth",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000287",
+    "risk_score": 24.4,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Speculation",
+      "Long-term",
+      "Healthcare",
+      "Tech"
+    ]
+  },
+  {
+    "user_id": "U000288",
+    "risk_score": 29.1,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "Energy",
+      "Bond",
+      "ETF"
+    ]
+  },
+  {
+    "user_id": "U000289",
+    "risk_score": 36.9,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Bond",
+      "Long-term",
+      "Growth"
+    ]
+  },
+  {
+    "user_id": "U000290",
+    "risk_score": 52.0,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "ETF",
+      "Value",
+      "Tech",
+      "Long-term"
+    ]
+  },
+  {
+    "user_id": "U000291",
+    "risk_score": 27.4,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Growth",
+      "Dividend",
+      "Energy",
+      "Tech"
+    ]
+  },
+  {
+    "user_id": "U000292",
+    "risk_score": 44.3,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Energy",
+      "Growth",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000293",
+    "risk_score": 27.0,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "Value",
+      "Growth",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000294",
+    "risk_score": 65.7,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "Growth",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000295",
+    "risk_score": 30.2,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Value",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000296",
+    "risk_score": 1.4,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "Dividend",
+      "Value",
+      "Bond",
+      "ETF"
+    ]
+  },
+  {
+    "user_id": "U000297",
+    "risk_score": 21.7,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Value",
+      "Long-term"
+    ]
+  },
+  {
+    "user_id": "U000298",
+    "risk_score": 11.1,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Growth",
+      "Energy",
+      "Value",
+      "Speculation"
+    ]
+  },
+  {
+    "user_id": "U000299",
+    "risk_score": 35.9,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Dividend",
+      "Value",
+      "Energy",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000300",
+    "risk_score": 4.4,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Healthcare",
+      "Speculation"
+    ]
+  },
+  {
+    "user_id": "U000301",
+    "risk_score": 40.7,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Long-term",
+      "Dividend",
+      "Energy",
+      "Value"
+    ]
+  },
+  {
+    "user_id": "U000302",
+    "risk_score": 53.5,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Dividend",
+      "Energy",
+      "Value",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000303",
+    "risk_score": 46.5,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Bond",
+      "Dividend",
+      "Energy",
+      "Long-term"
+    ]
+  },
+  {
+    "user_id": "U000304",
+    "risk_score": 6.6,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Dividend",
+      "Value",
+      "Energy",
+      "Speculation"
+    ]
+  },
+  {
+    "user_id": "U000305",
+    "risk_score": 27.5,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "Tech",
+      "ETF"
+    ]
+  },
+  {
+    "user_id": "U000306",
+    "risk_score": 27.4,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Speculation",
+      "ETF",
+      "Long-term",
+      "Value"
+    ]
+  },
+  {
+    "user_id": "U000307",
+    "risk_score": 14.0,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Energy",
+      "ETF",
+      "Long-term",
+      "Tech"
+    ]
+  },
+  {
+    "user_id": "U000308",
+    "risk_score": 25.9,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "ETF",
+      "Energy"
+    ]
+  },
+  {
+    "user_id": "U000309",
+    "risk_score": 30.0,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Tech",
+      "Long-term",
+      "Energy",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000310",
+    "risk_score": 34.5,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Healthcare",
+      "Tech",
+      "Energy",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000311",
+    "risk_score": 7.3,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Healthcare",
+      "Growth",
+      "Dividend",
+      "Speculation"
+    ]
+  },
+  {
+    "user_id": "U000312",
+    "risk_score": 27.1,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "Dividend",
+      "Growth"
+    ]
+  },
+  {
+    "user_id": "U000313",
+    "risk_score": 38.5,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Healthcare",
+      "Long-term",
+      "Dividend",
+      "ETF"
+    ]
+  },
+  {
+    "user_id": "U000314",
+    "risk_score": 56.0,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Growth",
+      "Long-term"
+    ]
+  },
+  {
+    "user_id": "U000315",
+    "risk_score": 46.8,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Long-term",
+      "ETF",
+      "Speculation"
+    ]
+  },
+  {
+    "user_id": "U000316",
+    "risk_score": 47.0,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Dividend",
+      "Growth",
+      "Value"
+    ]
+  },
+  {
+    "user_id": "U000317",
+    "risk_score": 32.7,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Growth",
+      "Value"
+    ]
+  },
+  {
+    "user_id": "U000318",
+    "risk_score": 29.2,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "Long-term",
+      "Healthcare",
+      "Value",
+      "Growth"
+    ]
+  },
+  {
+    "user_id": "U000319",
+    "risk_score": 14.6,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Dividend",
+      "Growth",
+      "Tech"
+    ]
+  },
+  {
+    "user_id": "U000320",
+    "risk_score": 19.5,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Growth",
+      "Tech"
+    ]
+  },
+  {
+    "user_id": "U000321",
+    "risk_score": 42.1,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Tech",
+      "ETF"
+    ]
+  },
+  {
+    "user_id": "U000322",
+    "risk_score": 16.6,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Energy",
+      "Speculation",
+      "Growth"
+    ]
+  },
+  {
+    "user_id": "U000323",
+    "risk_score": 35.5,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "Speculation",
+      "Growth"
+    ]
+  },
+  {
+    "user_id": "U000324",
+    "risk_score": 49.4,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Long-term",
+      "Healthcare",
+      "Dividend",
+      "Value"
+    ]
+  },
+  {
+    "user_id": "U000325",
+    "risk_score": 8.3,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Value",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000326",
+    "risk_score": 17.5,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Bond",
+      "Healthcare",
+      "Growth",
+      "Value"
+    ]
+  },
+  {
+    "user_id": "U000327",
+    "risk_score": 25.7,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Long-term",
+      "Speculation",
+      "ETF",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000328",
+    "risk_score": 44.0,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Bond",
+      "ETF",
+      "Tech"
+    ]
+  },
+  {
+    "user_id": "U000329",
+    "risk_score": 30.8,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Dividend",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000330",
+    "risk_score": 33.1,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Dividend",
+      "Long-term",
+      "Speculation"
+    ]
+  },
+  {
+    "user_id": "U000331",
+    "risk_score": 13.0,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "ETF",
+      "Healthcare",
+      "Bond",
+      "Energy"
+    ]
+  },
+  {
+    "user_id": "U000332",
+    "risk_score": 30.3,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "ETF",
+      "Speculation"
+    ]
+  },
+  {
+    "user_id": "U000333",
+    "risk_score": 60.7,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Speculation",
+      "Growth"
+    ]
+  },
+  {
+    "user_id": "U000334",
+    "risk_score": 36.7,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Speculation",
+      "Growth",
+      "Long-term"
+    ]
+  },
+  {
+    "user_id": "U000335",
+    "risk_score": 15.6,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Dividend",
+      "ETF"
+    ]
+  },
+  {
+    "user_id": "U000336",
+    "risk_score": 23.5,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Energy",
+      "Long-term",
+      "ETF"
+    ]
+  },
+  {
+    "user_id": "U000337",
+    "risk_score": 35.3,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Tech",
+      "Dividend",
+      "Healthcare",
+      "Value"
+    ]
+  },
+  {
+    "user_id": "U000338",
+    "risk_score": 19.9,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Energy",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000339",
+    "risk_score": 22.3,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Tech",
+      "ETF"
+    ]
+  },
+  {
+    "user_id": "U000340",
+    "risk_score": 23.2,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Energy",
+      "Tech"
+    ]
+  },
+  {
+    "user_id": "U000341",
+    "risk_score": 23.8,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Long-term",
+      "ETF"
+    ]
+  },
+  {
+    "user_id": "U000342",
+    "risk_score": 24.9,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Healthcare",
+      "Bond",
+      "Dividend",
+      "Energy"
+    ]
+  },
+  {
+    "user_id": "U000343",
+    "risk_score": 10.3,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Long-term",
+      "ETF",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000344",
+    "risk_score": 48.3,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Tech",
+      "Long-term",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000345",
+    "risk_score": 48.6,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "ETF",
+      "Growth",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000346",
+    "risk_score": 21.1,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Energy",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000347",
+    "risk_score": 23.8,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Bond",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000348",
+    "risk_score": 19.8,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Bond",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000349",
+    "risk_score": 46.7,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Growth",
+      "Dividend",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000350",
+    "risk_score": 38.9,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Energy",
+      "Value"
+    ]
+  },
+  {
+    "user_id": "U000351",
+    "risk_score": 14.1,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Speculation",
+      "Value"
+    ]
+  },
+  {
+    "user_id": "U000352",
+    "risk_score": 43.6,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Dividend",
+      "Healthcare",
+      "Value"
+    ]
+  },
+  {
+    "user_id": "U000353",
+    "risk_score": 31.2,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Long-term",
+      "ETF",
+      "Speculation",
+      "Tech"
+    ]
+  },
+  {
+    "user_id": "U000354",
+    "risk_score": 50.2,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Value",
+      "Long-term",
+      "ETF",
+      "Tech"
+    ]
+  },
+  {
+    "user_id": "U000355",
+    "risk_score": 37.6,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "ETF",
+      "Energy",
+      "Bond",
+      "Tech"
+    ]
+  },
+  {
+    "user_id": "U000356",
+    "risk_score": 21.2,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Speculation",
+      "Value",
+      "Energy",
+      "ETF"
+    ]
+  },
+  {
+    "user_id": "U000357",
+    "risk_score": 33.7,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Speculation",
+      "ETF",
+      "Energy",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000358",
+    "risk_score": 26.2,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Speculation",
+      "Energy"
+    ]
+  },
+  {
+    "user_id": "U000359",
+    "risk_score": 15.5,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Tech",
+      "Value",
+      "Energy",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000360",
+    "risk_score": 23.9,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Tech",
+      "Speculation",
+      "Growth"
+    ]
+  },
+  {
+    "user_id": "U000361",
+    "risk_score": 61.1,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Dividend",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000362",
+    "risk_score": 17.4,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Growth",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000363",
+    "risk_score": 26.8,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Tech",
+      "ETF",
+      "Energy",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000364",
+    "risk_score": 31.1,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Speculation",
+      "Dividend",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000365",
+    "risk_score": 22.4,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Speculation",
+      "ETF",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000366",
+    "risk_score": 26.3,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Healthcare",
+      "Long-term",
+      "Speculation",
+      "Value"
+    ]
+  },
+  {
+    "user_id": "U000367",
+    "risk_score": 21.5,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Tech",
+      "Energy",
+      "Growth",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000368",
+    "risk_score": 30.9,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "ETF",
+      "Value",
+      "Energy",
+      "Tech"
+    ]
+  },
+  {
+    "user_id": "U000369",
+    "risk_score": 8.8,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Growth",
+      "Value",
+      "Speculation",
+      "Long-term"
+    ]
+  },
+  {
+    "user_id": "U000370",
+    "risk_score": 17.3,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "Growth",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000371",
+    "risk_score": 6.2,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Energy",
+      "Tech",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000372",
+    "risk_score": 26.1,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Growth",
+      "Tech"
+    ]
+  },
+  {
+    "user_id": "U000373",
+    "risk_score": 51.6,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Value",
+      "Speculation",
+      "ETF",
+      "Tech"
+    ]
+  },
+  {
+    "user_id": "U000374",
+    "risk_score": 9.7,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "Energy",
+      "Tech"
+    ]
+  },
+  {
+    "user_id": "U000375",
+    "risk_score": 29.6,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "ETF",
+      "Long-term",
+      "Healthcare",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000376",
+    "risk_score": 36.0,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Speculation",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000377",
+    "risk_score": 25.2,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "Energy",
+      "Long-term"
+    ]
+  },
+  {
+    "user_id": "U000378",
+    "risk_score": 23.8,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "Long-term",
+      "Bond",
+      "Healthcare",
+      "Energy"
+    ]
+  },
+  {
+    "user_id": "U000379",
+    "risk_score": 46.2,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Tech",
+      "Dividend",
+      "Long-term",
+      "Speculation"
+    ]
+  },
+  {
+    "user_id": "U000380",
+    "risk_score": 43.5,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Tech",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000381",
+    "risk_score": 43.5,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Healthcare",
+      "Tech",
+      "ETF"
+    ]
+  },
+  {
+    "user_id": "U000382",
+    "risk_score": 45.0,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Speculation",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000383",
+    "risk_score": 20.2,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Bond",
+      "Energy",
+      "ETF",
+      "Growth"
+    ]
+  },
+  {
+    "user_id": "U000384",
+    "risk_score": 16.4,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Healthcare",
+      "Growth",
+      "Energy"
+    ]
+  },
+  {
+    "user_id": "U000385",
+    "risk_score": 49.6,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Energy",
+      "Long-term",
+      "Speculation"
+    ]
+  },
+  {
+    "user_id": "U000386",
+    "risk_score": 28.2,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Growth",
+      "ETF"
+    ]
+  },
+  {
+    "user_id": "U000387",
+    "risk_score": 65.1,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Bond",
+      "ETF"
+    ]
+  },
+  {
+    "user_id": "U000388",
+    "risk_score": 13.7,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Speculation",
+      "Dividend",
+      "Bond",
+      "Growth"
+    ]
+  },
+  {
+    "user_id": "U000389",
+    "risk_score": 16.4,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Bond",
+      "Growth",
+      "Dividend",
+      "Energy"
+    ]
+  },
+  {
+    "user_id": "U000390",
+    "risk_score": 25.6,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "Long-term",
+      "Growth"
+    ]
+  },
+  {
+    "user_id": "U000391",
+    "risk_score": 4.7,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Bond",
+      "Growth"
+    ]
+  },
+  {
+    "user_id": "U000392",
+    "risk_score": 7.9,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Speculation",
+      "Value",
+      "Tech"
+    ]
+  },
+  {
+    "user_id": "U000393",
+    "risk_score": 23.2,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Speculation",
+      "Bond",
+      "Value"
+    ]
+  },
+  {
+    "user_id": "U000394",
+    "risk_score": 6.2,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Growth",
+      "Energy",
+      "Tech"
+    ]
+  },
+  {
+    "user_id": "U000395",
+    "risk_score": 25.3,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Value",
+      "Tech",
+      "Long-term"
+    ]
+  },
+  {
+    "user_id": "U000396",
+    "risk_score": 8.0,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Healthcare",
+      "Dividend",
+      "Bond",
+      "ETF"
+    ]
+  },
+  {
+    "user_id": "U000397",
+    "risk_score": 36.2,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "ETF",
+      "Healthcare",
+      "Tech"
+    ]
+  },
+  {
+    "user_id": "U000398",
+    "risk_score": 35.1,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "Value",
+      "ETF",
+      "Long-term"
+    ]
+  },
+  {
+    "user_id": "U000399",
+    "risk_score": 2.6,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Tech",
+      "Healthcare",
+      "Value",
+      "ETF"
+    ]
+  },
+  {
+    "user_id": "U000400",
+    "risk_score": 34.9,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Healthcare",
+      "Long-term",
+      "ETF"
+    ]
+  },
+  {
+    "user_id": "U000401",
+    "risk_score": 18.9,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Bond",
+      "ETF",
+      "Speculation"
+    ]
+  },
+  {
+    "user_id": "U000402",
+    "risk_score": 78.6,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Healthcare",
+      "Speculation",
+      "Long-term"
+    ]
+  },
+  {
+    "user_id": "U000403",
+    "risk_score": 25.1,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Healthcare",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000404",
+    "risk_score": 23.6,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Value",
+      "Bond",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000405",
+    "risk_score": 12.5,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Value",
+      "Speculation",
+      "ETF",
+      "Tech"
+    ]
+  },
+  {
+    "user_id": "U000406",
+    "risk_score": 19.4,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Bond",
+      "Energy",
+      "Growth"
+    ]
+  },
+  {
+    "user_id": "U000407",
+    "risk_score": 6.0,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Bond",
+      "Energy",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000408",
+    "risk_score": 40.5,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "ETF",
+      "Healthcare",
+      "Energy",
+      "Tech"
+    ]
+  },
+  {
+    "user_id": "U000409",
+    "risk_score": 11.7,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Healthcare",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000410",
+    "risk_score": 21.4,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "ETF",
+      "Long-term"
+    ]
+  },
+  {
+    "user_id": "U000411",
+    "risk_score": 32.1,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Speculation",
+      "Growth",
+      "Tech",
+      "Energy"
+    ]
+  },
+  {
+    "user_id": "U000412",
+    "risk_score": 15.9,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "Speculation",
+      "Bond",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000413",
+    "risk_score": 50.0,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Energy",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000414",
+    "risk_score": 12.9,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Dividend",
+      "Tech",
+      "Speculation"
+    ]
+  },
+  {
+    "user_id": "U000415",
+    "risk_score": 12.5,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "ETF",
+      "Long-term",
+      "Value"
+    ]
+  },
+  {
+    "user_id": "U000416",
+    "risk_score": 27.0,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "ETF",
+      "Dividend",
+      "Energy"
+    ]
+  },
+  {
+    "user_id": "U000417",
+    "risk_score": 15.9,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "Long-term",
+      "Healthcare",
+      "Bond",
+      "ETF"
+    ]
+  },
+  {
+    "user_id": "U000418",
+    "risk_score": 29.2,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Tech",
+      "Long-term",
+      "ETF",
+      "Energy"
+    ]
+  },
+  {
+    "user_id": "U000419",
+    "risk_score": 41.6,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Energy",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000420",
+    "risk_score": 32.0,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "Growth",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000421",
+    "risk_score": 30.0,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Energy",
+      "Long-term"
+    ]
+  },
+  {
+    "user_id": "U000422",
+    "risk_score": 16.4,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Dividend",
+      "Speculation",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000423",
+    "risk_score": 34.2,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Tech",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000424",
+    "risk_score": 16.3,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Speculation",
+      "ETF",
+      "Dividend",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000425",
+    "risk_score": 15.7,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Dividend",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000426",
+    "risk_score": 30.9,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Tech",
+      "Energy",
+      "Healthcare",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000427",
+    "risk_score": 29.1,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Growth",
+      "Speculation",
+      "ETF",
+      "Energy"
+    ]
+  },
+  {
+    "user_id": "U000428",
+    "risk_score": 20.6,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Dividend",
+      "Energy",
+      "Healthcare",
+      "Growth"
+    ]
+  },
+  {
+    "user_id": "U000429",
+    "risk_score": 11.9,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Energy",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000430",
+    "risk_score": 26.8,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Speculation",
+      "Energy"
+    ]
+  },
+  {
+    "user_id": "U000431",
+    "risk_score": 34.5,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Energy",
+      "Tech",
+      "Bond",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000432",
+    "risk_score": 13.8,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "Tech",
+      "Bond",
+      "Growth"
+    ]
+  },
+  {
+    "user_id": "U000433",
+    "risk_score": 60.0,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Dividend",
+      "Bond",
+      "ETF",
+      "Growth"
+    ]
+  },
+  {
+    "user_id": "U000434",
+    "risk_score": 25.6,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Energy",
+      "ETF",
+      "Bond",
+      "Tech"
+    ]
+  },
+  {
+    "user_id": "U000435",
+    "risk_score": 19.6,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Energy",
+      "Value",
+      "Healthcare",
+      "Growth"
+    ]
+  },
+  {
+    "user_id": "U000436",
+    "risk_score": 27.4,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Energy",
+      "Value"
+    ]
+  },
+  {
+    "user_id": "U000437",
+    "risk_score": 26.6,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Value",
+      "Energy",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000438",
+    "risk_score": 33.7,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "Energy",
+      "Growth",
+      "ETF",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000439",
+    "risk_score": 27.9,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Growth",
+      "Energy",
+      "ETF",
+      "Speculation"
+    ]
+  },
+  {
+    "user_id": "U000440",
+    "risk_score": 6.9,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Growth",
+      "Value",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000441",
+    "risk_score": 2.8,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Energy",
+      "ETF",
+      "Tech",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000442",
+    "risk_score": 6.6,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Long-term",
+      "ETF",
+      "Tech",
+      "Growth"
+    ]
+  },
+  {
+    "user_id": "U000443",
+    "risk_score": 44.6,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Value",
+      "Dividend",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000444",
+    "risk_score": 28.3,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "Growth",
+      "Tech"
+    ]
+  },
+  {
+    "user_id": "U000445",
+    "risk_score": 41.0,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Dividend",
+      "Speculation",
+      "Value"
+    ]
+  },
+  {
+    "user_id": "U000446",
+    "risk_score": 31.7,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "Energy",
+      "Growth"
+    ]
+  },
+  {
+    "user_id": "U000447",
+    "risk_score": 12.2,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Bond",
+      "Long-term",
+      "Value",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000448",
+    "risk_score": 9.5,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Bond",
+      "Value",
+      "Speculation",
+      "ETF"
+    ]
+  },
+  {
+    "user_id": "U000449",
+    "risk_score": 17.3,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Value",
+      "Tech"
+    ]
+  },
+  {
+    "user_id": "U000450",
+    "risk_score": 43.3,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Energy",
+      "Speculation",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000451",
+    "risk_score": 31.8,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "Growth",
+      "Tech"
+    ]
+  },
+  {
+    "user_id": "U000452",
+    "risk_score": 40.1,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Speculation",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000453",
+    "risk_score": 25.8,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Healthcare",
+      "Growth"
+    ]
+  },
+  {
+    "user_id": "U000454",
+    "risk_score": 16.6,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Healthcare",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000455",
+    "risk_score": 37.1,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "ETF",
+      "Growth",
+      "Dividend",
+      "Value"
+    ]
+  },
+  {
+    "user_id": "U000456",
+    "risk_score": 22.1,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Value",
+      "Speculation"
+    ]
+  },
+  {
+    "user_id": "U000457",
+    "risk_score": 5.3,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Speculation",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000458",
+    "risk_score": 54.3,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Energy",
+      "Bond",
+      "Speculation"
+    ]
+  },
+  {
+    "user_id": "U000459",
+    "risk_score": 13.4,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "ETF",
+      "Value"
+    ]
+  },
+  {
+    "user_id": "U000460",
+    "risk_score": 9.9,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Energy",
+      "Long-term"
+    ]
+  },
+  {
+    "user_id": "U000461",
+    "risk_score": 44.9,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Healthcare",
+      "Value",
+      "Long-term"
+    ]
+  },
+  {
+    "user_id": "U000462",
+    "risk_score": 25.2,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Bond",
+      "Dividend",
+      "Energy"
+    ]
+  },
+  {
+    "user_id": "U000463",
+    "risk_score": 28.7,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Value",
+      "Speculation",
+      "Long-term",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000464",
+    "risk_score": 20.6,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Tech",
+      "Energy",
+      "Bond",
+      "Long-term"
+    ]
+  },
+  {
+    "user_id": "U000465",
+    "risk_score": 40.3,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Growth",
+      "Bond",
+      "Tech"
+    ]
+  },
+  {
+    "user_id": "U000466",
+    "risk_score": 16.6,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Tech",
+      "ETF",
+      "Energy"
+    ]
+  },
+  {
+    "user_id": "U000467",
+    "risk_score": 49.7,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Dividend",
+      "ETF"
+    ]
+  },
+  {
+    "user_id": "U000468",
+    "risk_score": 53.8,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "ETF",
+      "Energy",
+      "Long-term",
+      "Tech"
+    ]
+  },
+  {
+    "user_id": "U000469",
+    "risk_score": 10.7,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Healthcare",
+      "Growth"
+    ]
+  },
+  {
+    "user_id": "U000470",
+    "risk_score": 41.5,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Growth",
+      "ETF",
+      "Healthcare",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000471",
+    "risk_score": 8.1,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Value",
+      "ETF",
+      "Dividend",
+      "Tech"
+    ]
+  },
+  {
+    "user_id": "U000472",
+    "risk_score": 6.6,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Long-term",
+      "Growth"
+    ]
+  },
+  {
+    "user_id": "U000473",
+    "risk_score": 31.5,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Energy",
+      "Dividend",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000474",
+    "risk_score": 8.3,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "ETF",
+      "Energy",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000475",
+    "risk_score": 29.3,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "ETF",
+      "Dividend",
+      "Energy"
+    ]
+  },
+  {
+    "user_id": "U000476",
+    "risk_score": 8.6,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Bond",
+      "ETF",
+      "Long-term",
+      "Value"
+    ]
+  },
+  {
+    "user_id": "U000477",
+    "risk_score": 7.6,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Dividend",
+      "Long-term",
+      "Growth",
+      "Tech"
+    ]
+  },
+  {
+    "user_id": "U000478",
+    "risk_score": 40.9,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Bond",
+      "Speculation",
+      "Tech",
+      "Growth"
+    ]
+  },
+  {
+    "user_id": "U000479",
+    "risk_score": 6.3,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Tech",
+      "Value"
+    ]
+  },
+  {
+    "user_id": "U000480",
+    "risk_score": 16.5,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Long-term",
+      "Energy"
+    ]
+  },
+  {
+    "user_id": "U000481",
+    "risk_score": 22.5,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Tech",
+      "Long-term",
+      "Bond",
+      "Growth"
+    ]
+  },
+  {
+    "user_id": "U000482",
+    "risk_score": 40.5,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Dividend",
+      "Long-term"
+    ]
+  },
+  {
+    "user_id": "U000483",
+    "risk_score": 30.2,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Bond",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000484",
+    "risk_score": 3.2,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "Bond",
+      "ETF",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000485",
+    "risk_score": 38.8,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Long-term",
+      "Bond",
+      "Value"
+    ]
+  },
+  {
+    "user_id": "U000486",
+    "risk_score": 15.0,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Tech",
+      "Growth",
+      "Dividend",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000487",
+    "risk_score": 22.1,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Dividend",
+      "Value",
+      "Energy"
+    ]
+  },
+  {
+    "user_id": "U000488",
+    "risk_score": 39.4,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Value",
+      "Healthcare",
+      "Bond",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000489",
+    "risk_score": 30.0,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "Bond",
+      "Long-term",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000490",
+    "risk_score": 20.9,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Long-term",
+      "Bond",
+      "Speculation"
+    ]
+  },
+  {
+    "user_id": "U000491",
+    "risk_score": 14.5,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "ETF",
+      "Value",
+      "Tech"
+    ]
+  },
+  {
+    "user_id": "U000492",
+    "risk_score": 53.2,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Dividend",
+      "Growth"
+    ]
+  },
+  {
+    "user_id": "U000493",
+    "risk_score": 22.0,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "Value",
+      "Speculation",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000494",
+    "risk_score": 28.6,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Healthcare",
+      "Dividend",
+      "Value"
+    ]
+  },
+  {
+    "user_id": "U000495",
+    "risk_score": 16.1,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Bond",
+      "Tech",
+      "Long-term",
+      "Speculation"
+    ]
+  },
+  {
+    "user_id": "U000496",
+    "risk_score": 5.6,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Long-term",
+      "Speculation"
+    ]
+  },
+  {
+    "user_id": "U000497",
+    "risk_score": 62.8,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Healthcare",
+      "Energy",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000498",
+    "risk_score": 12.7,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Energy",
+      "Tech"
+    ]
+  },
+  {
+    "user_id": "U000499",
+    "risk_score": 28.5,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Tech",
+      "Long-term",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000500",
+    "risk_score": 9.4,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Energy",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000501",
+    "risk_score": 25.0,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Bond",
+      "Dividend",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000502",
+    "risk_score": 60.8,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "ETF",
+      "Tech",
+      "Speculation"
+    ]
+  },
+  {
+    "user_id": "U000503",
+    "risk_score": 27.2,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Value",
+      "Tech",
+      "Long-term",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000504",
+    "risk_score": 16.4,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Growth",
+      "Value",
+      "Tech"
+    ]
+  },
+  {
+    "user_id": "U000505",
+    "risk_score": 31.9,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Value",
+      "Energy"
+    ]
+  },
+  {
+    "user_id": "U000506",
+    "risk_score": 43.9,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Bond",
+      "Long-term",
+      "Speculation"
+    ]
+  },
+  {
+    "user_id": "U000507",
+    "risk_score": 11.1,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "ETF",
+      "Healthcare",
+      "Energy",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000508",
+    "risk_score": 66.4,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Dividend",
+      "Long-term",
+      "Tech",
+      "Speculation"
+    ]
+  },
+  {
+    "user_id": "U000509",
+    "risk_score": 77.6,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Growth",
+      "Long-term"
+    ]
+  },
+  {
+    "user_id": "U000510",
+    "risk_score": 28.4,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Value",
+      "Speculation",
+      "Bond",
+      "Tech"
+    ]
+  },
+  {
+    "user_id": "U000511",
+    "risk_score": 29.0,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Growth",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000512",
+    "risk_score": 1.6,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Growth",
+      "Dividend",
+      "ETF",
+      "Value"
+    ]
+  },
+  {
+    "user_id": "U000513",
+    "risk_score": 22.0,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "ETF",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000514",
+    "risk_score": 3.5,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Dividend",
+      "Tech",
+      "Healthcare",
+      "Speculation"
+    ]
+  },
+  {
+    "user_id": "U000515",
+    "risk_score": 18.9,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "ETF",
+      "Dividend",
+      "Value",
+      "Long-term"
+    ]
+  },
+  {
+    "user_id": "U000516",
+    "risk_score": 34.4,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "Bond",
+      "ETF",
+      "Energy"
+    ]
+  },
+  {
+    "user_id": "U000517",
+    "risk_score": 38.1,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "Growth",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000518",
+    "risk_score": 17.8,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Healthcare",
+      "Long-term"
+    ]
+  },
+  {
+    "user_id": "U000519",
+    "risk_score": 26.0,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Value",
+      "Long-term",
+      "Growth"
+    ]
+  },
+  {
+    "user_id": "U000520",
+    "risk_score": 51.4,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Value",
+      "Healthcare",
+      "Speculation"
+    ]
+  },
+  {
+    "user_id": "U000521",
+    "risk_score": 16.7,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Tech",
+      "Growth"
+    ]
+  },
+  {
+    "user_id": "U000522",
+    "risk_score": 44.0,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Long-term",
+      "Value",
+      "Energy"
+    ]
+  },
+  {
+    "user_id": "U000523",
+    "risk_score": 40.4,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Long-term",
+      "Bond",
+      "Growth",
+      "Energy"
+    ]
+  },
+  {
+    "user_id": "U000524",
+    "risk_score": 50.3,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "ETF",
+      "Healthcare",
+      "Speculation"
+    ]
+  },
+  {
+    "user_id": "U000525",
+    "risk_score": 39.3,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Long-term",
+      "Energy"
+    ]
+  },
+  {
+    "user_id": "U000526",
+    "risk_score": 11.4,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Growth",
+      "Long-term"
+    ]
+  },
+  {
+    "user_id": "U000527",
+    "risk_score": 16.5,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Bond",
+      "ETF",
+      "Speculation"
+    ]
+  },
+  {
+    "user_id": "U000528",
+    "risk_score": 17.3,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Long-term",
+      "Bond",
+      "Tech"
+    ]
+  },
+  {
+    "user_id": "U000529",
+    "risk_score": 68.3,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Energy",
+      "Bond",
+      "Tech"
+    ]
+  },
+  {
+    "user_id": "U000530",
+    "risk_score": 25.0,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "Dividend",
+      "Bond",
+      "Healthcare",
+      "Value"
+    ]
+  },
+  {
+    "user_id": "U000531",
+    "risk_score": 17.5,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Bond",
+      "Speculation",
+      "ETF"
+    ]
+  },
+  {
+    "user_id": "U000532",
+    "risk_score": 33.6,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Healthcare",
+      "Tech"
+    ]
+  },
+  {
+    "user_id": "U000533",
+    "risk_score": 26.3,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "Long-term",
+      "Healthcare",
+      "Speculation",
+      "Energy"
+    ]
+  },
+  {
+    "user_id": "U000534",
+    "risk_score": 19.4,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Healthcare",
+      "Long-term",
+      "Tech",
+      "Energy"
+    ]
+  },
+  {
+    "user_id": "U000535",
+    "risk_score": 35.6,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Bond",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000536",
+    "risk_score": 23.7,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Tech",
+      "Long-term",
+      "Energy",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000537",
+    "risk_score": 12.6,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Energy",
+      "ETF"
+    ]
+  },
+  {
+    "user_id": "U000538",
+    "risk_score": 17.2,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Bond",
+      "Speculation"
+    ]
+  },
+  {
+    "user_id": "U000539",
+    "risk_score": 48.3,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Dividend",
+      "ETF",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000540",
+    "risk_score": 10.2,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Speculation",
+      "Energy",
+      "Growth"
+    ]
+  },
+  {
+    "user_id": "U000541",
+    "risk_score": 17.2,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Long-term",
+      "Tech",
+      "Energy"
+    ]
+  },
+  {
+    "user_id": "U000542",
+    "risk_score": 22.7,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Value",
+      "Dividend",
+      "Speculation"
+    ]
+  },
+  {
+    "user_id": "U000543",
+    "risk_score": 19.3,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Speculation",
+      "Dividend",
+      "Bond",
+      "Tech"
+    ]
+  },
+  {
+    "user_id": "U000544",
+    "risk_score": 2.5,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Speculation",
+      "Bond",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000545",
+    "risk_score": 29.4,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Dividend",
+      "Value",
+      "Energy",
+      "ETF"
+    ]
+  },
+  {
+    "user_id": "U000546",
+    "risk_score": 27.3,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "ETF",
+      "Energy",
+      "Tech"
+    ]
+  },
+  {
+    "user_id": "U000547",
+    "risk_score": 11.8,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "Long-term",
+      "Value",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000548",
+    "risk_score": 24.7,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "ETF",
+      "Value"
+    ]
+  },
+  {
+    "user_id": "U000549",
+    "risk_score": 19.8,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Long-term",
+      "Growth",
+      "Healthcare",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000550",
+    "risk_score": 52.2,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Bond",
+      "Energy",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000551",
+    "risk_score": 47.2,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Bond",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000552",
+    "risk_score": 26.6,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "Long-term",
+      "ETF",
+      "Bond",
+      "Energy"
+    ]
+  },
+  {
+    "user_id": "U000553",
+    "risk_score": 18.8,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Healthcare",
+      "Value"
+    ]
+  },
+  {
+    "user_id": "U000554",
+    "risk_score": 13.9,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Dividend",
+      "Speculation",
+      "Growth"
+    ]
+  },
+  {
+    "user_id": "U000555",
+    "risk_score": 16.3,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Healthcare",
+      "Value"
+    ]
+  },
+  {
+    "user_id": "U000556",
+    "risk_score": 19.7,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Value",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000557",
+    "risk_score": 9.2,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Long-term",
+      "Speculation",
+      "Energy"
+    ]
+  },
+  {
+    "user_id": "U000558",
+    "risk_score": 7.6,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Tech",
+      "Dividend",
+      "ETF"
+    ]
+  },
+  {
+    "user_id": "U000559",
+    "risk_score": 41.9,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Dividend",
+      "Healthcare",
+      "ETF"
+    ]
+  },
+  {
+    "user_id": "U000560",
+    "risk_score": 37.6,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Long-term",
+      "Dividend",
+      "Energy"
+    ]
+  },
+  {
+    "user_id": "U000561",
+    "risk_score": 31.8,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Value",
+      "ETF",
+      "Dividend",
+      "Energy"
+    ]
+  },
+  {
+    "user_id": "U000562",
+    "risk_score": 48.6,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "ETF",
+      "Tech"
+    ]
+  },
+  {
+    "user_id": "U000563",
+    "risk_score": 21.2,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "ETF",
+      "Tech",
+      "Growth"
+    ]
+  },
+  {
+    "user_id": "U000564",
+    "risk_score": 21.7,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Long-term",
+      "Tech",
+      "Energy",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000565",
+    "risk_score": 31.9,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Growth",
+      "Energy",
+      "Long-term"
+    ]
+  },
+  {
+    "user_id": "U000566",
+    "risk_score": 25.1,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Tech",
+      "Value",
+      "Dividend",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000567",
+    "risk_score": 35.8,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Healthcare",
+      "Dividend",
+      "ETF"
+    ]
+  },
+  {
+    "user_id": "U000568",
+    "risk_score": 64.8,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Long-term",
+      "Bond",
+      "Energy"
+    ]
+  },
+  {
+    "user_id": "U000569",
+    "risk_score": 8.1,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Speculation",
+      "Energy"
+    ]
+  },
+  {
+    "user_id": "U000570",
+    "risk_score": 34.5,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Energy",
+      "Growth",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000571",
+    "risk_score": 33.4,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Long-term",
+      "Bond",
+      "Growth"
+    ]
+  },
+  {
+    "user_id": "U000572",
+    "risk_score": 10.2,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Tech",
+      "Growth",
+      "Speculation"
+    ]
+  },
+  {
+    "user_id": "U000573",
+    "risk_score": 11.1,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Energy",
+      "Value",
+      "Bond",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000574",
+    "risk_score": 19.1,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "Energy",
+      "Growth",
+      "ETF",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000575",
+    "risk_score": 38.3,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Long-term",
+      "Growth",
+      "Value"
+    ]
+  },
+  {
+    "user_id": "U000576",
+    "risk_score": 45.4,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Long-term",
+      "Value",
+      "Dividend",
+      "Speculation"
+    ]
+  },
+  {
+    "user_id": "U000577",
+    "risk_score": 31.6,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Growth",
+      "Long-term"
+    ]
+  },
+  {
+    "user_id": "U000578",
+    "risk_score": 21.6,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Healthcare",
+      "Tech"
+    ]
+  },
+  {
+    "user_id": "U000579",
+    "risk_score": 8.3,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Tech",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000580",
+    "risk_score": 14.7,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Energy",
+      "ETF",
+      "Value",
+      "Long-term"
+    ]
+  },
+  {
+    "user_id": "U000581",
+    "risk_score": 44.6,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Tech",
+      "ETF",
+      "Value"
+    ]
+  },
+  {
+    "user_id": "U000582",
+    "risk_score": 39.1,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Growth",
+      "Value"
+    ]
+  },
+  {
+    "user_id": "U000583",
+    "risk_score": 22.6,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Healthcare",
+      "Speculation",
+      "ETF"
+    ]
+  },
+  {
+    "user_id": "U000584",
+    "risk_score": 7.3,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Speculation",
+      "Value",
+      "Bond",
+      "ETF"
+    ]
+  },
+  {
+    "user_id": "U000585",
+    "risk_score": 28.2,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Energy",
+      "Value",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000586",
+    "risk_score": 44.0,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Energy",
+      "Speculation",
+      "Long-term"
+    ]
+  },
+  {
+    "user_id": "U000587",
+    "risk_score": 64.0,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Bond",
+      "Long-term"
+    ]
+  },
+  {
+    "user_id": "U000588",
+    "risk_score": 39.4,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Long-term",
+      "ETF",
+      "Value"
+    ]
+  },
+  {
+    "user_id": "U000589",
+    "risk_score": 6.7,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Bond",
+      "Tech",
+      "Value",
+      "Long-term"
+    ]
+  },
+  {
+    "user_id": "U000590",
+    "risk_score": 0.9,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Dividend",
+      "ETF"
+    ]
+  },
+  {
+    "user_id": "U000591",
+    "risk_score": 21.6,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Speculation",
+      "Healthcare",
+      "Tech"
+    ]
+  },
+  {
+    "user_id": "U000592",
+    "risk_score": 21.6,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Growth",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000593",
+    "risk_score": 35.9,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Healthcare",
+      "Long-term",
+      "Growth",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000594",
+    "risk_score": 14.2,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Dividend",
+      "Energy",
+      "Tech"
+    ]
+  },
+  {
+    "user_id": "U000595",
+    "risk_score": 23.5,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Healthcare",
+      "Tech",
+      "Bond",
+      "Energy"
+    ]
+  },
+  {
+    "user_id": "U000596",
+    "risk_score": 8.7,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Growth",
+      "Long-term",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000597",
+    "risk_score": 16.1,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Value",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000598",
+    "risk_score": 5.7,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Growth",
+      "Energy"
+    ]
+  },
+  {
+    "user_id": "U000599",
+    "risk_score": 19.1,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Bond",
+      "Long-term",
+      "Tech",
+      "ETF"
+    ]
+  },
+  {
+    "user_id": "U000600",
+    "risk_score": 30.7,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "ETF",
+      "Growth",
+      "Tech",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000601",
+    "risk_score": 5.0,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "ETF",
+      "Tech",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000602",
+    "risk_score": 40.5,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Speculation",
+      "Growth",
+      "Energy"
+    ]
+  },
+  {
+    "user_id": "U000603",
+    "risk_score": 38.4,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "ETF",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000604",
+    "risk_score": 12.3,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Long-term",
+      "Dividend",
+      "Growth",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000605",
+    "risk_score": 34.8,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Growth",
+      "Energy"
+    ]
+  },
+  {
+    "user_id": "U000606",
+    "risk_score": 20.5,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Energy",
+      "Speculation"
+    ]
+  },
+  {
+    "user_id": "U000607",
+    "risk_score": 35.9,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Speculation",
+      "Value"
+    ]
+  },
+  {
+    "user_id": "U000608",
+    "risk_score": 46.1,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "ETF",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000609",
+    "risk_score": 38.2,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Energy",
+      "ETF"
+    ]
+  },
+  {
+    "user_id": "U000610",
+    "risk_score": 51.7,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Speculation",
+      "Dividend",
+      "ETF"
+    ]
+  },
+  {
+    "user_id": "U000611",
+    "risk_score": 47.8,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Tech",
+      "Dividend",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000612",
+    "risk_score": 26.1,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Speculation",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000613",
+    "risk_score": 4.4,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "ETF",
+      "Healthcare",
+      "Long-term"
+    ]
+  },
+  {
+    "user_id": "U000614",
+    "risk_score": 57.6,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Healthcare",
+      "ETF",
+      "Long-term",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000615",
+    "risk_score": 8.7,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Long-term",
+      "ETF"
+    ]
+  },
+  {
+    "user_id": "U000616",
+    "risk_score": 27.4,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Growth",
+      "Value"
+    ]
+  },
+  {
+    "user_id": "U000617",
+    "risk_score": 12.7,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Value",
+      "Dividend",
+      "Tech",
+      "Growth"
+    ]
+  },
+  {
+    "user_id": "U000618",
+    "risk_score": 26.0,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Tech",
+      "Long-term"
+    ]
+  },
+  {
+    "user_id": "U000619",
+    "risk_score": 11.5,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "ETF",
+      "Speculation"
+    ]
+  },
+  {
+    "user_id": "U000620",
+    "risk_score": 52.5,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Speculation",
+      "Tech"
+    ]
+  },
+  {
+    "user_id": "U000621",
+    "risk_score": 16.7,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Bond",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000622",
+    "risk_score": 41.5,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Dividend",
+      "Long-term",
+      "Value",
+      "Energy"
+    ]
+  },
+  {
+    "user_id": "U000623",
+    "risk_score": 32.0,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Speculation",
+      "Tech"
+    ]
+  },
+  {
+    "user_id": "U000624",
+    "risk_score": 8.8,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Bond",
+      "Long-term",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000625",
+    "risk_score": 27.5,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Dividend",
+      "Long-term",
+      "Tech",
+      "Energy"
+    ]
+  },
+  {
+    "user_id": "U000626",
+    "risk_score": 22.3,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Long-term",
+      "Growth",
+      "Value",
+      "Tech"
+    ]
+  },
+  {
+    "user_id": "U000627",
+    "risk_score": 17.0,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Long-term",
+      "Bond",
+      "Energy",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000628",
+    "risk_score": 37.1,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Long-term",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000629",
+    "risk_score": 38.3,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Value",
+      "Long-term"
+    ]
+  },
+  {
+    "user_id": "U000630",
+    "risk_score": 19.8,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Energy",
+      "Healthcare",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000631",
+    "risk_score": 19.4,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Value",
+      "Growth"
+    ]
+  },
+  {
+    "user_id": "U000632",
+    "risk_score": 41.8,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Healthcare",
+      "Tech",
+      "Long-term",
+      "Value"
+    ]
+  },
+  {
+    "user_id": "U000633",
+    "risk_score": 22.0,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Speculation",
+      "Bond",
+      "Dividend",
+      "ETF"
+    ]
+  },
+  {
+    "user_id": "U000634",
+    "risk_score": 26.3,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Healthcare",
+      "Speculation",
+      "Value"
+    ]
+  },
+  {
+    "user_id": "U000635",
+    "risk_score": 34.4,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "ETF",
+      "Speculation",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000636",
+    "risk_score": 16.7,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "Energy",
+      "Value",
+      "Healthcare",
+      "Speculation"
+    ]
+  },
+  {
+    "user_id": "U000637",
+    "risk_score": 58.6,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Growth",
+      "Healthcare",
+      "Tech",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000638",
+    "risk_score": 21.4,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Dividend",
+      "ETF",
+      "Energy"
+    ]
+  },
+  {
+    "user_id": "U000639",
+    "risk_score": 8.9,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Speculation",
+      "Growth",
+      "ETF"
+    ]
+  },
+  {
+    "user_id": "U000640",
+    "risk_score": 5.5,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Value",
+      "Speculation"
+    ]
+  },
+  {
+    "user_id": "U000641",
+    "risk_score": 68.9,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "ETF",
+      "Energy",
+      "Long-term",
+      "Tech"
+    ]
+  },
+  {
+    "user_id": "U000642",
+    "risk_score": 17.2,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "Bond",
+      "Energy",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000643",
+    "risk_score": 57.7,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Value",
+      "Speculation",
+      "Energy"
+    ]
+  },
+  {
+    "user_id": "U000644",
+    "risk_score": 36.6,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Speculation",
+      "Tech",
+      "Healthcare",
+      "Long-term"
+    ]
+  },
+  {
+    "user_id": "U000645",
+    "risk_score": 19.2,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "ETF",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000646",
+    "risk_score": 31.9,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Long-term",
+      "ETF",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000647",
+    "risk_score": 33.6,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Healthcare",
+      "Energy",
+      "Tech"
+    ]
+  },
+  {
+    "user_id": "U000648",
+    "risk_score": 20.0,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Healthcare",
+      "Bond",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000649",
+    "risk_score": 12.0,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Bond",
+      "Tech",
+      "Dividend",
+      "Energy"
+    ]
+  },
+  {
+    "user_id": "U000650",
+    "risk_score": 29.6,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Long-term",
+      "Tech"
+    ]
+  },
+  {
+    "user_id": "U000651",
+    "risk_score": 24.9,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Value",
+      "Tech"
+    ]
+  },
+  {
+    "user_id": "U000652",
+    "risk_score": 32.3,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Healthcare",
+      "Tech",
+      "Value",
+      "ETF"
+    ]
+  },
+  {
+    "user_id": "U000653",
+    "risk_score": 28.4,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Tech",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000654",
+    "risk_score": 12.3,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Speculation",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000655",
+    "risk_score": 32.8,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Tech",
+      "Growth",
+      "Healthcare",
+      "Speculation"
+    ]
+  },
+  {
+    "user_id": "U000656",
+    "risk_score": 36.7,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Bond",
+      "Healthcare",
+      "Long-term"
+    ]
+  },
+  {
+    "user_id": "U000657",
+    "risk_score": 18.5,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Energy",
+      "Dividend",
+      "Growth",
+      "Tech"
+    ]
+  },
+  {
+    "user_id": "U000658",
+    "risk_score": 14.9,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "ETF",
+      "Speculation",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000659",
+    "risk_score": 17.0,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Energy",
+      "Tech"
+    ]
+  },
+  {
+    "user_id": "U000660",
+    "risk_score": 6.6,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Dividend",
+      "Tech",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000661",
+    "risk_score": 14.1,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Long-term",
+      "ETF",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000662",
+    "risk_score": 12.6,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Speculation",
+      "Growth"
+    ]
+  },
+  {
+    "user_id": "U000663",
+    "risk_score": 4.3,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Healthcare",
+      "Bond",
+      "ETF"
+    ]
+  },
+  {
+    "user_id": "U000664",
+    "risk_score": 60.4,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Energy",
+      "Dividend",
+      "Speculation",
+      "ETF"
+    ]
+  },
+  {
+    "user_id": "U000665",
+    "risk_score": 24.4,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Bond",
+      "Long-term",
+      "Growth",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000666",
+    "risk_score": 33.8,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Tech",
+      "ETF",
+      "Dividend",
+      "Growth"
+    ]
+  },
+  {
+    "user_id": "U000667",
+    "risk_score": 21.7,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Energy",
+      "Healthcare",
+      "Value"
+    ]
+  },
+  {
+    "user_id": "U000668",
+    "risk_score": 56.3,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Long-term",
+      "Bond",
+      "Speculation"
+    ]
+  },
+  {
+    "user_id": "U000669",
+    "risk_score": 26.0,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Bond",
+      "Speculation",
+      "Energy",
+      "Growth"
+    ]
+  },
+  {
+    "user_id": "U000670",
+    "risk_score": 29.0,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Bond",
+      "ETF",
+      "Energy"
+    ]
+  },
+  {
+    "user_id": "U000671",
+    "risk_score": 17.5,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Value",
+      "Speculation"
+    ]
+  },
+  {
+    "user_id": "U000672",
+    "risk_score": 7.4,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "ETF",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000673",
+    "risk_score": 10.4,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Energy",
+      "Growth"
+    ]
+  },
+  {
+    "user_id": "U000674",
+    "risk_score": 33.5,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Long-term",
+      "Tech"
+    ]
+  },
+  {
+    "user_id": "U000675",
+    "risk_score": 32.3,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "Long-term",
+      "Growth"
+    ]
+  },
+  {
+    "user_id": "U000676",
+    "risk_score": 31.1,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Dividend",
+      "Tech"
+    ]
+  },
+  {
+    "user_id": "U000677",
+    "risk_score": 6.5,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Long-term",
+      "Tech",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000678",
+    "risk_score": 46.2,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Energy",
+      "Tech",
+      "Speculation"
+    ]
+  },
+  {
+    "user_id": "U000679",
+    "risk_score": 17.9,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Energy",
+      "Value",
+      "ETF"
+    ]
+  },
+  {
+    "user_id": "U000680",
+    "risk_score": 30.6,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Speculation",
+      "Tech"
+    ]
+  },
+  {
+    "user_id": "U000681",
+    "risk_score": 58.5,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Dividend",
+      "Long-term",
+      "Growth",
+      "ETF"
+    ]
+  },
+  {
+    "user_id": "U000682",
+    "risk_score": 33.4,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Value",
+      "Bond",
+      "Speculation"
+    ]
+  },
+  {
+    "user_id": "U000683",
+    "risk_score": 19.0,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Speculation",
+      "Healthcare",
+      "ETF"
+    ]
+  },
+  {
+    "user_id": "U000684",
+    "risk_score": 42.0,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "ETF",
+      "Bond",
+      "Growth"
+    ]
+  },
+  {
+    "user_id": "U000685",
+    "risk_score": 18.7,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Speculation",
+      "Long-term"
+    ]
+  },
+  {
+    "user_id": "U000686",
+    "risk_score": 3.3,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Long-term",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000687",
+    "risk_score": 14.3,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Dividend",
+      "Long-term",
+      "Value"
+    ]
+  },
+  {
+    "user_id": "U000688",
+    "risk_score": 32.9,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "ETF",
+      "Speculation",
+      "Long-term",
+      "Value"
+    ]
+  },
+  {
+    "user_id": "U000689",
+    "risk_score": 33.2,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Dividend",
+      "Tech",
+      "Growth",
+      "ETF"
+    ]
+  },
+  {
+    "user_id": "U000690",
+    "risk_score": 28.6,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Dividend",
+      "Value",
+      "Tech",
+      "Speculation"
+    ]
+  },
+  {
+    "user_id": "U000691",
+    "risk_score": 60.0,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Energy",
+      "Healthcare",
+      "Tech"
+    ]
+  },
+  {
+    "user_id": "U000692",
+    "risk_score": 5.5,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Growth",
+      "Healthcare",
+      "ETF"
+    ]
+  },
+  {
+    "user_id": "U000693",
+    "risk_score": 2.0,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Bond",
+      "ETF",
+      "Energy",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000694",
+    "risk_score": 50.7,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Healthcare",
+      "ETF",
+      "Tech"
+    ]
+  },
+  {
+    "user_id": "U000695",
+    "risk_score": 34.1,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Bond",
+      "Long-term",
+      "Energy",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000696",
+    "risk_score": 49.3,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Dividend",
+      "ETF",
+      "Healthcare",
+      "Long-term"
+    ]
+  },
+  {
+    "user_id": "U000697",
+    "risk_score": 11.9,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Tech",
+      "Value",
+      "Healthcare",
+      "Growth"
+    ]
+  },
+  {
+    "user_id": "U000698",
+    "risk_score": 64.7,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Speculation",
+      "Long-term",
+      "Value"
+    ]
+  },
+  {
+    "user_id": "U000699",
+    "risk_score": 36.9,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Dividend",
+      "Long-term",
+      "Speculation",
+      "Growth"
+    ]
+  },
+  {
+    "user_id": "U000700",
+    "risk_score": 4.7,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Growth",
+      "ETF"
+    ]
+  },
+  {
+    "user_id": "U000701",
+    "risk_score": 12.8,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Healthcare",
+      "Energy",
+      "Tech",
+      "Long-term"
+    ]
+  },
+  {
+    "user_id": "U000702",
+    "risk_score": 18.7,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Energy",
+      "ETF",
+      "Long-term",
+      "Speculation"
+    ]
+  },
+  {
+    "user_id": "U000703",
+    "risk_score": 29.7,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Tech",
+      "Healthcare",
+      "Speculation",
+      "ETF"
+    ]
+  },
+  {
+    "user_id": "U000704",
+    "risk_score": 67.4,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Speculation",
+      "Value"
+    ]
+  },
+  {
+    "user_id": "U000705",
+    "risk_score": 26.8,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Speculation",
+      "ETF"
+    ]
+  },
+  {
+    "user_id": "U000706",
+    "risk_score": 14.5,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Dividend",
+      "Bond",
+      "Speculation"
+    ]
+  },
+  {
+    "user_id": "U000707",
+    "risk_score": 18.5,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Energy",
+      "Healthcare",
+      "Dividend",
+      "ETF"
+    ]
+  },
+  {
+    "user_id": "U000708",
+    "risk_score": 44.7,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Long-term",
+      "ETF",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000709",
+    "risk_score": 25.5,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Value",
+      "ETF",
+      "Long-term",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000710",
+    "risk_score": 10.8,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "ETF",
+      "Speculation"
+    ]
+  },
+  {
+    "user_id": "U000711",
+    "risk_score": 18.6,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Long-term",
+      "Growth",
+      "ETF"
+    ]
+  },
+  {
+    "user_id": "U000712",
+    "risk_score": 40.6,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "Value",
+      "Dividend",
+      "Growth"
+    ]
+  },
+  {
+    "user_id": "U000713",
+    "risk_score": 14.0,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Speculation",
+      "Dividend",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000714",
+    "risk_score": 21.1,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "Long-term",
+      "Value"
+    ]
+  },
+  {
+    "user_id": "U000715",
+    "risk_score": 29.0,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "Bond",
+      "Growth",
+      "Tech"
+    ]
+  },
+  {
+    "user_id": "U000716",
+    "risk_score": 16.4,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Dividend",
+      "Long-term",
+      "Value",
+      "Energy"
+    ]
+  },
+  {
+    "user_id": "U000717",
+    "risk_score": 21.2,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Bond",
+      "Long-term",
+      "Speculation",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000718",
+    "risk_score": 16.7,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Bond",
+      "Long-term"
+    ]
+  },
+  {
+    "user_id": "U000719",
+    "risk_score": 27.0,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Bond",
+      "Growth",
+      "Tech"
+    ]
+  },
+  {
+    "user_id": "U000720",
+    "risk_score": 48.2,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Growth",
+      "Long-term",
+      "Energy"
+    ]
+  },
+  {
+    "user_id": "U000721",
+    "risk_score": 52.2,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Energy",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000722",
+    "risk_score": 51.1,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Long-term",
+      "Tech",
+      "Growth"
+    ]
+  },
+  {
+    "user_id": "U000723",
+    "risk_score": 2.4,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Growth",
+      "Speculation",
+      "Bond",
+      "Tech"
+    ]
+  },
+  {
+    "user_id": "U000724",
+    "risk_score": 18.9,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Growth",
+      "Long-term",
+      "ETF"
+    ]
+  },
+  {
+    "user_id": "U000725",
+    "risk_score": 20.6,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "Long-term",
+      "Value",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000726",
+    "risk_score": 33.0,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Dividend",
+      "ETF"
+    ]
+  },
+  {
+    "user_id": "U000727",
+    "risk_score": 24.6,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Healthcare",
+      "Energy",
+      "Tech",
+      "Growth"
+    ]
+  },
+  {
+    "user_id": "U000728",
+    "risk_score": 36.0,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Value",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000729",
+    "risk_score": 36.0,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Speculation",
+      "Healthcare",
+      "Value",
+      "Tech"
+    ]
+  },
+  {
+    "user_id": "U000730",
+    "risk_score": 12.3,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Healthcare",
+      "Speculation",
+      "Tech"
+    ]
+  },
+  {
+    "user_id": "U000731",
+    "risk_score": 33.1,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Value",
+      "Tech",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000732",
+    "risk_score": 25.8,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Speculation",
+      "ETF",
+      "Value"
+    ]
+  },
+  {
+    "user_id": "U000733",
+    "risk_score": 27.6,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Long-term",
+      "Healthcare",
+      "ETF"
+    ]
+  },
+  {
+    "user_id": "U000734",
+    "risk_score": 38.0,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Speculation",
+      "Energy",
+      "Value"
+    ]
+  },
+  {
+    "user_id": "U000735",
+    "risk_score": 29.4,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Dividend",
+      "Tech",
+      "Growth"
+    ]
+  },
+  {
+    "user_id": "U000736",
+    "risk_score": 22.4,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Healthcare",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000737",
+    "risk_score": 37.2,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Value",
+      "Bond",
+      "Dividend",
+      "Long-term"
+    ]
+  },
+  {
+    "user_id": "U000738",
+    "risk_score": 33.9,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Long-term",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000739",
+    "risk_score": 69.9,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Healthcare",
+      "Tech"
+    ]
+  },
+  {
+    "user_id": "U000740",
+    "risk_score": 37.6,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Long-term",
+      "Bond",
+      "Value"
+    ]
+  },
+  {
+    "user_id": "U000741",
+    "risk_score": 24.8,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "ETF",
+      "Value"
+    ]
+  },
+  {
+    "user_id": "U000742",
+    "risk_score": 15.5,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Long-term",
+      "ETF",
+      "Growth",
+      "Tech"
+    ]
+  },
+  {
+    "user_id": "U000743",
+    "risk_score": 12.8,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Long-term",
+      "Tech"
+    ]
+  },
+  {
+    "user_id": "U000744",
+    "risk_score": 22.9,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Long-term",
+      "Energy",
+      "ETF",
+      "Growth"
+    ]
+  },
+  {
+    "user_id": "U000745",
+    "risk_score": 29.3,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Value",
+      "Bond",
+      "Energy"
+    ]
+  },
+  {
+    "user_id": "U000746",
+    "risk_score": 8.0,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "ETF",
+      "Growth",
+      "Tech",
+      "Long-term"
+    ]
+  },
+  {
+    "user_id": "U000747",
+    "risk_score": 37.1,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Dividend",
+      "Long-term",
+      "Energy"
+    ]
+  },
+  {
+    "user_id": "U000748",
+    "risk_score": 7.8,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Tech",
+      "ETF",
+      "Healthcare",
+      "Value"
+    ]
+  },
+  {
+    "user_id": "U000749",
+    "risk_score": 11.6,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Growth",
+      "Dividend",
+      "Energy",
+      "Tech"
+    ]
+  },
+  {
+    "user_id": "U000750",
+    "risk_score": 35.8,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "ETF",
+      "Tech",
+      "Growth",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000751",
+    "risk_score": 35.3,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Growth",
+      "Tech"
+    ]
+  },
+  {
+    "user_id": "U000752",
+    "risk_score": 21.6,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "ETF",
+      "Healthcare",
+      "Energy"
+    ]
+  },
+  {
+    "user_id": "U000753",
+    "risk_score": 30.6,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Long-term",
+      "Value",
+      "Speculation",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000754",
+    "risk_score": 39.2,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Value",
+      "Dividend",
+      "Tech",
+      "ETF"
+    ]
+  },
+  {
+    "user_id": "U000755",
+    "risk_score": 26.8,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Value",
+      "Long-term",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000756",
+    "risk_score": 54.7,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Growth",
+      "ETF",
+      "Value",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000757",
+    "risk_score": 35.4,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Value",
+      "Long-term",
+      "Growth"
+    ]
+  },
+  {
+    "user_id": "U000758",
+    "risk_score": 36.0,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "Healthcare",
+      "Value"
+    ]
+  },
+  {
+    "user_id": "U000759",
+    "risk_score": 10.5,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "Speculation",
+      "ETF",
+      "Healthcare",
+      "Long-term"
+    ]
+  },
+  {
+    "user_id": "U000760",
+    "risk_score": 58.6,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Speculation",
+      "Value",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000761",
+    "risk_score": 44.2,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Dividend",
+      "ETF",
+      "Healthcare",
+      "Value"
+    ]
+  },
+  {
+    "user_id": "U000762",
+    "risk_score": 23.0,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Growth",
+      "ETF",
+      "Tech",
+      "Long-term"
+    ]
+  },
+  {
+    "user_id": "U000763",
+    "risk_score": 2.7,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Tech",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000764",
+    "risk_score": 8.9,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Speculation",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000765",
+    "risk_score": 47.0,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Long-term",
+      "Growth"
+    ]
+  },
+  {
+    "user_id": "U000766",
+    "risk_score": 21.5,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Bond",
+      "Healthcare",
+      "Value"
+    ]
+  },
+  {
+    "user_id": "U000767",
+    "risk_score": 52.8,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Energy",
+      "Tech",
+      "Growth",
+      "ETF"
+    ]
+  },
+  {
+    "user_id": "U000768",
+    "risk_score": 13.7,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Growth",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000769",
+    "risk_score": 56.9,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Speculation",
+      "Bond",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000770",
+    "risk_score": 26.3,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "Long-term",
+      "Tech",
+      "Dividend",
+      "ETF"
+    ]
+  },
+  {
+    "user_id": "U000771",
+    "risk_score": 46.2,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Bond",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000772",
+    "risk_score": 6.1,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "ETF",
+      "Tech",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000773",
+    "risk_score": 19.7,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Energy",
+      "Growth",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000774",
+    "risk_score": 31.4,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "ETF",
+      "Energy"
+    ]
+  },
+  {
+    "user_id": "U000775",
+    "risk_score": 39.1,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Value",
+      "ETF",
+      "Energy",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000776",
+    "risk_score": 17.6,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Growth",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000777",
+    "risk_score": 31.7,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Tech",
+      "Speculation"
+    ]
+  },
+  {
+    "user_id": "U000778",
+    "risk_score": 30.0,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Long-term",
+      "ETF",
+      "Growth",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000779",
+    "risk_score": 19.8,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Bond",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000780",
+    "risk_score": 48.0,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Value",
+      "Tech"
+    ]
+  },
+  {
+    "user_id": "U000781",
+    "risk_score": 0.8,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "ETF",
+      "Tech"
+    ]
+  },
+  {
+    "user_id": "U000782",
+    "risk_score": 36.5,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Bond",
+      "Long-term"
+    ]
+  },
+  {
+    "user_id": "U000783",
+    "risk_score": 46.5,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Speculation",
+      "Value"
+    ]
+  },
+  {
+    "user_id": "U000784",
+    "risk_score": 16.3,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Value",
+      "Long-term"
+    ]
+  },
+  {
+    "user_id": "U000785",
+    "risk_score": 30.5,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Growth",
+      "Speculation",
+      "Long-term"
+    ]
+  },
+  {
+    "user_id": "U000786",
+    "risk_score": 61.8,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Long-term",
+      "Bond",
+      "ETF",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000787",
+    "risk_score": 18.6,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Bond",
+      "Dividend",
+      "Energy"
+    ]
+  },
+  {
+    "user_id": "U000788",
+    "risk_score": 39.1,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "Bond",
+      "Long-term",
+      "ETF"
+    ]
+  },
+  {
+    "user_id": "U000789",
+    "risk_score": 11.2,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Dividend",
+      "Value",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000790",
+    "risk_score": 18.4,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Growth",
+      "Tech",
+      "ETF"
+    ]
+  },
+  {
+    "user_id": "U000791",
+    "risk_score": 14.4,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Energy",
+      "Speculation",
+      "Value",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000792",
+    "risk_score": 10.2,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Bond",
+      "Tech",
+      "Growth"
+    ]
+  },
+  {
+    "user_id": "U000793",
+    "risk_score": 19.9,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Healthcare",
+      "Growth",
+      "Long-term"
+    ]
+  },
+  {
+    "user_id": "U000794",
+    "risk_score": 70.3,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Growth",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000795",
+    "risk_score": 68.0,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Growth",
+      "Long-term"
+    ]
+  },
+  {
+    "user_id": "U000796",
+    "risk_score": 29.5,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Energy",
+      "ETF",
+      "Speculation",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000797",
+    "risk_score": 29.8,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Long-term",
+      "Dividend",
+      "Tech",
+      "Growth"
+    ]
+  },
+  {
+    "user_id": "U000798",
+    "risk_score": 21.8,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Energy",
+      "Long-term"
+    ]
+  },
+  {
+    "user_id": "U000799",
+    "risk_score": 39.4,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "Long-term",
+      "Tech",
+      "Energy",
+      "Growth"
+    ]
+  },
+  {
+    "user_id": "U000800",
+    "risk_score": 38.3,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Tech",
+      "Long-term",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000801",
+    "risk_score": 8.6,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Speculation",
+      "Value"
+    ]
+  },
+  {
+    "user_id": "U000802",
+    "risk_score": 25.6,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Growth",
+      "Dividend",
+      "Tech"
+    ]
+  },
+  {
+    "user_id": "U000803",
+    "risk_score": 12.6,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Long-term",
+      "Tech",
+      "Value"
+    ]
+  },
+  {
+    "user_id": "U000804",
+    "risk_score": 8.2,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Growth",
+      "Long-term",
+      "Tech"
+    ]
+  },
+  {
+    "user_id": "U000805",
+    "risk_score": 36.0,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Value",
+      "Dividend",
+      "Energy",
+      "Tech"
+    ]
+  },
+  {
+    "user_id": "U000806",
+    "risk_score": 27.4,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Long-term",
+      "Growth",
+      "Speculation",
+      "Tech"
+    ]
+  },
+  {
+    "user_id": "U000807",
+    "risk_score": 7.3,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Energy",
+      "Long-term",
+      "Growth"
+    ]
+  },
+  {
+    "user_id": "U000808",
+    "risk_score": 14.5,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Speculation",
+      "Tech",
+      "Long-term"
+    ]
+  },
+  {
+    "user_id": "U000809",
+    "risk_score": 37.7,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Dividend",
+      "Tech",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000810",
+    "risk_score": 52.9,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "Speculation",
+      "Growth"
+    ]
+  },
+  {
+    "user_id": "U000811",
+    "risk_score": 14.8,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Long-term",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000812",
+    "risk_score": 25.9,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Value",
+      "Speculation",
+      "Long-term"
+    ]
+  },
+  {
+    "user_id": "U000813",
+    "risk_score": 14.7,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Healthcare",
+      "Speculation"
+    ]
+  },
+  {
+    "user_id": "U000814",
+    "risk_score": 32.0,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Growth",
+      "Speculation"
+    ]
+  },
+  {
+    "user_id": "U000815",
+    "risk_score": 15.4,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Healthcare",
+      "Long-term"
+    ]
+  },
+  {
+    "user_id": "U000816",
+    "risk_score": 43.1,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Healthcare",
+      "Value",
+      "ETF"
+    ]
+  },
+  {
+    "user_id": "U000817",
+    "risk_score": 34.3,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Energy",
+      "Bond",
+      "Growth",
+      "Tech"
+    ]
+  },
+  {
+    "user_id": "U000818",
+    "risk_score": 48.3,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Value",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000819",
+    "risk_score": 12.7,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "ETF",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000820",
+    "risk_score": 11.0,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Bond",
+      "Growth",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000821",
+    "risk_score": 6.8,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Healthcare",
+      "Growth",
+      "Bond",
+      "Tech"
+    ]
+  },
+  {
+    "user_id": "U000822",
+    "risk_score": 30.6,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Value",
+      "Speculation",
+      "Energy"
+    ]
+  },
+  {
+    "user_id": "U000823",
+    "risk_score": 41.0,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Dividend",
+      "ETF",
+      "Tech"
+    ]
+  },
+  {
+    "user_id": "U000824",
+    "risk_score": 43.7,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "Growth",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000825",
+    "risk_score": 30.4,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "ETF",
+      "Bond",
+      "Tech",
+      "Energy"
+    ]
+  },
+  {
+    "user_id": "U000826",
+    "risk_score": 11.0,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Speculation",
+      "Tech"
+    ]
+  },
+  {
+    "user_id": "U000827",
+    "risk_score": 37.4,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Energy",
+      "Growth"
+    ]
+  },
+  {
+    "user_id": "U000828",
+    "risk_score": 1.4,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Growth",
+      "Value",
+      "ETF",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000829",
+    "risk_score": 5.4,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Bond",
+      "Growth"
+    ]
+  },
+  {
+    "user_id": "U000830",
+    "risk_score": 13.2,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Speculation",
+      "Energy",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000831",
+    "risk_score": 35.8,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Energy",
+      "Long-term"
+    ]
+  },
+  {
+    "user_id": "U000832",
+    "risk_score": 36.1,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Healthcare",
+      "Energy",
+      "Value",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000833",
+    "risk_score": 16.5,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "ETF",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000834",
+    "risk_score": 49.5,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Tech",
+      "ETF",
+      "Long-term"
+    ]
+  },
+  {
+    "user_id": "U000835",
+    "risk_score": 35.8,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "ETF",
+      "Bond",
+      "Tech"
+    ]
+  },
+  {
+    "user_id": "U000836",
+    "risk_score": 43.2,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "Dividend",
+      "Speculation",
+      "Growth"
+    ]
+  },
+  {
+    "user_id": "U000837",
+    "risk_score": 25.6,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Value",
+      "Tech",
+      "Energy",
+      "Long-term"
+    ]
+  },
+  {
+    "user_id": "U000838",
+    "risk_score": 27.5,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "ETF",
+      "Long-term",
+      "Dividend",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000839",
+    "risk_score": 14.2,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Speculation",
+      "Dividend",
+      "Bond",
+      "Value"
+    ]
+  },
+  {
+    "user_id": "U000840",
+    "risk_score": 22.6,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Tech",
+      "Growth"
+    ]
+  },
+  {
+    "user_id": "U000841",
+    "risk_score": 39.6,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Long-term",
+      "Energy",
+      "Value",
+      "ETF"
+    ]
+  },
+  {
+    "user_id": "U000842",
+    "risk_score": 12.0,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Dividend",
+      "Speculation",
+      "Tech",
+      "Energy"
+    ]
+  },
+  {
+    "user_id": "U000843",
+    "risk_score": 48.2,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Speculation",
+      "Energy",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000844",
+    "risk_score": 42.4,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Growth",
+      "Dividend",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000845",
+    "risk_score": 11.6,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Speculation",
+      "Tech",
+      "Energy",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000846",
+    "risk_score": 30.5,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Value",
+      "Energy"
+    ]
+  },
+  {
+    "user_id": "U000847",
+    "risk_score": 60.5,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Tech",
+      "Long-term",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000848",
+    "risk_score": 10.3,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "ETF",
+      "Energy",
+      "Long-term",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000849",
+    "risk_score": 30.7,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Tech",
+      "ETF",
+      "Bond",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000850",
+    "risk_score": 41.1,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "Growth",
+      "Tech",
+      "Dividend",
+      "Energy"
+    ]
+  },
+  {
+    "user_id": "U000851",
+    "risk_score": 19.0,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "Dividend",
+      "Speculation",
+      "Tech",
+      "Energy"
+    ]
+  },
+  {
+    "user_id": "U000852",
+    "risk_score": 8.3,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "ETF",
+      "Speculation",
+      "Long-term"
+    ]
+  },
+  {
+    "user_id": "U000853",
+    "risk_score": 55.2,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Long-term",
+      "Speculation"
+    ]
+  },
+  {
+    "user_id": "U000854",
+    "risk_score": 40.2,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "Value",
+      "Speculation",
+      "Energy"
+    ]
+  },
+  {
+    "user_id": "U000855",
+    "risk_score": 18.6,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Bond",
+      "Healthcare",
+      "Value",
+      "Energy"
+    ]
+  },
+  {
+    "user_id": "U000856",
+    "risk_score": 17.2,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Dividend",
+      "Growth",
+      "Healthcare",
+      "Long-term"
+    ]
+  },
+  {
+    "user_id": "U000857",
+    "risk_score": 34.5,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Energy",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000858",
+    "risk_score": 5.1,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Value",
+      "ETF"
+    ]
+  },
+  {
+    "user_id": "U000859",
+    "risk_score": 30.3,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Dividend",
+      "Value",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000860",
+    "risk_score": 5.3,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "Healthcare",
+      "Value"
+    ]
+  },
+  {
+    "user_id": "U000861",
+    "risk_score": 9.1,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Tech",
+      "Growth",
+      "Energy"
+    ]
+  },
+  {
+    "user_id": "U000862",
+    "risk_score": 33.3,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Value",
+      "Growth"
+    ]
+  },
+  {
+    "user_id": "U000863",
+    "risk_score": 46.4,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "Dividend",
+      "Bond",
+      "Long-term"
+    ]
+  },
+  {
+    "user_id": "U000864",
+    "risk_score": 52.7,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Energy",
+      "Healthcare",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000865",
+    "risk_score": 45.5,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "ETF",
+      "Long-term",
+      "Bond",
+      "Tech"
+    ]
+  },
+  {
+    "user_id": "U000866",
+    "risk_score": 20.2,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Long-term",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000867",
+    "risk_score": 14.8,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Long-term",
+      "Bond",
+      "Energy",
+      "Growth"
+    ]
+  },
+  {
+    "user_id": "U000868",
+    "risk_score": 13.6,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Speculation",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000869",
+    "risk_score": 19.8,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "ETF",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000870",
+    "risk_score": 37.8,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Long-term",
+      "Speculation",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000871",
+    "risk_score": 12.7,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Energy",
+      "Speculation",
+      "Value",
+      "Long-term"
+    ]
+  },
+  {
+    "user_id": "U000872",
+    "risk_score": 52.0,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Growth",
+      "Energy",
+      "Value"
+    ]
+  },
+  {
+    "user_id": "U000873",
+    "risk_score": 74.2,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Tech",
+      "Long-term",
+      "Value"
+    ]
+  },
+  {
+    "user_id": "U000874",
+    "risk_score": 54.9,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Dividend",
+      "Healthcare",
+      "Energy"
+    ]
+  },
+  {
+    "user_id": "U000875",
+    "risk_score": 46.3,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "ETF",
+      "Long-term",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000876",
+    "risk_score": 25.9,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Tech",
+      "Speculation",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000877",
+    "risk_score": 32.0,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Healthcare",
+      "Long-term",
+      "Value"
+    ]
+  },
+  {
+    "user_id": "U000878",
+    "risk_score": 23.8,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Speculation",
+      "Energy",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000879",
+    "risk_score": 52.2,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "ETF",
+      "Bond",
+      "Healthcare",
+      "Speculation"
+    ]
+  },
+  {
+    "user_id": "U000880",
+    "risk_score": 44.1,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Dividend",
+      "Speculation"
+    ]
+  },
+  {
+    "user_id": "U000881",
+    "risk_score": 11.9,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Tech",
+      "Energy",
+      "ETF",
+      "Value"
+    ]
+  },
+  {
+    "user_id": "U000882",
+    "risk_score": 3.5,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Bond",
+      "Tech",
+      "ETF"
+    ]
+  },
+  {
+    "user_id": "U000883",
+    "risk_score": 46.0,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Speculation",
+      "Tech"
+    ]
+  },
+  {
+    "user_id": "U000884",
+    "risk_score": 26.2,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Energy",
+      "Long-term",
+      "ETF",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000885",
+    "risk_score": 28.4,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "Bond",
+      "Tech"
+    ]
+  },
+  {
+    "user_id": "U000886",
+    "risk_score": 29.6,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Speculation",
+      "ETF",
+      "Growth",
+      "Value"
+    ]
+  },
+  {
+    "user_id": "U000887",
+    "risk_score": 37.2,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Value",
+      "Tech",
+      "Long-term"
+    ]
+  },
+  {
+    "user_id": "U000888",
+    "risk_score": 18.2,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Tech",
+      "Growth"
+    ]
+  },
+  {
+    "user_id": "U000889",
+    "risk_score": 43.2,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "Bond",
+      "Growth",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000890",
+    "risk_score": 43.4,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Growth",
+      "Energy"
+    ]
+  },
+  {
+    "user_id": "U000891",
+    "risk_score": 9.7,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "Long-term",
+      "ETF"
+    ]
+  },
+  {
+    "user_id": "U000892",
+    "risk_score": 20.7,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Speculation",
+      "Tech",
+      "Growth"
+    ]
+  },
+  {
+    "user_id": "U000893",
+    "risk_score": 11.7,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Growth",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000894",
+    "risk_score": 39.8,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Growth",
+      "Value",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000895",
+    "risk_score": 38.0,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Long-term",
+      "ETF",
+      "Energy",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000896",
+    "risk_score": 40.8,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Energy",
+      "Value",
+      "Tech",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000897",
+    "risk_score": 58.3,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Tech",
+      "Long-term"
+    ]
+  },
+  {
+    "user_id": "U000898",
+    "risk_score": 14.6,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Growth",
+      "Long-term",
+      "Dividend",
+      "Value"
+    ]
+  },
+  {
+    "user_id": "U000899",
+    "risk_score": 20.4,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Speculation",
+      "ETF"
+    ]
+  },
+  {
+    "user_id": "U000900",
+    "risk_score": 26.4,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Bond",
+      "Dividend",
+      "Growth",
+      "Energy"
+    ]
+  },
+  {
+    "user_id": "U000901",
+    "risk_score": 66.9,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "ETF",
+      "Healthcare",
+      "Value"
+    ]
+  },
+  {
+    "user_id": "U000902",
+    "risk_score": 50.4,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Energy",
+      "Bond",
+      "Healthcare",
+      "Long-term"
+    ]
+  },
+  {
+    "user_id": "U000903",
+    "risk_score": 42.8,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Dividend",
+      "ETF"
+    ]
+  },
+  {
+    "user_id": "U000904",
+    "risk_score": 27.6,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Bond",
+      "Long-term",
+      "ETF",
+      "Speculation"
+    ]
+  },
+  {
+    "user_id": "U000905",
+    "risk_score": 0.6,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "ETF",
+      "Energy",
+      "Bond",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000906",
+    "risk_score": 44.0,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Bond",
+      "Value",
+      "Growth",
+      "Tech"
+    ]
+  },
+  {
+    "user_id": "U000907",
+    "risk_score": 10.6,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Speculation",
+      "Energy",
+      "Value",
+      "ETF"
+    ]
+  },
+  {
+    "user_id": "U000908",
+    "risk_score": 19.6,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Long-term",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000909",
+    "risk_score": 25.1,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Bond",
+      "Speculation"
+    ]
+  },
+  {
+    "user_id": "U000910",
+    "risk_score": 32.9,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "Tech",
+      "Long-term",
+      "ETF"
+    ]
+  },
+  {
+    "user_id": "U000911",
+    "risk_score": 52.4,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Healthcare",
+      "Tech",
+      "Energy",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000912",
+    "risk_score": 11.5,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Dividend",
+      "ETF",
+      "Value",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000913",
+    "risk_score": 9.5,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Long-term",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000914",
+    "risk_score": 23.2,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Long-term",
+      "Energy",
+      "ETF"
+    ]
+  },
+  {
+    "user_id": "U000915",
+    "risk_score": 41.5,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Dividend",
+      "Long-term",
+      "Energy"
+    ]
+  },
+  {
+    "user_id": "U000916",
+    "risk_score": 43.1,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Growth",
+      "Energy",
+      "Speculation",
+      "Long-term"
+    ]
+  },
+  {
+    "user_id": "U000917",
+    "risk_score": 63.2,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Speculation",
+      "Value",
+      "Bond",
+      "Tech"
+    ]
+  },
+  {
+    "user_id": "U000918",
+    "risk_score": 7.5,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Dividend",
+      "Long-term",
+      "Value"
+    ]
+  },
+  {
+    "user_id": "U000919",
+    "risk_score": 35.3,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Bond",
+      "Speculation",
+      "ETF",
+      "Tech"
+    ]
+  },
+  {
+    "user_id": "U000920",
+    "risk_score": 18.8,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "ETF",
+      "Dividend",
+      "Energy"
+    ]
+  },
+  {
+    "user_id": "U000921",
+    "risk_score": 31.3,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "Long-term",
+      "Speculation",
+      "Tech",
+      "ETF"
+    ]
+  },
+  {
+    "user_id": "U000922",
+    "risk_score": 33.9,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Value",
+      "Bond",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000923",
+    "risk_score": 6.9,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Growth",
+      "Tech"
+    ]
+  },
+  {
+    "user_id": "U000924",
+    "risk_score": 27.4,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "Healthcare",
+      "Long-term",
+      "Speculation"
+    ]
+  },
+  {
+    "user_id": "U000925",
+    "risk_score": 26.6,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Growth",
+      "Value",
+      "Energy",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000926",
+    "risk_score": 19.8,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Tech",
+      "ETF",
+      "Energy"
+    ]
+  },
+  {
+    "user_id": "U000927",
+    "risk_score": 32.1,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Value",
+      "ETF",
+      "Growth",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000928",
+    "risk_score": 33.4,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "ETF",
+      "Tech",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000929",
+    "risk_score": 23.8,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Healthcare",
+      "Speculation"
+    ]
+  },
+  {
+    "user_id": "U000930",
+    "risk_score": 30.4,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Long-term",
+      "Speculation"
+    ]
+  },
+  {
+    "user_id": "U000931",
+    "risk_score": 14.6,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Tech",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000932",
+    "risk_score": 23.7,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "Bond",
+      "Value",
+      "ETF"
+    ]
+  },
+  {
+    "user_id": "U000933",
+    "risk_score": 18.5,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Energy",
+      "Speculation",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000934",
+    "risk_score": 51.2,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Healthcare",
+      "Energy",
+      "Speculation"
+    ]
+  },
+  {
+    "user_id": "U000935",
+    "risk_score": 19.0,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "Dividend",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000936",
+    "risk_score": 17.7,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Bond",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000937",
+    "risk_score": 18.1,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "Long-term",
+      "Speculation",
+      "Energy"
+    ]
+  },
+  {
+    "user_id": "U000938",
+    "risk_score": 12.9,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Growth",
+      "Speculation"
+    ]
+  },
+  {
+    "user_id": "U000939",
+    "risk_score": 34.7,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Energy",
+      "Tech",
+      "Growth",
+      "Value"
+    ]
+  },
+  {
+    "user_id": "U000940",
+    "risk_score": 10.8,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Long-term",
+      "Tech",
+      "ETF",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000941",
+    "risk_score": 29.8,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "ETF",
+      "Long-term",
+      "Speculation"
+    ]
+  },
+  {
+    "user_id": "U000942",
+    "risk_score": 29.4,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "Growth",
+      "Speculation"
+    ]
+  },
+  {
+    "user_id": "U000943",
+    "risk_score": 29.6,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Dividend",
+      "Long-term"
+    ]
+  },
+  {
+    "user_id": "U000944",
+    "risk_score": 66.8,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Bond",
+      "ETF"
+    ]
+  },
+  {
+    "user_id": "U000945",
+    "risk_score": 21.6,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Growth",
+      "Speculation",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000946",
+    "risk_score": 5.8,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Tech",
+      "Growth"
+    ]
+  },
+  {
+    "user_id": "U000947",
+    "risk_score": 16.1,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Growth",
+      "Long-term",
+      "Value",
+      "ETF"
+    ]
+  },
+  {
+    "user_id": "U000948",
+    "risk_score": 25.5,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Tech",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000949",
+    "risk_score": 46.8,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Speculation",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000950",
+    "risk_score": 38.9,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Tech",
+      "Bond",
+      "Energy",
+      "Long-term"
+    ]
+  },
+  {
+    "user_id": "U000951",
+    "risk_score": 31.0,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Growth",
+      "Healthcare",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000952",
+    "risk_score": 22.8,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Long-term",
+      "ETF",
+      "Tech",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000953",
+    "risk_score": 25.0,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Bond",
+      "Speculation",
+      "ETF"
+    ]
+  },
+  {
+    "user_id": "U000954",
+    "risk_score": 32.0,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Tech",
+      "Long-term"
+    ]
+  },
+  {
+    "user_id": "U000955",
+    "risk_score": 59.8,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Tech",
+      "ETF",
+      "Growth"
+    ]
+  },
+  {
+    "user_id": "U000956",
+    "risk_score": 14.6,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Bond",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000957",
+    "risk_score": 26.3,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Healthcare",
+      "Energy",
+      "Dividend",
+      "Value"
+    ]
+  },
+  {
+    "user_id": "U000958",
+    "risk_score": 13.0,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Tech",
+      "Value",
+      "Healthcare",
+      "Speculation"
+    ]
+  },
+  {
+    "user_id": "U000959",
+    "risk_score": 20.5,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Growth",
+      "Speculation",
+      "Healthcare",
+      "Long-term"
+    ]
+  },
+  {
+    "user_id": "U000960",
+    "risk_score": 23.9,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Tech",
+      "Growth",
+      "Bond",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000961",
+    "risk_score": 32.5,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Energy",
+      "Value"
+    ]
+  },
+  {
+    "user_id": "U000962",
+    "risk_score": 15.0,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Dividend",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000963",
+    "risk_score": 46.1,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Growth",
+      "Energy"
+    ]
+  },
+  {
+    "user_id": "U000964",
+    "risk_score": 48.0,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "ETF",
+      "Bond",
+      "Energy",
+      "Growth"
+    ]
+  },
+  {
+    "user_id": "U000965",
+    "risk_score": 42.2,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Healthcare",
+      "Value",
+      "Long-term",
+      "Speculation"
+    ]
+  },
+  {
+    "user_id": "U000966",
+    "risk_score": 14.0,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Energy",
+      "Bond",
+      "Value"
+    ]
+  },
+  {
+    "user_id": "U000967",
+    "risk_score": 51.8,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "ETF",
+      "Bond",
+      "Speculation"
+    ]
+  },
+  {
+    "user_id": "U000968",
+    "risk_score": 42.0,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Growth",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000969",
+    "risk_score": 18.4,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Energy",
+      "Bond",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000970",
+    "risk_score": 6.0,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Tech",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000971",
+    "risk_score": 19.9,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Speculation",
+      "Bond"
+    ]
+  },
+  {
+    "user_id": "U000972",
+    "risk_score": 15.2,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Bond",
+      "Dividend",
+      "Growth",
+      "Energy"
+    ]
+  },
+  {
+    "user_id": "U000973",
+    "risk_score": 21.3,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Value",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000974",
+    "risk_score": 25.8,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Speculation",
+      "Tech",
+      "Growth"
+    ]
+  },
+  {
+    "user_id": "U000975",
+    "risk_score": 37.5,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Value",
+      "Energy",
+      "Speculation"
+    ]
+  },
+  {
+    "user_id": "U000976",
+    "risk_score": 57.1,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Tech",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000977",
+    "risk_score": 44.0,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Growth",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000978",
+    "risk_score": 13.1,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Long-term",
+      "Dividend",
+      "Healthcare"
+    ]
+  },
+  {
+    "user_id": "U000979",
+    "risk_score": 17.0,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Bond",
+      "ETF",
+      "Value"
+    ]
+  },
+  {
+    "user_id": "U000980",
+    "risk_score": 14.7,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Growth",
+      "Speculation",
+      "Tech"
+    ]
+  },
+  {
+    "user_id": "U000981",
+    "risk_score": 31.0,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Bond",
+      "Healthcare",
+      "Tech",
+      "Speculation"
+    ]
+  },
+  {
+    "user_id": "U000982",
+    "risk_score": 29.7,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Value",
+      "Speculation",
+      "Long-term",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000983",
+    "risk_score": 12.3,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Healthcare",
+      "Long-term",
+      "Growth"
+    ]
+  },
+  {
+    "user_id": "U000984",
+    "risk_score": 10.5,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Speculation",
+      "Healthcare",
+      "Bond",
+      "Value"
+    ]
+  },
+  {
+    "user_id": "U000985",
+    "risk_score": 14.0,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Energy",
+      "Long-term"
+    ]
+  },
+  {
+    "user_id": "U000986",
+    "risk_score": 14.1,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Speculation",
+      "Tech"
+    ]
+  },
+  {
+    "user_id": "U000987",
+    "risk_score": 54.4,
+    "investment_experience": "Professional",
+    "preference_labels": [
+      "Bond",
+      "Healthcare",
+      "Speculation",
+      "Long-term"
+    ]
+  },
+  {
+    "user_id": "U000988",
+    "risk_score": 76.2,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Long-term",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000989",
+    "risk_score": 31.1,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Tech",
+      "Value",
+      "Healthcare",
+      "ETF"
+    ]
+  },
+  {
+    "user_id": "U000990",
+    "risk_score": 31.1,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Energy",
+      "Bond",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000991",
+    "risk_score": 49.4,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Healthcare",
+      "Value",
+      "ETF",
+      "Energy"
+    ]
+  },
+  {
+    "user_id": "U000992",
+    "risk_score": 18.4,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Long-term",
+      "Bond",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000993",
+    "risk_score": 25.6,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Healthcare",
+      "Long-term",
+      "Dividend",
+      "Value"
+    ]
+  },
+  {
+    "user_id": "U000994",
+    "risk_score": 10.3,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Healthcare",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U000995",
+    "risk_score": 41.6,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "ETF",
+      "Energy",
+      "Long-term"
+    ]
+  },
+  {
+    "user_id": "U000996",
+    "risk_score": 53.8,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Growth",
+      "Bond",
+      "Speculation",
+      "ETF"
+    ]
+  },
+  {
+    "user_id": "U000997",
+    "risk_score": 49.7,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Bond",
+      "Value",
+      "Growth"
+    ]
+  },
+  {
+    "user_id": "U000998",
+    "risk_score": 30.1,
+    "investment_experience": "Intermediate",
+    "preference_labels": [
+      "Bond",
+      "Value",
+      "Speculation"
+    ]
+  },
+  {
+    "user_id": "U000999",
+    "risk_score": 8.9,
+    "investment_experience": "Novice",
+    "preference_labels": [
+      "Growth",
+      "Speculation",
+      "Tech",
+      "Dividend"
+    ]
+  },
+  {
+    "user_id": "U001000",
+    "risk_score": 56.0,
+    "investment_experience": "Expert",
+    "preference_labels": [
+      "Dividend",
+      "Tech"
+    ]
+  }
+]

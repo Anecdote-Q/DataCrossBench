@@ -1,0 +1,20 @@
+{
+    "goal": "比较深圳与其他城市在微短剧产业发展策略上的差异及其影响。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 通过资金支持、空间布局和服务优化，深圳的微短剧产业基地正在形成集聚效应。",
+        "Comparison: 在国内城市竞争中，深圳的科技创新能力使其在微短剧产业中脱颖而出。",
+        "Extreme: AI大模型在剧本生成中的应用，提升了产业效率，合规性筛查准确率达到98%。",
+        "Attribution: 通过探索‘微短剧+文化’的精品化路径，深圳推动了文化软实力的提升。"
+    ],
+    "summary": "深圳凭借其科技创新和政策支持，成为微短剧产业发展的重要基地，推动了产业的集聚与国际化进程。",
+    "flag_id": "flag-136",
+    "classifier": "Short-form Drama",
+    "classifier_cn": "短剧/微短剧内容",
+    "input_files": [
+        "output/background.txt",
+        "output/dimension_data.db",
+        "output/microdrama_facts.png",
+        "output/user_profiles.json"
+    ]
+}

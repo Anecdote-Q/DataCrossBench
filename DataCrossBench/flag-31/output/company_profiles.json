@@ -1,0 +1,7218 @@
+[
+  {
+    "company_id": "COMP00103",
+    "profile": {
+      "founding_year": 2017,
+      "employee_count": 33,
+      "tech_stack": [
+        "Rust",
+        "Python",
+        "Java"
+      ],
+      "is_public": false,
+      "headquarters": "重庆县",
+      "products": [
+        {
+          "name": "Incentivize magnetic channels",
+          "launch_date": "2024-08-29"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00436",
+    "profile": {
+      "founding_year": 2018,
+      "employee_count": 31,
+      "tech_stack": [
+        "Go",
+        "JavaScript",
+        "Rust"
+      ],
+      "is_public": false,
+      "headquarters": "嘉禾市",
+      "products": [
+        {
+          "name": "Utilize e-business e-tailers",
+          "launch_date": "2022-02-21"
+        },
+        {
+          "name": "Expedite proactive schemas",
+          "launch_date": "2021-12-21"
+        },
+        {
+          "name": "Visualize next-generation e-services",
+          "launch_date": "2023-03-23"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00349",
+    "profile": {
+      "founding_year": 2012,
+      "employee_count": 172,
+      "tech_stack": [
+        "JavaScript",
+        "Python",
+        "Go"
+      ],
+      "is_public": false,
+      "headquarters": "强市",
+      "products": [
+        {
+          "name": "Scale cutting-edge supply-chains",
+          "launch_date": "2022-05-14"
+        },
+        {
+          "name": "Architect cross-platform platforms",
+          "launch_date": "2021-06-10"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00271",
+    "profile": {
+      "founding_year": 2007,
+      "employee_count": 198,
+      "tech_stack": [
+        "JavaScript",
+        "Java",
+        "Rust"
+      ],
+      "is_public": false,
+      "headquarters": "齐齐哈尔县",
+      "products": [
+        {
+          "name": "Expedite back-end paradigms",
+          "launch_date": "2024-08-17"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00107",
+    "profile": {
+      "founding_year": 2015,
+      "employee_count": 112,
+      "tech_stack": [
+        "Python",
+        "Rust",
+        "Go"
+      ],
+      "is_public": true,
+      "headquarters": "海门市",
+      "products": [
+        {
+          "name": "Engage distributed functionalities",
+          "launch_date": "2024-01-27"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00072",
+    "profile": {
+      "founding_year": 2014,
+      "employee_count": 727,
+      "tech_stack": [
+        "JavaScript",
+        "Rust",
+        "Python"
+      ],
+      "is_public": true,
+      "headquarters": "想市",
+      "products": [
+        {
+          "name": "Integrate bleeding-edge technologies",
+          "launch_date": "2025-11-26"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00189",
+    "profile": {
+      "founding_year": 2002,
+      "employee_count": 15,
+      "tech_stack": [
+        "JavaScript",
+        "Java",
+        "Python"
+      ],
+      "is_public": false,
+      "headquarters": "西安县",
+      "products": [
+        {
+          "name": "Empower ubiquitous functionalities",
+          "launch_date": "2025-02-23"
+        },
+        {
+          "name": "Leverage out-of-the-box convergence",
+          "launch_date": "2022-01-09"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00021",
+    "profile": {
+      "founding_year": 2008,
+      "employee_count": 12,
+      "tech_stack": [
+        "Java",
+        "Rust",
+        "JavaScript"
+      ],
+      "is_public": false,
+      "headquarters": "斌市",
+      "products": [
+        {
+          "name": "Incubate interactive communities",
+          "launch_date": "2023-04-16"
+        },
+        {
+          "name": "Empower magnetic methodologies",
+          "launch_date": "2022-08-07"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00122",
+    "profile": {
+      "founding_year": 2014,
+      "employee_count": 99,
+      "tech_stack": [
+        "Java",
+        "Go",
+        "Python"
+      ],
+      "is_public": true,
+      "headquarters": "福州市",
+      "products": [
+        {
+          "name": "Exploit turn-key interfaces",
+          "launch_date": "2022-04-26"
+        },
+        {
+          "name": "Architect turn-key e-tailers",
+          "launch_date": "2024-04-03"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00467",
+    "profile": {
+      "founding_year": 2010,
+      "employee_count": 21,
+      "tech_stack": [
+        "Go",
+        "JavaScript",
+        "Python"
+      ],
+      "is_public": false,
+      "headquarters": "桂芳市",
+      "products": [
+        {
+          "name": "Morph global action-items",
+          "launch_date": "2024-09-14"
+        },
+        {
+          "name": "Incubate back-end applications",
+          "launch_date": "2023-02-13"
+        },
+        {
+          "name": "Benchmark wireless relationships",
+          "launch_date": "2022-01-27"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00215",
+    "profile": {
+      "founding_year": 2001,
+      "employee_count": 132,
+      "tech_stack": [
+        "Rust",
+        "Java",
+        "Go"
+      ],
+      "is_public": false,
+      "headquarters": "梧州县",
+      "products": [
+        {
+          "name": "Evolve scalable initiatives",
+          "launch_date": "2021-09-28"
+        },
+        {
+          "name": "Leverage cutting-edge metrics",
+          "launch_date": "2021-04-18"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00331",
+    "profile": {
+      "founding_year": 2004,
+      "employee_count": 40,
+      "tech_stack": [
+        "JavaScript",
+        "Rust",
+        "Go"
+      ],
+      "is_public": false,
+      "headquarters": "丹丹县",
+      "products": [
+        {
+          "name": "Engage value-added methodologies",
+          "launch_date": "2024-07-31"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00459",
+    "profile": {
+      "founding_year": 2013,
+      "employee_count": 176,
+      "tech_stack": [
+        "JavaScript",
+        "Python",
+        "Java"
+      ],
+      "is_public": false,
+      "headquarters": "慧市",
+      "products": [
+        {
+          "name": "Envisioneer user-centric communities",
+          "launch_date": "2023-03-31"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00088",
+    "profile": {
+      "founding_year": 2005,
+      "employee_count": 169,
+      "tech_stack": [
+        "Rust",
+        "Python",
+        "Go"
+      ],
+      "is_public": false,
+      "headquarters": "桂花市",
+      "products": [
+        {
+          "name": "Deliver sticky functionalities",
+          "launch_date": "2022-06-21"
+        },
+        {
+          "name": "Whiteboard 24/365 eyeballs",
+          "launch_date": "2022-11-06"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00373",
+    "profile": {
+      "founding_year": 2018,
+      "employee_count": 52,
+      "tech_stack": [
+        "Java",
+        "Go",
+        "Python"
+      ],
+      "is_public": false,
+      "headquarters": "关岭市",
+      "products": [
+        {
+          "name": "Expedite world-class models",
+          "launch_date": "2021-01-27"
+        },
+        {
+          "name": "Re-contextualize bricks-and-clicks content",
+          "launch_date": "2022-03-05"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00100",
+    "profile": {
+      "founding_year": 2015,
+      "employee_count": 4,
+      "tech_stack": [
+        "Python",
+        "Rust",
+        "Go"
+      ],
+      "is_public": false,
+      "headquarters": "兰州市",
+      "products": [
+        {
+          "name": "Drive holistic partnerships",
+          "launch_date": "2025-11-13"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00360",
+    "profile": {
+      "founding_year": 2006,
+      "employee_count": 32,
+      "tech_stack": [
+        "Rust",
+        "JavaScript",
+        "Go"
+      ],
+      "is_public": false,
+      "headquarters": "太原县",
+      "products": [
+        {
+          "name": "Engage frictionless portals",
+          "launch_date": "2023-08-14"
+        },
+        {
+          "name": "Expedite cutting-edge e-tailers",
+          "launch_date": "2025-08-16"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00152",
+    "profile": {
+      "founding_year": 2006,
+      "employee_count": 49,
+      "tech_stack": [
+        "Python",
+        "Rust",
+        "JavaScript"
+      ],
+      "is_public": false,
+      "headquarters": "沈阳县",
+      "products": [
+        {
+          "name": "Repurpose out-of-the-box systems",
+          "launch_date": "2025-06-23"
+        },
+        {
+          "name": "Grow 24/7 action-items",
+          "launch_date": "2022-02-06"
+        },
+        {
+          "name": "Facilitate vertical applications",
+          "launch_date": "2023-10-01"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00131",
+    "profile": {
+      "founding_year": 2013,
+      "employee_count": 92,
+      "tech_stack": [
+        "Java",
+        "Python",
+        "Rust"
+      ],
+      "is_public": false,
+      "headquarters": "北京市",
+      "products": [
+        {
+          "name": "Unleash leading-edge e-services",
+          "launch_date": "2021-04-25"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00150",
+    "profile": {
+      "founding_year": 2003,
+      "employee_count": 32,
+      "tech_stack": [
+        "Python",
+        "Go",
+        "Rust"
+      ],
+      "is_public": false,
+      "headquarters": "北镇市",
+      "products": [
+        {
+          "name": "Deliver web-enabled niches",
+          "launch_date": "2024-04-28"
+        },
+        {
+          "name": "Architect end-to-end networks",
+          "launch_date": "2023-11-10"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00309",
+    "profile": {
+      "founding_year": 2008,
+      "employee_count": 123,
+      "tech_stack": [
+        "Rust",
+        "Go",
+        "Java"
+      ],
+      "is_public": false,
+      "headquarters": "深圳县",
+      "products": [
+        {
+          "name": "Aggregate mission-critical platforms",
+          "launch_date": "2024-04-09"
+        },
+        {
+          "name": "Seize cutting-edge e-markets",
+          "launch_date": "2023-04-25"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00258",
+    "profile": {
+      "founding_year": 2011,
+      "employee_count": 63,
+      "tech_stack": [
+        "JavaScript",
+        "Python",
+        "Rust"
+      ],
+      "is_public": false,
+      "headquarters": "西安市",
+      "products": [
+        {
+          "name": "Strategize cross-platform platforms",
+          "launch_date": "2022-03-22"
+        },
+        {
+          "name": "Aggregate customized channels",
+          "launch_date": "2023-02-01"
+        },
+        {
+          "name": "Empower plug-and-play action-items",
+          "launch_date": "2025-05-08"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00344",
+    "profile": {
+      "founding_year": 2007,
+      "employee_count": 76,
+      "tech_stack": [
+        "Go",
+        "Java",
+        "Python"
+      ],
+      "is_public": true,
+      "headquarters": "潜江市",
+      "products": [
+        {
+          "name": "Streamline value-added infrastructures",
+          "launch_date": "2025-08-11"
+        },
+        {
+          "name": "Iterate web-enabled communities",
+          "launch_date": "2023-01-04"
+        },
+        {
+          "name": "Syndicate killer interfaces",
+          "launch_date": "2025-06-28"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00492",
+    "profile": {
+      "founding_year": 2004,
+      "employee_count": 8,
+      "tech_stack": [
+        "Python",
+        "Go",
+        "Java"
+      ],
+      "is_public": false,
+      "headquarters": "海门市",
+      "products": [
+        {
+          "name": "Synergize back-end bandwidth",
+          "launch_date": "2022-05-28"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00414",
+    "profile": {
+      "founding_year": 2007,
+      "employee_count": 70,
+      "tech_stack": [
+        "Rust",
+        "Python",
+        "JavaScript"
+      ],
+      "is_public": true,
+      "headquarters": "建军市",
+      "products": [
+        {
+          "name": "Envisioneer killer markets",
+          "launch_date": "2023-11-16"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00294",
+    "profile": {
+      "founding_year": 2001,
+      "employee_count": 165,
+      "tech_stack": [
+        "Go",
+        "Java",
+        "Rust"
+      ],
+      "is_public": false,
+      "headquarters": "辽阳市",
+      "products": [
+        {
+          "name": "Streamline compelling mindshare",
+          "launch_date": "2025-07-29"
+        },
+        {
+          "name": "Mesh granular markets",
+          "launch_date": "2025-10-13"
+        },
+        {
+          "name": "Evolve viral partnerships",
+          "launch_date": "2023-12-15"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00386",
+    "profile": {
+      "founding_year": 2013,
+      "employee_count": 60,
+      "tech_stack": [
+        "Python",
+        "Go",
+        "Rust"
+      ],
+      "is_public": true,
+      "headquarters": "马鞍山市",
+      "products": [
+        {
+          "name": "Matrix interactive applications",
+          "launch_date": "2023-12-14"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00192",
+    "profile": {
+      "founding_year": 2015,
+      "employee_count": 225,
+      "tech_stack": [
+        "Python",
+        "Go",
+        "Rust"
+      ],
+      "is_public": false,
+      "headquarters": "宁德县",
+      "products": [
+        {
+          "name": "Re-contextualize back-end e-tailers",
+          "launch_date": "2024-04-29"
+        },
+        {
+          "name": "Harness web-enabled portals",
+          "launch_date": "2022-12-16"
+        },
+        {
+          "name": "Repurpose seamless bandwidth",
+          "launch_date": "2022-07-23"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00444",
+    "profile": {
+      "founding_year": 2020,
+      "employee_count": 74,
+      "tech_stack": [
+        "Go",
+        "Rust",
+        "JavaScript"
+      ],
+      "is_public": false,
+      "headquarters": "上海县",
+      "products": [
+        {
+          "name": "Re-intermediate mission-critical partnerships",
+          "launch_date": "2023-09-01"
+        },
+        {
+          "name": "Deliver back-end channels",
+          "launch_date": "2025-08-24"
+        },
+        {
+          "name": "Matrix innovative action-items",
+          "launch_date": "2022-10-29"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00277",
+    "profile": {
+      "founding_year": 2003,
+      "employee_count": 169,
+      "tech_stack": [
+        "Go",
+        "Python",
+        "Java"
+      ],
+      "is_public": false,
+      "headquarters": "潜江县",
+      "products": [
+        {
+          "name": "Re-intermediate value-added web services",
+          "launch_date": "2025-01-23"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00161",
+    "profile": {
+      "founding_year": 2014,
+      "employee_count": 44,
+      "tech_stack": [
+        "JavaScript",
+        "Python",
+        "Java"
+      ],
+      "is_public": true,
+      "headquarters": "旭市",
+      "products": [
+        {
+          "name": "Morph one-to-one platforms",
+          "launch_date": "2024-09-09"
+        },
+        {
+          "name": "Orchestrate real-time technologies",
+          "launch_date": "2024-01-02"
+        },
+        {
+          "name": "Unleash cross-platform e-tailers",
+          "launch_date": "2024-06-01"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00460",
+    "profile": {
+      "founding_year": 2012,
+      "employee_count": 58,
+      "tech_stack": [
+        "Python",
+        "Go",
+        "Rust"
+      ],
+      "is_public": true,
+      "headquarters": "璐县",
+      "products": [
+        {
+          "name": "Morph scalable infrastructures",
+          "launch_date": "2024-02-24"
+        },
+        {
+          "name": "E-enable efficient paradigms",
+          "launch_date": "2020-12-29"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00314",
+    "profile": {
+      "founding_year": 2008,
+      "employee_count": 247,
+      "tech_stack": [
+        "Go",
+        "Rust",
+        "JavaScript"
+      ],
+      "is_public": false,
+      "headquarters": "澳门市",
+      "products": [
+        {
+          "name": "Extend visionary schemas",
+          "launch_date": "2024-07-04"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00022",
+    "profile": {
+      "founding_year": 2019,
+      "employee_count": 2,
+      "tech_stack": [
+        "Go",
+        "JavaScript",
+        "Java"
+      ],
+      "is_public": true,
+      "headquarters": "郑州市",
+      "products": [
+        {
+          "name": "Matrix b2c users",
+          "launch_date": "2021-02-26"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00253",
+    "profile": {
+      "founding_year": 2008,
+      "employee_count": 12,
+      "tech_stack": [
+        "Go",
+        "JavaScript",
+        "Java"
+      ],
+      "is_public": false,
+      "headquarters": "峰县",
+      "products": [
+        {
+          "name": "Enable revolutionary content",
+          "launch_date": "2022-10-20"
+        },
+        {
+          "name": "Re-contextualize revolutionary convergence",
+          "launch_date": "2022-01-10"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00236",
+    "profile": {
+      "founding_year": 2010,
+      "employee_count": 447,
+      "tech_stack": [
+        "Java",
+        "Rust",
+        "Go"
+      ],
+      "is_public": false,
+      "headquarters": "银川县",
+      "products": [
+        {
+          "name": "Revolutionize transparent e-business",
+          "launch_date": "2024-09-22"
+        },
+        {
+          "name": "Re-contextualize web-enabled communities",
+          "launch_date": "2025-11-10"
+        },
+        {
+          "name": "Exploit virtual e-markets",
+          "launch_date": "2021-02-06"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00345",
+    "profile": {
+      "founding_year": 2019,
+      "employee_count": 18,
+      "tech_stack": [
+        "Java",
+        "JavaScript",
+        "Go"
+      ],
+      "is_public": false,
+      "headquarters": "秀梅市",
+      "products": [
+        {
+          "name": "Empower granular platforms",
+          "launch_date": "2022-11-21"
+        },
+        {
+          "name": "Integrate collaborative e-services",
+          "launch_date": "2021-12-22"
+        },
+        {
+          "name": "Redefine ubiquitous convergence",
+          "launch_date": "2022-07-03"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00049",
+    "profile": {
+      "founding_year": 2004,
+      "employee_count": 104,
+      "tech_stack": [
+        "Rust",
+        "Java",
+        "JavaScript"
+      ],
+      "is_public": false,
+      "headquarters": "广州市",
+      "products": [
+        {
+          "name": "Repurpose dynamic interfaces",
+          "launch_date": "2022-08-14"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00475",
+    "profile": {
+      "founding_year": 2000,
+      "employee_count": 126,
+      "tech_stack": [
+        "Python",
+        "Go",
+        "Rust"
+      ],
+      "is_public": false,
+      "headquarters": "兴安盟县",
+      "products": [
+        {
+          "name": "Visualize wireless methodologies",
+          "launch_date": "2025-11-19"
+        },
+        {
+          "name": "Incubate open-source web-readiness",
+          "launch_date": "2021-07-21"
+        },
+        {
+          "name": "Morph virtual applications",
+          "launch_date": "2025-10-16"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00059",
+    "profile": {
+      "founding_year": 2001,
+      "employee_count": 31,
+      "tech_stack": [
+        "Java",
+        "Go",
+        "Python"
+      ],
+      "is_public": true,
+      "headquarters": "明市",
+      "products": [
+        {
+          "name": "Expedite user-centric convergence",
+          "launch_date": "2024-08-15"
+        },
+        {
+          "name": "Harness user-centric metrics",
+          "launch_date": "2025-11-25"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00170",
+    "profile": {
+      "founding_year": 2018,
+      "employee_count": 54,
+      "tech_stack": [
+        "Go",
+        "Java",
+        "JavaScript"
+      ],
+      "is_public": true,
+      "headquarters": "六安市",
+      "products": [
+        {
+          "name": "Morph revolutionary e-commerce",
+          "launch_date": "2020-12-26"
+        },
+        {
+          "name": "Re-contextualize 24/365 relationships",
+          "launch_date": "2023-02-18"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00476",
+    "profile": {
+      "founding_year": 2019,
+      "employee_count": 11,
+      "tech_stack": [
+        "Python",
+        "Go",
+        "JavaScript"
+      ],
+      "is_public": false,
+      "headquarters": "玉梅市",
+      "products": [
+        {
+          "name": "Drive seamless mindshare",
+          "launch_date": "2022-07-11"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00188",
+    "profile": {
+      "founding_year": 2016,
+      "employee_count": 166,
+      "tech_stack": [
+        "JavaScript",
+        "Go",
+        "Java"
+      ],
+      "is_public": false,
+      "headquarters": "晶县",
+      "products": [
+        {
+          "name": "Scale distributed schemas",
+          "launch_date": "2021-08-12"
+        },
+        {
+          "name": "Deploy enterprise methodologies",
+          "launch_date": "2024-09-19"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00464",
+    "profile": {
+      "founding_year": 2002,
+      "employee_count": 3,
+      "tech_stack": [
+        "Python",
+        "Rust",
+        "JavaScript"
+      ],
+      "is_public": false,
+      "headquarters": "邯郸县",
+      "products": [
+        {
+          "name": "Engage clicks-and-mortar content",
+          "launch_date": "2022-05-31"
+        },
+        {
+          "name": "Brand world-class bandwidth",
+          "launch_date": "2023-03-10"
+        },
+        {
+          "name": "Innovate killer mindshare",
+          "launch_date": "2023-05-06"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00190",
+    "profile": {
+      "founding_year": 2015,
+      "employee_count": 273,
+      "tech_stack": [
+        "Java",
+        "Go",
+        "Rust"
+      ],
+      "is_public": false,
+      "headquarters": "兰州县",
+      "products": [
+        {
+          "name": "Deliver open-source infrastructures",
+          "launch_date": "2025-01-26"
+        },
+        {
+          "name": "Engineer web-enabled methodologies",
+          "launch_date": "2022-07-13"
+        },
+        {
+          "name": "Exploit 24/365 eyeballs",
+          "launch_date": "2021-02-05"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00446",
+    "profile": {
+      "founding_year": 2015,
+      "employee_count": 21,
+      "tech_stack": [
+        "Rust",
+        "Java",
+        "JavaScript"
+      ],
+      "is_public": false,
+      "headquarters": "深圳市",
+      "products": [
+        {
+          "name": "Target next-generation functionalities",
+          "launch_date": "2023-11-09"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00175",
+    "profile": {
+      "founding_year": 2007,
+      "employee_count": 168,
+      "tech_stack": [
+        "Go",
+        "Rust",
+        "Java"
+      ],
+      "is_public": false,
+      "headquarters": "金凤县",
+      "products": [
+        {
+          "name": "Incentivize b2b experiences",
+          "launch_date": "2024-06-01"
+        },
+        {
+          "name": "Productize sticky e-commerce",
+          "launch_date": "2022-01-26"
+        },
+        {
+          "name": "Exploit plug-and-play markets",
+          "launch_date": "2023-10-07"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00051",
+    "profile": {
+      "founding_year": 2016,
+      "employee_count": 49,
+      "tech_stack": [
+        "JavaScript",
+        "Python",
+        "Java"
+      ],
+      "is_public": false,
+      "headquarters": "宜都市",
+      "products": [
+        {
+          "name": "Exploit plug-and-play web services",
+          "launch_date": "2023-08-20"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00364",
+    "profile": {
+      "founding_year": 2009,
+      "employee_count": 23,
+      "tech_stack": [
+        "Python",
+        "Java",
+        "Rust"
+      ],
+      "is_public": false,
+      "headquarters": "玉县",
+      "products": [
+        {
+          "name": "E-enable customized communities",
+          "launch_date": "2024-09-11"
+        },
+        {
+          "name": "Syndicate customized portals",
+          "launch_date": "2024-09-26"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00055",
+    "profile": {
+      "founding_year": 2006,
+      "employee_count": 312,
+      "tech_stack": [
+        "Java",
+        "JavaScript",
+        "Go"
+      ],
+      "is_public": false,
+      "headquarters": "桂芝市",
+      "products": [
+        {
+          "name": "Empower visionary partnerships",
+          "launch_date": "2024-07-18"
+        },
+        {
+          "name": "Incentivize real-time supply-chains",
+          "launch_date": "2022-07-30"
+        },
+        {
+          "name": "Incubate strategic channels",
+          "launch_date": "2021-09-24"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00244",
+    "profile": {
+      "founding_year": 2009,
+      "employee_count": 33,
+      "tech_stack": [
+        "Java",
+        "Go",
+        "Python"
+      ],
+      "is_public": false,
+      "headquarters": "建军市",
+      "products": [
+        {
+          "name": "Optimize next-generation e-markets",
+          "launch_date": "2022-08-19"
+        },
+        {
+          "name": "Target next-generation markets",
+          "launch_date": "2022-01-04"
+        },
+        {
+          "name": "Deploy integrated applications",
+          "launch_date": "2025-09-16"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00320",
+    "profile": {
+      "founding_year": 2006,
+      "employee_count": 92,
+      "tech_stack": [
+        "Python",
+        "Java",
+        "JavaScript"
+      ],
+      "is_public": false,
+      "headquarters": "海门县",
+      "products": [
+        {
+          "name": "Implement synergistic content",
+          "launch_date": "2024-09-29"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00485",
+    "profile": {
+      "founding_year": 2011,
+      "employee_count": 58,
+      "tech_stack": [
+        "Go",
+        "JavaScript",
+        "Rust"
+      ],
+      "is_public": false,
+      "headquarters": "建平县",
+      "products": [
+        {
+          "name": "Enhance real-time e-commerce",
+          "launch_date": "2023-05-29"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00307",
+    "profile": {
+      "founding_year": 2003,
+      "employee_count": 25,
+      "tech_stack": [
+        "JavaScript",
+        "Java",
+        "Rust"
+      ],
+      "is_public": false,
+      "headquarters": "雪县",
+      "products": [
+        {
+          "name": "Drive frictionless bandwidth",
+          "launch_date": "2025-07-30"
+        },
+        {
+          "name": "Re-intermediate proactive interfaces",
+          "launch_date": "2023-12-09"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00135",
+    "profile": {
+      "founding_year": 2015,
+      "employee_count": 9,
+      "tech_stack": [
+        "Python",
+        "Go",
+        "Java"
+      ],
+      "is_public": true,
+      "headquarters": "兰州县",
+      "products": [
+        {
+          "name": "Enable plug-and-play roi",
+          "launch_date": "2021-03-24"
+        },
+        {
+          "name": "Synergize world-class e-tailers",
+          "launch_date": "2023-04-02"
+        },
+        {
+          "name": "Facilitate enterprise niches",
+          "launch_date": "2024-09-26"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00329",
+    "profile": {
+      "founding_year": 2006,
+      "employee_count": 77,
+      "tech_stack": [
+        "Rust",
+        "JavaScript",
+        "Go"
+      ],
+      "is_public": false,
+      "headquarters": "娟市",
+      "products": [
+        {
+          "name": "Syndicate vertical users",
+          "launch_date": "2021-03-28"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00167",
+    "profile": {
+      "founding_year": 2020,
+      "employee_count": 16,
+      "tech_stack": [
+        "Go",
+        "Rust",
+        "Java"
+      ],
+      "is_public": false,
+      "headquarters": "芳市",
+      "products": [
+        {
+          "name": "Revolutionize revolutionary web-readiness",
+          "launch_date": "2025-09-22"
+        },
+        {
+          "name": "Aggregate vertical e-business",
+          "launch_date": "2021-09-27"
+        },
+        {
+          "name": "Enable collaborative web services",
+          "launch_date": "2021-07-19"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00274",
+    "profile": {
+      "founding_year": 2007,
+      "employee_count": 176,
+      "tech_stack": [
+        "Go",
+        "Java",
+        "JavaScript"
+      ],
+      "is_public": false,
+      "headquarters": "佛山县",
+      "products": [
+        {
+          "name": "Revolutionize out-of-the-box communities",
+          "launch_date": "2024-01-03"
+        },
+        {
+          "name": "Extend one-to-one communities",
+          "launch_date": "2025-10-20"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00388",
+    "profile": {
+      "founding_year": 2015,
+      "employee_count": 606,
+      "tech_stack": [
+        "Python",
+        "Go",
+        "Rust"
+      ],
+      "is_public": true,
+      "headquarters": "重庆县",
+      "products": [
+        {
+          "name": "Maximize enterprise interfaces",
+          "launch_date": "2025-09-08"
+        },
+        {
+          "name": "Aggregate intuitive applications",
+          "launch_date": "2024-06-06"
+        },
+        {
+          "name": "Whiteboard interactive platforms",
+          "launch_date": "2024-06-18"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00089",
+    "profile": {
+      "founding_year": 2017,
+      "employee_count": 155,
+      "tech_stack": [
+        "Java",
+        "Go",
+        "JavaScript"
+      ],
+      "is_public": false,
+      "headquarters": "欢市",
+      "products": [
+        {
+          "name": "Seize cutting-edge web services",
+          "launch_date": "2022-10-31"
+        },
+        {
+          "name": "Deliver cross-platform synergies",
+          "launch_date": "2025-03-24"
+        },
+        {
+          "name": "Transition holistic platforms",
+          "launch_date": "2023-02-23"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00316",
+    "profile": {
+      "founding_year": 2014,
+      "employee_count": 98,
+      "tech_stack": [
+        "Go",
+        "Java",
+        "Rust"
+      ],
+      "is_public": false,
+      "headquarters": "桂芳市",
+      "products": [
+        {
+          "name": "Brand virtual deliverables",
+          "launch_date": "2025-10-21"
+        },
+        {
+          "name": "Empower compelling bandwidth",
+          "launch_date": "2023-02-26"
+        },
+        {
+          "name": "Drive real-time vortals",
+          "launch_date": "2025-03-28"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00014",
+    "profile": {
+      "founding_year": 2012,
+      "employee_count": 77,
+      "tech_stack": [
+        "Go",
+        "Python",
+        "Java"
+      ],
+      "is_public": false,
+      "headquarters": "兴安盟县",
+      "products": [
+        {
+          "name": "Incentivize plug-and-play networks",
+          "launch_date": "2024-01-12"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00242",
+    "profile": {
+      "founding_year": 2020,
+      "employee_count": 37,
+      "tech_stack": [
+        "Python",
+        "JavaScript",
+        "Rust"
+      ],
+      "is_public": false,
+      "headquarters": "雪市",
+      "products": [
+        {
+          "name": "Synthesize world-class roi",
+          "launch_date": "2023-06-01"
+        },
+        {
+          "name": "Seize back-end supply-chains",
+          "launch_date": "2022-05-17"
+        },
+        {
+          "name": "Expedite efficient schemas",
+          "launch_date": "2021-01-10"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00265",
+    "profile": {
+      "founding_year": 2018,
+      "employee_count": 124,
+      "tech_stack": [
+        "Java",
+        "Go",
+        "Python"
+      ],
+      "is_public": false,
+      "headquarters": "兰州市",
+      "products": [
+        {
+          "name": "Drive transparent models",
+          "launch_date": "2023-10-03"
+        },
+        {
+          "name": "Incentivize collaborative experiences",
+          "launch_date": "2024-07-15"
+        },
+        {
+          "name": "Grow vertical infrastructures",
+          "launch_date": "2022-06-13"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00346",
+    "profile": {
+      "founding_year": 2002,
+      "employee_count": 21,
+      "tech_stack": [
+        "Java",
+        "Go",
+        "Python"
+      ],
+      "is_public": false,
+      "headquarters": "丽县",
+      "products": [
+        {
+          "name": "Repurpose out-of-the-box info-mediaries",
+          "launch_date": "2023-09-30"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00053",
+    "profile": {
+      "founding_year": 2007,
+      "employee_count": 9,
+      "tech_stack": [
+        "Python",
+        "Go",
+        "JavaScript"
+      ],
+      "is_public": false,
+      "headquarters": "玉华县",
+      "products": [
+        {
+          "name": "Seize ubiquitous niches",
+          "launch_date": "2022-07-06"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00340",
+    "profile": {
+      "founding_year": 2012,
+      "employee_count": 159,
+      "tech_stack": [
+        "Python",
+        "Rust",
+        "Go"
+      ],
+      "is_public": false,
+      "headquarters": "济南市",
+      "products": [
+        {
+          "name": "Harness 24/7 users",
+          "launch_date": "2025-09-25"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00092",
+    "profile": {
+      "founding_year": 2014,
+      "employee_count": 130,
+      "tech_stack": [
+        "Java",
+        "JavaScript",
+        "Go"
+      ],
+      "is_public": true,
+      "headquarters": "南宁市",
+      "products": [
+        {
+          "name": "Extend compelling niches",
+          "launch_date": "2024-08-07"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00367",
+    "profile": {
+      "founding_year": 2000,
+      "employee_count": 834,
+      "tech_stack": [
+        "Go",
+        "Rust",
+        "JavaScript"
+      ],
+      "is_public": true,
+      "headquarters": "帅市",
+      "products": [
+        {
+          "name": "Envisioneer bleeding-edge relationships",
+          "launch_date": "2021-11-15"
+        },
+        {
+          "name": "Implement end-to-end niches",
+          "launch_date": "2021-03-16"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00455",
+    "profile": {
+      "founding_year": 2002,
+      "employee_count": 16,
+      "tech_stack": [
+        "Python",
+        "Go",
+        "JavaScript"
+      ],
+      "is_public": false,
+      "headquarters": "辛集市",
+      "products": [
+        {
+          "name": "Whiteboard holistic platforms",
+          "launch_date": "2025-05-05"
+        },
+        {
+          "name": "Maximize front-end info-mediaries",
+          "launch_date": "2023-05-16"
+        },
+        {
+          "name": "Facilitate viral markets",
+          "launch_date": "2022-03-29"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00428",
+    "profile": {
+      "founding_year": 2012,
+      "employee_count": 276,
+      "tech_stack": [
+        "Python",
+        "Java",
+        "Rust"
+      ],
+      "is_public": false,
+      "headquarters": "林市",
+      "products": [
+        {
+          "name": "Strategize holistic partnerships",
+          "launch_date": "2023-11-12"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00264",
+    "profile": {
+      "founding_year": 2016,
+      "employee_count": 37,
+      "tech_stack": [
+        "JavaScript",
+        "Java",
+        "Rust"
+      ],
+      "is_public": true,
+      "headquarters": "长沙市",
+      "products": [
+        {
+          "name": "Exploit seamless infrastructures",
+          "launch_date": "2025-12-12"
+        },
+        {
+          "name": "Embrace next-generation metrics",
+          "launch_date": "2023-12-17"
+        },
+        {
+          "name": "Re-intermediate magnetic deliverables",
+          "launch_date": "2022-11-17"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00431",
+    "profile": {
+      "founding_year": 2003,
+      "employee_count": 84,
+      "tech_stack": [
+        "Go",
+        "Rust",
+        "Java"
+      ],
+      "is_public": false,
+      "headquarters": "梅县",
+      "products": [
+        {
+          "name": "Monetize leading-edge e-business",
+          "launch_date": "2025-10-12"
+        },
+        {
+          "name": "Transform best-of-breed functionalities",
+          "launch_date": "2022-01-12"
+        },
+        {
+          "name": "Repurpose strategic communities",
+          "launch_date": "2022-03-06"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00035",
+    "profile": {
+      "founding_year": 2000,
+      "employee_count": 160,
+      "tech_stack": [
+        "Python",
+        "Go",
+        "Rust"
+      ],
+      "is_public": false,
+      "headquarters": "南京市",
+      "products": [
+        {
+          "name": "Deploy customized metrics",
+          "launch_date": "2023-04-30"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00206",
+    "profile": {
+      "founding_year": 2014,
+      "employee_count": 126,
+      "tech_stack": [
+        "JavaScript",
+        "Rust",
+        "Python"
+      ],
+      "is_public": false,
+      "headquarters": "福州县",
+      "products": [
+        {
+          "name": "Unleash front-end bandwidth",
+          "launch_date": "2021-05-02"
+        },
+        {
+          "name": "Enhance back-end functionalities",
+          "launch_date": "2023-12-05"
+        },
+        {
+          "name": "Exploit 24/365 e-commerce",
+          "launch_date": "2021-07-20"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00081",
+    "profile": {
+      "founding_year": 2002,
+      "employee_count": 14,
+      "tech_stack": [
+        "JavaScript",
+        "Python",
+        "Java"
+      ],
+      "is_public": true,
+      "headquarters": "长沙县",
+      "products": [
+        {
+          "name": "Transition b2b partnerships",
+          "launch_date": "2021-04-10"
+        },
+        {
+          "name": "Generate extensible metrics",
+          "launch_date": "2024-09-21"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00420",
+    "profile": {
+      "founding_year": 2007,
+      "employee_count": 160,
+      "tech_stack": [
+        "Rust",
+        "JavaScript",
+        "Go"
+      ],
+      "is_public": false,
+      "headquarters": "丽丽市",
+      "products": [
+        {
+          "name": "Target seamless interfaces",
+          "launch_date": "2025-09-10"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00050",
+    "profile": {
+      "founding_year": 2006,
+      "employee_count": 18,
+      "tech_stack": [
+        "Rust",
+        "JavaScript",
+        "Go"
+      ],
+      "is_public": false,
+      "headquarters": "丽丽市",
+      "products": [
+        {
+          "name": "Expedite revolutionary e-commerce",
+          "launch_date": "2024-08-25"
+        },
+        {
+          "name": "Expedite dot-com web-readiness",
+          "launch_date": "2021-06-07"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00002",
+    "profile": {
+      "founding_year": 2003,
+      "employee_count": 50,
+      "tech_stack": [
+        "Python",
+        "JavaScript",
+        "Java"
+      ],
+      "is_public": false,
+      "headquarters": "通辽市",
+      "products": [
+        {
+          "name": "Engineer virtual info-mediaries",
+          "launch_date": "2023-07-29"
+        },
+        {
+          "name": "Grow efficient roi",
+          "launch_date": "2025-12-18"
+        },
+        {
+          "name": "Brand holistic infrastructures",
+          "launch_date": "2023-04-30"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00390",
+    "profile": {
+      "founding_year": 2006,
+      "employee_count": 57,
+      "tech_stack": [
+        "Go",
+        "Rust",
+        "JavaScript"
+      ],
+      "is_public": false,
+      "headquarters": "颖县",
+      "products": [
+        {
+          "name": "Repurpose sticky communities",
+          "launch_date": "2022-08-17"
+        },
+        {
+          "name": "Scale rich technologies",
+          "launch_date": "2024-04-16"
+        },
+        {
+          "name": "Strategize robust bandwidth",
+          "launch_date": "2021-06-01"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00054",
+    "profile": {
+      "founding_year": 2004,
+      "employee_count": 38,
+      "tech_stack": [
+        "JavaScript",
+        "Go",
+        "Python"
+      ],
+      "is_public": false,
+      "headquarters": "凤英市",
+      "products": [
+        {
+          "name": "Revolutionize wireless mindshare",
+          "launch_date": "2025-02-07"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00106",
+    "profile": {
+      "founding_year": 2000,
+      "employee_count": 43,
+      "tech_stack": [
+        "Java",
+        "JavaScript",
+        "Rust"
+      ],
+      "is_public": false,
+      "headquarters": "关岭县",
+      "products": [
+        {
+          "name": "Deploy scalable solutions",
+          "launch_date": "2023-07-28"
+        },
+        {
+          "name": "Re-intermediate rich functionalities",
+          "launch_date": "2023-03-10"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00260",
+    "profile": {
+      "founding_year": 2009,
+      "employee_count": 30,
+      "tech_stack": [
+        "JavaScript",
+        "Go",
+        "Python"
+      ],
+      "is_public": true,
+      "headquarters": "杭州县",
+      "products": [
+        {
+          "name": "Engage end-to-end technologies",
+          "launch_date": "2023-03-03"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00310",
+    "profile": {
+      "founding_year": 2007,
+      "employee_count": 56,
+      "tech_stack": [
+        "Python",
+        "Go",
+        "Java"
+      ],
+      "is_public": false,
+      "headquarters": "佳市",
+      "products": [
+        {
+          "name": "Whiteboard web-enabled communities",
+          "launch_date": "2022-07-13"
+        },
+        {
+          "name": "Implement transparent infrastructures",
+          "launch_date": "2022-02-06"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00477",
+    "profile": {
+      "founding_year": 2002,
+      "employee_count": 9,
+      "tech_stack": [
+        "Python",
+        "JavaScript",
+        "Rust"
+      ],
+      "is_public": false,
+      "headquarters": "佛山市",
+      "products": [
+        {
+          "name": "Visualize b2c models",
+          "launch_date": "2025-08-22"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00191",
+    "profile": {
+      "founding_year": 2014,
+      "employee_count": 154,
+      "tech_stack": [
+        "JavaScript",
+        "Java",
+        "Python"
+      ],
+      "is_public": true,
+      "headquarters": "凤兰县",
+      "products": [
+        {
+          "name": "Deploy compelling info-mediaries",
+          "launch_date": "2022-03-13"
+        },
+        {
+          "name": "Engage b2b architectures",
+          "launch_date": "2021-12-06"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00402",
+    "profile": {
+      "founding_year": 2014,
+      "employee_count": 160,
+      "tech_stack": [
+        "Rust",
+        "JavaScript",
+        "Java"
+      ],
+      "is_public": false,
+      "headquarters": "石家庄县",
+      "products": [
+        {
+          "name": "Revolutionize next-generation supply-chains",
+          "launch_date": "2025-08-25"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00218",
+    "profile": {
+      "founding_year": 2005,
+      "employee_count": 65,
+      "tech_stack": [
+        "Python",
+        "JavaScript",
+        "Rust"
+      ],
+      "is_public": false,
+      "headquarters": "伟县",
+      "products": [
+        {
+          "name": "Drive seamless applications",
+          "launch_date": "2023-11-17"
+        },
+        {
+          "name": "Repurpose holistic eyeballs",
+          "launch_date": "2023-03-18"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00044",
+    "profile": {
+      "founding_year": 2001,
+      "employee_count": 96,
+      "tech_stack": [
+        "Rust",
+        "Go",
+        "Java"
+      ],
+      "is_public": false,
+      "headquarters": "红梅县",
+      "products": [
+        {
+          "name": "Engage enterprise bandwidth",
+          "launch_date": "2025-08-23"
+        },
+        {
+          "name": "Cultivate dynamic action-items",
+          "launch_date": "2023-11-02"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00162",
+    "profile": {
+      "founding_year": 2020,
+      "employee_count": 33,
+      "tech_stack": [
+        "Go",
+        "Python",
+        "Rust"
+      ],
+      "is_public": false,
+      "headquarters": "永安市",
+      "products": [
+        {
+          "name": "Harness collaborative architectures",
+          "launch_date": "2022-11-28"
+        },
+        {
+          "name": "Repurpose b2c models",
+          "launch_date": "2025-10-20"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00202",
+    "profile": {
+      "founding_year": 2016,
+      "employee_count": 85,
+      "tech_stack": [
+        "Java",
+        "JavaScript",
+        "Go"
+      ],
+      "is_public": true,
+      "headquarters": "东莞县",
+      "products": [
+        {
+          "name": "Cultivate mission-critical systems",
+          "launch_date": "2021-06-23"
+        },
+        {
+          "name": "Redefine ubiquitous synergies",
+          "launch_date": "2024-08-03"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00484",
+    "profile": {
+      "founding_year": 2001,
+      "employee_count": 62,
+      "tech_stack": [
+        "Rust",
+        "Python",
+        "JavaScript"
+      ],
+      "is_public": false,
+      "headquarters": "建军市",
+      "products": [
+        {
+          "name": "Syndicate back-end supply-chains",
+          "launch_date": "2024-02-04"
+        },
+        {
+          "name": "Strategize strategic supply-chains",
+          "launch_date": "2025-03-29"
+        },
+        {
+          "name": "Iterate enterprise vortals",
+          "launch_date": "2024-02-11"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00270",
+    "profile": {
+      "founding_year": 2010,
+      "employee_count": 120,
+      "tech_stack": [
+        "JavaScript",
+        "Rust",
+        "Go"
+      ],
+      "is_public": true,
+      "headquarters": "明市",
+      "products": [
+        {
+          "name": "Incentivize front-end e-services",
+          "launch_date": "2024-09-17"
+        },
+        {
+          "name": "Brand mission-critical functionalities",
+          "launch_date": "2024-07-01"
+        },
+        {
+          "name": "Transform visionary communities",
+          "launch_date": "2024-06-12"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00351",
+    "profile": {
+      "founding_year": 2007,
+      "employee_count": 30,
+      "tech_stack": [
+        "Go",
+        "Rust",
+        "Java"
+      ],
+      "is_public": true,
+      "headquarters": "长春县",
+      "products": [
+        {
+          "name": "Generate leading-edge technologies",
+          "launch_date": "2022-10-08"
+        },
+        {
+          "name": "Brand b2b action-items",
+          "launch_date": "2023-08-20"
+        },
+        {
+          "name": "Maximize viral communities",
+          "launch_date": "2021-11-07"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00304",
+    "profile": {
+      "founding_year": 2004,
+      "employee_count": 119,
+      "tech_stack": [
+        "Go",
+        "Rust",
+        "Java"
+      ],
+      "is_public": false,
+      "headquarters": "秀英县",
+      "products": [
+        {
+          "name": "Redefine b2b e-services",
+          "launch_date": "2023-04-14"
+        },
+        {
+          "name": "Morph ubiquitous portals",
+          "launch_date": "2024-04-24"
+        },
+        {
+          "name": "Productize plug-and-play technologies",
+          "launch_date": "2024-05-13"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00456",
+    "profile": {
+      "founding_year": 2013,
+      "employee_count": 86,
+      "tech_stack": [
+        "Java",
+        "Go",
+        "Rust"
+      ],
+      "is_public": false,
+      "headquarters": "乌鲁木齐县",
+      "products": [
+        {
+          "name": "Seize seamless functionalities",
+          "launch_date": "2025-10-15"
+        },
+        {
+          "name": "Scale dot-com bandwidth",
+          "launch_date": "2025-03-16"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00462",
+    "profile": {
+      "founding_year": 2012,
+      "employee_count": 195,
+      "tech_stack": [
+        "Go",
+        "Python",
+        "Java"
+      ],
+      "is_public": false,
+      "headquarters": "六安县",
+      "products": [
+        {
+          "name": "Transform web-enabled architectures",
+          "launch_date": "2023-11-02"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00252",
+    "profile": {
+      "founding_year": 2018,
+      "employee_count": 4,
+      "tech_stack": [
+        "Python",
+        "Java",
+        "Rust"
+      ],
+      "is_public": false,
+      "headquarters": "英市",
+      "products": [
+        {
+          "name": "E-enable impactful niches",
+          "launch_date": "2021-01-06"
+        },
+        {
+          "name": "Cultivate scalable metrics",
+          "launch_date": "2024-09-14"
+        },
+        {
+          "name": "E-enable front-end e-services",
+          "launch_date": "2024-01-06"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00296",
+    "profile": {
+      "founding_year": 2003,
+      "employee_count": 221,
+      "tech_stack": [
+        "Python",
+        "Rust",
+        "JavaScript"
+      ],
+      "is_public": false,
+      "headquarters": "建平市",
+      "products": [
+        {
+          "name": "Re-intermediate dot-com methodologies",
+          "launch_date": "2024-10-03"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00213",
+    "profile": {
+      "founding_year": 2014,
+      "employee_count": 50,
+      "tech_stack": [
+        "Java",
+        "Go",
+        "Python"
+      ],
+      "is_public": false,
+      "headquarters": "西安市",
+      "products": [
+        {
+          "name": "Monetize visionary paradigms",
+          "launch_date": "2023-11-16"
+        },
+        {
+          "name": "Drive end-to-end infrastructures",
+          "launch_date": "2025-07-11"
+        },
+        {
+          "name": "Harness next-generation roi",
+          "launch_date": "2021-12-24"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00208",
+    "profile": {
+      "founding_year": 2011,
+      "employee_count": 22,
+      "tech_stack": [
+        "Rust",
+        "Python",
+        "Go"
+      ],
+      "is_public": false,
+      "headquarters": "桂花县",
+      "products": [
+        {
+          "name": "E-enable frictionless portals",
+          "launch_date": "2025-07-19"
+        },
+        {
+          "name": "Syndicate distributed supply-chains",
+          "launch_date": "2024-12-31"
+        },
+        {
+          "name": "Target intuitive eyeballs",
+          "launch_date": "2024-09-30"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00237",
+    "profile": {
+      "founding_year": 2020,
+      "employee_count": 27,
+      "tech_stack": [
+        "Python",
+        "JavaScript",
+        "Go"
+      ],
+      "is_public": true,
+      "headquarters": "巢湖县",
+      "products": [
+        {
+          "name": "Evolve impactful synergies",
+          "launch_date": "2022-04-20"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00338",
+    "profile": {
+      "founding_year": 2002,
+      "employee_count": 66,
+      "tech_stack": [
+        "JavaScript",
+        "Python",
+        "Go"
+      ],
+      "is_public": false,
+      "headquarters": "宜都县",
+      "products": [
+        {
+          "name": "Innovate back-end applications",
+          "launch_date": "2022-11-19"
+        },
+        {
+          "name": "Whiteboard out-of-the-box platforms",
+          "launch_date": "2024-05-08"
+        },
+        {
+          "name": "Syndicate proactive e-business",
+          "launch_date": "2025-05-26"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00280",
+    "profile": {
+      "founding_year": 2003,
+      "employee_count": 13,
+      "tech_stack": [
+        "Java",
+        "Go",
+        "Rust"
+      ],
+      "is_public": false,
+      "headquarters": "建平市",
+      "products": [
+        {
+          "name": "Whiteboard plug-and-play content",
+          "launch_date": "2024-03-23"
+        },
+        {
+          "name": "Embrace global paradigms",
+          "launch_date": "2025-09-16"
+        },
+        {
+          "name": "Monetize rich initiatives",
+          "launch_date": "2021-06-18"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00410",
+    "profile": {
+      "founding_year": 2011,
+      "employee_count": 58,
+      "tech_stack": [
+        "JavaScript",
+        "Java",
+        "Rust"
+      ],
+      "is_public": false,
+      "headquarters": "六安县",
+      "products": [
+        {
+          "name": "Disintermediate next-generation applications",
+          "launch_date": "2024-09-09"
+        },
+        {
+          "name": "Orchestrate next-generation experiences",
+          "launch_date": "2021-06-21"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00217",
+    "profile": {
+      "founding_year": 2003,
+      "employee_count": 132,
+      "tech_stack": [
+        "Go",
+        "Rust",
+        "Python"
+      ],
+      "is_public": true,
+      "headquarters": "桂荣县",
+      "products": [
+        {
+          "name": "Integrate out-of-the-box e-tailers",
+          "launch_date": "2023-03-13"
+        },
+        {
+          "name": "Incentivize bricks-and-clicks platforms",
+          "launch_date": "2025-11-19"
+        },
+        {
+          "name": "Disintermediate synergistic markets",
+          "launch_date": "2022-12-20"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00380",
+    "profile": {
+      "founding_year": 2008,
+      "employee_count": 152,
+      "tech_stack": [
+        "Java",
+        "Python",
+        "Rust"
+      ],
+      "is_public": false,
+      "headquarters": "济南县",
+      "products": [
+        {
+          "name": "Evolve killer experiences",
+          "launch_date": "2024-03-05"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00493",
+    "profile": {
+      "founding_year": 2019,
+      "employee_count": 34,
+      "tech_stack": [
+        "JavaScript",
+        "Python",
+        "Java"
+      ],
+      "is_public": false,
+      "headquarters": "沈阳县",
+      "products": [
+        {
+          "name": "Incentivize end-to-end networks",
+          "launch_date": "2022-01-01"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00041",
+    "profile": {
+      "founding_year": 2005,
+      "employee_count": 39,
+      "tech_stack": [
+        "Python",
+        "Rust",
+        "Java"
+      ],
+      "is_public": false,
+      "headquarters": "南昌市",
+      "products": [
+        {
+          "name": "Facilitate b2b metrics",
+          "launch_date": "2020-12-28"
+        },
+        {
+          "name": "Iterate b2b channels",
+          "launch_date": "2023-09-05"
+        },
+        {
+          "name": "Exploit virtual initiatives",
+          "launch_date": "2024-04-13"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00157",
+    "profile": {
+      "founding_year": 2014,
+      "employee_count": 52,
+      "tech_stack": [
+        "Go",
+        "Java",
+        "Python"
+      ],
+      "is_public": true,
+      "headquarters": "太原市",
+      "products": [
+        {
+          "name": "Seize web-enabled applications",
+          "launch_date": "2022-08-06"
+        },
+        {
+          "name": "Reinvent back-end markets",
+          "launch_date": "2021-08-11"
+        },
+        {
+          "name": "Deploy one-to-one partnerships",
+          "launch_date": "2023-05-12"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00015",
+    "profile": {
+      "founding_year": 2014,
+      "employee_count": 34,
+      "tech_stack": [
+        "Java",
+        "Rust",
+        "Python"
+      ],
+      "is_public": false,
+      "headquarters": "宁县",
+      "products": [
+        {
+          "name": "Deliver magnetic e-business",
+          "launch_date": "2021-03-12"
+        },
+        {
+          "name": "Generate seamless bandwidth",
+          "launch_date": "2024-03-12"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00301",
+    "profile": {
+      "founding_year": 2001,
+      "employee_count": 22,
+      "tech_stack": [
+        "JavaScript",
+        "Python",
+        "Rust"
+      ],
+      "is_public": true,
+      "headquarters": "呼和浩特县",
+      "products": [
+        {
+          "name": "Iterate wireless e-commerce",
+          "launch_date": "2024-05-29"
+        },
+        {
+          "name": "Synthesize visionary partnerships",
+          "launch_date": "2025-06-22"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00065",
+    "profile": {
+      "founding_year": 2002,
+      "employee_count": 54,
+      "tech_stack": [
+        "Go",
+        "Java",
+        "Python"
+      ],
+      "is_public": true,
+      "headquarters": "峰市",
+      "products": [
+        {
+          "name": "Enable efficient e-business",
+          "launch_date": "2024-02-22"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00327",
+    "profile": {
+      "founding_year": 2011,
+      "employee_count": 18,
+      "tech_stack": [
+        "JavaScript",
+        "Go",
+        "Rust"
+      ],
+      "is_public": false,
+      "headquarters": "春梅县",
+      "products": [
+        {
+          "name": "Target user-centric platforms",
+          "launch_date": "2024-12-10"
+        },
+        {
+          "name": "Embrace killer e-commerce",
+          "launch_date": "2023-03-27"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00009",
+    "profile": {
+      "founding_year": 2018,
+      "employee_count": 9,
+      "tech_stack": [
+        "JavaScript",
+        "Python",
+        "Rust"
+      ],
+      "is_public": false,
+      "headquarters": "永安县",
+      "products": [
+        {
+          "name": "Transition ubiquitous interfaces",
+          "launch_date": "2023-01-22"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00129",
+    "profile": {
+      "founding_year": 2017,
+      "employee_count": 12,
+      "tech_stack": [
+        "JavaScript",
+        "Java",
+        "Python"
+      ],
+      "is_public": false,
+      "headquarters": "辽阳县",
+      "products": [
+        {
+          "name": "Harness dot-com relationships",
+          "launch_date": "2025-09-30"
+        },
+        {
+          "name": "Innovate collaborative partnerships",
+          "launch_date": "2021-06-07"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00136",
+    "profile": {
+      "founding_year": 2010,
+      "employee_count": 128,
+      "tech_stack": [
+        "Rust",
+        "Go",
+        "Python"
+      ],
+      "is_public": true,
+      "headquarters": "西宁县",
+      "products": [
+        {
+          "name": "Transform out-of-the-box channels",
+          "launch_date": "2023-10-05"
+        },
+        {
+          "name": "Benchmark open-source web services",
+          "launch_date": "2021-08-03"
+        },
+        {
+          "name": "Seize cutting-edge markets",
+          "launch_date": "2025-10-27"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00472",
+    "profile": {
+      "founding_year": 2008,
+      "employee_count": 5,
+      "tech_stack": [
+        "Rust",
+        "Go",
+        "Java"
+      ],
+      "is_public": false,
+      "headquarters": "琴市",
+      "products": [
+        {
+          "name": "Maximize killer eyeballs",
+          "launch_date": "2024-04-05"
+        },
+        {
+          "name": "Enhance sticky convergence",
+          "launch_date": "2025-03-16"
+        },
+        {
+          "name": "Disintermediate one-to-one niches",
+          "launch_date": "2023-11-06"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00063",
+    "profile": {
+      "founding_year": 2009,
+      "employee_count": 161,
+      "tech_stack": [
+        "Go",
+        "Python",
+        "Java"
+      ],
+      "is_public": false,
+      "headquarters": "杰县",
+      "products": [
+        {
+          "name": "Utilize viral niches",
+          "launch_date": "2024-06-28"
+        },
+        {
+          "name": "Monetize cross-platform convergence",
+          "launch_date": "2021-01-03"
+        },
+        {
+          "name": "Cultivate b2b networks",
+          "launch_date": "2024-04-06"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00139",
+    "profile": {
+      "founding_year": 2015,
+      "employee_count": 28,
+      "tech_stack": [
+        "Java",
+        "Go",
+        "JavaScript"
+      ],
+      "is_public": true,
+      "headquarters": "武汉市",
+      "products": [
+        {
+          "name": "Evolve killer architectures",
+          "launch_date": "2023-01-29"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00499",
+    "profile": {
+      "founding_year": 2003,
+      "employee_count": 107,
+      "tech_stack": [
+        "Rust",
+        "Go",
+        "Python"
+      ],
+      "is_public": false,
+      "headquarters": "晨县",
+      "products": [
+        {
+          "name": "Monetize world-class networks",
+          "launch_date": "2023-12-17"
+        },
+        {
+          "name": "Matrix scalable eyeballs",
+          "launch_date": "2021-10-06"
+        },
+        {
+          "name": "Re-intermediate scalable methodologies",
+          "launch_date": "2021-05-21"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00392",
+    "profile": {
+      "founding_year": 2010,
+      "employee_count": 64,
+      "tech_stack": [
+        "Go",
+        "JavaScript",
+        "Rust"
+      ],
+      "is_public": false,
+      "headquarters": "玉华县",
+      "products": [
+        {
+          "name": "Expedite visionary e-markets",
+          "launch_date": "2022-05-06"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00163",
+    "profile": {
+      "founding_year": 2013,
+      "employee_count": 89,
+      "tech_stack": [
+        "Go",
+        "JavaScript",
+        "Java"
+      ],
+      "is_public": false,
+      "headquarters": "哈尔滨县",
+      "products": [
+        {
+          "name": "Embrace front-end methodologies",
+          "launch_date": "2024-05-15"
+        },
+        {
+          "name": "Synthesize extensible paradigms",
+          "launch_date": "2022-01-29"
+        },
+        {
+          "name": "Expedite leading-edge synergies",
+          "launch_date": "2021-12-31"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00419",
+    "profile": {
+      "founding_year": 2017,
+      "employee_count": 240,
+      "tech_stack": [
+        "JavaScript",
+        "Rust",
+        "Go"
+      ],
+      "is_public": false,
+      "headquarters": "合肥县",
+      "products": [
+        {
+          "name": "Envisioneer world-class initiatives",
+          "launch_date": "2021-01-06"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00289",
+    "profile": {
+      "founding_year": 2017,
+      "employee_count": 27,
+      "tech_stack": [
+        "Java",
+        "Go",
+        "Rust"
+      ],
+      "is_public": false,
+      "headquarters": "雷市",
+      "products": [
+        {
+          "name": "Synergize bleeding-edge mindshare",
+          "launch_date": "2023-10-09"
+        },
+        {
+          "name": "Repurpose synergistic partnerships",
+          "launch_date": "2022-12-18"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00379",
+    "profile": {
+      "founding_year": 2001,
+      "employee_count": 53,
+      "tech_stack": [
+        "Rust",
+        "Java",
+        "JavaScript"
+      ],
+      "is_public": false,
+      "headquarters": "荆门市",
+      "products": [
+        {
+          "name": "Target intuitive vortals",
+          "launch_date": "2023-11-09"
+        },
+        {
+          "name": "Maximize wireless functionalities",
+          "launch_date": "2023-01-25"
+        },
+        {
+          "name": "Embrace wireless web-readiness",
+          "launch_date": "2025-10-23"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00261",
+    "profile": {
+      "founding_year": 2007,
+      "employee_count": 46,
+      "tech_stack": [
+        "Python",
+        "JavaScript",
+        "Java"
+      ],
+      "is_public": true,
+      "headquarters": "宜都县",
+      "products": [
+        {
+          "name": "Evolve user-centric platforms",
+          "launch_date": "2022-03-12"
+        },
+        {
+          "name": "Benchmark wireless deliverables",
+          "launch_date": "2021-05-15"
+        },
+        {
+          "name": "Cultivate extensible supply-chains",
+          "launch_date": "2022-01-31"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00490",
+    "profile": {
+      "founding_year": 2006,
+      "employee_count": 51,
+      "tech_stack": [
+        "Python",
+        "JavaScript",
+        "Rust"
+      ],
+      "is_public": false,
+      "headquarters": "乌鲁木齐市",
+      "products": [
+        {
+          "name": "Mesh dynamic convergence",
+          "launch_date": "2022-09-25"
+        },
+        {
+          "name": "Transition b2b action-items",
+          "launch_date": "2021-06-28"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00231",
+    "profile": {
+      "founding_year": 2005,
+      "employee_count": 23,
+      "tech_stack": [
+        "Java",
+        "JavaScript",
+        "Go"
+      ],
+      "is_public": false,
+      "headquarters": "岩市",
+      "products": [
+        {
+          "name": "Expedite b2c experiences",
+          "launch_date": "2021-05-09"
+        },
+        {
+          "name": "Revolutionize rich bandwidth",
+          "launch_date": "2024-10-01"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00028",
+    "profile": {
+      "founding_year": 2014,
+      "employee_count": 81,
+      "tech_stack": [
+        "Java",
+        "JavaScript",
+        "Python"
+      ],
+      "is_public": false,
+      "headquarters": "凤英县",
+      "products": [
+        {
+          "name": "Orchestrate visionary partnerships",
+          "launch_date": "2023-04-28"
+        },
+        {
+          "name": "Whiteboard seamless niches",
+          "launch_date": "2023-12-08"
+        },
+        {
+          "name": "Seize intuitive content",
+          "launch_date": "2023-04-15"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00201",
+    "profile": {
+      "founding_year": 2013,
+      "employee_count": 134,
+      "tech_stack": [
+        "Rust",
+        "Python",
+        "Go"
+      ],
+      "is_public": false,
+      "headquarters": "呼和浩特县",
+      "products": [
+        {
+          "name": "E-enable front-end partnerships",
+          "launch_date": "2024-03-14"
+        },
+        {
+          "name": "Iterate e-business e-business",
+          "launch_date": "2023-12-13"
+        },
+        {
+          "name": "Synergize plug-and-play applications",
+          "launch_date": "2023-10-01"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00328",
+    "profile": {
+      "founding_year": 2017,
+      "employee_count": 21,
+      "tech_stack": [
+        "Java",
+        "Rust",
+        "Python"
+      ],
+      "is_public": true,
+      "headquarters": "大冶市",
+      "products": [
+        {
+          "name": "Harness collaborative mindshare",
+          "launch_date": "2021-09-24"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00268",
+    "profile": {
+      "founding_year": 2017,
+      "employee_count": 34,
+      "tech_stack": [
+        "Java",
+        "Go",
+        "Rust"
+      ],
+      "is_public": true,
+      "headquarters": "大冶市",
+      "products": [
+        {
+          "name": "Exploit cross-platform infrastructures",
+          "launch_date": "2023-07-02"
+        },
+        {
+          "name": "Reinvent revolutionary action-items",
+          "launch_date": "2024-07-07"
+        },
+        {
+          "name": "Grow granular relationships",
+          "launch_date": "2022-11-04"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00418",
+    "profile": {
+      "founding_year": 2005,
+      "employee_count": 90,
+      "tech_stack": [
+        "Java",
+        "Rust",
+        "JavaScript"
+      ],
+      "is_public": false,
+      "headquarters": "冬梅县",
+      "products": [
+        {
+          "name": "Revolutionize cross-platform methodologies",
+          "launch_date": "2023-12-20"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00033",
+    "profile": {
+      "founding_year": 2020,
+      "employee_count": 72,
+      "tech_stack": [
+        "Python",
+        "Go",
+        "Java"
+      ],
+      "is_public": true,
+      "headquarters": "鑫县",
+      "products": [
+        {
+          "name": "Transform integrated technologies",
+          "launch_date": "2022-03-28"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00048",
+    "profile": {
+      "founding_year": 2009,
+      "employee_count": 40,
+      "tech_stack": [
+        "Rust",
+        "Java",
+        "Go"
+      ],
+      "is_public": false,
+      "headquarters": "北镇市",
+      "products": [
+        {
+          "name": "Benchmark b2b convergence",
+          "launch_date": "2022-07-12"
+        },
+        {
+          "name": "Visualize impactful channels",
+          "launch_date": "2023-12-15"
+        },
+        {
+          "name": "Evolve extensible schemas",
+          "launch_date": "2022-11-11"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00407",
+    "profile": {
+      "founding_year": 2000,
+      "employee_count": 234,
+      "tech_stack": [
+        "Go",
+        "JavaScript",
+        "Java"
+      ],
+      "is_public": true,
+      "headquarters": "阳市",
+      "products": [
+        {
+          "name": "Visualize cutting-edge mindshare",
+          "launch_date": "2022-10-15"
+        },
+        {
+          "name": "Disintermediate extensible roi",
+          "launch_date": "2025-09-25"
+        },
+        {
+          "name": "Facilitate holistic solutions",
+          "launch_date": "2022-02-09"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00062",
+    "profile": {
+      "founding_year": 2005,
+      "employee_count": 54,
+      "tech_stack": [
+        "Rust",
+        "Python",
+        "JavaScript"
+      ],
+      "is_public": false,
+      "headquarters": "长沙市",
+      "products": [
+        {
+          "name": "Envisioneer mission-critical mindshare",
+          "launch_date": "2024-10-31"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00216",
+    "profile": {
+      "founding_year": 2014,
+      "employee_count": 164,
+      "tech_stack": [
+        "Java",
+        "Python",
+        "Rust"
+      ],
+      "is_public": false,
+      "headquarters": "阜新市",
+      "products": [
+        {
+          "name": "Expedite enterprise eyeballs",
+          "launch_date": "2021-10-15"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00293",
+    "profile": {
+      "founding_year": 2009,
+      "employee_count": 18,
+      "tech_stack": [
+        "Python",
+        "Go",
+        "JavaScript"
+      ],
+      "is_public": false,
+      "headquarters": "潜江市",
+      "products": [
+        {
+          "name": "Deploy bricks-and-clicks methodologies",
+          "launch_date": "2024-07-29"
+        },
+        {
+          "name": "Grow front-end systems",
+          "launch_date": "2022-02-23"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00099",
+    "profile": {
+      "founding_year": 2012,
+      "employee_count": 68,
+      "tech_stack": [
+        "Python",
+        "JavaScript",
+        "Java"
+      ],
+      "is_public": false,
+      "headquarters": "沈阳县",
+      "products": [
+        {
+          "name": "Productize dynamic relationships",
+          "launch_date": "2024-05-15"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00172",
+    "profile": {
+      "founding_year": 2002,
+      "employee_count": 25,
+      "tech_stack": [
+        "Java",
+        "Go",
+        "Rust"
+      ],
+      "is_public": false,
+      "headquarters": "丽华县",
+      "products": [
+        {
+          "name": "Revolutionize enterprise mindshare",
+          "launch_date": "2023-08-13"
+        },
+        {
+          "name": "Leverage 24/365 metrics",
+          "launch_date": "2021-09-01"
+        },
+        {
+          "name": "Morph scalable experiences",
+          "launch_date": "2023-05-20"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00214",
+    "profile": {
+      "founding_year": 2018,
+      "employee_count": 50,
+      "tech_stack": [
+        "Go",
+        "JavaScript",
+        "Python"
+      ],
+      "is_public": false,
+      "headquarters": "旭市",
+      "products": [
+        {
+          "name": "Envisioneer strategic communities",
+          "launch_date": "2022-05-05"
+        },
+        {
+          "name": "Productize b2b e-commerce",
+          "launch_date": "2021-06-08"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00449",
+    "profile": {
+      "founding_year": 2002,
+      "employee_count": 59,
+      "tech_stack": [
+        "Go",
+        "Python",
+        "JavaScript"
+      ],
+      "is_public": false,
+      "headquarters": "大冶县",
+      "products": [
+        {
+          "name": "Re-contextualize proactive e-markets",
+          "launch_date": "2021-03-30"
+        },
+        {
+          "name": "Deliver out-of-the-box action-items",
+          "launch_date": "2022-11-28"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00227",
+    "profile": {
+      "founding_year": 2007,
+      "employee_count": 54,
+      "tech_stack": [
+        "JavaScript",
+        "Go",
+        "Rust"
+      ],
+      "is_public": false,
+      "headquarters": "张家港市",
+      "products": [
+        {
+          "name": "Utilize turn-key platforms",
+          "launch_date": "2025-03-05"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00101",
+    "profile": {
+      "founding_year": 2007,
+      "employee_count": 73,
+      "tech_stack": [
+        "Java",
+        "JavaScript",
+        "Python"
+      ],
+      "is_public": false,
+      "headquarters": "峰市",
+      "products": [
+        {
+          "name": "Integrate front-end info-mediaries",
+          "launch_date": "2024-06-16"
+        },
+        {
+          "name": "Enable collaborative systems",
+          "launch_date": "2024-01-21"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00257",
+    "profile": {
+      "founding_year": 2017,
+      "employee_count": 119,
+      "tech_stack": [
+        "Go",
+        "Java",
+        "Python"
+      ],
+      "is_public": false,
+      "headquarters": "天津县",
+      "products": [
+        {
+          "name": "Architect b2c schemas",
+          "launch_date": "2025-09-05"
+        },
+        {
+          "name": "Expedite cutting-edge initiatives",
+          "launch_date": "2024-11-10"
+        },
+        {
+          "name": "Incentivize seamless initiatives",
+          "launch_date": "2021-03-20"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00005",
+    "profile": {
+      "founding_year": 2009,
+      "employee_count": 67,
+      "tech_stack": [
+        "JavaScript",
+        "Rust",
+        "Go"
+      ],
+      "is_public": false,
+      "headquarters": "桂芳市",
+      "products": [
+        {
+          "name": "Embrace rich metrics",
+          "launch_date": "2023-08-29"
+        },
+        {
+          "name": "Whiteboard web-enabled eyeballs",
+          "launch_date": "2022-06-08"
+        },
+        {
+          "name": "Implement synergistic action-items",
+          "launch_date": "2023-10-31"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00255",
+    "profile": {
+      "founding_year": 2012,
+      "employee_count": 81,
+      "tech_stack": [
+        "Rust",
+        "Go",
+        "JavaScript"
+      ],
+      "is_public": false,
+      "headquarters": "兰州县",
+      "products": [
+        {
+          "name": "Optimize vertical architectures",
+          "launch_date": "2025-05-06"
+        },
+        {
+          "name": "Integrate integrated relationships",
+          "launch_date": "2022-03-31"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00398",
+    "profile": {
+      "founding_year": 2007,
+      "employee_count": 16,
+      "tech_stack": [
+        "Rust",
+        "JavaScript",
+        "Python"
+      ],
+      "is_public": false,
+      "headquarters": "齐齐哈尔市",
+      "products": [
+        {
+          "name": "Seize web-enabled web services",
+          "launch_date": "2024-02-13"
+        },
+        {
+          "name": "Revolutionize open-source channels",
+          "launch_date": "2021-03-14"
+        },
+        {
+          "name": "Incubate cross-platform experiences",
+          "launch_date": "2021-11-07"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00359",
+    "profile": {
+      "founding_year": 2007,
+      "employee_count": 53,
+      "tech_stack": [
+        "Rust",
+        "Java",
+        "JavaScript"
+      ],
+      "is_public": false,
+      "headquarters": "荣市",
+      "products": [
+        {
+          "name": "Exploit global partnerships",
+          "launch_date": "2024-07-23"
+        },
+        {
+          "name": "Target robust technologies",
+          "launch_date": "2021-12-26"
+        },
+        {
+          "name": "Generate 24/365 paradigms",
+          "launch_date": "2022-07-22"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00283",
+    "profile": {
+      "founding_year": 2012,
+      "employee_count": 396,
+      "tech_stack": [
+        "Java",
+        "Rust",
+        "Python"
+      ],
+      "is_public": false,
+      "headquarters": "桂珍县",
+      "products": [
+        {
+          "name": "Morph robust experiences",
+          "launch_date": "2021-12-07"
+        },
+        {
+          "name": "Seize scalable experiences",
+          "launch_date": "2022-08-21"
+        },
+        {
+          "name": "Embrace out-of-the-box e-commerce",
+          "launch_date": "2025-06-05"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00393",
+    "profile": {
+      "founding_year": 2016,
+      "employee_count": 139,
+      "tech_stack": [
+        "Rust",
+        "Go",
+        "Java"
+      ],
+      "is_public": false,
+      "headquarters": "海燕县",
+      "products": [
+        {
+          "name": "Reinvent rich models",
+          "launch_date": "2022-10-25"
+        },
+        {
+          "name": "Exploit real-time infrastructures",
+          "launch_date": "2024-08-12"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00207",
+    "profile": {
+      "founding_year": 2010,
+      "employee_count": 67,
+      "tech_stack": [
+        "Rust",
+        "Go",
+        "JavaScript"
+      ],
+      "is_public": true,
+      "headquarters": "荆门市",
+      "products": [
+        {
+          "name": "Incubate distributed vortals",
+          "launch_date": "2021-06-28"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00042",
+    "profile": {
+      "founding_year": 2011,
+      "employee_count": 23,
+      "tech_stack": [
+        "Rust",
+        "JavaScript",
+        "Go"
+      ],
+      "is_public": false,
+      "headquarters": "英县",
+      "products": [
+        {
+          "name": "Grow cutting-edge communities",
+          "launch_date": "2024-06-05"
+        },
+        {
+          "name": "Seize customized paradigms",
+          "launch_date": "2024-08-11"
+        },
+        {
+          "name": "Redefine synergistic e-business",
+          "launch_date": "2025-12-20"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00461",
+    "profile": {
+      "founding_year": 2008,
+      "employee_count": 50,
+      "tech_stack": [
+        "Java",
+        "JavaScript",
+        "Go"
+      ],
+      "is_public": true,
+      "headquarters": "华市",
+      "products": [
+        {
+          "name": "Repurpose wireless relationships",
+          "launch_date": "2023-07-18"
+        },
+        {
+          "name": "Extend granular web-readiness",
+          "launch_date": "2021-09-09"
+        },
+        {
+          "name": "Expedite visionary paradigms",
+          "launch_date": "2021-08-10"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00179",
+    "profile": {
+      "founding_year": 2016,
+      "employee_count": 72,
+      "tech_stack": [
+        "Python",
+        "JavaScript",
+        "Java"
+      ],
+      "is_public": false,
+      "headquarters": "淮安县",
+      "products": [
+        {
+          "name": "Synergize robust metrics",
+          "launch_date": "2021-09-29"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00352",
+    "profile": {
+      "founding_year": 2019,
+      "employee_count": 38,
+      "tech_stack": [
+        "Python",
+        "Rust",
+        "Java"
+      ],
+      "is_public": true,
+      "headquarters": "洁县",
+      "products": [
+        {
+          "name": "Grow intuitive networks",
+          "launch_date": "2021-08-31"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00241",
+    "profile": {
+      "founding_year": 2006,
+      "employee_count": 583,
+      "tech_stack": [
+        "Python",
+        "Go",
+        "Rust"
+      ],
+      "is_public": false,
+      "headquarters": "桂珍县",
+      "products": [
+        {
+          "name": "Visualize efficient action-items",
+          "launch_date": "2025-10-12"
+        },
+        {
+          "name": "Utilize viral models",
+          "launch_date": "2023-07-26"
+        },
+        {
+          "name": "Redefine 24/7 portals",
+          "launch_date": "2024-11-07"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00052",
+    "profile": {
+      "founding_year": 2000,
+      "employee_count": 128,
+      "tech_stack": [
+        "Go",
+        "Java",
+        "Rust"
+      ],
+      "is_public": false,
+      "headquarters": "楠县",
+      "products": [
+        {
+          "name": "Scale holistic solutions",
+          "launch_date": "2021-08-04"
+        },
+        {
+          "name": "Iterate intuitive systems",
+          "launch_date": "2021-11-03"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00096",
+    "profile": {
+      "founding_year": 2015,
+      "employee_count": 52,
+      "tech_stack": [
+        "Java",
+        "Rust",
+        "Go"
+      ],
+      "is_public": false,
+      "headquarters": "健县",
+      "products": [
+        {
+          "name": "Repurpose cross-media partnerships",
+          "launch_date": "2023-09-23"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00222",
+    "profile": {
+      "founding_year": 2011,
+      "employee_count": 218,
+      "tech_stack": [
+        "JavaScript",
+        "Java",
+        "Rust"
+      ],
+      "is_public": false,
+      "headquarters": "梅市",
+      "products": [
+        {
+          "name": "Unleash virtual relationships",
+          "launch_date": "2023-07-10"
+        },
+        {
+          "name": "Embrace 24/365 channels",
+          "launch_date": "2022-02-28"
+        },
+        {
+          "name": "Synthesize proactive relationships",
+          "launch_date": "2023-10-01"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00143",
+    "profile": {
+      "founding_year": 2011,
+      "employee_count": 28,
+      "tech_stack": [
+        "Rust",
+        "JavaScript",
+        "Go"
+      ],
+      "is_public": true,
+      "headquarters": "丹丹市",
+      "products": [
+        {
+          "name": "Re-intermediate e-business partnerships",
+          "launch_date": "2022-07-11"
+        },
+        {
+          "name": "Unleash compelling deliverables",
+          "launch_date": "2023-01-12"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00171",
+    "profile": {
+      "founding_year": 2009,
+      "employee_count": 20,
+      "tech_stack": [
+        "Java",
+        "JavaScript",
+        "Python"
+      ],
+      "is_public": false,
+      "headquarters": "斌市",
+      "products": [
+        {
+          "name": "Harness intuitive systems",
+          "launch_date": "2023-04-23"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00029",
+    "profile": {
+      "founding_year": 2005,
+      "employee_count": 66,
+      "tech_stack": [
+        "Java",
+        "Python",
+        "Rust"
+      ],
+      "is_public": false,
+      "headquarters": "阳市",
+      "products": [
+        {
+          "name": "Revolutionize end-to-end e-commerce",
+          "launch_date": "2023-06-29"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00036",
+    "profile": {
+      "founding_year": 2011,
+      "employee_count": 152,
+      "tech_stack": [
+        "Rust",
+        "JavaScript",
+        "Java"
+      ],
+      "is_public": false,
+      "headquarters": "济南市",
+      "products": [
+        {
+          "name": "Monetize frictionless communities",
+          "launch_date": "2022-08-04"
+        },
+        {
+          "name": "Unleash magnetic convergence",
+          "launch_date": "2025-09-19"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00013",
+    "profile": {
+      "founding_year": 2008,
+      "employee_count": 14,
+      "tech_stack": [
+        "Go",
+        "Rust",
+        "Java"
+      ],
+      "is_public": false,
+      "headquarters": "浩县",
+      "products": [
+        {
+          "name": "Aggregate efficient channels",
+          "launch_date": "2024-02-07"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00160",
+    "profile": {
+      "founding_year": 2001,
+      "employee_count": 34,
+      "tech_stack": [
+        "Go",
+        "JavaScript",
+        "Java"
+      ],
+      "is_public": false,
+      "headquarters": "东莞市",
+      "products": [
+        {
+          "name": "Benchmark b2c communities",
+          "launch_date": "2024-04-09"
+        },
+        {
+          "name": "Drive cross-platform networks",
+          "launch_date": "2021-03-08"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00187",
+    "profile": {
+      "founding_year": 2002,
+      "employee_count": 15,
+      "tech_stack": [
+        "Java",
+        "JavaScript",
+        "Python"
+      ],
+      "is_public": false,
+      "headquarters": "兰州市",
+      "products": [
+        {
+          "name": "Visualize back-end experiences",
+          "launch_date": "2022-01-12"
+        },
+        {
+          "name": "Maximize next-generation e-business",
+          "launch_date": "2024-03-04"
+        },
+        {
+          "name": "Synthesize distributed experiences",
+          "launch_date": "2025-10-05"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00243",
+    "profile": {
+      "founding_year": 2001,
+      "employee_count": 368,
+      "tech_stack": [
+        "Python",
+        "Rust",
+        "Go"
+      ],
+      "is_public": false,
+      "headquarters": "丽县",
+      "products": [
+        {
+          "name": "Monetize ubiquitous partnerships",
+          "launch_date": "2024-06-03"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00086",
+    "profile": {
+      "founding_year": 2015,
+      "employee_count": 23,
+      "tech_stack": [
+        "JavaScript",
+        "Rust",
+        "Python"
+      ],
+      "is_public": false,
+      "headquarters": "潜江县",
+      "products": [
+        {
+          "name": "Syndicate plug-and-play e-tailers",
+          "launch_date": "2022-09-05"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00284",
+    "profile": {
+      "founding_year": 2017,
+      "employee_count": 27,
+      "tech_stack": [
+        "Rust",
+        "Go",
+        "Java"
+      ],
+      "is_public": false,
+      "headquarters": "辽阳县",
+      "products": [
+        {
+          "name": "Drive cross-media interfaces",
+          "launch_date": "2021-08-18"
+        },
+        {
+          "name": "Disintermediate sticky vortals",
+          "launch_date": "2022-03-09"
+        },
+        {
+          "name": "Embrace real-time systems",
+          "launch_date": "2022-03-20"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00066",
+    "profile": {
+      "founding_year": 2004,
+      "employee_count": 5,
+      "tech_stack": [
+        "JavaScript",
+        "Go",
+        "Rust"
+      ],
+      "is_public": false,
+      "headquarters": "沈阳县",
+      "products": [
+        {
+          "name": "Synergize next-generation action-items",
+          "launch_date": "2025-10-16"
+        },
+        {
+          "name": "Productize granular vortals",
+          "launch_date": "2025-08-24"
+        },
+        {
+          "name": "Drive turn-key solutions",
+          "launch_date": "2024-10-17"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00045",
+    "profile": {
+      "founding_year": 2004,
+      "employee_count": 15,
+      "tech_stack": [
+        "JavaScript",
+        "Java",
+        "Go"
+      ],
+      "is_public": true,
+      "headquarters": "丹丹县",
+      "products": [
+        {
+          "name": "Matrix extensible models",
+          "launch_date": "2021-02-03"
+        },
+        {
+          "name": "Strategize ubiquitous action-items",
+          "launch_date": "2022-01-20"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00441",
+    "profile": {
+      "founding_year": 2012,
+      "employee_count": 16,
+      "tech_stack": [
+        "Java",
+        "Rust",
+        "Python"
+      ],
+      "is_public": false,
+      "headquarters": "辉市",
+      "products": [
+        {
+          "name": "Envisioneer rich metrics",
+          "launch_date": "2025-05-23"
+        },
+        {
+          "name": "Visualize collaborative technologies",
+          "launch_date": "2023-08-30"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00134",
+    "profile": {
+      "founding_year": 2018,
+      "employee_count": 4,
+      "tech_stack": [
+        "JavaScript",
+        "Rust",
+        "Go"
+      ],
+      "is_public": false,
+      "headquarters": "荆门市",
+      "products": [
+        {
+          "name": "Matrix back-end relationships",
+          "launch_date": "2024-10-18"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00108",
+    "profile": {
+      "founding_year": 2017,
+      "employee_count": 168,
+      "tech_stack": [
+        "Rust",
+        "Java",
+        "Python"
+      ],
+      "is_public": false,
+      "headquarters": "平县",
+      "products": [
+        {
+          "name": "Streamline dynamic relationships",
+          "launch_date": "2023-09-29"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00286",
+    "profile": {
+      "founding_year": 2011,
+      "employee_count": 5,
+      "tech_stack": [
+        "Java",
+        "Rust",
+        "JavaScript"
+      ],
+      "is_public": false,
+      "headquarters": "六安县",
+      "products": [
+        {
+          "name": "Engineer efficient e-business",
+          "launch_date": "2024-05-19"
+        },
+        {
+          "name": "Embrace end-to-end platforms",
+          "launch_date": "2022-12-12"
+        },
+        {
+          "name": "Generate cross-platform schemas",
+          "launch_date": "2025-09-03"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00128",
+    "profile": {
+      "founding_year": 2014,
+      "employee_count": 30,
+      "tech_stack": [
+        "Rust",
+        "Java",
+        "Go"
+      ],
+      "is_public": true,
+      "headquarters": "拉萨县",
+      "products": [
+        {
+          "name": "Deliver revolutionary paradigms",
+          "launch_date": "2021-03-04"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00348",
+    "profile": {
+      "founding_year": 2012,
+      "employee_count": 30,
+      "tech_stack": [
+        "JavaScript",
+        "Rust",
+        "Java"
+      ],
+      "is_public": false,
+      "headquarters": "淑华县",
+      "products": [
+        {
+          "name": "Orchestrate global vortals",
+          "launch_date": "2025-08-20"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00473",
+    "profile": {
+      "founding_year": 2015,
+      "employee_count": 57,
+      "tech_stack": [
+        "Go",
+        "Rust",
+        "JavaScript"
+      ],
+      "is_public": false,
+      "headquarters": "瑞县",
+      "products": [
+        {
+          "name": "Re-intermediate seamless applications",
+          "launch_date": "2022-08-29"
+        },
+        {
+          "name": "E-enable holistic networks",
+          "launch_date": "2022-06-23"
+        },
+        {
+          "name": "Transition vertical relationships",
+          "launch_date": "2022-08-20"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00225",
+    "profile": {
+      "founding_year": 2019,
+      "employee_count": 160,
+      "tech_stack": [
+        "Rust",
+        "JavaScript",
+        "Java"
+      ],
+      "is_public": true,
+      "headquarters": "宁德县",
+      "products": [
+        {
+          "name": "Generate proactive metrics",
+          "launch_date": "2023-05-09"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00385",
+    "profile": {
+      "founding_year": 2004,
+      "employee_count": 30,
+      "tech_stack": [
+        "JavaScript",
+        "Go",
+        "Rust"
+      ],
+      "is_public": false,
+      "headquarters": "沈阳县",
+      "products": [
+        {
+          "name": "Leverage enterprise eyeballs",
+          "launch_date": "2025-02-01"
+        },
+        {
+          "name": "Incentivize robust networks",
+          "launch_date": "2025-09-20"
+        },
+        {
+          "name": "Embrace dynamic web-readiness",
+          "launch_date": "2023-03-08"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00377",
+    "profile": {
+      "founding_year": 2010,
+      "employee_count": 139,
+      "tech_stack": [
+        "Python",
+        "Java",
+        "Rust"
+      ],
+      "is_public": false,
+      "headquarters": "建国县",
+      "products": [
+        {
+          "name": "Scale best-of-breed e-markets",
+          "launch_date": "2023-06-27"
+        },
+        {
+          "name": "Re-intermediate collaborative markets",
+          "launch_date": "2024-07-04"
+        },
+        {
+          "name": "Mesh best-of-breed schemas",
+          "launch_date": "2022-08-08"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00121",
+    "profile": {
+      "founding_year": 2005,
+      "employee_count": 93,
+      "tech_stack": [
+        "Python",
+        "Go",
+        "Java"
+      ],
+      "is_public": false,
+      "headquarters": "淑珍县",
+      "products": [
+        {
+          "name": "Reinvent ubiquitous users",
+          "launch_date": "2022-09-09"
+        },
+        {
+          "name": "Seize back-end e-business",
+          "launch_date": "2023-05-26"
+        },
+        {
+          "name": "Incentivize efficient schemas",
+          "launch_date": "2022-06-21"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00116",
+    "profile": {
+      "founding_year": 2015,
+      "employee_count": 21,
+      "tech_stack": [
+        "Rust",
+        "Python",
+        "JavaScript"
+      ],
+      "is_public": false,
+      "headquarters": "玉兰市",
+      "products": [
+        {
+          "name": "Scale holistic vortals",
+          "launch_date": "2023-05-18"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00233",
+    "profile": {
+      "founding_year": 2018,
+      "employee_count": 43,
+      "tech_stack": [
+        "Rust",
+        "JavaScript",
+        "Python"
+      ],
+      "is_public": false,
+      "headquarters": "玉兰市",
+      "products": [
+        {
+          "name": "Maximize enterprise interfaces",
+          "launch_date": "2025-01-26"
+        },
+        {
+          "name": "Revolutionize b2b technologies",
+          "launch_date": "2021-03-09"
+        },
+        {
+          "name": "Unleash strategic convergence",
+          "launch_date": "2025-08-07"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00259",
+    "profile": {
+      "founding_year": 2010,
+      "employee_count": 20,
+      "tech_stack": [
+        "JavaScript",
+        "Java",
+        "Python"
+      ],
+      "is_public": true,
+      "headquarters": "荣市",
+      "products": [
+        {
+          "name": "Aggregate real-time schemas",
+          "launch_date": "2024-06-16"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00198",
+    "profile": {
+      "founding_year": 2013,
+      "employee_count": 78,
+      "tech_stack": [
+        "Go",
+        "Java",
+        "JavaScript"
+      ],
+      "is_public": false,
+      "headquarters": "银川市",
+      "products": [
+        {
+          "name": "Incentivize scalable web services",
+          "launch_date": "2025-07-03"
+        },
+        {
+          "name": "Enhance bleeding-edge markets",
+          "launch_date": "2021-06-24"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00411",
+    "profile": {
+      "founding_year": 2001,
+      "employee_count": 689,
+      "tech_stack": [
+        "Python",
+        "JavaScript",
+        "Rust"
+      ],
+      "is_public": false,
+      "headquarters": "桂香市",
+      "products": [
+        {
+          "name": "Innovate global synergies",
+          "launch_date": "2025-10-20"
+        },
+        {
+          "name": "Re-contextualize granular e-markets",
+          "launch_date": "2024-03-29"
+        },
+        {
+          "name": "Matrix collaborative info-mediaries",
+          "launch_date": "2024-03-25"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00137",
+    "profile": {
+      "founding_year": 2013,
+      "employee_count": 325,
+      "tech_stack": [
+        "Python",
+        "Go",
+        "JavaScript"
+      ],
+      "is_public": false,
+      "headquarters": "凤英县",
+      "products": [
+        {
+          "name": "Visualize leading-edge infrastructures",
+          "launch_date": "2024-03-28"
+        },
+        {
+          "name": "Enhance robust roi",
+          "launch_date": "2023-01-25"
+        },
+        {
+          "name": "E-enable virtual paradigms",
+          "launch_date": "2025-12-18"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00318",
+    "profile": {
+      "founding_year": 2009,
+      "employee_count": 46,
+      "tech_stack": [
+        "Rust",
+        "JavaScript",
+        "Go"
+      ],
+      "is_public": false,
+      "headquarters": "金凤市",
+      "products": [
+        {
+          "name": "Re-contextualize distributed paradigms",
+          "launch_date": "2021-01-08"
+        },
+        {
+          "name": "Maximize sticky supply-chains",
+          "launch_date": "2022-05-26"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00165",
+    "profile": {
+      "founding_year": 2001,
+      "employee_count": 8,
+      "tech_stack": [
+        "Python",
+        "Rust",
+        "Go"
+      ],
+      "is_public": false,
+      "headquarters": "亮县",
+      "products": [
+        {
+          "name": "Empower dynamic initiatives",
+          "launch_date": "2022-08-19"
+        },
+        {
+          "name": "Drive ubiquitous experiences",
+          "launch_date": "2022-04-07"
+        },
+        {
+          "name": "Reinvent value-added supply-chains",
+          "launch_date": "2024-12-06"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00234",
+    "profile": {
+      "founding_year": 2020,
+      "employee_count": 13,
+      "tech_stack": [
+        "JavaScript",
+        "Java",
+        "Go"
+      ],
+      "is_public": false,
+      "headquarters": "贵阳县",
+      "products": [
+        {
+          "name": "Transition cutting-edge mindshare",
+          "launch_date": "2022-08-14"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00463",
+    "profile": {
+      "founding_year": 2015,
+      "employee_count": 32,
+      "tech_stack": [
+        "Rust",
+        "Python",
+        "Java"
+      ],
+      "is_public": true,
+      "headquarters": "帆市",
+      "products": [
+        {
+          "name": "Enable compelling vortals",
+          "launch_date": "2025-08-28"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00315",
+    "profile": {
+      "founding_year": 2003,
+      "employee_count": 138,
+      "tech_stack": [
+        "Python",
+        "Rust",
+        "Java"
+      ],
+      "is_public": false,
+      "headquarters": "澳门县",
+      "products": [
+        {
+          "name": "Incentivize customized niches",
+          "launch_date": "2025-10-01"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00374",
+    "profile": {
+      "founding_year": 2009,
+      "employee_count": 26,
+      "tech_stack": [
+        "JavaScript",
+        "Python",
+        "Java"
+      ],
+      "is_public": false,
+      "headquarters": "磊县",
+      "products": [
+        {
+          "name": "Visualize bricks-and-clicks action-items",
+          "launch_date": "2021-04-15"
+        },
+        {
+          "name": "Embrace plug-and-play content",
+          "launch_date": "2021-10-10"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00180",
+    "profile": {
+      "founding_year": 2014,
+      "employee_count": 59,
+      "tech_stack": [
+        "JavaScript",
+        "Go",
+        "Rust"
+      ],
+      "is_public": true,
+      "headquarters": "欢县",
+      "products": [
+        {
+          "name": "Disintermediate magnetic e-services",
+          "launch_date": "2025-10-07"
+        },
+        {
+          "name": "Syndicate b2c bandwidth",
+          "launch_date": "2024-09-19"
+        },
+        {
+          "name": "Expedite out-of-the-box e-markets",
+          "launch_date": "2024-06-27"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00113",
+    "profile": {
+      "founding_year": 2008,
+      "employee_count": 43,
+      "tech_stack": [
+        "Python",
+        "Go",
+        "Rust"
+      ],
+      "is_public": false,
+      "headquarters": "红霞市",
+      "products": [
+        {
+          "name": "Innovate strategic deliverables",
+          "launch_date": "2023-03-19"
+        },
+        {
+          "name": "Unleash bricks-and-clicks partnerships",
+          "launch_date": "2025-07-25"
+        },
+        {
+          "name": "Embrace leading-edge schemas",
+          "launch_date": "2025-06-29"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00497",
+    "profile": {
+      "founding_year": 2014,
+      "employee_count": 38,
+      "tech_stack": [
+        "Java",
+        "JavaScript",
+        "Go"
+      ],
+      "is_public": false,
+      "headquarters": "六盘水市",
+      "products": [
+        {
+          "name": "Leverage world-class deliverables",
+          "launch_date": "2023-03-10"
+        },
+        {
+          "name": "Innovate best-of-breed applications",
+          "launch_date": "2023-06-04"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00442",
+    "profile": {
+      "founding_year": 2002,
+      "employee_count": 13,
+      "tech_stack": [
+        "Java",
+        "JavaScript",
+        "Rust"
+      ],
+      "is_public": false,
+      "headquarters": "华县",
+      "products": [
+        {
+          "name": "Enable next-generation bandwidth",
+          "launch_date": "2023-10-19"
+        },
+        {
+          "name": "Engage plug-and-play methodologies",
+          "launch_date": "2025-01-05"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00295",
+    "profile": {
+      "founding_year": 2018,
+      "employee_count": 44,
+      "tech_stack": [
+        "Java",
+        "Go",
+        "Rust"
+      ],
+      "is_public": false,
+      "headquarters": "巢湖县",
+      "products": [
+        {
+          "name": "Transition clicks-and-mortar e-tailers",
+          "launch_date": "2023-11-14"
+        },
+        {
+          "name": "Integrate cutting-edge convergence",
+          "launch_date": "2024-06-24"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00387",
+    "profile": {
+      "founding_year": 2005,
+      "employee_count": 6,
+      "tech_stack": [
+        "Python",
+        "Java",
+        "Go"
+      ],
+      "is_public": true,
+      "headquarters": "石家庄县",
+      "products": [
+        {
+          "name": "Integrate front-end e-markets",
+          "launch_date": "2021-11-16"
+        },
+        {
+          "name": "Enable next-generation relationships",
+          "launch_date": "2025-12-10"
+        },
+        {
+          "name": "Synergize customized architectures",
+          "launch_date": "2022-11-09"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00440",
+    "profile": {
+      "founding_year": 2011,
+      "employee_count": 10,
+      "tech_stack": [
+        "Rust",
+        "Go",
+        "Python"
+      ],
+      "is_public": false,
+      "headquarters": "哈尔滨市",
+      "products": [
+        {
+          "name": "Reinvent impactful deliverables",
+          "launch_date": "2021-08-12"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00130",
+    "profile": {
+      "founding_year": 2000,
+      "employee_count": 175,
+      "tech_stack": [
+        "Rust",
+        "JavaScript",
+        "Java"
+      ],
+      "is_public": false,
+      "headquarters": "北京市",
+      "products": [
+        {
+          "name": "Monetize plug-and-play methodologies",
+          "launch_date": "2024-07-28"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00220",
+    "profile": {
+      "founding_year": 2001,
+      "employee_count": 146,
+      "tech_stack": [
+        "JavaScript",
+        "Python",
+        "Go"
+      ],
+      "is_public": true,
+      "headquarters": "春梅市",
+      "products": [
+        {
+          "name": "Incentivize ubiquitous convergence",
+          "launch_date": "2021-10-02"
+        },
+        {
+          "name": "Aggregate one-to-one paradigms",
+          "launch_date": "2025-01-09"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00343",
+    "profile": {
+      "founding_year": 2003,
+      "employee_count": 27,
+      "tech_stack": [
+        "JavaScript",
+        "Go",
+        "Java"
+      ],
+      "is_public": false,
+      "headquarters": "勇市",
+      "products": [
+        {
+          "name": "Architect innovative platforms",
+          "launch_date": "2023-12-13"
+        },
+        {
+          "name": "Grow scalable action-items",
+          "launch_date": "2024-09-05"
+        },
+        {
+          "name": "Strategize visionary e-services",
+          "launch_date": "2023-09-05"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00224",
+    "profile": {
+      "founding_year": 2004,
+      "employee_count": 95,
+      "tech_stack": [
+        "Java",
+        "Python",
+        "Rust"
+      ],
+      "is_public": false,
+      "headquarters": "合肥县",
+      "products": [
+        {
+          "name": "Enhance turn-key networks",
+          "launch_date": "2023-12-20"
+        },
+        {
+          "name": "Innovate world-class action-items",
+          "launch_date": "2022-06-27"
+        },
+        {
+          "name": "Orchestrate magnetic e-markets",
+          "launch_date": "2022-06-25"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00403",
+    "profile": {
+      "founding_year": 2012,
+      "employee_count": 44,
+      "tech_stack": [
+        "Java",
+        "Go",
+        "Python"
+      ],
+      "is_public": false,
+      "headquarters": "贵阳县",
+      "products": [
+        {
+          "name": "Engage rich markets",
+          "launch_date": "2025-11-03"
+        },
+        {
+          "name": "Visualize enterprise deliverables",
+          "launch_date": "2022-07-28"
+        },
+        {
+          "name": "Deploy transparent eyeballs",
+          "launch_date": "2022-06-23"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00126",
+    "profile": {
+      "founding_year": 2010,
+      "employee_count": 12,
+      "tech_stack": [
+        "Go",
+        "JavaScript",
+        "Rust"
+      ],
+      "is_public": false,
+      "headquarters": "六盘水县",
+      "products": [
+        {
+          "name": "Incentivize magnetic content",
+          "launch_date": "2025-04-07"
+        },
+        {
+          "name": "Orchestrate plug-and-play markets",
+          "launch_date": "2023-10-16"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00416",
+    "profile": {
+      "founding_year": 2000,
+      "employee_count": 21,
+      "tech_stack": [
+        "Python",
+        "JavaScript",
+        "Go"
+      ],
+      "is_public": true,
+      "headquarters": "亮县",
+      "products": [
+        {
+          "name": "Incentivize dot-com e-tailers",
+          "launch_date": "2022-08-18"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00247",
+    "profile": {
+      "founding_year": 2011,
+      "employee_count": 85,
+      "tech_stack": [
+        "JavaScript",
+        "Rust",
+        "Java"
+      ],
+      "is_public": true,
+      "headquarters": "大冶县",
+      "products": [
+        {
+          "name": "Evolve dynamic markets",
+          "launch_date": "2022-04-27"
+        },
+        {
+          "name": "Innovate revolutionary partnerships",
+          "launch_date": "2021-12-01"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00324",
+    "profile": {
+      "founding_year": 2007,
+      "employee_count": 83,
+      "tech_stack": [
+        "Go",
+        "Python",
+        "Java"
+      ],
+      "is_public": false,
+      "headquarters": "潮州市",
+      "products": [
+        {
+          "name": "Cultivate open-source content",
+          "launch_date": "2025-10-06"
+        },
+        {
+          "name": "Implement killer solutions",
+          "launch_date": "2025-10-15"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00439",
+    "profile": {
+      "founding_year": 2013,
+      "employee_count": 10,
+      "tech_stack": [
+        "Python",
+        "JavaScript",
+        "Go"
+      ],
+      "is_public": false,
+      "headquarters": "潮州市",
+      "products": [
+        {
+          "name": "Scale best-of-breed interfaces",
+          "launch_date": "2025-07-21"
+        },
+        {
+          "name": "Engage world-class technologies",
+          "launch_date": "2022-11-18"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00203",
+    "profile": {
+      "founding_year": 2015,
+      "employee_count": 18,
+      "tech_stack": [
+        "Java",
+        "Go",
+        "Rust"
+      ],
+      "is_public": false,
+      "headquarters": "秀珍县",
+      "products": [
+        {
+          "name": "Disintermediate rich bandwidth",
+          "launch_date": "2021-06-21"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00184",
+    "profile": {
+      "founding_year": 2019,
+      "employee_count": 212,
+      "tech_stack": [
+        "Rust",
+        "Go",
+        "Python"
+      ],
+      "is_public": false,
+      "headquarters": "玉珍市",
+      "products": [
+        {
+          "name": "Disintermediate turn-key e-markets",
+          "launch_date": "2021-03-16"
+        },
+        {
+          "name": "Cultivate magnetic eyeballs",
+          "launch_date": "2021-01-21"
+        },
+        {
+          "name": "Engage next-generation technologies",
+          "launch_date": "2021-09-27"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00123",
+    "profile": {
+      "founding_year": 2013,
+      "employee_count": 34,
+      "tech_stack": [
+        "JavaScript",
+        "Python",
+        "Rust"
+      ],
+      "is_public": false,
+      "headquarters": "娜县",
+      "products": [
+        {
+          "name": "Maximize interactive models",
+          "launch_date": "2023-09-25"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00401",
+    "profile": {
+      "founding_year": 2020,
+      "employee_count": 20,
+      "tech_stack": [
+        "Python",
+        "Rust",
+        "Go"
+      ],
+      "is_public": false,
+      "headquarters": "霞县",
+      "products": [
+        {
+          "name": "Drive holistic bandwidth",
+          "launch_date": "2021-10-26"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00325",
+    "profile": {
+      "founding_year": 2009,
+      "employee_count": 25,
+      "tech_stack": [
+        "Go",
+        "Python",
+        "JavaScript"
+      ],
+      "is_public": false,
+      "headquarters": "兵市",
+      "products": [
+        {
+          "name": "Drive holistic roi",
+          "launch_date": "2025-07-25"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00372",
+    "profile": {
+      "founding_year": 2015,
+      "employee_count": 22,
+      "tech_stack": [
+        "Rust",
+        "JavaScript",
+        "Python"
+      ],
+      "is_public": false,
+      "headquarters": "合山市",
+      "products": [
+        {
+          "name": "E-enable intuitive web services",
+          "launch_date": "2021-03-21"
+        },
+        {
+          "name": "Implement transparent channels",
+          "launch_date": "2025-03-11"
+        },
+        {
+          "name": "Enhance innovative eyeballs",
+          "launch_date": "2021-01-08"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00098",
+    "profile": {
+      "founding_year": 2019,
+      "employee_count": 51,
+      "tech_stack": [
+        "JavaScript",
+        "Python",
+        "Java"
+      ],
+      "is_public": false,
+      "headquarters": "柳市",
+      "products": [
+        {
+          "name": "Re-intermediate compelling web services",
+          "launch_date": "2023-06-02"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00470",
+    "profile": {
+      "founding_year": 2003,
+      "employee_count": 47,
+      "tech_stack": [
+        "Rust",
+        "Go",
+        "JavaScript"
+      ],
+      "is_public": false,
+      "headquarters": "六盘水县",
+      "products": [
+        {
+          "name": "Implement vertical deliverables",
+          "launch_date": "2024-08-03"
+        },
+        {
+          "name": "Incubate front-end web-readiness",
+          "launch_date": "2023-06-28"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00395",
+    "profile": {
+      "founding_year": 2012,
+      "employee_count": 55,
+      "tech_stack": [
+        "Rust",
+        "Java",
+        "JavaScript"
+      ],
+      "is_public": false,
+      "headquarters": "东市",
+      "products": [
+        {
+          "name": "Redefine mission-critical deliverables",
+          "launch_date": "2021-09-21"
+        },
+        {
+          "name": "Aggregate dot-com convergence",
+          "launch_date": "2022-04-25"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00240",
+    "profile": {
+      "founding_year": 2002,
+      "employee_count": 54,
+      "tech_stack": [
+        "Java",
+        "Go",
+        "Rust"
+      ],
+      "is_public": true,
+      "headquarters": "浩县",
+      "products": [
+        {
+          "name": "Strategize ubiquitous networks",
+          "launch_date": "2022-03-12"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00144",
+    "profile": {
+      "founding_year": 2019,
+      "employee_count": 314,
+      "tech_stack": [
+        "Python",
+        "Java",
+        "Go"
+      ],
+      "is_public": false,
+      "headquarters": "邯郸市",
+      "products": [
+        {
+          "name": "Visualize robust infrastructures",
+          "launch_date": "2023-01-02"
+        },
+        {
+          "name": "Synergize collaborative markets",
+          "launch_date": "2024-02-29"
+        },
+        {
+          "name": "Scale frictionless infrastructures",
+          "launch_date": "2023-06-24"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00097",
+    "profile": {
+      "founding_year": 2009,
+      "employee_count": 96,
+      "tech_stack": [
+        "Python",
+        "Go",
+        "Rust"
+      ],
+      "is_public": false,
+      "headquarters": "玉英市",
+      "products": [
+        {
+          "name": "Productize revolutionary e-services",
+          "launch_date": "2022-01-13"
+        },
+        {
+          "name": "Cultivate collaborative niches",
+          "launch_date": "2021-03-18"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00124",
+    "profile": {
+      "founding_year": 2012,
+      "employee_count": 39,
+      "tech_stack": [
+        "Java",
+        "Go",
+        "JavaScript"
+      ],
+      "is_public": true,
+      "headquarters": "兴安盟市",
+      "products": [
+        {
+          "name": "Reinvent turn-key web-readiness",
+          "launch_date": "2025-10-14"
+        },
+        {
+          "name": "Benchmark b2b interfaces",
+          "launch_date": "2025-08-16"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00326",
+    "profile": {
+      "founding_year": 2007,
+      "employee_count": 25,
+      "tech_stack": [
+        "Python",
+        "Go",
+        "JavaScript"
+      ],
+      "is_public": false,
+      "headquarters": "瑞市",
+      "products": [
+        {
+          "name": "Maximize integrated methodologies",
+          "launch_date": "2025-06-17"
+        },
+        {
+          "name": "Facilitate integrated channels",
+          "launch_date": "2024-12-06"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00148",
+    "profile": {
+      "founding_year": 2012,
+      "employee_count": 77,
+      "tech_stack": [
+        "Go",
+        "Java",
+        "Rust"
+      ],
+      "is_public": false,
+      "headquarters": "东莞县",
+      "products": [
+        {
+          "name": "Streamline mission-critical e-commerce",
+          "launch_date": "2022-02-20"
+        },
+        {
+          "name": "Optimize cross-platform metrics",
+          "launch_date": "2024-10-27"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00443",
+    "profile": {
+      "founding_year": 2015,
+      "employee_count": 217,
+      "tech_stack": [
+        "Python",
+        "JavaScript",
+        "Rust"
+      ],
+      "is_public": false,
+      "headquarters": "晶市",
+      "products": [
+        {
+          "name": "Whiteboard real-time systems",
+          "launch_date": "2023-06-07"
+        },
+        {
+          "name": "Seize enterprise e-commerce",
+          "launch_date": "2021-11-27"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00451",
+    "profile": {
+      "founding_year": 2012,
+      "employee_count": 115,
+      "tech_stack": [
+        "Python",
+        "Go",
+        "Java"
+      ],
+      "is_public": false,
+      "headquarters": "凯县",
+      "products": [
+        {
+          "name": "Exploit interactive partnerships",
+          "launch_date": "2021-05-21"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00147",
+    "profile": {
+      "founding_year": 2005,
+      "employee_count": 45,
+      "tech_stack": [
+        "Java",
+        "Rust",
+        "Go"
+      ],
+      "is_public": true,
+      "headquarters": "海门市",
+      "products": [
+        {
+          "name": "Extend integrated vortals",
+          "launch_date": "2022-10-12"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00199",
+    "profile": {
+      "founding_year": 2012,
+      "employee_count": 9,
+      "tech_stack": [
+        "Go",
+        "Rust",
+        "Python"
+      ],
+      "is_public": false,
+      "headquarters": "北京县",
+      "products": [
+        {
+          "name": "Grow bricks-and-clicks niches",
+          "launch_date": "2021-06-27"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00308",
+    "profile": {
+      "founding_year": 2014,
+      "employee_count": 101,
+      "tech_stack": [
+        "Python",
+        "Go",
+        "Rust"
+      ],
+      "is_public": true,
+      "headquarters": "昆明县",
+      "products": [
+        {
+          "name": "Grow transparent platforms",
+          "launch_date": "2021-02-08"
+        },
+        {
+          "name": "Seize e-business metrics",
+          "launch_date": "2023-12-20"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00489",
+    "profile": {
+      "founding_year": 2002,
+      "employee_count": 141,
+      "tech_stack": [
+        "Java",
+        "JavaScript",
+        "Python"
+      ],
+      "is_public": false,
+      "headquarters": "海燕市",
+      "products": [
+        {
+          "name": "Envisioneer transparent architectures",
+          "launch_date": "2024-11-15"
+        },
+        {
+          "name": "Drive interactive networks",
+          "launch_date": "2023-08-02"
+        },
+        {
+          "name": "Innovate enterprise communities",
+          "launch_date": "2021-09-02"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00417",
+    "profile": {
+      "founding_year": 2001,
+      "employee_count": 64,
+      "tech_stack": [
+        "Java",
+        "Python",
+        "Go"
+      ],
+      "is_public": false,
+      "headquarters": "玲县",
+      "products": [
+        {
+          "name": "Orchestrate innovative communities",
+          "launch_date": "2023-02-25"
+        },
+        {
+          "name": "Deploy seamless info-mediaries",
+          "launch_date": "2024-11-21"
+        },
+        {
+          "name": "Disintermediate dot-com action-items",
+          "launch_date": "2024-08-01"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00424",
+    "profile": {
+      "founding_year": 2014,
+      "employee_count": 29,
+      "tech_stack": [
+        "Rust",
+        "JavaScript",
+        "Java"
+      ],
+      "is_public": false,
+      "headquarters": "岩县",
+      "products": [
+        {
+          "name": "Transform global content",
+          "launch_date": "2021-01-04"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00039",
+    "profile": {
+      "founding_year": 2013,
+      "employee_count": 156,
+      "tech_stack": [
+        "Java",
+        "Go",
+        "JavaScript"
+      ],
+      "is_public": true,
+      "headquarters": "颖县",
+      "products": [
+        {
+          "name": "Exploit open-source systems",
+          "launch_date": "2022-08-26"
+        },
+        {
+          "name": "Transition global content",
+          "launch_date": "2022-07-31"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00267",
+    "profile": {
+      "founding_year": 2012,
+      "employee_count": 43,
+      "tech_stack": [
+        "JavaScript",
+        "Rust",
+        "Java"
+      ],
+      "is_public": false,
+      "headquarters": "潮州县",
+      "products": [
+        {
+          "name": "Reinvent impactful vortals",
+          "launch_date": "2022-06-08"
+        },
+        {
+          "name": "Scale holistic networks",
+          "launch_date": "2024-11-20"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00434",
+    "profile": {
+      "founding_year": 2010,
+      "employee_count": 22,
+      "tech_stack": [
+        "JavaScript",
+        "Java",
+        "Python"
+      ],
+      "is_public": false,
+      "headquarters": "淑珍县",
+      "products": [
+        {
+          "name": "Transition impactful relationships",
+          "launch_date": "2021-07-19"
+        },
+        {
+          "name": "Maximize 24/365 applications",
+          "launch_date": "2025-12-19"
+        },
+        {
+          "name": "Reinvent proactive bandwidth",
+          "launch_date": "2025-09-10"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00151",
+    "profile": {
+      "founding_year": 2015,
+      "employee_count": 43,
+      "tech_stack": [
+        "Go",
+        "Java",
+        "Python"
+      ],
+      "is_public": false,
+      "headquarters": "潜江县",
+      "products": [
+        {
+          "name": "E-enable innovative e-markets",
+          "launch_date": "2024-05-05"
+        },
+        {
+          "name": "Enable seamless action-items",
+          "launch_date": "2022-03-29"
+        },
+        {
+          "name": "Orchestrate cutting-edge architectures",
+          "launch_date": "2021-05-07"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00415",
+    "profile": {
+      "founding_year": 2017,
+      "employee_count": 155,
+      "tech_stack": [
+        "Python",
+        "JavaScript",
+        "Go"
+      ],
+      "is_public": false,
+      "headquarters": "莹县",
+      "products": [
+        {
+          "name": "Incubate robust relationships",
+          "launch_date": "2024-06-26"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00478",
+    "profile": {
+      "founding_year": 2003,
+      "employee_count": 38,
+      "tech_stack": [
+        "Java",
+        "Python",
+        "Rust"
+      ],
+      "is_public": false,
+      "headquarters": "银川市",
+      "products": [
+        {
+          "name": "Repurpose synergistic communities",
+          "launch_date": "2024-03-19"
+        },
+        {
+          "name": "Integrate wireless supply-chains",
+          "launch_date": "2025-10-22"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00298",
+    "profile": {
+      "founding_year": 2013,
+      "employee_count": 138,
+      "tech_stack": [
+        "Go",
+        "Rust",
+        "Python"
+      ],
+      "is_public": true,
+      "headquarters": "宁市",
+      "products": [
+        {
+          "name": "Transform back-end e-services",
+          "launch_date": "2023-07-14"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00263",
+    "profile": {
+      "founding_year": 2000,
+      "employee_count": 27,
+      "tech_stack": [
+        "JavaScript",
+        "Rust",
+        "Java"
+      ],
+      "is_public": false,
+      "headquarters": "大冶县",
+      "products": [
+        {
+          "name": "Strategize plug-and-play methodologies",
+          "launch_date": "2023-12-03"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00112",
+    "profile": {
+      "founding_year": 2000,
+      "employee_count": 190,
+      "tech_stack": [
+        "Python",
+        "Go",
+        "Rust"
+      ],
+      "is_public": false,
+      "headquarters": "哈尔滨市",
+      "products": [
+        {
+          "name": "Syndicate sticky technologies",
+          "launch_date": "2023-01-21"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00500",
+    "profile": {
+      "founding_year": 2001,
+      "employee_count": 90,
+      "tech_stack": [
+        "Go",
+        "Python",
+        "JavaScript"
+      ],
+      "is_public": true,
+      "headquarters": "郑州市",
+      "products": [
+        {
+          "name": "Seize extensible supply-chains",
+          "launch_date": "2023-04-03"
+        },
+        {
+          "name": "Architect compelling convergence",
+          "launch_date": "2023-05-11"
+        },
+        {
+          "name": "Grow customized vortals",
+          "launch_date": "2021-04-24"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00060",
+    "profile": {
+      "founding_year": 2005,
+      "employee_count": 10,
+      "tech_stack": [
+        "Rust",
+        "Java",
+        "JavaScript"
+      ],
+      "is_public": false,
+      "headquarters": "郑州市",
+      "products": [
+        {
+          "name": "Iterate cross-platform experiences",
+          "launch_date": "2021-07-10"
+        },
+        {
+          "name": "Exploit frictionless action-items",
+          "launch_date": "2023-07-23"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00369",
+    "profile": {
+      "founding_year": 2013,
+      "employee_count": 25,
+      "tech_stack": [
+        "Go",
+        "Rust",
+        "JavaScript"
+      ],
+      "is_public": false,
+      "headquarters": "北镇县",
+      "products": [
+        {
+          "name": "Target bleeding-edge interfaces",
+          "launch_date": "2024-02-16"
+        },
+        {
+          "name": "Reinvent user-centric interfaces",
+          "launch_date": "2021-02-14"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00254",
+    "profile": {
+      "founding_year": 2014,
+      "employee_count": 35,
+      "tech_stack": [
+        "Rust",
+        "Python",
+        "JavaScript"
+      ],
+      "is_public": false,
+      "headquarters": "大冶县",
+      "products": [
+        {
+          "name": "Synergize clicks-and-mortar e-tailers",
+          "launch_date": "2022-01-02"
+        },
+        {
+          "name": "Engineer innovative networks",
+          "launch_date": "2021-06-26"
+        },
+        {
+          "name": "Cultivate viral relationships",
+          "launch_date": "2022-08-10"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00140",
+    "profile": {
+      "founding_year": 2019,
+      "employee_count": 630,
+      "tech_stack": [
+        "Python",
+        "Rust",
+        "Java"
+      ],
+      "is_public": false,
+      "headquarters": "林县",
+      "products": [
+        {
+          "name": "Repurpose holistic deliverables",
+          "launch_date": "2025-10-22"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00453",
+    "profile": {
+      "founding_year": 2020,
+      "employee_count": 112,
+      "tech_stack": [
+        "Python",
+        "JavaScript",
+        "Rust"
+      ],
+      "is_public": false,
+      "headquarters": "冬梅县",
+      "products": [
+        {
+          "name": "Benchmark one-to-one convergence",
+          "launch_date": "2022-09-27"
+        },
+        {
+          "name": "Target virtual methodologies",
+          "launch_date": "2024-07-04"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00037",
+    "profile": {
+      "founding_year": 2002,
+      "employee_count": 45,
+      "tech_stack": [
+        "Java",
+        "Go",
+        "JavaScript"
+      ],
+      "is_public": false,
+      "headquarters": "凯市",
+      "products": [
+        {
+          "name": "Harness 24/7 action-items",
+          "launch_date": "2022-07-03"
+        },
+        {
+          "name": "Reinvent out-of-the-box eyeballs",
+          "launch_date": "2023-07-14"
+        },
+        {
+          "name": "Deploy global networks",
+          "launch_date": "2022-11-24"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00404",
+    "profile": {
+      "founding_year": 2019,
+      "employee_count": 90,
+      "tech_stack": [
+        "Go",
+        "Java",
+        "Python"
+      ],
+      "is_public": false,
+      "headquarters": "惠州市",
+      "products": [
+        {
+          "name": "Engage frictionless models",
+          "launch_date": "2022-06-03"
+        },
+        {
+          "name": "Reinvent turn-key systems",
+          "launch_date": "2024-01-28"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00120",
+    "profile": {
+      "founding_year": 2001,
+      "employee_count": 84,
+      "tech_stack": [
+        "Java",
+        "Go",
+        "JavaScript"
+      ],
+      "is_public": false,
+      "headquarters": "磊县",
+      "products": [
+        {
+          "name": "Enable dynamic architectures",
+          "launch_date": "2025-10-18"
+        },
+        {
+          "name": "Deliver rich e-markets",
+          "launch_date": "2024-05-26"
+        },
+        {
+          "name": "Deploy visionary models",
+          "launch_date": "2021-10-24"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00408",
+    "profile": {
+      "founding_year": 2010,
+      "employee_count": 20,
+      "tech_stack": [
+        "Python",
+        "JavaScript",
+        "Rust"
+      ],
+      "is_public": true,
+      "headquarters": "广州县",
+      "products": [
+        {
+          "name": "Integrate efficient e-services",
+          "launch_date": "2023-09-01"
+        },
+        {
+          "name": "Leverage ubiquitous networks",
+          "launch_date": "2024-09-09"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00075",
+    "profile": {
+      "founding_year": 2002,
+      "employee_count": 14,
+      "tech_stack": [
+        "Python",
+        "Rust",
+        "JavaScript"
+      ],
+      "is_public": false,
+      "headquarters": "凤兰市",
+      "products": [
+        {
+          "name": "Maximize one-to-one niches",
+          "launch_date": "2024-11-08"
+        },
+        {
+          "name": "Transition bricks-and-clicks users",
+          "launch_date": "2025-02-02"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00422",
+    "profile": {
+      "founding_year": 2008,
+      "employee_count": 44,
+      "tech_stack": [
+        "JavaScript",
+        "Java",
+        "Go"
+      ],
+      "is_public": true,
+      "headquarters": "潜江市",
+      "products": [
+        {
+          "name": "Brand sticky experiences",
+          "launch_date": "2024-09-25"
+        },
+        {
+          "name": "Monetize robust systems",
+          "launch_date": "2022-04-17"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00104",
+    "profile": {
+      "founding_year": 2018,
+      "employee_count": 24,
+      "tech_stack": [
+        "Rust",
+        "Java",
+        "Python"
+      ],
+      "is_public": false,
+      "headquarters": "潜江市",
+      "products": [
+        {
+          "name": "Revolutionize web-enabled e-tailers",
+          "launch_date": "2025-01-12"
+        },
+        {
+          "name": "Benchmark cross-media e-business",
+          "launch_date": "2024-02-22"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00153",
+    "profile": {
+      "founding_year": 2013,
+      "employee_count": 87,
+      "tech_stack": [
+        "Python",
+        "Java",
+        "Go"
+      ],
+      "is_public": false,
+      "headquarters": "合肥市",
+      "products": [
+        {
+          "name": "Transition best-of-breed markets",
+          "launch_date": "2023-10-30"
+        },
+        {
+          "name": "Incubate efficient metrics",
+          "launch_date": "2023-09-03"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00384",
+    "profile": {
+      "founding_year": 2009,
+      "employee_count": 87,
+      "tech_stack": [
+        "Python",
+        "Rust",
+        "Java"
+      ],
+      "is_public": true,
+      "headquarters": "桂兰县",
+      "products": [
+        {
+          "name": "Maximize real-time mindshare",
+          "launch_date": "2025-11-27"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00366",
+    "profile": {
+      "founding_year": 2020,
+      "employee_count": 164,
+      "tech_stack": [
+        "Go",
+        "Java",
+        "Python"
+      ],
+      "is_public": true,
+      "headquarters": "合肥县",
+      "products": [
+        {
+          "name": "Redefine leading-edge niches",
+          "launch_date": "2025-04-25"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00194",
+    "profile": {
+      "founding_year": 2005,
+      "employee_count": 114,
+      "tech_stack": [
+        "JavaScript",
+        "Go",
+        "Python"
+      ],
+      "is_public": false,
+      "headquarters": "太原市",
+      "products": [
+        {
+          "name": "Orchestrate world-class action-items",
+          "launch_date": "2024-10-14"
+        },
+        {
+          "name": "Innovate impactful models",
+          "launch_date": "2021-09-08"
+        },
+        {
+          "name": "Whiteboard real-time functionalities",
+          "launch_date": "2023-01-18"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00445",
+    "profile": {
+      "founding_year": 2019,
+      "employee_count": 83,
+      "tech_stack": [
+        "Python",
+        "Go",
+        "JavaScript"
+      ],
+      "is_public": true,
+      "headquarters": "宇市",
+      "products": [
+        {
+          "name": "Strategize efficient relationships",
+          "launch_date": "2023-04-02"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00169",
+    "profile": {
+      "founding_year": 2020,
+      "employee_count": 98,
+      "tech_stack": [
+        "Go",
+        "JavaScript",
+        "Java"
+      ],
+      "is_public": false,
+      "headquarters": "晶市",
+      "products": [
+        {
+          "name": "Cultivate e-business bandwidth",
+          "launch_date": "2024-02-25"
+        },
+        {
+          "name": "Scale synergistic partnerships",
+          "launch_date": "2024-12-15"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00068",
+    "profile": {
+      "founding_year": 2004,
+      "employee_count": 41,
+      "tech_stack": [
+        "JavaScript",
+        "Rust",
+        "Java"
+      ],
+      "is_public": false,
+      "headquarters": "红霞县",
+      "products": [
+        {
+          "name": "Transition killer models",
+          "launch_date": "2022-04-27"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00195",
+    "profile": {
+      "founding_year": 2011,
+      "employee_count": 36,
+      "tech_stack": [
+        "Rust",
+        "Java",
+        "JavaScript"
+      ],
+      "is_public": false,
+      "headquarters": "雪市",
+      "products": [
+        {
+          "name": "Maximize holistic supply-chains",
+          "launch_date": "2025-06-13"
+        },
+        {
+          "name": "Engineer scalable paradigms",
+          "launch_date": "2021-06-22"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00176",
+    "profile": {
+      "founding_year": 2019,
+      "employee_count": 21,
+      "tech_stack": [
+        "JavaScript",
+        "Rust",
+        "Java"
+      ],
+      "is_public": true,
+      "headquarters": "勇市",
+      "products": [
+        {
+          "name": "Re-contextualize granular systems",
+          "launch_date": "2023-04-06"
+        },
+        {
+          "name": "Brand 24/365 channels",
+          "launch_date": "2025-05-22"
+        },
+        {
+          "name": "Monetize granular niches",
+          "launch_date": "2021-06-11"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00371",
+    "profile": {
+      "founding_year": 2002,
+      "employee_count": 18,
+      "tech_stack": [
+        "Go",
+        "Java",
+        "Python"
+      ],
+      "is_public": false,
+      "headquarters": "娟市",
+      "products": [
+        {
+          "name": "Disintermediate frictionless markets",
+          "launch_date": "2022-12-17"
+        },
+        {
+          "name": "Monetize bleeding-edge e-commerce",
+          "launch_date": "2024-04-03"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00375",
+    "profile": {
+      "founding_year": 2003,
+      "employee_count": 194,
+      "tech_stack": [
+        "Go",
+        "Python",
+        "JavaScript"
+      ],
+      "is_public": true,
+      "headquarters": "北京市",
+      "products": [
+        {
+          "name": "Syndicate intuitive channels",
+          "launch_date": "2023-12-12"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00238",
+    "profile": {
+      "founding_year": 2005,
+      "employee_count": 15,
+      "tech_stack": [
+        "Rust",
+        "Go",
+        "Java"
+      ],
+      "is_public": false,
+      "headquarters": "磊市",
+      "products": [
+        {
+          "name": "Scale cross-platform initiatives",
+          "launch_date": "2025-12-02"
+        },
+        {
+          "name": "Brand end-to-end info-mediaries",
+          "launch_date": "2021-05-01"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00158",
+    "profile": {
+      "founding_year": 2002,
+      "employee_count": 73,
+      "tech_stack": [
+        "Python",
+        "Go",
+        "JavaScript"
+      ],
+      "is_public": false,
+      "headquarters": "健市",
+      "products": [
+        {
+          "name": "Transform turn-key relationships",
+          "launch_date": "2025-05-20"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00038",
+    "profile": {
+      "founding_year": 2005,
+      "employee_count": 144,
+      "tech_stack": [
+        "Python",
+        "Java",
+        "Go"
+      ],
+      "is_public": true,
+      "headquarters": "海门市",
+      "products": [
+        {
+          "name": "Visualize b2b partnerships",
+          "launch_date": "2023-08-19"
+        },
+        {
+          "name": "Implement frictionless systems",
+          "launch_date": "2022-09-25"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00230",
+    "profile": {
+      "founding_year": 2004,
+      "employee_count": 20,
+      "tech_stack": [
+        "JavaScript",
+        "Python",
+        "Rust"
+      ],
+      "is_public": false,
+      "headquarters": "长沙县",
+      "products": [
+        {
+          "name": "Re-intermediate visionary e-tailers",
+          "launch_date": "2021-05-30"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00365",
+    "profile": {
+      "founding_year": 2004,
+      "employee_count": 18,
+      "tech_stack": [
+        "Java",
+        "JavaScript",
+        "Rust"
+      ],
+      "is_public": false,
+      "headquarters": "合肥市",
+      "products": [
+        {
+          "name": "Benchmark integrated convergence",
+          "launch_date": "2025-10-17"
+        },
+        {
+          "name": "Harness global action-items",
+          "launch_date": "2022-05-13"
+        },
+        {
+          "name": "Evolve interactive schemas",
+          "launch_date": "2023-12-26"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00438",
+    "profile": {
+      "founding_year": 2020,
+      "employee_count": 35,
+      "tech_stack": [
+        "Go",
+        "JavaScript",
+        "Rust"
+      ],
+      "is_public": false,
+      "headquarters": "杰县",
+      "products": [
+        {
+          "name": "Architect dynamic interfaces",
+          "launch_date": "2022-06-15"
+        },
+        {
+          "name": "Streamline web-enabled models",
+          "launch_date": "2022-11-28"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00027",
+    "profile": {
+      "founding_year": 2006,
+      "employee_count": 37,
+      "tech_stack": [
+        "Java",
+        "Rust",
+        "JavaScript"
+      ],
+      "is_public": false,
+      "headquarters": "汕尾市",
+      "products": [
+        {
+          "name": "Mesh value-added relationships",
+          "launch_date": "2025-08-25"
+        },
+        {
+          "name": "Enable integrated networks",
+          "launch_date": "2023-01-30"
+        },
+        {
+          "name": "Incubate virtual info-mediaries",
+          "launch_date": "2025-10-01"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00226",
+    "profile": {
+      "founding_year": 2019,
+      "employee_count": 68,
+      "tech_stack": [
+        "JavaScript",
+        "Java",
+        "Go"
+      ],
+      "is_public": false,
+      "headquarters": "天津市",
+      "products": [
+        {
+          "name": "Implement back-end e-tailers",
+          "launch_date": "2021-03-05"
+        },
+        {
+          "name": "Streamline impactful mindshare",
+          "launch_date": "2022-05-30"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00448",
+    "profile": {
+      "founding_year": 2020,
+      "employee_count": 33,
+      "tech_stack": [
+        "Java",
+        "Rust",
+        "JavaScript"
+      ],
+      "is_public": false,
+      "headquarters": "玉华县",
+      "products": [
+        {
+          "name": "Evolve b2c niches",
+          "launch_date": "2021-05-24"
+        },
+        {
+          "name": "Evolve best-of-breed eyeballs",
+          "launch_date": "2023-08-29"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00481",
+    "profile": {
+      "founding_year": 2004,
+      "employee_count": 154,
+      "tech_stack": [
+        "Rust",
+        "Python",
+        "Java"
+      ],
+      "is_public": false,
+      "headquarters": "鑫县",
+      "products": [
+        {
+          "name": "Scale user-centric action-items",
+          "launch_date": "2021-04-07"
+        },
+        {
+          "name": "Evolve user-centric initiatives",
+          "launch_date": "2023-03-31"
+        },
+        {
+          "name": "Expedite leading-edge content",
+          "launch_date": "2024-04-22"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00317",
+    "profile": {
+      "founding_year": 2011,
+      "employee_count": 146,
+      "tech_stack": [
+        "Go",
+        "JavaScript",
+        "Python"
+      ],
+      "is_public": true,
+      "headquarters": "济南市",
+      "products": [
+        {
+          "name": "Unleash global synergies",
+          "launch_date": "2021-10-18"
+        },
+        {
+          "name": "Seize back-end communities",
+          "launch_date": "2022-11-02"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00004",
+    "profile": {
+      "founding_year": 2010,
+      "employee_count": 162,
+      "tech_stack": [
+        "JavaScript",
+        "Java",
+        "Python"
+      ],
+      "is_public": false,
+      "headquarters": "欢市",
+      "products": [
+        {
+          "name": "Facilitate cutting-edge niches",
+          "launch_date": "2023-08-07"
+        },
+        {
+          "name": "Morph intuitive models",
+          "launch_date": "2023-04-03"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00017",
+    "profile": {
+      "founding_year": 2014,
+      "employee_count": 81,
+      "tech_stack": [
+        "Go",
+        "Java",
+        "Python"
+      ],
+      "is_public": false,
+      "headquarters": "华县",
+      "products": [
+        {
+          "name": "Iterate frictionless relationships",
+          "launch_date": "2021-10-06"
+        },
+        {
+          "name": "Revolutionize sticky networks",
+          "launch_date": "2024-05-07"
+        },
+        {
+          "name": "Embrace bleeding-edge mindshare",
+          "launch_date": "2020-12-27"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00046",
+    "profile": {
+      "founding_year": 2015,
+      "employee_count": 78,
+      "tech_stack": [
+        "JavaScript",
+        "Rust",
+        "Java"
+      ],
+      "is_public": false,
+      "headquarters": "海口市",
+      "products": [
+        {
+          "name": "Syndicate bricks-and-clicks architectures",
+          "launch_date": "2025-07-31"
+        },
+        {
+          "name": "Reinvent robust schemas",
+          "launch_date": "2024-12-29"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00006",
+    "profile": {
+      "founding_year": 2019,
+      "employee_count": 41,
+      "tech_stack": [
+        "JavaScript",
+        "Python",
+        "Go"
+      ],
+      "is_public": false,
+      "headquarters": "芳县",
+      "products": [
+        {
+          "name": "Incentivize next-generation vortals",
+          "launch_date": "2022-05-02"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00302",
+    "profile": {
+      "founding_year": 2006,
+      "employee_count": 80,
+      "tech_stack": [
+        "Go",
+        "Python",
+        "Java"
+      ],
+      "is_public": false,
+      "headquarters": "张家港市",
+      "products": [
+        {
+          "name": "Deliver scalable roi",
+          "launch_date": "2022-02-03"
+        },
+        {
+          "name": "Mesh revolutionary interfaces",
+          "launch_date": "2021-04-27"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00181",
+    "profile": {
+      "founding_year": 2020,
+      "employee_count": 43,
+      "tech_stack": [
+        "Rust",
+        "JavaScript",
+        "Go"
+      ],
+      "is_public": true,
+      "headquarters": "红县",
+      "products": [
+        {
+          "name": "Harness e-business schemas",
+          "launch_date": "2023-04-06"
+        },
+        {
+          "name": "Disintermediate 24/365 technologies",
+          "launch_date": "2023-10-19"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00095",
+    "profile": {
+      "founding_year": 2000,
+      "employee_count": 49,
+      "tech_stack": [
+        "JavaScript",
+        "Java",
+        "Python"
+      ],
+      "is_public": true,
+      "headquarters": "丽县",
+      "products": [
+        {
+          "name": "Disintermediate rich solutions",
+          "launch_date": "2024-08-22"
+        },
+        {
+          "name": "Incubate interactive eyeballs",
+          "launch_date": "2021-01-03"
+        },
+        {
+          "name": "Deploy proactive e-services",
+          "launch_date": "2023-09-08"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00469",
+    "profile": {
+      "founding_year": 2005,
+      "employee_count": 75,
+      "tech_stack": [
+        "Rust",
+        "JavaScript",
+        "Python"
+      ],
+      "is_public": false,
+      "headquarters": "北镇市",
+      "products": [
+        {
+          "name": "Engineer enterprise content",
+          "launch_date": "2021-06-30"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00471",
+    "profile": {
+      "founding_year": 2008,
+      "employee_count": 63,
+      "tech_stack": [
+        "Python",
+        "Go",
+        "Java"
+      ],
+      "is_public": false,
+      "headquarters": "宁德县",
+      "products": [
+        {
+          "name": "Streamline b2b niches",
+          "launch_date": "2021-06-10"
+        },
+        {
+          "name": "Redefine bleeding-edge deliverables",
+          "launch_date": "2023-01-16"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00256",
+    "profile": {
+      "founding_year": 2010,
+      "employee_count": 135,
+      "tech_stack": [
+        "Python",
+        "JavaScript",
+        "Java"
+      ],
+      "is_public": false,
+      "headquarters": "桂芳市",
+      "products": [
+        {
+          "name": "Benchmark mission-critical mindshare",
+          "launch_date": "2021-08-23"
+        },
+        {
+          "name": "Transition impactful partnerships",
+          "launch_date": "2023-12-09"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00323",
+    "profile": {
+      "founding_year": 2012,
+      "employee_count": 125,
+      "tech_stack": [
+        "Go",
+        "Java",
+        "Python"
+      ],
+      "is_public": false,
+      "headquarters": "荆门市",
+      "products": [
+        {
+          "name": "Incentivize distributed portals",
+          "launch_date": "2025-03-26"
+        },
+        {
+          "name": "Re-contextualize impactful vortals",
+          "launch_date": "2022-07-27"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00018",
+    "profile": {
+      "founding_year": 2016,
+      "employee_count": 55,
+      "tech_stack": [
+        "Go",
+        "Python",
+        "JavaScript"
+      ],
+      "is_public": false,
+      "headquarters": "敏市",
+      "products": [
+        {
+          "name": "Aggregate global applications",
+          "launch_date": "2021-07-10"
+        },
+        {
+          "name": "Transform frictionless systems",
+          "launch_date": "2023-04-23"
+        },
+        {
+          "name": "Deploy 24/7 users",
+          "launch_date": "2022-10-08"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00281",
+    "profile": {
+      "founding_year": 2005,
+      "employee_count": 97,
+      "tech_stack": [
+        "JavaScript",
+        "Go",
+        "Java"
+      ],
+      "is_public": false,
+      "headquarters": "大冶县",
+      "products": [
+        {
+          "name": "Target back-end initiatives",
+          "launch_date": "2021-06-06"
+        },
+        {
+          "name": "Exploit seamless metrics",
+          "launch_date": "2021-03-06"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00223",
+    "profile": {
+      "founding_year": 2013,
+      "employee_count": 47,
+      "tech_stack": [
+        "JavaScript",
+        "Python",
+        "Rust"
+      ],
+      "is_public": false,
+      "headquarters": "峰市",
+      "products": [
+        {
+          "name": "Unleash interactive convergence",
+          "launch_date": "2022-12-16"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00058",
+    "profile": {
+      "founding_year": 2019,
+      "employee_count": 93,
+      "tech_stack": [
+        "JavaScript",
+        "Rust",
+        "Python"
+      ],
+      "is_public": false,
+      "headquarters": "邯郸县",
+      "products": [
+        {
+          "name": "Transition virtual web-readiness",
+          "launch_date": "2025-09-27"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00174",
+    "profile": {
+      "founding_year": 2000,
+      "employee_count": 67,
+      "tech_stack": [
+        "Rust",
+        "JavaScript",
+        "Go"
+      ],
+      "is_public": false,
+      "headquarters": "艳市",
+      "products": [
+        {
+          "name": "Target sticky channels",
+          "launch_date": "2021-08-01"
+        },
+        {
+          "name": "Streamline magnetic channels",
+          "launch_date": "2021-12-19"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00114",
+    "profile": {
+      "founding_year": 2004,
+      "employee_count": 62,
+      "tech_stack": [
+        "Python",
+        "JavaScript",
+        "Java"
+      ],
+      "is_public": false,
+      "headquarters": "柳市",
+      "products": [
+        {
+          "name": "Benchmark back-end partnerships",
+          "launch_date": "2021-01-31"
+        },
+        {
+          "name": "Optimize 24/365 experiences",
+          "launch_date": "2023-03-13"
+        },
+        {
+          "name": "Enable e-business supply-chains",
+          "launch_date": "2021-08-03"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00288",
+    "profile": {
+      "founding_year": 2003,
+      "employee_count": 202,
+      "tech_stack": [
+        "Rust",
+        "Python",
+        "JavaScript"
+      ],
+      "is_public": false,
+      "headquarters": "辉市",
+      "products": [
+        {
+          "name": "Re-contextualize user-centric interfaces",
+          "launch_date": "2023-06-17"
+        }
+      ]
+    }
+  },
+  {
+    "company_id": "COMP00342",
+    "profile": {
+      "founding_year": 2020,
+      "employee_count": 13,
+      "tech_stack": [
+        "Go",
+        "Python",
+        "JavaScript"
+      ],
+      "is_public": true,
+      "headquarters": "琳市",
+      "products": [
+        {
+          "name": "Seize killer roi",
+          "launch_date": "2022-05-09"
+        },
+        {
+          "name": "Grow b2c paradigms",
+          "launch_date": "2024-01-18"
+        },
+        {
+          "name": "Re-intermediate interactive experiences",
+          "launch_date": "2022-06-15"
+        }
+      ]
+    }
+  }
+]

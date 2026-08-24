@@ -1,0 +1,20 @@
+{
+    "goal": "比较九江银行与成都银行在绿色金融领域的创新实践和市场表现差异。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 九江银行绿色贷款余额在2022年增长24.03%，反映出中小银行在绿色金融领域的积极响应。",
+        "Comparison: 成都银行的绿色信贷余额为263.1亿元，同比增长145.11%，显示出其在绿色金融领域的突出表现。",
+        "Extreme: 九江银行绿色贷款增幅达到47%，显示出其在绿色金融领域的快速发展。",
+        "Attribution: 九江银行通过设立专门委员会和部门，推动绿色金融的发展，积极响应各类政策。"
+    ],
+    "summary": "本报告探讨了中小银行在绿色金融领域的创新实践与发展策略，强调了政策支持和市场需求的双重驱动。",
+    "flag_id": "flag-13",
+    "classifier": "FinTech",
+    "classifier_cn": "金融科技",
+    "input_files": [
+        "output/business_background.txt",
+        "output/dimension_data.db",
+        "output/green_finance_activities.json",
+        "output/green_loan_fact.png"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "goal": "比较北京和广东的网民普及率差异及其影响因素。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 2015年，中国新增网民3951万人，网民规模增长率为6.1%。",
+        "Comparison: 广东网民数7768万人，位居全国第一，普及率72.4%。",
+        "Extreme: 2015年，手机网上支付用户规模达到3.58亿，增长率为64.5%。",
+        "Attribution: 由于政策的支持，跨境电商成为网络零售市场新的增长点，推动了整体市场的发展。"
+    ],
+    "summary": "本报告总结了截至2015年12月中国互联网的发展状况，涵盖了网民规模、互联网普及率、企业互联网应用及网络安全等多个方面，揭示了互联网在社会经济中的重要作用。",
+    "flag_id": "flag-199",
+    "classifier": "Internet Dev.",
+    "classifier_cn": "互联网发展",
+    "input_files": [
+        "output/background.txt",
+        "output/dimension_data.db",
+        "output/internet_users.png",
+        "output/user_profiles.json"
+    ]
+}

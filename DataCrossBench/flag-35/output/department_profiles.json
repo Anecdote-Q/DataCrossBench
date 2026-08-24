@@ -1,0 +1,104 @@
+[
+  {
+    "dept_code": "DEPT_001",
+    "department_name": "电商事业部",
+    "department_leader": "鞠洁",
+    "culture": "稳健发展",
+    "development_focus": [
+      "云计算",
+      "人工智能"
+    ],
+    "ai_investment": {
+      "2021": 13,
+      "2022": 26,
+      "2023": 59,
+      "2024": 69,
+      "2025": 58
+    }
+  },
+  {
+    "dept_code": "DEPT_002",
+    "department_name": "云计算事业部",
+    "department_leader": "王丹",
+    "culture": "客户优先",
+    "development_focus": [
+      "电商",
+      "大数据分析"
+    ],
+    "ai_investment": {
+      "2021": 23,
+      "2022": 25,
+      "2023": 39,
+      "2024": 64,
+      "2025": 62
+    }
+  },
+  {
+    "dept_code": "DEPT_003",
+    "department_name": "数字媒体事业部",
+    "department_leader": "瞿淑英",
+    "culture": "稳健发展",
+    "development_focus": [
+      "人工智能",
+      "大数据分析"
+    ],
+    "ai_investment": {
+      "2021": 10,
+      "2022": 25,
+      "2023": 38,
+      "2024": 54,
+      "2025": 46
+    }
+  },
+  {
+    "dept_code": "DEPT_004",
+    "department_name": "创新孵化事业部",
+    "department_leader": "田军",
+    "culture": "客户优先",
+    "development_focus": [
+      "云计算",
+      "电商"
+    ],
+    "ai_investment": {
+      "2021": 11,
+      "2022": 48,
+      "2023": 33,
+      "2024": 65,
+      "2025": 53
+    }
+  },
+  {
+    "dept_code": "DEPT_005",
+    "department_name": "技术支持部",
+    "department_leader": "韦丽",
+    "culture": "敏捷响应",
+    "development_focus": [
+      "数字娱乐",
+      "大数据分析"
+    ],
+    "ai_investment": {
+      "2021": 19,
+      "2022": 35,
+      "2023": 51,
+      "2024": 48,
+      "2025": 45
+    }
+  },
+  {
+    "dept_code": "DEPT_006",
+    "department_name": "客户服务部",
+    "department_leader": "韦文",
+    "culture": "创新驱动",
+    "development_focus": [
+      "大数据分析",
+      "云计算"
+    ],
+    "ai_investment": {
+      "2021": 21,
+      "2022": 42,
+      "2023": 34,
+      "2024": 46,
+      "2025": 43
+    }
+  }
+]

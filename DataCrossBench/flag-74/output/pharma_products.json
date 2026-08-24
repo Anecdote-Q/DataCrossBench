@@ -1,0 +1,6199 @@
+[
+  {
+    "company_id": 1,
+    "company_name": "Hansen-Green",
+    "industry_segment": "创新药",
+    "products": [
+      {
+        "product_name": "Assimilated cohesive pricing structure",
+        "product_type": "仿制药",
+        "clinical_phase": "I期",
+        "annual_sales_million": 1.81,
+        "approved_in_regions": [
+          "其他亚洲",
+          "美国",
+          "日本"
+        ]
+      },
+      {
+        "product_name": "User-centric coherent paradigm",
+        "product_type": "创新药",
+        "clinical_phase": "I期",
+        "annual_sales_million": 4.91,
+        "approved_in_regions": [
+          "欧盟",
+          "美国",
+          "其他亚洲"
+        ]
+      },
+      {
+        "product_name": "Persistent web-enabled system engine",
+        "product_type": "中药",
+        "clinical_phase": "I期",
+        "annual_sales_million": 11.93,
+        "approved_in_regions": [
+          "其他亚洲"
+        ]
+      },
+      {
+        "product_name": "Multi-layered bottom-line frame",
+        "product_type": "仿制药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 14.58,
+        "approved_in_regions": [
+          "日本",
+          "欧盟"
+        ]
+      }
+    ],
+    "latest_research_focus": "心血管",
+    "is_listed": true
+  },
+  {
+    "company_id": 2,
+    "company_name": "Skinner, Padilla and Mason",
+    "industry_segment": "中药",
+    "products": [
+      {
+        "product_name": "Sharable content-based infrastructure",
+        "product_type": "仿制药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 8.58,
+        "approved_in_regions": [
+          "中国"
+        ]
+      },
+      {
+        "product_name": "Right-sized contextually-based complexity",
+        "product_type": "中药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 5.54,
+        "approved_in_regions": [
+          "其他亚洲"
+        ]
+      },
+      {
+        "product_name": "Re-contextualized heuristic utilization",
+        "product_type": "创新药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 6.55,
+        "approved_in_regions": [
+          "其他亚洲"
+        ]
+      }
+    ],
+    "latest_research_focus": "糖尿病",
+    "is_listed": true
+  },
+  {
+    "company_id": 3,
+    "company_name": "Simmons Group",
+    "industry_segment": "仿制药",
+    "products": [
+      {
+        "product_name": "Cloned reciprocal budgetary management",
+        "product_type": "医疗器械",
+        "clinical_phase": "I期",
+        "annual_sales_million": 15.49,
+        "approved_in_regions": [
+          "日本",
+          "美国",
+          "欧盟"
+        ]
+      },
+      {
+        "product_name": "Streamlined leadingedge open architecture",
+        "product_type": "中药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 7.64,
+        "approved_in_regions": [
+          "欧盟",
+          "日本"
+        ]
+      },
+      {
+        "product_name": "Visionary upward-trending open architecture",
+        "product_type": "仿制药",
+        "clinical_phase": "I期",
+        "annual_sales_million": 2.61,
+        "approved_in_regions": [
+          "中国",
+          "美国",
+          "欧盟"
+        ]
+      }
+    ],
+    "latest_research_focus": "心血管",
+    "is_listed": true
+  },
+  {
+    "company_id": 4,
+    "company_name": "Coleman-Olson",
+    "industry_segment": "医疗器械",
+    "products": [
+      {
+        "product_name": "Profit-focused fresh-thinking groupware",
+        "product_type": "创新药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 2.15,
+        "approved_in_regions": [
+          "美国"
+        ]
+      },
+      {
+        "product_name": "Profit-focused 4thgeneration system engine",
+        "product_type": "创新药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 1.67,
+        "approved_in_regions": [
+          "日本"
+        ]
+      },
+      {
+        "product_name": "Cross-group foreground access",
+        "product_type": "中药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 31.68,
+        "approved_in_regions": [
+          "中国",
+          "美国"
+        ]
+      },
+      {
+        "product_name": "Operative holistic task-force",
+        "product_type": "仿制药",
+        "clinical_phase": "III期",
+        "annual_sales_million": 16.57,
+        "approved_in_regions": [
+          "日本",
+          "中国",
+          "欧盟"
+        ]
+      },
+      {
+        "product_name": "Quality-focused mobile software",
+        "product_type": "医疗器械",
+        "clinical_phase": "III期",
+        "annual_sales_million": 6.64,
+        "approved_in_regions": [
+          "其他亚洲",
+          "美国",
+          "日本"
+        ]
+      }
+    ],
+    "latest_research_focus": "癌症",
+    "is_listed": true
+  },
+  {
+    "company_id": 5,
+    "company_name": "Ramirez, Barton and Hinton",
+    "industry_segment": "创新药",
+    "products": [
+      {
+        "product_name": "Cross-group multimedia toolset",
+        "product_type": "医疗器械",
+        "clinical_phase": "II期",
+        "annual_sales_million": 4.69,
+        "approved_in_regions": [
+          "美国",
+          "中国"
+        ]
+      },
+      {
+        "product_name": "Fundamental coherent emulation",
+        "product_type": "创新药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 4.16,
+        "approved_in_regions": [
+          "其他亚洲",
+          "欧盟"
+        ]
+      },
+      {
+        "product_name": "Organized neutral standardization",
+        "product_type": "中药",
+        "clinical_phase": "I期",
+        "annual_sales_million": 22.05,
+        "approved_in_regions": [
+          "欧盟",
+          "日本"
+        ]
+      },
+      {
+        "product_name": "Reactive stable process improvement",
+        "product_type": "仿制药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 49.62,
+        "approved_in_regions": [
+          "中国",
+          "其他亚洲"
+        ]
+      },
+      {
+        "product_name": "Sharable radical implementation",
+        "product_type": "中药",
+        "clinical_phase": "III期",
+        "annual_sales_million": 4.03,
+        "approved_in_regions": [
+          "欧盟",
+          "中国",
+          "日本"
+        ]
+      },
+      {
+        "product_name": "Cloned secondary neural-net",
+        "product_type": "医疗器械",
+        "clinical_phase": "I期",
+        "annual_sales_million": 23.07,
+        "approved_in_regions": [
+          "欧盟",
+          "中国",
+          "日本"
+        ]
+      },
+      {
+        "product_name": "Digitized uniform productivity",
+        "product_type": "中药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 7.6,
+        "approved_in_regions": [
+          "美国",
+          "日本"
+        ]
+      }
+    ],
+    "latest_research_focus": "感染病",
+    "is_listed": false
+  },
+  {
+    "company_id": 6,
+    "company_name": "Ryan Inc",
+    "industry_segment": "创新药",
+    "products": [
+      {
+        "product_name": "Down-sized web-enabled toolset",
+        "product_type": "中药",
+        "clinical_phase": "III期",
+        "annual_sales_million": 5.97,
+        "approved_in_regions": [
+          "欧盟",
+          "其他亚洲"
+        ]
+      },
+      {
+        "product_name": "Optimized 6thgeneration encryption",
+        "product_type": "创新药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 33.26,
+        "approved_in_regions": [
+          "日本",
+          "其他亚洲"
+        ]
+      },
+      {
+        "product_name": "Visionary hybrid instruction set",
+        "product_type": "仿制药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 7.31,
+        "approved_in_regions": [
+          "中国",
+          "日本",
+          "其他亚洲"
+        ]
+      }
+    ],
+    "latest_research_focus": "糖尿病",
+    "is_listed": true
+  },
+  {
+    "company_id": 7,
+    "company_name": "Ashley, Young and Freeman",
+    "industry_segment": "创新药",
+    "products": [
+      {
+        "product_name": "Upgradable exuding intranet",
+        "product_type": "仿制药",
+        "clinical_phase": "I期",
+        "annual_sales_million": 9.94,
+        "approved_in_regions": [
+          "其他亚洲",
+          "中国"
+        ]
+      },
+      {
+        "product_name": "Triple-buffered multi-state Local Area Network",
+        "product_type": "中药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 9.47,
+        "approved_in_regions": [
+          "美国"
+        ]
+      },
+      {
+        "product_name": "Innovative grid-enabled knowledgebase",
+        "product_type": "仿制药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 1.45,
+        "approved_in_regions": [
+          "日本",
+          "中国",
+          "其他亚洲"
+        ]
+      },
+      {
+        "product_name": "Seamless disintermediate encryption",
+        "product_type": "仿制药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 9.86,
+        "approved_in_regions": [
+          "日本",
+          "其他亚洲"
+        ]
+      },
+      {
+        "product_name": "Versatile zero tolerance encoding",
+        "product_type": "创新药",
+        "clinical_phase": "I期",
+        "annual_sales_million": 4.21,
+        "approved_in_regions": [
+          "其他亚洲",
+          "美国",
+          "欧盟"
+        ]
+      }
+    ],
+    "latest_research_focus": "心血管",
+    "is_listed": true
+  },
+  {
+    "company_id": 8,
+    "company_name": "Craig-Olson",
+    "industry_segment": "仿制药",
+    "products": [
+      {
+        "product_name": "Synergistic secondary challenge",
+        "product_type": "创新药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 1.78,
+        "approved_in_regions": [
+          "美国"
+        ]
+      },
+      {
+        "product_name": "Synergized logistical productivity",
+        "product_type": "创新药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 4.41,
+        "approved_in_regions": [
+          "美国"
+        ]
+      },
+      {
+        "product_name": "Function-based zero-defect emulation",
+        "product_type": "中药",
+        "clinical_phase": "III期",
+        "annual_sales_million": 4.37,
+        "approved_in_regions": [
+          "欧盟",
+          "日本",
+          "美国"
+        ]
+      },
+      {
+        "product_name": "Right-sized optimal implementation",
+        "product_type": "中药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 20.69,
+        "approved_in_regions": [
+          "其他亚洲",
+          "美国"
+        ]
+      },
+      {
+        "product_name": "Digitized dedicated hierarchy",
+        "product_type": "中药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 2.55,
+        "approved_in_regions": [
+          "其他亚洲",
+          "美国",
+          "中国"
+        ]
+      }
+    ],
+    "latest_research_focus": "糖尿病",
+    "is_listed": false
+  },
+  {
+    "company_id": 9,
+    "company_name": "Humphrey Ltd",
+    "industry_segment": "医疗器械",
+    "products": [
+      {
+        "product_name": "Stand-alone maximized database",
+        "product_type": "仿制药",
+        "clinical_phase": "III期",
+        "annual_sales_million": 3.35,
+        "approved_in_regions": [
+          "欧盟"
+        ]
+      },
+      {
+        "product_name": "Integrated interactive approach",
+        "product_type": "仿制药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 9.35,
+        "approved_in_regions": [
+          "日本"
+        ]
+      },
+      {
+        "product_name": "Mandatory cohesive functionalities",
+        "product_type": "中药",
+        "clinical_phase": "III期",
+        "annual_sales_million": 1.96,
+        "approved_in_regions": [
+          "其他亚洲",
+          "日本"
+        ]
+      },
+      {
+        "product_name": "Intuitive fault-tolerant capacity",
+        "product_type": "中药",
+        "clinical_phase": "III期",
+        "annual_sales_million": 3.82,
+        "approved_in_regions": [
+          "美国"
+        ]
+      },
+      {
+        "product_name": "Business-focused actuating middleware",
+        "product_type": "中药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 1.4,
+        "approved_in_regions": [
+          "中国",
+          "欧盟"
+        ]
+      },
+      {
+        "product_name": "Focused logistical model",
+        "product_type": "中药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 18.54,
+        "approved_in_regions": [
+          "美国",
+          "日本"
+        ]
+      }
+    ],
+    "latest_research_focus": "癌症",
+    "is_listed": true
+  },
+  {
+    "company_id": 10,
+    "company_name": "Berry Ltd",
+    "industry_segment": "仿制药",
+    "products": [
+      {
+        "product_name": "Customer-focused encompassing collaboration",
+        "product_type": "仿制药",
+        "clinical_phase": "I期",
+        "annual_sales_million": 5.47,
+        "approved_in_regions": [
+          "中国",
+          "日本"
+        ]
+      },
+      {
+        "product_name": "Future-proofed 3rdgeneration portal",
+        "product_type": "创新药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 7.27,
+        "approved_in_regions": [
+          "美国",
+          "中国"
+        ]
+      },
+      {
+        "product_name": "Devolved optimizing Graphical User Interface",
+        "product_type": "中药",
+        "clinical_phase": "III期",
+        "annual_sales_million": 18.47,
+        "approved_in_regions": [
+          "其他亚洲",
+          "日本"
+        ]
+      },
+      {
+        "product_name": "Decentralized coherent matrices",
+        "product_type": "创新药",
+        "clinical_phase": "III期",
+        "annual_sales_million": 3.59,
+        "approved_in_regions": [
+          "其他亚洲",
+          "日本",
+          "美国"
+        ]
+      }
+    ],
+    "latest_research_focus": "感染病",
+    "is_listed": true
+  },
+  {
+    "company_id": 11,
+    "company_name": "Elliott, Flores and Ramos",
+    "industry_segment": "创新药",
+    "products": [
+      {
+        "product_name": "Adaptive incremental instruction set",
+        "product_type": "创新药",
+        "clinical_phase": "I期",
+        "annual_sales_million": 5.41,
+        "approved_in_regions": [
+          "欧盟"
+        ]
+      },
+      {
+        "product_name": "Total background hardware",
+        "product_type": "医疗器械",
+        "clinical_phase": "I期",
+        "annual_sales_million": 2.57,
+        "approved_in_regions": [
+          "中国",
+          "其他亚洲"
+        ]
+      },
+      {
+        "product_name": "Programmable stable website",
+        "product_type": "中药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 2.56,
+        "approved_in_regions": [
+          "欧盟",
+          "中国",
+          "日本"
+        ]
+      },
+      {
+        "product_name": "User-centric multi-tasking approach",
+        "product_type": "仿制药",
+        "clinical_phase": "I期",
+        "annual_sales_million": 2.94,
+        "approved_in_regions": [
+          "欧盟",
+          "其他亚洲"
+        ]
+      },
+      {
+        "product_name": "Reduced context-sensitive encryption",
+        "product_type": "中药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 4.52,
+        "approved_in_regions": [
+          "其他亚洲"
+        ]
+      },
+      {
+        "product_name": "Face-to-face exuding encoding",
+        "product_type": "中药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 5.03,
+        "approved_in_regions": [
+          "美国"
+        ]
+      },
+      {
+        "product_name": "De-engineered didactic ability",
+        "product_type": "创新药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 9.86,
+        "approved_in_regions": [
+          "美国",
+          "日本",
+          "欧盟"
+        ]
+      }
+    ],
+    "latest_research_focus": "心血管",
+    "is_listed": true
+  },
+  {
+    "company_id": 12,
+    "company_name": "Byrd, Mason and Lee",
+    "industry_segment": "中药",
+    "products": [
+      {
+        "product_name": "Optional multi-tasking orchestration",
+        "product_type": "中药",
+        "clinical_phase": "III期",
+        "annual_sales_million": 3.03,
+        "approved_in_regions": [
+          "欧盟",
+          "中国"
+        ]
+      },
+      {
+        "product_name": "Enhanced eco-centric system engine",
+        "product_type": "中药",
+        "clinical_phase": "III期",
+        "annual_sales_million": 10.17,
+        "approved_in_regions": [
+          "其他亚洲",
+          "美国",
+          "中国"
+        ]
+      },
+      {
+        "product_name": "Centralized dedicated migration",
+        "product_type": "中药",
+        "clinical_phase": "III期",
+        "annual_sales_million": 12.0,
+        "approved_in_regions": [
+          "欧盟",
+          "日本",
+          "其他亚洲"
+        ]
+      },
+      {
+        "product_name": "Re-contextualized asynchronous info-mediaries",
+        "product_type": "仿制药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 4.63,
+        "approved_in_regions": [
+          "美国",
+          "日本"
+        ]
+      }
+    ],
+    "latest_research_focus": "感染病",
+    "is_listed": true
+  },
+  {
+    "company_id": 13,
+    "company_name": "Luna-Young",
+    "industry_segment": "仿制药",
+    "products": [
+      {
+        "product_name": "Pre-emptive non-volatile neural-net",
+        "product_type": "医疗器械",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 3.3,
+        "approved_in_regions": [
+          "欧盟",
+          "其他亚洲",
+          "日本"
+        ]
+      },
+      {
+        "product_name": "Implemented bandwidth-monitored task-force",
+        "product_type": "仿制药",
+        "clinical_phase": "I期",
+        "annual_sales_million": 8.05,
+        "approved_in_regions": [
+          "日本",
+          "欧盟",
+          "中国"
+        ]
+      },
+      {
+        "product_name": "Fully-configurable demand-driven ability",
+        "product_type": "创新药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 6.03,
+        "approved_in_regions": [
+          "美国",
+          "欧盟"
+        ]
+      }
+    ],
+    "latest_research_focus": "心血管",
+    "is_listed": false
+  },
+  {
+    "company_id": 14,
+    "company_name": "Rodriguez, Wood and Sullivan",
+    "industry_segment": "创新药",
+    "products": [
+      {
+        "product_name": "Integrated tangible extranet",
+        "product_type": "医疗器械",
+        "clinical_phase": "III期",
+        "annual_sales_million": 9.21,
+        "approved_in_regions": [
+          "美国",
+          "中国",
+          "欧盟"
+        ]
+      },
+      {
+        "product_name": "Upgradable attitude-oriented hardware",
+        "product_type": "创新药",
+        "clinical_phase": "III期",
+        "annual_sales_million": 35.51,
+        "approved_in_regions": [
+          "中国",
+          "欧盟"
+        ]
+      },
+      {
+        "product_name": "Fully-configurable fault-tolerant leverage",
+        "product_type": "医疗器械",
+        "clinical_phase": "I期",
+        "annual_sales_million": 7.91,
+        "approved_in_regions": [
+          "欧盟",
+          "日本"
+        ]
+      },
+      {
+        "product_name": "Quality-focused composite algorithm",
+        "product_type": "医疗器械",
+        "clinical_phase": "II期",
+        "annual_sales_million": 3.9,
+        "approved_in_regions": [
+          "其他亚洲"
+        ]
+      },
+      {
+        "product_name": "Diverse dynamic emulation",
+        "product_type": "仿制药",
+        "clinical_phase": "III期",
+        "annual_sales_million": 3.03,
+        "approved_in_regions": [
+          "欧盟"
+        ]
+      },
+      {
+        "product_name": "Streamlined national instruction set",
+        "product_type": "中药",
+        "clinical_phase": "III期",
+        "annual_sales_million": 3.15,
+        "approved_in_regions": [
+          "欧盟",
+          "中国",
+          "美国"
+        ]
+      },
+      {
+        "product_name": "Adaptive interactive function",
+        "product_type": "创新药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 1.71,
+        "approved_in_regions": [
+          "日本"
+        ]
+      },
+      {
+        "product_name": "Ergonomic value-added matrix",
+        "product_type": "仿制药",
+        "clinical_phase": "I期",
+        "annual_sales_million": 18.78,
+        "approved_in_regions": [
+          "中国",
+          "欧盟"
+        ]
+      }
+    ],
+    "latest_research_focus": "神经疾病",
+    "is_listed": false
+  },
+  {
+    "company_id": 15,
+    "company_name": "Bennett, Dunn and Powell",
+    "industry_segment": "创新药",
+    "products": [
+      {
+        "product_name": "Secured client-server protocol",
+        "product_type": "中药",
+        "clinical_phase": "III期",
+        "annual_sales_million": 0.79,
+        "approved_in_regions": [
+          "欧盟",
+          "日本",
+          "其他亚洲"
+        ]
+      },
+      {
+        "product_name": "Enhanced zero tolerance conglomeration",
+        "product_type": "仿制药",
+        "clinical_phase": "I期",
+        "annual_sales_million": 12.04,
+        "approved_in_regions": [
+          "美国",
+          "日本",
+          "中国"
+        ]
+      },
+      {
+        "product_name": "Re-engineered analyzing secured line",
+        "product_type": "仿制药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 3.1,
+        "approved_in_regions": [
+          "中国",
+          "日本",
+          "欧盟"
+        ]
+      }
+    ],
+    "latest_research_focus": "糖尿病",
+    "is_listed": true
+  },
+  {
+    "company_id": 16,
+    "company_name": "Jones, English and Sims",
+    "industry_segment": "创新药",
+    "products": [
+      {
+        "product_name": "Programmable reciprocal standardization",
+        "product_type": "中药",
+        "clinical_phase": "I期",
+        "annual_sales_million": 4.43,
+        "approved_in_regions": [
+          "中国"
+        ]
+      },
+      {
+        "product_name": "Reactive object-oriented strategy",
+        "product_type": "创新药",
+        "clinical_phase": "III期",
+        "annual_sales_million": 3.01,
+        "approved_in_regions": [
+          "中国",
+          "其他亚洲"
+        ]
+      },
+      {
+        "product_name": "Face-to-face 5thgeneration array",
+        "product_type": "医疗器械",
+        "clinical_phase": "II期",
+        "annual_sales_million": 31.37,
+        "approved_in_regions": [
+          "日本",
+          "欧盟"
+        ]
+      },
+      {
+        "product_name": "Adaptive client-server paradigm",
+        "product_type": "中药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 7.51,
+        "approved_in_regions": [
+          "中国",
+          "日本"
+        ]
+      },
+      {
+        "product_name": "Customizable dynamic forecast",
+        "product_type": "中药",
+        "clinical_phase": "III期",
+        "annual_sales_million": 16.29,
+        "approved_in_regions": [
+          "欧盟"
+        ]
+      },
+      {
+        "product_name": "Multi-channeled zero administration forecast",
+        "product_type": "医疗器械",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 27.13,
+        "approved_in_regions": [
+          "美国",
+          "欧盟"
+        ]
+      },
+      {
+        "product_name": "Self-enabling content-based software",
+        "product_type": "创新药",
+        "clinical_phase": "III期",
+        "annual_sales_million": 8.7,
+        "approved_in_regions": [
+          "欧盟",
+          "中国",
+          "美国"
+        ]
+      },
+      {
+        "product_name": "Exclusive 24hour software",
+        "product_type": "仿制药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 2.24,
+        "approved_in_regions": [
+          "日本"
+        ]
+      }
+    ],
+    "latest_research_focus": "癌症",
+    "is_listed": false
+  },
+  {
+    "company_id": 17,
+    "company_name": "Roth, Harris and Ortiz",
+    "industry_segment": "创新药",
+    "products": [
+      {
+        "product_name": "Innovative directional monitoring",
+        "product_type": "医疗器械",
+        "clinical_phase": "I期",
+        "annual_sales_million": 5.93,
+        "approved_in_regions": [
+          "欧盟"
+        ]
+      },
+      {
+        "product_name": "Synergistic regional frame",
+        "product_type": "医疗器械",
+        "clinical_phase": "II期",
+        "annual_sales_million": 3.52,
+        "approved_in_regions": [
+          "美国",
+          "中国",
+          "欧盟"
+        ]
+      },
+      {
+        "product_name": "Programmable 24/7 strategy",
+        "product_type": "医疗器械",
+        "clinical_phase": "II期",
+        "annual_sales_million": 4.47,
+        "approved_in_regions": [
+          "欧盟"
+        ]
+      },
+      {
+        "product_name": "Adaptive real-time task-force",
+        "product_type": "医疗器械",
+        "clinical_phase": "I期",
+        "annual_sales_million": 6.72,
+        "approved_in_regions": [
+          "美国",
+          "其他亚洲"
+        ]
+      },
+      {
+        "product_name": "Proactive tertiary Graphical User Interface",
+        "product_type": "仿制药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 6.46,
+        "approved_in_regions": [
+          "中国"
+        ]
+      },
+      {
+        "product_name": "Profit-focused web-enabled task-force",
+        "product_type": "医疗器械",
+        "clinical_phase": "I期",
+        "annual_sales_million": 11.16,
+        "approved_in_regions": [
+          "美国",
+          "欧盟"
+        ]
+      },
+      {
+        "product_name": "Visionary executive installation",
+        "product_type": "创新药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 12.9,
+        "approved_in_regions": [
+          "中国",
+          "美国"
+        ]
+      },
+      {
+        "product_name": "Operative value-added core",
+        "product_type": "中药",
+        "clinical_phase": "I期",
+        "annual_sales_million": 6.46,
+        "approved_in_regions": [
+          "中国",
+          "日本",
+          "美国"
+        ]
+      }
+    ],
+    "latest_research_focus": "糖尿病",
+    "is_listed": false
+  },
+  {
+    "company_id": 18,
+    "company_name": "Miller-Jacobs",
+    "industry_segment": "医疗器械",
+    "products": [
+      {
+        "product_name": "Digitized attitude-oriented strategy",
+        "product_type": "创新药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 11.06,
+        "approved_in_regions": [
+          "美国",
+          "中国",
+          "欧盟"
+        ]
+      },
+      {
+        "product_name": "Multi-channeled bifurcated forecast",
+        "product_type": "仿制药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 4.27,
+        "approved_in_regions": [
+          "中国",
+          "其他亚洲",
+          "美国"
+        ]
+      },
+      {
+        "product_name": "Up-sized 5thgeneration flexibility",
+        "product_type": "中药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 27.52,
+        "approved_in_regions": [
+          "中国",
+          "日本",
+          "欧盟"
+        ]
+      },
+      {
+        "product_name": "Inverse logistical help-desk",
+        "product_type": "中药",
+        "clinical_phase": "I期",
+        "annual_sales_million": 4.2,
+        "approved_in_regions": [
+          "欧盟"
+        ]
+      },
+      {
+        "product_name": "Synergized needs-based structure",
+        "product_type": "医疗器械",
+        "clinical_phase": "I期",
+        "annual_sales_million": 24.46,
+        "approved_in_regions": [
+          "欧盟"
+        ]
+      },
+      {
+        "product_name": "Seamless stable access",
+        "product_type": "仿制药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 1.69,
+        "approved_in_regions": [
+          "其他亚洲",
+          "欧盟",
+          "美国"
+        ]
+      },
+      {
+        "product_name": "Virtual next generation parallelism",
+        "product_type": "中药",
+        "clinical_phase": "I期",
+        "annual_sales_million": 5.05,
+        "approved_in_regions": [
+          "中国",
+          "美国",
+          "日本"
+        ]
+      }
+    ],
+    "latest_research_focus": "感染病",
+    "is_listed": true
+  },
+  {
+    "company_id": 19,
+    "company_name": "Matthews-Pierce",
+    "industry_segment": "医疗器械",
+    "products": [
+      {
+        "product_name": "Reduced static frame",
+        "product_type": "中药",
+        "clinical_phase": "III期",
+        "annual_sales_million": 5.31,
+        "approved_in_regions": [
+          "日本",
+          "其他亚洲"
+        ]
+      },
+      {
+        "product_name": "Visionary logistical throughput",
+        "product_type": "创新药",
+        "clinical_phase": "III期",
+        "annual_sales_million": 9.77,
+        "approved_in_regions": [
+          "欧盟",
+          "其他亚洲"
+        ]
+      },
+      {
+        "product_name": "Face-to-face explicit task-force",
+        "product_type": "仿制药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 17.49,
+        "approved_in_regions": [
+          "日本",
+          "中国",
+          "其他亚洲"
+        ]
+      },
+      {
+        "product_name": "Multi-layered optimizing projection",
+        "product_type": "创新药",
+        "clinical_phase": "I期",
+        "annual_sales_million": 2.12,
+        "approved_in_regions": [
+          "中国",
+          "欧盟"
+        ]
+      }
+    ],
+    "latest_research_focus": "心血管",
+    "is_listed": false
+  },
+  {
+    "company_id": 20,
+    "company_name": "Brown-White",
+    "industry_segment": "创新药",
+    "products": [
+      {
+        "product_name": "Up-sized value-added approach",
+        "product_type": "创新药",
+        "clinical_phase": "III期",
+        "annual_sales_million": 2.44,
+        "approved_in_regions": [
+          "中国",
+          "日本",
+          "美国"
+        ]
+      },
+      {
+        "product_name": "Compatible systematic support",
+        "product_type": "中药",
+        "clinical_phase": "I期",
+        "annual_sales_million": 1.82,
+        "approved_in_regions": [
+          "其他亚洲",
+          "欧盟"
+        ]
+      },
+      {
+        "product_name": "Triple-buffered motivating flexibility",
+        "product_type": "仿制药",
+        "clinical_phase": "I期",
+        "annual_sales_million": 27.67,
+        "approved_in_regions": [
+          "其他亚洲",
+          "美国",
+          "中国"
+        ]
+      },
+      {
+        "product_name": "Vision-oriented contextually-based functionalities",
+        "product_type": "中药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 9.95,
+        "approved_in_regions": [
+          "欧盟"
+        ]
+      },
+      {
+        "product_name": "Grass-roots asymmetric alliance",
+        "product_type": "仿制药",
+        "clinical_phase": "I期",
+        "annual_sales_million": 2.5,
+        "approved_in_regions": [
+          "其他亚洲",
+          "美国"
+        ]
+      },
+      {
+        "product_name": "Enhanced bi-directional software",
+        "product_type": "中药",
+        "clinical_phase": "I期",
+        "annual_sales_million": 4.74,
+        "approved_in_regions": [
+          "欧盟",
+          "中国",
+          "日本"
+        ]
+      },
+      {
+        "product_name": "Reactive contextually-based initiative",
+        "product_type": "仿制药",
+        "clinical_phase": "III期",
+        "annual_sales_million": 24.09,
+        "approved_in_regions": [
+          "欧盟",
+          "中国"
+        ]
+      }
+    ],
+    "latest_research_focus": "心血管",
+    "is_listed": true
+  },
+  {
+    "company_id": 21,
+    "company_name": "Woods-Jordan",
+    "industry_segment": "医疗器械",
+    "products": [
+      {
+        "product_name": "Digitized 24hour capacity",
+        "product_type": "中药",
+        "clinical_phase": "I期",
+        "annual_sales_million": 5.6,
+        "approved_in_regions": [
+          "中国"
+        ]
+      },
+      {
+        "product_name": "Persistent secondary support",
+        "product_type": "创新药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 5.27,
+        "approved_in_regions": [
+          "日本",
+          "其他亚洲"
+        ]
+      },
+      {
+        "product_name": "Distributed transitional migration",
+        "product_type": "仿制药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 3.38,
+        "approved_in_regions": [
+          "欧盟",
+          "其他亚洲"
+        ]
+      },
+      {
+        "product_name": "Pre-emptive 24hour knowledge user",
+        "product_type": "创新药",
+        "clinical_phase": "I期",
+        "annual_sales_million": 2.65,
+        "approved_in_regions": [
+          "美国"
+        ]
+      }
+    ],
+    "latest_research_focus": "神经疾病",
+    "is_listed": false
+  },
+  {
+    "company_id": 22,
+    "company_name": "Ibarra, Marshall and Garcia",
+    "industry_segment": "创新药",
+    "products": [
+      {
+        "product_name": "Cloned actuating leverage",
+        "product_type": "创新药",
+        "clinical_phase": "III期",
+        "annual_sales_million": 24.13,
+        "approved_in_regions": [
+          "日本",
+          "其他亚洲"
+        ]
+      },
+      {
+        "product_name": "Face-to-face eco-centric Graphical User Interface",
+        "product_type": "中药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 39.41,
+        "approved_in_regions": [
+          "美国",
+          "中国"
+        ]
+      },
+      {
+        "product_name": "Open-architected human-resource extranet",
+        "product_type": "仿制药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 2.76,
+        "approved_in_regions": [
+          "欧盟"
+        ]
+      }
+    ],
+    "latest_research_focus": "神经疾病",
+    "is_listed": false
+  },
+  {
+    "company_id": 23,
+    "company_name": "Barton, Estrada and Quinn",
+    "industry_segment": "创新药",
+    "products": [
+      {
+        "product_name": "Inverse real-time array",
+        "product_type": "仿制药",
+        "clinical_phase": "I期",
+        "annual_sales_million": 30.11,
+        "approved_in_regions": [
+          "日本"
+        ]
+      },
+      {
+        "product_name": "Total 5thgeneration firmware",
+        "product_type": "创新药",
+        "clinical_phase": "I期",
+        "annual_sales_million": 4.54,
+        "approved_in_regions": [
+          "欧盟"
+        ]
+      },
+      {
+        "product_name": "Quality-focused responsive encryption",
+        "product_type": "医疗器械",
+        "clinical_phase": "II期",
+        "annual_sales_million": 12.6,
+        "approved_in_regions": [
+          "欧盟",
+          "其他亚洲"
+        ]
+      },
+      {
+        "product_name": "Down-sized 5thgeneration encryption",
+        "product_type": "创新药",
+        "clinical_phase": "I期",
+        "annual_sales_million": 30.27,
+        "approved_in_regions": [
+          "日本",
+          "美国"
+        ]
+      },
+      {
+        "product_name": "Diverse demand-driven open system",
+        "product_type": "医疗器械",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 6.39,
+        "approved_in_regions": [
+          "美国",
+          "欧盟",
+          "中国"
+        ]
+      },
+      {
+        "product_name": "Cross-group object-oriented installation",
+        "product_type": "中药",
+        "clinical_phase": "I期",
+        "annual_sales_million": 5.32,
+        "approved_in_regions": [
+          "中国",
+          "日本"
+        ]
+      }
+    ],
+    "latest_research_focus": "癌症",
+    "is_listed": true
+  },
+  {
+    "company_id": 24,
+    "company_name": "Tran Inc",
+    "industry_segment": "创新药",
+    "products": [
+      {
+        "product_name": "Pre-emptive clear-thinking access",
+        "product_type": "中药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 16.46,
+        "approved_in_regions": [
+          "日本",
+          "欧盟",
+          "中国"
+        ]
+      },
+      {
+        "product_name": "Cross-group global migration",
+        "product_type": "中药",
+        "clinical_phase": "I期",
+        "annual_sales_million": 2.44,
+        "approved_in_regions": [
+          "美国",
+          "日本"
+        ]
+      },
+      {
+        "product_name": "Public-key empowering matrix",
+        "product_type": "仿制药",
+        "clinical_phase": "I期",
+        "annual_sales_million": 23.27,
+        "approved_in_regions": [
+          "中国",
+          "美国"
+        ]
+      },
+      {
+        "product_name": "Operative system-worthy projection",
+        "product_type": "中药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 8.52,
+        "approved_in_regions": [
+          "中国",
+          "日本",
+          "美国"
+        ]
+      },
+      {
+        "product_name": "Up-sized user-facing alliance",
+        "product_type": "仿制药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 4.15,
+        "approved_in_regions": [
+          "美国",
+          "中国"
+        ]
+      }
+    ],
+    "latest_research_focus": "神经疾病",
+    "is_listed": true
+  },
+  {
+    "company_id": 25,
+    "company_name": "Smith, Rodriguez and Meyer",
+    "industry_segment": "医疗器械",
+    "products": [
+      {
+        "product_name": "Ameliorated stable alliance",
+        "product_type": "创新药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 4.04,
+        "approved_in_regions": [
+          "欧盟",
+          "美国"
+        ]
+      },
+      {
+        "product_name": "Proactive analyzing concept",
+        "product_type": "医疗器械",
+        "clinical_phase": "I期",
+        "annual_sales_million": 1.85,
+        "approved_in_regions": [
+          "欧盟"
+        ]
+      },
+      {
+        "product_name": "Public-key discrete open system",
+        "product_type": "医疗器械",
+        "clinical_phase": "II期",
+        "annual_sales_million": 4.32,
+        "approved_in_regions": [
+          "美国",
+          "中国",
+          "日本"
+        ]
+      },
+      {
+        "product_name": "Progressive radical synergy",
+        "product_type": "中药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 5.67,
+        "approved_in_regions": [
+          "其他亚洲",
+          "日本",
+          "欧盟"
+        ]
+      },
+      {
+        "product_name": "Adaptive empowering standardization",
+        "product_type": "仿制药",
+        "clinical_phase": "III期",
+        "annual_sales_million": 2.56,
+        "approved_in_regions": [
+          "日本"
+        ]
+      },
+      {
+        "product_name": "Persistent 3rdgeneration help-desk",
+        "product_type": "创新药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 7.06,
+        "approved_in_regions": [
+          "欧盟",
+          "其他亚洲"
+        ]
+      },
+      {
+        "product_name": "Inverse stable throughput",
+        "product_type": "创新药",
+        "clinical_phase": "III期",
+        "annual_sales_million": 11.86,
+        "approved_in_regions": [
+          "中国",
+          "欧盟",
+          "美国"
+        ]
+      },
+      {
+        "product_name": "User-centric tertiary capability",
+        "product_type": "中药",
+        "clinical_phase": "I期",
+        "annual_sales_million": 5.97,
+        "approved_in_regions": [
+          "欧盟"
+        ]
+      }
+    ],
+    "latest_research_focus": "糖尿病",
+    "is_listed": true
+  },
+  {
+    "company_id": 26,
+    "company_name": "Dickerson-Perkins",
+    "industry_segment": "仿制药",
+    "products": [
+      {
+        "product_name": "Re-contextualized zero tolerance data-warehouse",
+        "product_type": "创新药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 14.34,
+        "approved_in_regions": [
+          "其他亚洲",
+          "中国"
+        ]
+      },
+      {
+        "product_name": "Focused national hardware",
+        "product_type": "中药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 3.3,
+        "approved_in_regions": [
+          "其他亚洲",
+          "日本"
+        ]
+      },
+      {
+        "product_name": "Virtual bottom-line solution",
+        "product_type": "医疗器械",
+        "clinical_phase": "I期",
+        "annual_sales_million": 20.15,
+        "approved_in_regions": [
+          "中国",
+          "欧盟"
+        ]
+      }
+    ],
+    "latest_research_focus": "癌症",
+    "is_listed": true
+  },
+  {
+    "company_id": 27,
+    "company_name": "Leach-Smith",
+    "industry_segment": "创新药",
+    "products": [
+      {
+        "product_name": "Reverse-engineered content-based application",
+        "product_type": "医疗器械",
+        "clinical_phase": "I期",
+        "annual_sales_million": 8.35,
+        "approved_in_regions": [
+          "日本"
+        ]
+      },
+      {
+        "product_name": "Team-oriented next generation support",
+        "product_type": "中药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 34.65,
+        "approved_in_regions": [
+          "欧盟",
+          "其他亚洲"
+        ]
+      },
+      {
+        "product_name": "Polarized leadingedge methodology",
+        "product_type": "中药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 82.62,
+        "approved_in_regions": [
+          "其他亚洲",
+          "中国"
+        ]
+      },
+      {
+        "product_name": "Innovative zero-defect model",
+        "product_type": "仿制药",
+        "clinical_phase": "I期",
+        "annual_sales_million": 4.62,
+        "approved_in_regions": [
+          "中国",
+          "日本"
+        ]
+      },
+      {
+        "product_name": "Re-contextualized stable secured line",
+        "product_type": "仿制药",
+        "clinical_phase": "III期",
+        "annual_sales_million": 4.81,
+        "approved_in_regions": [
+          "其他亚洲",
+          "美国",
+          "日本"
+        ]
+      },
+      {
+        "product_name": "Total transitional circuit",
+        "product_type": "创新药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 5.78,
+        "approved_in_regions": [
+          "欧盟",
+          "日本"
+        ]
+      },
+      {
+        "product_name": "Ergonomic optimizing firmware",
+        "product_type": "医疗器械",
+        "clinical_phase": "I期",
+        "annual_sales_million": 13.41,
+        "approved_in_regions": [
+          "其他亚洲",
+          "日本"
+        ]
+      }
+    ],
+    "latest_research_focus": "糖尿病",
+    "is_listed": false
+  },
+  {
+    "company_id": 28,
+    "company_name": "Bishop, Owen and Hernandez",
+    "industry_segment": "医疗器械",
+    "products": [
+      {
+        "product_name": "Virtual asymmetric help-desk",
+        "product_type": "创新药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 27.83,
+        "approved_in_regions": [
+          "欧盟",
+          "中国",
+          "美国"
+        ]
+      },
+      {
+        "product_name": "Decentralized system-worthy service-desk",
+        "product_type": "仿制药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 3.85,
+        "approved_in_regions": [
+          "欧盟"
+        ]
+      },
+      {
+        "product_name": "Future-proofed fresh-thinking open architecture",
+        "product_type": "中药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 10.82,
+        "approved_in_regions": [
+          "美国"
+        ]
+      },
+      {
+        "product_name": "Intuitive next generation functionalities",
+        "product_type": "医疗器械",
+        "clinical_phase": "I期",
+        "annual_sales_million": 6.45,
+        "approved_in_regions": [
+          "中国",
+          "其他亚洲"
+        ]
+      }
+    ],
+    "latest_research_focus": "糖尿病",
+    "is_listed": false
+  },
+  {
+    "company_id": 29,
+    "company_name": "Hernandez-Townsend",
+    "industry_segment": "医疗器械",
+    "products": [
+      {
+        "product_name": "Extended client-server throughput",
+        "product_type": "医疗器械",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 13.71,
+        "approved_in_regions": [
+          "美国"
+        ]
+      },
+      {
+        "product_name": "Monitored object-oriented extranet",
+        "product_type": "医疗器械",
+        "clinical_phase": "II期",
+        "annual_sales_million": 33.43,
+        "approved_in_regions": [
+          "日本",
+          "中国",
+          "美国"
+        ]
+      },
+      {
+        "product_name": "Enhanced intermediate matrix",
+        "product_type": "仿制药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 5.81,
+        "approved_in_regions": [
+          "其他亚洲",
+          "欧盟"
+        ]
+      },
+      {
+        "product_name": "Object-based interactive data-warehouse",
+        "product_type": "中药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 1.39,
+        "approved_in_regions": [
+          "美国",
+          "欧盟",
+          "其他亚洲"
+        ]
+      },
+      {
+        "product_name": "Cross-platform 5thgeneration application",
+        "product_type": "医疗器械",
+        "clinical_phase": "III期",
+        "annual_sales_million": 15.55,
+        "approved_in_regions": [
+          "其他亚洲",
+          "日本",
+          "美国"
+        ]
+      },
+      {
+        "product_name": "Polarized didactic customer loyalty",
+        "product_type": "仿制药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 3.21,
+        "approved_in_regions": [
+          "其他亚洲",
+          "日本",
+          "中国"
+        ]
+      },
+      {
+        "product_name": "Digitized intangible encoding",
+        "product_type": "医疗器械",
+        "clinical_phase": "II期",
+        "annual_sales_million": 6.4,
+        "approved_in_regions": [
+          "中国",
+          "日本"
+        ]
+      }
+    ],
+    "latest_research_focus": "糖尿病",
+    "is_listed": true
+  },
+  {
+    "company_id": 30,
+    "company_name": "Hogan-Phillips",
+    "industry_segment": "创新药",
+    "products": [
+      {
+        "product_name": "Devolved disintermediate system engine",
+        "product_type": "创新药",
+        "clinical_phase": "I期",
+        "annual_sales_million": 16.23,
+        "approved_in_regions": [
+          "中国",
+          "美国"
+        ]
+      },
+      {
+        "product_name": "Enhanced 5thgeneration Graphical User Interface",
+        "product_type": "仿制药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 9.95,
+        "approved_in_regions": [
+          "美国",
+          "日本",
+          "中国"
+        ]
+      },
+      {
+        "product_name": "Triple-buffered local open system",
+        "product_type": "医疗器械",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 6.67,
+        "approved_in_regions": [
+          "中国",
+          "日本"
+        ]
+      },
+      {
+        "product_name": "Advanced optimizing artificial intelligence",
+        "product_type": "创新药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 4.15,
+        "approved_in_regions": [
+          "欧盟",
+          "美国",
+          "日本"
+        ]
+      },
+      {
+        "product_name": "Quality-focused stable implementation",
+        "product_type": "创新药",
+        "clinical_phase": "III期",
+        "annual_sales_million": 0.41,
+        "approved_in_regions": [
+          "中国"
+        ]
+      },
+      {
+        "product_name": "Digitized upward-trending archive",
+        "product_type": "仿制药",
+        "clinical_phase": "I期",
+        "annual_sales_million": 14.85,
+        "approved_in_regions": [
+          "欧盟",
+          "美国",
+          "中国"
+        ]
+      },
+      {
+        "product_name": "Multi-channeled full-range protocol",
+        "product_type": "创新药",
+        "clinical_phase": "III期",
+        "annual_sales_million": 5.74,
+        "approved_in_regions": [
+          "美国",
+          "日本"
+        ]
+      }
+    ],
+    "latest_research_focus": "感染病",
+    "is_listed": true
+  },
+  {
+    "company_id": 31,
+    "company_name": "Kennedy, Williams and Garcia",
+    "industry_segment": "医疗器械",
+    "products": [
+      {
+        "product_name": "Devolved analyzing structure",
+        "product_type": "创新药",
+        "clinical_phase": "I期",
+        "annual_sales_million": 33.56,
+        "approved_in_regions": [
+          "欧盟"
+        ]
+      },
+      {
+        "product_name": "Future-proofed asynchronous knowledgebase",
+        "product_type": "医疗器械",
+        "clinical_phase": "II期",
+        "annual_sales_million": 11.0,
+        "approved_in_regions": [
+          "其他亚洲",
+          "日本",
+          "中国"
+        ]
+      },
+      {
+        "product_name": "Horizontal value-added throughput",
+        "product_type": "仿制药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 4.3,
+        "approved_in_regions": [
+          "中国",
+          "其他亚洲"
+        ]
+      },
+      {
+        "product_name": "Seamless explicit open system",
+        "product_type": "医疗器械",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 21.47,
+        "approved_in_regions": [
+          "其他亚洲",
+          "日本",
+          "中国"
+        ]
+      },
+      {
+        "product_name": "De-engineered grid-enabled toolset",
+        "product_type": "创新药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 23.36,
+        "approved_in_regions": [
+          "其他亚洲",
+          "中国",
+          "欧盟"
+        ]
+      },
+      {
+        "product_name": "Open-architected analyzing concept",
+        "product_type": "医疗器械",
+        "clinical_phase": "II期",
+        "annual_sales_million": 5.94,
+        "approved_in_regions": [
+          "日本",
+          "中国"
+        ]
+      },
+      {
+        "product_name": "Managed intangible emulation",
+        "product_type": "仿制药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 24.38,
+        "approved_in_regions": [
+          "日本",
+          "美国",
+          "欧盟"
+        ]
+      }
+    ],
+    "latest_research_focus": "癌症",
+    "is_listed": true
+  },
+  {
+    "company_id": 32,
+    "company_name": "Williamson, Anderson and Sanchez",
+    "industry_segment": "创新药",
+    "products": [
+      {
+        "product_name": "Reactive homogeneous hardware",
+        "product_type": "仿制药",
+        "clinical_phase": "I期",
+        "annual_sales_million": 4.24,
+        "approved_in_regions": [
+          "其他亚洲",
+          "中国",
+          "美国"
+        ]
+      },
+      {
+        "product_name": "Integrated composite functionalities",
+        "product_type": "中药",
+        "clinical_phase": "I期",
+        "annual_sales_million": 8.67,
+        "approved_in_regions": [
+          "日本",
+          "欧盟",
+          "美国"
+        ]
+      },
+      {
+        "product_name": "Optimized exuding protocol",
+        "product_type": "创新药",
+        "clinical_phase": "III期",
+        "annual_sales_million": 13.08,
+        "approved_in_regions": [
+          "欧盟"
+        ]
+      },
+      {
+        "product_name": "Switchable exuding Local Area Network",
+        "product_type": "医疗器械",
+        "clinical_phase": "I期",
+        "annual_sales_million": 16.2,
+        "approved_in_regions": [
+          "欧盟",
+          "美国",
+          "中国"
+        ]
+      },
+      {
+        "product_name": "Exclusive neutral productivity",
+        "product_type": "仿制药",
+        "clinical_phase": "III期",
+        "annual_sales_million": 13.76,
+        "approved_in_regions": [
+          "美国",
+          "日本",
+          "欧盟"
+        ]
+      },
+      {
+        "product_name": "Sharable 6thgeneration access",
+        "product_type": "中药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 5.3,
+        "approved_in_regions": [
+          "中国"
+        ]
+      },
+      {
+        "product_name": "Visionary exuding secured line",
+        "product_type": "中药",
+        "clinical_phase": "I期",
+        "annual_sales_million": 22.06,
+        "approved_in_regions": [
+          "美国",
+          "中国"
+        ]
+      }
+    ],
+    "latest_research_focus": "心血管",
+    "is_listed": true
+  },
+  {
+    "company_id": 33,
+    "company_name": "Morgan, Shields and Nelson",
+    "industry_segment": "创新药",
+    "products": [
+      {
+        "product_name": "Cross-group dynamic success",
+        "product_type": "仿制药",
+        "clinical_phase": "III期",
+        "annual_sales_million": 6.52,
+        "approved_in_regions": [
+          "日本",
+          "其他亚洲",
+          "美国"
+        ]
+      },
+      {
+        "product_name": "Switchable 6thgeneration forecast",
+        "product_type": "创新药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 4.18,
+        "approved_in_regions": [
+          "欧盟",
+          "中国"
+        ]
+      },
+      {
+        "product_name": "Re-engineered holistic customer loyalty",
+        "product_type": "仿制药",
+        "clinical_phase": "III期",
+        "annual_sales_million": 4.24,
+        "approved_in_regions": [
+          "欧盟"
+        ]
+      }
+    ],
+    "latest_research_focus": "感染病",
+    "is_listed": true
+  },
+  {
+    "company_id": 34,
+    "company_name": "Gamble-Walker",
+    "industry_segment": "中药",
+    "products": [
+      {
+        "product_name": "Polarized zero tolerance contingency",
+        "product_type": "中药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 51.42,
+        "approved_in_regions": [
+          "美国",
+          "日本"
+        ]
+      },
+      {
+        "product_name": "Switchable multimedia implementation",
+        "product_type": "中药",
+        "clinical_phase": "III期",
+        "annual_sales_million": 3.52,
+        "approved_in_regions": [
+          "欧盟",
+          "中国",
+          "其他亚洲"
+        ]
+      },
+      {
+        "product_name": "Persevering 24/7 Internet solution",
+        "product_type": "中药",
+        "clinical_phase": "I期",
+        "annual_sales_million": 26.89,
+        "approved_in_regions": [
+          "其他亚洲",
+          "美国"
+        ]
+      },
+      {
+        "product_name": "Triple-buffered upward-trending open system",
+        "product_type": "仿制药",
+        "clinical_phase": "III期",
+        "annual_sales_million": 2.37,
+        "approved_in_regions": [
+          "中国"
+        ]
+      },
+      {
+        "product_name": "Customer-focused fault-tolerant array",
+        "product_type": "仿制药",
+        "clinical_phase": "III期",
+        "annual_sales_million": 12.04,
+        "approved_in_regions": [
+          "日本",
+          "其他亚洲"
+        ]
+      },
+      {
+        "product_name": "Exclusive system-worthy collaboration",
+        "product_type": "医疗器械",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 9.95,
+        "approved_in_regions": [
+          "日本",
+          "中国"
+        ]
+      }
+    ],
+    "latest_research_focus": "糖尿病",
+    "is_listed": true
+  },
+  {
+    "company_id": 35,
+    "company_name": "Morales, Adams and Hurst",
+    "industry_segment": "中药",
+    "products": [
+      {
+        "product_name": "Fully-configurable needs-based infrastructure",
+        "product_type": "中药",
+        "clinical_phase": "III期",
+        "annual_sales_million": 37.38,
+        "approved_in_regions": [
+          "中国",
+          "其他亚洲",
+          "欧盟"
+        ]
+      },
+      {
+        "product_name": "Advanced contextually-based standardization",
+        "product_type": "中药",
+        "clinical_phase": "III期",
+        "annual_sales_million": 3.84,
+        "approved_in_regions": [
+          "美国",
+          "中国",
+          "日本"
+        ]
+      },
+      {
+        "product_name": "Balanced actuating emulation",
+        "product_type": "中药",
+        "clinical_phase": "I期",
+        "annual_sales_million": 2.91,
+        "approved_in_regions": [
+          "中国"
+        ]
+      },
+      {
+        "product_name": "Secured intermediate matrix",
+        "product_type": "医疗器械",
+        "clinical_phase": "III期",
+        "annual_sales_million": 6.58,
+        "approved_in_regions": [
+          "日本",
+          "中国"
+        ]
+      },
+      {
+        "product_name": "Vision-oriented intermediate artificial intelligence",
+        "product_type": "医疗器械",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 39.05,
+        "approved_in_regions": [
+          "欧盟",
+          "日本"
+        ]
+      },
+      {
+        "product_name": "Synergized analyzing interface",
+        "product_type": "创新药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 3.05,
+        "approved_in_regions": [
+          "欧盟",
+          "日本",
+          "美国"
+        ]
+      },
+      {
+        "product_name": "Up-sized zero-defect utilization",
+        "product_type": "仿制药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 0.56,
+        "approved_in_regions": [
+          "中国"
+        ]
+      }
+    ],
+    "latest_research_focus": "心血管",
+    "is_listed": false
+  },
+  {
+    "company_id": 36,
+    "company_name": "Coleman PLC",
+    "industry_segment": "仿制药",
+    "products": [
+      {
+        "product_name": "Cross-platform dynamic encoding",
+        "product_type": "中药",
+        "clinical_phase": "I期",
+        "annual_sales_million": 7.84,
+        "approved_in_regions": [
+          "欧盟",
+          "日本"
+        ]
+      },
+      {
+        "product_name": "Multi-tiered mission-critical parallelism",
+        "product_type": "医疗器械",
+        "clinical_phase": "III期",
+        "annual_sales_million": 19.1,
+        "approved_in_regions": [
+          "日本",
+          "美国",
+          "中国"
+        ]
+      },
+      {
+        "product_name": "Vision-oriented 3rdgeneration array",
+        "product_type": "医疗器械",
+        "clinical_phase": "I期",
+        "annual_sales_million": 2.68,
+        "approved_in_regions": [
+          "美国",
+          "日本"
+        ]
+      },
+      {
+        "product_name": "Decentralized static framework",
+        "product_type": "创新药",
+        "clinical_phase": "III期",
+        "annual_sales_million": 17.25,
+        "approved_in_regions": [
+          "欧盟",
+          "中国",
+          "其他亚洲"
+        ]
+      },
+      {
+        "product_name": "Intuitive mission-critical policy",
+        "product_type": "仿制药",
+        "clinical_phase": "III期",
+        "annual_sales_million": 2.62,
+        "approved_in_regions": [
+          "美国"
+        ]
+      },
+      {
+        "product_name": "Reactive directional archive",
+        "product_type": "仿制药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 6.38,
+        "approved_in_regions": [
+          "美国"
+        ]
+      }
+    ],
+    "latest_research_focus": "心血管",
+    "is_listed": true
+  },
+  {
+    "company_id": 37,
+    "company_name": "Gates PLC",
+    "industry_segment": "创新药",
+    "products": [
+      {
+        "product_name": "Proactive leadingedge synergy",
+        "product_type": "中药",
+        "clinical_phase": "I期",
+        "annual_sales_million": 15.68,
+        "approved_in_regions": [
+          "其他亚洲",
+          "欧盟"
+        ]
+      },
+      {
+        "product_name": "Team-oriented web-enabled productivity",
+        "product_type": "中药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 2.25,
+        "approved_in_regions": [
+          "中国",
+          "其他亚洲",
+          "美国"
+        ]
+      },
+      {
+        "product_name": "Operative bi-directional core",
+        "product_type": "中药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 8.86,
+        "approved_in_regions": [
+          "日本",
+          "其他亚洲",
+          "欧盟"
+        ]
+      },
+      {
+        "product_name": "Ergonomic optimizing core",
+        "product_type": "创新药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 24.9,
+        "approved_in_regions": [
+          "中国",
+          "日本"
+        ]
+      }
+    ],
+    "latest_research_focus": "感染病",
+    "is_listed": true
+  },
+  {
+    "company_id": 38,
+    "company_name": "Mcgrath Ltd",
+    "industry_segment": "创新药",
+    "products": [
+      {
+        "product_name": "Object-based holistic protocol",
+        "product_type": "仿制药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 11.87,
+        "approved_in_regions": [
+          "其他亚洲",
+          "美国",
+          "中国"
+        ]
+      },
+      {
+        "product_name": "Enterprise-wide multimedia database",
+        "product_type": "中药",
+        "clinical_phase": "I期",
+        "annual_sales_million": 3.59,
+        "approved_in_regions": [
+          "其他亚洲"
+        ]
+      },
+      {
+        "product_name": "Managed regional migration",
+        "product_type": "医疗器械",
+        "clinical_phase": "III期",
+        "annual_sales_million": 33.74,
+        "approved_in_regions": [
+          "美国"
+        ]
+      },
+      {
+        "product_name": "Progressive bottom-line intranet",
+        "product_type": "仿制药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 14.27,
+        "approved_in_regions": [
+          "其他亚洲",
+          "欧盟"
+        ]
+      },
+      {
+        "product_name": "Reverse-engineered hybrid encryption",
+        "product_type": "创新药",
+        "clinical_phase": "III期",
+        "annual_sales_million": 1.15,
+        "approved_in_regions": [
+          "其他亚洲"
+        ]
+      },
+      {
+        "product_name": "Implemented executive time-frame",
+        "product_type": "仿制药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 17.54,
+        "approved_in_regions": [
+          "欧盟",
+          "中国",
+          "其他亚洲"
+        ]
+      },
+      {
+        "product_name": "Universal optimal neural-net",
+        "product_type": "医疗器械",
+        "clinical_phase": "II期",
+        "annual_sales_million": 4.17,
+        "approved_in_regions": [
+          "其他亚洲"
+        ]
+      },
+      {
+        "product_name": "Virtual client-server process improvement",
+        "product_type": "仿制药",
+        "clinical_phase": "I期",
+        "annual_sales_million": 8.99,
+        "approved_in_regions": [
+          "中国"
+        ]
+      }
+    ],
+    "latest_research_focus": "癌症",
+    "is_listed": false
+  },
+  {
+    "company_id": 39,
+    "company_name": "Hernandez-Reed",
+    "industry_segment": "医疗器械",
+    "products": [
+      {
+        "product_name": "Self-enabling actuating synergy",
+        "product_type": "仿制药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 20.25,
+        "approved_in_regions": [
+          "日本",
+          "中国",
+          "美国"
+        ]
+      },
+      {
+        "product_name": "Ergonomic hybrid matrix",
+        "product_type": "仿制药",
+        "clinical_phase": "III期",
+        "annual_sales_million": 4.26,
+        "approved_in_regions": [
+          "美国",
+          "日本"
+        ]
+      },
+      {
+        "product_name": "Phased didactic protocol",
+        "product_type": "仿制药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 1.43,
+        "approved_in_regions": [
+          "中国"
+        ]
+      },
+      {
+        "product_name": "Horizontal foreground time-frame",
+        "product_type": "医疗器械",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 33.3,
+        "approved_in_regions": [
+          "日本",
+          "其他亚洲"
+        ]
+      },
+      {
+        "product_name": "Fundamental impactful attitude",
+        "product_type": "医疗器械",
+        "clinical_phase": "III期",
+        "annual_sales_million": 23.68,
+        "approved_in_regions": [
+          "美国",
+          "欧盟",
+          "日本"
+        ]
+      },
+      {
+        "product_name": "Ameliorated fresh-thinking adapter",
+        "product_type": "仿制药",
+        "clinical_phase": "III期",
+        "annual_sales_million": 6.77,
+        "approved_in_regions": [
+          "美国",
+          "欧盟"
+        ]
+      },
+      {
+        "product_name": "Networked composite algorithm",
+        "product_type": "创新药",
+        "clinical_phase": "III期",
+        "annual_sales_million": 17.35,
+        "approved_in_regions": [
+          "日本"
+        ]
+      },
+      {
+        "product_name": "Intuitive modular extranet",
+        "product_type": "创新药",
+        "clinical_phase": "III期",
+        "annual_sales_million": 5.11,
+        "approved_in_regions": [
+          "美国",
+          "其他亚洲"
+        ]
+      }
+    ],
+    "latest_research_focus": "癌症",
+    "is_listed": true
+  },
+  {
+    "company_id": 40,
+    "company_name": "Robinson-Adams",
+    "industry_segment": "医疗器械",
+    "products": [
+      {
+        "product_name": "Integrated object-oriented Graphical User Interface",
+        "product_type": "仿制药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 8.14,
+        "approved_in_regions": [
+          "日本",
+          "美国",
+          "中国"
+        ]
+      },
+      {
+        "product_name": "Sharable mobile focus group",
+        "product_type": "仿制药",
+        "clinical_phase": "III期",
+        "annual_sales_million": 6.4,
+        "approved_in_regions": [
+          "美国"
+        ]
+      },
+      {
+        "product_name": "Robust encompassing architecture",
+        "product_type": "中药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 5.32,
+        "approved_in_regions": [
+          "欧盟",
+          "日本"
+        ]
+      }
+    ],
+    "latest_research_focus": "癌症",
+    "is_listed": false
+  },
+  {
+    "company_id": 41,
+    "company_name": "Williams-Simon",
+    "industry_segment": "创新药",
+    "products": [
+      {
+        "product_name": "Phased exuding task-force",
+        "product_type": "中药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 10.58,
+        "approved_in_regions": [
+          "美国"
+        ]
+      },
+      {
+        "product_name": "Distributed static standardization",
+        "product_type": "仿制药",
+        "clinical_phase": "I期",
+        "annual_sales_million": 2.21,
+        "approved_in_regions": [
+          "欧盟"
+        ]
+      },
+      {
+        "product_name": "Multi-channeled discrete complexity",
+        "product_type": "中药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 5.75,
+        "approved_in_regions": [
+          "其他亚洲",
+          "中国"
+        ]
+      }
+    ],
+    "latest_research_focus": "癌症",
+    "is_listed": false
+  },
+  {
+    "company_id": 42,
+    "company_name": "Powell Group",
+    "industry_segment": "医疗器械",
+    "products": [
+      {
+        "product_name": "Exclusive zero administration definition",
+        "product_type": "医疗器械",
+        "clinical_phase": "III期",
+        "annual_sales_million": 10.12,
+        "approved_in_regions": [
+          "欧盟",
+          "日本",
+          "美国"
+        ]
+      },
+      {
+        "product_name": "Down-sized dedicated orchestration",
+        "product_type": "创新药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 46.44,
+        "approved_in_regions": [
+          "其他亚洲"
+        ]
+      },
+      {
+        "product_name": "Organized client-driven synergy",
+        "product_type": "医疗器械",
+        "clinical_phase": "III期",
+        "annual_sales_million": 2.3,
+        "approved_in_regions": [
+          "欧盟",
+          "中国",
+          "美国"
+        ]
+      },
+      {
+        "product_name": "Fully-configurable leadingedge Graphic Interface",
+        "product_type": "中药",
+        "clinical_phase": "III期",
+        "annual_sales_million": 12.44,
+        "approved_in_regions": [
+          "其他亚洲",
+          "中国",
+          "日本"
+        ]
+      },
+      {
+        "product_name": "Cross-platform asymmetric definition",
+        "product_type": "创新药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 13.88,
+        "approved_in_regions": [
+          "欧盟",
+          "其他亚洲"
+        ]
+      },
+      {
+        "product_name": "Devolved local analyzer",
+        "product_type": "医疗器械",
+        "clinical_phase": "II期",
+        "annual_sales_million": 1.13,
+        "approved_in_regions": [
+          "其他亚洲",
+          "日本",
+          "欧盟"
+        ]
+      }
+    ],
+    "latest_research_focus": "癌症",
+    "is_listed": true
+  },
+  {
+    "company_id": 43,
+    "company_name": "Hughes Ltd",
+    "industry_segment": "创新药",
+    "products": [
+      {
+        "product_name": "Triple-buffered disintermediate architecture",
+        "product_type": "创新药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 11.14,
+        "approved_in_regions": [
+          "欧盟",
+          "日本",
+          "其他亚洲"
+        ]
+      },
+      {
+        "product_name": "Cross-platform upward-trending archive",
+        "product_type": "中药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 17.82,
+        "approved_in_regions": [
+          "其他亚洲",
+          "美国",
+          "日本"
+        ]
+      },
+      {
+        "product_name": "Persevering composite process improvement",
+        "product_type": "仿制药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 13.31,
+        "approved_in_regions": [
+          "其他亚洲",
+          "欧盟"
+        ]
+      }
+    ],
+    "latest_research_focus": "神经疾病",
+    "is_listed": true
+  },
+  {
+    "company_id": 44,
+    "company_name": "Diaz-Fisher",
+    "industry_segment": "中药",
+    "products": [
+      {
+        "product_name": "Object-based 3rdgeneration frame",
+        "product_type": "中药",
+        "clinical_phase": "III期",
+        "annual_sales_million": 6.79,
+        "approved_in_regions": [
+          "中国",
+          "欧盟"
+        ]
+      },
+      {
+        "product_name": "Polarized methodical core",
+        "product_type": "仿制药",
+        "clinical_phase": "I期",
+        "annual_sales_million": 10.31,
+        "approved_in_regions": [
+          "其他亚洲",
+          "欧盟"
+        ]
+      },
+      {
+        "product_name": "Down-sized cohesive system engine",
+        "product_type": "创新药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 8.76,
+        "approved_in_regions": [
+          "其他亚洲",
+          "美国"
+        ]
+      },
+      {
+        "product_name": "Stand-alone 5thgeneration structure",
+        "product_type": "创新药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 1.36,
+        "approved_in_regions": [
+          "其他亚洲"
+        ]
+      },
+      {
+        "product_name": "Vision-oriented composite focus group",
+        "product_type": "中药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 8.96,
+        "approved_in_regions": [
+          "美国",
+          "中国",
+          "欧盟"
+        ]
+      }
+    ],
+    "latest_research_focus": "癌症",
+    "is_listed": true
+  },
+  {
+    "company_id": 45,
+    "company_name": "Lamb-Scott",
+    "industry_segment": "创新药",
+    "products": [
+      {
+        "product_name": "Multi-channeled upward-trending array",
+        "product_type": "创新药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 5.12,
+        "approved_in_regions": [
+          "日本",
+          "美国"
+        ]
+      },
+      {
+        "product_name": "Configurable uniform functionalities",
+        "product_type": "中药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 3.65,
+        "approved_in_regions": [
+          "其他亚洲",
+          "日本"
+        ]
+      },
+      {
+        "product_name": "Ameliorated transitional artificial intelligence",
+        "product_type": "创新药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 88.67,
+        "approved_in_regions": [
+          "美国",
+          "欧盟",
+          "日本"
+        ]
+      },
+      {
+        "product_name": "Cross-platform national methodology",
+        "product_type": "中药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 25.86,
+        "approved_in_regions": [
+          "美国",
+          "日本"
+        ]
+      }
+    ],
+    "latest_research_focus": "神经疾病",
+    "is_listed": true
+  },
+  {
+    "company_id": 46,
+    "company_name": "Huynh PLC",
+    "industry_segment": "医疗器械",
+    "products": [
+      {
+        "product_name": "Switchable incremental initiative",
+        "product_type": "仿制药",
+        "clinical_phase": "III期",
+        "annual_sales_million": 2.34,
+        "approved_in_regions": [
+          "日本",
+          "美国",
+          "中国"
+        ]
+      },
+      {
+        "product_name": "Total background customer loyalty",
+        "product_type": "仿制药",
+        "clinical_phase": "III期",
+        "annual_sales_million": 10.45,
+        "approved_in_regions": [
+          "欧盟"
+        ]
+      },
+      {
+        "product_name": "Persevering bi-directional standardization",
+        "product_type": "仿制药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 31.75,
+        "approved_in_regions": [
+          "日本",
+          "欧盟",
+          "美国"
+        ]
+      },
+      {
+        "product_name": "Upgradable tangible complexity",
+        "product_type": "仿制药",
+        "clinical_phase": "III期",
+        "annual_sales_million": 1.65,
+        "approved_in_regions": [
+          "中国",
+          "日本"
+        ]
+      },
+      {
+        "product_name": "Public-key logistical contingency",
+        "product_type": "中药",
+        "clinical_phase": "III期",
+        "annual_sales_million": 7.98,
+        "approved_in_regions": [
+          "欧盟"
+        ]
+      }
+    ],
+    "latest_research_focus": "癌症",
+    "is_listed": true
+  },
+  {
+    "company_id": 47,
+    "company_name": "Edwards, Pope and Carson",
+    "industry_segment": "创新药",
+    "products": [
+      {
+        "product_name": "Centralized asynchronous definition",
+        "product_type": "创新药",
+        "clinical_phase": "III期",
+        "annual_sales_million": 8.37,
+        "approved_in_regions": [
+          "欧盟",
+          "日本"
+        ]
+      },
+      {
+        "product_name": "User-friendly systematic workforce",
+        "product_type": "医疗器械",
+        "clinical_phase": "II期",
+        "annual_sales_million": 2.07,
+        "approved_in_regions": [
+          "欧盟",
+          "其他亚洲",
+          "中国"
+        ]
+      },
+      {
+        "product_name": "Adaptive exuding strategy",
+        "product_type": "创新药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 10.8,
+        "approved_in_regions": [
+          "中国"
+        ]
+      },
+      {
+        "product_name": "Mandatory eco-centric throughput",
+        "product_type": "医疗器械",
+        "clinical_phase": "II期",
+        "annual_sales_million": 22.56,
+        "approved_in_regions": [
+          "中国"
+        ]
+      },
+      {
+        "product_name": "Cross-platform analyzing synergy",
+        "product_type": "中药",
+        "clinical_phase": "III期",
+        "annual_sales_million": 33.38,
+        "approved_in_regions": [
+          "日本",
+          "中国",
+          "欧盟"
+        ]
+      }
+    ],
+    "latest_research_focus": "心血管",
+    "is_listed": true
+  },
+  {
+    "company_id": 48,
+    "company_name": "Williams, Rios and Sherman",
+    "industry_segment": "医疗器械",
+    "products": [
+      {
+        "product_name": "Innovative high-level solution",
+        "product_type": "医疗器械",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 5.76,
+        "approved_in_regions": [
+          "日本",
+          "其他亚洲",
+          "欧盟"
+        ]
+      },
+      {
+        "product_name": "Adaptive responsive synergy",
+        "product_type": "医疗器械",
+        "clinical_phase": "III期",
+        "annual_sales_million": 90.17,
+        "approved_in_regions": [
+          "欧盟",
+          "中国"
+        ]
+      },
+      {
+        "product_name": "Re-engineered static orchestration",
+        "product_type": "创新药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 0.94,
+        "approved_in_regions": [
+          "中国",
+          "美国",
+          "日本"
+        ]
+      }
+    ],
+    "latest_research_focus": "心血管",
+    "is_listed": true
+  },
+  {
+    "company_id": 49,
+    "company_name": "Jackson, Bray and Poole",
+    "industry_segment": "医疗器械",
+    "products": [
+      {
+        "product_name": "Cloned zero tolerance migration",
+        "product_type": "中药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 10.55,
+        "approved_in_regions": [
+          "欧盟"
+        ]
+      },
+      {
+        "product_name": "Robust radical toolset",
+        "product_type": "创新药",
+        "clinical_phase": "I期",
+        "annual_sales_million": 1.8,
+        "approved_in_regions": [
+          "其他亚洲",
+          "中国"
+        ]
+      },
+      {
+        "product_name": "Secured eco-centric capacity",
+        "product_type": "仿制药",
+        "clinical_phase": "III期",
+        "annual_sales_million": 8.09,
+        "approved_in_regions": [
+          "其他亚洲",
+          "日本"
+        ]
+      }
+    ],
+    "latest_research_focus": "心血管",
+    "is_listed": true
+  },
+  {
+    "company_id": 50,
+    "company_name": "Oneal LLC",
+    "industry_segment": "创新药",
+    "products": [
+      {
+        "product_name": "Up-sized multimedia adapter",
+        "product_type": "中药",
+        "clinical_phase": "III期",
+        "annual_sales_million": 4.38,
+        "approved_in_regions": [
+          "中国"
+        ]
+      },
+      {
+        "product_name": "Realigned fault-tolerant benchmark",
+        "product_type": "仿制药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 12.27,
+        "approved_in_regions": [
+          "日本",
+          "欧盟",
+          "其他亚洲"
+        ]
+      },
+      {
+        "product_name": "Customizable neutral alliance",
+        "product_type": "医疗器械",
+        "clinical_phase": "I期",
+        "annual_sales_million": 6.51,
+        "approved_in_regions": [
+          "欧盟",
+          "其他亚洲",
+          "日本"
+        ]
+      },
+      {
+        "product_name": "Decentralized high-level circuit",
+        "product_type": "医疗器械",
+        "clinical_phase": "II期",
+        "annual_sales_million": 3.23,
+        "approved_in_regions": [
+          "日本",
+          "其他亚洲",
+          "欧盟"
+        ]
+      },
+      {
+        "product_name": "Optimized empowering model",
+        "product_type": "仿制药",
+        "clinical_phase": "I期",
+        "annual_sales_million": 3.45,
+        "approved_in_regions": [
+          "中国",
+          "美国"
+        ]
+      },
+      {
+        "product_name": "Balanced full-range leverage",
+        "product_type": "医疗器械",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 51.03,
+        "approved_in_regions": [
+          "美国",
+          "中国"
+        ]
+      },
+      {
+        "product_name": "Profound client-driven throughput",
+        "product_type": "仿制药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 11.51,
+        "approved_in_regions": [
+          "日本"
+        ]
+      }
+    ],
+    "latest_research_focus": "糖尿病",
+    "is_listed": true
+  },
+  {
+    "company_id": 51,
+    "company_name": "Luna, Gonzales and Sanders",
+    "industry_segment": "中药",
+    "products": [
+      {
+        "product_name": "User-friendly radical time-frame",
+        "product_type": "仿制药",
+        "clinical_phase": "I期",
+        "annual_sales_million": 1.35,
+        "approved_in_regions": [
+          "欧盟",
+          "美国"
+        ]
+      },
+      {
+        "product_name": "Fully-configurable leadingedge circuit",
+        "product_type": "创新药",
+        "clinical_phase": "I期",
+        "annual_sales_million": 12.82,
+        "approved_in_regions": [
+          "欧盟",
+          "美国"
+        ]
+      },
+      {
+        "product_name": "Streamlined systematic portal",
+        "product_type": "中药",
+        "clinical_phase": "III期",
+        "annual_sales_million": 6.08,
+        "approved_in_regions": [
+          "中国",
+          "欧盟",
+          "美国"
+        ]
+      },
+      {
+        "product_name": "Innovative intermediate Graphical User Interface",
+        "product_type": "医疗器械",
+        "clinical_phase": "II期",
+        "annual_sales_million": 7.42,
+        "approved_in_regions": [
+          "日本"
+        ]
+      },
+      {
+        "product_name": "Optimized encompassing groupware",
+        "product_type": "医疗器械",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 16.77,
+        "approved_in_regions": [
+          "其他亚洲",
+          "欧盟",
+          "美国"
+        ]
+      }
+    ],
+    "latest_research_focus": "神经疾病",
+    "is_listed": false
+  },
+  {
+    "company_id": 52,
+    "company_name": "Madden, Ramirez and Newman",
+    "industry_segment": "仿制药",
+    "products": [
+      {
+        "product_name": "Triple-buffered mobile superstructure",
+        "product_type": "医疗器械",
+        "clinical_phase": "II期",
+        "annual_sales_million": 24.12,
+        "approved_in_regions": [
+          "其他亚洲",
+          "中国",
+          "欧盟"
+        ]
+      },
+      {
+        "product_name": "Reduced optimizing matrix",
+        "product_type": "中药",
+        "clinical_phase": "III期",
+        "annual_sales_million": 3.13,
+        "approved_in_regions": [
+          "其他亚洲"
+        ]
+      },
+      {
+        "product_name": "Synchronized human-resource task-force",
+        "product_type": "创新药",
+        "clinical_phase": "I期",
+        "annual_sales_million": 7.17,
+        "approved_in_regions": [
+          "其他亚洲",
+          "美国",
+          "欧盟"
+        ]
+      },
+      {
+        "product_name": "Multi-tiered fresh-thinking firmware",
+        "product_type": "医疗器械",
+        "clinical_phase": "II期",
+        "annual_sales_million": 4.28,
+        "approved_in_regions": [
+          "其他亚洲",
+          "日本"
+        ]
+      },
+      {
+        "product_name": "Decentralized heuristic flexibility",
+        "product_type": "创新药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 13.42,
+        "approved_in_regions": [
+          "其他亚洲",
+          "日本",
+          "中国"
+        ]
+      },
+      {
+        "product_name": "Phased dedicated neural-net",
+        "product_type": "中药",
+        "clinical_phase": "I期",
+        "annual_sales_million": 5.86,
+        "approved_in_regions": [
+          "美国",
+          "日本"
+        ]
+      }
+    ],
+    "latest_research_focus": "感染病",
+    "is_listed": true
+  },
+  {
+    "company_id": 53,
+    "company_name": "Morse, Lee and Smith",
+    "industry_segment": "中药",
+    "products": [
+      {
+        "product_name": "Re-contextualized encompassing success",
+        "product_type": "创新药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 7.61,
+        "approved_in_regions": [
+          "欧盟",
+          "中国",
+          "美国"
+        ]
+      },
+      {
+        "product_name": "Upgradable national paradigm",
+        "product_type": "仿制药",
+        "clinical_phase": "I期",
+        "annual_sales_million": 5.64,
+        "approved_in_regions": [
+          "美国",
+          "中国",
+          "日本"
+        ]
+      },
+      {
+        "product_name": "Object-based cohesive website",
+        "product_type": "中药",
+        "clinical_phase": "III期",
+        "annual_sales_million": 6.65,
+        "approved_in_regions": [
+          "中国",
+          "其他亚洲",
+          "日本"
+        ]
+      },
+      {
+        "product_name": "Focused bottom-line workforce",
+        "product_type": "中药",
+        "clinical_phase": "I期",
+        "annual_sales_million": 40.64,
+        "approved_in_regions": [
+          "日本",
+          "美国"
+        ]
+      },
+      {
+        "product_name": "Implemented incremental open system",
+        "product_type": "医疗器械",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 80.7,
+        "approved_in_regions": [
+          "日本",
+          "其他亚洲"
+        ]
+      },
+      {
+        "product_name": "Compatible real-time core",
+        "product_type": "中药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 10.77,
+        "approved_in_regions": [
+          "其他亚洲"
+        ]
+      },
+      {
+        "product_name": "Organic scalable collaboration",
+        "product_type": "医疗器械",
+        "clinical_phase": "III期",
+        "annual_sales_million": 6.69,
+        "approved_in_regions": [
+          "美国"
+        ]
+      }
+    ],
+    "latest_research_focus": "神经疾病",
+    "is_listed": true
+  },
+  {
+    "company_id": 54,
+    "company_name": "Andrews, Wright and Hester",
+    "industry_segment": "仿制药",
+    "products": [
+      {
+        "product_name": "Cross-group executive Graphical User Interface",
+        "product_type": "医疗器械",
+        "clinical_phase": "II期",
+        "annual_sales_million": 1.5,
+        "approved_in_regions": [
+          "中国"
+        ]
+      },
+      {
+        "product_name": "Reduced regional alliance",
+        "product_type": "仿制药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 3.45,
+        "approved_in_regions": [
+          "其他亚洲",
+          "日本",
+          "欧盟"
+        ]
+      },
+      {
+        "product_name": "Profound regional access",
+        "product_type": "中药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 6.51,
+        "approved_in_regions": [
+          "日本"
+        ]
+      },
+      {
+        "product_name": "Enhanced local toolset",
+        "product_type": "仿制药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 3.61,
+        "approved_in_regions": [
+          "美国",
+          "中国"
+        ]
+      },
+      {
+        "product_name": "Advanced systemic intranet",
+        "product_type": "创新药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 4.02,
+        "approved_in_regions": [
+          "中国",
+          "美国",
+          "其他亚洲"
+        ]
+      },
+      {
+        "product_name": "Diverse explicit paradigm",
+        "product_type": "创新药",
+        "clinical_phase": "I期",
+        "annual_sales_million": 35.71,
+        "approved_in_regions": [
+          "中国",
+          "日本",
+          "欧盟"
+        ]
+      }
+    ],
+    "latest_research_focus": "癌症",
+    "is_listed": true
+  },
+  {
+    "company_id": 55,
+    "company_name": "Lindsey Inc",
+    "industry_segment": "医疗器械",
+    "products": [
+      {
+        "product_name": "Quality-focused analyzing hub",
+        "product_type": "创新药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 7.6,
+        "approved_in_regions": [
+          "美国",
+          "其他亚洲"
+        ]
+      },
+      {
+        "product_name": "Extended local methodology",
+        "product_type": "创新药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 8.32,
+        "approved_in_regions": [
+          "欧盟",
+          "美国",
+          "其他亚洲"
+        ]
+      },
+      {
+        "product_name": "Exclusive full-range extranet",
+        "product_type": "仿制药",
+        "clinical_phase": "III期",
+        "annual_sales_million": 3.77,
+        "approved_in_regions": [
+          "欧盟"
+        ]
+      },
+      {
+        "product_name": "Monitored optimal model",
+        "product_type": "医疗器械",
+        "clinical_phase": "II期",
+        "annual_sales_million": 23.99,
+        "approved_in_regions": [
+          "欧盟",
+          "其他亚洲"
+        ]
+      }
+    ],
+    "latest_research_focus": "癌症",
+    "is_listed": false
+  },
+  {
+    "company_id": 56,
+    "company_name": "Farmer, Sellers and Farmer",
+    "industry_segment": "中药",
+    "products": [
+      {
+        "product_name": "Proactive 4thgeneration functionalities",
+        "product_type": "医疗器械",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 5.97,
+        "approved_in_regions": [
+          "日本",
+          "中国",
+          "美国"
+        ]
+      },
+      {
+        "product_name": "Operative encompassing superstructure",
+        "product_type": "中药",
+        "clinical_phase": "III期",
+        "annual_sales_million": 4.39,
+        "approved_in_regions": [
+          "日本",
+          "其他亚洲",
+          "中国"
+        ]
+      },
+      {
+        "product_name": "Ergonomic stable migration",
+        "product_type": "仿制药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 1.52,
+        "approved_in_regions": [
+          "其他亚洲"
+        ]
+      },
+      {
+        "product_name": "Right-sized incremental challenge",
+        "product_type": "中药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 6.95,
+        "approved_in_regions": [
+          "欧盟"
+        ]
+      },
+      {
+        "product_name": "Assimilated mission-critical adapter",
+        "product_type": "医疗器械",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 4.25,
+        "approved_in_regions": [
+          "其他亚洲"
+        ]
+      },
+      {
+        "product_name": "Centralized holistic architecture",
+        "product_type": "中药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 39.83,
+        "approved_in_regions": [
+          "其他亚洲",
+          "美国",
+          "日本"
+        ]
+      },
+      {
+        "product_name": "Robust radical array",
+        "product_type": "医疗器械",
+        "clinical_phase": "III期",
+        "annual_sales_million": 46.71,
+        "approved_in_regions": [
+          "欧盟"
+        ]
+      }
+    ],
+    "latest_research_focus": "癌症",
+    "is_listed": true
+  },
+  {
+    "company_id": 57,
+    "company_name": "Martinez and Sons",
+    "industry_segment": "创新药",
+    "products": [
+      {
+        "product_name": "Integrated systematic attitude",
+        "product_type": "仿制药",
+        "clinical_phase": "I期",
+        "annual_sales_million": 2.15,
+        "approved_in_regions": [
+          "美国",
+          "中国",
+          "其他亚洲"
+        ]
+      },
+      {
+        "product_name": "Integrated eco-centric productivity",
+        "product_type": "中药",
+        "clinical_phase": "I期",
+        "annual_sales_million": 2.41,
+        "approved_in_regions": [
+          "美国"
+        ]
+      },
+      {
+        "product_name": "Upgradable transitional function",
+        "product_type": "医疗器械",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 5.61,
+        "approved_in_regions": [
+          "欧盟"
+        ]
+      },
+      {
+        "product_name": "Cross-group upward-trending superstructure",
+        "product_type": "仿制药",
+        "clinical_phase": "I期",
+        "annual_sales_million": 3.27,
+        "approved_in_regions": [
+          "美国"
+        ]
+      },
+      {
+        "product_name": "Open-source systemic solution",
+        "product_type": "创新药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 9.18,
+        "approved_in_regions": [
+          "其他亚洲"
+        ]
+      },
+      {
+        "product_name": "Progressive systematic interface",
+        "product_type": "医疗器械",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 5.33,
+        "approved_in_regions": [
+          "其他亚洲"
+        ]
+      }
+    ],
+    "latest_research_focus": "糖尿病",
+    "is_listed": true
+  },
+  {
+    "company_id": 58,
+    "company_name": "Johnson PLC",
+    "industry_segment": "创新药",
+    "products": [
+      {
+        "product_name": "Stand-alone 24/7 capacity",
+        "product_type": "中药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 9.78,
+        "approved_in_regions": [
+          "欧盟",
+          "其他亚洲",
+          "美国"
+        ]
+      },
+      {
+        "product_name": "Advanced 4thgeneration moderator",
+        "product_type": "仿制药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 20.41,
+        "approved_in_regions": [
+          "中国",
+          "日本"
+        ]
+      },
+      {
+        "product_name": "Streamlined bifurcated hardware",
+        "product_type": "仿制药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 2.55,
+        "approved_in_regions": [
+          "欧盟",
+          "日本"
+        ]
+      },
+      {
+        "product_name": "Multi-lateral even-keeled Graphic Interface",
+        "product_type": "创新药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 19.99,
+        "approved_in_regions": [
+          "美国",
+          "中国",
+          "其他亚洲"
+        ]
+      },
+      {
+        "product_name": "Implemented tangible challenge",
+        "product_type": "中药",
+        "clinical_phase": "III期",
+        "annual_sales_million": 3.57,
+        "approved_in_regions": [
+          "美国"
+        ]
+      }
+    ],
+    "latest_research_focus": "糖尿病",
+    "is_listed": false
+  },
+  {
+    "company_id": 59,
+    "company_name": "Mcmahon, Walton and Frey",
+    "industry_segment": "创新药",
+    "products": [
+      {
+        "product_name": "Seamless grid-enabled installation",
+        "product_type": "中药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 63.34,
+        "approved_in_regions": [
+          "其他亚洲",
+          "欧盟"
+        ]
+      },
+      {
+        "product_name": "Open-architected uniform framework",
+        "product_type": "仿制药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 37.37,
+        "approved_in_regions": [
+          "日本",
+          "其他亚洲",
+          "中国"
+        ]
+      },
+      {
+        "product_name": "Switchable intangible product",
+        "product_type": "仿制药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 6.6,
+        "approved_in_regions": [
+          "其他亚洲"
+        ]
+      },
+      {
+        "product_name": "Persistent content-based methodology",
+        "product_type": "中药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 2.82,
+        "approved_in_regions": [
+          "中国",
+          "其他亚洲",
+          "日本"
+        ]
+      }
+    ],
+    "latest_research_focus": "癌症",
+    "is_listed": true
+  },
+  {
+    "company_id": 60,
+    "company_name": "Smith-Bryant",
+    "industry_segment": "创新药",
+    "products": [
+      {
+        "product_name": "Innovative executive toolset",
+        "product_type": "中药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 2.33,
+        "approved_in_regions": [
+          "美国",
+          "中国",
+          "欧盟"
+        ]
+      },
+      {
+        "product_name": "Universal background success",
+        "product_type": "医疗器械",
+        "clinical_phase": "I期",
+        "annual_sales_million": 17.7,
+        "approved_in_regions": [
+          "其他亚洲"
+        ]
+      },
+      {
+        "product_name": "Synchronized disintermediate implementation",
+        "product_type": "中药",
+        "clinical_phase": "III期",
+        "annual_sales_million": 7.17,
+        "approved_in_regions": [
+          "其他亚洲"
+        ]
+      }
+    ],
+    "latest_research_focus": "神经疾病",
+    "is_listed": false
+  },
+  {
+    "company_id": 61,
+    "company_name": "Nixon-Miller",
+    "industry_segment": "创新药",
+    "products": [
+      {
+        "product_name": "Polarized leadingedge encryption",
+        "product_type": "中药",
+        "clinical_phase": "I期",
+        "annual_sales_million": 18.67,
+        "approved_in_regions": [
+          "其他亚洲"
+        ]
+      },
+      {
+        "product_name": "Proactive static toolset",
+        "product_type": "中药",
+        "clinical_phase": "I期",
+        "annual_sales_million": 66.97,
+        "approved_in_regions": [
+          "其他亚洲"
+        ]
+      },
+      {
+        "product_name": "Multi-channeled disintermediate methodology",
+        "product_type": "仿制药",
+        "clinical_phase": "III期",
+        "annual_sales_million": 3.42,
+        "approved_in_regions": [
+          "其他亚洲"
+        ]
+      },
+      {
+        "product_name": "Enterprise-wide dedicated moderator",
+        "product_type": "中药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 2.16,
+        "approved_in_regions": [
+          "中国"
+        ]
+      },
+      {
+        "product_name": "Balanced regional service-desk",
+        "product_type": "医疗器械",
+        "clinical_phase": "II期",
+        "annual_sales_million": 8.96,
+        "approved_in_regions": [
+          "其他亚洲"
+        ]
+      },
+      {
+        "product_name": "Future-proofed optimizing analyzer",
+        "product_type": "仿制药",
+        "clinical_phase": "III期",
+        "annual_sales_million": 23.21,
+        "approved_in_regions": [
+          "日本",
+          "中国"
+        ]
+      }
+    ],
+    "latest_research_focus": "糖尿病",
+    "is_listed": true
+  },
+  {
+    "company_id": 62,
+    "company_name": "Wilson Group",
+    "industry_segment": "创新药",
+    "products": [
+      {
+        "product_name": "Future-proofed multimedia project",
+        "product_type": "中药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 2.89,
+        "approved_in_regions": [
+          "美国",
+          "欧盟",
+          "日本"
+        ]
+      },
+      {
+        "product_name": "Persevering incremental knowledgebase",
+        "product_type": "创新药",
+        "clinical_phase": "I期",
+        "annual_sales_million": 7.65,
+        "approved_in_regions": [
+          "日本"
+        ]
+      },
+      {
+        "product_name": "Object-based global core",
+        "product_type": "中药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 29.08,
+        "approved_in_regions": [
+          "日本",
+          "中国",
+          "欧盟"
+        ]
+      },
+      {
+        "product_name": "Stand-alone directional project",
+        "product_type": "创新药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 1.44,
+        "approved_in_regions": [
+          "日本"
+        ]
+      },
+      {
+        "product_name": "Universal fault-tolerant success",
+        "product_type": "中药",
+        "clinical_phase": "III期",
+        "annual_sales_million": 9.35,
+        "approved_in_regions": [
+          "中国",
+          "其他亚洲",
+          "日本"
+        ]
+      },
+      {
+        "product_name": "Re-engineered zero tolerance archive",
+        "product_type": "医疗器械",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 4.31,
+        "approved_in_regions": [
+          "中国",
+          "其他亚洲"
+        ]
+      }
+    ],
+    "latest_research_focus": "糖尿病",
+    "is_listed": true
+  },
+  {
+    "company_id": 63,
+    "company_name": "Fields-Torres",
+    "industry_segment": "仿制药",
+    "products": [
+      {
+        "product_name": "Synergistic radical solution",
+        "product_type": "创新药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 8.37,
+        "approved_in_regions": [
+          "中国",
+          "美国"
+        ]
+      },
+      {
+        "product_name": "Polarized full-range focus group",
+        "product_type": "医疗器械",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 15.03,
+        "approved_in_regions": [
+          "欧盟"
+        ]
+      },
+      {
+        "product_name": "Function-based multi-state conglomeration",
+        "product_type": "医疗器械",
+        "clinical_phase": "II期",
+        "annual_sales_million": 9.21,
+        "approved_in_regions": [
+          "日本",
+          "欧盟",
+          "美国"
+        ]
+      },
+      {
+        "product_name": "User-friendly leadingedge process improvement",
+        "product_type": "医疗器械",
+        "clinical_phase": "I期",
+        "annual_sales_million": 2.69,
+        "approved_in_regions": [
+          "欧盟",
+          "中国",
+          "日本"
+        ]
+      },
+      {
+        "product_name": "Fundamental needs-based standardization",
+        "product_type": "中药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 4.48,
+        "approved_in_regions": [
+          "欧盟"
+        ]
+      },
+      {
+        "product_name": "Enhanced global productivity",
+        "product_type": "中药",
+        "clinical_phase": "III期",
+        "annual_sales_million": 30.77,
+        "approved_in_regions": [
+          "欧盟"
+        ]
+      },
+      {
+        "product_name": "Versatile object-oriented secured line",
+        "product_type": "中药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 10.27,
+        "approved_in_regions": [
+          "欧盟"
+        ]
+      }
+    ],
+    "latest_research_focus": "神经疾病",
+    "is_listed": true
+  },
+  {
+    "company_id": 64,
+    "company_name": "Smith, Austin and Page",
+    "industry_segment": "创新药",
+    "products": [
+      {
+        "product_name": "Managed grid-enabled Internet solution",
+        "product_type": "中药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 17.12,
+        "approved_in_regions": [
+          "其他亚洲",
+          "日本",
+          "中国"
+        ]
+      },
+      {
+        "product_name": "Decentralized non-volatile open system",
+        "product_type": "仿制药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 9.49,
+        "approved_in_regions": [
+          "中国",
+          "其他亚洲",
+          "美国"
+        ]
+      },
+      {
+        "product_name": "Inverse solution-oriented capacity",
+        "product_type": "医疗器械",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 16.6,
+        "approved_in_regions": [
+          "美国",
+          "日本",
+          "其他亚洲"
+        ]
+      },
+      {
+        "product_name": "Reactive multimedia Graphical User Interface",
+        "product_type": "仿制药",
+        "clinical_phase": "I期",
+        "annual_sales_million": 4.97,
+        "approved_in_regions": [
+          "中国"
+        ]
+      },
+      {
+        "product_name": "Reduced homogeneous ability",
+        "product_type": "仿制药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 3.43,
+        "approved_in_regions": [
+          "欧盟",
+          "中国"
+        ]
+      },
+      {
+        "product_name": "Implemented systematic solution",
+        "product_type": "医疗器械",
+        "clinical_phase": "I期",
+        "annual_sales_million": 15.86,
+        "approved_in_regions": [
+          "日本"
+        ]
+      }
+    ],
+    "latest_research_focus": "感染病",
+    "is_listed": true
+  },
+  {
+    "company_id": 65,
+    "company_name": "Delgado, Sanchez and Smith",
+    "industry_segment": "创新药",
+    "products": [
+      {
+        "product_name": "Customer-focused full-range matrices",
+        "product_type": "中药",
+        "clinical_phase": "I期",
+        "annual_sales_million": 22.81,
+        "approved_in_regions": [
+          "中国"
+        ]
+      },
+      {
+        "product_name": "Adaptive 6thgeneration alliance",
+        "product_type": "仿制药",
+        "clinical_phase": "I期",
+        "annual_sales_million": 2.96,
+        "approved_in_regions": [
+          "其他亚洲",
+          "欧盟",
+          "美国"
+        ]
+      },
+      {
+        "product_name": "Advanced dedicated solution",
+        "product_type": "创新药",
+        "clinical_phase": "III期",
+        "annual_sales_million": 4.15,
+        "approved_in_regions": [
+          "日本",
+          "中国"
+        ]
+      },
+      {
+        "product_name": "Streamlined multi-tasking collaboration",
+        "product_type": "医疗器械",
+        "clinical_phase": "II期",
+        "annual_sales_million": 6.28,
+        "approved_in_regions": [
+          "日本",
+          "美国",
+          "中国"
+        ]
+      },
+      {
+        "product_name": "Right-sized actuating product",
+        "product_type": "仿制药",
+        "clinical_phase": "III期",
+        "annual_sales_million": 37.33,
+        "approved_in_regions": [
+          "日本",
+          "美国"
+        ]
+      },
+      {
+        "product_name": "Exclusive discrete circuit",
+        "product_type": "创新药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 12.98,
+        "approved_in_regions": [
+          "欧盟",
+          "日本"
+        ]
+      },
+      {
+        "product_name": "Innovative grid-enabled neural-net",
+        "product_type": "仿制药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 1.97,
+        "approved_in_regions": [
+          "欧盟"
+        ]
+      }
+    ],
+    "latest_research_focus": "糖尿病",
+    "is_listed": true
+  },
+  {
+    "company_id": 66,
+    "company_name": "Giles Inc",
+    "industry_segment": "医疗器械",
+    "products": [
+      {
+        "product_name": "Extended tangible workforce",
+        "product_type": "中药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 6.73,
+        "approved_in_regions": [
+          "中国",
+          "美国"
+        ]
+      },
+      {
+        "product_name": "Mandatory static software",
+        "product_type": "仿制药",
+        "clinical_phase": "I期",
+        "annual_sales_million": 5.78,
+        "approved_in_regions": [
+          "欧盟",
+          "日本"
+        ]
+      },
+      {
+        "product_name": "Managed reciprocal analyzer",
+        "product_type": "仿制药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 2.29,
+        "approved_in_regions": [
+          "日本",
+          "美国"
+        ]
+      },
+      {
+        "product_name": "Upgradable dedicated circuit",
+        "product_type": "仿制药",
+        "clinical_phase": "III期",
+        "annual_sales_million": 6.65,
+        "approved_in_regions": [
+          "美国",
+          "日本",
+          "其他亚洲"
+        ]
+      }
+    ],
+    "latest_research_focus": "心血管",
+    "is_listed": false
+  },
+  {
+    "company_id": 67,
+    "company_name": "Christian, Matthews and Mendoza",
+    "industry_segment": "创新药",
+    "products": [
+      {
+        "product_name": "Optimized responsive toolset",
+        "product_type": "仿制药",
+        "clinical_phase": "III期",
+        "annual_sales_million": 5.53,
+        "approved_in_regions": [
+          "日本",
+          "美国",
+          "其他亚洲"
+        ]
+      },
+      {
+        "product_name": "Assimilated tangible capacity",
+        "product_type": "中药",
+        "clinical_phase": "III期",
+        "annual_sales_million": 5.15,
+        "approved_in_regions": [
+          "欧盟",
+          "中国"
+        ]
+      },
+      {
+        "product_name": "Multi-layered impactful infrastructure",
+        "product_type": "医疗器械",
+        "clinical_phase": "II期",
+        "annual_sales_million": 4.92,
+        "approved_in_regions": [
+          "其他亚洲",
+          "中国",
+          "欧盟"
+        ]
+      },
+      {
+        "product_name": "Reverse-engineered executive function",
+        "product_type": "中药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 32.18,
+        "approved_in_regions": [
+          "欧盟",
+          "中国"
+        ]
+      },
+      {
+        "product_name": "Programmable 6thgeneration solution",
+        "product_type": "中药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 5.14,
+        "approved_in_regions": [
+          "欧盟"
+        ]
+      },
+      {
+        "product_name": "Down-sized system-worthy extranet",
+        "product_type": "医疗器械",
+        "clinical_phase": "III期",
+        "annual_sales_million": 7.77,
+        "approved_in_regions": [
+          "美国",
+          "日本",
+          "其他亚洲"
+        ]
+      }
+    ],
+    "latest_research_focus": "癌症",
+    "is_listed": true
+  },
+  {
+    "company_id": 68,
+    "company_name": "Wong-Martinez",
+    "industry_segment": "仿制药",
+    "products": [
+      {
+        "product_name": "Mandatory disintermediate focus group",
+        "product_type": "中药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 6.97,
+        "approved_in_regions": [
+          "其他亚洲",
+          "日本",
+          "欧盟"
+        ]
+      },
+      {
+        "product_name": "Organized reciprocal implementation",
+        "product_type": "创新药",
+        "clinical_phase": "III期",
+        "annual_sales_million": 4.46,
+        "approved_in_regions": [
+          "其他亚洲",
+          "中国",
+          "日本"
+        ]
+      },
+      {
+        "product_name": "Networked secondary utilization",
+        "product_type": "医疗器械",
+        "clinical_phase": "III期",
+        "annual_sales_million": 8.0,
+        "approved_in_regions": [
+          "其他亚洲"
+        ]
+      },
+      {
+        "product_name": "Multi-lateral 6thgeneration projection",
+        "product_type": "创新药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 7.89,
+        "approved_in_regions": [
+          "日本",
+          "中国"
+        ]
+      },
+      {
+        "product_name": "Right-sized intermediate product",
+        "product_type": "创新药",
+        "clinical_phase": "I期",
+        "annual_sales_million": 8.0,
+        "approved_in_regions": [
+          "美国",
+          "其他亚洲"
+        ]
+      },
+      {
+        "product_name": "Universal zero tolerance time-frame",
+        "product_type": "中药",
+        "clinical_phase": "III期",
+        "annual_sales_million": 3.13,
+        "approved_in_regions": [
+          "日本",
+          "美国"
+        ]
+      }
+    ],
+    "latest_research_focus": "糖尿病",
+    "is_listed": true
+  },
+  {
+    "company_id": 69,
+    "company_name": "Bauer Ltd",
+    "industry_segment": "创新药",
+    "products": [
+      {
+        "product_name": "Customer-focused client-driven throughput",
+        "product_type": "中药",
+        "clinical_phase": "I期",
+        "annual_sales_million": 6.01,
+        "approved_in_regions": [
+          "日本",
+          "中国"
+        ]
+      },
+      {
+        "product_name": "Digitized fault-tolerant encryption",
+        "product_type": "创新药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 15.8,
+        "approved_in_regions": [
+          "欧盟",
+          "其他亚洲"
+        ]
+      },
+      {
+        "product_name": "Vision-oriented optimizing hardware",
+        "product_type": "中药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 6.17,
+        "approved_in_regions": [
+          "日本",
+          "欧盟",
+          "美国"
+        ]
+      }
+    ],
+    "latest_research_focus": "癌症",
+    "is_listed": true
+  },
+  {
+    "company_id": 70,
+    "company_name": "King Ltd",
+    "industry_segment": "中药",
+    "products": [
+      {
+        "product_name": "Business-focused optimizing alliance",
+        "product_type": "中药",
+        "clinical_phase": "III期",
+        "annual_sales_million": 8.69,
+        "approved_in_regions": [
+          "欧盟"
+        ]
+      },
+      {
+        "product_name": "Compatible radical strategy",
+        "product_type": "创新药",
+        "clinical_phase": "I期",
+        "annual_sales_million": 8.73,
+        "approved_in_regions": [
+          "欧盟"
+        ]
+      },
+      {
+        "product_name": "Organic cohesive capacity",
+        "product_type": "创新药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 11.22,
+        "approved_in_regions": [
+          "美国",
+          "其他亚洲",
+          "欧盟"
+        ]
+      },
+      {
+        "product_name": "Advanced real-time knowledgebase",
+        "product_type": "医疗器械",
+        "clinical_phase": "III期",
+        "annual_sales_million": 12.92,
+        "approved_in_regions": [
+          "日本",
+          "其他亚洲",
+          "中国"
+        ]
+      },
+      {
+        "product_name": "Assimilated incremental Graphical User Interface",
+        "product_type": "中药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 6.21,
+        "approved_in_regions": [
+          "日本"
+        ]
+      },
+      {
+        "product_name": "Visionary empowering capability",
+        "product_type": "中药",
+        "clinical_phase": "I期",
+        "annual_sales_million": 2.97,
+        "approved_in_regions": [
+          "其他亚洲",
+          "美国",
+          "日本"
+        ]
+      }
+    ],
+    "latest_research_focus": "神经疾病",
+    "is_listed": true
+  },
+  {
+    "company_id": 71,
+    "company_name": "Jimenez and Sons",
+    "industry_segment": "仿制药",
+    "products": [
+      {
+        "product_name": "Optional mission-critical functionalities",
+        "product_type": "中药",
+        "clinical_phase": "I期",
+        "annual_sales_million": 2.18,
+        "approved_in_regions": [
+          "美国",
+          "其他亚洲",
+          "日本"
+        ]
+      },
+      {
+        "product_name": "Horizontal well-modulated data-warehouse",
+        "product_type": "创新药",
+        "clinical_phase": "I期",
+        "annual_sales_million": 20.44,
+        "approved_in_regions": [
+          "美国",
+          "欧盟",
+          "其他亚洲"
+        ]
+      },
+      {
+        "product_name": "Progressive regional installation",
+        "product_type": "医疗器械",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 15.96,
+        "approved_in_regions": [
+          "欧盟"
+        ]
+      },
+      {
+        "product_name": "Profound 24/7 Internet solution",
+        "product_type": "中药",
+        "clinical_phase": "III期",
+        "annual_sales_million": 14.15,
+        "approved_in_regions": [
+          "日本",
+          "其他亚洲",
+          "欧盟"
+        ]
+      },
+      {
+        "product_name": "Vision-oriented contextually-based benchmark",
+        "product_type": "创新药",
+        "clinical_phase": "III期",
+        "annual_sales_million": 16.63,
+        "approved_in_regions": [
+          "日本",
+          "美国"
+        ]
+      },
+      {
+        "product_name": "Up-sized executive core",
+        "product_type": "仿制药",
+        "clinical_phase": "I期",
+        "annual_sales_million": 6.29,
+        "approved_in_regions": [
+          "美国",
+          "欧盟",
+          "中国"
+        ]
+      }
+    ],
+    "latest_research_focus": "心血管",
+    "is_listed": true
+  },
+  {
+    "company_id": 72,
+    "company_name": "Bailey PLC",
+    "industry_segment": "创新药",
+    "products": [
+      {
+        "product_name": "Horizontal value-added superstructure",
+        "product_type": "创新药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 3.96,
+        "approved_in_regions": [
+          "美国",
+          "日本"
+        ]
+      },
+      {
+        "product_name": "Configurable zero-defect focus group",
+        "product_type": "中药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 2.77,
+        "approved_in_regions": [
+          "日本",
+          "其他亚洲",
+          "中国"
+        ]
+      },
+      {
+        "product_name": "Centralized responsive hub",
+        "product_type": "中药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 2.49,
+        "approved_in_regions": [
+          "美国",
+          "日本",
+          "其他亚洲"
+        ]
+      },
+      {
+        "product_name": "Proactive 3rdgeneration contingency",
+        "product_type": "医疗器械",
+        "clinical_phase": "II期",
+        "annual_sales_million": 24.83,
+        "approved_in_regions": [
+          "日本",
+          "中国"
+        ]
+      },
+      {
+        "product_name": "Expanded secondary secured line",
+        "product_type": "仿制药",
+        "clinical_phase": "I期",
+        "annual_sales_million": 4.51,
+        "approved_in_regions": [
+          "美国",
+          "其他亚洲"
+        ]
+      }
+    ],
+    "latest_research_focus": "感染病",
+    "is_listed": true
+  },
+  {
+    "company_id": 73,
+    "company_name": "Mills and Sons",
+    "industry_segment": "创新药",
+    "products": [
+      {
+        "product_name": "Enhanced radical benchmark",
+        "product_type": "中药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 21.22,
+        "approved_in_regions": [
+          "日本",
+          "其他亚洲",
+          "欧盟"
+        ]
+      },
+      {
+        "product_name": "Re-engineered actuating complexity",
+        "product_type": "中药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 6.13,
+        "approved_in_regions": [
+          "中国"
+        ]
+      },
+      {
+        "product_name": "Managed bottom-line frame",
+        "product_type": "创新药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 3.76,
+        "approved_in_regions": [
+          "中国",
+          "欧盟"
+        ]
+      },
+      {
+        "product_name": "Grass-roots 24hour projection",
+        "product_type": "医疗器械",
+        "clinical_phase": "III期",
+        "annual_sales_million": 2.47,
+        "approved_in_regions": [
+          "日本"
+        ]
+      },
+      {
+        "product_name": "Advanced analyzing success",
+        "product_type": "中药",
+        "clinical_phase": "I期",
+        "annual_sales_million": 4.1,
+        "approved_in_regions": [
+          "中国",
+          "欧盟",
+          "日本"
+        ]
+      },
+      {
+        "product_name": "Monitored well-modulated challenge",
+        "product_type": "仿制药",
+        "clinical_phase": "I期",
+        "annual_sales_million": 30.52,
+        "approved_in_regions": [
+          "日本",
+          "美国",
+          "其他亚洲"
+        ]
+      },
+      {
+        "product_name": "Multi-channeled intermediate standardization",
+        "product_type": "创新药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 2.5,
+        "approved_in_regions": [
+          "中国",
+          "日本"
+        ]
+      }
+    ],
+    "latest_research_focus": "糖尿病",
+    "is_listed": true
+  },
+  {
+    "company_id": 74,
+    "company_name": "Vargas Inc",
+    "industry_segment": "仿制药",
+    "products": [
+      {
+        "product_name": "Cloned high-level throughput",
+        "product_type": "创新药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 61.36,
+        "approved_in_regions": [
+          "美国"
+        ]
+      },
+      {
+        "product_name": "Decentralized 24hour moratorium",
+        "product_type": "医疗器械",
+        "clinical_phase": "III期",
+        "annual_sales_million": 3.19,
+        "approved_in_regions": [
+          "其他亚洲",
+          "日本",
+          "中国"
+        ]
+      },
+      {
+        "product_name": "Team-oriented bifurcated secured line",
+        "product_type": "医疗器械",
+        "clinical_phase": "II期",
+        "annual_sales_million": 15.64,
+        "approved_in_regions": [
+          "中国"
+        ]
+      },
+      {
+        "product_name": "Grass-roots intermediate throughput",
+        "product_type": "仿制药",
+        "clinical_phase": "III期",
+        "annual_sales_million": 6.39,
+        "approved_in_regions": [
+          "其他亚洲",
+          "美国",
+          "日本"
+        ]
+      },
+      {
+        "product_name": "Pre-emptive user-facing firmware",
+        "product_type": "仿制药",
+        "clinical_phase": "III期",
+        "annual_sales_million": 5.36,
+        "approved_in_regions": [
+          "欧盟",
+          "中国",
+          "日本"
+        ]
+      }
+    ],
+    "latest_research_focus": "感染病",
+    "is_listed": true
+  },
+  {
+    "company_id": 75,
+    "company_name": "Stevenson and Sons",
+    "industry_segment": "仿制药",
+    "products": [
+      {
+        "product_name": "Team-oriented holistic moratorium",
+        "product_type": "仿制药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 2.07,
+        "approved_in_regions": [
+          "美国",
+          "其他亚洲",
+          "中国"
+        ]
+      },
+      {
+        "product_name": "Decentralized incremental interface",
+        "product_type": "仿制药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 6.7,
+        "approved_in_regions": [
+          "日本",
+          "其他亚洲",
+          "中国"
+        ]
+      },
+      {
+        "product_name": "User-centric coherent algorithm",
+        "product_type": "仿制药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 2.32,
+        "approved_in_regions": [
+          "日本",
+          "中国"
+        ]
+      }
+    ],
+    "latest_research_focus": "癌症",
+    "is_listed": true
+  },
+  {
+    "company_id": 76,
+    "company_name": "Thornton and Sons",
+    "industry_segment": "仿制药",
+    "products": [
+      {
+        "product_name": "Intuitive encompassing info-mediaries",
+        "product_type": "仿制药",
+        "clinical_phase": "III期",
+        "annual_sales_million": 1.37,
+        "approved_in_regions": [
+          "日本",
+          "欧盟"
+        ]
+      },
+      {
+        "product_name": "Organized value-added hardware",
+        "product_type": "创新药",
+        "clinical_phase": "I期",
+        "annual_sales_million": 8.33,
+        "approved_in_regions": [
+          "日本",
+          "欧盟",
+          "中国"
+        ]
+      },
+      {
+        "product_name": "Persistent uniform parallelism",
+        "product_type": "中药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 3.91,
+        "approved_in_regions": [
+          "美国",
+          "日本"
+        ]
+      },
+      {
+        "product_name": "Configurable client-driven success",
+        "product_type": "仿制药",
+        "clinical_phase": "III期",
+        "annual_sales_million": 39.82,
+        "approved_in_regions": [
+          "欧盟",
+          "美国"
+        ]
+      },
+      {
+        "product_name": "Face-to-face 24/7 frame",
+        "product_type": "中药",
+        "clinical_phase": "III期",
+        "annual_sales_million": 20.09,
+        "approved_in_regions": [
+          "中国",
+          "其他亚洲",
+          "日本"
+        ]
+      },
+      {
+        "product_name": "Triple-buffered bottom-line model",
+        "product_type": "中药",
+        "clinical_phase": "I期",
+        "annual_sales_million": 40.34,
+        "approved_in_regions": [
+          "美国"
+        ]
+      }
+    ],
+    "latest_research_focus": "感染病",
+    "is_listed": true
+  },
+  {
+    "company_id": 77,
+    "company_name": "Erickson-Jones",
+    "industry_segment": "仿制药",
+    "products": [
+      {
+        "product_name": "Cross-platform solution-oriented portal",
+        "product_type": "创新药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 3.74,
+        "approved_in_regions": [
+          "美国"
+        ]
+      },
+      {
+        "product_name": "Innovative mission-critical capacity",
+        "product_type": "仿制药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 8.47,
+        "approved_in_regions": [
+          "中国",
+          "欧盟"
+        ]
+      },
+      {
+        "product_name": "Synergistic global productivity",
+        "product_type": "仿制药",
+        "clinical_phase": "I期",
+        "annual_sales_million": 0.54,
+        "approved_in_regions": [
+          "美国",
+          "中国"
+        ]
+      },
+      {
+        "product_name": "Re-engineered needs-based installation",
+        "product_type": "中药",
+        "clinical_phase": "III期",
+        "annual_sales_million": 5.57,
+        "approved_in_regions": [
+          "美国",
+          "日本",
+          "欧盟"
+        ]
+      },
+      {
+        "product_name": "Cloned client-server hardware",
+        "product_type": "创新药",
+        "clinical_phase": "I期",
+        "annual_sales_million": 8.15,
+        "approved_in_regions": [
+          "美国"
+        ]
+      },
+      {
+        "product_name": "Fully-configurable tangible task-force",
+        "product_type": "中药",
+        "clinical_phase": "I期",
+        "annual_sales_million": 8.62,
+        "approved_in_regions": [
+          "其他亚洲"
+        ]
+      }
+    ],
+    "latest_research_focus": "心血管",
+    "is_listed": true
+  },
+  {
+    "company_id": 78,
+    "company_name": "Pennington-Brown",
+    "industry_segment": "创新药",
+    "products": [
+      {
+        "product_name": "Synchronized heuristic analyzer",
+        "product_type": "中药",
+        "clinical_phase": "I期",
+        "annual_sales_million": 7.08,
+        "approved_in_regions": [
+          "欧盟"
+        ]
+      },
+      {
+        "product_name": "Versatile didactic contingency",
+        "product_type": "创新药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 7.9,
+        "approved_in_regions": [
+          "美国",
+          "日本",
+          "中国"
+        ]
+      },
+      {
+        "product_name": "Compatible analyzing adapter",
+        "product_type": "医疗器械",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 0.49,
+        "approved_in_regions": [
+          "中国"
+        ]
+      },
+      {
+        "product_name": "Virtual bandwidth-monitored process improvement",
+        "product_type": "创新药",
+        "clinical_phase": "III期",
+        "annual_sales_million": 9.55,
+        "approved_in_regions": [
+          "欧盟",
+          "美国"
+        ]
+      },
+      {
+        "product_name": "Ergonomic coherent infrastructure",
+        "product_type": "中药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 11.98,
+        "approved_in_regions": [
+          "美国",
+          "中国",
+          "欧盟"
+        ]
+      },
+      {
+        "product_name": "Seamless bifurcated capability",
+        "product_type": "创新药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 28.16,
+        "approved_in_regions": [
+          "欧盟",
+          "美国"
+        ]
+      },
+      {
+        "product_name": "Multi-layered full-range migration",
+        "product_type": "医疗器械",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 10.68,
+        "approved_in_regions": [
+          "日本",
+          "美国",
+          "中国"
+        ]
+      }
+    ],
+    "latest_research_focus": "癌症",
+    "is_listed": true
+  },
+  {
+    "company_id": 79,
+    "company_name": "Vasquez and Sons",
+    "industry_segment": "创新药",
+    "products": [
+      {
+        "product_name": "Innovative content-based access",
+        "product_type": "创新药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 6.48,
+        "approved_in_regions": [
+          "日本",
+          "欧盟"
+        ]
+      },
+      {
+        "product_name": "Expanded incremental capability",
+        "product_type": "医疗器械",
+        "clinical_phase": "II期",
+        "annual_sales_million": 22.31,
+        "approved_in_regions": [
+          "中国",
+          "美国"
+        ]
+      },
+      {
+        "product_name": "Streamlined dedicated frame",
+        "product_type": "仿制药",
+        "clinical_phase": "I期",
+        "annual_sales_million": 0.7,
+        "approved_in_regions": [
+          "欧盟",
+          "美国",
+          "其他亚洲"
+        ]
+      },
+      {
+        "product_name": "Decentralized discrete challenge",
+        "product_type": "医疗器械",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 4.42,
+        "approved_in_regions": [
+          "中国",
+          "美国"
+        ]
+      }
+    ],
+    "latest_research_focus": "感染病",
+    "is_listed": false
+  },
+  {
+    "company_id": 80,
+    "company_name": "Stevens, Duran and King",
+    "industry_segment": "创新药",
+    "products": [
+      {
+        "product_name": "Reverse-engineered static concept",
+        "product_type": "创新药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 3.44,
+        "approved_in_regions": [
+          "其他亚洲",
+          "中国"
+        ]
+      },
+      {
+        "product_name": "Streamlined fresh-thinking data-warehouse",
+        "product_type": "创新药",
+        "clinical_phase": "III期",
+        "annual_sales_million": 7.14,
+        "approved_in_regions": [
+          "美国",
+          "日本"
+        ]
+      },
+      {
+        "product_name": "Re-engineered real-time Graphic Interface",
+        "product_type": "中药",
+        "clinical_phase": "III期",
+        "annual_sales_million": 0.82,
+        "approved_in_regions": [
+          "美国",
+          "日本",
+          "中国"
+        ]
+      },
+      {
+        "product_name": "Total value-added open system",
+        "product_type": "创新药",
+        "clinical_phase": "I期",
+        "annual_sales_million": 27.65,
+        "approved_in_regions": [
+          "欧盟"
+        ]
+      },
+      {
+        "product_name": "Object-based incremental monitoring",
+        "product_type": "医疗器械",
+        "clinical_phase": "I期",
+        "annual_sales_million": 5.76,
+        "approved_in_regions": [
+          "日本"
+        ]
+      },
+      {
+        "product_name": "Phased human-resource policy",
+        "product_type": "仿制药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 10.16,
+        "approved_in_regions": [
+          "日本",
+          "中国"
+        ]
+      }
+    ],
+    "latest_research_focus": "神经疾病",
+    "is_listed": true
+  },
+  {
+    "company_id": 81,
+    "company_name": "Hull, Harper and Cole",
+    "industry_segment": "仿制药",
+    "products": [
+      {
+        "product_name": "Sharable didactic interface",
+        "product_type": "医疗器械",
+        "clinical_phase": "III期",
+        "annual_sales_million": 9.24,
+        "approved_in_regions": [
+          "欧盟"
+        ]
+      },
+      {
+        "product_name": "Cloned composite core",
+        "product_type": "创新药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 26.11,
+        "approved_in_regions": [
+          "其他亚洲"
+        ]
+      },
+      {
+        "product_name": "Customer-focused neutral benchmark",
+        "product_type": "仿制药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 1.15,
+        "approved_in_regions": [
+          "中国",
+          "欧盟",
+          "日本"
+        ]
+      },
+      {
+        "product_name": "Down-sized user-facing contingency",
+        "product_type": "中药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 8.27,
+        "approved_in_regions": [
+          "美国"
+        ]
+      },
+      {
+        "product_name": "Ameliorated exuding installation",
+        "product_type": "创新药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 23.25,
+        "approved_in_regions": [
+          "日本"
+        ]
+      },
+      {
+        "product_name": "Stand-alone methodical migration",
+        "product_type": "创新药",
+        "clinical_phase": "III期",
+        "annual_sales_million": 6.7,
+        "approved_in_regions": [
+          "美国",
+          "中国",
+          "日本"
+        ]
+      },
+      {
+        "product_name": "Re-engineered eco-centric budgetary management",
+        "product_type": "医疗器械",
+        "clinical_phase": "I期",
+        "annual_sales_million": 2.85,
+        "approved_in_regions": [
+          "日本"
+        ]
+      }
+    ],
+    "latest_research_focus": "糖尿病",
+    "is_listed": true
+  },
+  {
+    "company_id": 82,
+    "company_name": "Estrada, Walsh and Underwood",
+    "industry_segment": "医疗器械",
+    "products": [
+      {
+        "product_name": "Ergonomic bottom-line system engine",
+        "product_type": "仿制药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 4.04,
+        "approved_in_regions": [
+          "美国",
+          "欧盟"
+        ]
+      },
+      {
+        "product_name": "User-friendly needs-based help-desk",
+        "product_type": "创新药",
+        "clinical_phase": "I期",
+        "annual_sales_million": 4.99,
+        "approved_in_regions": [
+          "日本",
+          "欧盟"
+        ]
+      },
+      {
+        "product_name": "Managed foreground success",
+        "product_type": "创新药",
+        "clinical_phase": "III期",
+        "annual_sales_million": 3.59,
+        "approved_in_regions": [
+          "其他亚洲",
+          "中国",
+          "美国"
+        ]
+      },
+      {
+        "product_name": "Configurable exuding interface",
+        "product_type": "中药",
+        "clinical_phase": "III期",
+        "annual_sales_million": 6.34,
+        "approved_in_regions": [
+          "日本"
+        ]
+      },
+      {
+        "product_name": "Reactive 4thgeneration orchestration",
+        "product_type": "医疗器械",
+        "clinical_phase": "III期",
+        "annual_sales_million": 33.39,
+        "approved_in_regions": [
+          "欧盟"
+        ]
+      },
+      {
+        "product_name": "Front-line maximized encoding",
+        "product_type": "创新药",
+        "clinical_phase": "I期",
+        "annual_sales_million": 4.07,
+        "approved_in_regions": [
+          "其他亚洲"
+        ]
+      },
+      {
+        "product_name": "Secured tertiary utilization",
+        "product_type": "创新药",
+        "clinical_phase": "I期",
+        "annual_sales_million": 4.54,
+        "approved_in_regions": [
+          "美国"
+        ]
+      }
+    ],
+    "latest_research_focus": "癌症",
+    "is_listed": true
+  },
+  {
+    "company_id": 83,
+    "company_name": "Taylor PLC",
+    "industry_segment": "创新药",
+    "products": [
+      {
+        "product_name": "Ergonomic heuristic monitoring",
+        "product_type": "仿制药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 11.7,
+        "approved_in_regions": [
+          "美国"
+        ]
+      },
+      {
+        "product_name": "Horizontal asynchronous standardization",
+        "product_type": "创新药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 6.2,
+        "approved_in_regions": [
+          "欧盟"
+        ]
+      },
+      {
+        "product_name": "Synchronized needs-based superstructure",
+        "product_type": "医疗器械",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 1.96,
+        "approved_in_regions": [
+          "欧盟",
+          "其他亚洲",
+          "中国"
+        ]
+      },
+      {
+        "product_name": "Reactive executive service-desk",
+        "product_type": "仿制药",
+        "clinical_phase": "I期",
+        "annual_sales_million": 6.95,
+        "approved_in_regions": [
+          "中国",
+          "美国",
+          "其他亚洲"
+        ]
+      },
+      {
+        "product_name": "Down-sized value-added data-warehouse",
+        "product_type": "创新药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 6.69,
+        "approved_in_regions": [
+          "日本"
+        ]
+      },
+      {
+        "product_name": "Networked impactful instruction set",
+        "product_type": "仿制药",
+        "clinical_phase": "III期",
+        "annual_sales_million": 19.6,
+        "approved_in_regions": [
+          "中国",
+          "日本"
+        ]
+      }
+    ],
+    "latest_research_focus": "癌症",
+    "is_listed": false
+  },
+  {
+    "company_id": 84,
+    "company_name": "Hayden Ltd",
+    "industry_segment": "创新药",
+    "products": [
+      {
+        "product_name": "Horizontal intangible project",
+        "product_type": "医疗器械",
+        "clinical_phase": "III期",
+        "annual_sales_million": 2.8,
+        "approved_in_regions": [
+          "欧盟",
+          "美国",
+          "日本"
+        ]
+      },
+      {
+        "product_name": "Networked multi-state database",
+        "product_type": "仿制药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 19.73,
+        "approved_in_regions": [
+          "其他亚洲"
+        ]
+      },
+      {
+        "product_name": "Persevering system-worthy Graphic Interface",
+        "product_type": "医疗器械",
+        "clinical_phase": "II期",
+        "annual_sales_million": 6.7,
+        "approved_in_regions": [
+          "日本"
+        ]
+      },
+      {
+        "product_name": "Right-sized bandwidth-monitored ability",
+        "product_type": "创新药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 2.44,
+        "approved_in_regions": [
+          "欧盟",
+          "中国",
+          "美国"
+        ]
+      },
+      {
+        "product_name": "Innovative tertiary system engine",
+        "product_type": "创新药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 2.0,
+        "approved_in_regions": [
+          "欧盟",
+          "中国",
+          "日本"
+        ]
+      }
+    ],
+    "latest_research_focus": "神经疾病",
+    "is_listed": false
+  },
+  {
+    "company_id": 85,
+    "company_name": "Gonzalez-Kane",
+    "industry_segment": "创新药",
+    "products": [
+      {
+        "product_name": "Compatible dedicated orchestration",
+        "product_type": "中药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 51.13,
+        "approved_in_regions": [
+          "美国"
+        ]
+      },
+      {
+        "product_name": "Managed empowering forecast",
+        "product_type": "仿制药",
+        "clinical_phase": "I期",
+        "annual_sales_million": 6.3,
+        "approved_in_regions": [
+          "美国"
+        ]
+      },
+      {
+        "product_name": "Multi-lateral attitude-oriented strategy",
+        "product_type": "中药",
+        "clinical_phase": "III期",
+        "annual_sales_million": 18.85,
+        "approved_in_regions": [
+          "中国",
+          "其他亚洲"
+        ]
+      },
+      {
+        "product_name": "Organic system-worthy array",
+        "product_type": "医疗器械",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 1.34,
+        "approved_in_regions": [
+          "其他亚洲"
+        ]
+      }
+    ],
+    "latest_research_focus": "神经疾病",
+    "is_listed": true
+  },
+  {
+    "company_id": 86,
+    "company_name": "Townsend, Murphy and Phelps",
+    "industry_segment": "创新药",
+    "products": [
+      {
+        "product_name": "Horizontal systemic access",
+        "product_type": "中药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 103.31,
+        "approved_in_regions": [
+          "欧盟"
+        ]
+      },
+      {
+        "product_name": "Re-contextualized non-volatile model",
+        "product_type": "仿制药",
+        "clinical_phase": "III期",
+        "annual_sales_million": 18.05,
+        "approved_in_regions": [
+          "欧盟",
+          "其他亚洲"
+        ]
+      },
+      {
+        "product_name": "Multi-tiered static throughput",
+        "product_type": "中药",
+        "clinical_phase": "III期",
+        "annual_sales_million": 5.72,
+        "approved_in_regions": [
+          "中国"
+        ]
+      }
+    ],
+    "latest_research_focus": "心血管",
+    "is_listed": true
+  },
+  {
+    "company_id": 87,
+    "company_name": "Robinson Inc",
+    "industry_segment": "仿制药",
+    "products": [
+      {
+        "product_name": "Intuitive demand-driven challenge",
+        "product_type": "创新药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 5.44,
+        "approved_in_regions": [
+          "美国"
+        ]
+      },
+      {
+        "product_name": "Universal stable initiative",
+        "product_type": "中药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 15.4,
+        "approved_in_regions": [
+          "日本",
+          "中国"
+        ]
+      },
+      {
+        "product_name": "Centralized intangible migration",
+        "product_type": "仿制药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 14.54,
+        "approved_in_regions": [
+          "欧盟",
+          "日本"
+        ]
+      },
+      {
+        "product_name": "Universal web-enabled functionalities",
+        "product_type": "仿制药",
+        "clinical_phase": "I期",
+        "annual_sales_million": 8.87,
+        "approved_in_regions": [
+          "美国"
+        ]
+      }
+    ],
+    "latest_research_focus": "糖尿病",
+    "is_listed": false
+  },
+  {
+    "company_id": 88,
+    "company_name": "Olsen, Brennan and Welch",
+    "industry_segment": "医疗器械",
+    "products": [
+      {
+        "product_name": "Sharable global definition",
+        "product_type": "创新药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 7.47,
+        "approved_in_regions": [
+          "美国",
+          "中国"
+        ]
+      },
+      {
+        "product_name": "Object-based 6thgeneration focus group",
+        "product_type": "医疗器械",
+        "clinical_phase": "III期",
+        "annual_sales_million": 12.95,
+        "approved_in_regions": [
+          "其他亚洲",
+          "中国"
+        ]
+      },
+      {
+        "product_name": "Public-key dedicated protocol",
+        "product_type": "仿制药",
+        "clinical_phase": "III期",
+        "annual_sales_million": 1.29,
+        "approved_in_regions": [
+          "中国"
+        ]
+      },
+      {
+        "product_name": "Polarized dynamic model",
+        "product_type": "中药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 5.1,
+        "approved_in_regions": [
+          "其他亚洲",
+          "美国",
+          "中国"
+        ]
+      },
+      {
+        "product_name": "Networked dynamic standardization",
+        "product_type": "中药",
+        "clinical_phase": "I期",
+        "annual_sales_million": 1.42,
+        "approved_in_regions": [
+          "中国"
+        ]
+      },
+      {
+        "product_name": "Multi-tiered high-level challenge",
+        "product_type": "创新药",
+        "clinical_phase": "I期",
+        "annual_sales_million": 13.53,
+        "approved_in_regions": [
+          "美国"
+        ]
+      },
+      {
+        "product_name": "Diverse asynchronous attitude",
+        "product_type": "医疗器械",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 3.76,
+        "approved_in_regions": [
+          "中国",
+          "欧盟"
+        ]
+      },
+      {
+        "product_name": "Programmable directional open system",
+        "product_type": "创新药",
+        "clinical_phase": "I期",
+        "annual_sales_million": 1.53,
+        "approved_in_regions": [
+          "美国"
+        ]
+      }
+    ],
+    "latest_research_focus": "感染病",
+    "is_listed": true
+  },
+  {
+    "company_id": 89,
+    "company_name": "Anderson-Silva",
+    "industry_segment": "仿制药",
+    "products": [
+      {
+        "product_name": "Upgradable even-keeled process improvement",
+        "product_type": "创新药",
+        "clinical_phase": "III期",
+        "annual_sales_million": 3.34,
+        "approved_in_regions": [
+          "中国"
+        ]
+      },
+      {
+        "product_name": "Grass-roots composite model",
+        "product_type": "中药",
+        "clinical_phase": "I期",
+        "annual_sales_million": 8.58,
+        "approved_in_regions": [
+          "其他亚洲"
+        ]
+      },
+      {
+        "product_name": "Secured needs-based analyzer",
+        "product_type": "中药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 6.02,
+        "approved_in_regions": [
+          "中国",
+          "日本"
+        ]
+      },
+      {
+        "product_name": "Balanced solution-oriented protocol",
+        "product_type": "中药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 2.29,
+        "approved_in_regions": [
+          "美国",
+          "其他亚洲"
+        ]
+      }
+    ],
+    "latest_research_focus": "糖尿病",
+    "is_listed": true
+  },
+  {
+    "company_id": 90,
+    "company_name": "Robertson, Burgess and Frost",
+    "industry_segment": "医疗器械",
+    "products": [
+      {
+        "product_name": "Robust bi-directional benchmark",
+        "product_type": "中药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 1.34,
+        "approved_in_regions": [
+          "其他亚洲"
+        ]
+      },
+      {
+        "product_name": "Function-based upward-trending service-desk",
+        "product_type": "医疗器械",
+        "clinical_phase": "III期",
+        "annual_sales_million": 7.96,
+        "approved_in_regions": [
+          "日本",
+          "其他亚洲"
+        ]
+      },
+      {
+        "product_name": "Realigned context-sensitive knowledge user",
+        "product_type": "创新药",
+        "clinical_phase": "I期",
+        "annual_sales_million": 4.13,
+        "approved_in_regions": [
+          "日本",
+          "美国"
+        ]
+      },
+      {
+        "product_name": "Down-sized neutral standardization",
+        "product_type": "中药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 5.71,
+        "approved_in_regions": [
+          "其他亚洲",
+          "美国",
+          "欧盟"
+        ]
+      },
+      {
+        "product_name": "Enterprise-wide real-time customer loyalty",
+        "product_type": "创新药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 6.3,
+        "approved_in_regions": [
+          "欧盟",
+          "日本",
+          "其他亚洲"
+        ]
+      }
+    ],
+    "latest_research_focus": "感染病",
+    "is_listed": true
+  },
+  {
+    "company_id": 91,
+    "company_name": "Russell, Walker and Morales",
+    "industry_segment": "创新药",
+    "products": [
+      {
+        "product_name": "Re-contextualized eco-centric customer loyalty",
+        "product_type": "仿制药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 11.36,
+        "approved_in_regions": [
+          "美国",
+          "中国"
+        ]
+      },
+      {
+        "product_name": "Reverse-engineered global architecture",
+        "product_type": "仿制药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 17.24,
+        "approved_in_regions": [
+          "欧盟"
+        ]
+      },
+      {
+        "product_name": "Fully-configurable directional implementation",
+        "product_type": "创新药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 8.55,
+        "approved_in_regions": [
+          "欧盟",
+          "美国",
+          "中国"
+        ]
+      },
+      {
+        "product_name": "Object-based 4thgeneration adapter",
+        "product_type": "创新药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 5.36,
+        "approved_in_regions": [
+          "美国",
+          "欧盟",
+          "日本"
+        ]
+      },
+      {
+        "product_name": "Operative user-facing conglomeration",
+        "product_type": "创新药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 7.57,
+        "approved_in_regions": [
+          "日本",
+          "欧盟",
+          "中国"
+        ]
+      }
+    ],
+    "latest_research_focus": "心血管",
+    "is_listed": true
+  },
+  {
+    "company_id": 92,
+    "company_name": "Knox-Schmidt",
+    "industry_segment": "仿制药",
+    "products": [
+      {
+        "product_name": "Programmable holistic application",
+        "product_type": "仿制药",
+        "clinical_phase": "III期",
+        "annual_sales_million": 5.26,
+        "approved_in_regions": [
+          "中国",
+          "欧盟",
+          "日本"
+        ]
+      },
+      {
+        "product_name": "Expanded user-facing knowledgebase",
+        "product_type": "医疗器械",
+        "clinical_phase": "II期",
+        "annual_sales_million": 1.43,
+        "approved_in_regions": [
+          "其他亚洲",
+          "欧盟"
+        ]
+      },
+      {
+        "product_name": "Down-sized mission-critical project",
+        "product_type": "医疗器械",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 22.02,
+        "approved_in_regions": [
+          "中国"
+        ]
+      },
+      {
+        "product_name": "Centralized dynamic secured line",
+        "product_type": "创新药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 18.24,
+        "approved_in_regions": [
+          "美国",
+          "中国",
+          "欧盟"
+        ]
+      }
+    ],
+    "latest_research_focus": "感染病",
+    "is_listed": false
+  },
+  {
+    "company_id": 93,
+    "company_name": "Thompson-King",
+    "industry_segment": "仿制药",
+    "products": [
+      {
+        "product_name": "Automated asynchronous function",
+        "product_type": "仿制药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 53.96,
+        "approved_in_regions": [
+          "欧盟"
+        ]
+      },
+      {
+        "product_name": "Advanced heuristic functionalities",
+        "product_type": "医疗器械",
+        "clinical_phase": "III期",
+        "annual_sales_million": 72.28,
+        "approved_in_regions": [
+          "中国"
+        ]
+      },
+      {
+        "product_name": "Intuitive empowering protocol",
+        "product_type": "医疗器械",
+        "clinical_phase": "II期",
+        "annual_sales_million": 2.28,
+        "approved_in_regions": [
+          "其他亚洲"
+        ]
+      }
+    ],
+    "latest_research_focus": "糖尿病",
+    "is_listed": false
+  },
+  {
+    "company_id": 94,
+    "company_name": "Johnson LLC",
+    "industry_segment": "医疗器械",
+    "products": [
+      {
+        "product_name": "Up-sized real-time attitude",
+        "product_type": "仿制药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 5.28,
+        "approved_in_regions": [
+          "中国",
+          "欧盟",
+          "美国"
+        ]
+      },
+      {
+        "product_name": "Face-to-face intermediate open system",
+        "product_type": "仿制药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 91.06,
+        "approved_in_regions": [
+          "日本"
+        ]
+      },
+      {
+        "product_name": "Devolved responsive analyzer",
+        "product_type": "中药",
+        "clinical_phase": "III期",
+        "annual_sales_million": 7.1,
+        "approved_in_regions": [
+          "其他亚洲"
+        ]
+      }
+    ],
+    "latest_research_focus": "神经疾病",
+    "is_listed": true
+  },
+  {
+    "company_id": 95,
+    "company_name": "Hood, Scott and Jackson",
+    "industry_segment": "仿制药",
+    "products": [
+      {
+        "product_name": "Sharable leadingedge throughput",
+        "product_type": "医疗器械",
+        "clinical_phase": "II期",
+        "annual_sales_million": 9.43,
+        "approved_in_regions": [
+          "欧盟",
+          "其他亚洲"
+        ]
+      },
+      {
+        "product_name": "Optimized content-based definition",
+        "product_type": "医疗器械",
+        "clinical_phase": "II期",
+        "annual_sales_million": 1.61,
+        "approved_in_regions": [
+          "中国",
+          "日本",
+          "欧盟"
+        ]
+      },
+      {
+        "product_name": "Inverse real-time synergy",
+        "product_type": "创新药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 8.59,
+        "approved_in_regions": [
+          "欧盟",
+          "美国",
+          "其他亚洲"
+        ]
+      },
+      {
+        "product_name": "Persevering uniform help-desk",
+        "product_type": "创新药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 51.01,
+        "approved_in_regions": [
+          "欧盟"
+        ]
+      },
+      {
+        "product_name": "Versatile asynchronous hub",
+        "product_type": "创新药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 26.75,
+        "approved_in_regions": [
+          "欧盟",
+          "美国"
+        ]
+      }
+    ],
+    "latest_research_focus": "癌症",
+    "is_listed": true
+  },
+  {
+    "company_id": 96,
+    "company_name": "Craig, Aguirre and Jones",
+    "industry_segment": "医疗器械",
+    "products": [
+      {
+        "product_name": "Distributed methodical array",
+        "product_type": "仿制药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 4.01,
+        "approved_in_regions": [
+          "欧盟"
+        ]
+      },
+      {
+        "product_name": "Enhanced motivating neural-net",
+        "product_type": "医疗器械",
+        "clinical_phase": "II期",
+        "annual_sales_million": 4.97,
+        "approved_in_regions": [
+          "中国",
+          "欧盟",
+          "美国"
+        ]
+      },
+      {
+        "product_name": "Up-sized 4thgeneration success",
+        "product_type": "创新药",
+        "clinical_phase": "I期",
+        "annual_sales_million": 2.38,
+        "approved_in_regions": [
+          "日本"
+        ]
+      },
+      {
+        "product_name": "Proactive mission-critical access",
+        "product_type": "中药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 3.15,
+        "approved_in_regions": [
+          "日本"
+        ]
+      },
+      {
+        "product_name": "Multi-channeled impactful throughput",
+        "product_type": "中药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 1.09,
+        "approved_in_regions": [
+          "其他亚洲",
+          "日本"
+        ]
+      },
+      {
+        "product_name": "Decentralized human-resource methodology",
+        "product_type": "创新药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 6.79,
+        "approved_in_regions": [
+          "美国",
+          "其他亚洲",
+          "日本"
+        ]
+      },
+      {
+        "product_name": "Robust 4thgeneration structure",
+        "product_type": "创新药",
+        "clinical_phase": "I期",
+        "annual_sales_million": 33.45,
+        "approved_in_regions": [
+          "中国",
+          "欧盟"
+        ]
+      },
+      {
+        "product_name": "Balanced systematic infrastructure",
+        "product_type": "仿制药",
+        "clinical_phase": "I期",
+        "annual_sales_million": 10.54,
+        "approved_in_regions": [
+          "欧盟"
+        ]
+      }
+    ],
+    "latest_research_focus": "心血管",
+    "is_listed": true
+  },
+  {
+    "company_id": 97,
+    "company_name": "Walker PLC",
+    "industry_segment": "医疗器械",
+    "products": [
+      {
+        "product_name": "Multi-tiered neutral analyzer",
+        "product_type": "医疗器械",
+        "clinical_phase": "I期",
+        "annual_sales_million": 28.97,
+        "approved_in_regions": [
+          "中国",
+          "欧盟",
+          "日本"
+        ]
+      },
+      {
+        "product_name": "Automated methodical migration",
+        "product_type": "中药",
+        "clinical_phase": "I期",
+        "annual_sales_million": 21.61,
+        "approved_in_regions": [
+          "美国",
+          "日本"
+        ]
+      },
+      {
+        "product_name": "Quality-focused empowering capacity",
+        "product_type": "医疗器械",
+        "clinical_phase": "I期",
+        "annual_sales_million": 4.28,
+        "approved_in_regions": [
+          "欧盟"
+        ]
+      },
+      {
+        "product_name": "Implemented transitional productivity",
+        "product_type": "医疗器械",
+        "clinical_phase": "II期",
+        "annual_sales_million": 3.46,
+        "approved_in_regions": [
+          "其他亚洲",
+          "欧盟"
+        ]
+      },
+      {
+        "product_name": "Profound 24/7 paradigm",
+        "product_type": "仿制药",
+        "clinical_phase": "III期",
+        "annual_sales_million": 3.59,
+        "approved_in_regions": [
+          "中国"
+        ]
+      },
+      {
+        "product_name": "Reverse-engineered mission-critical frame",
+        "product_type": "创新药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 1.33,
+        "approved_in_regions": [
+          "其他亚洲",
+          "日本",
+          "中国"
+        ]
+      }
+    ],
+    "latest_research_focus": "癌症",
+    "is_listed": false
+  },
+  {
+    "company_id": 98,
+    "company_name": "Walker, Mahoney and Mendez",
+    "industry_segment": "医疗器械",
+    "products": [
+      {
+        "product_name": "Adaptive even-keeled architecture",
+        "product_type": "创新药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 7.63,
+        "approved_in_regions": [
+          "欧盟"
+        ]
+      },
+      {
+        "product_name": "Integrated encompassing attitude",
+        "product_type": "中药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 0.4,
+        "approved_in_regions": [
+          "中国"
+        ]
+      },
+      {
+        "product_name": "Synchronized static frame",
+        "product_type": "医疗器械",
+        "clinical_phase": "II期",
+        "annual_sales_million": 13.35,
+        "approved_in_regions": [
+          "欧盟",
+          "中国",
+          "美国"
+        ]
+      },
+      {
+        "product_name": "Compatible analyzing process improvement",
+        "product_type": "创新药",
+        "clinical_phase": "III期",
+        "annual_sales_million": 7.94,
+        "approved_in_regions": [
+          "日本",
+          "其他亚洲"
+        ]
+      },
+      {
+        "product_name": "Assimilated asynchronous leverage",
+        "product_type": "仿制药",
+        "clinical_phase": "I期",
+        "annual_sales_million": 11.84,
+        "approved_in_regions": [
+          "其他亚洲",
+          "日本",
+          "中国"
+        ]
+      }
+    ],
+    "latest_research_focus": "糖尿病",
+    "is_listed": false
+  },
+  {
+    "company_id": 99,
+    "company_name": "Garcia, Lewis and Ellis",
+    "industry_segment": "创新药",
+    "products": [
+      {
+        "product_name": "Object-based human-resource capability",
+        "product_type": "仿制药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 21.26,
+        "approved_in_regions": [
+          "中国",
+          "欧盟"
+        ]
+      },
+      {
+        "product_name": "Persistent attitude-oriented extranet",
+        "product_type": "中药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 9.01,
+        "approved_in_regions": [
+          "美国",
+          "欧盟"
+        ]
+      },
+      {
+        "product_name": "Synergized empowering concept",
+        "product_type": "创新药",
+        "clinical_phase": "II期",
+        "annual_sales_million": 37.77,
+        "approved_in_regions": [
+          "中国",
+          "其他亚洲",
+          "欧盟"
+        ]
+      },
+      {
+        "product_name": "Streamlined tertiary budgetary management",
+        "product_type": "仿制药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 13.76,
+        "approved_in_regions": [
+          "美国",
+          "中国",
+          "其他亚洲"
+        ]
+      },
+      {
+        "product_name": "Re-engineered actuating access",
+        "product_type": "中药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 3.47,
+        "approved_in_regions": [
+          "美国",
+          "日本",
+          "其他亚洲"
+        ]
+      },
+      {
+        "product_name": "Versatile radical core",
+        "product_type": "创新药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 5.83,
+        "approved_in_regions": [
+          "中国",
+          "美国",
+          "其他亚洲"
+        ]
+      }
+    ],
+    "latest_research_focus": "感染病",
+    "is_listed": false
+  },
+  {
+    "company_id": 100,
+    "company_name": "Stone PLC",
+    "industry_segment": "创新药",
+    "products": [
+      {
+        "product_name": "Proactive tertiary extranet",
+        "product_type": "医疗器械",
+        "clinical_phase": "II期",
+        "annual_sales_million": 0.77,
+        "approved_in_regions": [
+          "美国"
+        ]
+      },
+      {
+        "product_name": "Customizable bi-directional moderator",
+        "product_type": "创新药",
+        "clinical_phase": "已上市",
+        "annual_sales_million": 3.0,
+        "approved_in_regions": [
+          "日本"
+        ]
+      },
+      {
+        "product_name": "Versatile client-driven strategy",
+        "product_type": "医疗器械",
+        "clinical_phase": "II期",
+        "annual_sales_million": 5.05,
+        "approved_in_regions": [
+          "欧盟",
+          "其他亚洲",
+          "日本"
+        ]
+      },
+      {
+        "product_name": "Configurable user-facing attitude",
+        "product_type": "创新药",
+        "clinical_phase": "I期",
+        "annual_sales_million": 12.76,
+        "approved_in_regions": [
+          "其他亚洲",
+          "日本"
+        ]
+      }
+    ],
+    "latest_research_focus": "神经疾病",
+    "is_listed": false
+  }
+]

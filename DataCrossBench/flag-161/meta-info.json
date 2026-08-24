@@ -1,0 +1,20 @@
+{
+    "goal": "比较一线和新一线城市学习机渗透率的差异及其对市场策略的影响。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 2025年一季度学习机销量127万台，同比增长29%，表明产品受欢迎程度上升。",
+        "Comparison: 2025年一季度线上渠道销量占比约65-70%，显示出线上销售的强劲增长。",
+        "Extreme: 线下机构压减比例达到95.6%，显示出行业的剧烈变化。",
+        "Attribution: 后“双减”时代，学习平板顺势承载了培训补习需求，对高质量、个性化内容需求加强。"
+    ],
+    "summary": "好未来在教育科技领域的战略方向明确，特别是在AI应用和智能硬件的推出上，展现出强大的市场潜力。",
+    "flag_id": "flag-161",
+    "classifier": "Internet Dev.",
+    "classifier_cn": "互联网发展",
+    "input_files": [
+        "output/background.txt",
+        "output/dimension_data.db",
+        "output/sales_data.csv",
+        "output/user_profiles.json"
+    ]
+}

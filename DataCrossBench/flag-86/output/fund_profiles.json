@@ -1,0 +1,1902 @@
+[
+  {
+    "fund_name": "华富成长趋势基金",
+    "year": 2015,
+    "manager": {
+      "name": "陈启明",
+      "gender": "男",
+      "experience_years": 0
+    },
+    "performance_metrics": {
+      "annual_return": 16.74,
+      "cumulative_return": 120.46,
+      "benchmark_return": 11.5,
+      "outperformance": 5.23
+    },
+    "tags": [
+      "第三方平台",
+      "沪深300"
+    ]
+  },
+  {
+    "fund_name": "华富成长趋势基金",
+    "year": 2016,
+    "manager": {
+      "name": "陈启明",
+      "gender": "男",
+      "experience_years": 0
+    },
+    "performance_metrics": {
+      "annual_return": 23.11,
+      "cumulative_return": 151.12,
+      "benchmark_return": 19.39,
+      "outperformance": 3.72
+    },
+    "tags": [
+      "券商代销",
+      "沪深300"
+    ]
+  },
+  {
+    "fund_name": "华富成长趋势基金",
+    "year": 2017,
+    "manager": {
+      "name": "陈启明",
+      "gender": "男",
+      "experience_years": 0
+    },
+    "performance_metrics": {
+      "annual_return": 10.81,
+      "cumulative_return": 79.99,
+      "benchmark_return": 7.31,
+      "outperformance": 3.5
+    },
+    "tags": [
+      "互联网直销",
+      "沪深300"
+    ]
+  },
+  {
+    "fund_name": "华富成长趋势基金",
+    "year": 2018,
+    "manager": {
+      "name": "陈启明",
+      "gender": "男",
+      "experience_years": 1
+    },
+    "performance_metrics": {
+      "annual_return": 13.65,
+      "cumulative_return": 75.79,
+      "benchmark_return": 10.47,
+      "outperformance": 3.18
+    },
+    "tags": [
+      "券商代销",
+      "沪深300"
+    ]
+  },
+  {
+    "fund_name": "华富成长趋势基金",
+    "year": 2019,
+    "manager": {
+      "name": "陈启明",
+      "gender": "男",
+      "experience_years": 2
+    },
+    "performance_metrics": {
+      "annual_return": null,
+      "cumulative_return": 120.32,
+      "benchmark_return": 19.29,
+      "outperformance": 35.66
+    },
+    "tags": [
+      "银行代销",
+      "沪深300"
+    ]
+  },
+  {
+    "fund_name": "华富成长趋势基金",
+    "year": 2020,
+    "manager": {
+      "name": "陈启明",
+      "gender": "男",
+      "experience_years": 3
+    },
+    "performance_metrics": {
+      "annual_return": 51.73,
+      "cumulative_return": 101.08,
+      "benchmark_return": 11.82,
+      "outperformance": 39.91
+    },
+    "tags": [
+      "直销",
+      "沪深300"
+    ]
+  },
+  {
+    "fund_name": "华富成长趋势基金",
+    "year": 2021,
+    "manager": {
+      "name": "陈启明",
+      "gender": "男",
+      "experience_years": 4
+    },
+    "performance_metrics": {
+      "annual_return": 22.4,
+      "cumulative_return": 150.99,
+      "benchmark_return": 19.4,
+      "outperformance": 3.0
+    },
+    "tags": [
+      "券商代销",
+      "沪深300"
+    ]
+  },
+  {
+    "fund_name": "益丰稳健基金",
+    "year": 2015,
+    "manager": {
+      "name": "陈启明",
+      "gender": "男",
+      "experience_years": 5
+    },
+    "performance_metrics": {
+      "annual_return": 5.15,
+      "cumulative_return": 61.92,
+      "benchmark_return": 0.2,
+      "outperformance": 4.94
+    },
+    "tags": [
+      "第三方平台",
+      "创业板指"
+    ]
+  },
+  {
+    "fund_name": "益丰稳健基金",
+    "year": 2016,
+    "manager": {
+      "name": "赵薇",
+      "gender": "男",
+      "experience_years": 2
+    },
+    "performance_metrics": {
+      "annual_return": 25.77,
+      "cumulative_return": 148.94,
+      "benchmark_return": 23.98,
+      "outperformance": 1.79
+    },
+    "tags": [
+      "直销",
+      "恒生指数"
+    ]
+  },
+  {
+    "fund_name": "益丰稳健基金",
+    "year": 2017,
+    "manager": {
+      "name": "赵薇",
+      "gender": "男",
+      "experience_years": 0
+    },
+    "performance_metrics": {
+      "annual_return": 23.53,
+      "cumulative_return": 144.46,
+      "benchmark_return": 26.39,
+      "outperformance": 4.31
+    },
+    "tags": [
+      "银行代销",
+      NaN
+    ]
+  },
+  {
+    "fund_name": "益丰稳健基金",
+    "year": 2018,
+    "manager": {
+      "name": "王俊杰",
+      "gender": "女",
+      "experience_years": 4
+    },
+    "performance_metrics": {
+      "annual_return": 17.85,
+      "cumulative_return": 125.09,
+      "benchmark_return": 13.54,
+      "outperformance": 4.31
+    },
+    "tags": [
+      "互联网直销",
+      "沪深300"
+    ]
+  },
+  {
+    "fund_name": "益丰稳健基金",
+    "year": 2019,
+    "manager": {
+      "name": "王俊杰",
+      "gender": "女",
+      "experience_years": 8
+    },
+    "performance_metrics": {
+      "annual_return": 22.05,
+      "cumulative_return": 124.46,
+      "benchmark_return": 16.97,
+      "outperformance": 5.08
+    },
+    "tags": [
+      "银行代销",
+      "恒生指数"
+    ]
+  },
+  {
+    "fund_name": "益丰稳健基金",
+    "year": 2020,
+    "manager": {
+      "name": "刘彤",
+      "gender": "男",
+      "experience_years": 9
+    },
+    "performance_metrics": {
+      "annual_return": 19.56,
+      "cumulative_return": 134.97,
+      "benchmark_return": 18.22,
+      "outperformance": 1.33
+    },
+    "tags": [
+      "直销",
+      "创业板指"
+    ]
+  },
+  {
+    "fund_name": "益丰稳健基金",
+    "year": 2021,
+    "manager": {
+      "name": "陈启明",
+      "gender": "男",
+      "experience_years": 9
+    },
+    "performance_metrics": {
+      "annual_return": 17.2,
+      "cumulative_return": 116.88,
+      "benchmark_return": 12.14,
+      "outperformance": 5.06
+    },
+    "tags": [
+      "券商代销",
+      "创业板指"
+    ]
+  },
+  {
+    "fund_name": "长城价值基金",
+    "year": 2015,
+    "manager": {
+      "name": "赵薇",
+      "gender": "男",
+      "experience_years": 2
+    },
+    "performance_metrics": {
+      "annual_return": 26.08,
+      "cumulative_return": 155.34,
+      "benchmark_return": 21.97,
+      "outperformance": 4.11
+    },
+    "tags": [
+      "直销",
+      "沪深300"
+    ]
+  },
+  {
+    "fund_name": "长城价值基金",
+    "year": 2016,
+    "manager": {
+      "name": "李晓波",
+      "gender": "女",
+      "experience_years": 8
+    },
+    "performance_metrics": {
+      "annual_return": 8.8,
+      "cumulative_return": 56.1,
+      "benchmark_return": 7.46,
+      "outperformance": 1.34
+    },
+    "tags": [
+      "互联网直销",
+      "中证500"
+    ]
+  },
+  {
+    "fund_name": "长城价值基金",
+    "year": 2017,
+    "manager": {
+      "name": "陈启明",
+      "gender": "男",
+      "experience_years": 10
+    },
+    "performance_metrics": {
+      "annual_return": 21.47,
+      "cumulative_return": 147.9,
+      "benchmark_return": 17.39,
+      "outperformance": 4.08
+    },
+    "tags": [
+      "互联网直销",
+      "创业板指"
+    ]
+  },
+  {
+    "fund_name": "长城价值基金",
+    "year": 2018,
+    "manager": {
+      "name": "王俊杰",
+      "gender": "女",
+      "experience_years": 9
+    },
+    "performance_metrics": {
+      "annual_return": 19.97,
+      "cumulative_return": 124.96,
+      "benchmark_return": 15.46,
+      "outperformance": 4.51
+    },
+    "tags": [
+      "互联网直销",
+      "恒生指数"
+    ]
+  },
+  {
+    "fund_name": "长城价值基金",
+    "year": 2019,
+    "manager": {
+      "name": "刘彤",
+      "gender": "男",
+      "experience_years": 14
+    },
+    "performance_metrics": {
+      "annual_return": 18.08,
+      "cumulative_return": 106.64,
+      "benchmark_return": 13.28,
+      "outperformance": 4.8
+    },
+    "tags": [
+      "互联网直销",
+      "上证指数"
+    ]
+  },
+  {
+    "fund_name": "长城价值基金",
+    "year": 2020,
+    "manager": {
+      "name": "赵薇",
+      "gender": "男",
+      "experience_years": 14
+    },
+    "performance_metrics": {
+      "annual_return": 23.21,
+      "cumulative_return": 158.82,
+      "benchmark_return": 21.25,
+      "outperformance": 1.96
+    },
+    "tags": [
+      "银行代销",
+      "恒生指数"
+    ]
+  },
+  {
+    "fund_name": "长城价值基金",
+    "year": 2021,
+    "manager": {
+      "name": "赵薇",
+      "gender": "男",
+      "experience_years": 15
+    },
+    "performance_metrics": {
+      "annual_return": 17.78,
+      "cumulative_return": 115.48,
+      "benchmark_return": 14.66,
+      "outperformance": 3.11
+    },
+    "tags": [
+      "银行代销",
+      "恒生指数"
+    ]
+  },
+  {
+    "fund_name": "嘉实成长基金",
+    "year": 2015,
+    "manager": {
+      "name": "赵薇",
+      "gender": "男",
+      "experience_years": 2
+    },
+    "performance_metrics": {
+      "annual_return": 12.46,
+      "cumulative_return": 81.23,
+      "benchmark_return": 8.42,
+      "outperformance": 4.05
+    },
+    "tags": [
+      "银行代销",
+      "中证500"
+    ]
+  },
+  {
+    "fund_name": "嘉实成长基金",
+    "year": 2016,
+    "manager": {
+      "name": "赵薇",
+      "gender": "男",
+      "experience_years": 3
+    },
+    "performance_metrics": {
+      "annual_return": 11.55,
+      "cumulative_return": 87.44,
+      "benchmark_return": 9.9,
+      "outperformance": 1.65
+    },
+    "tags": [
+      "第三方平台",
+      "恒生指数"
+    ]
+  },
+  {
+    "fund_name": "嘉实成长基金",
+    "year": 2017,
+    "manager": {
+      "name": "王俊杰",
+      "gender": "女",
+      "experience_years": 3
+    },
+    "performance_metrics": {
+      "annual_return": 20.4,
+      "cumulative_return": 185.98,
+      "benchmark_return": 15.97,
+      "outperformance": 4.43
+    },
+    "tags": [
+      "互联网直销",
+      "中证500"
+    ]
+  },
+  {
+    "fund_name": "嘉实成长基金",
+    "year": 2018,
+    "manager": {
+      "name": "陈启明",
+      "gender": "男",
+      "experience_years": 7
+    },
+    "performance_metrics": {
+      "annual_return": 38.64,
+      "cumulative_return": 71.66,
+      "benchmark_return": 3.9,
+      "outperformance": 4.86
+    },
+    "tags": [
+      "券商代销",
+      "中证500"
+    ]
+  },
+  {
+    "fund_name": "嘉实成长基金",
+    "year": 2019,
+    "manager": {
+      "name": "刘彤",
+      "gender": "男",
+      "experience_years": 4
+    },
+    "performance_metrics": {
+      "annual_return": 19.56,
+      "cumulative_return": 132.49,
+      "benchmark_return": 13.18,
+      "outperformance": 6.38
+    },
+    "tags": [
+      "券商代销",
+      "创业板指"
+    ]
+  },
+  {
+    "fund_name": "嘉实成长基金",
+    "year": 2020,
+    "manager": {
+      "name": "王俊杰",
+      "gender": "女",
+      "experience_years": 13
+    },
+    "performance_metrics": {
+      "annual_return": 22.43,
+      "cumulative_return": 147.46,
+      "benchmark_return": 17.54,
+      "outperformance": 4.89
+    },
+    "tags": [
+      "互联网直销",
+      "创业板指"
+    ]
+  },
+  {
+    "fund_name": "嘉实成长基金",
+    "year": 2021,
+    "manager": {
+      "name": "王俊杰",
+      "gender": "女",
+      "experience_years": 1
+    },
+    "performance_metrics": {
+      "annual_return": 18.58,
+      "cumulative_return": 185.98,
+      "benchmark_return": 15.53,
+      "outperformance": 3.05
+    },
+    "tags": [
+      "券商代销",
+      "沪深300"
+    ]
+  },
+  {
+    "fund_name": "汇添富科技基金",
+    "year": 2015,
+    "manager": {
+      "name": "李晓波",
+      "gender": "女",
+      "experience_years": 5
+    },
+    "performance_metrics": {
+      "annual_return": 11.27,
+      "cumulative_return": 78.18,
+      "benchmark_return": 8.76,
+      "outperformance": 2.5
+    },
+    "tags": [
+      "银行代销",
+      "恒生指数"
+    ]
+  },
+  {
+    "fund_name": "汇添富科技基金",
+    "year": 2016,
+    "manager": {
+      "name": "陈启明",
+      "gender": "男",
+      "experience_years": 0
+    },
+    "performance_metrics": {
+      "annual_return": 29.17,
+      "cumulative_return": 181.75,
+      "benchmark_return": 23.96,
+      "outperformance": 5.21
+    },
+    "tags": [
+      "第三方平台",
+      "沪深300"
+    ]
+  },
+  {
+    "fund_name": "汇添富科技基金",
+    "year": 2017,
+    "manager": {
+      "name": "刘彤",
+      "gender": "男",
+      "experience_years": 11
+    },
+    "performance_metrics": {
+      "annual_return": 41.37,
+      "cumulative_return": 156.42,
+      "benchmark_return": 22.15,
+      "outperformance": 3.66
+    },
+    "tags": [
+      "第三方平台",
+      "恒生指数"
+    ]
+  },
+  {
+    "fund_name": "汇添富科技基金",
+    "year": 2018,
+    "manager": {
+      "name": "赵薇",
+      "gender": "男",
+      "experience_years": 7
+    },
+    "performance_metrics": {
+      "annual_return": 15.88,
+      "cumulative_return": 92.18,
+      "benchmark_return": 13.57,
+      "outperformance": 2.3
+    },
+    "tags": [
+      "直销",
+      "沪深300"
+    ]
+  },
+  {
+    "fund_name": "汇添富科技基金",
+    "year": 2019,
+    "manager": {
+      "name": "赵薇",
+      "gender": "男",
+      "experience_years": 4
+    },
+    "performance_metrics": {
+      "annual_return": 20.52,
+      "cumulative_return": 134.73,
+      "benchmark_return": 18.38,
+      "outperformance": 2.14
+    },
+    "tags": [
+      "券商代销",
+      "创业板指"
+    ]
+  },
+  {
+    "fund_name": "汇添富科技基金",
+    "year": 2020,
+    "manager": {
+      "name": "王俊杰",
+      "gender": "女",
+      "experience_years": 8
+    },
+    "performance_metrics": {
+      "annual_return": 14.53,
+      "cumulative_return": 104.85,
+      "benchmark_return": 9.75,
+      "outperformance": 4.78
+    },
+    "tags": [
+      "券商代销",
+      "创业板指"
+    ]
+  },
+  {
+    "fund_name": "汇添富科技基金",
+    "year": 2021,
+    "manager": {
+      "name": "刘彤",
+      "gender": "男",
+      "experience_years": 9
+    },
+    "performance_metrics": {
+      "annual_return": 22.03,
+      "cumulative_return": 185.98,
+      "benchmark_return": 18.74,
+      "outperformance": 3.29
+    },
+    "tags": [
+      "券商代销",
+      "创业板指"
+    ]
+  },
+  {
+    "fund_name": "华富成长趋势基金",
+    "year": 2015,
+    "manager": {
+      "name": "陈启明",
+      "gender": "男",
+      "experience_years": 0
+    },
+    "performance_metrics": {
+      "annual_return": 19.06,
+      "cumulative_return": 185.98,
+      "benchmark_return": 16.46,
+      "outperformance": 2.59
+    },
+    "tags": [
+      "第三方平台",
+      "沪深300"
+    ]
+  },
+  {
+    "fund_name": "华富成长趋势基金",
+    "year": 2016,
+    "manager": {
+      "name": "陈启明",
+      "gender": "男",
+      "experience_years": 0
+    },
+    "performance_metrics": {
+      "annual_return": 12.87,
+      "cumulative_return": 114.85,
+      "benchmark_return": 9.79,
+      "outperformance": 3.09
+    },
+    "tags": [
+      "券商代销",
+      "沪深300"
+    ]
+  },
+  {
+    "fund_name": "华富成长趋势基金",
+    "year": 2017,
+    "manager": {
+      "name": "陈启明",
+      "gender": "男",
+      "experience_years": 0
+    },
+    "performance_metrics": {
+      "annual_return": 24.27,
+      "cumulative_return": 145.69,
+      "benchmark_return": 18.7,
+      "outperformance": 5.56
+    },
+    "tags": [
+      "互联网直销",
+      "沪深300"
+    ]
+  },
+  {
+    "fund_name": "华富成长趋势基金",
+    "year": 2018,
+    "manager": {
+      "name": "陈启明",
+      "gender": "男",
+      "experience_years": 1
+    },
+    "performance_metrics": {
+      "annual_return": 20.06,
+      "cumulative_return": 138.26,
+      "benchmark_return": 17.65,
+      "outperformance": 2.41
+    },
+    "tags": [
+      "第三方平台",
+      "沪深300"
+    ]
+  },
+  {
+    "fund_name": "华富成长趋势基金",
+    "year": 2019,
+    "manager": {
+      "name": "陈启明",
+      "gender": "男",
+      "experience_years": 2
+    },
+    "performance_metrics": {
+      "annual_return": 54.95,
+      "cumulative_return": 120.32,
+      "benchmark_return": 18.54,
+      "outperformance": 36.41
+    },
+    "tags": [
+      "第三方平台",
+      "沪深300"
+    ]
+  },
+  {
+    "fund_name": "华富成长趋势基金",
+    "year": 2020,
+    "manager": {
+      "name": "陈启明",
+      "gender": "男",
+      "experience_years": 3
+    },
+    "performance_metrics": {
+      "annual_return": 51.73,
+      "cumulative_return": 124.63,
+      "benchmark_return": 17.64,
+      "outperformance": 34.09
+    },
+    "tags": [
+      "直销",
+      "沪深300"
+    ]
+  },
+  {
+    "fund_name": "华富成长趋势基金",
+    "year": 2021,
+    "manager": {
+      "name": "陈启明",
+      "gender": "男",
+      "experience_years": 4
+    },
+    "performance_metrics": {
+      "annual_return": null,
+      "cumulative_return": 146.48,
+      "benchmark_return": 18.26,
+      "outperformance": 6.12
+    },
+    "tags": [
+      "券商代销",
+      "沪深300"
+    ]
+  },
+  {
+    "fund_name": "益丰稳健基金",
+    "year": 2015,
+    "manager": {
+      "name": "王俊杰",
+      "gender": "女",
+      "experience_years": 9
+    },
+    "performance_metrics": {
+      "annual_return": 24.06,
+      "cumulative_return": 165.33,
+      "benchmark_return": 16.64,
+      "outperformance": 7.42
+    },
+    "tags": [
+      "互联网直销",
+      "创业板指"
+    ]
+  },
+  {
+    "fund_name": "益丰稳健基金",
+    "year": 2016,
+    "manager": {
+      "name": "王俊杰",
+      "gender": "女",
+      "experience_years": 7
+    },
+    "performance_metrics": {
+      "annual_return": 19.19,
+      "cumulative_return": 154.3,
+      "benchmark_return": 17.71,
+      "outperformance": 1.48
+    },
+    "tags": [
+      "券商代销",
+      "上证指数"
+    ]
+  },
+  {
+    "fund_name": "益丰稳健基金",
+    "year": 2017,
+    "manager": {
+      "name": "王俊杰",
+      "gender": "女",
+      "experience_years": 9
+    },
+    "performance_metrics": {
+      "annual_return": 24.4,
+      "cumulative_return": 155.29,
+      "benchmark_return": 21.24,
+      "outperformance": 3.16
+    },
+    "tags": [
+      "互联网直销",
+      "创业板指"
+    ]
+  },
+  {
+    "fund_name": "益丰稳健基金",
+    "year": 2018,
+    "manager": {
+      "name": "李晓波",
+      "gender": "女",
+      "experience_years": 9
+    },
+    "performance_metrics": {
+      "annual_return": 11.8,
+      "cumulative_return": 67.95,
+      "benchmark_return": 9.05,
+      "outperformance": 2.75
+    },
+    "tags": [
+      "互联网直销",
+      "中证500"
+    ]
+  },
+  {
+    "fund_name": "益丰稳健基金",
+    "year": 2019,
+    "manager": {
+      "name": "陈启明",
+      "gender": "男",
+      "experience_years": 4
+    },
+    "performance_metrics": {
+      "annual_return": 14.69,
+      "cumulative_return": 97.2,
+      "benchmark_return": 10.39,
+      "outperformance": 4.3
+    },
+    "tags": [
+      "券商代销",
+      "创业板指"
+    ]
+  },
+  {
+    "fund_name": "益丰稳健基金",
+    "year": 2020,
+    "manager": {
+      "name": "王俊杰",
+      "gender": "女",
+      "experience_years": 5
+    },
+    "performance_metrics": {
+      "annual_return": 21.17,
+      "cumulative_return": 123.63,
+      "benchmark_return": 18.29,
+      "outperformance": 2.88
+    },
+    "tags": [
+      "第三方平台",
+      "上证指数"
+    ]
+  },
+  {
+    "fund_name": "益丰稳健基金",
+    "year": 2021,
+    "manager": {
+      "name": "刘彤",
+      "gender": "男",
+      "experience_years": 6
+    },
+    "performance_metrics": {
+      "annual_return": 20.07,
+      "cumulative_return": 128.4,
+      "benchmark_return": 26.39,
+      "outperformance": 4.62
+    },
+    "tags": [
+      "直销",
+      "上证指数"
+    ]
+  },
+  {
+    "fund_name": "长城价值基金",
+    "year": 2015,
+    "manager": {
+      "name": "陈启明",
+      "gender": "男",
+      "experience_years": 7
+    },
+    "performance_metrics": {
+      "annual_return": 15.0,
+      "cumulative_return": 106.7,
+      "benchmark_return": 10.87,
+      "outperformance": 4.12
+    },
+    "tags": [
+      "直销",
+      "上证指数"
+    ]
+  },
+  {
+    "fund_name": "长城价值基金",
+    "year": 2016,
+    "manager": {
+      "name": "刘彤",
+      "gender": "男",
+      "experience_years": 0
+    },
+    "performance_metrics": {
+      "annual_return": 16.89,
+      "cumulative_return": 109.8,
+      "benchmark_return": 13.3,
+      "outperformance": 3.59
+    },
+    "tags": [
+      "银行代销",
+      "上证指数"
+    ]
+  },
+  {
+    "fund_name": "长城价值基金",
+    "year": 2017,
+    "manager": {
+      "name": "刘彤",
+      "gender": "男",
+      "experience_years": 11
+    },
+    "performance_metrics": {
+      "annual_return": 21.76,
+      "cumulative_return": 142.12,
+      "benchmark_return": 17.57,
+      "outperformance": 4.19
+    },
+    "tags": [
+      "第三方平台",
+      "沪深300"
+    ]
+  },
+  {
+    "fund_name": "长城价值基金",
+    "year": 2018,
+    "manager": {
+      "name": "李晓波",
+      "gender": "女",
+      "experience_years": 9
+    },
+    "performance_metrics": {
+      "annual_return": 6.37,
+      "cumulative_return": 58.35,
+      "benchmark_return": 2.49,
+      "outperformance": 3.88
+    },
+    "tags": [
+      "券商代销",
+      "沪深300"
+    ]
+  },
+  {
+    "fund_name": "长城价值基金",
+    "year": 2019,
+    "manager": {
+      "name": NaN,
+      "gender": "男",
+      "experience_years": 13
+    },
+    "performance_metrics": {
+      "annual_return": 22.67,
+      "cumulative_return": 142.71,
+      "benchmark_return": 21.35,
+      "outperformance": 1.32
+    },
+    "tags": [
+      "第三方平台",
+      "中证500"
+    ]
+  },
+  {
+    "fund_name": "长城价值基金",
+    "year": 2020,
+    "manager": {
+      "name": "陈启明",
+      "gender": "男",
+      "experience_years": 10
+    },
+    "performance_metrics": {
+      "annual_return": 18.22,
+      "cumulative_return": 112.59,
+      "benchmark_return": 11.93,
+      "outperformance": 6.29
+    },
+    "tags": [
+      "直销",
+      "沪深300"
+    ]
+  },
+  {
+    "fund_name": "长城价值基金",
+    "year": 2021,
+    "manager": {
+      "name": "赵薇",
+      "gender": "男",
+      "experience_years": 0
+    },
+    "performance_metrics": {
+      "annual_return": null,
+      "cumulative_return": 92.67,
+      "benchmark_return": 9.3,
+      "outperformance": 5.26
+    },
+    "tags": [
+      "银行代销",
+      "上证指数"
+    ]
+  },
+  {
+    "fund_name": "嘉实成长基金",
+    "year": 2015,
+    "manager": {
+      "name": "赵薇",
+      "gender": "男",
+      "experience_years": 6
+    },
+    "performance_metrics": {
+      "annual_return": 20.51,
+      "cumulative_return": 134.6,
+      "benchmark_return": 16.63,
+      "outperformance": 3.88
+    },
+    "tags": [
+      "互联网直销",
+      "创业板指"
+    ]
+  },
+  {
+    "fund_name": "嘉实成长基金",
+    "year": 2016,
+    "manager": {
+      "name": "李晓波",
+      "gender": "女",
+      "experience_years": 1
+    },
+    "performance_metrics": {
+      "annual_return": 20.36,
+      "cumulative_return": 129.02,
+      "benchmark_return": 16.41,
+      "outperformance": 3.95
+    },
+    "tags": [
+      "互联网直销",
+      "创业板指"
+    ]
+  },
+  {
+    "fund_name": "嘉实成长基金",
+    "year": 2017,
+    "manager": {
+      "name": "陈启明",
+      "gender": "男",
+      "experience_years": 6
+    },
+    "performance_metrics": {
+      "annual_return": 18.2,
+      "cumulative_return": 116.35,
+      "benchmark_return": 9.98,
+      "outperformance": 8.22
+    },
+    "tags": [
+      "银行代销",
+      NaN
+    ]
+  },
+  {
+    "fund_name": "嘉实成长基金",
+    "year": 2018,
+    "manager": {
+      "name": "刘彤",
+      "gender": "男",
+      "experience_years": 4
+    },
+    "performance_metrics": {
+      "annual_return": 19.3,
+      "cumulative_return": 127.53,
+      "benchmark_return": 15.87,
+      "outperformance": 3.43
+    },
+    "tags": [
+      "互联网直销",
+      "恒生指数"
+    ]
+  },
+  {
+    "fund_name": "嘉实成长基金",
+    "year": 2019,
+    "manager": {
+      "name": "王俊杰",
+      "gender": "女",
+      "experience_years": 8
+    },
+    "performance_metrics": {
+      "annual_return": 22.31,
+      "cumulative_return": 130.6,
+      "benchmark_return": 20.45,
+      "outperformance": 1.87
+    },
+    "tags": [
+      "券商代销",
+      "上证指数"
+    ]
+  },
+  {
+    "fund_name": "嘉实成长基金",
+    "year": 2020,
+    "manager": {
+      "name": "刘彤",
+      "gender": "男",
+      "experience_years": 11
+    },
+    "performance_metrics": {
+      "annual_return": 11.57,
+      "cumulative_return": 185.98,
+      "benchmark_return": 10.75,
+      "outperformance": 0.83
+    },
+    "tags": [
+      "互联网直销",
+      "沪深300"
+    ]
+  },
+  {
+    "fund_name": "嘉实成长基金",
+    "year": 2021,
+    "manager": {
+      "name": "赵薇",
+      "gender": "男",
+      "experience_years": 4
+    },
+    "performance_metrics": {
+      "annual_return": 21.14,
+      "cumulative_return": 130.09,
+      "benchmark_return": 16.07,
+      "outperformance": 5.07
+    },
+    "tags": [
+      "互联网直销",
+      "创业板指"
+    ]
+  },
+  {
+    "fund_name": "汇添富科技基金",
+    "year": 2015,
+    "manager": {
+      "name": "赵薇",
+      "gender": "男",
+      "experience_years": 0
+    },
+    "performance_metrics": {
+      "annual_return": 18.13,
+      "cumulative_return": 131.04,
+      "benchmark_return": 14.16,
+      "outperformance": 3.97
+    },
+    "tags": [
+      "券商代销",
+      "上证指数"
+    ]
+  },
+  {
+    "fund_name": "汇添富科技基金",
+    "year": 2016,
+    "manager": {
+      "name": "赵薇",
+      "gender": "男",
+      "experience_years": 8
+    },
+    "performance_metrics": {
+      "annual_return": 8.54,
+      "cumulative_return": 68.98,
+      "benchmark_return": 4.96,
+      "outperformance": 3.58
+    },
+    "tags": [
+      "银行代销",
+      "创业板指"
+    ]
+  },
+  {
+    "fund_name": "汇添富科技基金",
+    "year": 2017,
+    "manager": {
+      "name": "陈启明",
+      "gender": "男",
+      "experience_years": 2
+    },
+    "performance_metrics": {
+      "annual_return": 9.08,
+      "cumulative_return": 68.28,
+      "benchmark_return": 6.62,
+      "outperformance": 2.46
+    },
+    "tags": [
+      "券商代销",
+      "上证指数"
+    ]
+  },
+  {
+    "fund_name": "汇添富科技基金",
+    "year": 2018,
+    "manager": {
+      "name": "李晓波",
+      "gender": "女",
+      "experience_years": 10
+    },
+    "performance_metrics": {
+      "annual_return": 20.54,
+      "cumulative_return": 129.21,
+      "benchmark_return": 15.85,
+      "outperformance": 4.69
+    },
+    "tags": [
+      "银行代销",
+      "上证指数"
+    ]
+  },
+  {
+    "fund_name": "汇添富科技基金",
+    "year": 2019,
+    "manager": {
+      "name": "王俊杰",
+      "gender": "女",
+      "experience_years": 4
+    },
+    "performance_metrics": {
+      "annual_return": 14.72,
+      "cumulative_return": 90.08,
+      "benchmark_return": 26.39,
+      "outperformance": 1.4
+    },
+    "tags": [
+      "银行代销",
+      "沪深300"
+    ]
+  },
+  {
+    "fund_name": "汇添富科技基金",
+    "year": 2020,
+    "manager": {
+      "name": NaN,
+      "gender": "男",
+      "experience_years": 3
+    },
+    "performance_metrics": {
+      "annual_return": 17.47,
+      "cumulative_return": 126.67,
+      "benchmark_return": 13.86,
+      "outperformance": 3.61
+    },
+    "tags": [
+      "券商代销",
+      "上证指数"
+    ]
+  },
+  {
+    "fund_name": "汇添富科技基金",
+    "year": 2021,
+    "manager": {
+      "name": "陈启明",
+      "gender": "男",
+      "experience_years": 9
+    },
+    "performance_metrics": {
+      "annual_return": 10.33,
+      "cumulative_return": 65.99,
+      "benchmark_return": 4.44,
+      "outperformance": 5.89
+    },
+    "tags": [
+      "第三方平台",
+      "创业板指"
+    ]
+  },
+  {
+    "fund_name": "华富成长趋势基金",
+    "year": 2015,
+    "manager": {
+      "name": "陈启明",
+      "gender": "男",
+      "experience_years": 0
+    },
+    "performance_metrics": {
+      "annual_return": 20.83,
+      "cumulative_return": 121.71,
+      "benchmark_return": 17.43,
+      "outperformance": 3.4
+    },
+    "tags": [
+      "第三方平台",
+      "沪深300"
+    ]
+  },
+  {
+    "fund_name": "华富成长趋势基金",
+    "year": 2016,
+    "manager": {
+      "name": "陈启明",
+      "gender": "男",
+      "experience_years": 0
+    },
+    "performance_metrics": {
+      "annual_return": 11.2,
+      "cumulative_return": 75.27,
+      "benchmark_return": 6.49,
+      "outperformance": 4.72
+    },
+    "tags": [
+      "银行代销",
+      "沪深300"
+    ]
+  },
+  {
+    "fund_name": "华富成长趋势基金",
+    "year": 2017,
+    "manager": {
+      "name": "陈启明",
+      "gender": "男",
+      "experience_years": 0
+    },
+    "performance_metrics": {
+      "annual_return": 24.43,
+      "cumulative_return": 150.68,
+      "benchmark_return": 18.9,
+      "outperformance": 5.53
+    },
+    "tags": [
+      "第三方平台",
+      "沪深300"
+    ]
+  },
+  {
+    "fund_name": "华富成长趋势基金",
+    "year": 2018,
+    "manager": {
+      "name": "陈启明",
+      "gender": "男",
+      "experience_years": 1
+    },
+    "performance_metrics": {
+      "annual_return": 20.49,
+      "cumulative_return": 140.67,
+      "benchmark_return": 18.0,
+      "outperformance": 2.49
+    },
+    "tags": [
+      "直销",
+      "沪深300"
+    ]
+  },
+  {
+    "fund_name": "华富成长趋势基金",
+    "year": 2019,
+    "manager": {
+      "name": "陈启明",
+      "gender": "男",
+      "experience_years": 2
+    },
+    "performance_metrics": {
+      "annual_return": 54.95,
+      "cumulative_return": 120.32,
+      "benchmark_return": 17.08,
+      "outperformance": 37.87
+    },
+    "tags": [
+      "券商代销",
+      "沪深300"
+    ]
+  },
+  {
+    "fund_name": "华富成长趋势基金",
+    "year": 2020,
+    "manager": {
+      "name": "陈启明",
+      "gender": "男",
+      "experience_years": 3
+    },
+    "performance_metrics": {
+      "annual_return": 51.73,
+      "cumulative_return": 118.46,
+      "benchmark_return": 14.66,
+      "outperformance": 37.07
+    },
+    "tags": [
+      "第三方平台",
+      "沪深300"
+    ]
+  },
+  {
+    "fund_name": "华富成长趋势基金",
+    "year": 2021,
+    "manager": {
+      "name": "陈启明",
+      "gender": "男",
+      "experience_years": 4
+    },
+    "performance_metrics": {
+      "annual_return": 28.72,
+      "cumulative_return": 181.94,
+      "benchmark_return": 25.87,
+      "outperformance": 2.86
+    },
+    "tags": [
+      "互联网直销",
+      "沪深300"
+    ]
+  },
+  {
+    "fund_name": "益丰稳健基金",
+    "year": 2015,
+    "manager": {
+      "name": "王俊杰",
+      "gender": "女",
+      "experience_years": 2
+    },
+    "performance_metrics": {
+      "annual_return": 24.05,
+      "cumulative_return": 168.53,
+      "benchmark_return": 19.34,
+      "outperformance": 4.7
+    },
+    "tags": [
+      "第三方平台",
+      "中证500"
+    ]
+  },
+  {
+    "fund_name": "益丰稳健基金",
+    "year": 2016,
+    "manager": {
+      "name": NaN,
+      "gender": "男",
+      "experience_years": 8
+    },
+    "performance_metrics": {
+      "annual_return": 14.62,
+      "cumulative_return": 94.68,
+      "benchmark_return": 12.75,
+      "outperformance": 1.88
+    },
+    "tags": [
+      "第三方平台",
+      "创业板指"
+    ]
+  },
+  {
+    "fund_name": "益丰稳健基金",
+    "year": 2017,
+    "manager": {
+      "name": "赵薇",
+      "gender": "男",
+      "experience_years": 11
+    },
+    "performance_metrics": {
+      "annual_return": 13.05,
+      "cumulative_return": 88.4,
+      "benchmark_return": 26.39,
+      "outperformance": 3.25
+    },
+    "tags": [
+      "直销",
+      "沪深300"
+    ]
+  },
+  {
+    "fund_name": "益丰稳健基金",
+    "year": 2018,
+    "manager": {
+      "name": "赵薇",
+      "gender": "男",
+      "experience_years": 12
+    },
+    "performance_metrics": {
+      "annual_return": 18.53,
+      "cumulative_return": 111.77,
+      "benchmark_return": 15.46,
+      "outperformance": 3.07
+    },
+    "tags": [
+      "直销",
+      "中证500"
+    ]
+  },
+  {
+    "fund_name": "益丰稳健基金",
+    "year": 2019,
+    "manager": {
+      "name": "刘彤",
+      "gender": "男",
+      "experience_years": 8
+    },
+    "performance_metrics": {
+      "annual_return": 18.06,
+      "cumulative_return": 125.14,
+      "benchmark_return": 15.42,
+      "outperformance": 2.64
+    },
+    "tags": [
+      "银行代销",
+      "上证指数"
+    ]
+  },
+  {
+    "fund_name": "益丰稳健基金",
+    "year": 2020,
+    "manager": {
+      "name": "赵薇",
+      "gender": "男",
+      "experience_years": 1
+    },
+    "performance_metrics": {
+      "annual_return": 22.61,
+      "cumulative_return": 152.09,
+      "benchmark_return": 20.82,
+      "outperformance": 1.8
+    },
+    "tags": [
+      "银行代销",
+      "恒生指数"
+    ]
+  },
+  {
+    "fund_name": "益丰稳健基金",
+    "year": 2021,
+    "manager": {
+      "name": "李晓波",
+      "gender": "女",
+      "experience_years": 14
+    },
+    "performance_metrics": {
+      "annual_return": 23.03,
+      "cumulative_return": 142.22,
+      "benchmark_return": 20.16,
+      "outperformance": 2.88
+    },
+    "tags": [
+      "银行代销",
+      "中证500"
+    ]
+  },
+  {
+    "fund_name": "长城价值基金",
+    "year": 2015,
+    "manager": {
+      "name": "刘彤",
+      "gender": "男",
+      "experience_years": 5
+    },
+    "performance_metrics": {
+      "annual_return": 13.49,
+      "cumulative_return": 95.07,
+      "benchmark_return": 11.83,
+      "outperformance": 1.66
+    },
+    "tags": [
+      "银行代销",
+      "中证500"
+    ]
+  },
+  {
+    "fund_name": "长城价值基金",
+    "year": 2016,
+    "manager": {
+      "name": "王俊杰",
+      "gender": "女",
+      "experience_years": 3
+    },
+    "performance_metrics": {
+      "annual_return": 13.04,
+      "cumulative_return": 95.08,
+      "benchmark_return": 9.68,
+      "outperformance": 3.36
+    },
+    "tags": [
+      "券商代销",
+      "上证指数"
+    ]
+  },
+  {
+    "fund_name": "长城价值基金",
+    "year": 2017,
+    "manager": {
+      "name": "李晓波",
+      "gender": "女",
+      "experience_years": 10
+    },
+    "performance_metrics": {
+      "annual_return": 9.43,
+      "cumulative_return": 50.29,
+      "benchmark_return": 3.84,
+      "outperformance": 5.59
+    },
+    "tags": [
+      "直销",
+      "恒生指数"
+    ]
+  },
+  {
+    "fund_name": "长城价值基金",
+    "year": 2018,
+    "manager": {
+      "name": "刘彤",
+      "gender": "男",
+      "experience_years": 3
+    },
+    "performance_metrics": {
+      "annual_return": 11.45,
+      "cumulative_return": 71.97,
+      "benchmark_return": 8.72,
+      "outperformance": 2.73
+    },
+    "tags": [
+      "银行代销",
+      NaN
+    ]
+  },
+  {
+    "fund_name": "长城价值基金",
+    "year": 2019,
+    "manager": {
+      "name": "李晓波",
+      "gender": "女",
+      "experience_years": 10
+    },
+    "performance_metrics": {
+      "annual_return": 15.4,
+      "cumulative_return": 80.16,
+      "benchmark_return": 11.69,
+      "outperformance": 3.71
+    },
+    "tags": [
+      "直销",
+      "沪深300"
+    ]
+  },
+  {
+    "fund_name": "长城价值基金",
+    "year": 2020,
+    "manager": {
+      "name": "陈启明",
+      "gender": "男",
+      "experience_years": 3
+    },
+    "performance_metrics": {
+      "annual_return": 26.89,
+      "cumulative_return": 167.97,
+      "benchmark_return": 24.11,
+      "outperformance": 2.78
+    },
+    "tags": [
+      "银行代销",
+      "中证500"
+    ]
+  },
+  {
+    "fund_name": "长城价值基金",
+    "year": 2021,
+    "manager": {
+      "name": "王俊杰",
+      "gender": "女",
+      "experience_years": 7
+    },
+    "performance_metrics": {
+      "annual_return": 16.95,
+      "cumulative_return": 104.66,
+      "benchmark_return": 11.33,
+      "outperformance": 5.62
+    },
+    "tags": [
+      "券商代销",
+      "恒生指数"
+    ]
+  },
+  {
+    "fund_name": "嘉实成长基金",
+    "year": 2015,
+    "manager": {
+      "name": "赵薇",
+      "gender": "男",
+      "experience_years": 4
+    },
+    "performance_metrics": {
+      "annual_return": 29.98,
+      "cumulative_return": 189.62,
+      "benchmark_return": 25.12,
+      "outperformance": 4.86
+    },
+    "tags": [
+      "直销",
+      "沪深300"
+    ]
+  },
+  {
+    "fund_name": "嘉实成长基金",
+    "year": 2016,
+    "manager": {
+      "name": "陈启明",
+      "gender": "男",
+      "experience_years": 9
+    },
+    "performance_metrics": {
+      "annual_return": 15.45,
+      "cumulative_return": 106.9,
+      "benchmark_return": 11.55,
+      "outperformance": 3.9
+    },
+    "tags": [
+      "银行代销",
+      "恒生指数"
+    ]
+  },
+  {
+    "fund_name": "嘉实成长基金",
+    "year": 2017,
+    "manager": {
+      "name": "王俊杰",
+      "gender": "女",
+      "experience_years": 6
+    },
+    "performance_metrics": {
+      "annual_return": 14.28,
+      "cumulative_return": 97.66,
+      "benchmark_return": 11.36,
+      "outperformance": 2.92
+    },
+    "tags": [
+      "直销",
+      "中证500"
+    ]
+  },
+  {
+    "fund_name": "嘉实成长基金",
+    "year": 2018,
+    "manager": {
+      "name": "陈启明",
+      "gender": "男",
+      "experience_years": 2
+    },
+    "performance_metrics": {
+      "annual_return": 22.05,
+      "cumulative_return": 141.38,
+      "benchmark_return": 18.66,
+      "outperformance": 3.39
+    },
+    "tags": [
+      "互联网直销",
+      "恒生指数"
+    ]
+  },
+  {
+    "fund_name": "嘉实成长基金",
+    "year": 2019,
+    "manager": {
+      "name": "赵薇",
+      "gender": "男",
+      "experience_years": 14
+    },
+    "performance_metrics": {
+      "annual_return": 14.77,
+      "cumulative_return": 95.54,
+      "benchmark_return": 12.35,
+      "outperformance": 2.42
+    },
+    "tags": [
+      "券商代销",
+      "中证500"
+    ]
+  },
+  {
+    "fund_name": "嘉实成长基金",
+    "year": 2020,
+    "manager": {
+      "name": "王俊杰",
+      "gender": "女",
+      "experience_years": 3
+    },
+    "performance_metrics": {
+      "annual_return": 19.36,
+      "cumulative_return": 128.28,
+      "benchmark_return": 16.87,
+      "outperformance": 2.49
+    },
+    "tags": [
+      "银行代销",
+      "上证指数"
+    ]
+  },
+  {
+    "fund_name": "嘉实成长基金",
+    "year": 2021,
+    "manager": {
+      "name": "李晓波",
+      "gender": "女",
+      "experience_years": 8
+    },
+    "performance_metrics": {
+      "annual_return": 30.97,
+      "cumulative_return": 179.37,
+      "benchmark_return": 25.92,
+      "outperformance": 5.05
+    },
+    "tags": [
+      "直销",
+      "创业板指"
+    ]
+  },
+  {
+    "fund_name": "汇添富科技基金",
+    "year": 2015,
+    "manager": {
+      "name": "李晓波",
+      "gender": "女",
+      "experience_years": 3
+    },
+    "performance_metrics": {
+      "annual_return": 29.99,
+      "cumulative_return": 190.02,
+      "benchmark_return": 27.35,
+      "outperformance": 2.64
+    },
+    "tags": [
+      "直销",
+      "沪深300"
+    ]
+  },
+  {
+    "fund_name": "汇添富科技基金",
+    "year": 2016,
+    "manager": {
+      "name": "王俊杰",
+      "gender": "女",
+      "experience_years": 4
+    },
+    "performance_metrics": {
+      "annual_return": 18.85,
+      "cumulative_return": 129.02,
+      "benchmark_return": 26.39,
+      "outperformance": 2.4
+    },
+    "tags": [
+      "第三方平台",
+      "上证指数"
+    ]
+  }
+]

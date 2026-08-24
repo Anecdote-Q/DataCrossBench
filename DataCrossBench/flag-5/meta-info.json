@@ -1,0 +1,20 @@
+{
+    "goal": "分析人工智能和大数据在金融科技领域的技术创新对行业发展的具体影响。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 人工智能、通信技术和区块链等新技术的专利申请量持续增长，成为金融科技发展的重点方向。",
+        "Comparison: 中国平安保险在大数据挖掘和分析方面的技术积累显著，领先于其他企业。",
+        "Extreme: 中国在金融科技领域的专利申请量已达到全球第二，显示出其在全球市场中的崛起。",
+        "Attribution: 技术创新是推动金融科技发展的核心动力，尤其是在人工智能和大数据领域的应用。"
+    ],
+    "summary": "本报告分析了中国金融科技领域的主要技术方向及其应用，强调了人工智能、大数据和区块链等技术在行业中的重要性。",
+    "flag_id": "flag-5",
+    "classifier": "FinTech",
+    "classifier_cn": "金融科技",
+    "input_files": [
+        "output/business_background.txt",
+        "output/company_dimension.db",
+        "output/company_user_profiles.json",
+        "output/financial_patent_facts.csv"
+    ]
+}

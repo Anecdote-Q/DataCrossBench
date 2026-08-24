@@ -1,0 +1,62 @@
+[
+  {
+    "trend_id": 1,
+    "description": "Blockchain adoption increasing across all regions.",
+    "growth_rate": 1.7659499582722724,
+    "year": 2015
+  },
+  {
+    "trend_id": 2,
+    "description": "AI and machine learning drive credit score innovation.",
+    "growth_rate": 0.903850482985459,
+    "year": 2016
+  },
+  {
+    "trend_id": 3,
+    "description": "Open banking APIs expand financial service reach.",
+    "growth_rate": null,
+    "year": 2017
+  },
+  {
+    "trend_id": 4,
+    "description": "Robo-advisors gain popularity in wealth management.",
+    "growth_rate": null,
+    "year": 2018
+  },
+  {
+    "trend_id": 5,
+    "description": "Digital wallets disrupt traditional payments.",
+    "growth_rate": 0.3731499350508898,
+    "year": 2019
+  },
+  {
+    "trend_id": 6,
+    "description": "RegTech solutions improve compliance efficiency.",
+    "growth_rate": 1.2313330684099437,
+    "year": 2020
+  },
+  {
+    "trend_id": 7,
+    "description": "Growth in mobile-first banking platforms.",
+    "growth_rate": 1.0495632680773186,
+    "year": 2021
+  },
+  {
+    "trend_id": 8,
+    "description": "InsurTech adoption transforms insurance claims.",
+    "growth_rate": 0.6782346511478043,
+    "year": 2022
+  },
+  {
+    "trend_id": 9,
+    "description": "Cybersecurity investment escalates with new threats.",
+    "growth_rate": 0.4217320075811354,
+    "year": 2023
+  },
+  {
+    "trend_id": 10,
+    "description": "Increased focus on data privacy regulations.",
+    "growth_rate": 1.3029427739786348,
+    "year": 2024
+  }
+]

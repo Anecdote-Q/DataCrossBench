@@ -1,0 +1,42 @@
+[
+  {
+    "id": "d1000",
+    "demand_factor": "人口老龄化",
+    "impact": "需求快速提升"
+  },
+  {
+    "id": "d1001",
+    "demand_factor": "政策支持",
+    "impact": "需求快速提升"
+  },
+  {
+    "id": "d1002",
+    "demand_factor": "新冠疫情后需求",
+    "impact": "需求持续增长"
+  },
+  {
+    "id": "d1003",
+    "demand_factor": "慢性病增加",
+    "impact": "需求快速提升"
+  },
+  {
+    "id": "d1004",
+    "demand_factor": "技术创新",
+    "impact": "需求有一定增长"
+  },
+  {
+    "id": "d1005",
+    "demand_factor": "医保覆盖扩大",
+    "impact": null
+  },
+  {
+    "id": "d1006",
+    "demand_factor": "生活水平提升",
+    "impact": "需求持续增长"
+  },
+  {
+    "id": "d1007",
+    "demand_factor": "健康意识增强",
+    "impact": null
+  }
+]

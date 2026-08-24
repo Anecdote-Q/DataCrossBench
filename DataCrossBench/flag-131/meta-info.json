@@ -1,0 +1,20 @@
+{
+    "goal": "比较不同医疗组织在AI整合过程中的侧重点及其对患者安全的影响。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 第5页提到，近三分之一的医疗保健领导者表示，人工智能占其组织全球技术预算的10%以上，显示出对AI投资的重视。",
+        "Comparison: 第15页提到，医疗机构在人工智能转型的启用、嵌入和进化三个阶段，而第16页则强调，领先的医疗保健组织正进入人工智能应用的第三阶段，显示出不同组织在AI应用成熟度上的差异。",
+        "Extreme: 第19页指出，62%的人认为数据质量是一个主要限制因素，显示出在AI实施中的一个显著障碍。",
+        "Attribution: 第22页指出，成功的关键在于利益相关者的合作，这与第23页提到的通过建立信任、协调战略、赋能技术和授权员工来释放人工智能的变革潜力密切相关。"
+    ],
+    "summary": "本报告探讨了医疗保健行业如何通过人工智能提升运营效率、改善患者体验，并分析了当前面临的挑战与未来的机遇。",
+    "flag_id": "flag-131",
+    "classifier": "AI Healthcare",
+    "classifier_cn": "AI 医疗健康",
+    "input_files": [
+        "output/ai_background.txt",
+        "output/ai_healthcare_fact.csv",
+        "output/dimension_data.db",
+        "output/user_profiles.json"
+    ]
+}

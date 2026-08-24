@@ -1,0 +1,20 @@
+{
+    "goal": "分析澳门互联网普及率从2001年到2007年增长的具体因素。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 截至2007年，澳门的互联网普及率从2001年的33%上升至64%。",
+        "Comparison: 澳门的互联网普及率在2007年达到64%，与中国大陆的16%形成鲜明对比。",
+        "Extreme: 2007年，澳门的宽带上网比例为96%，显示出显著的宽带普及。",
+        "Attribution: 澳门的互联网普及率提升与宽带上网的主导地位密切相关，家庭上网条件的改善促进了这一增长。"
+    ],
+    "summary": "本报告分析了澳门地区互联网的使用情况，特别是家庭上网计算机的连网情况及其增长趋势。",
+    "flag_id": "flag-173",
+    "classifier": "Internet Dev.",
+    "classifier_cn": "互联网发展",
+    "input_files": [
+        "output/background.txt",
+        "output/dimension_data.db",
+        "output/internet_usage_fact.csv",
+        "output/user_profiles.json"
+    ]
+}

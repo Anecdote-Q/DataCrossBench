@@ -1,0 +1,20 @@
+{
+    "goal": "评估网上消费欺诈对用户对互联网商务类应用信任度的影响程度。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 有过账号或密码被盗经历的网民达到1.21亿，占24.9%，较2010年底增加3.1个百分点。",
+        "Comparison: 即时通信用户规模为3.85亿，增长率为9.2%，显示出相较于其他应用的稳定增长。",
+        "Extreme: 遇到病毒或木马攻击的网民数量在半年内增加735万人，反映出安全威胁的上升。",
+        "Attribution: 安全的网络消费环境被认为是提高用户使用频率和吸引新用户的重要因素。"
+    ],
+    "summary": "本报告探讨了中国互联网的安全环境，分析了用户在网上消费中的安全问题及其对互联网应用的影响。",
+    "flag_id": "flag-185",
+    "classifier": "Internet Dev.",
+    "classifier_cn": "互联网发展",
+    "input_files": [
+        "output/business_background.txt",
+        "output/dimension_data.db",
+        "output/user_event_fact.csv",
+        "output/user_profiles.json"
+    ]
+}

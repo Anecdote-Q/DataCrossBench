@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "platform_name": "爱奇艺",
+    "platform_type": "视频平台",
+    "mau": 66069757,
+    "comparison_date": "2023-10-01",
+    "competition_index": 0.333,
+    "feature_tags": "[\"正版内容\", \"独家剧集\", \"会员制\"]"
+  },
+  {
+    "id": 2,
+    "platform_name": "腾讯视频",
+    "platform_type": "视频平台",
+    "mau": 56510988,
+    "comparison_date": "2023-10-06",
+    "competition_index": 0.285,
+    "feature_tags": "[\"直播+点播\", \"用户多\"]"
+  },
+  {
+    "id": 3,
+    "platform_name": "优酷",
+    "platform_type": "视频平台",
+    "mau": 198183881,
+    "comparison_date": "2023-10-11",
+    "competition_index": 1.0,
+    "feature_tags": "[\"自制综艺\", \"多屏互动\"]"
+  },
+  {
+    "id": 4,
+    "platform_name": "芒果TV",
+    "platform_type": "视频平台",
+    "mau": 40557704,
+    "comparison_date": "2023-10-16",
+    "competition_index": 0.205,
+    "feature_tags": "[\"年轻化\", \"短视频结合\"]"
+  },
+  {
+    "id": 5,
+    "platform_name": "B站",
+    "platform_type": "社交平台",
+    "mau": 63363988,
+    "comparison_date": "2023-10-21",
+    "competition_index": 0.32,
+    "feature_tags": "[\"弹幕互动\", \"二次元文化\"]"
+  }
+]

@@ -1,0 +1,20 @@
+{
+    "goal": "比较中国金融科技与美国、英国和新加坡的市场增长速度及其原因。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 2023年全球金融科技领域投资稳健增长，尤其是在中国、美国、英国和新加坡等国家，投融资增长依然稳健。",
+        "Comparison: 东南亚市场占比31.3%，北美市场占比22.4%，显示出中国金融科技企业在国际市场的多元化布局。",
+        "Extreme: 2022年中国证券行业金融科技投入显著增长，20家上市券商总投入超过209亿元，华泰证券以27.24亿元的投入稳居首位。",
+        "Attribution: 人工智能技术的崛起推动了金融科技的发展，成为促进金融数字化转型的关键力量，尤其是在文字、语音和图像处理方面表现突出。"
+    ],
+    "summary": "本报告分析了中国金融科技与数字金融的现状、趋势及未来展望，强调了技术创新、市场扩展及政策支持对行业发展的重要性。",
+    "flag_id": "flag-7",
+    "classifier": "FinTech",
+    "classifier_cn": "金融科技",
+    "input_files": [
+        "output/business_background.txt",
+        "output/fintech_investment.png",
+        "output/market_data.db",
+        "output/technology_impact.json"
+    ]
+}

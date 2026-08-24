@@ -1,0 +1,18 @@
+{
+    "goal": "评估ReelShort在北美市场的本土化原创和IAP模式对其市场领导地位的影响。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 随着IAA模式在中国市场的快速增长，市场竞争格局趋于稳定，用户留存率提升。",
+        "Comparison: 中文在线持有Crazy Maple Studio 49.2%股权，显示出其在短剧市场的战略布局。",
+        "Extreme: 2024年FlexTV活跃用户为1000万，北美活跃用户占20.5%，亚太地区占36.5%，显示出其市场渗透率的优势。",
+        "Attribution: 随着短剧平台将剧集剪辑成短视频广告素材，导致其在社交媒体上进行大规模投放，提升了用户增长和盈利闭环。"
+    ],
+    "summary": "短剧市场的竞争格局正在逐渐稳定，头部平台的品牌效应逐步形成，投资机会主要集中在具备跨界潜力的公司和全产业链龙头企业。",
+    "flag_id": "flag-37",
+    "classifier": "Short-form Drama",
+    "classifier_cn": "短剧/微短剧内容",
+    "input_files": [
+        "output/dimension_data.db",
+        "output/orders_fact.png"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "goal": "评估政策支持对银行业数智化转型的具体影响及其对金融信息服务行业发展的贡献。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 银行业IT投入规模自2019年起以11.86%的复合增长率稳定增长，预计于2024年突破3000亿元。",
+        "Comparison: 2022年中国保险业IT解决方案市场规模达到107.6亿元，增长6.3%，与金融信息服务行业的增长趋势相呼应。",
+        "Extreme: 2021年证券公司IT人员总数为30952人，同比增长19.7%，显示出行业对技术人才的需求急剧上升。",
+        "Attribution: 金融信息服务的特殊性和客户的敏感性使得企业需要保有较大规模的用户群，才能获得一定数量的收费用户群并形成规模效应。"
+    ],
+    "summary": "本报告探讨了中国金融信息服务行业的发展趋势、市场规模及政策背景，分析了行业的未来潜力与风险。",
+    "flag_id": "flag-50",
+    "classifier": "FinTech",
+    "classifier_cn": "金融科技",
+    "input_files": [
+        "output/financial_background.txt",
+        "output/financial_it_investment.csv",
+        "output/financial_service_dimension.db",
+        "output/insurance_customer_profiles.json",
+        "output/insurance_it_market.csv",
+        "output/securities_it_personnel.csv"
+    ]
+}

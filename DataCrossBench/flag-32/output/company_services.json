@@ -1,0 +1,7043 @@
+[
+  {
+    "company_id": 1,
+    "services_offered": [
+      "身份验证",
+      "合规辅导",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 2,
+    "services_offered": [
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 3,
+    "services_offered": [
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 4,
+    "services_offered": [
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 5,
+    "services_offered": [
+      "反欺诈",
+      "身份验证",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 6,
+    "services_offered": [
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 7,
+    "services_offered": [
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 8,
+    "services_offered": [
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 9,
+    "services_offered": [
+      "身份验证",
+      "反欺诈",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 10,
+    "services_offered": [
+      "合规辅导",
+      "反欺诈",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 11,
+    "services_offered": [
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 12,
+    "services_offered": [
+      "借贷平台",
+      "身份验证",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 13,
+    "services_offered": [
+      "数据分析",
+      "借贷平台",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 14,
+    "services_offered": [
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 15,
+    "services_offered": [
+      "身份验证",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 16,
+    "services_offered": [
+      "身份验证",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 17,
+    "services_offered": [
+      "反欺诈",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 18,
+    "services_offered": [
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 19,
+    "services_offered": [
+      "反欺诈",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 20,
+    "services_offered": [
+      "身份验证",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 21,
+    "services_offered": [
+      "合规辅导",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 22,
+    "services_offered": [
+      "反欺诈",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 23,
+    "services_offered": [
+      "身份验证",
+      "合规辅导",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 24,
+    "services_offered": [
+      "身份验证",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 25,
+    "services_offered": [
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 26,
+    "services_offered": [
+      "数据分析",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 27,
+    "services_offered": [
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 28,
+    "services_offered": [
+      "支付解决方案",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 29,
+    "services_offered": [
+      "合规辅导",
+      "身份验证",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 30,
+    "services_offered": [
+      "合规辅导",
+      "支付解决方案",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 31,
+    "services_offered": [
+      "数据分析",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 32,
+    "services_offered": [
+      "合规辅导",
+      "反欺诈",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 33,
+    "services_offered": [
+      "借贷平台",
+      "身份验证",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 34,
+    "services_offered": [
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 35,
+    "services_offered": [
+      "借贷平台",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 36,
+    "services_offered": [
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 37,
+    "services_offered": [
+      "借贷平台",
+      "支付解决方案",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 38,
+    "services_offered": [
+      "合规辅导",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 39,
+    "services_offered": [
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 40,
+    "services_offered": [
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 41,
+    "services_offered": [
+      "反欺诈",
+      "合规辅导",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 42,
+    "services_offered": [
+      "反欺诈",
+      "数据分析",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 43,
+    "services_offered": [
+      "支付解决方案",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 44,
+    "services_offered": [
+      "数据分析",
+      "身份验证",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 45,
+    "services_offered": [
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 46,
+    "services_offered": [
+      "支付解决方案",
+      "数据分析",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 47,
+    "services_offered": [
+      "数据分析",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 48,
+    "services_offered": [
+      "反欺诈",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 49,
+    "services_offered": [
+      "身份验证",
+      "合规辅导",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 50,
+    "services_offered": [
+      "借贷平台",
+      "身份验证",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 51,
+    "services_offered": [
+      "支付解决方案",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 52,
+    "services_offered": [
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 53,
+    "services_offered": [
+      "借贷平台",
+      "反欺诈",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 54,
+    "services_offered": [
+      "身份验证",
+      "借贷平台",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 55,
+    "services_offered": [
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 56,
+    "services_offered": [
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 57,
+    "services_offered": [
+      "身份验证",
+      "反欺诈",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 58,
+    "services_offered": [
+      "身份验证",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 59,
+    "services_offered": [
+      "借贷平台",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 60,
+    "services_offered": [
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 61,
+    "services_offered": [
+      "身份验证",
+      "合规辅导",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 62,
+    "services_offered": [
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 63,
+    "services_offered": [
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 64,
+    "services_offered": [
+      "数据分析",
+      "反欺诈",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 65,
+    "services_offered": [
+      "反欺诈",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 66,
+    "services_offered": [
+      "支付解决方案",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 67,
+    "services_offered": [
+      "合规辅导",
+      "支付解决方案",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 68,
+    "services_offered": [
+      "合规辅导",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 69,
+    "services_offered": [
+      "反欺诈",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 70,
+    "services_offered": [
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 71,
+    "services_offered": [
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 72,
+    "services_offered": [
+      "身份验证",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 73,
+    "services_offered": [
+      "支付解决方案",
+      "反欺诈",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 74,
+    "services_offered": [
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 75,
+    "services_offered": [
+      "合规辅导",
+      "身份验证",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 76,
+    "services_offered": [
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 77,
+    "services_offered": [
+      "身份验证",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 78,
+    "services_offered": [
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 79,
+    "services_offered": [
+      "数据分析",
+      "支付解决方案",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 80,
+    "services_offered": [
+      "反欺诈",
+      "合规辅导",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 81,
+    "services_offered": [
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 82,
+    "services_offered": [
+      "支付解决方案",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 83,
+    "services_offered": [
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 84,
+    "services_offered": [
+      "借贷平台",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 85,
+    "services_offered": [
+      "数据分析",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 86,
+    "services_offered": [
+      "合规辅导",
+      "身份验证",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 87,
+    "services_offered": [
+      "合规辅导",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 88,
+    "services_offered": [
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 89,
+    "services_offered": [
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 90,
+    "services_offered": [
+      "数据分析",
+      "支付解决方案",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 91,
+    "services_offered": [
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 92,
+    "services_offered": [
+      "支付解决方案",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 93,
+    "services_offered": [
+      "反欺诈",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 94,
+    "services_offered": [
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 95,
+    "services_offered": [
+      "身份验证",
+      "合规辅导",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 96,
+    "services_offered": [
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 97,
+    "services_offered": [
+      "数据分析",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 98,
+    "services_offered": [
+      "身份验证",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 99,
+    "services_offered": [
+      "身份验证",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 100,
+    "services_offered": [
+      "数据分析",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 101,
+    "services_offered": [
+      "合规辅导",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 102,
+    "services_offered": [
+      "合规辅导",
+      "数据分析",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 103,
+    "services_offered": [
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 104,
+    "services_offered": [
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 105,
+    "services_offered": [
+      "合规辅导",
+      "反欺诈",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 106,
+    "services_offered": [
+      "借贷平台",
+      "身份验证",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 107,
+    "services_offered": [
+      "数据分析",
+      "反欺诈",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 108,
+    "services_offered": [
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 109,
+    "services_offered": [
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 110,
+    "services_offered": [
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 111,
+    "services_offered": [
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 112,
+    "services_offered": [
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 113,
+    "services_offered": [
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 114,
+    "services_offered": [
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 115,
+    "services_offered": [
+      "身份验证",
+      "反欺诈",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 116,
+    "services_offered": [
+      "合规辅导",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 117,
+    "services_offered": [
+      "反欺诈",
+      "借贷平台",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 118,
+    "services_offered": [
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 119,
+    "services_offered": [
+      "借贷平台",
+      "支付解决方案",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 120,
+    "services_offered": [
+      "支付解决方案",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 121,
+    "services_offered": [
+      "借贷平台",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 122,
+    "services_offered": [
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 123,
+    "services_offered": [
+      "反欺诈",
+      "身份验证",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 124,
+    "services_offered": [
+      "支付解决方案",
+      "反欺诈",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 125,
+    "services_offered": [
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 126,
+    "services_offered": [
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 127,
+    "services_offered": [
+      "借贷平台",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 128,
+    "services_offered": [
+      "反欺诈",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 129,
+    "services_offered": [
+      "合规辅导",
+      "反欺诈",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 130,
+    "services_offered": [
+      "反欺诈",
+      "借贷平台",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 131,
+    "services_offered": [
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 132,
+    "services_offered": [
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 133,
+    "services_offered": [
+      "反欺诈",
+      "支付解决方案",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 134,
+    "services_offered": [
+      "反欺诈",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 135,
+    "services_offered": [
+      "借贷平台",
+      "支付解决方案",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 136,
+    "services_offered": [
+      "数据分析",
+      "借贷平台",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 137,
+    "services_offered": [
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 138,
+    "services_offered": [
+      "借贷平台",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 139,
+    "services_offered": [
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 140,
+    "services_offered": [
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 141,
+    "services_offered": [
+      "支付解决方案",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 142,
+    "services_offered": [
+      "合规辅导",
+      "数据分析",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 143,
+    "services_offered": [
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 144,
+    "services_offered": [
+      "支付解决方案",
+      "反欺诈",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 145,
+    "services_offered": [
+      "反欺诈",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 146,
+    "services_offered": [
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 147,
+    "services_offered": [
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 148,
+    "services_offered": [
+      "借贷平台",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 149,
+    "services_offered": [
+      "支付解决方案",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 150,
+    "services_offered": [
+      "身份验证",
+      "借贷平台",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 151,
+    "services_offered": [
+      "合规辅导",
+      "支付解决方案",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 152,
+    "services_offered": [
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 153,
+    "services_offered": [
+      "身份验证",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 154,
+    "services_offered": [
+      "借贷平台",
+      "数据分析",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 155,
+    "services_offered": [
+      "支付解决方案",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 156,
+    "services_offered": [
+      "身份验证",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 157,
+    "services_offered": [
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 158,
+    "services_offered": [
+      "借贷平台",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 159,
+    "services_offered": [
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 160,
+    "services_offered": [
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 161,
+    "services_offered": [
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 162,
+    "services_offered": [
+      "借贷平台",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 163,
+    "services_offered": [
+      "借贷平台",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 164,
+    "services_offered": [
+      "合规辅导",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 165,
+    "services_offered": [
+      "身份验证",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 166,
+    "services_offered": [
+      "支付解决方案",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 167,
+    "services_offered": [
+      "身份验证",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 168,
+    "services_offered": [
+      "数据分析",
+      "借贷平台",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 169,
+    "services_offered": [
+      "反欺诈",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 170,
+    "services_offered": [
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 171,
+    "services_offered": [
+      "支付解决方案",
+      "借贷平台",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 172,
+    "services_offered": [
+      "数据分析",
+      "身份验证",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 173,
+    "services_offered": [
+      "数据分析",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 174,
+    "services_offered": [
+      "借贷平台",
+      "反欺诈",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 175,
+    "services_offered": [
+      "身份验证",
+      "借贷平台",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 176,
+    "services_offered": [
+      "数据分析",
+      "借贷平台",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 177,
+    "services_offered": [
+      "借贷平台",
+      "反欺诈",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 178,
+    "services_offered": [
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 179,
+    "services_offered": [
+      "数据分析",
+      "支付解决方案",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 180,
+    "services_offered": [
+      "反欺诈",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 181,
+    "services_offered": [
+      "借贷平台",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 182,
+    "services_offered": [
+      "反欺诈",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 183,
+    "services_offered": [
+      "借贷平台",
+      "数据分析",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 184,
+    "services_offered": [
+      "合规辅导",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 185,
+    "services_offered": [
+      "数据分析",
+      "支付解决方案",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 186,
+    "services_offered": [
+      "反欺诈",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 187,
+    "services_offered": [
+      "身份验证",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 188,
+    "services_offered": [
+      "借贷平台",
+      "支付解决方案",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 189,
+    "services_offered": [
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 190,
+    "services_offered": [
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 191,
+    "services_offered": [
+      "反欺诈",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 192,
+    "services_offered": [
+      "数据分析",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 193,
+    "services_offered": [
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 194,
+    "services_offered": [
+      "数据分析",
+      "合规辅导",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 195,
+    "services_offered": [
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 196,
+    "services_offered": [
+      "合规辅导",
+      "身份验证",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 197,
+    "services_offered": [
+      "支付解决方案",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 198,
+    "services_offered": [
+      "反欺诈",
+      "数据分析",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 199,
+    "services_offered": [
+      "支付解决方案",
+      "身份验证",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 200,
+    "services_offered": [
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 201,
+    "services_offered": [
+      "反欺诈",
+      "合规辅导",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 202,
+    "services_offered": [
+      "反欺诈",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 203,
+    "services_offered": [
+      "反欺诈",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 204,
+    "services_offered": [
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 205,
+    "services_offered": [
+      "数据分析",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 206,
+    "services_offered": [
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 207,
+    "services_offered": [
+      "反欺诈",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 208,
+    "services_offered": [
+      "支付解决方案",
+      "借贷平台",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 209,
+    "services_offered": [
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 210,
+    "services_offered": [
+      "支付解决方案",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 211,
+    "services_offered": [
+      "借贷平台",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 212,
+    "services_offered": [
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 213,
+    "services_offered": [
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 214,
+    "services_offered": [
+      "合规辅导",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 215,
+    "services_offered": [
+      "支付解决方案",
+      "身份验证",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 216,
+    "services_offered": [
+      "借贷平台",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 217,
+    "services_offered": [
+      "数据分析",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 218,
+    "services_offered": [
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 219,
+    "services_offered": [
+      "反欺诈",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 220,
+    "services_offered": [
+      "数据分析",
+      "合规辅导",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 221,
+    "services_offered": [
+      "借贷平台",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 222,
+    "services_offered": [
+      "反欺诈",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 223,
+    "services_offered": [
+      "支付解决方案",
+      "数据分析",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 224,
+    "services_offered": [
+      "数据分析",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 225,
+    "services_offered": [
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 226,
+    "services_offered": [
+      "合规辅导",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 227,
+    "services_offered": [
+      "支付解决方案",
+      "数据分析",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 228,
+    "services_offered": [
+      "反欺诈",
+      "身份验证",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 229,
+    "services_offered": [
+      "反欺诈",
+      "身份验证",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 230,
+    "services_offered": [
+      "数据分析",
+      "支付解决方案",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 231,
+    "services_offered": [
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 232,
+    "services_offered": [
+      "数据分析",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 233,
+    "services_offered": [
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 234,
+    "services_offered": [
+      "借贷平台",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 235,
+    "services_offered": [
+      "数据分析",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 236,
+    "services_offered": [
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 237,
+    "services_offered": [
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 238,
+    "services_offered": [
+      "身份验证",
+      "借贷平台",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 239,
+    "services_offered": [
+      "身份验证",
+      "合规辅导",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 240,
+    "services_offered": [
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 241,
+    "services_offered": [
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 242,
+    "services_offered": [
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 243,
+    "services_offered": [
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 244,
+    "services_offered": [
+      "身份验证",
+      "反欺诈",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 245,
+    "services_offered": [
+      "合规辅导",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 246,
+    "services_offered": [
+      "支付解决方案",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 247,
+    "services_offered": [
+      "合规辅导",
+      "身份验证",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 248,
+    "services_offered": [
+      "身份验证",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 249,
+    "services_offered": [
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 250,
+    "services_offered": [
+      "合规辅导",
+      "数据分析",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 251,
+    "services_offered": [
+      "支付解决方案",
+      "身份验证",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 252,
+    "services_offered": [
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 253,
+    "services_offered": [
+      "合规辅导",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 254,
+    "services_offered": [
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 255,
+    "services_offered": [
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 256,
+    "services_offered": [
+      "数据分析",
+      "借贷平台",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 257,
+    "services_offered": [
+      "合规辅导",
+      "借贷平台",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 258,
+    "services_offered": [
+      "数据分析",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 259,
+    "services_offered": [
+      "借贷平台",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 260,
+    "services_offered": [
+      "支付解决方案",
+      "数据分析",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 261,
+    "services_offered": [
+      "反欺诈",
+      "借贷平台",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 262,
+    "services_offered": [
+      "数据分析",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 263,
+    "services_offered": [
+      "借贷平台",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 264,
+    "services_offered": [
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 265,
+    "services_offered": [
+      "支付解决方案",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 266,
+    "services_offered": [
+      "反欺诈",
+      "数据分析",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 267,
+    "services_offered": [
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 268,
+    "services_offered": [
+      "支付解决方案",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 269,
+    "services_offered": [
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 270,
+    "services_offered": [
+      "借贷平台",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 271,
+    "services_offered": [
+      "合规辅导",
+      "借贷平台",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 272,
+    "services_offered": [
+      "支付解决方案",
+      "身份验证",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 273,
+    "services_offered": [
+      "数据分析",
+      "合规辅导",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 274,
+    "services_offered": [
+      "数据分析",
+      "合规辅导",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 275,
+    "services_offered": [
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 276,
+    "services_offered": [
+      "支付解决方案",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 277,
+    "services_offered": [
+      "支付解决方案",
+      "借贷平台",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 278,
+    "services_offered": [
+      "反欺诈",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 279,
+    "services_offered": [
+      "数据分析",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 280,
+    "services_offered": [
+      "借贷平台",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 281,
+    "services_offered": [
+      "借贷平台",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 282,
+    "services_offered": [
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 283,
+    "services_offered": [
+      "支付解决方案",
+      "借贷平台",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 284,
+    "services_offered": [
+      "反欺诈",
+      "支付解决方案",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 285,
+    "services_offered": [
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 286,
+    "services_offered": [
+      "借贷平台",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 287,
+    "services_offered": [
+      "反欺诈",
+      "借贷平台",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 288,
+    "services_offered": [
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 289,
+    "services_offered": [
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 290,
+    "services_offered": [
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 291,
+    "services_offered": [
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 292,
+    "services_offered": [
+      "支付解决方案",
+      "借贷平台",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 293,
+    "services_offered": [
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 294,
+    "services_offered": [
+      "合规辅导",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 295,
+    "services_offered": [
+      "数据分析",
+      "身份验证",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 296,
+    "services_offered": [
+      "借贷平台",
+      "数据分析",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 297,
+    "services_offered": [
+      "借贷平台",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 298,
+    "services_offered": [
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 299,
+    "services_offered": [
+      "身份验证",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 300,
+    "services_offered": [
+      "数据分析",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 301,
+    "services_offered": [
+      "合规辅导",
+      "身份验证",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 302,
+    "services_offered": [
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 303,
+    "services_offered": [
+      "身份验证",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 304,
+    "services_offered": [
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 305,
+    "services_offered": [
+      "反欺诈",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 306,
+    "services_offered": [
+      "支付解决方案",
+      "反欺诈",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 307,
+    "services_offered": [
+      "数据分析",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 308,
+    "services_offered": [
+      "数据分析",
+      "借贷平台",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 309,
+    "services_offered": [
+      "合规辅导",
+      "身份验证",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 310,
+    "services_offered": [
+      "支付解决方案",
+      "借贷平台",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 311,
+    "services_offered": [
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 312,
+    "services_offered": [
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 313,
+    "services_offered": [
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 314,
+    "services_offered": [
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 315,
+    "services_offered": [
+      "合规辅导",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 316,
+    "services_offered": [
+      "借贷平台",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 317,
+    "services_offered": [
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 318,
+    "services_offered": [
+      "借贷平台",
+      "数据分析",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 319,
+    "services_offered": [
+      "支付解决方案",
+      "借贷平台",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 320,
+    "services_offered": [
+      "身份验证",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 321,
+    "services_offered": [
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 322,
+    "services_offered": [
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 323,
+    "services_offered": [
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 324,
+    "services_offered": [
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 325,
+    "services_offered": [
+      "反欺诈",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 326,
+    "services_offered": [
+      "数据分析",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 327,
+    "services_offered": [
+      "合规辅导",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 328,
+    "services_offered": [
+      "数据分析",
+      "借贷平台",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 329,
+    "services_offered": [
+      "身份验证",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 330,
+    "services_offered": [
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 331,
+    "services_offered": [
+      "借贷平台",
+      "反欺诈",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 332,
+    "services_offered": [
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 333,
+    "services_offered": [
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 334,
+    "services_offered": [
+      "反欺诈",
+      "身份验证",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 335,
+    "services_offered": [
+      "身份验证",
+      "支付解决方案",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 336,
+    "services_offered": [
+      "合规辅导",
+      "数据分析",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 337,
+    "services_offered": [
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 338,
+    "services_offered": [
+      "合规辅导",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 339,
+    "services_offered": [
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 340,
+    "services_offered": [
+      "数据分析",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 341,
+    "services_offered": [
+      "合规辅导",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 342,
+    "services_offered": [
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 343,
+    "services_offered": [
+      "合规辅导",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 344,
+    "services_offered": [
+      "合规辅导",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 345,
+    "services_offered": [
+      "身份验证",
+      "数据分析",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 346,
+    "services_offered": [
+      "借贷平台",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 347,
+    "services_offered": [
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 348,
+    "services_offered": [
+      "身份验证",
+      "反欺诈",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 349,
+    "services_offered": [
+      "身份验证",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 350,
+    "services_offered": [
+      "借贷平台",
+      "反欺诈",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 351,
+    "services_offered": [
+      "数据分析",
+      "身份验证",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 352,
+    "services_offered": [
+      "反欺诈",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 353,
+    "services_offered": [
+      "数据分析",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 354,
+    "services_offered": [
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 355,
+    "services_offered": [
+      "反欺诈",
+      "支付解决方案",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 356,
+    "services_offered": [
+      "反欺诈",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 357,
+    "services_offered": [
+      "数据分析",
+      "身份验证",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 358,
+    "services_offered": [
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 359,
+    "services_offered": [
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 360,
+    "services_offered": [
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 361,
+    "services_offered": [
+      "借贷平台",
+      "反欺诈",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 362,
+    "services_offered": [
+      "数据分析",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 363,
+    "services_offered": [
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 364,
+    "services_offered": [
+      "支付解决方案",
+      "数据分析",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 365,
+    "services_offered": [
+      "反欺诈",
+      "支付解决方案",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 366,
+    "services_offered": [
+      "数据分析",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 367,
+    "services_offered": [
+      "借贷平台",
+      "身份验证",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 368,
+    "services_offered": [
+      "借贷平台",
+      "反欺诈",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 369,
+    "services_offered": [
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 370,
+    "services_offered": [
+      "数据分析",
+      "借贷平台",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 371,
+    "services_offered": [
+      "反欺诈",
+      "数据分析",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 372,
+    "services_offered": [
+      "支付解决方案",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 373,
+    "services_offered": [
+      "数据分析",
+      "支付解决方案",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 374,
+    "services_offered": [
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 375,
+    "services_offered": [
+      "数据分析",
+      "合规辅导",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 376,
+    "services_offered": [
+      "合规辅导",
+      "支付解决方案",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 377,
+    "services_offered": [
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 378,
+    "services_offered": [
+      "反欺诈",
+      "借贷平台",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 379,
+    "services_offered": [
+      "身份验证",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 380,
+    "services_offered": [
+      "身份验证",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 381,
+    "services_offered": [
+      "合规辅导",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 382,
+    "services_offered": [
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 383,
+    "services_offered": [
+      "借贷平台",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 384,
+    "services_offered": [
+      "数据分析",
+      "身份验证",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 385,
+    "services_offered": [
+      "反欺诈",
+      "数据分析",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 386,
+    "services_offered": [
+      "合规辅导",
+      "数据分析",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 387,
+    "services_offered": [
+      "身份验证",
+      "支付解决方案",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 388,
+    "services_offered": [
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 389,
+    "services_offered": [
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 390,
+    "services_offered": [
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 391,
+    "services_offered": [
+      "身份验证",
+      "数据分析",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 392,
+    "services_offered": [
+      "借贷平台",
+      "身份验证",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 393,
+    "services_offered": [
+      "身份验证",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 394,
+    "services_offered": [
+      "借贷平台",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 395,
+    "services_offered": [
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 396,
+    "services_offered": [
+      "数据分析",
+      "反欺诈",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 397,
+    "services_offered": [
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 398,
+    "services_offered": [
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 399,
+    "services_offered": [
+      "反欺诈",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 400,
+    "services_offered": [
+      "反欺诈",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 401,
+    "services_offered": [
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 402,
+    "services_offered": [
+      "借贷平台",
+      "数据分析",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 403,
+    "services_offered": [
+      "身份验证",
+      "数据分析",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 404,
+    "services_offered": [
+      "反欺诈",
+      "支付解决方案",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 405,
+    "services_offered": [
+      "借贷平台",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 406,
+    "services_offered": [
+      "合规辅导",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 407,
+    "services_offered": [
+      "借贷平台",
+      "数据分析",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 408,
+    "services_offered": [
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 409,
+    "services_offered": [
+      "身份验证",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 410,
+    "services_offered": [
+      "反欺诈",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 411,
+    "services_offered": [
+      "借贷平台",
+      "合规辅导",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 412,
+    "services_offered": [
+      "数据分析",
+      "借贷平台",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 413,
+    "services_offered": [
+      "合规辅导",
+      "身份验证",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 414,
+    "services_offered": [
+      "支付解决方案",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 415,
+    "services_offered": [
+      "支付解决方案",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 416,
+    "services_offered": [
+      "借贷平台",
+      "支付解决方案",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 417,
+    "services_offered": [
+      "合规辅导",
+      "身份验证",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 418,
+    "services_offered": [
+      "身份验证",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 419,
+    "services_offered": [
+      "合规辅导",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 420,
+    "services_offered": [
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 421,
+    "services_offered": [
+      "合规辅导",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 422,
+    "services_offered": [
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 423,
+    "services_offered": [
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 424,
+    "services_offered": [
+      "反欺诈",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 425,
+    "services_offered": [
+      "支付解决方案",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 426,
+    "services_offered": [
+      "借贷平台",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 427,
+    "services_offered": [
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 428,
+    "services_offered": [
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 429,
+    "services_offered": [
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 430,
+    "services_offered": [
+      "合规辅导",
+      "数据分析",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 431,
+    "services_offered": [
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 432,
+    "services_offered": [
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 433,
+    "services_offered": [
+      "身份验证",
+      "数据分析",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 434,
+    "services_offered": [
+      "合规辅导",
+      "借贷平台",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 435,
+    "services_offered": [
+      "借贷平台",
+      "身份验证",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 436,
+    "services_offered": [
+      "身份验证",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 437,
+    "services_offered": [
+      "借贷平台",
+      "反欺诈",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 438,
+    "services_offered": [
+      "身份验证",
+      "数据分析",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 439,
+    "services_offered": [
+      "数据分析",
+      "身份验证",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 440,
+    "services_offered": [
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 441,
+    "services_offered": [
+      "数据分析",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 442,
+    "services_offered": [
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 443,
+    "services_offered": [
+      "支付解决方案",
+      "数据分析",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 444,
+    "services_offered": [
+      "合规辅导",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 445,
+    "services_offered": [
+      "反欺诈",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 446,
+    "services_offered": [
+      "合规辅导",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 447,
+    "services_offered": [
+      "反欺诈",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 448,
+    "services_offered": [
+      "身份验证",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 449,
+    "services_offered": [
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 450,
+    "services_offered": [
+      "支付解决方案",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 451,
+    "services_offered": [
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 452,
+    "services_offered": [
+      "反欺诈",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 453,
+    "services_offered": [
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 454,
+    "services_offered": [
+      "支付解决方案",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 455,
+    "services_offered": [
+      "身份验证",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 456,
+    "services_offered": [
+      "合规辅导",
+      "反欺诈",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 457,
+    "services_offered": [
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 458,
+    "services_offered": [
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 459,
+    "services_offered": [
+      "支付解决方案",
+      "身份验证",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 460,
+    "services_offered": [
+      "支付解决方案",
+      "合规辅导",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 461,
+    "services_offered": [
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 462,
+    "services_offered": [
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 463,
+    "services_offered": [
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 464,
+    "services_offered": [
+      "借贷平台",
+      "支付解决方案",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 465,
+    "services_offered": [
+      "身份验证",
+      "支付解决方案",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 466,
+    "services_offered": [
+      "支付解决方案",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 467,
+    "services_offered": [
+      "身份验证",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 468,
+    "services_offered": [
+      "身份验证",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 469,
+    "services_offered": [
+      "数据分析",
+      "反欺诈",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 470,
+    "services_offered": [
+      "身份验证",
+      "数据分析",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 471,
+    "services_offered": [
+      "反欺诈",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 472,
+    "services_offered": [
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 473,
+    "services_offered": [
+      "支付解决方案",
+      "反欺诈",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 474,
+    "services_offered": [
+      "合规辅导",
+      "反欺诈",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 475,
+    "services_offered": [
+      "合规辅导",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 476,
+    "services_offered": [
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 477,
+    "services_offered": [
+      "数据分析",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 478,
+    "services_offered": [
+      "合规辅导",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 479,
+    "services_offered": [
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 480,
+    "services_offered": [
+      "反欺诈",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 481,
+    "services_offered": [
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 482,
+    "services_offered": [
+      "反欺诈",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 483,
+    "services_offered": [
+      "合规辅导",
+      "借贷平台",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 484,
+    "services_offered": [
+      "反欺诈",
+      "借贷平台",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 485,
+    "services_offered": [
+      "反欺诈",
+      "数据分析",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 486,
+    "services_offered": [
+      "身份验证",
+      "反欺诈",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 487,
+    "services_offered": [
+      "数据分析",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 488,
+    "services_offered": [
+      "借贷平台",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 489,
+    "services_offered": [
+      "数据分析",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 490,
+    "services_offered": [
+      "数据分析",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 491,
+    "services_offered": [
+      "借贷平台",
+      "合规辅导",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 492,
+    "services_offered": [
+      "数据分析",
+      "身份验证",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 493,
+    "services_offered": [
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 494,
+    "services_offered": [
+      "身份验证",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 495,
+    "services_offered": [
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 496,
+    "services_offered": [
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 497,
+    "services_offered": [
+      "反欺诈",
+      "借贷平台",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 498,
+    "services_offered": [
+      "借贷平台",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 499,
+    "services_offered": [
+      "身份验证",
+      "借贷平台",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 500,
+    "services_offered": [
+      "身份验证",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 501,
+    "services_offered": [
+      "支付解决方案",
+      "合规辅导",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 502,
+    "services_offered": [
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 503,
+    "services_offered": [
+      "反欺诈",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 504,
+    "services_offered": [
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 505,
+    "services_offered": [
+      "支付解决方案",
+      "数据分析",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 506,
+    "services_offered": [
+      "合规辅导",
+      "借贷平台",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 507,
+    "services_offered": [
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 508,
+    "services_offered": [
+      "借贷平台",
+      "合规辅导",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 509,
+    "services_offered": [
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 510,
+    "services_offered": [
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 511,
+    "services_offered": [
+      "数据分析",
+      "身份验证",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 512,
+    "services_offered": [
+      "合规辅导",
+      "身份验证",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 513,
+    "services_offered": [
+      "反欺诈",
+      "支付解决方案",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 514,
+    "services_offered": [
+      "数据分析",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 515,
+    "services_offered": [
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 516,
+    "services_offered": [
+      "合规辅导",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 517,
+    "services_offered": [
+      "反欺诈",
+      "身份验证",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 518,
+    "services_offered": [
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 519,
+    "services_offered": [
+      "身份验证",
+      "合规辅导",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 520,
+    "services_offered": [
+      "合规辅导",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 521,
+    "services_offered": [
+      "反欺诈",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 522,
+    "services_offered": [
+      "借贷平台",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 523,
+    "services_offered": [
+      "身份验证",
+      "借贷平台",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 524,
+    "services_offered": [
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 525,
+    "services_offered": [
+      "合规辅导",
+      "反欺诈",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 526,
+    "services_offered": [
+      "合规辅导",
+      "借贷平台",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 527,
+    "services_offered": [
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 528,
+    "services_offered": [
+      "身份验证",
+      "合规辅导",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 529,
+    "services_offered": [
+      "支付解决方案",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 530,
+    "services_offered": [
+      "借贷平台",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 531,
+    "services_offered": [
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 532,
+    "services_offered": [
+      "合规辅导",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 533,
+    "services_offered": [
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 534,
+    "services_offered": [
+      "反欺诈",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 535,
+    "services_offered": [
+      "反欺诈",
+      "借贷平台",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 536,
+    "services_offered": [
+      "合规辅导",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 537,
+    "services_offered": [
+      "身份验证",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 538,
+    "services_offered": [
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 539,
+    "services_offered": [
+      "数据分析",
+      "反欺诈",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 540,
+    "services_offered": [
+      "合规辅导",
+      "数据分析",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 541,
+    "services_offered": [
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 542,
+    "services_offered": [
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 543,
+    "services_offered": [
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 544,
+    "services_offered": [
+      "合规辅导",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 545,
+    "services_offered": [
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 546,
+    "services_offered": [
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 547,
+    "services_offered": [
+      "反欺诈",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 548,
+    "services_offered": [
+      "身份验证",
+      "数据分析",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 549,
+    "services_offered": [
+      "借贷平台",
+      "支付解决方案",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 550,
+    "services_offered": [
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 551,
+    "services_offered": [
+      "合规辅导",
+      "身份验证",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 552,
+    "services_offered": [
+      "借贷平台",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 553,
+    "services_offered": [
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 554,
+    "services_offered": [
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 555,
+    "services_offered": [
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 556,
+    "services_offered": [
+      "支付解决方案",
+      "身份验证",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 557,
+    "services_offered": [
+      "数据分析",
+      "合规辅导",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 558,
+    "services_offered": [
+      "反欺诈",
+      "合规辅导",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 559,
+    "services_offered": [
+      "借贷平台",
+      "支付解决方案",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 560,
+    "services_offered": [
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 561,
+    "services_offered": [
+      "合规辅导",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 562,
+    "services_offered": [
+      "反欺诈",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 563,
+    "services_offered": [
+      "反欺诈",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 564,
+    "services_offered": [
+      "数据分析",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 565,
+    "services_offered": [
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 566,
+    "services_offered": [
+      "借贷平台",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 567,
+    "services_offered": [
+      "身份验证",
+      "反欺诈",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 568,
+    "services_offered": [
+      "反欺诈",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 569,
+    "services_offered": [
+      "身份验证",
+      "数据分析",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 570,
+    "services_offered": [
+      "反欺诈",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 571,
+    "services_offered": [
+      "支付解决方案",
+      "身份验证",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 572,
+    "services_offered": [
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 573,
+    "services_offered": [
+      "身份验证",
+      "反欺诈",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 574,
+    "services_offered": [
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 575,
+    "services_offered": [
+      "数据分析",
+      "合规辅导",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 576,
+    "services_offered": [
+      "借贷平台",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 577,
+    "services_offered": [
+      "数据分析",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 578,
+    "services_offered": [
+      "反欺诈",
+      "身份验证",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 579,
+    "services_offered": [
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 580,
+    "services_offered": [
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 581,
+    "services_offered": [
+      "数据分析",
+      "借贷平台",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 582,
+    "services_offered": [
+      "合规辅导",
+      "反欺诈",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 583,
+    "services_offered": [
+      "身份验证",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 584,
+    "services_offered": [
+      "支付解决方案",
+      "借贷平台",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 585,
+    "services_offered": [
+      "合规辅导",
+      "数据分析",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 586,
+    "services_offered": [
+      "合规辅导",
+      "身份验证",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 587,
+    "services_offered": [
+      "数据分析",
+      "借贷平台",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 588,
+    "services_offered": [
+      "合规辅导",
+      "反欺诈",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 589,
+    "services_offered": [
+      "合规辅导",
+      "数据分析",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 590,
+    "services_offered": [
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 591,
+    "services_offered": [
+      "支付解决方案",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 592,
+    "services_offered": [
+      "数据分析",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 593,
+    "services_offered": [
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 594,
+    "services_offered": [
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 595,
+    "services_offered": [
+      "身份验证",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 596,
+    "services_offered": [
+      "合规辅导",
+      "反欺诈",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 597,
+    "services_offered": [
+      "借贷平台",
+      "反欺诈",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 598,
+    "services_offered": [
+      "数据分析",
+      "支付解决方案",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 599,
+    "services_offered": [
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 600,
+    "services_offered": [
+      "支付解决方案",
+      "数据分析",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 601,
+    "services_offered": [
+      "借贷平台",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 602,
+    "services_offered": [
+      "反欺诈",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 603,
+    "services_offered": [
+      "数据分析",
+      "支付解决方案",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 604,
+    "services_offered": [
+      "数据分析",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 605,
+    "services_offered": [
+      "合规辅导",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 606,
+    "services_offered": [
+      "数据分析",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 607,
+    "services_offered": [
+      "反欺诈",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 608,
+    "services_offered": [
+      "支付解决方案",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 609,
+    "services_offered": [
+      "支付解决方案",
+      "借贷平台",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 610,
+    "services_offered": [
+      "数据分析",
+      "借贷平台",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 611,
+    "services_offered": [
+      "反欺诈",
+      "身份验证",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 612,
+    "services_offered": [
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 613,
+    "services_offered": [
+      "数据分析",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 614,
+    "services_offered": [
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 615,
+    "services_offered": [
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 616,
+    "services_offered": [
+      "借贷平台",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 617,
+    "services_offered": [
+      "身份验证",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 618,
+    "services_offered": [
+      "借贷平台",
+      "支付解决方案",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 619,
+    "services_offered": [
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 620,
+    "services_offered": [
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 621,
+    "services_offered": [
+      "身份验证",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 622,
+    "services_offered": [
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 623,
+    "services_offered": [
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 624,
+    "services_offered": [
+      "合规辅导",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 625,
+    "services_offered": [
+      "数据分析",
+      "合规辅导",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 626,
+    "services_offered": [
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 627,
+    "services_offered": [
+      "支付解决方案",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 628,
+    "services_offered": [
+      "合规辅导",
+      "反欺诈",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 629,
+    "services_offered": [
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 630,
+    "services_offered": [
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 631,
+    "services_offered": [
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 632,
+    "services_offered": [
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 633,
+    "services_offered": [
+      "反欺诈",
+      "数据分析",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 634,
+    "services_offered": [
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 635,
+    "services_offered": [
+      "反欺诈",
+      "身份验证",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 636,
+    "services_offered": [
+      "支付解决方案",
+      "借贷平台",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 637,
+    "services_offered": [
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 638,
+    "services_offered": [
+      "支付解决方案",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 639,
+    "services_offered": [
+      "支付解决方案",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 640,
+    "services_offered": [
+      "借贷平台",
+      "身份验证",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 641,
+    "services_offered": [
+      "数据分析",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 642,
+    "services_offered": [
+      "数据分析",
+      "借贷平台",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 643,
+    "services_offered": [
+      "身份验证",
+      "借贷平台",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 644,
+    "services_offered": [
+      "支付解决方案",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 645,
+    "services_offered": [
+      "合规辅导",
+      "借贷平台",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 646,
+    "services_offered": [
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 647,
+    "services_offered": [
+      "借贷平台",
+      "支付解决方案",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 648,
+    "services_offered": [
+      "数据分析",
+      "支付解决方案",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 649,
+    "services_offered": [
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 650,
+    "services_offered": [
+      "身份验证",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 651,
+    "services_offered": [
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 652,
+    "services_offered": [
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 653,
+    "services_offered": [
+      "借贷平台",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 654,
+    "services_offered": [
+      "反欺诈",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 655,
+    "services_offered": [
+      "身份验证",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 656,
+    "services_offered": [
+      "借贷平台",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 657,
+    "services_offered": [
+      "借贷平台",
+      "合规辅导",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 658,
+    "services_offered": [
+      "数据分析",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 659,
+    "services_offered": [
+      "数据分析",
+      "合规辅导",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 660,
+    "services_offered": [
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 661,
+    "services_offered": [
+      "数据分析",
+      "借贷平台",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 662,
+    "services_offered": [
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 663,
+    "services_offered": [
+      "身份验证",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 664,
+    "services_offered": [
+      "支付解决方案",
+      "反欺诈",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 665,
+    "services_offered": [
+      "身份验证",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 666,
+    "services_offered": [
+      "合规辅导",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 667,
+    "services_offered": [
+      "数据分析",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 668,
+    "services_offered": [
+      "数据分析",
+      "支付解决方案",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 669,
+    "services_offered": [
+      "数据分析",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 670,
+    "services_offered": [
+      "借贷平台",
+      "反欺诈",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 671,
+    "services_offered": [
+      "合规辅导",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 672,
+    "services_offered": [
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 673,
+    "services_offered": [
+      "数据分析",
+      "借贷平台",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 674,
+    "services_offered": [
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 675,
+    "services_offered": [
+      "合规辅导",
+      "数据分析",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 676,
+    "services_offered": [
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 677,
+    "services_offered": [
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 678,
+    "services_offered": [
+      "借贷平台",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 679,
+    "services_offered": [
+      "身份验证",
+      "反欺诈",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 680,
+    "services_offered": [
+      "数据分析",
+      "借贷平台",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 681,
+    "services_offered": [
+      "身份验证",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 682,
+    "services_offered": [
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 683,
+    "services_offered": [
+      "数据分析",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 684,
+    "services_offered": [
+      "借贷平台",
+      "支付解决方案",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 685,
+    "services_offered": [
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 686,
+    "services_offered": [
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 687,
+    "services_offered": [
+      "数据分析",
+      "反欺诈",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 688,
+    "services_offered": [
+      "借贷平台",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 689,
+    "services_offered": [
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 690,
+    "services_offered": [
+      "合规辅导",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 691,
+    "services_offered": [
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 692,
+    "services_offered": [
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 693,
+    "services_offered": [
+      "支付解决方案",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 694,
+    "services_offered": [
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 695,
+    "services_offered": [
+      "合规辅导",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 696,
+    "services_offered": [
+      "身份验证",
+      "反欺诈",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 697,
+    "services_offered": [
+      "支付解决方案",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 698,
+    "services_offered": [
+      "反欺诈",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 699,
+    "services_offered": [
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 700,
+    "services_offered": [
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 701,
+    "services_offered": [
+      "身份验证",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 702,
+    "services_offered": [
+      "反欺诈",
+      "借贷平台",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 703,
+    "services_offered": [
+      "支付解决方案",
+      "反欺诈",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 704,
+    "services_offered": [
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 705,
+    "services_offered": [
+      "合规辅导",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 706,
+    "services_offered": [
+      "数据分析",
+      "合规辅导",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 707,
+    "services_offered": [
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 708,
+    "services_offered": [
+      "身份验证",
+      "数据分析",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 709,
+    "services_offered": [
+      "反欺诈",
+      "借贷平台",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 710,
+    "services_offered": [
+      "合规辅导",
+      "反欺诈",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 711,
+    "services_offered": [
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 712,
+    "services_offered": [
+      "身份验证",
+      "合规辅导",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 713,
+    "services_offered": [
+      "支付解决方案",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 714,
+    "services_offered": [
+      "合规辅导",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 715,
+    "services_offered": [
+      "反欺诈",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 716,
+    "services_offered": [
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 717,
+    "services_offered": [
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 718,
+    "services_offered": [
+      "借贷平台",
+      "支付解决方案",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 719,
+    "services_offered": [
+      "反欺诈",
+      "身份验证",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 720,
+    "services_offered": [
+      "反欺诈",
+      "支付解决方案",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 721,
+    "services_offered": [
+      "反欺诈",
+      "合规辅导",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 722,
+    "services_offered": [
+      "身份验证",
+      "合规辅导",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 723,
+    "services_offered": [
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 724,
+    "services_offered": [
+      "借贷平台",
+      "支付解决方案",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 725,
+    "services_offered": [
+      "合规辅导",
+      "身份验证",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 726,
+    "services_offered": [
+      "反欺诈",
+      "借贷平台",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 727,
+    "services_offered": [
+      "支付解决方案",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 728,
+    "services_offered": [
+      "数据分析",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 729,
+    "services_offered": [
+      "身份验证",
+      "支付解决方案",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 730,
+    "services_offered": [
+      "数据分析",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 731,
+    "services_offered": [
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 732,
+    "services_offered": [
+      "支付解决方案",
+      "借贷平台",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 733,
+    "services_offered": [
+      "借贷平台",
+      "数据分析",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 734,
+    "services_offered": [
+      "反欺诈",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 735,
+    "services_offered": [
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 736,
+    "services_offered": [
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 737,
+    "services_offered": [
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 738,
+    "services_offered": [
+      "支付解决方案",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 739,
+    "services_offered": [
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 740,
+    "services_offered": [
+      "数据分析",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 741,
+    "services_offered": [
+      "支付解决方案",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 742,
+    "services_offered": [
+      "反欺诈",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 743,
+    "services_offered": [
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 744,
+    "services_offered": [
+      "反欺诈",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 745,
+    "services_offered": [
+      "借贷平台",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 746,
+    "services_offered": [
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 747,
+    "services_offered": [
+      "反欺诈",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 748,
+    "services_offered": [
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 749,
+    "services_offered": [
+      "借贷平台",
+      "身份验证",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 750,
+    "services_offered": [
+      "数据分析",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 751,
+    "services_offered": [
+      "合规辅导",
+      "数据分析",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 752,
+    "services_offered": [
+      "身份验证",
+      "合规辅导",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 753,
+    "services_offered": [
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 754,
+    "services_offered": [
+      "借贷平台",
+      "数据分析",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 755,
+    "services_offered": [
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 756,
+    "services_offered": [
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 757,
+    "services_offered": [
+      "支付解决方案",
+      "借贷平台",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 758,
+    "services_offered": [
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 759,
+    "services_offered": [
+      "数据分析",
+      "反欺诈",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 760,
+    "services_offered": [
+      "合规辅导",
+      "反欺诈",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 761,
+    "services_offered": [
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 762,
+    "services_offered": [
+      "借贷平台",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 763,
+    "services_offered": [
+      "借贷平台",
+      "支付解决方案",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 764,
+    "services_offered": [
+      "反欺诈",
+      "数据分析",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 765,
+    "services_offered": [
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 766,
+    "services_offered": [
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 767,
+    "services_offered": [
+      "数据分析",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 768,
+    "services_offered": [
+      "支付解决方案",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 769,
+    "services_offered": [
+      "支付解决方案",
+      "借贷平台",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 770,
+    "services_offered": [
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 771,
+    "services_offered": [
+      "合规辅导",
+      "借贷平台",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 772,
+    "services_offered": [
+      "反欺诈",
+      "合规辅导",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 773,
+    "services_offered": [
+      "反欺诈",
+      "借贷平台",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 774,
+    "services_offered": [
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 775,
+    "services_offered": [
+      "合规辅导",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 776,
+    "services_offered": [
+      "反欺诈",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 777,
+    "services_offered": [
+      "合规辅导",
+      "身份验证",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 778,
+    "services_offered": [
+      "合规辅导",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 779,
+    "services_offered": [
+      "支付解决方案",
+      "身份验证",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 780,
+    "services_offered": [
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 781,
+    "services_offered": [
+      "合规辅导",
+      "反欺诈",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 782,
+    "services_offered": [
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 783,
+    "services_offered": [
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 784,
+    "services_offered": [
+      "合规辅导",
+      "身份验证",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 785,
+    "services_offered": [
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 786,
+    "services_offered": [
+      "数据分析",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 787,
+    "services_offered": [
+      "合规辅导",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 788,
+    "services_offered": [
+      "反欺诈",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 789,
+    "services_offered": [
+      "合规辅导",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 790,
+    "services_offered": [
+      "支付解决方案",
+      "反欺诈",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 791,
+    "services_offered": [
+      "借贷平台",
+      "数据分析",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 792,
+    "services_offered": [
+      "支付解决方案",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 793,
+    "services_offered": [
+      "借贷平台",
+      "反欺诈",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 794,
+    "services_offered": [
+      "合规辅导",
+      "借贷平台",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 795,
+    "services_offered": [
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 796,
+    "services_offered": [
+      "反欺诈",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 797,
+    "services_offered": [
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 798,
+    "services_offered": [
+      "合规辅导",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 799,
+    "services_offered": [
+      "合规辅导",
+      "数据分析",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 800,
+    "services_offered": [
+      "借贷平台",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 801,
+    "services_offered": [
+      "借贷平台",
+      "合规辅导",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 802,
+    "services_offered": [
+      "合规辅导",
+      "反欺诈",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 803,
+    "services_offered": [
+      "借贷平台",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 804,
+    "services_offered": [
+      "身份验证",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 805,
+    "services_offered": [
+      "身份验证",
+      "借贷平台",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 806,
+    "services_offered": [
+      "借贷平台",
+      "数据分析",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 807,
+    "services_offered": [
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 808,
+    "services_offered": [
+      "反欺诈",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 809,
+    "services_offered": [
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 810,
+    "services_offered": [
+      "合规辅导",
+      "反欺诈",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 811,
+    "services_offered": [
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 812,
+    "services_offered": [
+      "反欺诈",
+      "支付解决方案",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 813,
+    "services_offered": [
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 814,
+    "services_offered": [
+      "借贷平台",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 815,
+    "services_offered": [
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 816,
+    "services_offered": [
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 817,
+    "services_offered": [
+      "支付解决方案",
+      "数据分析",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 818,
+    "services_offered": [
+      "合规辅导",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 819,
+    "services_offered": [
+      "借贷平台",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 820,
+    "services_offered": [
+      "身份验证",
+      "合规辅导",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 821,
+    "services_offered": [
+      "合规辅导",
+      "身份验证",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 822,
+    "services_offered": [
+      "支付解决方案",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 823,
+    "services_offered": [
+      "数据分析",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 824,
+    "services_offered": [
+      "借贷平台",
+      "身份验证",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 825,
+    "services_offered": [
+      "反欺诈",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 826,
+    "services_offered": [
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 827,
+    "services_offered": [
+      "数据分析",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 828,
+    "services_offered": [
+      "数据分析",
+      "支付解决方案",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 829,
+    "services_offered": [
+      "支付解决方案",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 830,
+    "services_offered": [
+      "支付解决方案",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 831,
+    "services_offered": [
+      "借贷平台",
+      "支付解决方案",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 832,
+    "services_offered": [
+      "借贷平台",
+      "合规辅导",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 833,
+    "services_offered": [
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 834,
+    "services_offered": [
+      "数据分析",
+      "合规辅导",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 835,
+    "services_offered": [
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 836,
+    "services_offered": [
+      "身份验证",
+      "支付解决方案",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 837,
+    "services_offered": [
+      "借贷平台",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 838,
+    "services_offered": [
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 839,
+    "services_offered": [
+      "支付解决方案",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 840,
+    "services_offered": [
+      "借贷平台",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 841,
+    "services_offered": [
+      "合规辅导",
+      "反欺诈",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 842,
+    "services_offered": [
+      "合规辅导",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 843,
+    "services_offered": [
+      "支付解决方案",
+      "身份验证",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 844,
+    "services_offered": [
+      "借贷平台",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 845,
+    "services_offered": [
+      "合规辅导",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 846,
+    "services_offered": [
+      "借贷平台",
+      "身份验证",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 847,
+    "services_offered": [
+      "反欺诈",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 848,
+    "services_offered": [
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 849,
+    "services_offered": [
+      "支付解决方案",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 850,
+    "services_offered": [
+      "反欺诈",
+      "借贷平台",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 851,
+    "services_offered": [
+      "反欺诈",
+      "数据分析",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 852,
+    "services_offered": [
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 853,
+    "services_offered": [
+      "身份验证",
+      "反欺诈",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 854,
+    "services_offered": [
+      "合规辅导",
+      "借贷平台",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 855,
+    "services_offered": [
+      "身份验证",
+      "合规辅导",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 856,
+    "services_offered": [
+      "反欺诈",
+      "支付解决方案",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 857,
+    "services_offered": [
+      "反欺诈",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 858,
+    "services_offered": [
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 859,
+    "services_offered": [
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 860,
+    "services_offered": [
+      "数据分析",
+      "身份验证",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 861,
+    "services_offered": [
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 862,
+    "services_offered": [
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 863,
+    "services_offered": [
+      "数据分析",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 864,
+    "services_offered": [
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 865,
+    "services_offered": [
+      "合规辅导",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 866,
+    "services_offered": [
+      "身份验证",
+      "数据分析",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 867,
+    "services_offered": [
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 868,
+    "services_offered": [
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 869,
+    "services_offered": [
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 870,
+    "services_offered": [
+      "借贷平台",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 871,
+    "services_offered": [
+      "身份验证",
+      "合规辅导",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 872,
+    "services_offered": [
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 873,
+    "services_offered": [
+      "支付解决方案",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 874,
+    "services_offered": [
+      "合规辅导",
+      "数据分析",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 875,
+    "services_offered": [
+      "数据分析",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 876,
+    "services_offered": [
+      "身份验证",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 877,
+    "services_offered": [
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 878,
+    "services_offered": [
+      "身份验证",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 879,
+    "services_offered": [
+      "数据分析",
+      "反欺诈",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 880,
+    "services_offered": [
+      "支付解决方案",
+      "身份验证",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 881,
+    "services_offered": [
+      "数据分析",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 882,
+    "services_offered": [
+      "反欺诈",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 883,
+    "services_offered": [
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 884,
+    "services_offered": [
+      "借贷平台",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 885,
+    "services_offered": [
+      "支付解决方案",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 886,
+    "services_offered": [
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 887,
+    "services_offered": [
+      "反欺诈",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 888,
+    "services_offered": [
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 889,
+    "services_offered": [
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 890,
+    "services_offered": [
+      "身份验证",
+      "数据分析",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 891,
+    "services_offered": [
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 892,
+    "services_offered": [
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 893,
+    "services_offered": [
+      "支付解决方案",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 894,
+    "services_offered": [
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 895,
+    "services_offered": [
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 896,
+    "services_offered": [
+      "支付解决方案",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 897,
+    "services_offered": [
+      "反欺诈",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 898,
+    "services_offered": [
+      "借贷平台",
+      "支付解决方案",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 899,
+    "services_offered": [
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 900,
+    "services_offered": [
+      "支付解决方案",
+      "数据分析",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 901,
+    "services_offered": [
+      "身份验证",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 902,
+    "services_offered": [
+      "合规辅导",
+      "支付解决方案",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 903,
+    "services_offered": [
+      "数据分析",
+      "身份验证",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 904,
+    "services_offered": [
+      "合规辅导",
+      "数据分析",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 905,
+    "services_offered": [
+      "数据分析",
+      "合规辅导",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 906,
+    "services_offered": [
+      "数据分析",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 907,
+    "services_offered": [
+      "数据分析",
+      "支付解决方案",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 908,
+    "services_offered": [
+      "合规辅导",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 909,
+    "services_offered": [
+      "身份验证",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 910,
+    "services_offered": [
+      "数据分析",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 911,
+    "services_offered": [
+      "支付解决方案",
+      "数据分析",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 912,
+    "services_offered": [
+      "支付解决方案",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 913,
+    "services_offered": [
+      "身份验证",
+      "数据分析",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 914,
+    "services_offered": [
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 915,
+    "services_offered": [
+      "支付解决方案",
+      "身份验证",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 916,
+    "services_offered": [
+      "合规辅导",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 917,
+    "services_offered": [
+      "身份验证",
+      "合规辅导",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 918,
+    "services_offered": [
+      "合规辅导",
+      "反欺诈",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 919,
+    "services_offered": [
+      "支付解决方案",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 920,
+    "services_offered": [
+      "身份验证",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 921,
+    "services_offered": [
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 922,
+    "services_offered": [
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 923,
+    "services_offered": [
+      "支付解决方案",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 924,
+    "services_offered": [
+      "支付解决方案",
+      "数据分析",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 925,
+    "services_offered": [
+      "借贷平台",
+      "合规辅导",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 926,
+    "services_offered": [
+      "反欺诈",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 927,
+    "services_offered": [
+      "借贷平台",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 928,
+    "services_offered": [
+      "数据分析",
+      "合规辅导",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 929,
+    "services_offered": [
+      "数据分析",
+      "借贷平台",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 930,
+    "services_offered": [
+      "借贷平台",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 931,
+    "services_offered": [
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 932,
+    "services_offered": [
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 933,
+    "services_offered": [
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 934,
+    "services_offered": [
+      "反欺诈",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 935,
+    "services_offered": [
+      "合规辅导",
+      "数据分析",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 936,
+    "services_offered": [
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 937,
+    "services_offered": [
+      "支付解决方案",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 938,
+    "services_offered": [
+      "支付解决方案",
+      "数据分析",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 939,
+    "services_offered": [
+      "数据分析",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 940,
+    "services_offered": [
+      "支付解决方案",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 941,
+    "services_offered": [
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 942,
+    "services_offered": [
+      "反欺诈",
+      "数据分析",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 943,
+    "services_offered": [
+      "合规辅导",
+      "身份验证",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 944,
+    "services_offered": [
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 945,
+    "services_offered": [
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 946,
+    "services_offered": [
+      "支付解决方案",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 947,
+    "services_offered": [
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 948,
+    "services_offered": [
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 949,
+    "services_offered": [
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 950,
+    "services_offered": [
+      "借贷平台",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 951,
+    "services_offered": [
+      "合规辅导",
+      "反欺诈",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 952,
+    "services_offered": [
+      "数据分析",
+      "身份验证",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 953,
+    "services_offered": [
+      "反欺诈",
+      "数据分析",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 954,
+    "services_offered": [
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 955,
+    "services_offered": [
+      "借贷平台",
+      "反欺诈",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 956,
+    "services_offered": [
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 957,
+    "services_offered": [
+      "合规辅导",
+      "数据分析",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 958,
+    "services_offered": [
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 959,
+    "services_offered": [
+      "支付解决方案",
+      "合规辅导",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 960,
+    "services_offered": [
+      "反欺诈",
+      "借贷平台",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 961,
+    "services_offered": [
+      "数据分析",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 962,
+    "services_offered": [
+      "数据分析",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 963,
+    "services_offered": [
+      "支付解决方案",
+      "合规辅导",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 964,
+    "services_offered": [
+      "身份验证",
+      "合规辅导",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 965,
+    "services_offered": [
+      "数据分析",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 966,
+    "services_offered": [
+      "数据分析",
+      "身份验证",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 967,
+    "services_offered": [
+      "支付解决方案",
+      "身份验证",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 968,
+    "services_offered": [
+      "合规辅导",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 969,
+    "services_offered": [
+      "身份验证",
+      "反欺诈",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 970,
+    "services_offered": [
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 971,
+    "services_offered": [
+      "反欺诈",
+      "数据分析",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 972,
+    "services_offered": [
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 973,
+    "services_offered": [
+      "借贷平台",
+      "反欺诈",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 974,
+    "services_offered": [
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 975,
+    "services_offered": [
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 976,
+    "services_offered": [
+      "支付解决方案",
+      "数据分析",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 977,
+    "services_offered": [
+      "支付解决方案",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 978,
+    "services_offered": [
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 979,
+    "services_offered": [
+      "合规辅导",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 980,
+    "services_offered": [
+      "数据分析",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 981,
+    "services_offered": [
+      "合规辅导",
+      "身份验证",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 982,
+    "services_offered": [
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 983,
+    "services_offered": [
+      "支付解决方案",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 984,
+    "services_offered": [
+      "反欺诈",
+      "合规辅导"
+    ]
+  },
+  {
+    "company_id": 985,
+    "services_offered": [
+      "数据分析",
+      "借贷平台",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 986,
+    "services_offered": [
+      "借贷平台",
+      "数据分析",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 987,
+    "services_offered": [
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 988,
+    "services_offered": [
+      "数据分析",
+      "合规辅导",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 989,
+    "services_offered": [
+      "反欺诈",
+      "数据分析",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 990,
+    "services_offered": [
+      "借贷平台",
+      "支付解决方案",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 991,
+    "services_offered": [
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 992,
+    "services_offered": [
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 993,
+    "services_offered": [
+      "合规辅导",
+      "支付解决方案",
+      "数据分析"
+    ]
+  },
+  {
+    "company_id": 994,
+    "services_offered": [
+      "借贷平台",
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 995,
+    "services_offered": [
+      "身份验证"
+    ]
+  },
+  {
+    "company_id": 996,
+    "services_offered": [
+      "数据分析",
+      "借贷平台"
+    ]
+  },
+  {
+    "company_id": 997,
+    "services_offered": [
+      "身份验证",
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 998,
+    "services_offered": [
+      "支付解决方案"
+    ]
+  },
+  {
+    "company_id": 999,
+    "services_offered": [
+      "数据分析",
+      "反欺诈"
+    ]
+  },
+  {
+    "company_id": 1000,
+    "services_offered": [
+      "反欺诈",
+      "数据分析",
+      "身份验证"
+    ]
+  }
+]

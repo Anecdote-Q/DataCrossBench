@@ -1,0 +1,24 @@
+{
+    "goal": "分析招商证券信息技术人员占员工总数比例高的原因及其对公司业绩的影响。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 招商证券的信息技术人员占员工总数比例为16.3%，在所有券商中最高，显示出其对信息技术的重视。",
+        "Comparison: 中金公司在信息技术投入占营业收入比例方面最高，达到15.2%，而国信证券仅为5.9%。",
+        "Extreme: 中金公司信息技术投入占净利润比例最高，达到51.7%。",
+        "Attribution: 由于部分证券公司信息技术人员储备仍有不足，鼓励有条件的证券公司逐步提升信息科技专业人员比例至企业员工总数的7%。"
+    ],
+    "summary": "本报告分析了证券公司信息技术人员的配置情况，强调了人力资源在信息技术投入中的重要性。",
+    "flag_id": "flag-122",
+    "classifier": "Internet Firms",
+    "classifier_cn": "互联网公司研究",
+    "input_files": [
+        "output/it_investment_vs_net_profit.png",
+        "output/it_percentage_distribution.png",
+        "output/revenue_vs_net_profit.png",
+        "output/securities_background.txt",
+        "output/securities_dim.db",
+        "output/securities_facts.csv",
+        "output/securities_it_assets.json",
+        "output/total_vs_it_employees.png"
+    ]
+}

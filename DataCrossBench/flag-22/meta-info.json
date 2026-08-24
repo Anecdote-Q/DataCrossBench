@@ -1,0 +1,20 @@
+{
+    "goal": "探讨腾讯在社交电商和游戏领域的创新如何影响其用户增长和收入结构，以制定未来的市场策略。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 随着微信的上线，腾讯的社交广告收入实现了有效增长，反映出用户偏好的变化对收入结构的影响。",
+        "Comparison: 在广告收入占比方面，Meta FY23广告收入占比高达98%，而腾讯仅为17%，表明两者在收入来源上的根本差异。",
+        "Extreme: Meta在2022年首次出现收入下滑（-1% YoY），而腾讯的收入则保持增长，反映出两者在市场环境中的不同表现。",
+        "Attribution: Meta的收入下滑与IDFA新政、TikTok竞争及宏观经济压力直接相关，显示出外部环境对其收入的影响。"
+    ],
+    "summary": "本报告深入分析了腾讯与Meta在收入结构、用户覆盖及市场策略上的差异，揭示了两者在社交业务中的不同发展轨迹及未来潜力。",
+    "flag_id": "flag-22",
+    "classifier": "Internet Firms",
+    "classifier_cn": "互联网公司研究",
+    "input_files": [
+        "output/background.txt",
+        "output/market_strategy.db",
+        "output/social_media_revenue.csv",
+        "output/user_profiles.json"
+    ]
+}

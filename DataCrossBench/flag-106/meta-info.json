@@ -1,0 +1,20 @@
+{
+    "goal": "分析国泰上证综指ETF发行规模较低的原因，并与其他ETF进行比较。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 自2020年9月9日国泰上证综指ETF上市以来，其发行规模为13.14亿元，显示出市场对该ETF的认可。",
+        "Comparison: 国泰上证综指ETF的规模为12.84亿元，较国泰中证全指证券公司ETF的308.05亿元成交额明显较低，显示出市场对不同ETF的偏好差异。",
+        "Extreme: 新上证综指价格指数的累计涨幅约93.89%，显示出其在新编制规则下的强劲表现。",
+        "Attribution: 上证综指的估值水平处于历史低位，主要由于市场波动和政策影响，投资者应关注这些因素对未来收益的潜在影响。"
+    ],
+    "summary": "本报告分析了国泰上证综指ETF的投资价值，强调了上证综指的编制规则优化及其市场表现，指出了投资者需关注的风险因素。",
+    "flag_id": "flag-106",
+    "classifier": "Fund Analysis",
+    "classifier_cn": "基金分析",
+    "input_files": [
+        "output/business_background.txt",
+        "output/dimension_etf_performance.db",
+        "output/etl_etf_nosql.json",
+        "output/fact_etf_comparison.csv"
+    ]
+}

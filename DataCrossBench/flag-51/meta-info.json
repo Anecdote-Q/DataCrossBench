@@ -1,0 +1,20 @@
+{
+    "goal": "分析百度集团2023年营业收入增长8.4%的主要驱动因素。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 2023年百度集团实现营业收入1,035亿元，同比增长8.4%。预计2024年收入将达到1,324亿元，2025年为1,423亿元，2026年为1,507亿元，显示出持续增长的趋势。",
+        "Comparison: 百度的在线营销收入在2023年占核心总收入的72.5%，而2024年预计将下降至55.7%，显示出广告市场的竞争加剧。",
+        "Extreme: 截至2024年7月28日，百度萝卜快跑的测试和运营里程累计已达到1亿公里，显示出其在自动驾驶领域的领先地位。",
+        "Attribution: 收入增长主要得益于旅游、电子商务和医疗保健等行业的广告需求修复，反映出市场需求的恢复。"
+    ],
+    "summary": "本报告分析了百度集团在AI转型、广告业务和自动驾驶等领域的竞争优势及市场前景，预计未来几年收入和非GAAP归母净利润将增长，主要受广告需求恢复和AI业务推动。",
+    "flag_id": "flag-51",
+    "classifier": "Internet Firms",
+    "classifier_cn": "互联网公司研究",
+    "input_files": [
+        "output/business_background.txt",
+        "output/customer_preferences.json",
+        "output/dimension_data.db",
+        "output/revenue_ad_fact.png"
+    ]
+}

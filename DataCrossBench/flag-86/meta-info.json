@@ -1,0 +1,20 @@
+{
+    "goal": "分析华富成长趋势基金在2019年和2020年超越沪深300指数的具体因素。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 华富成长趋势基金在2019年和2020年的收益率分别为54.95%和51.73%，显示出持续的增长趋势。",
+        "Comparison: 华富成长趋势基金的年化收益率为18.63%，显著高于同期沪深300指数的表现。",
+        "Extreme: 2019年，华富成长趋势基金的累计收益达到120.32%，显示出其在市场中的强劲表现。",
+        "Attribution: 基金的优异表现主要归因于陈启明自2017年上任以来的有效管理和选股策略。"
+    ],
+    "summary": "华富成长趋势基金在过去两年中表现出色，年化收益率达到18.63%，并且在2019和2020年均超越沪深300指数，显示出其强大的选股能力和稳定的机构持有比例。",
+    "flag_id": "flag-86",
+    "classifier": "Fund Analysis",
+    "classifier_cn": "基金分析",
+    "input_files": [
+        "output/business_background.txt",
+        "output/dimension_data.db",
+        "output/fund_performance_fact.csv",
+        "output/fund_profiles.json"
+    ]
+}

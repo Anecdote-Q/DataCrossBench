@@ -1,0 +1,146 @@
+[
+  {
+    "profile_id": "P001",
+    "year": 2019,
+    "age_dist": {
+      "20-30": 21,
+      "31-40": 31,
+      "41-50": 23,
+      "51+": 16
+    },
+    "has_insurance": true,
+    "preferred_channels": [
+      "国际",
+      "发布",
+      "为了"
+    ],
+    "interests": [
+      "关于",
+      "汽车",
+      "浏览",
+      "这个",
+      "电子"
+    ],
+    "customer_value_score": 93.04
+  },
+  {
+    "profile_id": "P002",
+    "year": 2020,
+    "age_dist": {
+      "20-30": 20,
+      "31-40": 36,
+      "41-50": 21,
+      "51+": 19
+    },
+    "has_insurance": false,
+    "preferred_channels": [
+      "是一",
+      "科技",
+      "他的"
+    ],
+    "interests": [
+      "一点",
+      "东西",
+      "名称",
+      "一些",
+      "自己"
+    ],
+    "customer_value_score": 89.15
+  },
+  {
+    "profile_id": "P003",
+    "year": 2021,
+    "age_dist": {
+      "20-30": 18,
+      "31-40": 38,
+      "41-50": 29,
+      "51+": 16
+    },
+    "has_insurance": false,
+    "preferred_channels": [
+      "地址",
+      "感觉",
+      "女人"
+    ],
+    "interests": [
+      "实现",
+      "电脑",
+      "科技",
+      "非常",
+      "汽车"
+    ],
+    "customer_value_score": 83.29
+  },
+  {
+    "profile_id": "P004",
+    "year": 2022,
+    "age_dist": {
+      "20-30": 21,
+      "31-40": 38,
+      "41-50": 20,
+      "51+": 10
+    },
+    "has_insurance": true,
+    "preferred_channels": [
+      "一切",
+      "必须",
+      "语言"
+    ],
+    "interests": [
+      "包括",
+      "点击",
+      "当前",
+      "合作",
+      "组织"
+    ],
+    "customer_value_score": 92.74
+  },
+  {
+    "profile_id": "P005",
+    "year": 2023,
+    "age_dist": {
+      "20-30": 23,
+      "31-40": 27,
+      "41-50": 26,
+      "51+": 15
+    },
+    "has_insurance": true,
+    "preferred_channels": [
+      "还有",
+      "决定",
+      "方面"
+    ],
+    "interests": [
+      "软件",
+      "工作",
+      "责任",
+      "服务",
+      "那么"
+    ],
+    "customer_value_score": 77.08
+  },
+  {
+    "profile_id": "P006",
+    "year": 2024,
+    "age_dist": {
+      "20-30": 23,
+      "31-40": 38,
+      "41-50": 24,
+      "51+": 10
+    },
+    "has_insurance": true,
+    "preferred_channels": [
+      "所有",
+      "网上",
+      "广告"
+    ],
+    "interests": [
+      "任何",
+      "说明",
+      "发表",
+      "发布",
+      "增加"
+    ],
+    "customer_value_score": 84.53
+  }
+]

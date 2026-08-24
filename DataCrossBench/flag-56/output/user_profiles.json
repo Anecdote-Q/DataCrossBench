@@ -1,0 +1,128 @@
+[
+  {
+    "user_id": "U0001",
+    "name": "王丹",
+    "age": 31,
+    "purchase_history": [
+      {
+        "order_id": "O9154",
+        "amount_usd": 289.4,
+        "category": "家居",
+        "order_date": "2024-06-20"
+      },
+      {
+        "order_id": "O9110",
+        "amount_usd": 362.36,
+        "category": "电子",
+        "order_date": "2024-04-04"
+      },
+      {
+        "order_id": "O2028",
+        "amount_usd": 289.41,
+        "category": "家居",
+        "order_date": "2024-03-07"
+      },
+      {
+        "order_id": "O7938",
+        "amount_usd": 270.91,
+        "category": "家居",
+        "order_date": "2025-06-17"
+      }
+    ],
+    "vip_status": true,
+    "favorite_markets": [
+      "俄罗斯",
+      "墨西哥"
+    ]
+  },
+  {
+    "user_id": "U0002",
+    "name": "宋超",
+    "age": 26,
+    "purchase_history": [
+      {
+        "order_id": "O9755",
+        "amount_usd": 290.37,
+        "category": "美妆",
+        "order_date": "2024-01-14"
+      }
+    ],
+    "vip_status": false,
+    "favorite_markets": [
+      "俄罗斯",
+      "美国"
+    ]
+  },
+  {
+    "user_id": "U0003",
+    "name": "刘杰",
+    "age": 23,
+    "purchase_history": [
+      {
+        "order_id": "O4157",
+        "amount_usd": 442.62,
+        "category": "服饰",
+        "order_date": "2025-02-06"
+      }
+    ],
+    "vip_status": false,
+    "favorite_markets": [
+      "印度",
+      "巴西"
+    ]
+  },
+  {
+    "user_id": "U0004",
+    "name": "刘萍",
+    "age": 47,
+    "purchase_history": [
+      {
+        "order_id": "O4627",
+        "amount_usd": 219.92,
+        "category": "服饰",
+        "order_date": "2025-08-06"
+      },
+      {
+        "order_id": "O6450",
+        "amount_usd": 175.69,
+        "category": "家居",
+        "order_date": "2023-12-28"
+      },
+      {
+        "order_id": "O6592",
+        "amount_usd": 172.64,
+        "category": "电子",
+        "order_date": "2025-08-04"
+      },
+      {
+        "order_id": "O2306",
+        "amount_usd": 225.01,
+        "category": "美妆",
+        "order_date": "2025-05-17"
+      }
+    ],
+    "vip_status": false,
+    "favorite_markets": [
+      "美国",
+      "印度"
+    ]
+  },
+  {
+    "user_id": "U0005",
+    "name": "陈红霞",
+    "age": 46,
+    "purchase_history": [
+      {
+        "order_id": "O5413",
+        "amount_usd": 126.61,
+        "category": "家居",
+        "order_date": "2025-11-22"
+      }
+    ],
+    "vip_status": true,
+    "favorite_markets": [
+      "墨西哥",
+      "印度"
+    ]
+  }
+]

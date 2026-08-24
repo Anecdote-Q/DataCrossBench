@@ -1,0 +1,20 @@
+{
+    "goal": "评估湘财证券2024年营业收入增长的主要驱动因素。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 2024年归母净利润预计为1.03亿元，2025年和2026年分别为1.95亿元和2.55亿元，显示出持续增长的趋势。",
+        "Comparison: 湘财证券的经纪业务在2024年贡献42.43%的营收，显示出其在市场中的重要地位。",
+        "Extreme: 2023年自营投资业务收入同比增长1552.25%至3.66亿元，显示出业务的强劲反弹。",
+        "Attribution: 浙江国资入股形成混合所有制结构，优化了股权结构，为湘财股份的未来发展提供了支持。"
+    ],
+    "summary": "湘财股份在金融科技赋能下，预计未来三年将实现稳健增长，尽管面临短期业绩波动，但通过并购和股权结构优化，展现出强大的市场潜力。",
+    "flag_id": "flag-142",
+    "classifier": "FinTech",
+    "classifier_cn": "金融科技",
+    "input_files": [
+        "output/branch_profiles.json",
+        "output/business_background.txt",
+        "output/dimension_data.db",
+        "output/financial_forecast_fact.csv"
+    ]
+}

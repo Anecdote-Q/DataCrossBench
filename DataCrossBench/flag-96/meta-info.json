@@ -1,0 +1,24 @@
+{
+    "goal": "比较南方上海金ETF与普通黄金ETF的回报中位数差异对投资者决策的影响。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 沪金主力合约突破530元/克，累计涨幅15.6%。",
+        "Comparison: 南方上海金ETF的年化夏普比率为1.47，优于普通黄金ETF的1.31。",
+        "Extreme: 2024年Q1南方上海金ETF的份额增幅为26%，为同类产品中最高。",
+        "Attribution: 在去美元化趋势下，全球央行对黄金的配置需求持续增加，进一步提升了黄金的投资价值。"
+    ],
+    "summary": "黄金市场在不确定性中展现出强大的避险特性，金价突破历史高位的原因包括地缘政治风险和美联储的政策变化。投资者应关注黄金ETF的便捷性和成本效益。",
+    "flag_id": "flag-96",
+    "classifier": "Fund Analysis",
+    "classifier_cn": "基金分析",
+    "input_files": [
+        "output/background.txt",
+        "output/dimension_data.db",
+        "output/etf_performance.png",
+        "output/gold_market_payloads.json",
+        "output/gold_market_trends.csv",
+        "output/gold_price_trend.png",
+        "output/sharpe_ratio_distribution.png",
+        "output/volatility_vs_sharpe.png"
+    ]
+}

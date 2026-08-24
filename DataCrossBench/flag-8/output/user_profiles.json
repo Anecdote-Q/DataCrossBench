@@ -1,0 +1,481 @@
+[
+  {
+    "entity_id": "ENT001",
+    "region_name": "北京镇",
+    "contacts": {
+      "main_contact": "Connie Lawrence",
+      "email": "blakeerik@example.com",
+      "phone": "942-335-1161x55940"
+    },
+    "preferences": {
+      "use_mobile_app": false,
+      "preferred_device": "iOS",
+      "notification_methods": [
+        "AppPush",
+        "SMS",
+        "Email"
+      ]
+    },
+    "device_info": [
+      {
+        "device_id": "142c3fe8-60e7-4113-ac1b-8ca1f91e1d4c",
+        "last_active": "2025-07-13T15:12:29.462363",
+        "os_version": "10.0",
+        "app_version": "3.6"
+      }
+    ]
+  },
+  {
+    "entity_id": "ENT002",
+    "region_name": "上海市",
+    "contacts": {
+      "main_contact": "Lisa Hensley",
+      "email": "janetwilliams@example.org",
+      "phone": "001-341-431-6475x25534"
+    },
+    "preferences": {
+      "use_mobile_app": false,
+      "preferred_device": "Android",
+      "notification_methods": [
+        "AppPush"
+      ]
+    },
+    "device_info": [
+      {
+        "device_id": "29d4beef-3eab-4dcb-baa8-0dd488bd6407",
+        "last_active": "2025-06-10T20:12:52.468690",
+        "os_version": "11.3",
+        "app_version": "4.6"
+      },
+      {
+        "device_id": "a3d70628-ece6-4fa2-bd51-66e6451b4cf3",
+        "last_active": "2025-09-01T08:24:54.247523",
+        "os_version": "12.2",
+        "app_version": "3.2"
+      },
+      {
+        "device_id": "d7c524a5-5304-417f-af42-e12f3838b326",
+        "last_active": "2025-09-30T15:00:17.733298",
+        "os_version": "10.8",
+        "app_version": "3.9"
+      }
+    ]
+  },
+  {
+    "entity_id": "ENT003",
+    "region_name": "广东市",
+    "contacts": {
+      "main_contact": "Rodney Trujillo",
+      "email": "nadams@example.net",
+      "phone": "001-653-876-7242x388"
+    },
+    "preferences": {
+      "use_mobile_app": false,
+      "preferred_device": "PC",
+      "notification_methods": [
+        "Email",
+        "SMS"
+      ]
+    },
+    "device_info": [
+      {
+        "device_id": "5cabcc97-663f-4c97-9562-69f0e5d7b875",
+        "last_active": "2025-03-14T02:39:56.296046",
+        "os_version": "12.1",
+        "app_version": "1.1"
+      }
+    ]
+  },
+  {
+    "entity_id": "ENT004",
+    "region_name": "浙江镇",
+    "contacts": {
+      "main_contact": "Ms. Ann Williams MD",
+      "email": "laurahenderson@example.org",
+      "phone": "(669)878-4801x8451"
+    },
+    "preferences": {
+      "use_mobile_app": true,
+      "preferred_device": "PC",
+      "notification_methods": [
+        "AppPush"
+      ]
+    },
+    "device_info": [
+      {
+        "device_id": "f42d47cc-00d4-4f59-b427-3ca3287d06ca",
+        "last_active": "2025-09-13T17:50:17.546453",
+        "os_version": "9.6",
+        "app_version": "4.9"
+      },
+      {
+        "device_id": "8026695f-f8cd-488b-836d-76e2b83cfe0b",
+        "last_active": "2025-09-28T07:19:48.957465",
+        "os_version": "12.8",
+        "app_version": "3.8"
+      }
+    ]
+  },
+  {
+    "entity_id": "ENT005",
+    "region_name": "江苏区",
+    "contacts": {
+      "main_contact": "Ashley Garrett",
+      "email": "ericfarmer@example.net",
+      "phone": "001-380-395-7015x43039"
+    },
+    "preferences": {
+      "use_mobile_app": true,
+      "preferred_device": "PC",
+      "notification_methods": [
+        "SMS",
+        "Email",
+        "AppPush"
+      ]
+    },
+    "device_info": [
+      {
+        "device_id": "11b7e948-d0e6-4660-bc69-dee1bb5e4bcf",
+        "last_active": "2025-12-16T04:55:47.479069",
+        "os_version": "11.6",
+        "app_version": "2.7"
+      }
+    ]
+  },
+  {
+    "entity_id": "ENT006",
+    "region_name": "山东市",
+    "contacts": {
+      "main_contact": "Beth Keller",
+      "email": "josephbrennan@example.com",
+      "phone": "383.546.5787"
+    },
+    "preferences": {
+      "use_mobile_app": true,
+      "preferred_device": "PC",
+      "notification_methods": [
+        "Email",
+        "SMS",
+        "AppPush"
+      ]
+    },
+    "device_info": [
+      {
+        "device_id": "05628059-568c-469b-9064-005c3985c3cf",
+        "last_active": "2025-07-26T21:07:31.914853",
+        "os_version": "11.8",
+        "app_version": "2.2"
+      },
+      {
+        "device_id": "01d74256-3860-4ab6-96a4-02f23ae8cc93",
+        "last_active": "2025-01-18T22:27:39.073012",
+        "os_version": "11.2",
+        "app_version": "1.9"
+      },
+      {
+        "device_id": "114125c6-3a9b-4dd4-8f12-59e0a18ff6b6",
+        "last_active": "2025-11-19T16:50:49.319551",
+        "os_version": "11.7",
+        "app_version": "1.1"
+      }
+    ]
+  },
+  {
+    "entity_id": "ENT007",
+    "region_name": "四川市",
+    "contacts": {
+      "main_contact": "Andrea Young",
+      "email": "ilewis@example.net",
+      "phone": "001-897-737-6311"
+    },
+    "preferences": {
+      "use_mobile_app": false,
+      "preferred_device": "iOS",
+      "notification_methods": [
+        "SMS"
+      ]
+    },
+    "device_info": [
+      {
+        "device_id": "dd2467ac-778e-4db3-a93d-ffbc6c6fa611",
+        "last_active": "2025-09-16T07:03:23.105380",
+        "os_version": "9.1",
+        "app_version": "4.1"
+      }
+    ]
+  },
+  {
+    "entity_id": "ENT008",
+    "region_name": "湖北市",
+    "contacts": {
+      "main_contact": "Victoria Garcia",
+      "email": "zchandler@example.org",
+      "phone": "933.587.2624"
+    },
+    "preferences": {
+      "use_mobile_app": true,
+      "preferred_device": "Android",
+      "notification_methods": [
+        "Email",
+        "SMS",
+        "AppPush"
+      ]
+    },
+    "device_info": [
+      {
+        "device_id": "71710434-134c-4c92-ac5b-227cdfde4fbf",
+        "last_active": "2025-10-15T03:04:53.659126",
+        "os_version": "12.3",
+        "app_version": "2.4"
+      },
+      {
+        "device_id": "0cf35b58-1910-4be5-8ce2-1ea3db20a56e",
+        "last_active": "2025-08-19T04:41:53.253659",
+        "os_version": "12.5",
+        "app_version": "4.8"
+      },
+      {
+        "device_id": "f8102383-03c7-4ba8-9605-e7708a63f881",
+        "last_active": "2025-01-27T01:40:17.806660",
+        "os_version": "12.1",
+        "app_version": "2.3"
+      }
+    ]
+  },
+  {
+    "entity_id": "ENT009",
+    "region_name": "湖南镇",
+    "contacts": {
+      "main_contact": "Cynthia Russell",
+      "email": "zlewis@example.org",
+      "phone": "(960)464-7468"
+    },
+    "preferences": {
+      "use_mobile_app": true,
+      "preferred_device": "iOS",
+      "notification_methods": [
+        "AppPush"
+      ]
+    },
+    "device_info": [
+      {
+        "device_id": "f7fd5646-37bb-4eec-8bf5-0b52309d258c",
+        "last_active": "2025-01-14T08:48:10.806285",
+        "os_version": "10.9",
+        "app_version": "2.0"
+      },
+      {
+        "device_id": "bf7b539b-0f9a-4a4b-8acd-4e10bc594585",
+        "last_active": "2025-04-17T13:08:13.190233",
+        "os_version": "9.0",
+        "app_version": "2.1"
+      },
+      {
+        "device_id": "80bacd64-7a0e-4fea-958c-a9ba0cd620c2",
+        "last_active": "2025-11-24T19:16:45.969465",
+        "os_version": "9.5",
+        "app_version": "1.8"
+      }
+    ]
+  },
+  {
+    "entity_id": "ENT010",
+    "region_name": "福建市",
+    "contacts": {
+      "main_contact": "Amy Romero",
+      "email": "caseyjones@example.org",
+      "phone": "(719)639-9091x6998"
+    },
+    "preferences": {
+      "use_mobile_app": true,
+      "preferred_device": "iOS",
+      "notification_methods": [
+        "Email",
+        "SMS",
+        "AppPush"
+      ]
+    },
+    "device_info": [
+      {
+        "device_id": "506e5a9a-b758-488d-ab73-295b344a54b8",
+        "last_active": "2025-03-21T04:24:58.593607",
+        "os_version": "12.3",
+        "app_version": "4.6"
+      },
+      {
+        "device_id": "a53f8a28-abf3-43fc-a181-3d25655238a6",
+        "last_active": "2025-04-12T13:51:17.647980",
+        "os_version": "10.1",
+        "app_version": "1.6"
+      },
+      {
+        "device_id": "ef8c485b-c07a-40f2-add4-253b50f0fd0a",
+        "last_active": "2025-01-19T12:02:52.912678",
+        "os_version": "11.6",
+        "app_version": "4.7"
+      }
+    ]
+  },
+  {
+    "entity_id": "ENT011",
+    "region_name": "北京镇",
+    "contacts": {
+      "main_contact": "Zachary Ferrell",
+      "email": "medinawilliam@example.org",
+      "phone": "(613)354-2784x980"
+    },
+    "preferences": {
+      "use_mobile_app": true,
+      "preferred_device": "PC",
+      "notification_methods": [
+        "AppPush",
+        "SMS",
+        "Email"
+      ]
+    },
+    "device_info": [
+      {
+        "device_id": "43b409ef-2260-470f-a0cc-edc5f05db76e",
+        "last_active": "2025-02-04T03:58:21.079247",
+        "os_version": "11.1",
+        "app_version": "2.3"
+      },
+      {
+        "device_id": "27cb6f2a-8da0-4097-be0f-051b1b66b5a9",
+        "last_active": "2025-04-02T11:29:29.636091",
+        "os_version": "10.8",
+        "app_version": "4.2"
+      }
+    ]
+  },
+  {
+    "entity_id": "ENT012",
+    "region_name": "上海镇",
+    "contacts": {
+      "main_contact": "Michelle Harris",
+      "email": "william40@example.org",
+      "phone": "+1-264-300-5242x7868"
+    },
+    "preferences": {
+      "use_mobile_app": false,
+      "preferred_device": "Android",
+      "notification_methods": [
+        "Email",
+        "SMS"
+      ]
+    },
+    "device_info": [
+      {
+        "device_id": "b0e6a969-e213-42b0-b1ee-dba313432e61",
+        "last_active": "2025-11-19T03:46:24.295573",
+        "os_version": "12.8",
+        "app_version": "1.0"
+      }
+    ]
+  },
+  {
+    "entity_id": "ENT013",
+    "region_name": "广东镇",
+    "contacts": {
+      "main_contact": "Sandra Aguilar",
+      "email": "russellwilliams@example.com",
+      "phone": "4535315869"
+    },
+    "preferences": {
+      "use_mobile_app": true,
+      "preferred_device": "Android",
+      "notification_methods": [
+        "SMS"
+      ]
+    },
+    "device_info": [
+      {
+        "device_id": "ccc56569-f9e8-4369-a999-b735dd56cc94",
+        "last_active": "2025-10-16T03:10:58.122425",
+        "os_version": "12.7",
+        "app_version": "2.6"
+      },
+      {
+        "device_id": "2dea9493-0658-463a-a98c-206fe1a47e10",
+        "last_active": "2025-09-19T00:41:59.582155",
+        "os_version": "9.2",
+        "app_version": "4.0"
+      }
+    ]
+  },
+  {
+    "entity_id": "ENT014",
+    "region_name": "浙江市",
+    "contacts": {
+      "main_contact": "Timothy Pham",
+      "email": "josephcobb@example.org",
+      "phone": "(707)633-7543x3036"
+    },
+    "preferences": {
+      "use_mobile_app": false,
+      "preferred_device": "iOS",
+      "notification_methods": [
+        "Email",
+        "AppPush"
+      ]
+    },
+    "device_info": [
+      {
+        "device_id": "c5f8bc16-f786-4b50-91c5-8ef0dd463c09",
+        "last_active": "2025-04-04T22:53:42.706326",
+        "os_version": "12.2",
+        "app_version": "2.4"
+      },
+      {
+        "device_id": "adf4e62d-6651-429e-8268-690ba43825b5",
+        "last_active": "2025-12-17T08:40:30.655398",
+        "os_version": "10.0",
+        "app_version": "1.5"
+      },
+      {
+        "device_id": "0710d430-f071-4879-94c6-3cd889456f27",
+        "last_active": "2025-02-04T03:12:38.212953",
+        "os_version": "9.0",
+        "app_version": "4.8"
+      }
+    ]
+  },
+  {
+    "entity_id": "ENT015",
+    "region_name": "江苏镇",
+    "contacts": {
+      "main_contact": "Cassandra Estes",
+      "email": "benjamin96@example.com",
+      "phone": "001-556-798-1693x4060"
+    },
+    "preferences": {
+      "use_mobile_app": true,
+      "preferred_device": "Android",
+      "notification_methods": [
+        "SMS",
+        "AppPush",
+        "Email"
+      ]
+    },
+    "device_info": [
+      {
+        "device_id": "aa0b7b14-f2e9-402d-91e9-cdaa6e6981a3",
+        "last_active": "2025-11-25T07:24:31.826167",
+        "os_version": "9.3",
+        "app_version": "4.1"
+      },
+      {
+        "device_id": "d9178793-a9d3-42e6-905c-c6869f871ce7",
+        "last_active": "2025-02-07T12:35:17.185337",
+        "os_version": "10.9",
+        "app_version": "1.9"
+      },
+      {
+        "device_id": "4f2d4796-81d2-47de-8ce1-eb90e6697833",
+        "last_active": "2025-08-24T13:58:32.315138",
+        "os_version": "9.6",
+        "app_version": "3.4"
+      }
+    ]
+  }
+]

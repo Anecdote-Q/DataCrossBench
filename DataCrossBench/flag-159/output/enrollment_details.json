@@ -1,0 +1,222 @@
+[
+  {
+    "quarter": "2016-Q1",
+    "avg_classes_per_student": 8.8,
+    "popular_courses": [
+      "数学",
+      "化学",
+      "物理"
+    ],
+    "percentage_online": 51.2,
+    "new_enrollment_rate": 0.124
+  },
+  {
+    "quarter": "2016-Q2",
+    "avg_classes_per_student": 9.1,
+    "popular_courses": [
+      "体育",
+      "英语",
+      "编程"
+    ],
+    "percentage_online": 41.6,
+    "new_enrollment_rate": 0.059
+  },
+  {
+    "quarter": "2016-Q3",
+    "avg_classes_per_student": 5.1,
+    "popular_courses": [
+      "素养课程",
+      "数学",
+      "物理"
+    ],
+    "percentage_online": 75.8,
+    "new_enrollment_rate": 0.12
+  },
+  {
+    "quarter": "2016-Q4",
+    "avg_classes_per_student": 6.8,
+    "popular_courses": [
+      "艺术",
+      "化学",
+      "数学"
+    ],
+    "percentage_online": 77.9,
+    "new_enrollment_rate": 0.066
+  },
+  {
+    "quarter": "2017-Q1",
+    "avg_classes_per_student": 6.8,
+    "popular_courses": [
+      "化学",
+      "语文",
+      "物理"
+    ],
+    "percentage_online": 87.9,
+    "new_enrollment_rate": 0.084
+  },
+  {
+    "quarter": "2017-Q2",
+    "avg_classes_per_student": 3.8,
+    "popular_courses": [
+      "英语",
+      "科学",
+      "体育"
+    ],
+    "percentage_online": 70.2,
+    "new_enrollment_rate": 0.131
+  },
+  {
+    "quarter": "2017-Q3",
+    "avg_classes_per_student": 9.6,
+    "popular_courses": [
+      "体育",
+      "英语",
+      "编程"
+    ],
+    "percentage_online": 43.9,
+    "new_enrollment_rate": 0.079
+  },
+  {
+    "quarter": "2017-Q4",
+    "avg_classes_per_student": 8.7,
+    "popular_courses": [
+      "科学",
+      "物理",
+      "英语"
+    ],
+    "percentage_online": 42.3,
+    "new_enrollment_rate": 0.073
+  },
+  {
+    "quarter": "2018-Q1",
+    "avg_classes_per_student": 5.6,
+    "popular_courses": [
+      "英语",
+      "物理",
+      "素养课程"
+    ],
+    "percentage_online": 59.0,
+    "new_enrollment_rate": 0.095
+  },
+  {
+    "quarter": "2018-Q2",
+    "avg_classes_per_student": 10.5,
+    "popular_courses": [
+      "语文",
+      "科学",
+      "体育"
+    ],
+    "percentage_online": 50.5,
+    "new_enrollment_rate": 0.077
+  },
+  {
+    "quarter": "2018-Q3",
+    "avg_classes_per_student": 11.4,
+    "popular_courses": [
+      "英语",
+      "语文",
+      "物理"
+    ],
+    "percentage_online": 48.2,
+    "new_enrollment_rate": 0.088
+  },
+  {
+    "quarter": "2018-Q4",
+    "avg_classes_per_student": 11.9,
+    "popular_courses": [
+      "体育",
+      "物理",
+      "科学"
+    ],
+    "percentage_online": 82.1,
+    "new_enrollment_rate": 0.128
+  },
+  {
+    "quarter": "2019-Q1",
+    "avg_classes_per_student": 5.1,
+    "popular_courses": [
+      "数学",
+      "科学",
+      "编程"
+    ],
+    "percentage_online": 53.4,
+    "new_enrollment_rate": 0.071
+  },
+  {
+    "quarter": "2019-Q2",
+    "avg_classes_per_student": 11.5,
+    "popular_courses": [
+      "科学",
+      "物理",
+      "艺术"
+    ],
+    "percentage_online": 59.8,
+    "new_enrollment_rate": 0.141
+  },
+  {
+    "quarter": "2019-Q3",
+    "avg_classes_per_student": 7.1,
+    "popular_courses": [
+      "化学",
+      "语文",
+      "物理"
+    ],
+    "percentage_online": 77.2,
+    "new_enrollment_rate": 0.104
+  },
+  {
+    "quarter": "2019-Q4",
+    "avg_classes_per_student": 9.7,
+    "popular_courses": [
+      "编程",
+      "素养课程",
+      "科学"
+    ],
+    "percentage_online": 51.0,
+    "new_enrollment_rate": 0.15
+  },
+  {
+    "quarter": "2020-Q1",
+    "avg_classes_per_student": 7.6,
+    "popular_courses": [
+      "英语",
+      "数学",
+      "素养课程"
+    ],
+    "percentage_online": 47.6,
+    "new_enrollment_rate": 0.066
+  },
+  {
+    "quarter": "2020-Q2",
+    "avg_classes_per_student": 9.1,
+    "popular_courses": [
+      "素养课程",
+      "英语",
+      "编程"
+    ],
+    "percentage_online": 59.1,
+    "new_enrollment_rate": 0.15
+  },
+  {
+    "quarter": "2020-Q3",
+    "avg_classes_per_student": 7.8,
+    "popular_courses": [
+      "体育",
+      "数学",
+      "英语"
+    ],
+    "percentage_online": 74.1,
+    "new_enrollment_rate": 0.104
+  },
+  {
+    "quarter": "2020-Q4",
+    "avg_classes_per_student": 5.4,
+    "popular_courses": [
+      "科学",
+      "英语",
+      "化学"
+    ],
+    "percentage_online": 61.7,
+    "new_enrollment_rate": 0.095
+  }
+]

@@ -1,0 +1,20 @@
+{
+    "goal": "分析华商策略精选基金在2024年4月30日达到31.27%累计收益率的原因。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 华商策略精选基金在2024年4月30日的累计收益率达到31.27%，而沪深300收益率为-9.06%，显示出显著的超额收益。",
+        "Comparison: 华商策略精选基金的累计收益率为31.27%，而同期沪深300的收益率为-9.06%，显示出该基金在市场中的相对优势。",
+        "Extreme: 华商策略精选基金在2024年4月30日的累计收益率31.27%为其历史最高水平。",
+        "Attribution: 基金的优异表现与宽松的货币政策和疫情超预期发展的医药、日常消费等行业的强劲复苏密切相关。"
+    ],
+    "summary": "本报告分析了华商基金及其旗下华商策略精选基金的投资策略、市场表现及行业配置，强调了基金经理王毅文的长期持有理念和对市场变化的敏锐反应。",
+    "flag_id": "flag-90",
+    "classifier": "Fund Analysis",
+    "classifier_cn": "基金分析",
+    "input_files": [
+        "output/business_background.txt",
+        "output/dimension_data.db",
+        "output/fund_performance.png",
+        "output/user_profiles.json"
+    ]
+}

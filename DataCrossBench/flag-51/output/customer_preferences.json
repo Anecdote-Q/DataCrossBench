@@ -1,0 +1,80 @@
+{
+  "1": {
+    "prefers_online_ads": true,
+    "preferred_channels": [
+      "报纸"
+    ],
+    "budget_category": "低"
+  },
+  "2": {
+    "prefers_online_ads": true,
+    "preferred_channels": [
+      "电视"
+    ],
+    "budget_category": "高"
+  },
+  "3": {
+    "prefers_online_ads": true,
+    "preferred_channels": [
+      "户外",
+      "电视",
+      "社交媒体"
+    ],
+    "budget_category": "低"
+  },
+  "4": {
+    "prefers_online_ads": true,
+    "preferred_channels": [
+      "社交媒体"
+    ],
+    "budget_category": "高"
+  },
+  "5": {
+    "prefers_online_ads": true,
+    "preferred_channels": [
+      "网络",
+      "户外",
+      "电视"
+    ],
+    "budget_category": "中"
+  },
+  "6": {
+    "prefers_online_ads": false,
+    "preferred_channels": [
+      "网络"
+    ],
+    "budget_category": "高"
+  },
+  "7": {
+    "prefers_online_ads": false,
+    "preferred_channels": [
+      "报纸",
+      "网络"
+    ],
+    "budget_category": "低"
+  },
+  "8": {
+    "prefers_online_ads": false,
+    "preferred_channels": [
+      "电视"
+    ],
+    "budget_category": "中"
+  },
+  "9": {
+    "prefers_online_ads": true,
+    "preferred_channels": [
+      "报纸",
+      "社交媒体"
+    ],
+    "budget_category": "低"
+  },
+  "10": {
+    "prefers_online_ads": false,
+    "preferred_channels": [
+      "电视",
+      "户外",
+      "社交媒体"
+    ],
+    "budget_category": "高"
+  }
+}

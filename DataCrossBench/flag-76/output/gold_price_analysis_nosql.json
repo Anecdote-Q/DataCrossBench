@@ -1,0 +1,7641 @@
+[
+  {
+    "id": 1,
+    "analysis_date": "2023-03-31",
+    "economic_factors_detail": {
+      "通胀上升": false,
+      "美元走弱": true,
+      "美联储降息": true
+    }
+  },
+  {
+    "id": 2,
+    "analysis_date": "2023-04-01",
+    "economic_factors_detail": {
+      "美元走弱": true,
+      "新冠疫情影响": true
+    }
+  },
+  {
+    "id": 3,
+    "analysis_date": "2023-04-02",
+    "economic_factors_detail": {
+      "美元走弱": true,
+      "地缘冲突加剧": true
+    }
+  },
+  {
+    "id": 4,
+    "analysis_date": "2023-04-03",
+    "economic_factors_detail": {
+      "美联储降息": false,
+      "通胀上升": true
+    }
+  },
+  {
+    "id": 5,
+    "analysis_date": "2023-04-04",
+    "economic_factors_detail": {
+      "通胀上升": true
+    }
+  },
+  {
+    "id": 6,
+    "analysis_date": "2023-04-05",
+    "economic_factors_detail": {
+      "新冠疫情影响": true,
+      "通胀上升": true
+    }
+  },
+  {
+    "id": 7,
+    "analysis_date": "2023-04-06",
+    "economic_factors_detail": {
+      "地缘冲突加剧": false
+    }
+  },
+  {
+    "id": 8,
+    "analysis_date": "2023-04-07",
+    "economic_factors_detail": {
+      "美元走弱": false,
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 9,
+    "analysis_date": "2023-04-08",
+    "economic_factors_detail": {
+      "美元走弱": true
+    }
+  },
+  {
+    "id": 10,
+    "analysis_date": "2023-04-09",
+    "economic_factors_detail": {
+      "通胀上升": true,
+      "美联储降息": true,
+      "新冠疫情影响": true
+    }
+  },
+  {
+    "id": 11,
+    "analysis_date": "2023-04-10",
+    "economic_factors_detail": {
+      "新冠疫情影响": true,
+      "地缘冲突加剧": false
+    }
+  },
+  {
+    "id": 12,
+    "analysis_date": "2023-04-11",
+    "economic_factors_detail": {
+      "美元走弱": true
+    }
+  },
+  {
+    "id": 13,
+    "analysis_date": "2023-04-12",
+    "economic_factors_detail": {
+      "美元走弱": true,
+      "地缘冲突加剧": false
+    }
+  },
+  {
+    "id": 14,
+    "analysis_date": "2023-04-13",
+    "economic_factors_detail": {
+      "通胀上升": true,
+      "美联储降息": true
+    }
+  },
+  {
+    "id": 15,
+    "analysis_date": "2023-04-14",
+    "economic_factors_detail": {
+      "美联储降息": true
+    }
+  },
+  {
+    "id": 16,
+    "analysis_date": "2023-04-15",
+    "economic_factors_detail": {
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 17,
+    "analysis_date": "2023-04-16",
+    "economic_factors_detail": {
+      "新冠疫情影响": true
+    }
+  },
+  {
+    "id": 18,
+    "analysis_date": "2023-04-17",
+    "economic_factors_detail": {
+      "地缘冲突加剧": false
+    }
+  },
+  {
+    "id": 19,
+    "analysis_date": "2023-04-18",
+    "economic_factors_detail": {
+      "美元走弱": false,
+      "新冠疫情影响": false
+    }
+  },
+  {
+    "id": 20,
+    "analysis_date": "2023-04-19",
+    "economic_factors_detail": {
+      "地缘冲突加剧": false,
+      "通胀上升": true
+    }
+  },
+  {
+    "id": 21,
+    "analysis_date": "2023-04-20",
+    "economic_factors_detail": {
+      "通胀上升": true
+    }
+  },
+  {
+    "id": 22,
+    "analysis_date": "2023-04-21",
+    "economic_factors_detail": {
+      "美联储降息": false,
+      "美元走弱": true
+    }
+  },
+  {
+    "id": 23,
+    "analysis_date": "2023-04-22",
+    "economic_factors_detail": {
+      "美元走弱": true
+    }
+  },
+  {
+    "id": 24,
+    "analysis_date": "2023-04-23",
+    "economic_factors_detail": {
+      "地缘冲突加剧": true
+    }
+  },
+  {
+    "id": 25,
+    "analysis_date": "2023-04-24",
+    "economic_factors_detail": {
+      "通胀上升": false,
+      "美元走弱": true
+    }
+  },
+  {
+    "id": 26,
+    "analysis_date": "2023-04-25",
+    "economic_factors_detail": {
+      "美联储降息": false,
+      "地缘冲突加剧": false
+    }
+  },
+  {
+    "id": 27,
+    "analysis_date": "2023-04-26",
+    "economic_factors_detail": {
+      "通胀上升": true,
+      "美联储降息": true,
+      "美元走弱": true
+    }
+  },
+  {
+    "id": 28,
+    "analysis_date": "2023-04-27",
+    "economic_factors_detail": {
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 29,
+    "analysis_date": "2023-04-28",
+    "economic_factors_detail": {
+      "美元走弱": true,
+      "通胀上升": true
+    }
+  },
+  {
+    "id": 30,
+    "analysis_date": "2023-04-29",
+    "economic_factors_detail": {
+      "美联储降息": true,
+      "地缘冲突加剧": true,
+      "通胀上升": true
+    }
+  },
+  {
+    "id": 31,
+    "analysis_date": "2023-04-30",
+    "economic_factors_detail": {
+      "地缘冲突加剧": false
+    }
+  },
+  {
+    "id": 32,
+    "analysis_date": "2023-05-01",
+    "economic_factors_detail": {
+      "美联储降息": true,
+      "美元走弱": true,
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 33,
+    "analysis_date": "2023-05-02",
+    "economic_factors_detail": {
+      "地缘冲突加剧": false,
+      "通胀上升": true
+    }
+  },
+  {
+    "id": 34,
+    "analysis_date": "2023-05-03",
+    "economic_factors_detail": {
+      "美元走弱": false,
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 35,
+    "analysis_date": "2023-05-04",
+    "economic_factors_detail": {
+      "美元走弱": true,
+      "通胀上升": true,
+      "地缘冲突加剧": false
+    }
+  },
+  {
+    "id": 36,
+    "analysis_date": "2023-05-05",
+    "economic_factors_detail": {
+      "新冠疫情影响": true
+    }
+  },
+  {
+    "id": 37,
+    "analysis_date": "2023-05-06",
+    "economic_factors_detail": {
+      "美元走弱": false,
+      "新冠疫情影响": true,
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 38,
+    "analysis_date": "2023-05-07",
+    "economic_factors_detail": {
+      "美元走弱": true,
+      "新冠疫情影响": false
+    }
+  },
+  {
+    "id": 39,
+    "analysis_date": "2023-05-08",
+    "economic_factors_detail": {
+      "美联储降息": false,
+      "通胀上升": false,
+      "地缘冲突加剧": false
+    }
+  },
+  {
+    "id": 40,
+    "analysis_date": "2023-05-09",
+    "economic_factors_detail": {
+      "通胀上升": false,
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 41,
+    "analysis_date": "2023-05-10",
+    "economic_factors_detail": {
+      "通胀上升": true,
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 42,
+    "analysis_date": "2023-05-11",
+    "economic_factors_detail": {
+      "地缘冲突加剧": true,
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 43,
+    "analysis_date": "2023-05-12",
+    "economic_factors_detail": {
+      "新冠疫情影响": false
+    }
+  },
+  {
+    "id": 44,
+    "analysis_date": "2023-05-13",
+    "economic_factors_detail": {
+      "新冠疫情影响": false,
+      "美联储降息": false,
+      "美元走弱": true
+    }
+  },
+  {
+    "id": 45,
+    "analysis_date": "2023-05-14",
+    "economic_factors_detail": {
+      "美联储降息": true,
+      "通胀上升": false,
+      "新冠疫情影响": false
+    }
+  },
+  {
+    "id": 46,
+    "analysis_date": "2023-05-15",
+    "economic_factors_detail": {
+      "美元走弱": true,
+      "新冠疫情影响": true
+    }
+  },
+  {
+    "id": 47,
+    "analysis_date": "2023-05-16",
+    "economic_factors_detail": {
+      "美元走弱": false,
+      "美联储降息": false,
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 48,
+    "analysis_date": "2023-05-17",
+    "economic_factors_detail": {
+      "美元走弱": true,
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 49,
+    "analysis_date": "2023-05-18",
+    "economic_factors_detail": {
+      "地缘冲突加剧": true
+    }
+  },
+  {
+    "id": 50,
+    "analysis_date": "2023-05-19",
+    "economic_factors_detail": {
+      "新冠疫情影响": true
+    }
+  },
+  {
+    "id": 51,
+    "analysis_date": "2023-05-20",
+    "economic_factors_detail": {
+      "新冠疫情影响": false
+    }
+  },
+  {
+    "id": 52,
+    "analysis_date": "2023-05-21",
+    "economic_factors_detail": {
+      "通胀上升": true
+    }
+  },
+  {
+    "id": 53,
+    "analysis_date": "2023-05-22",
+    "economic_factors_detail": {
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 54,
+    "analysis_date": "2023-05-23",
+    "economic_factors_detail": {
+      "新冠疫情影响": false
+    }
+  },
+  {
+    "id": 55,
+    "analysis_date": "2023-05-24",
+    "economic_factors_detail": {
+      "新冠疫情影响": true,
+      "通胀上升": true
+    }
+  },
+  {
+    "id": 56,
+    "analysis_date": "2023-05-25",
+    "economic_factors_detail": {
+      "通胀上升": false,
+      "地缘冲突加剧": true
+    }
+  },
+  {
+    "id": 57,
+    "analysis_date": "2023-05-26",
+    "economic_factors_detail": {
+      "美元走弱": true,
+      "美联储降息": false,
+      "通胀上升": true
+    }
+  },
+  {
+    "id": 58,
+    "analysis_date": "2023-05-27",
+    "economic_factors_detail": {
+      "通胀上升": true
+    }
+  },
+  {
+    "id": 59,
+    "analysis_date": "2023-05-28",
+    "economic_factors_detail": {
+      "美元走弱": true,
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 60,
+    "analysis_date": "2023-05-29",
+    "economic_factors_detail": {
+      "地缘冲突加剧": false
+    }
+  },
+  {
+    "id": 61,
+    "analysis_date": "2023-05-30",
+    "economic_factors_detail": {
+      "新冠疫情影响": false,
+      "通胀上升": true
+    }
+  },
+  {
+    "id": 62,
+    "analysis_date": "2023-05-31",
+    "economic_factors_detail": {
+      "新冠疫情影响": false,
+      "美联储降息": true,
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 63,
+    "analysis_date": "2023-06-01",
+    "economic_factors_detail": {
+      "新冠疫情影响": true,
+      "通胀上升": true
+    }
+  },
+  {
+    "id": 64,
+    "analysis_date": "2023-06-02",
+    "economic_factors_detail": {
+      "美联储降息": false,
+      "地缘冲突加剧": true
+    }
+  },
+  {
+    "id": 65,
+    "analysis_date": "2023-06-03",
+    "economic_factors_detail": {
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 66,
+    "analysis_date": "2023-06-04",
+    "economic_factors_detail": {
+      "美联储降息": true
+    }
+  },
+  {
+    "id": 67,
+    "analysis_date": "2023-06-05",
+    "economic_factors_detail": {
+      "地缘冲突加剧": false,
+      "通胀上升": true,
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 68,
+    "analysis_date": "2023-06-06",
+    "economic_factors_detail": {
+      "地缘冲突加剧": true
+    }
+  },
+  {
+    "id": 69,
+    "analysis_date": "2023-06-07",
+    "economic_factors_detail": {
+      "新冠疫情影响": true
+    }
+  },
+  {
+    "id": 70,
+    "analysis_date": "2023-06-08",
+    "economic_factors_detail": {
+      "通胀上升": false,
+      "地缘冲突加剧": true,
+      "新冠疫情影响": false
+    }
+  },
+  {
+    "id": 71,
+    "analysis_date": "2023-06-09",
+    "economic_factors_detail": {
+      "地缘冲突加剧": true,
+      "美元走弱": false,
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 72,
+    "analysis_date": "2023-06-10",
+    "economic_factors_detail": {
+      "地缘冲突加剧": false,
+      "通胀上升": true
+    }
+  },
+  {
+    "id": 73,
+    "analysis_date": "2023-06-11",
+    "economic_factors_detail": {
+      "美联储降息": true,
+      "通胀上升": true
+    }
+  },
+  {
+    "id": 74,
+    "analysis_date": "2023-06-12",
+    "economic_factors_detail": {
+      "新冠疫情影响": true
+    }
+  },
+  {
+    "id": 75,
+    "analysis_date": "2023-06-13",
+    "economic_factors_detail": {
+      "美联储降息": true
+    }
+  },
+  {
+    "id": 76,
+    "analysis_date": "2023-06-14",
+    "economic_factors_detail": {
+      "美元走弱": true
+    }
+  },
+  {
+    "id": 77,
+    "analysis_date": "2023-06-15",
+    "economic_factors_detail": {
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 78,
+    "analysis_date": "2023-06-16",
+    "economic_factors_detail": {
+      "通胀上升": true
+    }
+  },
+  {
+    "id": 79,
+    "analysis_date": "2023-06-17",
+    "economic_factors_detail": {
+      "地缘冲突加剧": true,
+      "新冠疫情影响": true,
+      "美联储降息": true
+    }
+  },
+  {
+    "id": 80,
+    "analysis_date": "2023-06-18",
+    "economic_factors_detail": {
+      "美联储降息": true
+    }
+  },
+  {
+    "id": 81,
+    "analysis_date": "2023-06-19",
+    "economic_factors_detail": {
+      "新冠疫情影响": true
+    }
+  },
+  {
+    "id": 82,
+    "analysis_date": "2023-06-20",
+    "economic_factors_detail": {
+      "地缘冲突加剧": true,
+      "美元走弱": false,
+      "新冠疫情影响": false
+    }
+  },
+  {
+    "id": 83,
+    "analysis_date": "2023-06-21",
+    "economic_factors_detail": {
+      "通胀上升": false,
+      "美元走弱": true
+    }
+  },
+  {
+    "id": 84,
+    "analysis_date": "2023-06-22",
+    "economic_factors_detail": {
+      "地缘冲突加剧": false
+    }
+  },
+  {
+    "id": 85,
+    "analysis_date": "2023-06-23",
+    "economic_factors_detail": {
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 86,
+    "analysis_date": "2023-06-24",
+    "economic_factors_detail": {
+      "地缘冲突加剧": false,
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 87,
+    "analysis_date": "2023-06-25",
+    "economic_factors_detail": {
+      "地缘冲突加剧": false,
+      "通胀上升": true
+    }
+  },
+  {
+    "id": 88,
+    "analysis_date": "2023-06-26",
+    "economic_factors_detail": {
+      "新冠疫情影响": true
+    }
+  },
+  {
+    "id": 89,
+    "analysis_date": "2023-06-27",
+    "economic_factors_detail": {
+      "新冠疫情影响": false,
+      "地缘冲突加剧": false
+    }
+  },
+  {
+    "id": 90,
+    "analysis_date": "2023-06-28",
+    "economic_factors_detail": {
+      "通胀上升": false,
+      "新冠疫情影响": false,
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 91,
+    "analysis_date": "2023-06-29",
+    "economic_factors_detail": {
+      "新冠疫情影响": true,
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 92,
+    "analysis_date": "2023-06-30",
+    "economic_factors_detail": {
+      "美联储降息": false,
+      "通胀上升": true
+    }
+  },
+  {
+    "id": 93,
+    "analysis_date": "2023-07-01",
+    "economic_factors_detail": {
+      "通胀上升": false,
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 94,
+    "analysis_date": "2023-07-02",
+    "economic_factors_detail": {
+      "美联储降息": true
+    }
+  },
+  {
+    "id": 95,
+    "analysis_date": "2023-07-03",
+    "economic_factors_detail": {
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 96,
+    "analysis_date": "2023-07-04",
+    "economic_factors_detail": {
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 97,
+    "analysis_date": "2023-07-05",
+    "economic_factors_detail": {
+      "新冠疫情影响": true,
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 98,
+    "analysis_date": "2023-07-06",
+    "economic_factors_detail": {
+      "美联储降息": true
+    }
+  },
+  {
+    "id": 99,
+    "analysis_date": "2023-07-07",
+    "economic_factors_detail": {
+      "地缘冲突加剧": false,
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 100,
+    "analysis_date": "2023-07-08",
+    "economic_factors_detail": {
+      "新冠疫情影响": true
+    }
+  },
+  {
+    "id": 101,
+    "analysis_date": "2023-07-09",
+    "economic_factors_detail": {
+      "地缘冲突加剧": true,
+      "通胀上升": false,
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 102,
+    "analysis_date": "2023-07-10",
+    "economic_factors_detail": {
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 103,
+    "analysis_date": "2023-07-11",
+    "economic_factors_detail": {
+      "新冠疫情影响": false,
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 104,
+    "analysis_date": "2023-07-12",
+    "economic_factors_detail": {
+      "通胀上升": true
+    }
+  },
+  {
+    "id": 105,
+    "analysis_date": "2023-07-13",
+    "economic_factors_detail": {
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 106,
+    "analysis_date": "2023-07-14",
+    "economic_factors_detail": {
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 107,
+    "analysis_date": "2023-07-15",
+    "economic_factors_detail": {
+      "新冠疫情影响": true,
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 108,
+    "analysis_date": "2023-07-16",
+    "economic_factors_detail": {
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 109,
+    "analysis_date": "2023-07-17",
+    "economic_factors_detail": {
+      "美元走弱": false,
+      "新冠疫情影响": true,
+      "通胀上升": true
+    }
+  },
+  {
+    "id": 110,
+    "analysis_date": "2023-07-18",
+    "economic_factors_detail": {
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 111,
+    "analysis_date": "2023-07-19",
+    "economic_factors_detail": {
+      "通胀上升": false,
+      "新冠疫情影响": true
+    }
+  },
+  {
+    "id": 112,
+    "analysis_date": "2023-07-20",
+    "economic_factors_detail": {
+      "美元走弱": false,
+      "通胀上升": true,
+      "新冠疫情影响": true
+    }
+  },
+  {
+    "id": 113,
+    "analysis_date": "2023-07-21",
+    "economic_factors_detail": {
+      "通胀上升": false,
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 114,
+    "analysis_date": "2023-07-22",
+    "economic_factors_detail": {
+      "通胀上升": true
+    }
+  },
+  {
+    "id": 115,
+    "analysis_date": "2023-07-23",
+    "economic_factors_detail": {
+      "地缘冲突加剧": true,
+      "新冠疫情影响": false
+    }
+  },
+  {
+    "id": 116,
+    "analysis_date": "2023-07-24",
+    "economic_factors_detail": {
+      "通胀上升": false,
+      "美联储降息": false,
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 117,
+    "analysis_date": "2023-07-25",
+    "economic_factors_detail": {
+      "美联储降息": false,
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 118,
+    "analysis_date": "2023-07-26",
+    "economic_factors_detail": {
+      "美联储降息": true,
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 119,
+    "analysis_date": "2023-07-27",
+    "economic_factors_detail": {
+      "新冠疫情影响": true
+    }
+  },
+  {
+    "id": 120,
+    "analysis_date": "2023-07-28",
+    "economic_factors_detail": {
+      "美联储降息": true
+    }
+  },
+  {
+    "id": 121,
+    "analysis_date": "2023-07-29",
+    "economic_factors_detail": {
+      "美元走弱": false,
+      "通胀上升": false,
+      "新冠疫情影响": false
+    }
+  },
+  {
+    "id": 122,
+    "analysis_date": "2023-07-30",
+    "economic_factors_detail": {
+      "新冠疫情影响": false,
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 123,
+    "analysis_date": "2023-07-31",
+    "economic_factors_detail": {
+      "美联储降息": true
+    }
+  },
+  {
+    "id": 124,
+    "analysis_date": "2023-08-01",
+    "economic_factors_detail": {
+      "新冠疫情影响": true,
+      "地缘冲突加剧": true,
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 125,
+    "analysis_date": "2023-08-02",
+    "economic_factors_detail": {
+      "新冠疫情影响": false,
+      "美元走弱": true
+    }
+  },
+  {
+    "id": 126,
+    "analysis_date": "2023-08-03",
+    "economic_factors_detail": {
+      "新冠疫情影响": true
+    }
+  },
+  {
+    "id": 127,
+    "analysis_date": "2023-08-04",
+    "economic_factors_detail": {
+      "通胀上升": false,
+      "美元走弱": true
+    }
+  },
+  {
+    "id": 128,
+    "analysis_date": "2023-08-05",
+    "economic_factors_detail": {
+      "新冠疫情影响": true
+    }
+  },
+  {
+    "id": 129,
+    "analysis_date": "2023-08-06",
+    "economic_factors_detail": {
+      "美元走弱": true
+    }
+  },
+  {
+    "id": 130,
+    "analysis_date": "2023-08-07",
+    "economic_factors_detail": {
+      "新冠疫情影响": true,
+      "美联储降息": false,
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 131,
+    "analysis_date": "2023-08-08",
+    "economic_factors_detail": {
+      "地缘冲突加剧": false,
+      "新冠疫情影响": true,
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 132,
+    "analysis_date": "2023-08-09",
+    "economic_factors_detail": {
+      "地缘冲突加剧": false,
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 133,
+    "analysis_date": "2023-08-10",
+    "economic_factors_detail": {
+      "新冠疫情影响": true,
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 134,
+    "analysis_date": "2023-08-11",
+    "economic_factors_detail": {
+      "地缘冲突加剧": true,
+      "美元走弱": true
+    }
+  },
+  {
+    "id": 135,
+    "analysis_date": "2023-08-12",
+    "economic_factors_detail": {
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 136,
+    "analysis_date": "2023-08-13",
+    "economic_factors_detail": {
+      "新冠疫情影响": true,
+      "美元走弱": true
+    }
+  },
+  {
+    "id": 137,
+    "analysis_date": "2023-08-14",
+    "economic_factors_detail": {
+      "新冠疫情影响": false
+    }
+  },
+  {
+    "id": 138,
+    "analysis_date": "2023-08-15",
+    "economic_factors_detail": {
+      "新冠疫情影响": false,
+      "美元走弱": true
+    }
+  },
+  {
+    "id": 139,
+    "analysis_date": "2023-08-16",
+    "economic_factors_detail": {
+      "美元走弱": true
+    }
+  },
+  {
+    "id": 140,
+    "analysis_date": "2023-08-17",
+    "economic_factors_detail": {
+      "美元走弱": true,
+      "通胀上升": true,
+      "地缘冲突加剧": true
+    }
+  },
+  {
+    "id": 141,
+    "analysis_date": "2023-08-18",
+    "economic_factors_detail": {
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 142,
+    "analysis_date": "2023-08-19",
+    "economic_factors_detail": {
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 143,
+    "analysis_date": "2023-08-20",
+    "economic_factors_detail": {
+      "美元走弱": true,
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 144,
+    "analysis_date": "2023-08-21",
+    "economic_factors_detail": {
+      "美联储降息": true
+    }
+  },
+  {
+    "id": 145,
+    "analysis_date": "2023-08-22",
+    "economic_factors_detail": {
+      "新冠疫情影响": false,
+      "通胀上升": true
+    }
+  },
+  {
+    "id": 146,
+    "analysis_date": "2023-08-23",
+    "economic_factors_detail": {
+      "美元走弱": false,
+      "通胀上升": false,
+      "美联储降息": true
+    }
+  },
+  {
+    "id": 147,
+    "analysis_date": "2023-08-24",
+    "economic_factors_detail": {
+      "美元走弱": true,
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 148,
+    "analysis_date": "2023-08-25",
+    "economic_factors_detail": {
+      "地缘冲突加剧": true
+    }
+  },
+  {
+    "id": 149,
+    "analysis_date": "2023-08-26",
+    "economic_factors_detail": {
+      "通胀上升": true,
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 150,
+    "analysis_date": "2023-08-27",
+    "economic_factors_detail": {
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 151,
+    "analysis_date": "2023-08-28",
+    "economic_factors_detail": {
+      "地缘冲突加剧": false
+    }
+  },
+  {
+    "id": 152,
+    "analysis_date": "2023-08-29",
+    "economic_factors_detail": {
+      "通胀上升": true,
+      "新冠疫情影响": true,
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 153,
+    "analysis_date": "2023-08-30",
+    "economic_factors_detail": {
+      "通胀上升": true,
+      "新冠疫情影响": false
+    }
+  },
+  {
+    "id": 154,
+    "analysis_date": "2023-08-31",
+    "economic_factors_detail": {
+      "通胀上升": false,
+      "地缘冲突加剧": false
+    }
+  },
+  {
+    "id": 155,
+    "analysis_date": "2023-09-01",
+    "economic_factors_detail": {
+      "地缘冲突加剧": true,
+      "新冠疫情影响": false
+    }
+  },
+  {
+    "id": 156,
+    "analysis_date": "2023-09-02",
+    "economic_factors_detail": {
+      "美元走弱": true,
+      "通胀上升": true
+    }
+  },
+  {
+    "id": 157,
+    "analysis_date": "2023-09-03",
+    "economic_factors_detail": {
+      "新冠疫情影响": false,
+      "美元走弱": false,
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 158,
+    "analysis_date": "2023-09-04",
+    "economic_factors_detail": {
+      "通胀上升": true,
+      "地缘冲突加剧": true
+    }
+  },
+  {
+    "id": 159,
+    "analysis_date": "2023-09-05",
+    "economic_factors_detail": {
+      "地缘冲突加剧": true,
+      "通胀上升": true
+    }
+  },
+  {
+    "id": 160,
+    "analysis_date": "2023-09-06",
+    "economic_factors_detail": {
+      "通胀上升": true,
+      "地缘冲突加剧": true
+    }
+  },
+  {
+    "id": 161,
+    "analysis_date": "2023-09-07",
+    "economic_factors_detail": {
+      "通胀上升": true
+    }
+  },
+  {
+    "id": 162,
+    "analysis_date": "2023-09-08",
+    "economic_factors_detail": {
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 163,
+    "analysis_date": "2023-09-09",
+    "economic_factors_detail": {
+      "地缘冲突加剧": true
+    }
+  },
+  {
+    "id": 164,
+    "analysis_date": "2023-09-10",
+    "economic_factors_detail": {
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 165,
+    "analysis_date": "2023-09-11",
+    "economic_factors_detail": {
+      "通胀上升": false,
+      "新冠疫情影响": false,
+      "地缘冲突加剧": false
+    }
+  },
+  {
+    "id": 166,
+    "analysis_date": "2023-09-12",
+    "economic_factors_detail": {
+      "地缘冲突加剧": false
+    }
+  },
+  {
+    "id": 167,
+    "analysis_date": "2023-09-13",
+    "economic_factors_detail": {
+      "新冠疫情影响": false
+    }
+  },
+  {
+    "id": 168,
+    "analysis_date": "2023-09-14",
+    "economic_factors_detail": {
+      "新冠疫情影响": false
+    }
+  },
+  {
+    "id": 169,
+    "analysis_date": "2023-09-15",
+    "economic_factors_detail": {
+      "美联储降息": true
+    }
+  },
+  {
+    "id": 170,
+    "analysis_date": "2023-09-16",
+    "economic_factors_detail": {
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 171,
+    "analysis_date": "2023-09-17",
+    "economic_factors_detail": {
+      "通胀上升": true
+    }
+  },
+  {
+    "id": 172,
+    "analysis_date": "2023-09-18",
+    "economic_factors_detail": {
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 173,
+    "analysis_date": "2023-09-19",
+    "economic_factors_detail": {
+      "美元走弱": false,
+      "美联储降息": true,
+      "地缘冲突加剧": true
+    }
+  },
+  {
+    "id": 174,
+    "analysis_date": "2023-09-20",
+    "economic_factors_detail": {
+      "通胀上升": true,
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 175,
+    "analysis_date": "2023-09-21",
+    "economic_factors_detail": {
+      "地缘冲突加剧": true,
+      "新冠疫情影响": false
+    }
+  },
+  {
+    "id": 176,
+    "analysis_date": "2023-09-22",
+    "economic_factors_detail": {
+      "地缘冲突加剧": false
+    }
+  },
+  {
+    "id": 177,
+    "analysis_date": "2023-09-23",
+    "economic_factors_detail": {
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 178,
+    "analysis_date": "2023-09-24",
+    "economic_factors_detail": {
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 179,
+    "analysis_date": "2023-09-25",
+    "economic_factors_detail": {
+      "新冠疫情影响": true
+    }
+  },
+  {
+    "id": 180,
+    "analysis_date": "2023-09-26",
+    "economic_factors_detail": {
+      "美元走弱": false,
+      "通胀上升": true
+    }
+  },
+  {
+    "id": 181,
+    "analysis_date": "2023-09-27",
+    "economic_factors_detail": {
+      "地缘冲突加剧": true,
+      "美元走弱": false,
+      "新冠疫情影响": true
+    }
+  },
+  {
+    "id": 182,
+    "analysis_date": "2023-09-28",
+    "economic_factors_detail": {
+      "新冠疫情影响": true,
+      "地缘冲突加剧": false,
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 183,
+    "analysis_date": "2023-09-29",
+    "economic_factors_detail": {
+      "地缘冲突加剧": true
+    }
+  },
+  {
+    "id": 184,
+    "analysis_date": "2023-09-30",
+    "economic_factors_detail": {
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 185,
+    "analysis_date": "2023-10-01",
+    "economic_factors_detail": {
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 186,
+    "analysis_date": "2023-10-02",
+    "economic_factors_detail": {
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 187,
+    "analysis_date": "2023-10-03",
+    "economic_factors_detail": {
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 188,
+    "analysis_date": "2023-10-04",
+    "economic_factors_detail": {
+      "通胀上升": false,
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 189,
+    "analysis_date": "2023-10-05",
+    "economic_factors_detail": {
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 190,
+    "analysis_date": "2023-10-06",
+    "economic_factors_detail": {
+      "美联储降息": true,
+      "通胀上升": false,
+      "美元走弱": true
+    }
+  },
+  {
+    "id": 191,
+    "analysis_date": "2023-10-07",
+    "economic_factors_detail": {
+      "新冠疫情影响": true,
+      "美联储降息": false,
+      "地缘冲突加剧": false
+    }
+  },
+  {
+    "id": 192,
+    "analysis_date": "2023-10-08",
+    "economic_factors_detail": {
+      "新冠疫情影响": true
+    }
+  },
+  {
+    "id": 193,
+    "analysis_date": "2023-10-09",
+    "economic_factors_detail": {
+      "美联储降息": true
+    }
+  },
+  {
+    "id": 194,
+    "analysis_date": "2023-10-10",
+    "economic_factors_detail": {
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 195,
+    "analysis_date": "2023-10-11",
+    "economic_factors_detail": {
+      "新冠疫情影响": true
+    }
+  },
+  {
+    "id": 196,
+    "analysis_date": "2023-10-12",
+    "economic_factors_detail": {
+      "地缘冲突加剧": true
+    }
+  },
+  {
+    "id": 197,
+    "analysis_date": "2023-10-13",
+    "economic_factors_detail": {
+      "美联储降息": false,
+      "通胀上升": false,
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 198,
+    "analysis_date": "2023-10-14",
+    "economic_factors_detail": {
+      "美联储降息": false,
+      "美元走弱": false,
+      "新冠疫情影响": true
+    }
+  },
+  {
+    "id": 199,
+    "analysis_date": "2023-10-15",
+    "economic_factors_detail": {
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 200,
+    "analysis_date": "2023-10-16",
+    "economic_factors_detail": {
+      "美联储降息": false,
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 201,
+    "analysis_date": "2023-10-17",
+    "economic_factors_detail": {
+      "地缘冲突加剧": false
+    }
+  },
+  {
+    "id": 202,
+    "analysis_date": "2023-10-18",
+    "economic_factors_detail": {
+      "地缘冲突加剧": true,
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 203,
+    "analysis_date": "2023-10-19",
+    "economic_factors_detail": {
+      "美元走弱": true
+    }
+  },
+  {
+    "id": 204,
+    "analysis_date": "2023-10-20",
+    "economic_factors_detail": {
+      "通胀上升": true,
+      "新冠疫情影响": true
+    }
+  },
+  {
+    "id": 205,
+    "analysis_date": "2023-10-21",
+    "economic_factors_detail": {
+      "通胀上升": true,
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 206,
+    "analysis_date": "2023-10-22",
+    "economic_factors_detail": {
+      "美元走弱": true,
+      "新冠疫情影响": false
+    }
+  },
+  {
+    "id": 207,
+    "analysis_date": "2023-10-23",
+    "economic_factors_detail": {
+      "通胀上升": false,
+      "美联储降息": true
+    }
+  },
+  {
+    "id": 208,
+    "analysis_date": "2023-10-24",
+    "economic_factors_detail": {
+      "通胀上升": false,
+      "新冠疫情影响": true,
+      "美元走弱": true
+    }
+  },
+  {
+    "id": 209,
+    "analysis_date": "2023-10-25",
+    "economic_factors_detail": {
+      "美元走弱": false,
+      "地缘冲突加剧": true
+    }
+  },
+  {
+    "id": 210,
+    "analysis_date": "2023-10-26",
+    "economic_factors_detail": {
+      "通胀上升": true
+    }
+  },
+  {
+    "id": 211,
+    "analysis_date": "2023-10-27",
+    "economic_factors_detail": {
+      "美元走弱": true
+    }
+  },
+  {
+    "id": 212,
+    "analysis_date": "2023-10-28",
+    "economic_factors_detail": {
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 213,
+    "analysis_date": "2023-10-29",
+    "economic_factors_detail": {
+      "地缘冲突加剧": false,
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 214,
+    "analysis_date": "2023-10-30",
+    "economic_factors_detail": {
+      "通胀上升": false,
+      "地缘冲突加剧": false,
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 215,
+    "analysis_date": "2023-10-31",
+    "economic_factors_detail": {
+      "通胀上升": true
+    }
+  },
+  {
+    "id": 216,
+    "analysis_date": "2023-11-01",
+    "economic_factors_detail": {
+      "新冠疫情影响": false
+    }
+  },
+  {
+    "id": 217,
+    "analysis_date": "2023-11-02",
+    "economic_factors_detail": {
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 218,
+    "analysis_date": "2023-11-03",
+    "economic_factors_detail": {
+      "美元走弱": true,
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 219,
+    "analysis_date": "2023-11-04",
+    "economic_factors_detail": {
+      "美联储降息": false,
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 220,
+    "analysis_date": "2023-11-05",
+    "economic_factors_detail": {
+      "美元走弱": true,
+      "地缘冲突加剧": true
+    }
+  },
+  {
+    "id": 221,
+    "analysis_date": "2023-11-06",
+    "economic_factors_detail": {
+      "地缘冲突加剧": true,
+      "新冠疫情影响": false,
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 222,
+    "analysis_date": "2023-11-07",
+    "economic_factors_detail": {
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 223,
+    "analysis_date": "2023-11-08",
+    "economic_factors_detail": {
+      "新冠疫情影响": false
+    }
+  },
+  {
+    "id": 224,
+    "analysis_date": "2023-11-09",
+    "economic_factors_detail": {
+      "通胀上升": false,
+      "地缘冲突加剧": false
+    }
+  },
+  {
+    "id": 225,
+    "analysis_date": "2023-11-10",
+    "economic_factors_detail": {
+      "地缘冲突加剧": false
+    }
+  },
+  {
+    "id": 226,
+    "analysis_date": "2023-11-11",
+    "economic_factors_detail": {
+      "美联储降息": false,
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 227,
+    "analysis_date": "2023-11-12",
+    "economic_factors_detail": {
+      "新冠疫情影响": false,
+      "通胀上升": true,
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 228,
+    "analysis_date": "2023-11-13",
+    "economic_factors_detail": {
+      "通胀上升": true
+    }
+  },
+  {
+    "id": 229,
+    "analysis_date": "2023-11-14",
+    "economic_factors_detail": {
+      "新冠疫情影响": true,
+      "地缘冲突加剧": false,
+      "美元走弱": true
+    }
+  },
+  {
+    "id": 230,
+    "analysis_date": "2023-11-15",
+    "economic_factors_detail": {
+      "新冠疫情影响": true
+    }
+  },
+  {
+    "id": 231,
+    "analysis_date": "2023-11-16",
+    "economic_factors_detail": {
+      "地缘冲突加剧": true
+    }
+  },
+  {
+    "id": 232,
+    "analysis_date": "2023-11-17",
+    "economic_factors_detail": {
+      "地缘冲突加剧": false
+    }
+  },
+  {
+    "id": 233,
+    "analysis_date": "2023-11-18",
+    "economic_factors_detail": {
+      "美元走弱": true,
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 234,
+    "analysis_date": "2023-11-19",
+    "economic_factors_detail": {
+      "通胀上升": false,
+      "美联储降息": true,
+      "地缘冲突加剧": false
+    }
+  },
+  {
+    "id": 235,
+    "analysis_date": "2023-11-20",
+    "economic_factors_detail": {
+      "美元走弱": true,
+      "美联储降息": true
+    }
+  },
+  {
+    "id": 236,
+    "analysis_date": "2023-11-21",
+    "economic_factors_detail": {
+      "美元走弱": true,
+      "地缘冲突加剧": true,
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 237,
+    "analysis_date": "2023-11-22",
+    "economic_factors_detail": {
+      "新冠疫情影响": false
+    }
+  },
+  {
+    "id": 238,
+    "analysis_date": "2023-11-23",
+    "economic_factors_detail": {
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 239,
+    "analysis_date": "2023-11-24",
+    "economic_factors_detail": {
+      "美元走弱": true
+    }
+  },
+  {
+    "id": 240,
+    "analysis_date": "2023-11-25",
+    "economic_factors_detail": {
+      "地缘冲突加剧": false
+    }
+  },
+  {
+    "id": 241,
+    "analysis_date": "2023-11-26",
+    "economic_factors_detail": {
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 242,
+    "analysis_date": "2023-11-27",
+    "economic_factors_detail": {
+      "新冠疫情影响": false,
+      "美联储降息": true
+    }
+  },
+  {
+    "id": 243,
+    "analysis_date": "2023-11-28",
+    "economic_factors_detail": {
+      "地缘冲突加剧": false,
+      "新冠疫情影响": true,
+      "美元走弱": true
+    }
+  },
+  {
+    "id": 244,
+    "analysis_date": "2023-11-29",
+    "economic_factors_detail": {
+      "美联储降息": true
+    }
+  },
+  {
+    "id": 245,
+    "analysis_date": "2023-11-30",
+    "economic_factors_detail": {
+      "新冠疫情影响": true,
+      "地缘冲突加剧": false
+    }
+  },
+  {
+    "id": 246,
+    "analysis_date": "2023-12-01",
+    "economic_factors_detail": {
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 247,
+    "analysis_date": "2023-12-02",
+    "economic_factors_detail": {
+      "地缘冲突加剧": true,
+      "新冠疫情影响": true
+    }
+  },
+  {
+    "id": 248,
+    "analysis_date": "2023-12-03",
+    "economic_factors_detail": {
+      "地缘冲突加剧": false
+    }
+  },
+  {
+    "id": 249,
+    "analysis_date": "2023-12-04",
+    "economic_factors_detail": {
+      "新冠疫情影响": true
+    }
+  },
+  {
+    "id": 250,
+    "analysis_date": "2023-12-05",
+    "economic_factors_detail": {
+      "通胀上升": false,
+      "新冠疫情影响": false
+    }
+  },
+  {
+    "id": 251,
+    "analysis_date": "2023-12-06",
+    "economic_factors_detail": {
+      "新冠疫情影响": true
+    }
+  },
+  {
+    "id": 252,
+    "analysis_date": "2023-12-07",
+    "economic_factors_detail": {
+      "新冠疫情影响": false
+    }
+  },
+  {
+    "id": 253,
+    "analysis_date": "2023-12-08",
+    "economic_factors_detail": {
+      "新冠疫情影响": false,
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 254,
+    "analysis_date": "2023-12-09",
+    "economic_factors_detail": {
+      "美元走弱": false,
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 255,
+    "analysis_date": "2023-12-10",
+    "economic_factors_detail": {
+      "美联储降息": true
+    }
+  },
+  {
+    "id": 256,
+    "analysis_date": "2023-12-11",
+    "economic_factors_detail": {
+      "通胀上升": true,
+      "地缘冲突加剧": false,
+      "美元走弱": true
+    }
+  },
+  {
+    "id": 257,
+    "analysis_date": "2023-12-12",
+    "economic_factors_detail": {
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 258,
+    "analysis_date": "2023-12-13",
+    "economic_factors_detail": {
+      "新冠疫情影响": true
+    }
+  },
+  {
+    "id": 259,
+    "analysis_date": "2023-12-14",
+    "economic_factors_detail": {
+      "通胀上升": true
+    }
+  },
+  {
+    "id": 260,
+    "analysis_date": "2023-12-15",
+    "economic_factors_detail": {
+      "新冠疫情影响": false,
+      "美联储降息": true
+    }
+  },
+  {
+    "id": 261,
+    "analysis_date": "2023-12-16",
+    "economic_factors_detail": {
+      "通胀上升": false,
+      "美元走弱": true
+    }
+  },
+  {
+    "id": 262,
+    "analysis_date": "2023-12-17",
+    "economic_factors_detail": {
+      "美联储降息": false,
+      "地缘冲突加剧": true,
+      "美元走弱": true
+    }
+  },
+  {
+    "id": 263,
+    "analysis_date": "2023-12-18",
+    "economic_factors_detail": {
+      "美联储降息": true,
+      "新冠疫情影响": true
+    }
+  },
+  {
+    "id": 264,
+    "analysis_date": "2023-12-19",
+    "economic_factors_detail": {
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 265,
+    "analysis_date": "2023-12-20",
+    "economic_factors_detail": {
+      "美元走弱": false,
+      "美联储降息": true,
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 266,
+    "analysis_date": "2023-12-21",
+    "economic_factors_detail": {
+      "地缘冲突加剧": true,
+      "美联储降息": true
+    }
+  },
+  {
+    "id": 267,
+    "analysis_date": "2023-12-22",
+    "economic_factors_detail": {
+      "地缘冲突加剧": true
+    }
+  },
+  {
+    "id": 268,
+    "analysis_date": "2023-12-23",
+    "economic_factors_detail": {
+      "地缘冲突加剧": true,
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 269,
+    "analysis_date": "2023-12-24",
+    "economic_factors_detail": {
+      "新冠疫情影响": false
+    }
+  },
+  {
+    "id": 270,
+    "analysis_date": "2023-12-25",
+    "economic_factors_detail": {
+      "美元走弱": true,
+      "通胀上升": true,
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 271,
+    "analysis_date": "2023-12-26",
+    "economic_factors_detail": {
+      "美元走弱": false,
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 272,
+    "analysis_date": "2023-12-27",
+    "economic_factors_detail": {
+      "新冠疫情影响": false,
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 273,
+    "analysis_date": "2023-12-28",
+    "economic_factors_detail": {
+      "新冠疫情影响": true,
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 274,
+    "analysis_date": "2023-12-29",
+    "economic_factors_detail": {
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 275,
+    "analysis_date": "2023-12-30",
+    "economic_factors_detail": {
+      "新冠疫情影响": false
+    }
+  },
+  {
+    "id": 276,
+    "analysis_date": "2023-12-31",
+    "economic_factors_detail": {
+      "通胀上升": true
+    }
+  },
+  {
+    "id": 277,
+    "analysis_date": "2024-01-01",
+    "economic_factors_detail": {
+      "美联储降息": true,
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 278,
+    "analysis_date": "2024-01-02",
+    "economic_factors_detail": {
+      "新冠疫情影响": true
+    }
+  },
+  {
+    "id": 279,
+    "analysis_date": "2024-01-03",
+    "economic_factors_detail": {
+      "新冠疫情影响": false,
+      "美元走弱": true
+    }
+  },
+  {
+    "id": 280,
+    "analysis_date": "2024-01-04",
+    "economic_factors_detail": {
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 281,
+    "analysis_date": "2024-01-05",
+    "economic_factors_detail": {
+      "美元走弱": false,
+      "美联储降息": true
+    }
+  },
+  {
+    "id": 282,
+    "analysis_date": "2024-01-06",
+    "economic_factors_detail": {
+      "通胀上升": true,
+      "新冠疫情影响": false
+    }
+  },
+  {
+    "id": 283,
+    "analysis_date": "2024-01-07",
+    "economic_factors_detail": {
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 284,
+    "analysis_date": "2024-01-08",
+    "economic_factors_detail": {
+      "地缘冲突加剧": true
+    }
+  },
+  {
+    "id": 285,
+    "analysis_date": "2024-01-09",
+    "economic_factors_detail": {
+      "地缘冲突加剧": false,
+      "通胀上升": true
+    }
+  },
+  {
+    "id": 286,
+    "analysis_date": "2024-01-10",
+    "economic_factors_detail": {
+      "新冠疫情影响": true,
+      "通胀上升": true
+    }
+  },
+  {
+    "id": 287,
+    "analysis_date": "2024-01-11",
+    "economic_factors_detail": {
+      "美元走弱": false,
+      "美联储降息": true
+    }
+  },
+  {
+    "id": 288,
+    "analysis_date": "2024-01-12",
+    "economic_factors_detail": {
+      "地缘冲突加剧": true
+    }
+  },
+  {
+    "id": 289,
+    "analysis_date": "2024-01-13",
+    "economic_factors_detail": {
+      "通胀上升": true,
+      "新冠疫情影响": false
+    }
+  },
+  {
+    "id": 290,
+    "analysis_date": "2024-01-14",
+    "economic_factors_detail": {
+      "地缘冲突加剧": true,
+      "美联储降息": true
+    }
+  },
+  {
+    "id": 291,
+    "analysis_date": "2024-01-15",
+    "economic_factors_detail": {
+      "美联储降息": false,
+      "通胀上升": true,
+      "地缘冲突加剧": false
+    }
+  },
+  {
+    "id": 292,
+    "analysis_date": "2024-01-16",
+    "economic_factors_detail": {
+      "地缘冲突加剧": true,
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 293,
+    "analysis_date": "2024-01-17",
+    "economic_factors_detail": {
+      "新冠疫情影响": true
+    }
+  },
+  {
+    "id": 294,
+    "analysis_date": "2024-01-18",
+    "economic_factors_detail": {
+      "美元走弱": true
+    }
+  },
+  {
+    "id": 295,
+    "analysis_date": "2024-01-19",
+    "economic_factors_detail": {
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 296,
+    "analysis_date": "2024-01-20",
+    "economic_factors_detail": {
+      "地缘冲突加剧": false,
+      "美联储降息": true,
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 297,
+    "analysis_date": "2024-01-21",
+    "economic_factors_detail": {
+      "通胀上升": true
+    }
+  },
+  {
+    "id": 298,
+    "analysis_date": "2024-01-22",
+    "economic_factors_detail": {
+      "地缘冲突加剧": true
+    }
+  },
+  {
+    "id": 299,
+    "analysis_date": "2024-01-23",
+    "economic_factors_detail": {
+      "美联储降息": false,
+      "新冠疫情影响": true
+    }
+  },
+  {
+    "id": 300,
+    "analysis_date": "2024-01-24",
+    "economic_factors_detail": {
+      "美元走弱": false,
+      "美联储降息": true
+    }
+  },
+  {
+    "id": 301,
+    "analysis_date": "2024-01-25",
+    "economic_factors_detail": {
+      "通胀上升": false,
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 302,
+    "analysis_date": "2024-01-26",
+    "economic_factors_detail": {
+      "美联储降息": true
+    }
+  },
+  {
+    "id": 303,
+    "analysis_date": "2024-01-27",
+    "economic_factors_detail": {
+      "美元走弱": false,
+      "美联储降息": true
+    }
+  },
+  {
+    "id": 304,
+    "analysis_date": "2024-01-28",
+    "economic_factors_detail": {
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 305,
+    "analysis_date": "2024-01-29",
+    "economic_factors_detail": {
+      "地缘冲突加剧": false
+    }
+  },
+  {
+    "id": 306,
+    "analysis_date": "2024-01-30",
+    "economic_factors_detail": {
+      "美联储降息": true,
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 307,
+    "analysis_date": "2024-01-31",
+    "economic_factors_detail": {
+      "地缘冲突加剧": false,
+      "新冠疫情影响": true
+    }
+  },
+  {
+    "id": 308,
+    "analysis_date": "2024-02-01",
+    "economic_factors_detail": {
+      "美元走弱": true
+    }
+  },
+  {
+    "id": 309,
+    "analysis_date": "2024-02-02",
+    "economic_factors_detail": {
+      "新冠疫情影响": true
+    }
+  },
+  {
+    "id": 310,
+    "analysis_date": "2024-02-03",
+    "economic_factors_detail": {
+      "新冠疫情影响": false
+    }
+  },
+  {
+    "id": 311,
+    "analysis_date": "2024-02-04",
+    "economic_factors_detail": {
+      "新冠疫情影响": false,
+      "地缘冲突加剧": true
+    }
+  },
+  {
+    "id": 312,
+    "analysis_date": "2024-02-05",
+    "economic_factors_detail": {
+      "美元走弱": false,
+      "新冠疫情影响": true,
+      "地缘冲突加剧": false
+    }
+  },
+  {
+    "id": 313,
+    "analysis_date": "2024-02-06",
+    "economic_factors_detail": {
+      "新冠疫情影响": false,
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 314,
+    "analysis_date": "2024-02-07",
+    "economic_factors_detail": {
+      "美联储降息": true
+    }
+  },
+  {
+    "id": 315,
+    "analysis_date": "2024-02-08",
+    "economic_factors_detail": {
+      "美联储降息": true,
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 316,
+    "analysis_date": "2024-02-09",
+    "economic_factors_detail": {
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 317,
+    "analysis_date": "2024-02-10",
+    "economic_factors_detail": {
+      "地缘冲突加剧": true,
+      "新冠疫情影响": false
+    }
+  },
+  {
+    "id": 318,
+    "analysis_date": "2024-02-11",
+    "economic_factors_detail": {
+      "地缘冲突加剧": false,
+      "通胀上升": true
+    }
+  },
+  {
+    "id": 319,
+    "analysis_date": "2024-02-12",
+    "economic_factors_detail": {
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 320,
+    "analysis_date": "2024-02-13",
+    "economic_factors_detail": {
+      "通胀上升": true,
+      "新冠疫情影响": false,
+      "美联储降息": true
+    }
+  },
+  {
+    "id": 321,
+    "analysis_date": "2024-02-14",
+    "economic_factors_detail": {
+      "美元走弱": true
+    }
+  },
+  {
+    "id": 322,
+    "analysis_date": "2024-02-15",
+    "economic_factors_detail": {
+      "地缘冲突加剧": false,
+      "新冠疫情影响": true
+    }
+  },
+  {
+    "id": 323,
+    "analysis_date": "2024-02-16",
+    "economic_factors_detail": {
+      "美联储降息": false,
+      "美元走弱": true
+    }
+  },
+  {
+    "id": 324,
+    "analysis_date": "2024-02-17",
+    "economic_factors_detail": {
+      "新冠疫情影响": true,
+      "美元走弱": false,
+      "地缘冲突加剧": false
+    }
+  },
+  {
+    "id": 325,
+    "analysis_date": "2024-02-18",
+    "economic_factors_detail": {
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 326,
+    "analysis_date": "2024-02-19",
+    "economic_factors_detail": {
+      "新冠疫情影响": true,
+      "地缘冲突加剧": true,
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 327,
+    "analysis_date": "2024-02-20",
+    "economic_factors_detail": {
+      "美元走弱": true,
+      "新冠疫情影响": false,
+      "通胀上升": true
+    }
+  },
+  {
+    "id": 328,
+    "analysis_date": "2024-02-21",
+    "economic_factors_detail": {
+      "通胀上升": true,
+      "新冠疫情影响": true
+    }
+  },
+  {
+    "id": 329,
+    "analysis_date": "2024-02-22",
+    "economic_factors_detail": {
+      "通胀上升": false,
+      "美元走弱": true
+    }
+  },
+  {
+    "id": 330,
+    "analysis_date": "2024-02-23",
+    "economic_factors_detail": {
+      "新冠疫情影响": true
+    }
+  },
+  {
+    "id": 331,
+    "analysis_date": "2024-02-24",
+    "economic_factors_detail": {
+      "新冠疫情影响": false
+    }
+  },
+  {
+    "id": 332,
+    "analysis_date": "2024-02-25",
+    "economic_factors_detail": {
+      "通胀上升": false,
+      "美元走弱": false,
+      "美联储降息": true
+    }
+  },
+  {
+    "id": 333,
+    "analysis_date": "2024-02-26",
+    "economic_factors_detail": {
+      "新冠疫情影响": false
+    }
+  },
+  {
+    "id": 334,
+    "analysis_date": "2024-02-27",
+    "economic_factors_detail": {
+      "地缘冲突加剧": false
+    }
+  },
+  {
+    "id": 335,
+    "analysis_date": "2024-02-28",
+    "economic_factors_detail": {
+      "通胀上升": true
+    }
+  },
+  {
+    "id": 336,
+    "analysis_date": "2024-02-29",
+    "economic_factors_detail": {
+      "新冠疫情影响": true,
+      "美元走弱": true
+    }
+  },
+  {
+    "id": 337,
+    "analysis_date": "2024-03-01",
+    "economic_factors_detail": {
+      "美元走弱": true,
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 338,
+    "analysis_date": "2024-03-02",
+    "economic_factors_detail": {
+      "地缘冲突加剧": true,
+      "美元走弱": true,
+      "通胀上升": true
+    }
+  },
+  {
+    "id": 339,
+    "analysis_date": "2024-03-03",
+    "economic_factors_detail": {
+      "美元走弱": true,
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 340,
+    "analysis_date": "2024-03-04",
+    "economic_factors_detail": {
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 341,
+    "analysis_date": "2024-03-05",
+    "economic_factors_detail": {
+      "美元走弱": false,
+      "美联储降息": true
+    }
+  },
+  {
+    "id": 342,
+    "analysis_date": "2024-03-06",
+    "economic_factors_detail": {
+      "通胀上升": false,
+      "新冠疫情影响": false,
+      "地缘冲突加剧": true
+    }
+  },
+  {
+    "id": 343,
+    "analysis_date": "2024-03-07",
+    "economic_factors_detail": {
+      "地缘冲突加剧": true
+    }
+  },
+  {
+    "id": 344,
+    "analysis_date": "2024-03-08",
+    "economic_factors_detail": {
+      "通胀上升": true,
+      "地缘冲突加剧": false
+    }
+  },
+  {
+    "id": 345,
+    "analysis_date": "2024-03-09",
+    "economic_factors_detail": {
+      "美元走弱": false,
+      "新冠疫情影响": false
+    }
+  },
+  {
+    "id": 346,
+    "analysis_date": "2024-03-10",
+    "economic_factors_detail": {
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 347,
+    "analysis_date": "2024-03-11",
+    "economic_factors_detail": {
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 348,
+    "analysis_date": "2024-03-12",
+    "economic_factors_detail": {
+      "美联储降息": true
+    }
+  },
+  {
+    "id": 349,
+    "analysis_date": "2024-03-13",
+    "economic_factors_detail": {
+      "美联储降息": true,
+      "美元走弱": true,
+      "地缘冲突加剧": true
+    }
+  },
+  {
+    "id": 350,
+    "analysis_date": "2024-03-14",
+    "economic_factors_detail": {
+      "美联储降息": false,
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 351,
+    "analysis_date": "2024-03-15",
+    "economic_factors_detail": {
+      "美元走弱": true,
+      "美联储降息": true,
+      "通胀上升": true
+    }
+  },
+  {
+    "id": 352,
+    "analysis_date": "2024-03-16",
+    "economic_factors_detail": {
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 353,
+    "analysis_date": "2024-03-17",
+    "economic_factors_detail": {
+      "美联储降息": true
+    }
+  },
+  {
+    "id": 354,
+    "analysis_date": "2024-03-18",
+    "economic_factors_detail": {
+      "地缘冲突加剧": true
+    }
+  },
+  {
+    "id": 355,
+    "analysis_date": "2024-03-19",
+    "economic_factors_detail": {
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 356,
+    "analysis_date": "2024-03-20",
+    "economic_factors_detail": {
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 357,
+    "analysis_date": "2024-03-21",
+    "economic_factors_detail": {
+      "美联储降息": true,
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 358,
+    "analysis_date": "2024-03-22",
+    "economic_factors_detail": {
+      "地缘冲突加剧": false
+    }
+  },
+  {
+    "id": 359,
+    "analysis_date": "2024-03-23",
+    "economic_factors_detail": {
+      "新冠疫情影响": true
+    }
+  },
+  {
+    "id": 360,
+    "analysis_date": "2024-03-24",
+    "economic_factors_detail": {
+      "地缘冲突加剧": false,
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 361,
+    "analysis_date": "2024-03-25",
+    "economic_factors_detail": {
+      "新冠疫情影响": true
+    }
+  },
+  {
+    "id": 362,
+    "analysis_date": "2024-03-26",
+    "economic_factors_detail": {
+      "美元走弱": true,
+      "通胀上升": true
+    }
+  },
+  {
+    "id": 363,
+    "analysis_date": "2024-03-27",
+    "economic_factors_detail": {
+      "美元走弱": false,
+      "美联储降息": true
+    }
+  },
+  {
+    "id": 364,
+    "analysis_date": "2024-03-28",
+    "economic_factors_detail": {
+      "通胀上升": false,
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 365,
+    "analysis_date": "2024-03-29",
+    "economic_factors_detail": {
+      "美联储降息": true
+    }
+  },
+  {
+    "id": 366,
+    "analysis_date": "2024-03-30",
+    "economic_factors_detail": {
+      "新冠疫情影响": false,
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 367,
+    "analysis_date": "2024-03-31",
+    "economic_factors_detail": {
+      "美联储降息": false,
+      "地缘冲突加剧": false
+    }
+  },
+  {
+    "id": 368,
+    "analysis_date": "2024-04-01",
+    "economic_factors_detail": {
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 369,
+    "analysis_date": "2024-04-02",
+    "economic_factors_detail": {
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 370,
+    "analysis_date": "2024-04-03",
+    "economic_factors_detail": {
+      "新冠疫情影响": true
+    }
+  },
+  {
+    "id": 371,
+    "analysis_date": "2024-04-04",
+    "economic_factors_detail": {
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 372,
+    "analysis_date": "2024-04-05",
+    "economic_factors_detail": {
+      "通胀上升": true,
+      "新冠疫情影响": false
+    }
+  },
+  {
+    "id": 373,
+    "analysis_date": "2024-04-06",
+    "economic_factors_detail": {
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 374,
+    "analysis_date": "2024-04-07",
+    "economic_factors_detail": {
+      "美联储降息": true,
+      "地缘冲突加剧": false
+    }
+  },
+  {
+    "id": 375,
+    "analysis_date": "2024-04-08",
+    "economic_factors_detail": {
+      "地缘冲突加剧": true
+    }
+  },
+  {
+    "id": 376,
+    "analysis_date": "2024-04-09",
+    "economic_factors_detail": {
+      "美元走弱": true
+    }
+  },
+  {
+    "id": 377,
+    "analysis_date": "2024-04-10",
+    "economic_factors_detail": {
+      "地缘冲突加剧": false,
+      "美元走弱": true,
+      "新冠疫情影响": false
+    }
+  },
+  {
+    "id": 378,
+    "analysis_date": "2024-04-11",
+    "economic_factors_detail": {
+      "地缘冲突加剧": false,
+      "新冠疫情影响": false,
+      "通胀上升": true
+    }
+  },
+  {
+    "id": 379,
+    "analysis_date": "2024-04-12",
+    "economic_factors_detail": {
+      "地缘冲突加剧": false
+    }
+  },
+  {
+    "id": 380,
+    "analysis_date": "2024-04-13",
+    "economic_factors_detail": {
+      "地缘冲突加剧": true,
+      "美联储降息": true
+    }
+  },
+  {
+    "id": 381,
+    "analysis_date": "2024-04-14",
+    "economic_factors_detail": {
+      "通胀上升": true,
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 382,
+    "analysis_date": "2024-04-15",
+    "economic_factors_detail": {
+      "通胀上升": true,
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 383,
+    "analysis_date": "2024-04-16",
+    "economic_factors_detail": {
+      "新冠疫情影响": false
+    }
+  },
+  {
+    "id": 384,
+    "analysis_date": "2024-04-17",
+    "economic_factors_detail": {
+      "新冠疫情影响": false
+    }
+  },
+  {
+    "id": 385,
+    "analysis_date": "2024-04-18",
+    "economic_factors_detail": {
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 386,
+    "analysis_date": "2024-04-19",
+    "economic_factors_detail": {
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 387,
+    "analysis_date": "2024-04-20",
+    "economic_factors_detail": {
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 388,
+    "analysis_date": "2024-04-21",
+    "economic_factors_detail": {
+      "新冠疫情影响": false
+    }
+  },
+  {
+    "id": 389,
+    "analysis_date": "2024-04-22",
+    "economic_factors_detail": {
+      "地缘冲突加剧": false,
+      "通胀上升": true
+    }
+  },
+  {
+    "id": 390,
+    "analysis_date": "2024-04-23",
+    "economic_factors_detail": {
+      "美联储降息": false,
+      "新冠疫情影响": false
+    }
+  },
+  {
+    "id": 391,
+    "analysis_date": "2024-04-24",
+    "economic_factors_detail": {
+      "美联储降息": true,
+      "地缘冲突加剧": false
+    }
+  },
+  {
+    "id": 392,
+    "analysis_date": "2024-04-25",
+    "economic_factors_detail": {
+      "美联储降息": true,
+      "地缘冲突加剧": false
+    }
+  },
+  {
+    "id": 393,
+    "analysis_date": "2024-04-26",
+    "economic_factors_detail": {
+      "新冠疫情影响": false
+    }
+  },
+  {
+    "id": 394,
+    "analysis_date": "2024-04-27",
+    "economic_factors_detail": {
+      "地缘冲突加剧": false
+    }
+  },
+  {
+    "id": 395,
+    "analysis_date": "2024-04-28",
+    "economic_factors_detail": {
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 396,
+    "analysis_date": "2024-04-29",
+    "economic_factors_detail": {
+      "新冠疫情影响": false
+    }
+  },
+  {
+    "id": 397,
+    "analysis_date": "2024-04-30",
+    "economic_factors_detail": {
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 398,
+    "analysis_date": "2024-05-01",
+    "economic_factors_detail": {
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 399,
+    "analysis_date": "2024-05-02",
+    "economic_factors_detail": {
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 400,
+    "analysis_date": "2024-05-03",
+    "economic_factors_detail": {
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 401,
+    "analysis_date": "2024-05-04",
+    "economic_factors_detail": {
+      "地缘冲突加剧": true,
+      "通胀上升": false,
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 402,
+    "analysis_date": "2024-05-05",
+    "economic_factors_detail": {
+      "美元走弱": true,
+      "新冠疫情影响": true
+    }
+  },
+  {
+    "id": 403,
+    "analysis_date": "2024-05-06",
+    "economic_factors_detail": {
+      "新冠疫情影响": true,
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 404,
+    "analysis_date": "2024-05-07",
+    "economic_factors_detail": {
+      "地缘冲突加剧": false,
+      "通胀上升": true
+    }
+  },
+  {
+    "id": 405,
+    "analysis_date": "2024-05-08",
+    "economic_factors_detail": {
+      "美元走弱": true,
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 406,
+    "analysis_date": "2024-05-09",
+    "economic_factors_detail": {
+      "美联储降息": false,
+      "地缘冲突加剧": false,
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 407,
+    "analysis_date": "2024-05-10",
+    "economic_factors_detail": {
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 408,
+    "analysis_date": "2024-05-11",
+    "economic_factors_detail": {
+      "新冠疫情影响": true
+    }
+  },
+  {
+    "id": 409,
+    "analysis_date": "2024-05-12",
+    "economic_factors_detail": {
+      "美元走弱": false,
+      "美联储降息": false,
+      "地缘冲突加剧": false
+    }
+  },
+  {
+    "id": 410,
+    "analysis_date": "2024-05-13",
+    "economic_factors_detail": {
+      "新冠疫情影响": true,
+      "通胀上升": true
+    }
+  },
+  {
+    "id": 411,
+    "analysis_date": "2024-05-14",
+    "economic_factors_detail": {
+      "新冠疫情影响": false,
+      "地缘冲突加剧": true
+    }
+  },
+  {
+    "id": 412,
+    "analysis_date": "2024-05-15",
+    "economic_factors_detail": {
+      "地缘冲突加剧": false
+    }
+  },
+  {
+    "id": 413,
+    "analysis_date": "2024-05-16",
+    "economic_factors_detail": {
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 414,
+    "analysis_date": "2024-05-17",
+    "economic_factors_detail": {
+      "美元走弱": false,
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 415,
+    "analysis_date": "2024-05-18",
+    "economic_factors_detail": {
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 416,
+    "analysis_date": "2024-05-19",
+    "economic_factors_detail": {
+      "新冠疫情影响": true,
+      "通胀上升": true
+    }
+  },
+  {
+    "id": 417,
+    "analysis_date": "2024-05-20",
+    "economic_factors_detail": {
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 418,
+    "analysis_date": "2024-05-21",
+    "economic_factors_detail": {
+      "新冠疫情影响": false,
+      "美元走弱": true
+    }
+  },
+  {
+    "id": 419,
+    "analysis_date": "2024-05-22",
+    "economic_factors_detail": {
+      "新冠疫情影响": true,
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 420,
+    "analysis_date": "2024-05-23",
+    "economic_factors_detail": {
+      "美联储降息": true,
+      "地缘冲突加剧": false
+    }
+  },
+  {
+    "id": 421,
+    "analysis_date": "2024-05-24",
+    "economic_factors_detail": {
+      "通胀上升": true
+    }
+  },
+  {
+    "id": 422,
+    "analysis_date": "2024-05-25",
+    "economic_factors_detail": {
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 423,
+    "analysis_date": "2024-05-26",
+    "economic_factors_detail": {
+      "美元走弱": true
+    }
+  },
+  {
+    "id": 424,
+    "analysis_date": "2024-05-27",
+    "economic_factors_detail": {
+      "美联储降息": true
+    }
+  },
+  {
+    "id": 425,
+    "analysis_date": "2024-05-28",
+    "economic_factors_detail": {
+      "通胀上升": true,
+      "地缘冲突加剧": false
+    }
+  },
+  {
+    "id": 426,
+    "analysis_date": "2024-05-29",
+    "economic_factors_detail": {
+      "地缘冲突加剧": false,
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 427,
+    "analysis_date": "2024-05-30",
+    "economic_factors_detail": {
+      "新冠疫情影响": true
+    }
+  },
+  {
+    "id": 428,
+    "analysis_date": "2024-05-31",
+    "economic_factors_detail": {
+      "美元走弱": false,
+      "新冠疫情影响": false
+    }
+  },
+  {
+    "id": 429,
+    "analysis_date": "2024-06-01",
+    "economic_factors_detail": {
+      "地缘冲突加剧": true
+    }
+  },
+  {
+    "id": 430,
+    "analysis_date": "2024-06-02",
+    "economic_factors_detail": {
+      "美联储降息": true
+    }
+  },
+  {
+    "id": 431,
+    "analysis_date": "2024-06-03",
+    "economic_factors_detail": {
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 432,
+    "analysis_date": "2024-06-04",
+    "economic_factors_detail": {
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 433,
+    "analysis_date": "2024-06-05",
+    "economic_factors_detail": {
+      "新冠疫情影响": true
+    }
+  },
+  {
+    "id": 434,
+    "analysis_date": "2024-06-06",
+    "economic_factors_detail": {
+      "地缘冲突加剧": true,
+      "通胀上升": true
+    }
+  },
+  {
+    "id": 435,
+    "analysis_date": "2024-06-07",
+    "economic_factors_detail": {
+      "新冠疫情影响": true,
+      "美元走弱": true
+    }
+  },
+  {
+    "id": 436,
+    "analysis_date": "2024-06-08",
+    "economic_factors_detail": {
+      "新冠疫情影响": true,
+      "通胀上升": true
+    }
+  },
+  {
+    "id": 437,
+    "analysis_date": "2024-06-09",
+    "economic_factors_detail": {
+      "美元走弱": true,
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 438,
+    "analysis_date": "2024-06-10",
+    "economic_factors_detail": {
+      "美元走弱": false,
+      "美联储降息": true
+    }
+  },
+  {
+    "id": 439,
+    "analysis_date": "2024-06-11",
+    "economic_factors_detail": {
+      "地缘冲突加剧": true
+    }
+  },
+  {
+    "id": 440,
+    "analysis_date": "2024-06-12",
+    "economic_factors_detail": {
+      "美联储降息": true
+    }
+  },
+  {
+    "id": 441,
+    "analysis_date": "2024-06-13",
+    "economic_factors_detail": {
+      "美元走弱": true,
+      "新冠疫情影响": true
+    }
+  },
+  {
+    "id": 442,
+    "analysis_date": "2024-06-14",
+    "economic_factors_detail": {
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 443,
+    "analysis_date": "2024-06-15",
+    "economic_factors_detail": {
+      "地缘冲突加剧": false
+    }
+  },
+  {
+    "id": 444,
+    "analysis_date": "2024-06-16",
+    "economic_factors_detail": {
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 445,
+    "analysis_date": "2024-06-17",
+    "economic_factors_detail": {
+      "地缘冲突加剧": false
+    }
+  },
+  {
+    "id": 446,
+    "analysis_date": "2024-06-18",
+    "economic_factors_detail": {
+      "美联储降息": false,
+      "地缘冲突加剧": false
+    }
+  },
+  {
+    "id": 447,
+    "analysis_date": "2024-06-19",
+    "economic_factors_detail": {
+      "新冠疫情影响": false,
+      "通胀上升": true
+    }
+  },
+  {
+    "id": 448,
+    "analysis_date": "2024-06-20",
+    "economic_factors_detail": {
+      "通胀上升": true
+    }
+  },
+  {
+    "id": 449,
+    "analysis_date": "2024-06-21",
+    "economic_factors_detail": {
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 450,
+    "analysis_date": "2024-06-22",
+    "economic_factors_detail": {
+      "美元走弱": true,
+      "美联储降息": true,
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 451,
+    "analysis_date": "2024-06-23",
+    "economic_factors_detail": {
+      "新冠疫情影响": false,
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 452,
+    "analysis_date": "2024-06-24",
+    "economic_factors_detail": {
+      "新冠疫情影响": false
+    }
+  },
+  {
+    "id": 453,
+    "analysis_date": "2024-06-25",
+    "economic_factors_detail": {
+      "通胀上升": false,
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 454,
+    "analysis_date": "2024-06-26",
+    "economic_factors_detail": {
+      "美联储降息": true,
+      "地缘冲突加剧": true
+    }
+  },
+  {
+    "id": 455,
+    "analysis_date": "2024-06-27",
+    "economic_factors_detail": {
+      "通胀上升": false,
+      "地缘冲突加剧": true
+    }
+  },
+  {
+    "id": 456,
+    "analysis_date": "2024-06-28",
+    "economic_factors_detail": {
+      "通胀上升": true,
+      "新冠疫情影响": false
+    }
+  },
+  {
+    "id": 457,
+    "analysis_date": "2024-06-29",
+    "economic_factors_detail": {
+      "美元走弱": false,
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 458,
+    "analysis_date": "2024-06-30",
+    "economic_factors_detail": {
+      "地缘冲突加剧": false
+    }
+  },
+  {
+    "id": 459,
+    "analysis_date": "2024-07-01",
+    "economic_factors_detail": {
+      "地缘冲突加剧": true
+    }
+  },
+  {
+    "id": 460,
+    "analysis_date": "2024-07-02",
+    "economic_factors_detail": {
+      "新冠疫情影响": false
+    }
+  },
+  {
+    "id": 461,
+    "analysis_date": "2024-07-03",
+    "economic_factors_detail": {
+      "美联储降息": true,
+      "地缘冲突加剧": false,
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 462,
+    "analysis_date": "2024-07-04",
+    "economic_factors_detail": {
+      "美联储降息": true
+    }
+  },
+  {
+    "id": 463,
+    "analysis_date": "2024-07-05",
+    "economic_factors_detail": {
+      "美联储降息": false,
+      "新冠疫情影响": true
+    }
+  },
+  {
+    "id": 464,
+    "analysis_date": "2024-07-06",
+    "economic_factors_detail": {
+      "美元走弱": false,
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 465,
+    "analysis_date": "2024-07-07",
+    "economic_factors_detail": {
+      "美联储降息": false,
+      "地缘冲突加剧": true
+    }
+  },
+  {
+    "id": 466,
+    "analysis_date": "2024-07-08",
+    "economic_factors_detail": {
+      "美联储降息": false,
+      "美元走弱": true
+    }
+  },
+  {
+    "id": 467,
+    "analysis_date": "2024-07-09",
+    "economic_factors_detail": {
+      "地缘冲突加剧": false
+    }
+  },
+  {
+    "id": 468,
+    "analysis_date": "2024-07-10",
+    "economic_factors_detail": {
+      "新冠疫情影响": true,
+      "地缘冲突加剧": true,
+      "美元走弱": true
+    }
+  },
+  {
+    "id": 469,
+    "analysis_date": "2024-07-11",
+    "economic_factors_detail": {
+      "地缘冲突加剧": true,
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 470,
+    "analysis_date": "2024-07-12",
+    "economic_factors_detail": {
+      "新冠疫情影响": false,
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 471,
+    "analysis_date": "2024-07-13",
+    "economic_factors_detail": {
+      "美元走弱": true
+    }
+  },
+  {
+    "id": 472,
+    "analysis_date": "2024-07-14",
+    "economic_factors_detail": {
+      "美元走弱": true
+    }
+  },
+  {
+    "id": 473,
+    "analysis_date": "2024-07-15",
+    "economic_factors_detail": {
+      "地缘冲突加剧": true
+    }
+  },
+  {
+    "id": 474,
+    "analysis_date": "2024-07-16",
+    "economic_factors_detail": {
+      "通胀上升": true
+    }
+  },
+  {
+    "id": 475,
+    "analysis_date": "2024-07-17",
+    "economic_factors_detail": {
+      "美元走弱": true,
+      "通胀上升": true
+    }
+  },
+  {
+    "id": 476,
+    "analysis_date": "2024-07-18",
+    "economic_factors_detail": {
+      "新冠疫情影响": false
+    }
+  },
+  {
+    "id": 477,
+    "analysis_date": "2024-07-19",
+    "economic_factors_detail": {
+      "地缘冲突加剧": false
+    }
+  },
+  {
+    "id": 478,
+    "analysis_date": "2024-07-20",
+    "economic_factors_detail": {
+      "美联储降息": true
+    }
+  },
+  {
+    "id": 479,
+    "analysis_date": "2024-07-21",
+    "economic_factors_detail": {
+      "地缘冲突加剧": false,
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 480,
+    "analysis_date": "2024-07-22",
+    "economic_factors_detail": {
+      "美元走弱": true,
+      "通胀上升": true
+    }
+  },
+  {
+    "id": 481,
+    "analysis_date": "2024-07-23",
+    "economic_factors_detail": {
+      "地缘冲突加剧": false,
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 482,
+    "analysis_date": "2024-07-24",
+    "economic_factors_detail": {
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 483,
+    "analysis_date": "2024-07-25",
+    "economic_factors_detail": {
+      "地缘冲突加剧": false
+    }
+  },
+  {
+    "id": 484,
+    "analysis_date": "2024-07-26",
+    "economic_factors_detail": {
+      "新冠疫情影响": false
+    }
+  },
+  {
+    "id": 485,
+    "analysis_date": "2024-07-27",
+    "economic_factors_detail": {
+      "新冠疫情影响": true
+    }
+  },
+  {
+    "id": 486,
+    "analysis_date": "2024-07-28",
+    "economic_factors_detail": {
+      "美元走弱": false,
+      "新冠疫情影响": false
+    }
+  },
+  {
+    "id": 487,
+    "analysis_date": "2024-07-29",
+    "economic_factors_detail": {
+      "美元走弱": false,
+      "通胀上升": true
+    }
+  },
+  {
+    "id": 488,
+    "analysis_date": "2024-07-30",
+    "economic_factors_detail": {
+      "美联储降息": true
+    }
+  },
+  {
+    "id": 489,
+    "analysis_date": "2024-07-31",
+    "economic_factors_detail": {
+      "新冠疫情影响": true,
+      "通胀上升": false,
+      "美元走弱": true
+    }
+  },
+  {
+    "id": 490,
+    "analysis_date": "2024-08-01",
+    "economic_factors_detail": {
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 491,
+    "analysis_date": "2024-08-02",
+    "economic_factors_detail": {
+      "美联储降息": true,
+      "新冠疫情影响": false
+    }
+  },
+  {
+    "id": 492,
+    "analysis_date": "2024-08-03",
+    "economic_factors_detail": {
+      "地缘冲突加剧": true
+    }
+  },
+  {
+    "id": 493,
+    "analysis_date": "2024-08-04",
+    "economic_factors_detail": {
+      "新冠疫情影响": false
+    }
+  },
+  {
+    "id": 494,
+    "analysis_date": "2024-08-05",
+    "economic_factors_detail": {
+      "地缘冲突加剧": false,
+      "美元走弱": true,
+      "新冠疫情影响": true
+    }
+  },
+  {
+    "id": 495,
+    "analysis_date": "2024-08-06",
+    "economic_factors_detail": {
+      "美联储降息": false,
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 496,
+    "analysis_date": "2024-08-07",
+    "economic_factors_detail": {
+      "美元走弱": true
+    }
+  },
+  {
+    "id": 497,
+    "analysis_date": "2024-08-08",
+    "economic_factors_detail": {
+      "通胀上升": true,
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 498,
+    "analysis_date": "2024-08-09",
+    "economic_factors_detail": {
+      "通胀上升": true
+    }
+  },
+  {
+    "id": 499,
+    "analysis_date": "2024-08-10",
+    "economic_factors_detail": {
+      "地缘冲突加剧": true
+    }
+  },
+  {
+    "id": 500,
+    "analysis_date": "2024-08-11",
+    "economic_factors_detail": {
+      "通胀上升": true,
+      "美元走弱": true
+    }
+  },
+  {
+    "id": 501,
+    "analysis_date": "2024-08-12",
+    "economic_factors_detail": {
+      "新冠疫情影响": false
+    }
+  },
+  {
+    "id": 502,
+    "analysis_date": "2024-08-13",
+    "economic_factors_detail": {
+      "美联储降息": true
+    }
+  },
+  {
+    "id": 503,
+    "analysis_date": "2024-08-14",
+    "economic_factors_detail": {
+      "美元走弱": true,
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 504,
+    "analysis_date": "2024-08-15",
+    "economic_factors_detail": {
+      "地缘冲突加剧": false,
+      "新冠疫情影响": true
+    }
+  },
+  {
+    "id": 505,
+    "analysis_date": "2024-08-16",
+    "economic_factors_detail": {
+      "地缘冲突加剧": true,
+      "新冠疫情影响": true,
+      "美元走弱": true
+    }
+  },
+  {
+    "id": 506,
+    "analysis_date": "2024-08-17",
+    "economic_factors_detail": {
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 507,
+    "analysis_date": "2024-08-18",
+    "economic_factors_detail": {
+      "地缘冲突加剧": true,
+      "美联储降息": true,
+      "新冠疫情影响": true
+    }
+  },
+  {
+    "id": 508,
+    "analysis_date": "2024-08-19",
+    "economic_factors_detail": {
+      "通胀上升": true,
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 509,
+    "analysis_date": "2024-08-20",
+    "economic_factors_detail": {
+      "地缘冲突加剧": true
+    }
+  },
+  {
+    "id": 510,
+    "analysis_date": "2024-08-21",
+    "economic_factors_detail": {
+      "美元走弱": true,
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 511,
+    "analysis_date": "2024-08-22",
+    "economic_factors_detail": {
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 512,
+    "analysis_date": "2024-08-23",
+    "economic_factors_detail": {
+      "美元走弱": true
+    }
+  },
+  {
+    "id": 513,
+    "analysis_date": "2024-08-24",
+    "economic_factors_detail": {
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 514,
+    "analysis_date": "2024-08-25",
+    "economic_factors_detail": {
+      "新冠疫情影响": false,
+      "美联储降息": true
+    }
+  },
+  {
+    "id": 515,
+    "analysis_date": "2024-08-26",
+    "economic_factors_detail": {
+      "美联储降息": true
+    }
+  },
+  {
+    "id": 516,
+    "analysis_date": "2024-08-27",
+    "economic_factors_detail": {
+      "美元走弱": false,
+      "通胀上升": false,
+      "新冠疫情影响": false
+    }
+  },
+  {
+    "id": 517,
+    "analysis_date": "2024-08-28",
+    "economic_factors_detail": {
+      "美联储降息": true
+    }
+  },
+  {
+    "id": 518,
+    "analysis_date": "2024-08-29",
+    "economic_factors_detail": {
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 519,
+    "analysis_date": "2024-08-30",
+    "economic_factors_detail": {
+      "新冠疫情影响": false
+    }
+  },
+  {
+    "id": 520,
+    "analysis_date": "2024-08-31",
+    "economic_factors_detail": {
+      "地缘冲突加剧": false,
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 521,
+    "analysis_date": "2024-09-01",
+    "economic_factors_detail": {
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 522,
+    "analysis_date": "2024-09-02",
+    "economic_factors_detail": {
+      "通胀上升": false,
+      "美元走弱": true
+    }
+  },
+  {
+    "id": 523,
+    "analysis_date": "2024-09-03",
+    "economic_factors_detail": {
+      "新冠疫情影响": false,
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 524,
+    "analysis_date": "2024-09-04",
+    "economic_factors_detail": {
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 525,
+    "analysis_date": "2024-09-05",
+    "economic_factors_detail": {
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 526,
+    "analysis_date": "2024-09-06",
+    "economic_factors_detail": {
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 527,
+    "analysis_date": "2024-09-07",
+    "economic_factors_detail": {
+      "地缘冲突加剧": true,
+      "美联储降息": true
+    }
+  },
+  {
+    "id": 528,
+    "analysis_date": "2024-09-08",
+    "economic_factors_detail": {
+      "通胀上升": true,
+      "地缘冲突加剧": true
+    }
+  },
+  {
+    "id": 529,
+    "analysis_date": "2024-09-09",
+    "economic_factors_detail": {
+      "地缘冲突加剧": false
+    }
+  },
+  {
+    "id": 530,
+    "analysis_date": "2024-09-10",
+    "economic_factors_detail": {
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 531,
+    "analysis_date": "2024-09-11",
+    "economic_factors_detail": {
+      "新冠疫情影响": false
+    }
+  },
+  {
+    "id": 532,
+    "analysis_date": "2024-09-12",
+    "economic_factors_detail": {
+      "新冠疫情影响": false,
+      "通胀上升": false,
+      "地缘冲突加剧": false
+    }
+  },
+  {
+    "id": 533,
+    "analysis_date": "2024-09-13",
+    "economic_factors_detail": {
+      "新冠疫情影响": true
+    }
+  },
+  {
+    "id": 534,
+    "analysis_date": "2024-09-14",
+    "economic_factors_detail": {
+      "通胀上升": true
+    }
+  },
+  {
+    "id": 535,
+    "analysis_date": "2024-09-15",
+    "economic_factors_detail": {
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 536,
+    "analysis_date": "2024-09-16",
+    "economic_factors_detail": {
+      "通胀上升": false,
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 537,
+    "analysis_date": "2024-09-17",
+    "economic_factors_detail": {
+      "新冠疫情影响": true,
+      "美元走弱": true,
+      "美联储降息": true
+    }
+  },
+  {
+    "id": 538,
+    "analysis_date": "2024-09-18",
+    "economic_factors_detail": {
+      "通胀上升": true,
+      "美联储降息": true
+    }
+  },
+  {
+    "id": 539,
+    "analysis_date": "2024-09-19",
+    "economic_factors_detail": {
+      "通胀上升": true
+    }
+  },
+  {
+    "id": 540,
+    "analysis_date": "2024-09-20",
+    "economic_factors_detail": {
+      "美元走弱": true,
+      "新冠疫情影响": false,
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 541,
+    "analysis_date": "2024-09-21",
+    "economic_factors_detail": {
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 542,
+    "analysis_date": "2024-09-22",
+    "economic_factors_detail": {
+      "新冠疫情影响": false,
+      "通胀上升": true
+    }
+  },
+  {
+    "id": 543,
+    "analysis_date": "2024-09-23",
+    "economic_factors_detail": {
+      "通胀上升": false,
+      "新冠疫情影响": true
+    }
+  },
+  {
+    "id": 544,
+    "analysis_date": "2024-09-24",
+    "economic_factors_detail": {
+      "通胀上升": true
+    }
+  },
+  {
+    "id": 545,
+    "analysis_date": "2024-09-25",
+    "economic_factors_detail": {
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 546,
+    "analysis_date": "2024-09-26",
+    "economic_factors_detail": {
+      "地缘冲突加剧": false,
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 547,
+    "analysis_date": "2024-09-27",
+    "economic_factors_detail": {
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 548,
+    "analysis_date": "2024-09-28",
+    "economic_factors_detail": {
+      "美联储降息": true,
+      "新冠疫情影响": false
+    }
+  },
+  {
+    "id": 549,
+    "analysis_date": "2024-09-29",
+    "economic_factors_detail": {
+      "地缘冲突加剧": true
+    }
+  },
+  {
+    "id": 550,
+    "analysis_date": "2024-09-30",
+    "economic_factors_detail": {
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 551,
+    "analysis_date": "2024-10-01",
+    "economic_factors_detail": {
+      "美元走弱": true,
+      "通胀上升": true
+    }
+  },
+  {
+    "id": 552,
+    "analysis_date": "2024-10-02",
+    "economic_factors_detail": {
+      "美元走弱": true,
+      "美联储降息": false,
+      "新冠疫情影响": true
+    }
+  },
+  {
+    "id": 553,
+    "analysis_date": "2024-10-03",
+    "economic_factors_detail": {
+      "新冠疫情影响": false
+    }
+  },
+  {
+    "id": 554,
+    "analysis_date": "2024-10-04",
+    "economic_factors_detail": {
+      "地缘冲突加剧": false
+    }
+  },
+  {
+    "id": 555,
+    "analysis_date": "2024-10-05",
+    "economic_factors_detail": {
+      "通胀上升": true,
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 556,
+    "analysis_date": "2024-10-06",
+    "economic_factors_detail": {
+      "地缘冲突加剧": false,
+      "美元走弱": true
+    }
+  },
+  {
+    "id": 557,
+    "analysis_date": "2024-10-07",
+    "economic_factors_detail": {
+      "新冠疫情影响": true
+    }
+  },
+  {
+    "id": 558,
+    "analysis_date": "2024-10-08",
+    "economic_factors_detail": {
+      "地缘冲突加剧": true
+    }
+  },
+  {
+    "id": 559,
+    "analysis_date": "2024-10-09",
+    "economic_factors_detail": {
+      "美元走弱": false,
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 560,
+    "analysis_date": "2024-10-10",
+    "economic_factors_detail": {
+      "地缘冲突加剧": true,
+      "新冠疫情影响": false
+    }
+  },
+  {
+    "id": 561,
+    "analysis_date": "2024-10-11",
+    "economic_factors_detail": {
+      "美联储降息": true,
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 562,
+    "analysis_date": "2024-10-12",
+    "economic_factors_detail": {
+      "地缘冲突加剧": false,
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 563,
+    "analysis_date": "2024-10-13",
+    "economic_factors_detail": {
+      "美联储降息": false,
+      "新冠疫情影响": false
+    }
+  },
+  {
+    "id": 564,
+    "analysis_date": "2024-10-14",
+    "economic_factors_detail": {
+      "新冠疫情影响": true
+    }
+  },
+  {
+    "id": 565,
+    "analysis_date": "2024-10-15",
+    "economic_factors_detail": {
+      "美联储降息": false,
+      "通胀上升": true
+    }
+  },
+  {
+    "id": 566,
+    "analysis_date": "2024-10-16",
+    "economic_factors_detail": {
+      "新冠疫情影响": true
+    }
+  },
+  {
+    "id": 567,
+    "analysis_date": "2024-10-17",
+    "economic_factors_detail": {
+      "通胀上升": false,
+      "地缘冲突加剧": true
+    }
+  },
+  {
+    "id": 568,
+    "analysis_date": "2024-10-18",
+    "economic_factors_detail": {
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 569,
+    "analysis_date": "2024-10-19",
+    "economic_factors_detail": {
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 570,
+    "analysis_date": "2024-10-20",
+    "economic_factors_detail": {
+      "美元走弱": false,
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 571,
+    "analysis_date": "2024-10-21",
+    "economic_factors_detail": {
+      "美联储降息": true,
+      "新冠疫情影响": true
+    }
+  },
+  {
+    "id": 572,
+    "analysis_date": "2024-10-22",
+    "economic_factors_detail": {
+      "地缘冲突加剧": false
+    }
+  },
+  {
+    "id": 573,
+    "analysis_date": "2024-10-23",
+    "economic_factors_detail": {
+      "美元走弱": true,
+      "新冠疫情影响": false
+    }
+  },
+  {
+    "id": 574,
+    "analysis_date": "2024-10-24",
+    "economic_factors_detail": {
+      "美元走弱": true,
+      "美联储降息": true,
+      "通胀上升": true
+    }
+  },
+  {
+    "id": 575,
+    "analysis_date": "2024-10-25",
+    "economic_factors_detail": {
+      "通胀上升": true
+    }
+  },
+  {
+    "id": 576,
+    "analysis_date": "2024-10-26",
+    "economic_factors_detail": {
+      "美联储降息": false,
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 577,
+    "analysis_date": "2024-10-27",
+    "economic_factors_detail": {
+      "通胀上升": true,
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 578,
+    "analysis_date": "2024-10-28",
+    "economic_factors_detail": {
+      "美元走弱": true
+    }
+  },
+  {
+    "id": 579,
+    "analysis_date": "2024-10-29",
+    "economic_factors_detail": {
+      "美元走弱": true
+    }
+  },
+  {
+    "id": 580,
+    "analysis_date": "2024-10-30",
+    "economic_factors_detail": {
+      "美联储降息": true,
+      "地缘冲突加剧": true
+    }
+  },
+  {
+    "id": 581,
+    "analysis_date": "2024-10-31",
+    "economic_factors_detail": {
+      "新冠疫情影响": true
+    }
+  },
+  {
+    "id": 582,
+    "analysis_date": "2024-11-01",
+    "economic_factors_detail": {
+      "美联储降息": true,
+      "新冠疫情影响": true
+    }
+  },
+  {
+    "id": 583,
+    "analysis_date": "2024-11-02",
+    "economic_factors_detail": {
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 584,
+    "analysis_date": "2024-11-03",
+    "economic_factors_detail": {
+      "新冠疫情影响": false
+    }
+  },
+  {
+    "id": 585,
+    "analysis_date": "2024-11-04",
+    "economic_factors_detail": {
+      "地缘冲突加剧": true
+    }
+  },
+  {
+    "id": 586,
+    "analysis_date": "2024-11-05",
+    "economic_factors_detail": {
+      "美元走弱": true,
+      "地缘冲突加剧": true
+    }
+  },
+  {
+    "id": 587,
+    "analysis_date": "2024-11-06",
+    "economic_factors_detail": {
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 588,
+    "analysis_date": "2024-11-07",
+    "economic_factors_detail": {
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 589,
+    "analysis_date": "2024-11-08",
+    "economic_factors_detail": {
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 590,
+    "analysis_date": "2024-11-09",
+    "economic_factors_detail": {
+      "美元走弱": false,
+      "新冠疫情影响": true
+    }
+  },
+  {
+    "id": 591,
+    "analysis_date": "2024-11-10",
+    "economic_factors_detail": {
+      "新冠疫情影响": true,
+      "地缘冲突加剧": true
+    }
+  },
+  {
+    "id": 592,
+    "analysis_date": "2024-11-11",
+    "economic_factors_detail": {
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 593,
+    "analysis_date": "2024-11-12",
+    "economic_factors_detail": {
+      "美元走弱": false,
+      "新冠疫情影响": true
+    }
+  },
+  {
+    "id": 594,
+    "analysis_date": "2024-11-13",
+    "economic_factors_detail": {
+      "地缘冲突加剧": false
+    }
+  },
+  {
+    "id": 595,
+    "analysis_date": "2024-11-14",
+    "economic_factors_detail": {
+      "通胀上升": true,
+      "地缘冲突加剧": true
+    }
+  },
+  {
+    "id": 596,
+    "analysis_date": "2024-11-15",
+    "economic_factors_detail": {
+      "通胀上升": false,
+      "美联储降息": false,
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 597,
+    "analysis_date": "2024-11-16",
+    "economic_factors_detail": {
+      "地缘冲突加剧": false,
+      "通胀上升": true
+    }
+  },
+  {
+    "id": 598,
+    "analysis_date": "2024-11-17",
+    "economic_factors_detail": {
+      "美联储降息": true,
+      "通胀上升": true,
+      "美元走弱": true
+    }
+  },
+  {
+    "id": 599,
+    "analysis_date": "2024-11-18",
+    "economic_factors_detail": {
+      "新冠疫情影响": false,
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 600,
+    "analysis_date": "2024-11-19",
+    "economic_factors_detail": {
+      "美联储降息": false,
+      "地缘冲突加剧": false
+    }
+  },
+  {
+    "id": 601,
+    "analysis_date": "2024-11-20",
+    "economic_factors_detail": {
+      "地缘冲突加剧": true
+    }
+  },
+  {
+    "id": 602,
+    "analysis_date": "2024-11-21",
+    "economic_factors_detail": {
+      "新冠疫情影响": false
+    }
+  },
+  {
+    "id": 603,
+    "analysis_date": "2024-11-22",
+    "economic_factors_detail": {
+      "新冠疫情影响": true,
+      "美元走弱": false,
+      "地缘冲突加剧": false
+    }
+  },
+  {
+    "id": 604,
+    "analysis_date": "2024-11-23",
+    "economic_factors_detail": {
+      "新冠疫情影响": false,
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 605,
+    "analysis_date": "2024-11-24",
+    "economic_factors_detail": {
+      "地缘冲突加剧": true
+    }
+  },
+  {
+    "id": 606,
+    "analysis_date": "2024-11-25",
+    "economic_factors_detail": {
+      "通胀上升": true
+    }
+  },
+  {
+    "id": 607,
+    "analysis_date": "2024-11-26",
+    "economic_factors_detail": {
+      "新冠疫情影响": false
+    }
+  },
+  {
+    "id": 608,
+    "analysis_date": "2024-11-27",
+    "economic_factors_detail": {
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 609,
+    "analysis_date": "2024-11-28",
+    "economic_factors_detail": {
+      "地缘冲突加剧": true,
+      "美元走弱": true,
+      "美联储降息": true
+    }
+  },
+  {
+    "id": 610,
+    "analysis_date": "2024-11-29",
+    "economic_factors_detail": {
+      "美元走弱": false,
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 611,
+    "analysis_date": "2024-11-30",
+    "economic_factors_detail": {
+      "新冠疫情影响": false
+    }
+  },
+  {
+    "id": 612,
+    "analysis_date": "2024-12-01",
+    "economic_factors_detail": {
+      "通胀上升": false,
+      "地缘冲突加剧": false
+    }
+  },
+  {
+    "id": 613,
+    "analysis_date": "2024-12-02",
+    "economic_factors_detail": {
+      "美元走弱": true
+    }
+  },
+  {
+    "id": 614,
+    "analysis_date": "2024-12-03",
+    "economic_factors_detail": {
+      "美元走弱": false,
+      "地缘冲突加剧": false,
+      "通胀上升": true
+    }
+  },
+  {
+    "id": 615,
+    "analysis_date": "2024-12-04",
+    "economic_factors_detail": {
+      "通胀上升": true,
+      "新冠疫情影响": false
+    }
+  },
+  {
+    "id": 616,
+    "analysis_date": "2024-12-05",
+    "economic_factors_detail": {
+      "新冠疫情影响": false
+    }
+  },
+  {
+    "id": 617,
+    "analysis_date": "2024-12-06",
+    "economic_factors_detail": {
+      "地缘冲突加剧": true
+    }
+  },
+  {
+    "id": 618,
+    "analysis_date": "2024-12-07",
+    "economic_factors_detail": {
+      "美元走弱": true
+    }
+  },
+  {
+    "id": 619,
+    "analysis_date": "2024-12-08",
+    "economic_factors_detail": {
+      "新冠疫情影响": true
+    }
+  },
+  {
+    "id": 620,
+    "analysis_date": "2024-12-09",
+    "economic_factors_detail": {
+      "地缘冲突加剧": true,
+      "美联储降息": true,
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 621,
+    "analysis_date": "2024-12-10",
+    "economic_factors_detail": {
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 622,
+    "analysis_date": "2024-12-11",
+    "economic_factors_detail": {
+      "地缘冲突加剧": true
+    }
+  },
+  {
+    "id": 623,
+    "analysis_date": "2024-12-12",
+    "economic_factors_detail": {
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 624,
+    "analysis_date": "2024-12-13",
+    "economic_factors_detail": {
+      "美元走弱": true,
+      "新冠疫情影响": true
+    }
+  },
+  {
+    "id": 625,
+    "analysis_date": "2024-12-14",
+    "economic_factors_detail": {
+      "新冠疫情影响": true,
+      "美联储降息": true
+    }
+  },
+  {
+    "id": 626,
+    "analysis_date": "2024-12-15",
+    "economic_factors_detail": {
+      "通胀上升": false,
+      "美元走弱": true
+    }
+  },
+  {
+    "id": 627,
+    "analysis_date": "2024-12-16",
+    "economic_factors_detail": {
+      "新冠疫情影响": false
+    }
+  },
+  {
+    "id": 628,
+    "analysis_date": "2024-12-17",
+    "economic_factors_detail": {
+      "地缘冲突加剧": false
+    }
+  },
+  {
+    "id": 629,
+    "analysis_date": "2024-12-18",
+    "economic_factors_detail": {
+      "新冠疫情影响": true,
+      "美联储降息": false,
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 630,
+    "analysis_date": "2024-12-19",
+    "economic_factors_detail": {
+      "通胀上升": true
+    }
+  },
+  {
+    "id": 631,
+    "analysis_date": "2024-12-20",
+    "economic_factors_detail": {
+      "美元走弱": false,
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 632,
+    "analysis_date": "2024-12-21",
+    "economic_factors_detail": {
+      "美元走弱": true,
+      "通胀上升": false,
+      "新冠疫情影响": true
+    }
+  },
+  {
+    "id": 633,
+    "analysis_date": "2024-12-22",
+    "economic_factors_detail": {
+      "通胀上升": false,
+      "美联储降息": true
+    }
+  },
+  {
+    "id": 634,
+    "analysis_date": "2024-12-23",
+    "economic_factors_detail": {
+      "地缘冲突加剧": false
+    }
+  },
+  {
+    "id": 635,
+    "analysis_date": "2024-12-24",
+    "economic_factors_detail": {
+      "美元走弱": true,
+      "美联储降息": true
+    }
+  },
+  {
+    "id": 636,
+    "analysis_date": "2024-12-25",
+    "economic_factors_detail": {
+      "新冠疫情影响": true,
+      "美元走弱": true
+    }
+  },
+  {
+    "id": 637,
+    "analysis_date": "2024-12-26",
+    "economic_factors_detail": {
+      "新冠疫情影响": true,
+      "通胀上升": false,
+      "地缘冲突加剧": false
+    }
+  },
+  {
+    "id": 638,
+    "analysis_date": "2024-12-27",
+    "economic_factors_detail": {
+      "通胀上升": true,
+      "地缘冲突加剧": true
+    }
+  },
+  {
+    "id": 639,
+    "analysis_date": "2024-12-28",
+    "economic_factors_detail": {
+      "新冠疫情影响": true
+    }
+  },
+  {
+    "id": 640,
+    "analysis_date": "2024-12-29",
+    "economic_factors_detail": {
+      "通胀上升": true
+    }
+  },
+  {
+    "id": 641,
+    "analysis_date": "2024-12-30",
+    "economic_factors_detail": {
+      "通胀上升": true,
+      "新冠疫情影响": true
+    }
+  },
+  {
+    "id": 642,
+    "analysis_date": "2024-12-31",
+    "economic_factors_detail": {
+      "新冠疫情影响": true
+    }
+  },
+  {
+    "id": 643,
+    "analysis_date": "2025-01-01",
+    "economic_factors_detail": {
+      "美元走弱": false,
+      "通胀上升": false,
+      "地缘冲突加剧": false
+    }
+  },
+  {
+    "id": 644,
+    "analysis_date": "2025-01-02",
+    "economic_factors_detail": {
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 645,
+    "analysis_date": "2025-01-03",
+    "economic_factors_detail": {
+      "通胀上升": true,
+      "地缘冲突加剧": false
+    }
+  },
+  {
+    "id": 646,
+    "analysis_date": "2025-01-04",
+    "economic_factors_detail": {
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 647,
+    "analysis_date": "2025-01-05",
+    "economic_factors_detail": {
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 648,
+    "analysis_date": "2025-01-06",
+    "economic_factors_detail": {
+      "新冠疫情影响": false
+    }
+  },
+  {
+    "id": 649,
+    "analysis_date": "2025-01-07",
+    "economic_factors_detail": {
+      "美元走弱": true
+    }
+  },
+  {
+    "id": 650,
+    "analysis_date": "2025-01-08",
+    "economic_factors_detail": {
+      "地缘冲突加剧": true
+    }
+  },
+  {
+    "id": 651,
+    "analysis_date": "2025-01-09",
+    "economic_factors_detail": {
+      "通胀上升": true
+    }
+  },
+  {
+    "id": 652,
+    "analysis_date": "2025-01-10",
+    "economic_factors_detail": {
+      "通胀上升": true,
+      "美元走弱": true
+    }
+  },
+  {
+    "id": 653,
+    "analysis_date": "2025-01-11",
+    "economic_factors_detail": {
+      "新冠疫情影响": true,
+      "通胀上升": true
+    }
+  },
+  {
+    "id": 654,
+    "analysis_date": "2025-01-12",
+    "economic_factors_detail": {
+      "通胀上升": true,
+      "新冠疫情影响": false,
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 655,
+    "analysis_date": "2025-01-13",
+    "economic_factors_detail": {
+      "新冠疫情影响": false
+    }
+  },
+  {
+    "id": 656,
+    "analysis_date": "2025-01-14",
+    "economic_factors_detail": {
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 657,
+    "analysis_date": "2025-01-15",
+    "economic_factors_detail": {
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 658,
+    "analysis_date": "2025-01-16",
+    "economic_factors_detail": {
+      "地缘冲突加剧": true
+    }
+  },
+  {
+    "id": 659,
+    "analysis_date": "2025-01-17",
+    "economic_factors_detail": {
+      "地缘冲突加剧": false,
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 660,
+    "analysis_date": "2025-01-18",
+    "economic_factors_detail": {
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 661,
+    "analysis_date": "2025-01-19",
+    "economic_factors_detail": {
+      "地缘冲突加剧": true,
+      "美元走弱": true
+    }
+  },
+  {
+    "id": 662,
+    "analysis_date": "2025-01-20",
+    "economic_factors_detail": {
+      "地缘冲突加剧": false
+    }
+  },
+  {
+    "id": 663,
+    "analysis_date": "2025-01-21",
+    "economic_factors_detail": {
+      "美联储降息": false,
+      "通胀上升": true
+    }
+  },
+  {
+    "id": 664,
+    "analysis_date": "2025-01-22",
+    "economic_factors_detail": {
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 665,
+    "analysis_date": "2025-01-23",
+    "economic_factors_detail": {
+      "新冠疫情影响": false
+    }
+  },
+  {
+    "id": 666,
+    "analysis_date": "2025-01-24",
+    "economic_factors_detail": {
+      "新冠疫情影响": false,
+      "地缘冲突加剧": true
+    }
+  },
+  {
+    "id": 667,
+    "analysis_date": "2025-01-25",
+    "economic_factors_detail": {
+      "美联储降息": true
+    }
+  },
+  {
+    "id": 668,
+    "analysis_date": "2025-01-26",
+    "economic_factors_detail": {
+      "地缘冲突加剧": true
+    }
+  },
+  {
+    "id": 669,
+    "analysis_date": "2025-01-27",
+    "economic_factors_detail": {
+      "通胀上升": false,
+      "新冠疫情影响": false
+    }
+  },
+  {
+    "id": 670,
+    "analysis_date": "2025-01-28",
+    "economic_factors_detail": {
+      "新冠疫情影响": false
+    }
+  },
+  {
+    "id": 671,
+    "analysis_date": "2025-01-29",
+    "economic_factors_detail": {
+      "美联储降息": false,
+      "新冠疫情影响": true
+    }
+  },
+  {
+    "id": 672,
+    "analysis_date": "2025-01-30",
+    "economic_factors_detail": {
+      "新冠疫情影响": false,
+      "通胀上升": false,
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 673,
+    "analysis_date": "2025-01-31",
+    "economic_factors_detail": {
+      "通胀上升": true,
+      "新冠疫情影响": false
+    }
+  },
+  {
+    "id": 674,
+    "analysis_date": "2025-02-01",
+    "economic_factors_detail": {
+      "新冠疫情影响": false
+    }
+  },
+  {
+    "id": 675,
+    "analysis_date": "2025-02-02",
+    "economic_factors_detail": {
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 676,
+    "analysis_date": "2025-02-03",
+    "economic_factors_detail": {
+      "地缘冲突加剧": false
+    }
+  },
+  {
+    "id": 677,
+    "analysis_date": "2025-02-04",
+    "economic_factors_detail": {
+      "美元走弱": true,
+      "地缘冲突加剧": false
+    }
+  },
+  {
+    "id": 678,
+    "analysis_date": "2025-02-05",
+    "economic_factors_detail": {
+      "新冠疫情影响": true,
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 679,
+    "analysis_date": "2025-02-06",
+    "economic_factors_detail": {
+      "新冠疫情影响": false
+    }
+  },
+  {
+    "id": 680,
+    "analysis_date": "2025-02-07",
+    "economic_factors_detail": {
+      "地缘冲突加剧": false,
+      "新冠疫情影响": true
+    }
+  },
+  {
+    "id": 681,
+    "analysis_date": "2025-02-08",
+    "economic_factors_detail": {
+      "新冠疫情影响": true
+    }
+  },
+  {
+    "id": 682,
+    "analysis_date": "2025-02-09",
+    "economic_factors_detail": {
+      "美元走弱": true,
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 683,
+    "analysis_date": "2025-02-10",
+    "economic_factors_detail": {
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 684,
+    "analysis_date": "2025-02-11",
+    "economic_factors_detail": {
+      "美元走弱": false,
+      "通胀上升": true
+    }
+  },
+  {
+    "id": 685,
+    "analysis_date": "2025-02-12",
+    "economic_factors_detail": {
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 686,
+    "analysis_date": "2025-02-13",
+    "economic_factors_detail": {
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 687,
+    "analysis_date": "2025-02-14",
+    "economic_factors_detail": {
+      "美元走弱": false,
+      "美联储降息": true
+    }
+  },
+  {
+    "id": 688,
+    "analysis_date": "2025-02-15",
+    "economic_factors_detail": {
+      "美元走弱": false,
+      "美联储降息": true
+    }
+  },
+  {
+    "id": 689,
+    "analysis_date": "2025-02-16",
+    "economic_factors_detail": {
+      "通胀上升": true,
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 690,
+    "analysis_date": "2025-02-17",
+    "economic_factors_detail": {
+      "新冠疫情影响": true
+    }
+  },
+  {
+    "id": 691,
+    "analysis_date": "2025-02-18",
+    "economic_factors_detail": {
+      "美元走弱": false,
+      "地缘冲突加剧": true
+    }
+  },
+  {
+    "id": 692,
+    "analysis_date": "2025-02-19",
+    "economic_factors_detail": {
+      "美元走弱": true,
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 693,
+    "analysis_date": "2025-02-20",
+    "economic_factors_detail": {
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 694,
+    "analysis_date": "2025-02-21",
+    "economic_factors_detail": {
+      "美联储降息": false,
+      "新冠疫情影响": true
+    }
+  },
+  {
+    "id": 695,
+    "analysis_date": "2025-02-22",
+    "economic_factors_detail": {
+      "通胀上升": true
+    }
+  },
+  {
+    "id": 696,
+    "analysis_date": "2025-02-23",
+    "economic_factors_detail": {
+      "新冠疫情影响": false
+    }
+  },
+  {
+    "id": 697,
+    "analysis_date": "2025-02-24",
+    "economic_factors_detail": {
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 698,
+    "analysis_date": "2025-02-25",
+    "economic_factors_detail": {
+      "新冠疫情影响": false
+    }
+  },
+  {
+    "id": 699,
+    "analysis_date": "2025-02-26",
+    "economic_factors_detail": {
+      "通胀上升": false,
+      "地缘冲突加剧": false
+    }
+  },
+  {
+    "id": 700,
+    "analysis_date": "2025-02-27",
+    "economic_factors_detail": {
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 701,
+    "analysis_date": "2025-02-28",
+    "economic_factors_detail": {
+      "美元走弱": true
+    }
+  },
+  {
+    "id": 702,
+    "analysis_date": "2025-03-01",
+    "economic_factors_detail": {
+      "通胀上升": true,
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 703,
+    "analysis_date": "2025-03-02",
+    "economic_factors_detail": {
+      "通胀上升": true,
+      "新冠疫情影响": false
+    }
+  },
+  {
+    "id": 704,
+    "analysis_date": "2025-03-03",
+    "economic_factors_detail": {
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 705,
+    "analysis_date": "2025-03-04",
+    "economic_factors_detail": {
+      "美元走弱": false,
+      "新冠疫情影响": false
+    }
+  },
+  {
+    "id": 706,
+    "analysis_date": "2025-03-05",
+    "economic_factors_detail": {
+      "地缘冲突加剧": false
+    }
+  },
+  {
+    "id": 707,
+    "analysis_date": "2025-03-06",
+    "economic_factors_detail": {
+      "美联储降息": false,
+      "地缘冲突加剧": false
+    }
+  },
+  {
+    "id": 708,
+    "analysis_date": "2025-03-07",
+    "economic_factors_detail": {
+      "新冠疫情影响": false,
+      "美联储降息": true
+    }
+  },
+  {
+    "id": 709,
+    "analysis_date": "2025-03-08",
+    "economic_factors_detail": {
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 710,
+    "analysis_date": "2025-03-09",
+    "economic_factors_detail": {
+      "新冠疫情影响": true,
+      "地缘冲突加剧": true
+    }
+  },
+  {
+    "id": 711,
+    "analysis_date": "2025-03-10",
+    "economic_factors_detail": {
+      "新冠疫情影响": true,
+      "美联储降息": true
+    }
+  },
+  {
+    "id": 712,
+    "analysis_date": "2025-03-11",
+    "economic_factors_detail": {
+      "美联储降息": true,
+      "地缘冲突加剧": false
+    }
+  },
+  {
+    "id": 713,
+    "analysis_date": "2025-03-12",
+    "economic_factors_detail": {
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 714,
+    "analysis_date": "2025-03-13",
+    "economic_factors_detail": {
+      "地缘冲突加剧": true
+    }
+  },
+  {
+    "id": 715,
+    "analysis_date": "2025-03-14",
+    "economic_factors_detail": {
+      "美联储降息": true,
+      "地缘冲突加剧": false
+    }
+  },
+  {
+    "id": 716,
+    "analysis_date": "2025-03-15",
+    "economic_factors_detail": {
+      "地缘冲突加剧": false,
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 717,
+    "analysis_date": "2025-03-16",
+    "economic_factors_detail": {
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 718,
+    "analysis_date": "2025-03-17",
+    "economic_factors_detail": {
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 719,
+    "analysis_date": "2025-03-18",
+    "economic_factors_detail": {
+      "美联储降息": true
+    }
+  },
+  {
+    "id": 720,
+    "analysis_date": "2025-03-19",
+    "economic_factors_detail": {
+      "美元走弱": true
+    }
+  },
+  {
+    "id": 721,
+    "analysis_date": "2025-03-20",
+    "economic_factors_detail": {
+      "美元走弱": true,
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 722,
+    "analysis_date": "2025-03-21",
+    "economic_factors_detail": {
+      "美元走弱": false,
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 723,
+    "analysis_date": "2025-03-22",
+    "economic_factors_detail": {
+      "美联储降息": false,
+      "地缘冲突加剧": false
+    }
+  },
+  {
+    "id": 724,
+    "analysis_date": "2025-03-23",
+    "economic_factors_detail": {
+      "通胀上升": true
+    }
+  },
+  {
+    "id": 725,
+    "analysis_date": "2025-03-24",
+    "economic_factors_detail": {
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 726,
+    "analysis_date": "2025-03-25",
+    "economic_factors_detail": {
+      "通胀上升": true
+    }
+  },
+  {
+    "id": 727,
+    "analysis_date": "2025-03-26",
+    "economic_factors_detail": {
+      "美联储降息": true,
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 728,
+    "analysis_date": "2025-03-27",
+    "economic_factors_detail": {
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 729,
+    "analysis_date": "2025-03-28",
+    "economic_factors_detail": {
+      "美联储降息": true,
+      "新冠疫情影响": false
+    }
+  },
+  {
+    "id": 730,
+    "analysis_date": "2025-03-29",
+    "economic_factors_detail": {
+      "通胀上升": true
+    }
+  },
+  {
+    "id": 731,
+    "analysis_date": "2025-03-30",
+    "economic_factors_detail": {
+      "地缘冲突加剧": false
+    }
+  },
+  {
+    "id": 732,
+    "analysis_date": "2025-03-31",
+    "economic_factors_detail": {
+      "美元走弱": true
+    }
+  },
+  {
+    "id": 733,
+    "analysis_date": "2025-04-01",
+    "economic_factors_detail": {
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 734,
+    "analysis_date": "2025-04-02",
+    "economic_factors_detail": {
+      "美联储降息": false,
+      "地缘冲突加剧": true
+    }
+  },
+  {
+    "id": 735,
+    "analysis_date": "2025-04-03",
+    "economic_factors_detail": {
+      "美联储降息": true,
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 736,
+    "analysis_date": "2025-04-04",
+    "economic_factors_detail": {
+      "地缘冲突加剧": false
+    }
+  },
+  {
+    "id": 737,
+    "analysis_date": "2025-04-05",
+    "economic_factors_detail": {
+      "新冠疫情影响": true
+    }
+  },
+  {
+    "id": 738,
+    "analysis_date": "2025-04-06",
+    "economic_factors_detail": {
+      "美元走弱": true,
+      "地缘冲突加剧": false
+    }
+  },
+  {
+    "id": 739,
+    "analysis_date": "2025-04-07",
+    "economic_factors_detail": {
+      "美元走弱": false,
+      "新冠疫情影响": true
+    }
+  },
+  {
+    "id": 740,
+    "analysis_date": "2025-04-08",
+    "economic_factors_detail": {
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 741,
+    "analysis_date": "2025-04-09",
+    "economic_factors_detail": {
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 742,
+    "analysis_date": "2025-04-10",
+    "economic_factors_detail": {
+      "美元走弱": true,
+      "通胀上升": true,
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 743,
+    "analysis_date": "2025-04-11",
+    "economic_factors_detail": {
+      "新冠疫情影响": true
+    }
+  },
+  {
+    "id": 744,
+    "analysis_date": "2025-04-12",
+    "economic_factors_detail": {
+      "通胀上升": false,
+      "地缘冲突加剧": true,
+      "新冠疫情影响": false
+    }
+  },
+  {
+    "id": 745,
+    "analysis_date": "2025-04-13",
+    "economic_factors_detail": {
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 746,
+    "analysis_date": "2025-04-14",
+    "economic_factors_detail": {
+      "通胀上升": false,
+      "美联储降息": true
+    }
+  },
+  {
+    "id": 747,
+    "analysis_date": "2025-04-15",
+    "economic_factors_detail": {
+      "美联储降息": false,
+      "地缘冲突加剧": false
+    }
+  },
+  {
+    "id": 748,
+    "analysis_date": "2025-04-16",
+    "economic_factors_detail": {
+      "通胀上升": true
+    }
+  },
+  {
+    "id": 749,
+    "analysis_date": "2025-04-17",
+    "economic_factors_detail": {
+      "美联储降息": true,
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 750,
+    "analysis_date": "2025-04-18",
+    "economic_factors_detail": {
+      "地缘冲突加剧": true
+    }
+  },
+  {
+    "id": 751,
+    "analysis_date": "2025-04-19",
+    "economic_factors_detail": {
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 752,
+    "analysis_date": "2025-04-20",
+    "economic_factors_detail": {
+      "地缘冲突加剧": true
+    }
+  },
+  {
+    "id": 753,
+    "analysis_date": "2025-04-21",
+    "economic_factors_detail": {
+      "地缘冲突加剧": true,
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 754,
+    "analysis_date": "2025-04-22",
+    "economic_factors_detail": {
+      "地缘冲突加剧": true,
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 755,
+    "analysis_date": "2025-04-23",
+    "economic_factors_detail": {
+      "地缘冲突加剧": true
+    }
+  },
+  {
+    "id": 756,
+    "analysis_date": "2025-04-24",
+    "economic_factors_detail": {
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 757,
+    "analysis_date": "2025-04-25",
+    "economic_factors_detail": {
+      "地缘冲突加剧": false
+    }
+  },
+  {
+    "id": 758,
+    "analysis_date": "2025-04-26",
+    "economic_factors_detail": {
+      "美联储降息": true
+    }
+  },
+  {
+    "id": 759,
+    "analysis_date": "2025-04-27",
+    "economic_factors_detail": {
+      "地缘冲突加剧": true,
+      "新冠疫情影响": true
+    }
+  },
+  {
+    "id": 760,
+    "analysis_date": "2025-04-28",
+    "economic_factors_detail": {
+      "新冠疫情影响": true,
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 761,
+    "analysis_date": "2025-04-29",
+    "economic_factors_detail": {
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 762,
+    "analysis_date": "2025-04-30",
+    "economic_factors_detail": {
+      "新冠疫情影响": false,
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 763,
+    "analysis_date": "2025-05-01",
+    "economic_factors_detail": {
+      "通胀上升": true,
+      "新冠疫情影响": true
+    }
+  },
+  {
+    "id": 764,
+    "analysis_date": "2025-05-02",
+    "economic_factors_detail": {
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 765,
+    "analysis_date": "2025-05-03",
+    "economic_factors_detail": {
+      "美联储降息": true,
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 766,
+    "analysis_date": "2025-05-04",
+    "economic_factors_detail": {
+      "美联储降息": true,
+      "新冠疫情影响": false
+    }
+  },
+  {
+    "id": 767,
+    "analysis_date": "2025-05-05",
+    "economic_factors_detail": {
+      "通胀上升": true
+    }
+  },
+  {
+    "id": 768,
+    "analysis_date": "2025-05-06",
+    "economic_factors_detail": {
+      "通胀上升": true
+    }
+  },
+  {
+    "id": 769,
+    "analysis_date": "2025-05-07",
+    "economic_factors_detail": {
+      "新冠疫情影响": true,
+      "美联储降息": true,
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 770,
+    "analysis_date": "2025-05-08",
+    "economic_factors_detail": {
+      "通胀上升": true,
+      "新冠疫情影响": true,
+      "美元走弱": true
+    }
+  },
+  {
+    "id": 771,
+    "analysis_date": "2025-05-09",
+    "economic_factors_detail": {
+      "新冠疫情影响": true,
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 772,
+    "analysis_date": "2025-05-10",
+    "economic_factors_detail": {
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 773,
+    "analysis_date": "2025-05-11",
+    "economic_factors_detail": {
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 774,
+    "analysis_date": "2025-05-12",
+    "economic_factors_detail": {
+      "新冠疫情影响": false
+    }
+  },
+  {
+    "id": 775,
+    "analysis_date": "2025-05-13",
+    "economic_factors_detail": {
+      "美元走弱": true
+    }
+  },
+  {
+    "id": 776,
+    "analysis_date": "2025-05-14",
+    "economic_factors_detail": {
+      "美元走弱": false,
+      "美联储降息": true
+    }
+  },
+  {
+    "id": 777,
+    "analysis_date": "2025-05-15",
+    "economic_factors_detail": {
+      "美元走弱": false,
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 778,
+    "analysis_date": "2025-05-16",
+    "economic_factors_detail": {
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 779,
+    "analysis_date": "2025-05-17",
+    "economic_factors_detail": {
+      "地缘冲突加剧": false
+    }
+  },
+  {
+    "id": 780,
+    "analysis_date": "2025-05-18",
+    "economic_factors_detail": {
+      "地缘冲突加剧": false,
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 781,
+    "analysis_date": "2025-05-19",
+    "economic_factors_detail": {
+      "美元走弱": true,
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 782,
+    "analysis_date": "2025-05-20",
+    "economic_factors_detail": {
+      "美元走弱": false,
+      "地缘冲突加剧": true
+    }
+  },
+  {
+    "id": 783,
+    "analysis_date": "2025-05-21",
+    "economic_factors_detail": {
+      "新冠疫情影响": true
+    }
+  },
+  {
+    "id": 784,
+    "analysis_date": "2025-05-22",
+    "economic_factors_detail": {
+      "美联储降息": false,
+      "地缘冲突加剧": false,
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 785,
+    "analysis_date": "2025-05-23",
+    "economic_factors_detail": {
+      "美元走弱": true
+    }
+  },
+  {
+    "id": 786,
+    "analysis_date": "2025-05-24",
+    "economic_factors_detail": {
+      "通胀上升": false,
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 787,
+    "analysis_date": "2025-05-25",
+    "economic_factors_detail": {
+      "美联储降息": true
+    }
+  },
+  {
+    "id": 788,
+    "analysis_date": "2025-05-26",
+    "economic_factors_detail": {
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 789,
+    "analysis_date": "2025-05-27",
+    "economic_factors_detail": {
+      "地缘冲突加剧": false,
+      "新冠疫情影响": false
+    }
+  },
+  {
+    "id": 790,
+    "analysis_date": "2025-05-28",
+    "economic_factors_detail": {
+      "通胀上升": false,
+      "地缘冲突加剧": true,
+      "新冠疫情影响": true
+    }
+  },
+  {
+    "id": 791,
+    "analysis_date": "2025-05-29",
+    "economic_factors_detail": {
+      "美元走弱": true,
+      "地缘冲突加剧": true,
+      "通胀上升": true
+    }
+  },
+  {
+    "id": 792,
+    "analysis_date": "2025-05-30",
+    "economic_factors_detail": {
+      "地缘冲突加剧": false
+    }
+  },
+  {
+    "id": 793,
+    "analysis_date": "2025-05-31",
+    "economic_factors_detail": {
+      "地缘冲突加剧": true
+    }
+  },
+  {
+    "id": 794,
+    "analysis_date": "2025-06-01",
+    "economic_factors_detail": {
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 795,
+    "analysis_date": "2025-06-02",
+    "economic_factors_detail": {
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 796,
+    "analysis_date": "2025-06-03",
+    "economic_factors_detail": {
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 797,
+    "analysis_date": "2025-06-04",
+    "economic_factors_detail": {
+      "新冠疫情影响": false
+    }
+  },
+  {
+    "id": 798,
+    "analysis_date": "2025-06-05",
+    "economic_factors_detail": {
+      "美元走弱": false,
+      "地缘冲突加剧": true
+    }
+  },
+  {
+    "id": 799,
+    "analysis_date": "2025-06-06",
+    "economic_factors_detail": {
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 800,
+    "analysis_date": "2025-06-07",
+    "economic_factors_detail": {
+      "通胀上升": true,
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 801,
+    "analysis_date": "2025-06-08",
+    "economic_factors_detail": {
+      "地缘冲突加剧": false,
+      "通胀上升": true,
+      "新冠疫情影响": true
+    }
+  },
+  {
+    "id": 802,
+    "analysis_date": "2025-06-09",
+    "economic_factors_detail": {
+      "地缘冲突加剧": false
+    }
+  },
+  {
+    "id": 803,
+    "analysis_date": "2025-06-10",
+    "economic_factors_detail": {
+      "通胀上升": false,
+      "美联储降息": true,
+      "美元走弱": true
+    }
+  },
+  {
+    "id": 804,
+    "analysis_date": "2025-06-11",
+    "economic_factors_detail": {
+      "美联储降息": true,
+      "新冠疫情影响": true,
+      "地缘冲突加剧": false
+    }
+  },
+  {
+    "id": 805,
+    "analysis_date": "2025-06-12",
+    "economic_factors_detail": {
+      "地缘冲突加剧": false,
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 806,
+    "analysis_date": "2025-06-13",
+    "economic_factors_detail": {
+      "新冠疫情影响": true
+    }
+  },
+  {
+    "id": 807,
+    "analysis_date": "2025-06-14",
+    "economic_factors_detail": {
+      "地缘冲突加剧": true,
+      "通胀上升": true
+    }
+  },
+  {
+    "id": 808,
+    "analysis_date": "2025-06-15",
+    "economic_factors_detail": {
+      "新冠疫情影响": false,
+      "地缘冲突加剧": false
+    }
+  },
+  {
+    "id": 809,
+    "analysis_date": "2025-06-16",
+    "economic_factors_detail": {
+      "通胀上升": true,
+      "新冠疫情影响": true,
+      "美元走弱": true
+    }
+  },
+  {
+    "id": 810,
+    "analysis_date": "2025-06-17",
+    "economic_factors_detail": {
+      "新冠疫情影响": true,
+      "地缘冲突加剧": true
+    }
+  },
+  {
+    "id": 811,
+    "analysis_date": "2025-06-18",
+    "economic_factors_detail": {
+      "新冠疫情影响": true,
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 812,
+    "analysis_date": "2025-06-19",
+    "economic_factors_detail": {
+      "通胀上升": false,
+      "新冠疫情影响": true
+    }
+  },
+  {
+    "id": 813,
+    "analysis_date": "2025-06-20",
+    "economic_factors_detail": {
+      "美联储降息": true,
+      "地缘冲突加剧": false
+    }
+  },
+  {
+    "id": 814,
+    "analysis_date": "2025-06-21",
+    "economic_factors_detail": {
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 815,
+    "analysis_date": "2025-06-22",
+    "economic_factors_detail": {
+      "新冠疫情影响": false
+    }
+  },
+  {
+    "id": 816,
+    "analysis_date": "2025-06-23",
+    "economic_factors_detail": {
+      "美元走弱": true
+    }
+  },
+  {
+    "id": 817,
+    "analysis_date": "2025-06-24",
+    "economic_factors_detail": {
+      "通胀上升": true,
+      "地缘冲突加剧": false
+    }
+  },
+  {
+    "id": 818,
+    "analysis_date": "2025-06-25",
+    "economic_factors_detail": {
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 819,
+    "analysis_date": "2025-06-26",
+    "economic_factors_detail": {
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 820,
+    "analysis_date": "2025-06-27",
+    "economic_factors_detail": {
+      "新冠疫情影响": true,
+      "地缘冲突加剧": false
+    }
+  },
+  {
+    "id": 821,
+    "analysis_date": "2025-06-28",
+    "economic_factors_detail": {
+      "地缘冲突加剧": false
+    }
+  },
+  {
+    "id": 822,
+    "analysis_date": "2025-06-29",
+    "economic_factors_detail": {
+      "新冠疫情影响": true
+    }
+  },
+  {
+    "id": 823,
+    "analysis_date": "2025-06-30",
+    "economic_factors_detail": {
+      "通胀上升": false,
+      "美元走弱": true
+    }
+  },
+  {
+    "id": 824,
+    "analysis_date": "2025-07-01",
+    "economic_factors_detail": {
+      "美元走弱": true
+    }
+  },
+  {
+    "id": 825,
+    "analysis_date": "2025-07-02",
+    "economic_factors_detail": {
+      "美联储降息": true
+    }
+  },
+  {
+    "id": 826,
+    "analysis_date": "2025-07-03",
+    "economic_factors_detail": {
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 827,
+    "analysis_date": "2025-07-04",
+    "economic_factors_detail": {
+      "新冠疫情影响": true,
+      "美联储降息": false,
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 828,
+    "analysis_date": "2025-07-05",
+    "economic_factors_detail": {
+      "新冠疫情影响": true,
+      "美联储降息": true
+    }
+  },
+  {
+    "id": 829,
+    "analysis_date": "2025-07-06",
+    "economic_factors_detail": {
+      "地缘冲突加剧": false,
+      "新冠疫情影响": true,
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 830,
+    "analysis_date": "2025-07-07",
+    "economic_factors_detail": {
+      "美元走弱": true
+    }
+  },
+  {
+    "id": 831,
+    "analysis_date": "2025-07-08",
+    "economic_factors_detail": {
+      "美联储降息": false,
+      "地缘冲突加剧": true
+    }
+  },
+  {
+    "id": 832,
+    "analysis_date": "2025-07-09",
+    "economic_factors_detail": {
+      "美元走弱": false,
+      "新冠疫情影响": true
+    }
+  },
+  {
+    "id": 833,
+    "analysis_date": "2025-07-10",
+    "economic_factors_detail": {
+      "美联储降息": true,
+      "新冠疫情影响": true,
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 834,
+    "analysis_date": "2025-07-11",
+    "economic_factors_detail": {
+      "通胀上升": false,
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 835,
+    "analysis_date": "2025-07-12",
+    "economic_factors_detail": {
+      "美元走弱": true,
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 836,
+    "analysis_date": "2025-07-13",
+    "economic_factors_detail": {
+      "美元走弱": true,
+      "通胀上升": true,
+      "地缘冲突加剧": true
+    }
+  },
+  {
+    "id": 837,
+    "analysis_date": "2025-07-14",
+    "economic_factors_detail": {
+      "新冠疫情影响": true
+    }
+  },
+  {
+    "id": 838,
+    "analysis_date": "2025-07-15",
+    "economic_factors_detail": {
+      "美联储降息": false,
+      "地缘冲突加剧": false,
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 839,
+    "analysis_date": "2025-07-16",
+    "economic_factors_detail": {
+      "通胀上升": false,
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 840,
+    "analysis_date": "2025-07-17",
+    "economic_factors_detail": {
+      "新冠疫情影响": false,
+      "美元走弱": false,
+      "通胀上升": true
+    }
+  },
+  {
+    "id": 841,
+    "analysis_date": "2025-07-18",
+    "economic_factors_detail": {
+      "通胀上升": true,
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 842,
+    "analysis_date": "2025-07-19",
+    "economic_factors_detail": {
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 843,
+    "analysis_date": "2025-07-20",
+    "economic_factors_detail": {
+      "地缘冲突加剧": true
+    }
+  },
+  {
+    "id": 844,
+    "analysis_date": "2025-07-21",
+    "economic_factors_detail": {
+      "美元走弱": true,
+      "新冠疫情影响": false
+    }
+  },
+  {
+    "id": 845,
+    "analysis_date": "2025-07-22",
+    "economic_factors_detail": {
+      "新冠疫情影响": true
+    }
+  },
+  {
+    "id": 846,
+    "analysis_date": "2025-07-23",
+    "economic_factors_detail": {
+      "通胀上升": true
+    }
+  },
+  {
+    "id": 847,
+    "analysis_date": "2025-07-24",
+    "economic_factors_detail": {
+      "通胀上升": false,
+      "美联储降息": false,
+      "地缘冲突加剧": false
+    }
+  },
+  {
+    "id": 848,
+    "analysis_date": "2025-07-25",
+    "economic_factors_detail": {
+      "新冠疫情影响": false,
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 849,
+    "analysis_date": "2025-07-26",
+    "economic_factors_detail": {
+      "地缘冲突加剧": false,
+      "新冠疫情影响": true,
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 850,
+    "analysis_date": "2025-07-27",
+    "economic_factors_detail": {
+      "美元走弱": false,
+      "地缘冲突加剧": false
+    }
+  },
+  {
+    "id": 851,
+    "analysis_date": "2025-07-28",
+    "economic_factors_detail": {
+      "新冠疫情影响": true
+    }
+  },
+  {
+    "id": 852,
+    "analysis_date": "2025-07-29",
+    "economic_factors_detail": {
+      "新冠疫情影响": true,
+      "通胀上升": true
+    }
+  },
+  {
+    "id": 853,
+    "analysis_date": "2025-07-30",
+    "economic_factors_detail": {
+      "新冠疫情影响": true,
+      "美元走弱": true
+    }
+  },
+  {
+    "id": 854,
+    "analysis_date": "2025-07-31",
+    "economic_factors_detail": {
+      "通胀上升": true,
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 855,
+    "analysis_date": "2025-08-01",
+    "economic_factors_detail": {
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 856,
+    "analysis_date": "2025-08-02",
+    "economic_factors_detail": {
+      "新冠疫情影响": false
+    }
+  },
+  {
+    "id": 857,
+    "analysis_date": "2025-08-03",
+    "economic_factors_detail": {
+      "美联储降息": true,
+      "地缘冲突加剧": false
+    }
+  },
+  {
+    "id": 858,
+    "analysis_date": "2025-08-04",
+    "economic_factors_detail": {
+      "地缘冲突加剧": false
+    }
+  },
+  {
+    "id": 859,
+    "analysis_date": "2025-08-05",
+    "economic_factors_detail": {
+      "美联储降息": false,
+      "美元走弱": true
+    }
+  },
+  {
+    "id": 860,
+    "analysis_date": "2025-08-06",
+    "economic_factors_detail": {
+      "新冠疫情影响": true
+    }
+  },
+  {
+    "id": 861,
+    "analysis_date": "2025-08-07",
+    "economic_factors_detail": {
+      "美联储降息": true
+    }
+  },
+  {
+    "id": 862,
+    "analysis_date": "2025-08-08",
+    "economic_factors_detail": {
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 863,
+    "analysis_date": "2025-08-09",
+    "economic_factors_detail": {
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 864,
+    "analysis_date": "2025-08-10",
+    "economic_factors_detail": {
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 865,
+    "analysis_date": "2025-08-11",
+    "economic_factors_detail": {
+      "地缘冲突加剧": false
+    }
+  },
+  {
+    "id": 866,
+    "analysis_date": "2025-08-12",
+    "economic_factors_detail": {
+      "通胀上升": true,
+      "地缘冲突加剧": true,
+      "新冠疫情影响": true
+    }
+  },
+  {
+    "id": 867,
+    "analysis_date": "2025-08-13",
+    "economic_factors_detail": {
+      "通胀上升": true
+    }
+  },
+  {
+    "id": 868,
+    "analysis_date": "2025-08-14",
+    "economic_factors_detail": {
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 869,
+    "analysis_date": "2025-08-15",
+    "economic_factors_detail": {
+      "美元走弱": false,
+      "新冠疫情影响": true,
+      "地缘冲突加剧": true
+    }
+  },
+  {
+    "id": 870,
+    "analysis_date": "2025-08-16",
+    "economic_factors_detail": {
+      "美联储降息": true
+    }
+  },
+  {
+    "id": 871,
+    "analysis_date": "2025-08-17",
+    "economic_factors_detail": {
+      "美联储降息": false,
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 872,
+    "analysis_date": "2025-08-18",
+    "economic_factors_detail": {
+      "地缘冲突加剧": true
+    }
+  },
+  {
+    "id": 873,
+    "analysis_date": "2025-08-19",
+    "economic_factors_detail": {
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 874,
+    "analysis_date": "2025-08-20",
+    "economic_factors_detail": {
+      "通胀上升": false,
+      "新冠疫情影响": false
+    }
+  },
+  {
+    "id": 875,
+    "analysis_date": "2025-08-21",
+    "economic_factors_detail": {
+      "通胀上升": true,
+      "美联储降息": true
+    }
+  },
+  {
+    "id": 876,
+    "analysis_date": "2025-08-22",
+    "economic_factors_detail": {
+      "美联储降息": true
+    }
+  },
+  {
+    "id": 877,
+    "analysis_date": "2025-08-23",
+    "economic_factors_detail": {
+      "地缘冲突加剧": true,
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 878,
+    "analysis_date": "2025-08-24",
+    "economic_factors_detail": {
+      "通胀上升": false,
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 879,
+    "analysis_date": "2025-08-25",
+    "economic_factors_detail": {
+      "新冠疫情影响": false
+    }
+  },
+  {
+    "id": 880,
+    "analysis_date": "2025-08-26",
+    "economic_factors_detail": {
+      "美元走弱": true,
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 881,
+    "analysis_date": "2025-08-27",
+    "economic_factors_detail": {
+      "地缘冲突加剧": true
+    }
+  },
+  {
+    "id": 882,
+    "analysis_date": "2025-08-28",
+    "economic_factors_detail": {
+      "新冠疫情影响": false,
+      "美元走弱": true
+    }
+  },
+  {
+    "id": 883,
+    "analysis_date": "2025-08-29",
+    "economic_factors_detail": {
+      "地缘冲突加剧": false
+    }
+  },
+  {
+    "id": 884,
+    "analysis_date": "2025-08-30",
+    "economic_factors_detail": {
+      "美元走弱": true
+    }
+  },
+  {
+    "id": 885,
+    "analysis_date": "2025-08-31",
+    "economic_factors_detail": {
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 886,
+    "analysis_date": "2025-09-01",
+    "economic_factors_detail": {
+      "通胀上升": true
+    }
+  },
+  {
+    "id": 887,
+    "analysis_date": "2025-09-02",
+    "economic_factors_detail": {
+      "美联储降息": true,
+      "通胀上升": true
+    }
+  },
+  {
+    "id": 888,
+    "analysis_date": "2025-09-03",
+    "economic_factors_detail": {
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 889,
+    "analysis_date": "2025-09-04",
+    "economic_factors_detail": {
+      "新冠疫情影响": false
+    }
+  },
+  {
+    "id": 890,
+    "analysis_date": "2025-09-05",
+    "economic_factors_detail": {
+      "美元走弱": true
+    }
+  },
+  {
+    "id": 891,
+    "analysis_date": "2025-09-06",
+    "economic_factors_detail": {
+      "地缘冲突加剧": true,
+      "新冠疫情影响": true
+    }
+  },
+  {
+    "id": 892,
+    "analysis_date": "2025-09-07",
+    "economic_factors_detail": {
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 893,
+    "analysis_date": "2025-09-08",
+    "economic_factors_detail": {
+      "美元走弱": false,
+      "美联储降息": true
+    }
+  },
+  {
+    "id": 894,
+    "analysis_date": "2025-09-09",
+    "economic_factors_detail": {
+      "新冠疫情影响": true
+    }
+  },
+  {
+    "id": 895,
+    "analysis_date": "2025-09-10",
+    "economic_factors_detail": {
+      "通胀上升": false,
+      "美联储降息": true,
+      "美元走弱": true
+    }
+  },
+  {
+    "id": 896,
+    "analysis_date": "2025-09-11",
+    "economic_factors_detail": {
+      "新冠疫情影响": true,
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 897,
+    "analysis_date": "2025-09-12",
+    "economic_factors_detail": {
+      "美联储降息": true
+    }
+  },
+  {
+    "id": 898,
+    "analysis_date": "2025-09-13",
+    "economic_factors_detail": {
+      "新冠疫情影响": true,
+      "美联储降息": true
+    }
+  },
+  {
+    "id": 899,
+    "analysis_date": "2025-09-14",
+    "economic_factors_detail": {
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 900,
+    "analysis_date": "2025-09-15",
+    "economic_factors_detail": {
+      "新冠疫情影响": false
+    }
+  },
+  {
+    "id": 901,
+    "analysis_date": "2025-09-16",
+    "economic_factors_detail": {
+      "地缘冲突加剧": true,
+      "新冠疫情影响": false,
+      "通胀上升": true
+    }
+  },
+  {
+    "id": 902,
+    "analysis_date": "2025-09-17",
+    "economic_factors_detail": {
+      "地缘冲突加剧": true
+    }
+  },
+  {
+    "id": 903,
+    "analysis_date": "2025-09-18",
+    "economic_factors_detail": {
+      "新冠疫情影响": false
+    }
+  },
+  {
+    "id": 904,
+    "analysis_date": "2025-09-19",
+    "economic_factors_detail": {
+      "美联储降息": true,
+      "地缘冲突加剧": true
+    }
+  },
+  {
+    "id": 905,
+    "analysis_date": "2025-09-20",
+    "economic_factors_detail": {
+      "新冠疫情影响": true
+    }
+  },
+  {
+    "id": 906,
+    "analysis_date": "2025-09-21",
+    "economic_factors_detail": {
+      "美联储降息": true
+    }
+  },
+  {
+    "id": 907,
+    "analysis_date": "2025-09-22",
+    "economic_factors_detail": {
+      "地缘冲突加剧": false,
+      "新冠疫情影响": true,
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 908,
+    "analysis_date": "2025-09-23",
+    "economic_factors_detail": {
+      "新冠疫情影响": false,
+      "地缘冲突加剧": false
+    }
+  },
+  {
+    "id": 909,
+    "analysis_date": "2025-09-24",
+    "economic_factors_detail": {
+      "通胀上升": false,
+      "新冠疫情影响": true,
+      "美联储降息": true
+    }
+  },
+  {
+    "id": 910,
+    "analysis_date": "2025-09-25",
+    "economic_factors_detail": {
+      "美联储降息": true,
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 911,
+    "analysis_date": "2025-09-26",
+    "economic_factors_detail": {
+      "通胀上升": true
+    }
+  },
+  {
+    "id": 912,
+    "analysis_date": "2025-09-27",
+    "economic_factors_detail": {
+      "新冠疫情影响": true
+    }
+  },
+  {
+    "id": 913,
+    "analysis_date": "2025-09-28",
+    "economic_factors_detail": {
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 914,
+    "analysis_date": "2025-09-29",
+    "economic_factors_detail": {
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 915,
+    "analysis_date": "2025-09-30",
+    "economic_factors_detail": {
+      "地缘冲突加剧": false,
+      "新冠疫情影响": false
+    }
+  },
+  {
+    "id": 916,
+    "analysis_date": "2025-10-01",
+    "economic_factors_detail": {
+      "新冠疫情影响": false,
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 917,
+    "analysis_date": "2025-10-02",
+    "economic_factors_detail": {
+      "新冠疫情影响": false,
+      "通胀上升": true
+    }
+  },
+  {
+    "id": 918,
+    "analysis_date": "2025-10-03",
+    "economic_factors_detail": {
+      "美联储降息": true,
+      "地缘冲突加剧": false,
+      "新冠疫情影响": false
+    }
+  },
+  {
+    "id": 919,
+    "analysis_date": "2025-10-04",
+    "economic_factors_detail": {
+      "新冠疫情影响": false,
+      "美元走弱": true
+    }
+  },
+  {
+    "id": 920,
+    "analysis_date": "2025-10-05",
+    "economic_factors_detail": {
+      "美联储降息": true
+    }
+  },
+  {
+    "id": 921,
+    "analysis_date": "2025-10-06",
+    "economic_factors_detail": {
+      "美元走弱": false,
+      "通胀上升": true,
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 922,
+    "analysis_date": "2025-10-07",
+    "economic_factors_detail": {
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 923,
+    "analysis_date": "2025-10-08",
+    "economic_factors_detail": {
+      "地缘冲突加剧": false,
+      "美联储降息": true
+    }
+  },
+  {
+    "id": 924,
+    "analysis_date": "2025-10-09",
+    "economic_factors_detail": {
+      "通胀上升": true,
+      "新冠疫情影响": false
+    }
+  },
+  {
+    "id": 925,
+    "analysis_date": "2025-10-10",
+    "economic_factors_detail": {
+      "地缘冲突加剧": false,
+      "通胀上升": true,
+      "新冠疫情影响": true
+    }
+  },
+  {
+    "id": 926,
+    "analysis_date": "2025-10-11",
+    "economic_factors_detail": {
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 927,
+    "analysis_date": "2025-10-12",
+    "economic_factors_detail": {
+      "地缘冲突加剧": true
+    }
+  },
+  {
+    "id": 928,
+    "analysis_date": "2025-10-13",
+    "economic_factors_detail": {
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 929,
+    "analysis_date": "2025-10-14",
+    "economic_factors_detail": {
+      "通胀上升": true,
+      "美元走弱": true
+    }
+  },
+  {
+    "id": 930,
+    "analysis_date": "2025-10-15",
+    "economic_factors_detail": {
+      "美元走弱": true
+    }
+  },
+  {
+    "id": 931,
+    "analysis_date": "2025-10-16",
+    "economic_factors_detail": {
+      "地缘冲突加剧": false
+    }
+  },
+  {
+    "id": 932,
+    "analysis_date": "2025-10-17",
+    "economic_factors_detail": {
+      "美元走弱": true,
+      "新冠疫情影响": false
+    }
+  },
+  {
+    "id": 933,
+    "analysis_date": "2025-10-18",
+    "economic_factors_detail": {
+      "美联储降息": false,
+      "通胀上升": true,
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 934,
+    "analysis_date": "2025-10-19",
+    "economic_factors_detail": {
+      "美联储降息": true
+    }
+  },
+  {
+    "id": 935,
+    "analysis_date": "2025-10-20",
+    "economic_factors_detail": {
+      "地缘冲突加剧": false
+    }
+  },
+  {
+    "id": 936,
+    "analysis_date": "2025-10-21",
+    "economic_factors_detail": {
+      "通胀上升": true,
+      "地缘冲突加剧": false
+    }
+  },
+  {
+    "id": 937,
+    "analysis_date": "2025-10-22",
+    "economic_factors_detail": {
+      "美联储降息": true,
+      "美元走弱": true
+    }
+  },
+  {
+    "id": 938,
+    "analysis_date": "2025-10-23",
+    "economic_factors_detail": {
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 939,
+    "analysis_date": "2025-10-24",
+    "economic_factors_detail": {
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 940,
+    "analysis_date": "2025-10-25",
+    "economic_factors_detail": {
+      "通胀上升": true
+    }
+  },
+  {
+    "id": 941,
+    "analysis_date": "2025-10-26",
+    "economic_factors_detail": {
+      "美元走弱": true,
+      "美联储降息": true
+    }
+  },
+  {
+    "id": 942,
+    "analysis_date": "2025-10-27",
+    "economic_factors_detail": {
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 943,
+    "analysis_date": "2025-10-28",
+    "economic_factors_detail": {
+      "地缘冲突加剧": false
+    }
+  },
+  {
+    "id": 944,
+    "analysis_date": "2025-10-29",
+    "economic_factors_detail": {
+      "新冠疫情影响": false
+    }
+  },
+  {
+    "id": 945,
+    "analysis_date": "2025-10-30",
+    "economic_factors_detail": {
+      "新冠疫情影响": false,
+      "地缘冲突加剧": false
+    }
+  },
+  {
+    "id": 946,
+    "analysis_date": "2025-10-31",
+    "economic_factors_detail": {
+      "通胀上升": true,
+      "美元走弱": true
+    }
+  },
+  {
+    "id": 947,
+    "analysis_date": "2025-11-01",
+    "economic_factors_detail": {
+      "新冠疫情影响": false,
+      "地缘冲突加剧": true
+    }
+  },
+  {
+    "id": 948,
+    "analysis_date": "2025-11-02",
+    "economic_factors_detail": {
+      "地缘冲突加剧": true,
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 949,
+    "analysis_date": "2025-11-03",
+    "economic_factors_detail": {
+      "新冠疫情影响": true
+    }
+  },
+  {
+    "id": 950,
+    "analysis_date": "2025-11-04",
+    "economic_factors_detail": {
+      "美联储降息": true,
+      "美元走弱": false,
+      "新冠疫情影响": true
+    }
+  },
+  {
+    "id": 951,
+    "analysis_date": "2025-11-05",
+    "economic_factors_detail": {
+      "新冠疫情影响": false,
+      "地缘冲突加剧": false
+    }
+  },
+  {
+    "id": 952,
+    "analysis_date": "2025-11-06",
+    "economic_factors_detail": {
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 953,
+    "analysis_date": "2025-11-07",
+    "economic_factors_detail": {
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 954,
+    "analysis_date": "2025-11-08",
+    "economic_factors_detail": {
+      "通胀上升": true
+    }
+  },
+  {
+    "id": 955,
+    "analysis_date": "2025-11-09",
+    "economic_factors_detail": {
+      "地缘冲突加剧": true,
+      "新冠疫情影响": false
+    }
+  },
+  {
+    "id": 956,
+    "analysis_date": "2025-11-10",
+    "economic_factors_detail": {
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 957,
+    "analysis_date": "2025-11-11",
+    "economic_factors_detail": {
+      "美元走弱": true
+    }
+  },
+  {
+    "id": 958,
+    "analysis_date": "2025-11-12",
+    "economic_factors_detail": {
+      "通胀上升": false,
+      "美联储降息": false,
+      "新冠疫情影响": true
+    }
+  },
+  {
+    "id": 959,
+    "analysis_date": "2025-11-13",
+    "economic_factors_detail": {
+      "通胀上升": true,
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 960,
+    "analysis_date": "2025-11-14",
+    "economic_factors_detail": {
+      "地缘冲突加剧": true,
+      "美联储降息": true
+    }
+  },
+  {
+    "id": 961,
+    "analysis_date": "2025-11-15",
+    "economic_factors_detail": {
+      "美联储降息": true
+    }
+  },
+  {
+    "id": 962,
+    "analysis_date": "2025-11-16",
+    "economic_factors_detail": {
+      "地缘冲突加剧": false
+    }
+  },
+  {
+    "id": 963,
+    "analysis_date": "2025-11-17",
+    "economic_factors_detail": {
+      "美元走弱": true
+    }
+  },
+  {
+    "id": 964,
+    "analysis_date": "2025-11-18",
+    "economic_factors_detail": {
+      "新冠疫情影响": false
+    }
+  },
+  {
+    "id": 965,
+    "analysis_date": "2025-11-19",
+    "economic_factors_detail": {
+      "美元走弱": true
+    }
+  },
+  {
+    "id": 966,
+    "analysis_date": "2025-11-20",
+    "economic_factors_detail": {
+      "美元走弱": true
+    }
+  },
+  {
+    "id": 967,
+    "analysis_date": "2025-11-21",
+    "economic_factors_detail": {
+      "通胀上升": true
+    }
+  },
+  {
+    "id": 968,
+    "analysis_date": "2025-11-22",
+    "economic_factors_detail": {
+      "新冠疫情影响": true,
+      "地缘冲突加剧": false,
+      "美元走弱": true
+    }
+  },
+  {
+    "id": 969,
+    "analysis_date": "2025-11-23",
+    "economic_factors_detail": {
+      "美联储降息": true
+    }
+  },
+  {
+    "id": 970,
+    "analysis_date": "2025-11-24",
+    "economic_factors_detail": {
+      "美联储降息": false,
+      "新冠疫情影响": false
+    }
+  },
+  {
+    "id": 971,
+    "analysis_date": "2025-11-25",
+    "economic_factors_detail": {
+      "美联储降息": true
+    }
+  },
+  {
+    "id": 972,
+    "analysis_date": "2025-11-26",
+    "economic_factors_detail": {
+      "美元走弱": true,
+      "美联储降息": true
+    }
+  },
+  {
+    "id": 973,
+    "analysis_date": "2025-11-27",
+    "economic_factors_detail": {
+      "地缘冲突加剧": false,
+      "新冠疫情影响": true
+    }
+  },
+  {
+    "id": 974,
+    "analysis_date": "2025-11-28",
+    "economic_factors_detail": {
+      "美元走弱": false,
+      "通胀上升": true
+    }
+  },
+  {
+    "id": 975,
+    "analysis_date": "2025-11-29",
+    "economic_factors_detail": {
+      "地缘冲突加剧": true,
+      "通胀上升": false,
+      "美元走弱": true
+    }
+  },
+  {
+    "id": 976,
+    "analysis_date": "2025-11-30",
+    "economic_factors_detail": {
+      "通胀上升": true
+    }
+  },
+  {
+    "id": 977,
+    "analysis_date": "2025-12-01",
+    "economic_factors_detail": {
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 978,
+    "analysis_date": "2025-12-02",
+    "economic_factors_detail": {
+      "地缘冲突加剧": true,
+      "新冠疫情影响": true
+    }
+  },
+  {
+    "id": 979,
+    "analysis_date": "2025-12-03",
+    "economic_factors_detail": {
+      "美元走弱": true,
+      "美联储降息": true
+    }
+  },
+  {
+    "id": 980,
+    "analysis_date": "2025-12-04",
+    "economic_factors_detail": {
+      "美联储降息": true
+    }
+  },
+  {
+    "id": 981,
+    "analysis_date": "2025-12-05",
+    "economic_factors_detail": {
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 982,
+    "analysis_date": "2025-12-06",
+    "economic_factors_detail": {
+      "新冠疫情影响": true,
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 983,
+    "analysis_date": "2025-12-07",
+    "economic_factors_detail": {
+      "新冠疫情影响": false,
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 984,
+    "analysis_date": "2025-12-08",
+    "economic_factors_detail": {
+      "新冠疫情影响": true
+    }
+  },
+  {
+    "id": 985,
+    "analysis_date": "2025-12-09",
+    "economic_factors_detail": {
+      "通胀上升": false,
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 986,
+    "analysis_date": "2025-12-10",
+    "economic_factors_detail": {
+      "新冠疫情影响": true,
+      "通胀上升": true
+    }
+  },
+  {
+    "id": 987,
+    "analysis_date": "2025-12-11",
+    "economic_factors_detail": {
+      "通胀上升": false,
+      "美元走弱": false
+    }
+  },
+  {
+    "id": 988,
+    "analysis_date": "2025-12-12",
+    "economic_factors_detail": {
+      "通胀上升": false,
+      "美联储降息": false,
+      "美元走弱": true
+    }
+  },
+  {
+    "id": 989,
+    "analysis_date": "2025-12-13",
+    "economic_factors_detail": {
+      "新冠疫情影响": false,
+      "美元走弱": false,
+      "地缘冲突加剧": true
+    }
+  },
+  {
+    "id": 990,
+    "analysis_date": "2025-12-14",
+    "economic_factors_detail": {
+      "地缘冲突加剧": false,
+      "新冠疫情影响": true
+    }
+  },
+  {
+    "id": 991,
+    "analysis_date": "2025-12-15",
+    "economic_factors_detail": {
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 992,
+    "analysis_date": "2025-12-16",
+    "economic_factors_detail": {
+      "通胀上升": false
+    }
+  },
+  {
+    "id": 993,
+    "analysis_date": "2025-12-17",
+    "economic_factors_detail": {
+      "美联储降息": false,
+      "新冠疫情影响": false,
+      "地缘冲突加剧": false
+    }
+  },
+  {
+    "id": 994,
+    "analysis_date": "2025-12-18",
+    "economic_factors_detail": {
+      "美元走弱": true,
+      "美联储降息": true
+    }
+  },
+  {
+    "id": 995,
+    "analysis_date": "2025-12-19",
+    "economic_factors_detail": {
+      "地缘冲突加剧": false
+    }
+  },
+  {
+    "id": 996,
+    "analysis_date": "2025-12-20",
+    "economic_factors_detail": {
+      "美联储降息": true,
+      "新冠疫情影响": false
+    }
+  },
+  {
+    "id": 997,
+    "analysis_date": "2025-12-21",
+    "economic_factors_detail": {
+      "美联储降息": true
+    }
+  },
+  {
+    "id": 998,
+    "analysis_date": "2025-12-22",
+    "economic_factors_detail": {
+      "通胀上升": true
+    }
+  },
+  {
+    "id": 999,
+    "analysis_date": "2025-12-23",
+    "economic_factors_detail": {
+      "地缘冲突加剧": false,
+      "美联储降息": false
+    }
+  },
+  {
+    "id": 1000,
+    "analysis_date": "2025-12-24",
+    "economic_factors_detail": {
+      "美元走弱": false,
+      "通胀上升": false
+    }
+  }
+]

@@ -1,0 +1,20 @@
+{
+    "goal": "分析网民平均每周上网时间减少的原因及其对用户行为的影响。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 网民平均每周上网时间为12.3小时，较之前有所减少，反映出用户上网习惯的变化。",
+        "Comparison: 男性网民的比例略有下降，而女性网民的比例有所上升，显示出性别结构的变化。",
+        "Extreme: 网民中，29.3%非常赞成互联网提高工作和学习效率的观点，显示出对互联网的积极态度。",
+        "Attribution: 不懂电脑/网络是非网民不上网的主要原因，反映出教育和技术普及的不足。"
+    ],
+    "summary": "本报告深入分析了中国互联网用户的行为特征，包括上网习惯、使用目的及其对互联网的信任程度，揭示了用户在互联网环境中的变化。",
+    "flag_id": "flag-170",
+    "classifier": "Internet Dev.",
+    "classifier_cn": "互联网发展",
+    "input_files": [
+        "output/business_background.txt",
+        "output/dimension_data.db",
+        "output/internet_user_behavior.csv",
+        "output/user_profiles.json"
+    ]
+}

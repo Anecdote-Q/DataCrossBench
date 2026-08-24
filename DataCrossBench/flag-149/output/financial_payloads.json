@@ -1,0 +1,232 @@
+{
+  "1": {
+    "id": 1,
+    "year": 2014,
+    "metrics": {
+      "net_profit": 1.57,
+      "total_revenue": 20.94,
+      "total_assets": null,
+      "had_loss": false
+    },
+    "performance": {
+      "trend": "增长",
+      "attribution": "金融科技推动",
+      "notes": "Environment shoulder entire."
+    },
+    "report": {
+      "date": "2014-04-02",
+      "had_loss": false
+    },
+    "tags": {
+      "business_unit": "财富管理",
+      "high_profit": false
+    }
+  },
+  "2": {
+    "id": 2,
+    "year": 2015,
+    "metrics": {
+      "net_profit": 1.8,
+      "total_revenue": 12.76,
+      "total_assets": 19.93,
+      "had_loss": false
+    },
+    "performance": {
+      "trend": "增长",
+      "attribution": "政策支持",
+      "notes": "Here none future appear career night reduce clearly."
+    },
+    "report": {
+      "date": "2015-04-10",
+      "had_loss": false
+    },
+    "tags": {
+      "business_unit": "零售银行",
+      "high_profit": true
+    }
+  },
+  "3": {
+    "id": 3,
+    "year": 2016,
+    "metrics": {
+      "net_profit": 15.0,
+      "total_revenue": 18.78,
+      "total_assets": 24.39,
+      "had_loss": false
+    },
+    "performance": {
+      "trend": "增长",
+      "attribution": "市场环境改善",
+      "notes": "Similar these help according rule bill analysis project call trade factor issue local light already figure."
+    },
+    "report": {
+      "date": "2016-04-05",
+      "had_loss": false
+    },
+    "tags": {
+      "business_unit": "公司银行",
+      "high_profit": true
+    }
+  },
+  "4": {
+    "id": 4,
+    "year": 2017,
+    "metrics": {
+      "net_profit": 6.27,
+      "total_revenue": null,
+      "total_assets": null,
+      "had_loss": false
+    },
+    "performance": {
+      "trend": "增长",
+      "attribution": "市场环境改善",
+      "notes": "Soon deal participant money speak firm huge shoulder mention range point project three main protect hear all."
+    },
+    "report": {
+      "date": "2017-04-02",
+      "had_loss": false
+    },
+    "tags": {
+      "business_unit": "投资银行",
+      "high_profit": false
+    }
+  },
+  "5": {
+    "id": 5,
+    "year": 2018,
+    "metrics": {
+      "net_profit": null,
+      "total_revenue": 8.23,
+      "total_assets": 10.37,
+      "had_loss": false
+    },
+    "performance": {
+      "trend": "持平",
+      "attribution": "市场环境改善",
+      "notes": "Rise bar main energy."
+    },
+    "report": {
+      "date": "2018-04-04",
+      "had_loss": false
+    },
+    "tags": {
+      "business_unit": "风险管理",
+      "high_profit": false
+    }
+  },
+  "6": {
+    "id": 6,
+    "year": 2019,
+    "metrics": {
+      "net_profit": 2.08,
+      "total_revenue": 48.49,
+      "total_assets": 71.55,
+      "had_loss": false
+    },
+    "performance": {
+      "trend": "增长",
+      "attribution": "管理效率提升",
+      "notes": "Front hospital available lead of from country."
+    },
+    "report": {
+      "date": "2019-04-06",
+      "had_loss": false
+    },
+    "tags": {
+      "business_unit": "资产管理",
+      "high_profit": false
+    }
+  },
+  "7": {
+    "id": 7,
+    "year": 2020,
+    "metrics": {
+      "net_profit": -1.9,
+      "total_revenue": 7.24,
+      "total_assets": 10.09,
+      "had_loss": true
+    },
+    "performance": {
+      "trend": "下降",
+      "attribution": "金融科技推动",
+      "notes": "Story guy to young."
+    },
+    "report": {
+      "date": "2020-04-07",
+      "had_loss": true
+    },
+    "tags": {
+      "business_unit": "金融科技",
+      "high_profit": false
+    }
+  },
+  "8": {
+    "id": 8,
+    "year": 2021,
+    "metrics": {
+      "net_profit": 2.01,
+      "total_revenue": 16.97,
+      "total_assets": 37.17,
+      "had_loss": false
+    },
+    "performance": {
+      "trend": "增长",
+      "attribution": "金融科技推动",
+      "notes": "Mother rich training police yeah who."
+    },
+    "report": {
+      "date": "2021-04-09",
+      "had_loss": false
+    },
+    "tags": {
+      "business_unit": "电子商务",
+      "high_profit": true
+    }
+  },
+  "9": {
+    "id": 9,
+    "year": 2022,
+    "metrics": {
+      "net_profit": -3.26,
+      "total_revenue": 10.76,
+      "total_assets": 21.27,
+      "had_loss": true
+    },
+    "performance": {
+      "trend": "下降",
+      "attribution": "管理效率提升",
+      "notes": "Result name wonder child movie her leave act."
+    },
+    "report": {
+      "date": "2022-04-08",
+      "had_loss": true
+    },
+    "tags": {
+      "business_unit": "保险",
+      "high_profit": false
+    }
+  },
+  "10": {
+    "id": 10,
+    "year": 2023,
+    "metrics": {
+      "net_profit": 1.86,
+      "total_revenue": 24.96,
+      "total_assets": 185.21,
+      "had_loss": false
+    },
+    "performance": {
+      "trend": "增长",
+      "attribution": "市场环境改善",
+      "notes": "Cover eight goal evening its inside board artist great become item across movie available reason identify."
+    },
+    "report": {
+      "date": "2023-04-06",
+      "had_loss": false
+    },
+    "tags": {
+      "business_unit": "信托",
+      "high_profit": false
+    }
+  }
+}

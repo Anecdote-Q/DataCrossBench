@@ -1,0 +1,20 @@
+{
+    "goal": "分析华商计算机行业量化产品在2022至2024年熊市期间的风险控制能力及其对收益的影响。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 华商计算机行业量化的权益资产配置比例维持在90~95%之间，显示出其在市场中的稳定性。",
+        "Comparison: 华商计算机行业量化的机构投资者比例从2019年Q4的3%上升至2024Q2的26%，显示出市场认可度的提升。",
+        "Extreme: 在2019至2021年的牛市期间，华商计算机行业量化产品表现出色，前十大个股的比例维持在30%~50%之间。",
+        "Attribution: 华商计算机行业量化的高仓位运作不做大幅择时，行业聚焦但持有个股分散，帮助其在市场波动中保持收益弹性。"
+    ],
+    "summary": "华商计算机行业量化产品在市场波动中展现出良好的收益弹性和风险分散策略，管理人员持有情况的增加反映出对基金前景的信心。",
+    "flag_id": "flag-94",
+    "classifier": "Fund Analysis",
+    "classifier_cn": "基金分析",
+    "input_files": [
+        "output/business_background.txt",
+        "output/dimension_data.db",
+        "output/fund_quant_fact_table.png",
+        "output/manager_profiles.json"
+    ]
+}

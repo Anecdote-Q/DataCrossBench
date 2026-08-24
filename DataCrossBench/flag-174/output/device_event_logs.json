@@ -1,0 +1,3752 @@
+[
+  {
+    "user_id": 1,
+    "event_type": "login",
+    "event_timestamp": "2007-07-22 00:00:00",
+    "session_length_sec": 621,
+    "event_properties": {
+      "page_id": "bdd640fb-0667-4ad1-9c80-317fa3b1799d",
+      "location": "Johnberg",
+      "device_info": {
+        "os": "Windows",
+        "browser": "Safari",
+        "ip_address": "178.200.51.240"
+      }
+    }
+  },
+  {
+    "user_id": 1,
+    "event_type": "login",
+    "event_timestamp": "2007-02-02 00:00:00",
+    "session_length_sec": 227,
+    "event_properties": {
+      "page_id": "07a0ca6e-0822-48f3-ac03-1199972a8469",
+      "location": "East Jessetown",
+      "device_info": {
+        "os": "Windows",
+        "browser": "Safari",
+        "ip_address": "3.173.150.154"
+      }
+    }
+  },
+  {
+    "user_id": 1,
+    "event_type": "logout",
+    "event_timestamp": "2006-04-20 00:00:00",
+    "session_length_sec": 155,
+    "event_properties": {
+      "page_id": "47378190-96da-4dac-b2ff-5d2a386ecbe0",
+      "location": "Port Lindachester",
+      "device_info": {
+        "os": "iOS",
+        "browser": "Safari",
+        "ip_address": "41.243.96.76"
+      }
+    }
+  },
+  {
+    "user_id": 1,
+    "event_type": "purchase",
+    "event_timestamp": "2004-11-16 00:00:00",
+    "session_length_sec": 158,
+    "event_properties": {
+      "page_id": "562b0f79-c374-49ee-b50b-ea63371ecd7b",
+      "location": "North Noahstad",
+      "device_info": {
+        "os": "Windows",
+        "browser": "Firefox",
+        "ip_address": "168.135.111.71"
+      }
+    }
+  },
+  {
+    "user_id": 2,
+    "event_type": "logout",
+    "event_timestamp": "2005-07-19 00:00:00",
+    "session_length_sec": 20,
+    "event_properties": {
+      "page_id": "759cde66-bacf-43d0-8b1f-9163ce9ff57f",
+      "location": "South Christianport",
+      "device_info": {
+        "os": "Android",
+        "browser": "Edge",
+        "ip_address": "174.228.160.231"
+      }
+    }
+  },
+  {
+    "user_id": 2,
+    "event_type": "login",
+    "event_timestamp": "2006-07-21 00:00:00",
+    "session_length_sec": 407,
+    "event_properties": {
+      "page_id": "11ce5dd2-b45e-41f0-b139-d32c93cd59bf",
+      "location": "Lake Jeremyport",
+      "device_info": {
+        "os": "iOS",
+        "browser": "Edge",
+        "ip_address": "196.238.96.187"
+      }
+    }
+  },
+  {
+    "user_id": 2,
+    "event_type": "login",
+    "event_timestamp": "2004-10-24 00:00:00",
+    "session_length_sec": 1200,
+    "event_properties": {
+      "page_id": "47294739-614f-43d7-99db-3ad0ddd1dfb2",
+      "location": "Reidstad",
+      "device_info": {
+        "os": "Android",
+        "browser": "Firefox",
+        "ip_address": "109.175.48.85"
+      }
+    }
+  },
+  {
+    "user_id": 3,
+    "event_type": "click",
+    "event_timestamp": "2006-01-08 00:00:00",
+    "session_length_sec": 1761,
+    "event_properties": {
+      "page_id": "b3aa7efe-4458-4885-ab90-99a435a240ae",
+      "location": "New Cynthiaside",
+      "device_info": {
+        "os": "iOS",
+        "browser": "Firefox",
+        "ip_address": "181.58.151.221"
+      }
+    }
+  },
+  {
+    "user_id": 4,
+    "event_type": "page_view",
+    "event_timestamp": "2005-05-19 00:00:00",
+    "session_length_sec": 21,
+    "event_properties": {
+      "page_id": "fd5166e6-451b-4cf3-a123-fdf77656af72",
+      "location": "Lake Mark",
+      "device_info": {
+        "os": "Android",
+        "browser": "Safari",
+        "ip_address": "177.202.62.97"
+      }
+    }
+  },
+  {
+    "user_id": 5,
+    "event_type": "click",
+    "event_timestamp": "2006-01-25 00:00:00",
+    "session_length_sec": 187,
+    "event_properties": {
+      "page_id": "ce177b4e-0837-48a3-9261-a7ab3aa2e4f9",
+      "location": "Richardland",
+      "device_info": {
+        "os": "iOS",
+        "browser": "Firefox",
+        "ip_address": "101.161.29.117"
+      }
+    }
+  },
+  {
+    "user_id": 5,
+    "event_type": "page_view",
+    "event_timestamp": "2006-03-11 00:00:00",
+    "session_length_sec": 143,
+    "event_properties": {
+      "page_id": "654821d0-7fcd-4eb1-a7ca-d415366eb16f",
+      "location": "Thomasberg",
+      "device_info": {
+        "os": "Android",
+        "browser": "Chrome",
+        "ip_address": "116.52.48.139"
+      }
+    }
+  },
+  {
+    "user_id": 5,
+    "event_type": "click",
+    "event_timestamp": "2006-12-22 00:00:00",
+    "session_length_sec": 299,
+    "event_properties": {
+      "page_id": "e5d7b875-6dad-46c7-95a7-6d79bf3c4c06",
+      "location": "Coxberg",
+      "device_info": {
+        "os": "Android",
+        "browser": "IE",
+        "ip_address": "9.116.93.109"
+      }
+    }
+  },
+  {
+    "user_id": 6,
+    "event_type": "login",
+    "event_timestamp": "2006-06-19 00:00:00",
+    "session_length_sec": 260,
+    "event_properties": {
+      "page_id": "1c11f735-dc71-4d96-8c0f-d195c17af08a",
+      "location": "Lake Ernest",
+      "device_info": {
+        "os": "Windows",
+        "browser": "Firefox",
+        "ip_address": "132.16.214.132"
+      }
+    }
+  },
+  {
+    "user_id": 6,
+    "event_type": "purchase",
+    "event_timestamp": "2005-05-10 00:00:00",
+    "session_length_sec": 220,
+    "event_properties": {
+      "page_id": "ff01cf99-988c-44c9-a1b1-cd2262801c45",
+      "location": "Riceside",
+      "device_info": {
+        "os": "Android",
+        "browser": "Firefox",
+        "ip_address": "208.94.13.114"
+      }
+    }
+  },
+  {
+    "user_id": 6,
+    "event_type": "page_view",
+    "event_timestamp": "2005-10-28 00:00:00",
+    "session_length_sec": 290,
+    "event_properties": {
+      "page_id": "ae849217-1d53-434b-b881-39b9ae270da7",
+      "location": "Kaylamouth",
+      "device_info": {
+        "os": "Windows",
+        "browser": "Safari",
+        "ip_address": "91.211.49.166"
+      }
+    }
+  },
+  {
+    "user_id": 6,
+    "event_type": "click",
+    "event_timestamp": "2006-02-03 00:00:00",
+    "session_length_sec": 65,
+    "event_properties": {
+      "page_id": "f42d47cc-00d4-4f59-b427-3ca3287d06ca",
+      "location": "Teresaburgh",
+      "device_info": {
+        "os": "Android",
+        "browser": "IE",
+        "ip_address": "9.179.219.213"
+      }
+    }
+  },
+  {
+    "user_id": 7,
+    "event_type": "page_view",
+    "event_timestamp": "2005-08-05 00:00:00",
+    "session_length_sec": 170,
+    "event_properties": {
+      "page_id": "d777a477-4c66-40a8-a013-ac6ededa4e16",
+      "location": "East Nathaniel",
+      "device_info": {
+        "os": "Android",
+        "browser": "Edge",
+        "ip_address": "104.2.87.173"
+      }
+    }
+  },
+  {
+    "user_id": 7,
+    "event_type": "purchase",
+    "event_timestamp": "2005-11-02 00:00:00",
+    "session_length_sec": 234,
+    "event_properties": {
+      "page_id": "04fc6d82-7d15-4385-92fb-e43b99546eb4",
+      "location": "West Natashaport",
+      "device_info": {
+        "os": "Android",
+        "browser": "Firefox",
+        "ip_address": "115.218.156.42"
+      }
+    }
+  },
+  {
+    "user_id": 8,
+    "event_type": "page_view",
+    "event_timestamp": "2005-03-24 00:00:00",
+    "session_length_sec": 61,
+    "event_properties": {
+      "page_id": "14296c07-f26b-4776-913e-4de2e0c53cb8",
+      "location": "Lake Toddland",
+      "device_info": {
+        "os": "Windows",
+        "browser": "Safari",
+        "ip_address": "192.208.24.235"
+      }
+    }
+  },
+  {
+    "user_id": 8,
+    "event_type": "click",
+    "event_timestamp": "2005-07-21 00:00:00",
+    "session_length_sec": 386,
+    "event_properties": {
+      "page_id": "f264accc-79ac-4b1e-a8e5-6e0c20de435d",
+      "location": "West Allison",
+      "device_info": {
+        "os": "iOS",
+        "browser": "Chrome",
+        "ip_address": "141.142.26.8"
+      }
+    }
+  },
+  {
+    "user_id": 8,
+    "event_type": "logout",
+    "event_timestamp": "2005-11-26 00:00:00",
+    "session_length_sec": 144,
+    "event_properties": {
+      "page_id": "badcc32a-c159-4f53-8a0f-4efbedcd465e",
+      "location": "Lake Larry",
+      "device_info": {
+        "os": "Android",
+        "browser": "Firefox",
+        "ip_address": "199.191.48.248"
+      }
+    }
+  },
+  {
+    "user_id": 8,
+    "event_type": "login",
+    "event_timestamp": "2006-07-06 00:00:00",
+    "session_length_sec": 95,
+    "event_properties": {
+      "page_id": "7394988f-847f-49b4-a64d-1bcb702753a1",
+      "location": "East Jeffreymouth",
+      "device_info": {
+        "os": "Android",
+        "browser": "Chrome",
+        "ip_address": "78.186.51.36"
+      }
+    }
+  },
+  {
+    "user_id": 9,
+    "event_type": "page_view",
+    "event_timestamp": "2005-01-11 00:00:00",
+    "session_length_sec": 303,
+    "event_properties": {
+      "page_id": "122c9a56-01d7-4256-b860-2ab696a402f2",
+      "location": "East Carloston",
+      "device_info": {
+        "os": "Windows",
+        "browser": "IE",
+        "ip_address": "210.68.118.162"
+      }
+    }
+  },
+  {
+    "user_id": 9,
+    "event_type": "purchase",
+    "event_timestamp": "2004-12-03 00:00:00",
+    "session_length_sec": 355,
+    "event_properties": {
+      "page_id": "ab4220a7-474a-493b-bced-df2d839fbc50",
+      "location": "Lewisberg",
+      "device_info": {
+        "os": "Windows",
+        "browser": "Safari",
+        "ip_address": "191.32.30.255"
+      }
+    }
+  },
+  {
+    "user_id": 9,
+    "event_type": "logout",
+    "event_timestamp": "2006-11-15 00:00:00",
+    "session_length_sec": 325,
+    "event_properties": {
+      "page_id": "ceb81f9d-7914-4120-88dc-d19f3e351128",
+      "location": "Leeville",
+      "device_info": {
+        "os": "iOS",
+        "browser": "Edge",
+        "ip_address": "150.172.207.183"
+      }
+    }
+  },
+  {
+    "user_id": 10,
+    "event_type": "click",
+    "event_timestamp": "2006-12-04 00:00:00",
+    "session_length_sec": 445,
+    "event_properties": {
+      "page_id": "dd2467ac-778e-4db3-a93d-ffbc6c6fa611",
+      "location": "Lake Deniseville",
+      "device_info": {
+        "os": "Windows",
+        "browser": "Edge",
+        "ip_address": "85.183.34.65"
+      }
+    }
+  },
+  {
+    "user_id": 10,
+    "event_type": "login",
+    "event_timestamp": "2005-07-27 00:00:00",
+    "session_length_sec": 187,
+    "event_properties": {
+      "page_id": "3fa7f104-1bf9-4e27-9c96-925eccf3a171",
+      "location": "East Amanda",
+      "device_info": {
+        "os": "Android",
+        "browser": "IE",
+        "ip_address": "75.190.68.157"
+      }
+    }
+  },
+  {
+    "user_id": 10,
+    "event_type": "page_view",
+    "event_timestamp": "2005-08-09 00:00:00",
+    "session_length_sec": 521,
+    "event_properties": {
+      "page_id": "dfde4fbf-3ff3-40bf-b66e-cb15474ebc19",
+      "location": "South Lindseyside",
+      "device_info": {
+        "os": "Android",
+        "browser": "Firefox",
+        "ip_address": "64.241.202.234"
+      }
+    }
+  },
+  {
+    "user_id": 10,
+    "event_type": "login",
+    "event_timestamp": "2006-12-19 00:00:00",
+    "session_length_sec": 684,
+    "event_properties": {
+      "page_id": "c0e9ab30-ed26-42e9-97e0-11b7f8102383",
+      "location": "East Richard",
+      "device_info": {
+        "os": "iOS",
+        "browser": "IE",
+        "ip_address": "28.213.82.112"
+      }
+    }
+  },
+  {
+    "user_id": 11,
+    "event_type": "purchase",
+    "event_timestamp": "2004-10-12 00:00:00",
+    "session_length_sec": 523,
+    "event_properties": {
+      "page_id": "610461e3-2a25-4888-8f02-bad0e7067ef4",
+      "location": "South Josephmouth",
+      "device_info": {
+        "os": "Android",
+        "browser": "Safari",
+        "ip_address": "63.37.159.222"
+      }
+    }
+  },
+  {
+    "user_id": 11,
+    "event_type": "page_view",
+    "event_timestamp": "2006-12-10 00:00:00",
+    "session_length_sec": 2041,
+    "event_properties": {
+      "page_id": "37bb3eec-4bf5-4b52-b09d-258c27a0c3d7",
+      "location": "New Jillton",
+      "device_info": {
+        "os": "iOS",
+        "browser": "IE",
+        "ip_address": "177.212.76.69"
+      }
+    }
+  },
+  {
+    "user_id": 11,
+    "event_type": "page_view",
+    "event_timestamp": "2006-09-07 00:00:00",
+    "session_length_sec": 492,
+    "event_properties": {
+      "page_id": "80bacd64-7a0e-4fea-958c-a9ba0cd620c2",
+      "location": "North Susan",
+      "device_info": {
+        "os": "Android",
+        "browser": "Safari",
+        "ip_address": "75.228.142.101"
+      }
+    }
+  },
+  {
+    "user_id": 12,
+    "event_type": "page_view",
+    "event_timestamp": "2006-11-06 00:00:00",
+    "session_length_sec": 254,
+    "event_properties": {
+      "page_id": "acdabacc-1165-4210-9854-3881118a9d29",
+      "location": "South David",
+      "device_info": {
+        "os": "Windows",
+        "browser": "IE",
+        "ip_address": "215.224.255.2"
+      }
+    }
+  },
+  {
+    "user_id": 13,
+    "event_type": "click",
+    "event_timestamp": "2006-09-11 00:00:00",
+    "session_length_sec": 666,
+    "event_properties": {
+      "page_id": "9e8fc965-0a2c-427e-9832-685694340a03",
+      "location": "South Dianeshire",
+      "device_info": {
+        "os": "Windows",
+        "browser": "Safari",
+        "ip_address": "12.44.24.166"
+      }
+    }
+  },
+  {
+    "user_id": 14,
+    "event_type": "purchase",
+    "event_timestamp": "2005-11-20 00:00:00",
+    "session_length_sec": 79,
+    "event_properties": {
+      "page_id": "506e5a9a-b758-488d-ab73-295b344a54b8",
+      "location": "West Randy",
+      "device_info": {
+        "os": "Android",
+        "browser": "Firefox",
+        "ip_address": "147.51.38.240"
+      }
+    }
+  },
+  {
+    "user_id": 14,
+    "event_type": "click",
+    "event_timestamp": "2007-03-19 00:00:00",
+    "session_length_sec": 11,
+    "event_properties": {
+      "page_id": "c07a30f2-edd4-453b-90f0-fd0a750cab75",
+      "location": "North Stephenshire",
+      "device_info": {
+        "os": "iOS",
+        "browser": "Safari",
+        "ip_address": "198.146.193.54"
+      }
+    }
+  },
+  {
+    "user_id": 15,
+    "event_type": "purchase",
+    "event_timestamp": "2005-11-27 00:00:00",
+    "session_length_sec": 599,
+    "event_properties": {
+      "page_id": "43e42caf-8181-48cc-b691-47eb89a2688b",
+      "location": "West Nicole",
+      "device_info": {
+        "os": "Android",
+        "browser": "Safari",
+        "ip_address": "219.211.42.122"
+      }
+    }
+  },
+  {
+    "user_id": 15,
+    "event_type": "click",
+    "event_timestamp": "2005-12-19 00:00:00",
+    "session_length_sec": 1402,
+    "event_properties": {
+      "page_id": "d5704f32-702c-4d20-a862-18b848f4ef12",
+      "location": "Cherylhaven",
+      "device_info": {
+        "os": "iOS",
+        "browser": "Safari",
+        "ip_address": "83.41.5.122"
+      }
+    }
+  },
+  {
+    "user_id": 16,
+    "event_type": "purchase",
+    "event_timestamp": "2004-09-12 00:00:00",
+    "session_length_sec": 147,
+    "event_properties": {
+      "page_id": "f05db76e-1a84-451a-a9d3-d7c7ee87905e",
+      "location": "West Darrell",
+      "device_info": {
+        "os": "iOS",
+        "browser": "Safari",
+        "ip_address": "73.242.219.202"
+      }
+    }
+  },
+  {
+    "user_id": 16,
+    "event_type": "click",
+    "event_timestamp": "2007-03-21 00:00:00",
+    "session_length_sec": 225,
+    "event_properties": {
+      "page_id": "35ebd32d-9ad6-40ab-8821-2ddb45b89cd9",
+      "location": "Jamesview",
+      "device_info": {
+        "os": "iOS",
+        "browser": "IE",
+        "ip_address": "12.4.151.183"
+      }
+    }
+  },
+  {
+    "user_id": 16,
+    "event_type": "logout",
+    "event_timestamp": "2006-08-19 00:00:00",
+    "session_length_sec": 314,
+    "event_properties": {
+      "page_id": "0d01280f-d89a-40c0-a87d-1c78e7c421c7",
+      "location": "Lake Rodneyview",
+      "device_info": {
+        "os": "Windows",
+        "browser": "Firefox",
+        "ip_address": "85.88.253.133"
+      }
+    }
+  },
+  {
+    "user_id": 17,
+    "event_type": "page_view",
+    "event_timestamp": "2007-05-04 00:00:00",
+    "session_length_sec": 893,
+    "event_properties": {
+      "page_id": "fad409e2-a319-4cb4-a17d-65a0c56811cd",
+      "location": "Evanmouth",
+      "device_info": {
+        "os": "Windows",
+        "browser": "Firefox",
+        "ip_address": "7.107.231.30"
+      }
+    }
+  },
+  {
+    "user_id": 17,
+    "event_type": "logout",
+    "event_timestamp": "2007-09-22 00:00:00",
+    "session_length_sec": 34,
+    "event_properties": {
+      "page_id": "13432e61-1ca3-4448-8279-b6a68f9797b0",
+      "location": "New Barry",
+      "device_info": {
+        "os": "iOS",
+        "browser": "IE",
+        "ip_address": "41.122.94.93"
+      }
+    }
+  },
+  {
+    "user_id": 17,
+    "event_type": "purchase",
+    "event_timestamp": "2007-01-26 00:00:00",
+    "session_length_sec": 16,
+    "event_properties": {
+      "page_id": "4eea04e7-0ab5-4bde-a0a0-45026e068097",
+      "location": "Rachelton",
+      "device_info": {
+        "os": "iOS",
+        "browser": "Chrome",
+        "ip_address": "214.184.242.109"
+      }
+    }
+  },
+  {
+    "user_id": 17,
+    "event_type": "logout",
+    "event_timestamp": "2007-03-28 00:00:00",
+    "session_length_sec": 242,
+    "event_properties": {
+      "page_id": "1a50aec3-aabc-45fa-bfe1-2e47ae9bec36",
+      "location": "Kimberlychester",
+      "device_info": {
+        "os": "Windows",
+        "browser": "Edge",
+        "ip_address": "193.79.33.157"
+      }
+    }
+  },
+  {
+    "user_id": 18,
+    "event_type": "click",
+    "event_timestamp": "2006-03-08 00:00:00",
+    "session_length_sec": 12,
+    "event_properties": {
+      "page_id": "dd56cc94-3c9a-414c-ae0c-aeb5ecfedb99",
+      "location": "Port Lisa",
+      "device_info": {
+        "os": "Android",
+        "browser": "Chrome",
+        "ip_address": "208.203.12.199"
+      }
+    }
+  },
+  {
+    "user_id": 19,
+    "event_type": "logout",
+    "event_timestamp": "2005-09-03 00:00:00",
+    "session_length_sec": 5,
+    "event_properties": {
+      "page_id": "550a1b46-ecab-4301-bc8f-7d292dea9493",
+      "location": "Phambury",
+      "device_info": {
+        "os": "Windows",
+        "browser": "Safari",
+        "ip_address": "120.221.97.61"
+      }
+    }
+  },
+  {
+    "user_id": 20,
+    "event_type": "click",
+    "event_timestamp": "2005-01-23 00:00:00",
+    "session_length_sec": 182,
+    "event_properties": {
+      "page_id": "dbccc477-09e9-4b0a-9f46-529061ee411a",
+      "location": "Walkermouth",
+      "device_info": {
+        "os": "Android",
+        "browser": "Safari",
+        "ip_address": "46.144.236.174"
+      }
+    }
+  },
+  {
+    "user_id": 20,
+    "event_type": "logout",
+    "event_timestamp": "2007-09-23 00:00:00",
+    "session_length_sec": 154,
+    "event_properties": {
+      "page_id": "3170f437-a8f7-4f5a-860e-df5b39118497",
+      "location": "Murphyland",
+      "device_info": {
+        "os": "Windows",
+        "browser": "Firefox",
+        "ip_address": "195.29.210.241"
+      }
+    }
+  },
+  {
+    "user_id": 20,
+    "event_type": "login",
+    "event_timestamp": "2006-09-13 00:00:00",
+    "session_length_sec": 97,
+    "event_properties": {
+      "page_id": "6651529e-8268-490b-a438-25b559e4b671",
+      "location": "Sheilaville",
+      "device_info": {
+        "os": "Android",
+        "browser": "Firefox",
+        "ip_address": "216.91.223.249"
+      }
+    }
+  },
+  {
+    "user_id": 21,
+    "event_type": "page_view",
+    "event_timestamp": "2006-11-23 00:00:00",
+    "session_length_sec": 16,
+    "event_properties": {
+      "page_id": "fbc9f87a-f668-4617-94a1-875d2db69edb",
+      "location": "Benjaminchester",
+      "device_info": {
+        "os": "Windows",
+        "browser": "Firefox",
+        "ip_address": "52.19.74.7"
+      }
+    }
+  },
+  {
+    "user_id": 21,
+    "event_type": "login",
+    "event_timestamp": "2007-01-12 00:00:00",
+    "session_length_sec": 280,
+    "event_properties": {
+      "page_id": "82ec9f2d-fbf6-416f-9b30-80d56fb78271",
+      "location": "South Rachelborough",
+      "device_info": {
+        "os": "iOS",
+        "browser": "Safari",
+        "ip_address": "123.125.11.185"
+      }
+    }
+  },
+  {
+    "user_id": 21,
+    "event_type": "purchase",
+    "event_timestamp": "2005-12-01 00:00:00",
+    "session_length_sec": 1121,
+    "event_properties": {
+      "page_id": "ce777f00-ecf2-4e76-8519-7ff4006ed6e3",
+      "location": "West Ryan",
+      "device_info": {
+        "os": "iOS",
+        "browser": "IE",
+        "ip_address": "201.82.31.245"
+      }
+    }
+  },
+  {
+    "user_id": 22,
+    "event_type": "login",
+    "event_timestamp": "2004-09-26 00:00:00",
+    "session_length_sec": 1767,
+    "event_properties": {
+      "page_id": "d9178793-a9d3-42e6-905c-c6869f871ce7",
+      "location": "Lake Rachelhaven",
+      "device_info": {
+        "os": "Windows",
+        "browser": "Firefox",
+        "ip_address": "58.35.28.5"
+      }
+    }
+  },
+  {
+    "user_id": 22,
+    "event_type": "login",
+    "event_timestamp": "2005-10-08 00:00:00",
+    "session_length_sec": 187,
+    "event_properties": {
+      "page_id": "4bb00f20-b27c-4026-a703-b6365380b904",
+      "location": "East Robert",
+      "device_info": {
+        "os": "iOS",
+        "browser": "IE",
+        "ip_address": "205.100.104.114"
+      }
+    }
+  },
+  {
+    "user_id": 22,
+    "event_type": "click",
+    "event_timestamp": "2005-07-01 00:00:00",
+    "session_length_sec": 128,
+    "event_properties": {
+      "page_id": "67f48ad5-4d0b-4d1a-91b0-e1d99d9262af",
+      "location": "West Justinchester",
+      "device_info": {
+        "os": "Windows",
+        "browser": "Edge",
+        "ip_address": "165.39.238.207"
+      }
+    }
+  },
+  {
+    "user_id": 23,
+    "event_type": "logout",
+    "event_timestamp": "2007-06-23 00:00:00",
+    "session_length_sec": 834,
+    "event_properties": {
+      "page_id": "acf5e81e-7131-4269-b118-e36477097749",
+      "location": "New Thomas",
+      "device_info": {
+        "os": "iOS",
+        "browser": "Safari",
+        "ip_address": "213.110.28.164"
+      }
+    }
+  },
+  {
+    "user_id": 24,
+    "event_type": "click",
+    "event_timestamp": "2007-06-30 00:00:00",
+    "session_length_sec": 55,
+    "event_properties": {
+      "page_id": "83f4a9a9-48a6-49d0-95b5-2908a8aa7158",
+      "location": "Clarencebury",
+      "device_info": {
+        "os": "iOS",
+        "browser": "Edge",
+        "ip_address": "142.96.131.63"
+      }
+    }
+  },
+  {
+    "user_id": 24,
+    "event_type": "logout",
+    "event_timestamp": "2004-08-19 00:00:00",
+    "session_length_sec": 23,
+    "event_properties": {
+      "page_id": "0640be0f-25b8-4d4b-b2fa-2de8ce7ae7f6",
+      "location": "East Traceyland",
+      "device_info": {
+        "os": "iOS",
+        "browser": "IE",
+        "ip_address": "22.56.208.61"
+      }
+    }
+  },
+  {
+    "user_id": 25,
+    "event_type": "click",
+    "event_timestamp": "2006-02-04 00:00:00",
+    "session_length_sec": 97,
+    "event_properties": {
+      "page_id": "7e8f8095-624c-49b6-b244-45a7b7e58481",
+      "location": "Sancheztown",
+      "device_info": {
+        "os": "iOS",
+        "browser": "IE",
+        "ip_address": "211.105.41.194"
+      }
+    }
+  },
+  {
+    "user_id": 25,
+    "event_type": "click",
+    "event_timestamp": "2006-11-09 00:00:00",
+    "session_length_sec": 525,
+    "event_properties": {
+      "page_id": "2d06e8cf-3805-4907-acd6-6193c7468f59",
+      "location": "Williamsbury",
+      "device_info": {
+        "os": "Windows",
+        "browser": "Edge",
+        "ip_address": "211.226.43.110"
+      }
+    }
+  },
+  {
+    "user_id": 25,
+    "event_type": "purchase",
+    "event_timestamp": "2006-03-29 00:00:00",
+    "session_length_sec": 19,
+    "event_properties": {
+      "page_id": "76f2dbfe-cd29-436f-a222-82e174daaebf",
+      "location": "Stephaniemouth",
+      "device_info": {
+        "os": "Windows",
+        "browser": "Firefox",
+        "ip_address": "155.79.184.119"
+      }
+    }
+  },
+  {
+    "user_id": 25,
+    "event_type": "click",
+    "event_timestamp": "2007-07-15 00:00:00",
+    "session_length_sec": 47,
+    "event_properties": {
+      "page_id": "722764e6-8c41-461b-a827-a1b9d4a02e53",
+      "location": "Lake Michelle",
+      "device_info": {
+        "os": "Android",
+        "browser": "Firefox",
+        "ip_address": "23.233.99.78"
+      }
+    }
+  },
+  {
+    "user_id": 26,
+    "event_type": "click",
+    "event_timestamp": "2004-07-11 00:00:00",
+    "session_length_sec": 288,
+    "event_properties": {
+      "page_id": "c40c5d91-46fd-4062-a33d-c7afd701410d",
+      "location": "Simsview",
+      "device_info": {
+        "os": "Android",
+        "browser": "IE",
+        "ip_address": "25.36.175.94"
+      }
+    }
+  },
+  {
+    "user_id": 26,
+    "event_type": "logout",
+    "event_timestamp": "2005-01-08 00:00:00",
+    "session_length_sec": 211,
+    "event_properties": {
+      "page_id": "51d87c64-55fa-4ab8-858f-1f193c07c574",
+      "location": "East Edwardfurt",
+      "device_info": {
+        "os": "Android",
+        "browser": "Safari",
+        "ip_address": "141.177.103.107"
+      }
+    }
+  },
+  {
+    "user_id": 26,
+    "event_type": "click",
+    "event_timestamp": "2007-08-10 00:00:00",
+    "session_length_sec": 200,
+    "event_properties": {
+      "page_id": "54b4a482-6858-4eba-aa34-c85410714d51",
+      "location": "Perryborough",
+      "device_info": {
+        "os": "Windows",
+        "browser": "Chrome",
+        "ip_address": "175.29.166.4"
+      }
+    }
+  },
+  {
+    "user_id": 27,
+    "event_type": "logout",
+    "event_timestamp": "2006-07-05 00:00:00",
+    "session_length_sec": 518,
+    "event_properties": {
+      "page_id": "f2311f17-9586-4a76-8511-55ffe7a37e81",
+      "location": "Port Nicoleshire",
+      "device_info": {
+        "os": "Android",
+        "browser": "IE",
+        "ip_address": "32.96.153.241"
+      }
+    }
+  },
+  {
+    "user_id": 27,
+    "event_type": "logout",
+    "event_timestamp": "2004-12-31 00:00:00",
+    "session_length_sec": 183,
+    "event_properties": {
+      "page_id": "c0e3befd-4c71-40fe-9a0c-dd7cf1578470",
+      "location": "Castanedachester",
+      "device_info": {
+        "os": "Windows",
+        "browser": "Chrome",
+        "ip_address": "5.195.169.202"
+      }
+    }
+  },
+  {
+    "user_id": 27,
+    "event_type": "logout",
+    "event_timestamp": "2006-05-19 00:00:00",
+    "session_length_sec": 330,
+    "event_properties": {
+      "page_id": "6f92f25e-45df-46b6-b82c-043f7cfc9b79",
+      "location": "Johnsonmouth",
+      "device_info": {
+        "os": "Windows",
+        "browser": "Firefox",
+        "ip_address": "153.224.83.7"
+      }
+    }
+  },
+  {
+    "user_id": 28,
+    "event_type": "purchase",
+    "event_timestamp": "2006-10-09 00:00:00",
+    "session_length_sec": 1365,
+    "event_properties": {
+      "page_id": "77a6e17c-d72b-4108-aa40-5f12b963f37f",
+      "location": "New Amanda",
+      "device_info": {
+        "os": "Windows",
+        "browser": "Edge",
+        "ip_address": "208.222.5.31"
+      }
+    }
+  },
+  {
+    "user_id": 28,
+    "event_type": "logout",
+    "event_timestamp": "2007-03-08 00:00:00",
+    "session_length_sec": 190,
+    "event_properties": {
+      "page_id": "22bd3388-6db9-4102-a48b-3dbe157d94a1",
+      "location": "Whiteview",
+      "device_info": {
+        "os": "Windows",
+        "browser": "Edge",
+        "ip_address": "45.139.215.151"
+      }
+    }
+  },
+  {
+    "user_id": 28,
+    "event_type": "page_view",
+    "event_timestamp": "2007-05-28 00:00:00",
+    "session_length_sec": 321,
+    "event_properties": {
+      "page_id": "c2dff335-5666-4f9f-93ac-2ab974672cd9",
+      "location": "Ramirezchester",
+      "device_info": {
+        "os": "Windows",
+        "browser": "Safari",
+        "ip_address": "120.167.190.116"
+      }
+    }
+  },
+  {
+    "user_id": 29,
+    "event_type": "click",
+    "event_timestamp": "2007-05-08 00:00:00",
+    "session_length_sec": 161,
+    "event_properties": {
+      "page_id": "8a175dfe-bfc0-4dc8-84f6-4d8678660765",
+      "location": "West Jeffreyland",
+      "device_info": {
+        "os": "Android",
+        "browser": "IE",
+        "ip_address": "177.73.203.110"
+      }
+    }
+  },
+  {
+    "user_id": 29,
+    "event_type": "login",
+    "event_timestamp": "2006-11-24 00:00:00",
+    "session_length_sec": 510,
+    "event_properties": {
+      "page_id": "3f4df561-f319-4125-87f1-94f9c1156d6d",
+      "location": "Port Andrew",
+      "device_info": {
+        "os": "Android",
+        "browser": "Safari",
+        "ip_address": "106.5.0.73"
+      }
+    }
+  },
+  {
+    "user_id": 29,
+    "event_type": "click",
+    "event_timestamp": "2007-04-13 00:00:00",
+    "session_length_sec": 201,
+    "event_properties": {
+      "page_id": "90604f62-1d48-4071-ab61-a7b1793b4c32",
+      "location": "South Holly",
+      "device_info": {
+        "os": "iOS",
+        "browser": "Edge",
+        "ip_address": "181.94.135.86"
+      }
+    }
+  },
+  {
+    "user_id": 29,
+    "event_type": "login",
+    "event_timestamp": "2007-07-01 00:00:00",
+    "session_length_sec": 405,
+    "event_properties": {
+      "page_id": "bf780e3f-f6b7-41f7-9b74-92459b1bc895",
+      "location": "Port Loriport",
+      "device_info": {
+        "os": "iOS",
+        "browser": "Edge",
+        "ip_address": "65.164.183.24"
+      }
+    }
+  },
+  {
+    "user_id": 30,
+    "event_type": "logout",
+    "event_timestamp": "2006-07-28 00:00:00",
+    "session_length_sec": 700,
+    "event_properties": {
+      "page_id": "ad66a1bd-9367-4a02-8fdc-6e1bedcb8cb6",
+      "location": "Sandersborough",
+      "device_info": {
+        "os": "Windows",
+        "browser": "Chrome",
+        "ip_address": "79.138.216.36"
+      }
+    }
+  },
+  {
+    "user_id": 31,
+    "event_type": "page_view",
+    "event_timestamp": "2006-12-23 00:00:00",
+    "session_length_sec": 673,
+    "event_properties": {
+      "page_id": "4d3485c5-c5c1-4eb4-b27b-3d901a16342c",
+      "location": "Port Tonyaton",
+      "device_info": {
+        "os": "Windows",
+        "browser": "Safari",
+        "ip_address": "59.106.139.154"
+      }
+    }
+  },
+  {
+    "user_id": 31,
+    "event_type": "purchase",
+    "event_timestamp": "2005-06-14 00:00:00",
+    "session_length_sec": 57,
+    "event_properties": {
+      "page_id": "8186a576-11a7-4609-9edd-bbbfa9597663",
+      "location": "Alexanderchester",
+      "device_info": {
+        "os": "Windows",
+        "browser": "Chrome",
+        "ip_address": "172.216.36.195"
+      }
+    }
+  },
+  {
+    "user_id": 32,
+    "event_type": "purchase",
+    "event_timestamp": "2006-08-05 00:00:00",
+    "session_length_sec": 621,
+    "event_properties": {
+      "page_id": "a2b5b498-5cb8-4aed-b5f6-2c976efb63b1",
+      "location": "Zimmermanchester",
+      "device_info": {
+        "os": "iOS",
+        "browser": "Edge",
+        "ip_address": "108.82.65.234"
+      }
+    }
+  },
+  {
+    "user_id": 32,
+    "event_type": "purchase",
+    "event_timestamp": "2005-12-07 00:00:00",
+    "session_length_sec": 613,
+    "event_properties": {
+      "page_id": "89c5b31a-eb6c-4016-8ee6-24d09dac6e83",
+      "location": "Marshallshire",
+      "device_info": {
+        "os": "Android",
+        "browser": "Chrome",
+        "ip_address": "121.246.198.43"
+      }
+    }
+  },
+  {
+    "user_id": 32,
+    "event_type": "click",
+    "event_timestamp": "2005-04-02 00:00:00",
+    "session_length_sec": 416,
+    "event_properties": {
+      "page_id": "4767d76c-162f-4a24-af43-613cd4aac9a3",
+      "location": "Sanchezmouth",
+      "device_info": {
+        "os": "Android",
+        "browser": "Edge",
+        "ip_address": "152.65.92.90"
+      }
+    }
+  },
+  {
+    "user_id": 33,
+    "event_type": "purchase",
+    "event_timestamp": "2006-12-28 00:00:00",
+    "session_length_sec": 29,
+    "event_properties": {
+      "page_id": "d9d80b8d-7e8a-4ee7-8758-e201561e16d1",
+      "location": "Hunterborough",
+      "device_info": {
+        "os": "Android",
+        "browser": "Firefox",
+        "ip_address": "48.136.216.142"
+      }
+    }
+  },
+  {
+    "user_id": 34,
+    "event_type": "page_view",
+    "event_timestamp": "2004-10-17 00:00:00",
+    "session_length_sec": 81,
+    "event_properties": {
+      "page_id": "989d9d4a-e15c-4666-8797-b2c957207246",
+      "location": "Angelahaven",
+      "device_info": {
+        "os": "iOS",
+        "browser": "IE",
+        "ip_address": "200.87.170.236"
+      }
+    }
+  },
+  {
+    "user_id": 34,
+    "event_type": "login",
+    "event_timestamp": "2004-12-03 00:00:00",
+    "session_length_sec": 363,
+    "event_properties": {
+      "page_id": "7d137018-680b-4c63-b856-d0353dc98290",
+      "location": "Lake Thomas",
+      "device_info": {
+        "os": "iOS",
+        "browser": "Firefox",
+        "ip_address": "190.87.114.37"
+      }
+    }
+  },
+  {
+    "user_id": 34,
+    "event_type": "logout",
+    "event_timestamp": "2006-07-28 00:00:00",
+    "session_length_sec": 215,
+    "event_properties": {
+      "page_id": "4b5305e5-17d2-482e-846a-0df5cafda613",
+      "location": "South Heather",
+      "device_info": {
+        "os": "Android",
+        "browser": "IE",
+        "ip_address": "55.158.7.245"
+      }
+    }
+  },
+  {
+    "user_id": 35,
+    "event_type": "purchase",
+    "event_timestamp": "2005-11-10 00:00:00",
+    "session_length_sec": 369,
+    "event_properties": {
+      "page_id": "58007c02-87ea-4ff5-8db0-674679279973",
+      "location": "Barajasside",
+      "device_info": {
+        "os": "Android",
+        "browser": "IE",
+        "ip_address": "61.10.41.149"
+      }
+    }
+  },
+  {
+    "user_id": 35,
+    "event_type": "purchase",
+    "event_timestamp": "2007-10-08 00:00:00",
+    "session_length_sec": 431,
+    "event_properties": {
+      "page_id": "3b048a8b-405b-4dc9-8e7e-d827455ac762",
+      "location": "Lake Jamesville",
+      "device_info": {
+        "os": "iOS",
+        "browser": "Chrome",
+        "ip_address": "181.236.191.95"
+      }
+    }
+  },
+  {
+    "user_id": 35,
+    "event_type": "page_view",
+    "event_timestamp": "2007-01-22 00:00:00",
+    "session_length_sec": 286,
+    "event_properties": {
+      "page_id": "7bf47042-bd15-41c8-b764-fbda3108d448",
+      "location": "Jennyhaven",
+      "device_info": {
+        "os": "Windows",
+        "browser": "Edge",
+        "ip_address": "134.111.5.15"
+      }
+    }
+  },
+  {
+    "user_id": 35,
+    "event_type": "click",
+    "event_timestamp": "2006-06-14 00:00:00",
+    "session_length_sec": 208,
+    "event_properties": {
+      "page_id": "3a3c563e-4bd6-4ee6-b1b1-b099d52721e7",
+      "location": "Harrytown",
+      "device_info": {
+        "os": "iOS",
+        "browser": "Edge",
+        "ip_address": "136.25.239.107"
+      }
+    }
+  },
+  {
+    "user_id": 36,
+    "event_type": "login",
+    "event_timestamp": "2005-08-21 00:00:00",
+    "session_length_sec": 172,
+    "event_properties": {
+      "page_id": "0df56ac6-f96b-448a-8ba6-eab94639447b",
+      "location": "Heidiberg",
+      "device_info": {
+        "os": "Android",
+        "browser": "Chrome",
+        "ip_address": "159.106.142.124"
+      }
+    }
+  },
+  {
+    "user_id": 36,
+    "event_type": "page_view",
+    "event_timestamp": "2007-06-03 00:00:00",
+    "session_length_sec": 420,
+    "event_properties": {
+      "page_id": "92f5df7b-0323-4342-9f6a-8f931a432f0a",
+      "location": "Taylormouth",
+      "device_info": {
+        "os": "Windows",
+        "browser": "Edge",
+        "ip_address": "35.73.193.150"
+      }
+    }
+  },
+  {
+    "user_id": 37,
+    "event_type": "login",
+    "event_timestamp": "2007-03-01 00:00:00",
+    "session_length_sec": 281,
+    "event_properties": {
+      "page_id": "7a4c75d4-dc99-404c-b0e9-8b3b40a26c60",
+      "location": "Port Cameronfort",
+      "device_info": {
+        "os": "iOS",
+        "browser": "Edge",
+        "ip_address": "67.110.84.192"
+      }
+    }
+  },
+  {
+    "user_id": 38,
+    "event_type": "logout",
+    "event_timestamp": "2004-10-15 00:00:00",
+    "session_length_sec": 149,
+    "event_properties": {
+      "page_id": "90164161-cfa7-41cd-a631-d00b26d794d3",
+      "location": "Christopherbury",
+      "device_info": {
+        "os": "iOS",
+        "browser": "Safari",
+        "ip_address": "90.162.152.91"
+      }
+    }
+  },
+  {
+    "user_id": 39,
+    "event_type": "login",
+    "event_timestamp": "2005-03-30 00:00:00",
+    "session_length_sec": 81,
+    "event_properties": {
+      "page_id": "9e50aa42-ca6d-4da1-989b-c4da9b37a22b",
+      "location": "Port Alexandra",
+      "device_info": {
+        "os": "Windows",
+        "browser": "IE",
+        "ip_address": "30.42.197.61"
+      }
+    }
+  },
+  {
+    "user_id": 39,
+    "event_type": "logout",
+    "event_timestamp": "2005-08-28 00:00:00",
+    "session_length_sec": 114,
+    "event_properties": {
+      "page_id": "fd72b050-96a9-454f-9c33-e1f94c1f55ab",
+      "location": "Torreston",
+      "device_info": {
+        "os": "Windows",
+        "browser": "Safari",
+        "ip_address": "134.89.215.193"
+      }
+    }
+  },
+  {
+    "user_id": 39,
+    "event_type": "login",
+    "event_timestamp": "2006-09-30 00:00:00",
+    "session_length_sec": 99,
+    "event_properties": {
+      "page_id": "a021c0ca-3531-468d-8342-bd2bf295456e",
+      "location": "West Donna",
+      "device_info": {
+        "os": "iOS",
+        "browser": "Safari",
+        "ip_address": "106.199.240.183"
+      }
+    }
+  },
+  {
+    "user_id": 40,
+    "event_type": "purchase",
+    "event_timestamp": "2006-09-25 00:00:00",
+    "session_length_sec": 977,
+    "event_properties": {
+      "page_id": "00af5b3a-2812-459a-9337-739e8d4f5d27",
+      "location": "Hayesfort",
+      "device_info": {
+        "os": "iOS",
+        "browser": "Safari",
+        "ip_address": "46.208.129.177"
+      }
+    }
+  },
+  {
+    "user_id": 40,
+    "event_type": "click",
+    "event_timestamp": "2006-11-18 00:00:00",
+    "session_length_sec": 272,
+    "event_properties": {
+      "page_id": "b3f6fe0d-4860-4b32-b4fb-0eb949c13de7",
+      "location": "Jonesbury",
+      "device_info": {
+        "os": "Android",
+        "browser": "Safari",
+        "ip_address": "214.84.136.246"
+      }
+    }
+  },
+  {
+    "user_id": 40,
+    "event_type": "click",
+    "event_timestamp": "2004-12-31 00:00:00",
+    "session_length_sec": 565,
+    "event_properties": {
+      "page_id": "398d1ca6-8b68-40b5-9d61-fac36cd5e859",
+      "location": "West Margaret",
+      "device_info": {
+        "os": "iOS",
+        "browser": "IE",
+        "ip_address": "74.158.122.154"
+      }
+    }
+  },
+  {
+    "user_id": 40,
+    "event_type": "page_view",
+    "event_timestamp": "2004-12-24 00:00:00",
+    "session_length_sec": 124,
+    "event_properties": {
+      "page_id": "bfbbb17f-9854-4e4e-8ebf-a5c3cae9b4a7",
+      "location": "Scottmouth",
+      "device_info": {
+        "os": "Windows",
+        "browser": "Edge",
+        "ip_address": "153.194.179.23"
+      }
+    }
+  },
+  {
+    "user_id": 41,
+    "event_type": "login",
+    "event_timestamp": "2007-03-04 00:00:00",
+    "session_length_sec": 127,
+    "event_properties": {
+      "page_id": "8a3c3b5e-801e-41da-85b1-ed25f1533ae8",
+      "location": "Kimton",
+      "device_info": {
+        "os": "Android",
+        "browser": "Safari",
+        "ip_address": "218.80.117.88"
+      }
+    }
+  },
+  {
+    "user_id": 41,
+    "event_type": "page_view",
+    "event_timestamp": "2005-03-09 00:00:00",
+    "session_length_sec": 46,
+    "event_properties": {
+      "page_id": "176132ed-069f-44f1-8018-1c6e9a8cfa3c",
+      "location": "Lake Mary",
+      "device_info": {
+        "os": "iOS",
+        "browser": "Edge",
+        "ip_address": "129.83.228.191"
+      }
+    }
+  },
+  {
+    "user_id": 42,
+    "event_type": "login",
+    "event_timestamp": "2005-01-26 00:00:00",
+    "session_length_sec": 822,
+    "event_properties": {
+      "page_id": "d248a9a7-ac1a-4554-83c7-5611ffe3fa49",
+      "location": "Barbaraburgh",
+      "device_info": {
+        "os": "Android",
+        "browser": "Edge",
+        "ip_address": "30.38.190.68"
+      }
+    }
+  },
+  {
+    "user_id": 43,
+    "event_type": "login",
+    "event_timestamp": "2007-01-09 00:00:00",
+    "session_length_sec": 82,
+    "event_properties": {
+      "page_id": "ff37d19c-2e76-428b-8735-44f9ea83bf00",
+      "location": "Waltersfort",
+      "device_info": {
+        "os": "iOS",
+        "browser": "IE",
+        "ip_address": "195.225.74.103"
+      }
+    }
+  },
+  {
+    "user_id": 43,
+    "event_type": "logout",
+    "event_timestamp": "2005-12-19 00:00:00",
+    "session_length_sec": 62,
+    "event_properties": {
+      "page_id": "5230dfbd-5553-42fe-a889-803e5913f9d3",
+      "location": "Port Eugenechester",
+      "device_info": {
+        "os": "Android",
+        "browser": "Firefox",
+        "ip_address": "146.114.41.15"
+      }
+    }
+  },
+  {
+    "user_id": 44,
+    "event_type": "logout",
+    "event_timestamp": "2007-01-02 00:00:00",
+    "session_length_sec": 58,
+    "event_properties": {
+      "page_id": "d045dd1c-6684-49e3-b1f8-343ea99f1318",
+      "location": "South Christopherview",
+      "device_info": {
+        "os": "Windows",
+        "browser": "Safari",
+        "ip_address": "57.222.1.14"
+      }
+    }
+  },
+  {
+    "user_id": 45,
+    "event_type": "login",
+    "event_timestamp": "2005-10-07 00:00:00",
+    "session_length_sec": 2,
+    "event_properties": {
+      "page_id": "fcf56188-d32e-4dcd-83bc-9478dd6ac7b8",
+      "location": "Lake Mollymouth",
+      "device_info": {
+        "os": "Windows",
+        "browser": "IE",
+        "ip_address": "44.1.90.52"
+      }
+    }
+  },
+  {
+    "user_id": 45,
+    "event_type": "logout",
+    "event_timestamp": "2004-12-09 00:00:00",
+    "session_length_sec": 677,
+    "event_properties": {
+      "page_id": "c1a6423b-9f64-4eed-9c9d-927d84b871bb",
+      "location": "Garrettton",
+      "device_info": {
+        "os": "iOS",
+        "browser": "Edge",
+        "ip_address": "102.134.40.84"
+      }
+    }
+  },
+  {
+    "user_id": 46,
+    "event_type": "login",
+    "event_timestamp": "2004-12-30 00:00:00",
+    "session_length_sec": 173,
+    "event_properties": {
+      "page_id": "e17f29e1-7028-4046-89bc-473fed7bf656",
+      "location": "Martinezbury",
+      "device_info": {
+        "os": "Android",
+        "browser": "Safari",
+        "ip_address": "147.227.84.142"
+      }
+    }
+  },
+  {
+    "user_id": 46,
+    "event_type": "login",
+    "event_timestamp": "2004-11-26 00:00:00",
+    "session_length_sec": 596,
+    "event_properties": {
+      "page_id": "687213f9-8d60-4936-8380-2b708d03c91e",
+      "location": "East Victoriaville",
+      "device_info": {
+        "os": "Android",
+        "browser": "IE",
+        "ip_address": "19.194.72.92"
+      }
+    }
+  },
+  {
+    "user_id": 46,
+    "event_type": "purchase",
+    "event_timestamp": "2005-09-19 00:00:00",
+    "session_length_sec": 227,
+    "event_properties": {
+      "page_id": "7f95897c-276a-46ce-9507-55d9a5d04d53",
+      "location": "Williamview",
+      "device_info": {
+        "os": "Android",
+        "browser": "IE",
+        "ip_address": "62.225.69.230"
+      }
+    }
+  },
+  {
+    "user_id": 47,
+    "event_type": "click",
+    "event_timestamp": "2005-03-07 00:00:00",
+    "session_length_sec": 397,
+    "event_properties": {
+      "page_id": "74eff545-3e65-4603-b8e3-654bfaf14ff0",
+      "location": "South James",
+      "device_info": {
+        "os": "Windows",
+        "browser": "IE",
+        "ip_address": "136.188.141.124"
+      }
+    }
+  },
+  {
+    "user_id": 47,
+    "event_type": "login",
+    "event_timestamp": "2007-03-11 00:00:00",
+    "session_length_sec": 148,
+    "event_properties": {
+      "page_id": "c5ce099c-46b8-4659-91df-12d7dd30de89",
+      "location": "Morganhaven",
+      "device_info": {
+        "os": "Android",
+        "browser": "Chrome",
+        "ip_address": "120.5.64.239"
+      }
+    }
+  },
+  {
+    "user_id": 47,
+    "event_type": "click",
+    "event_timestamp": "2006-11-22 00:00:00",
+    "session_length_sec": 396,
+    "event_properties": {
+      "page_id": "d664d264-4c6e-47ff-b9de-7a3a486822b9",
+      "location": "Grimesmouth",
+      "device_info": {
+        "os": "iOS",
+        "browser": "Firefox",
+        "ip_address": "6.194.208.87"
+      }
+    }
+  },
+  {
+    "user_id": 48,
+    "event_type": "page_view",
+    "event_timestamp": "2006-07-09 00:00:00",
+    "session_length_sec": 158,
+    "event_properties": {
+      "page_id": "8b1e3b9d-c34b-4fbb-8d4a-75b8551ac8ea",
+      "location": "Gibsonmouth",
+      "device_info": {
+        "os": "Android",
+        "browser": "Chrome",
+        "ip_address": "215.164.75.134"
+      }
+    }
+  },
+  {
+    "user_id": 49,
+    "event_type": "page_view",
+    "event_timestamp": "2007-04-05 00:00:00",
+    "session_length_sec": 484,
+    "event_properties": {
+      "page_id": "db23aa8c-3bca-4f85-a20a-60ac9261549d",
+      "location": "Williamsfort",
+      "device_info": {
+        "os": "Windows",
+        "browser": "Firefox",
+        "ip_address": "152.102.23.85"
+      }
+    }
+  },
+  {
+    "user_id": 49,
+    "event_type": "purchase",
+    "event_timestamp": "2005-05-07 00:00:00",
+    "session_length_sec": 37,
+    "event_properties": {
+      "page_id": "cada4f80-a9e7-42d4-bd08-b32c62d60e93",
+      "location": "South Tammie",
+      "device_info": {
+        "os": "Windows",
+        "browser": "IE",
+        "ip_address": "85.63.102.180"
+      }
+    }
+  },
+  {
+    "user_id": 49,
+    "event_type": "page_view",
+    "event_timestamp": "2006-02-05 00:00:00",
+    "session_length_sec": 271,
+    "event_properties": {
+      "page_id": "d85480f0-dfca-40b7-99b1-7e80dea4ae17",
+      "location": "Garciamouth",
+      "device_info": {
+        "os": "Windows",
+        "browser": "Edge",
+        "ip_address": "73.57.215.163"
+      }
+    }
+  },
+  {
+    "user_id": 49,
+    "event_type": "page_view",
+    "event_timestamp": "2006-09-27 00:00:00",
+    "session_length_sec": 227,
+    "event_properties": {
+      "page_id": "f84f16b3-a79f-4faf-9ef5-768968f45bce",
+      "location": "North Terrance",
+      "device_info": {
+        "os": "iOS",
+        "browser": "Firefox",
+        "ip_address": "195.90.175.203"
+      }
+    }
+  },
+  {
+    "user_id": 50,
+    "event_type": "purchase",
+    "event_timestamp": "2006-12-08 00:00:00",
+    "session_length_sec": 84,
+    "event_properties": {
+      "page_id": "a65bb1f2-65c1-4795-b155-16bc9f8ded97",
+      "location": "Port Markside",
+      "device_info": {
+        "os": "Android",
+        "browser": "Chrome",
+        "ip_address": "52.68.45.36"
+      }
+    }
+  },
+  {
+    "user_id": 51,
+    "event_type": "purchase",
+    "event_timestamp": "2006-05-29 00:00:00",
+    "session_length_sec": 82,
+    "event_properties": {
+      "page_id": "c268283e-e32f-4e63-b7fd-dd71a075e927",
+      "location": "Brennanton",
+      "device_info": {
+        "os": "Android",
+        "browser": "Edge",
+        "ip_address": "143.6.121.199"
+      }
+    }
+  },
+  {
+    "user_id": 51,
+    "event_type": "click",
+    "event_timestamp": "2006-11-04 00:00:00",
+    "session_length_sec": 222,
+    "event_properties": {
+      "page_id": "4991ab9b-ebc2-426f-af34-cf65a193c4b2",
+      "location": "Lake Christopher",
+      "device_info": {
+        "os": "Android",
+        "browser": "IE",
+        "ip_address": "192.204.221.107"
+      }
+    }
+  },
+  {
+    "user_id": 51,
+    "event_type": "login",
+    "event_timestamp": "2004-10-19 00:00:00",
+    "session_length_sec": 87,
+    "event_properties": {
+      "page_id": "4ca9cf07-b1aa-4f6a-aa96-e1e27194eae2",
+      "location": "North Markton",
+      "device_info": {
+        "os": "iOS",
+        "browser": "Firefox",
+        "ip_address": "55.253.101.122"
+      }
+    }
+  },
+  {
+    "user_id": 52,
+    "event_type": "login",
+    "event_timestamp": "2005-08-09 00:00:00",
+    "session_length_sec": 23,
+    "event_properties": {
+      "page_id": "87fa841a-3e83-491f-a544-0fe06e417d47",
+      "location": "Knightburgh",
+      "device_info": {
+        "os": "iOS",
+        "browser": "IE",
+        "ip_address": "105.67.116.80"
+      }
+    }
+  },
+  {
+    "user_id": 52,
+    "event_type": "login",
+    "event_timestamp": "2004-07-08 00:00:00",
+    "session_length_sec": 119,
+    "event_properties": {
+      "page_id": "9ea556aa-61ee-4c5b-9eef-580f9c07a751",
+      "location": "South Roberta",
+      "device_info": {
+        "os": "Android",
+        "browser": "IE",
+        "ip_address": "93.131.122.238"
+      }
+    }
+  },
+  {
+    "user_id": 53,
+    "event_type": "login",
+    "event_timestamp": "2004-12-13 00:00:00",
+    "session_length_sec": 133,
+    "event_properties": {
+      "page_id": "415d174a-75a6-4981-8104-a8b5a34db7c5",
+      "location": "Port Stevenport",
+      "device_info": {
+        "os": "Windows",
+        "browser": "Safari",
+        "ip_address": "138.28.69.204"
+      }
+    }
+  },
+  {
+    "user_id": 54,
+    "event_type": "purchase",
+    "event_timestamp": "2004-09-10 00:00:00",
+    "session_length_sec": 257,
+    "event_properties": {
+      "page_id": "5876fd09-f1fa-4665-b115-33f312e89d10",
+      "location": "Daniellechester",
+      "device_info": {
+        "os": "Windows",
+        "browser": "Safari",
+        "ip_address": "157.60.204.64"
+      }
+    }
+  },
+  {
+    "user_id": 54,
+    "event_type": "login",
+    "event_timestamp": "2005-03-26 00:00:00",
+    "session_length_sec": 96,
+    "event_properties": {
+      "page_id": "ffd6f232-32ff-4294-8d57-d880d865d69a",
+      "location": "Castanedaville",
+      "device_info": {
+        "os": "iOS",
+        "browser": "Edge",
+        "ip_address": "117.190.75.245"
+      }
+    }
+  },
+  {
+    "user_id": 55,
+    "event_type": "logout",
+    "event_timestamp": "2007-03-09 00:00:00",
+    "session_length_sec": 345,
+    "event_properties": {
+      "page_id": "b303f438-fe21-40d0-8bbe-4aff9326dffd",
+      "location": "Andrewfurt",
+      "device_info": {
+        "os": "Windows",
+        "browser": "Firefox",
+        "ip_address": "124.50.56.167"
+      }
+    }
+  },
+  {
+    "user_id": 55,
+    "event_type": "purchase",
+    "event_timestamp": "2004-07-26 00:00:00",
+    "session_length_sec": 112,
+    "event_properties": {
+      "page_id": "7f2984f5-bec3-4a37-9b3d-74bde91e314e",
+      "location": "Kimberlybury",
+      "device_info": {
+        "os": "Android",
+        "browser": "Safari",
+        "ip_address": "150.140.109.51"
+      }
+    }
+  },
+  {
+    "user_id": 56,
+    "event_type": "logout",
+    "event_timestamp": "2006-07-24 00:00:00",
+    "session_length_sec": 121,
+    "event_properties": {
+      "page_id": "9ef2b93e-30ac-4d7b-a2f9-63a33810ae66",
+      "location": "Ericaberg",
+      "device_info": {
+        "os": "Windows",
+        "browser": "IE",
+        "ip_address": "130.133.230.71"
+      }
+    }
+  },
+  {
+    "user_id": 56,
+    "event_type": "click",
+    "event_timestamp": "2006-12-20 00:00:00",
+    "session_length_sec": 37,
+    "event_properties": {
+      "page_id": "088a93ec-70d9-49f8-89e2-60744f1639a0",
+      "location": "Jessicaland",
+      "device_info": {
+        "os": "iOS",
+        "browser": "Safari",
+        "ip_address": "218.116.123.171"
+      }
+    }
+  },
+  {
+    "user_id": 56,
+    "event_type": "click",
+    "event_timestamp": "2006-07-21 00:00:00",
+    "session_length_sec": 354,
+    "event_properties": {
+      "page_id": "336749b5-2cf6-4f75-aa5e-6920bf5ae7e6",
+      "location": "Port Amber",
+      "device_info": {
+        "os": "iOS",
+        "browser": "Safari",
+        "ip_address": "195.23.17.104"
+      }
+    }
+  },
+  {
+    "user_id": 56,
+    "event_type": "click",
+    "event_timestamp": "2004-10-30 00:00:00",
+    "session_length_sec": 505,
+    "event_properties": {
+      "page_id": "e9ff1cae-41c8-4a8c-aa1f-955ad499da99",
+      "location": "Coffeyport",
+      "device_info": {
+        "os": "Windows",
+        "browser": "IE",
+        "ip_address": "186.214.193.95"
+      }
+    }
+  },
+  {
+    "user_id": 57,
+    "event_type": "logout",
+    "event_timestamp": "2005-06-28 00:00:00",
+    "session_length_sec": 33,
+    "event_properties": {
+      "page_id": "f6802cdb-77e4-40c7-9d7b-c313cde22f1c",
+      "location": "East Karenbury",
+      "device_info": {
+        "os": "Windows",
+        "browser": "Firefox",
+        "ip_address": "220.183.152.78"
+      }
+    }
+  },
+  {
+    "user_id": 58,
+    "event_type": "purchase",
+    "event_timestamp": "2005-08-02 00:00:00",
+    "session_length_sec": 21,
+    "event_properties": {
+      "page_id": "8eac0a33-cdf9-44a7-9882-b5c1f79efd70",
+      "location": "Christopherfurt",
+      "device_info": {
+        "os": "iOS",
+        "browser": "Edge",
+        "ip_address": "71.232.224.186"
+      }
+    }
+  },
+  {
+    "user_id": 58,
+    "event_type": "page_view",
+    "event_timestamp": "2006-09-16 00:00:00",
+    "session_length_sec": 8,
+    "event_properties": {
+      "page_id": "bfbf397b-ac3e-4b0d-9e5b-a13d746cdb77",
+      "location": "Brendastad",
+      "device_info": {
+        "os": "Android",
+        "browser": "Edge",
+        "ip_address": "78.246.240.39"
+      }
+    }
+  },
+  {
+    "user_id": 58,
+    "event_type": "logout",
+    "event_timestamp": "2005-09-02 00:00:00",
+    "session_length_sec": 55,
+    "event_properties": {
+      "page_id": "e25d36eb-9e9a-4f83-8668-03ee78b2b549",
+      "location": "Rosebury",
+      "device_info": {
+        "os": "Windows",
+        "browser": "Firefox",
+        "ip_address": "157.182.143.40"
+      }
+    }
+  },
+  {
+    "user_id": 58,
+    "event_type": "page_view",
+    "event_timestamp": "2006-08-10 00:00:00",
+    "session_length_sec": 91,
+    "event_properties": {
+      "page_id": "a6348e78-4d5c-45c7-b379-cb1ee8cda0cc",
+      "location": "Wilsonton",
+      "device_info": {
+        "os": "iOS",
+        "browser": "IE",
+        "ip_address": "201.55.171.89"
+      }
+    }
+  },
+  {
+    "user_id": 59,
+    "event_type": "click",
+    "event_timestamp": "2006-02-03 00:00:00",
+    "session_length_sec": 744,
+    "event_properties": {
+      "page_id": "18e19331-1dba-4267-be1c-a5a1fef518a6",
+      "location": "New Derek",
+      "device_info": {
+        "os": "Android",
+        "browser": "IE",
+        "ip_address": "29.105.124.130"
+      }
+    }
+  },
+  {
+    "user_id": 59,
+    "event_type": "page_view",
+    "event_timestamp": "2007-03-03 00:00:00",
+    "session_length_sec": 28,
+    "event_properties": {
+      "page_id": "278ed00d-ba02-46ef-be05-5787965befdf",
+      "location": "Penafort",
+      "device_info": {
+        "os": "Android",
+        "browser": "Firefox",
+        "ip_address": "145.231.67.54"
+      }
+    }
+  },
+  {
+    "user_id": 60,
+    "event_type": "click",
+    "event_timestamp": "2006-07-03 00:00:00",
+    "session_length_sec": 176,
+    "event_properties": {
+      "page_id": "379efc6e-5edb-4d3c-b0b6-3bcf08601833",
+      "location": "Wallacebury",
+      "device_info": {
+        "os": "Android",
+        "browser": "IE",
+        "ip_address": "169.227.45.233"
+      }
+    }
+  },
+  {
+    "user_id": 60,
+    "event_type": "purchase",
+    "event_timestamp": "2006-04-24 00:00:00",
+    "session_length_sec": 2,
+    "event_properties": {
+      "page_id": "8b621d41-5e09-49ee-af88-bdecfb1e143b",
+      "location": "Bruceview",
+      "device_info": {
+        "os": "Android",
+        "browser": "IE",
+        "ip_address": "96.250.46.223"
+      }
+    }
+  },
+  {
+    "user_id": 61,
+    "event_type": "click",
+    "event_timestamp": "2006-03-12 00:00:00",
+    "session_length_sec": 438,
+    "event_properties": {
+      "page_id": "74685b98-d2fe-4fde-9918-b3e5f2f25eef",
+      "location": "Lake Jasontown",
+      "device_info": {
+        "os": "Android",
+        "browser": "Firefox",
+        "ip_address": "85.88.54.200"
+      }
+    }
+  },
+  {
+    "user_id": 61,
+    "event_type": "logout",
+    "event_timestamp": "2007-09-13 00:00:00",
+    "session_length_sec": 216,
+    "event_properties": {
+      "page_id": "c9776598-203c-4c25-bd23-5def3e5a87e3",
+      "location": "North Maria",
+      "device_info": {
+        "os": "Windows",
+        "browser": "Firefox",
+        "ip_address": "2.221.34.89"
+      }
+    }
+  },
+  {
+    "user_id": 62,
+    "event_type": "page_view",
+    "event_timestamp": "2007-04-26 00:00:00",
+    "session_length_sec": 245,
+    "event_properties": {
+      "page_id": "541c7a86-3ba5-4d2f-9ea4-5c19d0243d72",
+      "location": "Port Rachel",
+      "device_info": {
+        "os": "Android",
+        "browser": "Safari",
+        "ip_address": "73.66.145.94"
+      }
+    }
+  },
+  {
+    "user_id": 62,
+    "event_type": "login",
+    "event_timestamp": "2006-09-19 00:00:00",
+    "session_length_sec": 357,
+    "event_properties": {
+      "page_id": "402adf9c-8a4b-4f7c-a147-2a15fcce96f6",
+      "location": "North Donna",
+      "device_info": {
+        "os": "iOS",
+        "browser": "Edge",
+        "ip_address": "64.243.120.184"
+      }
+    }
+  },
+  {
+    "user_id": 62,
+    "event_type": "login",
+    "event_timestamp": "2006-10-27 00:00:00",
+    "session_length_sec": 71,
+    "event_properties": {
+      "page_id": "3ce915e7-c9d6-463b-8a3c-6f5f5bb5c40c",
+      "location": "Alfredview",
+      "device_info": {
+        "os": "Android",
+        "browser": "Safari",
+        "ip_address": "90.241.4.143"
+      }
+    }
+  },
+  {
+    "user_id": 62,
+    "event_type": "page_view",
+    "event_timestamp": "2004-11-27 00:00:00",
+    "session_length_sec": 181,
+    "event_properties": {
+      "page_id": "104556e5-bee3-4b79-9d18-1ee986ad8a8c",
+      "location": "Weststad",
+      "device_info": {
+        "os": "Android",
+        "browser": "Safari",
+        "ip_address": "9.190.175.106"
+      }
+    }
+  },
+  {
+    "user_id": 63,
+    "event_type": "login",
+    "event_timestamp": "2004-09-14 00:00:00",
+    "session_length_sec": 169,
+    "event_properties": {
+      "page_id": "f206c269-38b7-4c07-80fb-929673b6a09b",
+      "location": "Lake Kristahaven",
+      "device_info": {
+        "os": "iOS",
+        "browser": "Chrome",
+        "ip_address": "33.254.95.65"
+      }
+    }
+  },
+  {
+    "user_id": 64,
+    "event_type": "page_view",
+    "event_timestamp": "2006-06-14 00:00:00",
+    "session_length_sec": 654,
+    "event_properties": {
+      "page_id": "d8e88ebb-7a9e-4eef-bfa3-61be0f9240e1",
+      "location": "Simmonsville",
+      "device_info": {
+        "os": "Windows",
+        "browser": "Edge",
+        "ip_address": "30.49.169.160"
+      }
+    }
+  },
+  {
+    "user_id": 65,
+    "event_type": "login",
+    "event_timestamp": "2004-07-30 00:00:00",
+    "session_length_sec": 52,
+    "event_properties": {
+      "page_id": "5275eb94-14ae-4f5c-a636-58c912d0498d",
+      "location": "North David",
+      "device_info": {
+        "os": "Windows",
+        "browser": "Chrome",
+        "ip_address": "148.207.214.156"
+      }
+    }
+  },
+  {
+    "user_id": 65,
+    "event_type": "logout",
+    "event_timestamp": "2006-06-18 00:00:00",
+    "session_length_sec": 26,
+    "event_properties": {
+      "page_id": "87d292a6-98ee-4c2b-be9f-ecaa6182f347",
+      "location": "Shawnchester",
+      "device_info": {
+        "os": "Android",
+        "browser": "Chrome",
+        "ip_address": "71.82.143.96"
+      }
+    }
+  },
+  {
+    "user_id": 65,
+    "event_type": "page_view",
+    "event_timestamp": "2007-05-15 00:00:00",
+    "session_length_sec": 276,
+    "event_properties": {
+      "page_id": "e0b15aba-a6a2-4967-a79b-44b6da509fed",
+      "location": "South Shannon",
+      "device_info": {
+        "os": "Android",
+        "browser": "Firefox",
+        "ip_address": "117.108.67.142"
+      }
+    }
+  },
+  {
+    "user_id": 65,
+    "event_type": "page_view",
+    "event_timestamp": "2004-10-07 00:00:00",
+    "session_length_sec": 7,
+    "event_properties": {
+      "page_id": "6a7e4c36-6613-4e69-b418-8109d3d1bf0f",
+      "location": "West Ronaldview",
+      "device_info": {
+        "os": "Windows",
+        "browser": "IE",
+        "ip_address": "41.196.214.11"
+      }
+    }
+  },
+  {
+    "user_id": 66,
+    "event_type": "login",
+    "event_timestamp": "2005-11-15 00:00:00",
+    "session_length_sec": 78,
+    "event_properties": {
+      "page_id": "112fa612-7969-4ed2-ac48-bf55afd380c4",
+      "location": "Port Christopherchester",
+      "device_info": {
+        "os": "Android",
+        "browser": "Edge",
+        "ip_address": "87.217.114.51"
+      }
+    }
+  },
+  {
+    "user_id": 66,
+    "event_type": "logout",
+    "event_timestamp": "2004-10-29 00:00:00",
+    "session_length_sec": 784,
+    "event_properties": {
+      "page_id": "0f5ae9d3-8e6e-4003-a14f-3f12cfd01cbd",
+      "location": "Elizabethchester",
+      "device_info": {
+        "os": "iOS",
+        "browser": "Safari",
+        "ip_address": "59.17.101.189"
+      }
+    }
+  },
+  {
+    "user_id": 66,
+    "event_type": "login",
+    "event_timestamp": "2006-08-23 00:00:00",
+    "session_length_sec": 2,
+    "event_properties": {
+      "page_id": "0d2b91ef-b897-4ec5-aa74-bb18de3b496f",
+      "location": "Carolinestad",
+      "device_info": {
+        "os": "iOS",
+        "browser": "IE",
+        "ip_address": "77.157.131.57"
+      }
+    }
+  },
+  {
+    "user_id": 67,
+    "event_type": "login",
+    "event_timestamp": "2006-04-17 00:00:00",
+    "session_length_sec": 464,
+    "event_properties": {
+      "page_id": "39681c81-7b70-43b8-a81f-dec3279c658a",
+      "location": "West Meganstad",
+      "device_info": {
+        "os": "iOS",
+        "browser": "Firefox",
+        "ip_address": "81.212.15.199"
+      }
+    }
+  },
+  {
+    "user_id": 67,
+    "event_type": "click",
+    "event_timestamp": "2004-09-14 00:00:00",
+    "session_length_sec": 152,
+    "event_properties": {
+      "page_id": "6dda4f8d-cea6-4f4c-b9e5-8ff092f837d4",
+      "location": "New Sarahview",
+      "device_info": {
+        "os": "iOS",
+        "browser": "Firefox",
+        "ip_address": "81.125.67.20"
+      }
+    }
+  },
+  {
+    "user_id": 67,
+    "event_type": "page_view",
+    "event_timestamp": "2006-10-05 00:00:00",
+    "session_length_sec": 370,
+    "event_properties": {
+      "page_id": "ebe9e207-4f19-4ec0-832d-4526b3e4110a",
+      "location": "Michaelburgh",
+      "device_info": {
+        "os": "iOS",
+        "browser": "Edge",
+        "ip_address": "220.211.57.179"
+      }
+    }
+  },
+  {
+    "user_id": 68,
+    "event_type": "page_view",
+    "event_timestamp": "2004-11-18 00:00:00",
+    "session_length_sec": 491,
+    "event_properties": {
+      "page_id": "a2178f84-bdb0-45ff-a451-e5a411d059b2",
+      "location": "North Julieborough",
+      "device_info": {
+        "os": "Windows",
+        "browser": "Chrome",
+        "ip_address": "61.8.136.89"
+      }
+    }
+  },
+  {
+    "user_id": 68,
+    "event_type": "click",
+    "event_timestamp": "2005-07-11 00:00:00",
+    "session_length_sec": 509,
+    "event_properties": {
+      "page_id": "4fc77768-5ebb-4ca5-a84b-f9625744f596",
+      "location": "Kimberlyshire",
+      "device_info": {
+        "os": "Windows",
+        "browser": "Firefox",
+        "ip_address": "131.93.241.104"
+      }
+    }
+  },
+  {
+    "user_id": 68,
+    "event_type": "click",
+    "event_timestamp": "2006-06-20 00:00:00",
+    "session_length_sec": 179,
+    "event_properties": {
+      "page_id": "9e2aa4ac-c122-45b3-a84c-03d227d415b6",
+      "location": "Lake Christophermouth",
+      "device_info": {
+        "os": "Windows",
+        "browser": "Edge",
+        "ip_address": "159.21.20.215"
+      }
+    }
+  },
+  {
+    "user_id": 68,
+    "event_type": "logout",
+    "event_timestamp": "2007-01-12 00:00:00",
+    "session_length_sec": 326,
+    "event_properties": {
+      "page_id": "45ee432d-6a07-4213-b129-cec79b69554d",
+      "location": "Port William",
+      "device_info": {
+        "os": "Windows",
+        "browser": "IE",
+        "ip_address": "39.24.209.106"
+      }
+    }
+  },
+  {
+    "user_id": 69,
+    "event_type": "click",
+    "event_timestamp": "2005-01-11 00:00:00",
+    "session_length_sec": 355,
+    "event_properties": {
+      "page_id": "97d7a560-adb1-4670-ad9f-b00d4882d73c",
+      "location": "Roseport",
+      "device_info": {
+        "os": "iOS",
+        "browser": "IE",
+        "ip_address": "89.75.254.210"
+      }
+    }
+  },
+  {
+    "user_id": 70,
+    "event_type": "purchase",
+    "event_timestamp": "2007-05-11 00:00:00",
+    "session_length_sec": 428,
+    "event_properties": {
+      "page_id": "01f7c7ec-0e06-40cd-996d-5c50fc04a168",
+      "location": "West Sierra",
+      "device_info": {
+        "os": "Windows",
+        "browser": "Edge",
+        "ip_address": "184.45.55.63"
+      }
+    }
+  },
+  {
+    "user_id": 70,
+    "event_type": "click",
+    "event_timestamp": "2005-04-07 00:00:00",
+    "session_length_sec": 157,
+    "event_properties": {
+      "page_id": "01fa964e-1eb7-4b56-93ff-d3a24a193501",
+      "location": "Burgessburgh",
+      "device_info": {
+        "os": "Android",
+        "browser": "IE",
+        "ip_address": "78.186.34.73"
+      }
+    }
+  },
+  {
+    "user_id": 71,
+    "event_type": "purchase",
+    "event_timestamp": "2007-05-20 00:00:00",
+    "session_length_sec": 123,
+    "event_properties": {
+      "page_id": "ab05347f-d556-437d-8f08-81ee8011316b",
+      "location": "Charleston",
+      "device_info": {
+        "os": "Android",
+        "browser": "IE",
+        "ip_address": "30.182.78.138"
+      }
+    }
+  },
+  {
+    "user_id": 71,
+    "event_type": "purchase",
+    "event_timestamp": "2006-10-08 00:00:00",
+    "session_length_sec": 126,
+    "event_properties": {
+      "page_id": "5024bdc6-dcb3-4df3-93ee-cdc6ebd14d2c",
+      "location": "Berrychester",
+      "device_info": {
+        "os": "iOS",
+        "browser": "Edge",
+        "ip_address": "57.236.12.160"
+      }
+    }
+  },
+  {
+    "user_id": 72,
+    "event_type": "page_view",
+    "event_timestamp": "2007-04-07 00:00:00",
+    "session_length_sec": 313,
+    "event_properties": {
+      "page_id": "2bffe17b-5324-41fc-b758-dce20556daea",
+      "location": "Collierstad",
+      "device_info": {
+        "os": "iOS",
+        "browser": "Chrome",
+        "ip_address": "70.198.118.46"
+      }
+    }
+  },
+  {
+    "user_id": 73,
+    "event_type": "click",
+    "event_timestamp": "2007-04-29 00:00:00",
+    "session_length_sec": 33,
+    "event_properties": {
+      "page_id": "6683e107-96c0-44d0-af88-7f283e49fd09",
+      "location": "South Monicamouth",
+      "device_info": {
+        "os": "Windows",
+        "browser": "Edge",
+        "ip_address": "114.176.171.237"
+      }
+    }
+  },
+  {
+    "user_id": 73,
+    "event_type": "page_view",
+    "event_timestamp": "2006-03-30 00:00:00",
+    "session_length_sec": 134,
+    "event_properties": {
+      "page_id": "1d30d990-a21b-4307-82af-085c138d994c",
+      "location": "Port Michael",
+      "device_info": {
+        "os": "Android",
+        "browser": "Edge",
+        "ip_address": "180.185.224.8"
+      }
+    }
+  },
+  {
+    "user_id": 73,
+    "event_type": "click",
+    "event_timestamp": "2007-03-16 00:00:00",
+    "session_length_sec": 25,
+    "event_properties": {
+      "page_id": "4187222b-257d-4e52-9a51-65ca3c7c1d85",
+      "location": "East Carrie",
+      "device_info": {
+        "os": "Android",
+        "browser": "Chrome",
+        "ip_address": "178.105.75.69"
+      }
+    }
+  },
+  {
+    "user_id": 73,
+    "event_type": "click",
+    "event_timestamp": "2006-03-10 00:00:00",
+    "session_length_sec": 1135,
+    "event_properties": {
+      "page_id": "a0c14035-c5d9-4f51-b387-e1bd2d5972c6",
+      "location": "Marshallshire",
+      "device_info": {
+        "os": "Android",
+        "browser": "Safari",
+        "ip_address": "190.93.110.142"
+      }
+    }
+  },
+  {
+    "user_id": 74,
+    "event_type": "page_view",
+    "event_timestamp": "2005-08-19 00:00:00",
+    "session_length_sec": 1263,
+    "event_properties": {
+      "page_id": "9082889b-e1cd-487f-ac95-5f87ae5ec365",
+      "location": "Michellemouth",
+      "device_info": {
+        "os": "Android",
+        "browser": "Safari",
+        "ip_address": "105.23.179.85"
+      }
+    }
+  },
+  {
+    "user_id": 75,
+    "event_type": "logout",
+    "event_timestamp": "2007-09-05 00:00:00",
+    "session_length_sec": 289,
+    "event_properties": {
+      "page_id": "4d85a3d2-a1a2-4485-b134-8c2a780b3657",
+      "location": "Brittanystad",
+      "device_info": {
+        "os": "Windows",
+        "browser": "IE",
+        "ip_address": "12.247.110.56"
+      }
+    }
+  },
+  {
+    "user_id": 75,
+    "event_type": "page_view",
+    "event_timestamp": "2007-01-13 00:00:00",
+    "session_length_sec": 98,
+    "event_properties": {
+      "page_id": "0e9058b6-09a0-40f6-b3b0-a0917634c169",
+      "location": "Marieland",
+      "device_info": {
+        "os": "iOS",
+        "browser": "IE",
+        "ip_address": "133.199.106.254"
+      }
+    }
+  },
+  {
+    "user_id": 75,
+    "event_type": "logout",
+    "event_timestamp": "2004-07-04 00:00:00",
+    "session_length_sec": 222,
+    "event_properties": {
+      "page_id": "626d719d-81cf-4252-9815-9d6c9d713084",
+      "location": "Carpenterton",
+      "device_info": {
+        "os": "iOS",
+        "browser": "Chrome",
+        "ip_address": "22.6.14.198"
+      }
+    }
+  },
+  {
+    "user_id": 75,
+    "event_type": "login",
+    "event_timestamp": "2007-03-19 00:00:00",
+    "session_length_sec": 316,
+    "event_properties": {
+      "page_id": "80599b93-79c2-42e4-9ae1-a991524f93ff",
+      "location": "North Shannon",
+      "device_info": {
+        "os": "Windows",
+        "browser": "Firefox",
+        "ip_address": "165.126.184.155"
+      }
+    }
+  },
+  {
+    "user_id": 76,
+    "event_type": "page_view",
+    "event_timestamp": "2007-08-06 00:00:00",
+    "session_length_sec": 40,
+    "event_properties": {
+      "page_id": "812a1f9b-1596-4802-b6dd-6257fb7d9f1c",
+      "location": "North John",
+      "device_info": {
+        "os": "Android",
+        "browser": "Safari",
+        "ip_address": "30.15.190.74"
+      }
+    }
+  },
+  {
+    "user_id": 76,
+    "event_type": "page_view",
+    "event_timestamp": "2005-11-05 00:00:00",
+    "session_length_sec": 117,
+    "event_properties": {
+      "page_id": "28a39779-9c1c-4517-85d2-d0a686295b5d",
+      "location": "Nathanport",
+      "device_info": {
+        "os": "Android",
+        "browser": "Safari",
+        "ip_address": "53.167.206.172"
+      }
+    }
+  },
+  {
+    "user_id": 76,
+    "event_type": "logout",
+    "event_timestamp": "2006-11-28 00:00:00",
+    "session_length_sec": 435,
+    "event_properties": {
+      "page_id": "ca0ac6ac-0d67-438e-990f-0c5badcc3daf",
+      "location": "Cameronville",
+      "device_info": {
+        "os": "Android",
+        "browser": "Edge",
+        "ip_address": "3.139.215.124"
+      }
+    }
+  },
+  {
+    "user_id": 77,
+    "event_type": "click",
+    "event_timestamp": "2004-07-30 00:00:00",
+    "session_length_sec": 96,
+    "event_properties": {
+      "page_id": "da003f16-b946-4bcf-8082-cbb948bddb3e",
+      "location": "West Christopher",
+      "device_info": {
+        "os": "Windows",
+        "browser": "IE",
+        "ip_address": "150.99.118.187"
+      }
+    }
+  },
+  {
+    "user_id": 77,
+    "event_type": "click",
+    "event_timestamp": "2006-08-17 00:00:00",
+    "session_length_sec": 859,
+    "event_properties": {
+      "page_id": "b2cf952d-a7f3-43b3-b7ba-f55e4f6b58c8",
+      "location": "Andersonland",
+      "device_info": {
+        "os": "Windows",
+        "browser": "IE",
+        "ip_address": "56.27.131.135"
+      }
+    }
+  },
+  {
+    "user_id": 78,
+    "event_type": "purchase",
+    "event_timestamp": "2006-01-05 00:00:00",
+    "session_length_sec": 315,
+    "event_properties": {
+      "page_id": "d02ce0c1-5417-4a17-8aaa-5bbea4bbf962",
+      "location": "Lake Jacqueline",
+      "device_info": {
+        "os": "Windows",
+        "browser": "Chrome",
+        "ip_address": "200.95.178.34"
+      }
+    }
+  },
+  {
+    "user_id": 78,
+    "event_type": "logout",
+    "event_timestamp": "2005-10-11 00:00:00",
+    "session_length_sec": 13,
+    "event_properties": {
+      "page_id": "822c4d32-6c64-4c15-aba3-01cba561e1e9",
+      "location": "Andrewport",
+      "device_info": {
+        "os": "Windows",
+        "browser": "Firefox",
+        "ip_address": "107.109.85.73"
+      }
+    }
+  },
+  {
+    "user_id": 78,
+    "event_type": "logout",
+    "event_timestamp": "2007-09-27 00:00:00",
+    "session_length_sec": 270,
+    "event_properties": {
+      "page_id": "7c7c404e-c422-403e-b29a-6339577bc55a",
+      "location": "East Zoe",
+      "device_info": {
+        "os": "Windows",
+        "browser": "Edge",
+        "ip_address": "108.187.144.126"
+      }
+    }
+  },
+  {
+    "user_id": 78,
+    "event_type": "logout",
+    "event_timestamp": "2005-01-17 00:00:00",
+    "session_length_sec": 25,
+    "event_properties": {
+      "page_id": "81f7f3fb-19e4-4c6a-89c2-3e69d82c7565",
+      "location": "Lake Matthewberg",
+      "device_info": {
+        "os": "Android",
+        "browser": "Edge",
+        "ip_address": "137.223.70.250"
+      }
+    }
+  },
+  {
+    "user_id": 79,
+    "event_type": "logout",
+    "event_timestamp": "2004-08-29 00:00:00",
+    "session_length_sec": 166,
+    "event_properties": {
+      "page_id": "b15e54f6-d4d3-4795-ae4b-ebc429890880",
+      "location": "Lake Samuel",
+      "device_info": {
+        "os": "Android",
+        "browser": "Safari",
+        "ip_address": "47.51.177.219"
+      }
+    }
+  },
+  {
+    "user_id": 79,
+    "event_type": "logout",
+    "event_timestamp": "2006-01-20 00:00:00",
+    "session_length_sec": 15,
+    "event_properties": {
+      "page_id": "48f1096d-9c4f-4b46-b1b7-01aaf836f571",
+      "location": "Youngbury",
+      "device_info": {
+        "os": "Windows",
+        "browser": "Edge",
+        "ip_address": "62.4.90.0"
+      }
+    }
+  },
+  {
+    "user_id": 79,
+    "event_type": "purchase",
+    "event_timestamp": "2004-11-02 00:00:00",
+    "session_length_sec": 21,
+    "event_properties": {
+      "page_id": "5e2ad32d-31ab-4b56-95c9-fdc7e76adca9",
+      "location": "Murrayport",
+      "device_info": {
+        "os": "Android",
+        "browser": "IE",
+        "ip_address": "189.101.171.97"
+      }
+    }
+  },
+  {
+    "user_id": 80,
+    "event_type": "logout",
+    "event_timestamp": "2006-05-05 00:00:00",
+    "session_length_sec": 156,
+    "event_properties": {
+      "page_id": "331f63fb-d11f-48c0-a97c-a4fff75d599f",
+      "location": "Port John",
+      "device_info": {
+        "os": "Android",
+        "browser": "Edge",
+        "ip_address": "151.193.240.105"
+      }
+    }
+  },
+  {
+    "user_id": 80,
+    "event_type": "purchase",
+    "event_timestamp": "2007-05-12 00:00:00",
+    "session_length_sec": 691,
+    "event_properties": {
+      "page_id": "b61e5fdb-1a43-4206-af2d-dcc48df661da",
+      "location": "West Christopherburgh",
+      "device_info": {
+        "os": "Windows",
+        "browser": "Chrome",
+        "ip_address": "124.150.226.144"
+      }
+    }
+  },
+  {
+    "user_id": 81,
+    "event_type": "click",
+    "event_timestamp": "2004-12-11 00:00:00",
+    "session_length_sec": 875,
+    "event_properties": {
+      "page_id": "f24823ab-177a-4a5f-affe-33b3d4bf7a4b",
+      "location": "Port Shannon",
+      "device_info": {
+        "os": "iOS",
+        "browser": "IE",
+        "ip_address": "33.180.246.228"
+      }
+    }
+  },
+  {
+    "user_id": 82,
+    "event_type": "purchase",
+    "event_timestamp": "2006-05-30 00:00:00",
+    "session_length_sec": 325,
+    "event_properties": {
+      "page_id": "808389c8-657e-41c9-8da2-3e5c6a36af18",
+      "location": "Joeland",
+      "device_info": {
+        "os": "iOS",
+        "browser": "Edge",
+        "ip_address": "33.205.211.33"
+      }
+    }
+  },
+  {
+    "user_id": 82,
+    "event_type": "login",
+    "event_timestamp": "2006-12-29 00:00:00",
+    "session_length_sec": 328,
+    "event_properties": {
+      "page_id": "d6d441cc-195d-42f8-ae4a-9b5d519554e3",
+      "location": "Laceyberg",
+      "device_info": {
+        "os": "Android",
+        "browser": "IE",
+        "ip_address": "94.60.179.154"
+      }
+    }
+  },
+  {
+    "user_id": 82,
+    "event_type": "click",
+    "event_timestamp": "2006-05-12 00:00:00",
+    "session_length_sec": 314,
+    "event_properties": {
+      "page_id": "c24369e7-2387-4af6-94c3-a832b231c60b",
+      "location": "Westtown",
+      "device_info": {
+        "os": "Windows",
+        "browser": "Safari",
+        "ip_address": "208.155.174.10"
+      }
+    }
+  },
+  {
+    "user_id": 83,
+    "event_type": "page_view",
+    "event_timestamp": "2006-11-02 00:00:00",
+    "session_length_sec": 106,
+    "event_properties": {
+      "page_id": "2646eaf9-d5c0-444d-b735-262d41843b03",
+      "location": "Rodriguezport",
+      "device_info": {
+        "os": "iOS",
+        "browser": "Chrome",
+        "ip_address": "113.243.23.64"
+      }
+    }
+  },
+  {
+    "user_id": 83,
+    "event_type": "click",
+    "event_timestamp": "2006-08-24 00:00:00",
+    "session_length_sec": 88,
+    "event_properties": {
+      "page_id": "a3925731-6b79-4fcc-bd0a-5f0c0c394ec7",
+      "location": "Brownfort",
+      "device_info": {
+        "os": "Android",
+        "browser": "IE",
+        "ip_address": "129.13.70.217"
+      }
+    }
+  },
+  {
+    "user_id": 83,
+    "event_type": "click",
+    "event_timestamp": "2005-03-08 00:00:00",
+    "session_length_sec": 250,
+    "event_properties": {
+      "page_id": "3defa849-9336-4f7e-83ef-a9f3a1c7cc8a",
+      "location": "West Ruben",
+      "device_info": {
+        "os": "Windows",
+        "browser": "IE",
+        "ip_address": "143.101.103.143"
+      }
+    }
+  },
+  {
+    "user_id": 83,
+    "event_type": "login",
+    "event_timestamp": "2005-05-22 00:00:00",
+    "session_length_sec": 145,
+    "event_properties": {
+      "page_id": "aa143cd8-2ff3-4de4-aaa4-2c9f92170475",
+      "location": "New Theresaland",
+      "device_info": {
+        "os": "Android",
+        "browser": "IE",
+        "ip_address": "200.20.210.132"
+      }
+    }
+  },
+  {
+    "user_id": 84,
+    "event_type": "page_view",
+    "event_timestamp": "2005-11-20 00:00:00",
+    "session_length_sec": 82,
+    "event_properties": {
+      "page_id": "0b251279-785a-45d0-9f92-a62163f4c69d",
+      "location": "Zavalaview",
+      "device_info": {
+        "os": "iOS",
+        "browser": "Chrome",
+        "ip_address": "187.109.80.32"
+      }
+    }
+  },
+  {
+    "user_id": 85,
+    "event_type": "page_view",
+    "event_timestamp": "2007-01-26 00:00:00",
+    "session_length_sec": 531,
+    "event_properties": {
+      "page_id": "3dba6da8-5844-49fc-914b-9547c9dc72b8",
+      "location": "Port Bonniemouth",
+      "device_info": {
+        "os": "Android",
+        "browser": "Safari",
+        "ip_address": "86.140.17.74"
+      }
+    }
+  },
+  {
+    "user_id": 85,
+    "event_type": "logout",
+    "event_timestamp": "2004-08-23 00:00:00",
+    "session_length_sec": 20,
+    "event_properties": {
+      "page_id": "a48e40f1-d042-4dfa-96ab-087a8bc78e81",
+      "location": "Port Kimberly",
+      "device_info": {
+        "os": "Android",
+        "browser": "Safari",
+        "ip_address": "31.80.32.155"
+      }
+    }
+  },
+  {
+    "user_id": 85,
+    "event_type": "logout",
+    "event_timestamp": "2005-01-09 00:00:00",
+    "session_length_sec": 194,
+    "event_properties": {
+      "page_id": "2285b2ef-cfbe-4fe9-aea9-c542a1b970d0",
+      "location": "Lake Kimberlymouth",
+      "device_info": {
+        "os": "Windows",
+        "browser": "Chrome",
+        "ip_address": "76.230.221.234"
+      }
+    }
+  },
+  {
+    "user_id": 85,
+    "event_type": "purchase",
+    "event_timestamp": "2006-06-06 00:00:00",
+    "session_length_sec": 588,
+    "event_properties": {
+      "page_id": "e2c328aa-3310-4475-8a86-22250b36e356",
+      "location": "West Sarahhaven",
+      "device_info": {
+        "os": "Windows",
+        "browser": "Safari",
+        "ip_address": "62.76.46.136"
+      }
+    }
+  },
+  {
+    "user_id": 86,
+    "event_type": "click",
+    "event_timestamp": "2004-11-08 00:00:00",
+    "session_length_sec": 41,
+    "event_properties": {
+      "page_id": "a59b457f-c0d7-4c73-895f-fa8140d92bce",
+      "location": "West Michael",
+      "device_info": {
+        "os": "iOS",
+        "browser": "Edge",
+        "ip_address": "186.159.32.133"
+      }
+    }
+  },
+  {
+    "user_id": 87,
+    "event_type": "purchase",
+    "event_timestamp": "2005-01-28 00:00:00",
+    "session_length_sec": 89,
+    "event_properties": {
+      "page_id": "5e368127-cca1-445c-9fdd-980a45f18619",
+      "location": "Prestonmouth",
+      "device_info": {
+        "os": "iOS",
+        "browser": "Edge",
+        "ip_address": "220.95.100.218"
+      }
+    }
+  },
+  {
+    "user_id": 87,
+    "event_type": "page_view",
+    "event_timestamp": "2005-02-28 00:00:00",
+    "session_length_sec": 393,
+    "event_properties": {
+      "page_id": "7f072cb9-2fd3-40c0-b945-f2fd56cb1ab0",
+      "location": "Richardsonhaven",
+      "device_info": {
+        "os": "Windows",
+        "browser": "Safari",
+        "ip_address": "120.169.48.56"
+      }
+    }
+  },
+  {
+    "user_id": 87,
+    "event_type": "purchase",
+    "event_timestamp": "2006-04-14 00:00:00",
+    "session_length_sec": 7,
+    "event_properties": {
+      "page_id": "6e3c4532-1434-4f62-acac-028cba220065",
+      "location": "New Kelly",
+      "device_info": {
+        "os": "Android",
+        "browser": "Edge",
+        "ip_address": "84.252.163.196"
+      }
+    }
+  },
+  {
+    "user_id": 87,
+    "event_type": "purchase",
+    "event_timestamp": "2004-08-21 00:00:00",
+    "session_length_sec": 477,
+    "event_properties": {
+      "page_id": "7227890e-4e76-433a-8baf-0f5ea9320094",
+      "location": "Jacksonmouth",
+      "device_info": {
+        "os": "iOS",
+        "browser": "Safari",
+        "ip_address": "34.181.242.104"
+      }
+    }
+  },
+  {
+    "user_id": 88,
+    "event_type": "page_view",
+    "event_timestamp": "2006-11-05 00:00:00",
+    "session_length_sec": 195,
+    "event_properties": {
+      "page_id": "5a4153b3-e95f-476c-9eba-c186ba108217",
+      "location": "Hillton",
+      "device_info": {
+        "os": "iOS",
+        "browser": "IE",
+        "ip_address": "89.255.89.49"
+      }
+    }
+  },
+  {
+    "user_id": 88,
+    "event_type": "login",
+    "event_timestamp": "2007-01-10 00:00:00",
+    "session_length_sec": 26,
+    "event_properties": {
+      "page_id": "bff9507d-cd14-403e-8359-9af65d01f55f",
+      "location": "North Douglas",
+      "device_info": {
+        "os": "iOS",
+        "browser": "Safari",
+        "ip_address": "156.11.6.8"
+      }
+    }
+  },
+  {
+    "user_id": 88,
+    "event_type": "page_view",
+    "event_timestamp": "2006-08-19 00:00:00",
+    "session_length_sec": 304,
+    "event_properties": {
+      "page_id": "3c6a3174-1136-44a5-a050-9c6208e895d7",
+      "location": "Michaelshire",
+      "device_info": {
+        "os": "iOS",
+        "browser": "Safari",
+        "ip_address": "73.209.238.79"
+      }
+    }
+  },
+  {
+    "user_id": 88,
+    "event_type": "logout",
+    "event_timestamp": "2006-09-14 00:00:00",
+    "session_length_sec": 206,
+    "event_properties": {
+      "page_id": "5ef787b8-f2e6-495f-b32e-2016add702c9",
+      "location": "Scottland",
+      "device_info": {
+        "os": "Android",
+        "browser": "Edge",
+        "ip_address": "151.124.27.163"
+      }
+    }
+  },
+  {
+    "user_id": 89,
+    "event_type": "page_view",
+    "event_timestamp": "2005-05-24 00:00:00",
+    "session_length_sec": 43,
+    "event_properties": {
+      "page_id": "4758367b-a649-4cdc-907b-907265e58f34",
+      "location": "North Anthony",
+      "device_info": {
+        "os": "iOS",
+        "browser": "Safari",
+        "ip_address": "99.24.140.214"
+      }
+    }
+  },
+  {
+    "user_id": 89,
+    "event_type": "purchase",
+    "event_timestamp": "2005-06-24 00:00:00",
+    "session_length_sec": 1702,
+    "event_properties": {
+      "page_id": "4303cbc1-1e25-45b8-8fc9-c86be9ddebf5",
+      "location": "Janeborough",
+      "device_info": {
+        "os": "Android",
+        "browser": "Edge",
+        "ip_address": "198.201.27.144"
+      }
+    }
+  },
+  {
+    "user_id": 90,
+    "event_type": "purchase",
+    "event_timestamp": "2004-08-15 00:00:00",
+    "session_length_sec": 113,
+    "event_properties": {
+      "page_id": "7dbf4bc1-ffa6-43d0-aa9e-5c8db1a8b71f",
+      "location": "North Derek",
+      "device_info": {
+        "os": "Windows",
+        "browser": "IE",
+        "ip_address": "75.12.205.67"
+      }
+    }
+  },
+  {
+    "user_id": 90,
+    "event_type": "purchase",
+    "event_timestamp": "2006-02-21 00:00:00",
+    "session_length_sec": 363,
+    "event_properties": {
+      "page_id": "ff4c96d6-71f2-4e8f-b69f-68c3e60fd420",
+      "location": "Port Evelynmouth",
+      "device_info": {
+        "os": "Windows",
+        "browser": "Edge",
+        "ip_address": "132.39.246.59"
+      }
+    }
+  },
+  {
+    "user_id": 90,
+    "event_type": "page_view",
+    "event_timestamp": "2005-03-17 00:00:00",
+    "session_length_sec": 800,
+    "event_properties": {
+      "page_id": "e42e5037-4a55-4ea0-8acb-be098ccc9cea",
+      "location": "Melissaburgh",
+      "device_info": {
+        "os": "iOS",
+        "browser": "Firefox",
+        "ip_address": "163.150.126.96"
+      }
+    }
+  },
+  {
+    "user_id": 91,
+    "event_type": "logout",
+    "event_timestamp": "2005-09-02 00:00:00",
+    "session_length_sec": 263,
+    "event_properties": {
+      "page_id": "cac4d0eb-3373-430e-bc31-a5971f119c0f",
+      "location": "East Kristy",
+      "device_info": {
+        "os": "iOS",
+        "browser": "Chrome",
+        "ip_address": "87.156.61.151"
+      }
+    }
+  },
+  {
+    "user_id": 91,
+    "event_type": "login",
+    "event_timestamp": "2005-12-20 00:00:00",
+    "session_length_sec": 19,
+    "event_properties": {
+      "page_id": "8d38bbd8-fba6-4bf7-8dbc-c65377a7e8b7",
+      "location": "New Nicole",
+      "device_info": {
+        "os": "iOS",
+        "browser": "Chrome",
+        "ip_address": "89.123.115.248"
+      }
+    }
+  },
+  {
+    "user_id": 91,
+    "event_type": "page_view",
+    "event_timestamp": "2007-10-01 00:00:00",
+    "session_length_sec": 321,
+    "event_properties": {
+      "page_id": "7a89cbeb-b807-478a-b788-f5d1ffe575f6",
+      "location": "Hammondshire",
+      "device_info": {
+        "os": "Windows",
+        "browser": "Safari",
+        "ip_address": "84.74.46.108"
+      }
+    }
+  },
+  {
+    "user_id": 92,
+    "event_type": "purchase",
+    "event_timestamp": "2005-11-12 00:00:00",
+    "session_length_sec": 618,
+    "event_properties": {
+      "page_id": "7740d831-7331-4749-92fc-7a87a4704d48",
+      "location": "Davidside",
+      "device_info": {
+        "os": "Android",
+        "browser": "Chrome",
+        "ip_address": "139.165.72.181"
+      }
+    }
+  },
+  {
+    "user_id": 92,
+    "event_type": "logout",
+    "event_timestamp": "2007-02-02 00:00:00",
+    "session_length_sec": 285,
+    "event_properties": {
+      "page_id": "6ec01269-2108-4dd9-b75d-1e3cc48d5650",
+      "location": "Port Davidberg",
+      "device_info": {
+        "os": "Windows",
+        "browser": "Edge",
+        "ip_address": "42.93.170.172"
+      }
+    }
+  },
+  {
+    "user_id": 92,
+    "event_type": "login",
+    "event_timestamp": "2005-11-18 00:00:00",
+    "session_length_sec": 846,
+    "event_properties": {
+      "page_id": "39b86bb2-b596-4a7c-af4a-fa885299e505",
+      "location": "Staceyhaven",
+      "device_info": {
+        "os": "Android",
+        "browser": "Chrome",
+        "ip_address": "210.134.5.53"
+      }
+    }
+  },
+  {
+    "user_id": 92,
+    "event_type": "login",
+    "event_timestamp": "2007-04-05 00:00:00",
+    "session_length_sec": 59,
+    "event_properties": {
+      "page_id": "f4d375c1-a293-49fa-b240-d7a14027ab7d",
+      "location": "Davidport",
+      "device_info": {
+        "os": "Windows",
+        "browser": "IE",
+        "ip_address": "133.250.187.32"
+      }
+    }
+  },
+  {
+    "user_id": 93,
+    "event_type": "page_view",
+    "event_timestamp": "2006-07-12 00:00:00",
+    "session_length_sec": 123,
+    "event_properties": {
+      "page_id": "9780c215-2b2b-48e9-a417-c09380a8a23d",
+      "location": "East Donna",
+      "device_info": {
+        "os": "Windows",
+        "browser": "Edge",
+        "ip_address": "186.205.199.151"
+      }
+    }
+  },
+  {
+    "user_id": 93,
+    "event_type": "click",
+    "event_timestamp": "2007-02-04 00:00:00",
+    "session_length_sec": 53,
+    "event_properties": {
+      "page_id": "0a8bb5b4-9049-4583-ac86-a890d7b00bdc",
+      "location": "North Brandonshire",
+      "device_info": {
+        "os": "Windows",
+        "browser": "Edge",
+        "ip_address": "121.175.188.77"
+      }
+    }
+  },
+  {
+    "user_id": 94,
+    "event_type": "logout",
+    "event_timestamp": "2005-11-14 00:00:00",
+    "session_length_sec": 72,
+    "event_properties": {
+      "page_id": "9e3c5a88-6aa5-4e6d-9277-9574c4576cc3",
+      "location": "South Pamelaside",
+      "device_info": {
+        "os": "iOS",
+        "browser": "Firefox",
+        "ip_address": "51.85.130.143"
+      }
+    }
+  },
+  {
+    "user_id": 94,
+    "event_type": "purchase",
+    "event_timestamp": "2005-09-30 00:00:00",
+    "session_length_sec": 258,
+    "event_properties": {
+      "page_id": "ceae71cf-ce00-4af0-beb0-51817ba24588",
+      "location": "Evansland",
+      "device_info": {
+        "os": "Windows",
+        "browser": "Safari",
+        "ip_address": "138.29.253.118"
+      }
+    }
+  },
+  {
+    "user_id": 94,
+    "event_type": "logout",
+    "event_timestamp": "2005-04-18 00:00:00",
+    "session_length_sec": 226,
+    "event_properties": {
+      "page_id": "76e5ae78-7bf7-41d3-aa66-2fce7089fc6d",
+      "location": "West Catherine",
+      "device_info": {
+        "os": "iOS",
+        "browser": "Safari",
+        "ip_address": "52.111.174.3"
+      }
+    }
+  },
+  {
+    "user_id": 95,
+    "event_type": "logout",
+    "event_timestamp": "2005-07-12 00:00:00",
+    "session_length_sec": 56,
+    "event_properties": {
+      "page_id": "586a346a-dc5b-47d1-bcef-1972bbf483ce",
+      "location": "Andersonstad",
+      "device_info": {
+        "os": "Windows",
+        "browser": "Safari",
+        "ip_address": "9.178.237.237"
+      }
+    }
+  },
+  {
+    "user_id": 95,
+    "event_type": "page_view",
+    "event_timestamp": "2006-01-10 00:00:00",
+    "session_length_sec": 170,
+    "event_properties": {
+      "page_id": "1f5d988f-776a-4f09-bde2-885951b1943c",
+      "location": "Shannonberg",
+      "device_info": {
+        "os": "Windows",
+        "browser": "Chrome",
+        "ip_address": "82.146.213.88"
+      }
+    }
+  },
+  {
+    "user_id": 95,
+    "event_type": "logout",
+    "event_timestamp": "2005-04-30 00:00:00",
+    "session_length_sec": 190,
+    "event_properties": {
+      "page_id": "9d896047-dd39-4793-a257-a4a2f204be89",
+      "location": "Wrightburgh",
+      "device_info": {
+        "os": "Windows",
+        "browser": "Edge",
+        "ip_address": "165.0.225.92"
+      }
+    }
+  },
+  {
+    "user_id": 95,
+    "event_type": "page_view",
+    "event_timestamp": "2005-12-24 00:00:00",
+    "session_length_sec": 470,
+    "event_properties": {
+      "page_id": "7f8e5483-28ca-4a1d-835b-ec2c3098f7b2",
+      "location": "Jimenezport",
+      "device_info": {
+        "os": "Android",
+        "browser": "Edge",
+        "ip_address": "18.225.174.160"
+      }
+    }
+  },
+  {
+    "user_id": 96,
+    "event_type": "purchase",
+    "event_timestamp": "2007-07-19 00:00:00",
+    "session_length_sec": 65,
+    "event_properties": {
+      "page_id": "750d112e-8164-4eec-a4ab-851bf1fac6e7",
+      "location": "East Brandy",
+      "device_info": {
+        "os": "Windows",
+        "browser": "Chrome",
+        "ip_address": "82.1.190.1"
+      }
+    }
+  },
+  {
+    "user_id": 96,
+    "event_type": "logout",
+    "event_timestamp": "2005-07-18 00:00:00",
+    "session_length_sec": 1320,
+    "event_properties": {
+      "page_id": "d7c4fe9c-e1e0-4ffc-98f6-fd7f7eb162f1",
+      "location": "Mitchelltown",
+      "device_info": {
+        "os": "Android",
+        "browser": "IE",
+        "ip_address": "168.220.162.144"
+      }
+    }
+  },
+  {
+    "user_id": 97,
+    "event_type": "click",
+    "event_timestamp": "2006-02-02 00:00:00",
+    "session_length_sec": 12,
+    "event_properties": {
+      "page_id": "ba3df7ff-43b4-4ee5-a1e8-9e7e22498f66",
+      "location": "Kathrynstad",
+      "device_info": {
+        "os": "Android",
+        "browser": "Safari",
+        "ip_address": "67.70.42.229"
+      }
+    }
+  },
+  {
+    "user_id": 97,
+    "event_type": "logout",
+    "event_timestamp": "2007-07-30 00:00:00",
+    "session_length_sec": 260,
+    "event_properties": {
+      "page_id": "5cce5ba9-31d4-4e09-8fd3-3afc91fdfa4f",
+      "location": "Charleshaven",
+      "device_info": {
+        "os": "Windows",
+        "browser": "Chrome",
+        "ip_address": "24.243.120.198"
+      }
+    }
+  },
+  {
+    "user_id": 98,
+    "event_type": "logout",
+    "event_timestamp": "2004-08-02 00:00:00",
+    "session_length_sec": 497,
+    "event_properties": {
+      "page_id": "ae2e9af9-9f8c-429f-bd35-0c5fd3479a3b",
+      "location": "East Theresafurt",
+      "device_info": {
+        "os": "Android",
+        "browser": "Safari",
+        "ip_address": "53.179.146.208"
+      }
+    }
+  },
+  {
+    "user_id": 98,
+    "event_type": "purchase",
+    "event_timestamp": "2006-12-22 00:00:00",
+    "session_length_sec": 3,
+    "event_properties": {
+      "page_id": "c14565c7-5d98-4115-b05e-eefe8ece1128",
+      "location": "East Carrie",
+      "device_info": {
+        "os": "Windows",
+        "browser": "Chrome",
+        "ip_address": "34.147.137.84"
+      }
+    }
+  },
+  {
+    "user_id": 99,
+    "event_type": "logout",
+    "event_timestamp": "2007-08-15 00:00:00",
+    "session_length_sec": 309,
+    "event_properties": {
+      "page_id": "b6adf48b-2314-40c8-89f6-44050b990034",
+      "location": "Lindahaven",
+      "device_info": {
+        "os": "Windows",
+        "browser": "Edge",
+        "ip_address": "20.121.21.251"
+      }
+    }
+  },
+  {
+    "user_id": 99,
+    "event_type": "page_view",
+    "event_timestamp": "2005-03-31 00:00:00",
+    "session_length_sec": 62,
+    "event_properties": {
+      "page_id": "518b2f21-9cf2-4859-ae6e-2e7253f591dc",
+      "location": "South Vicki",
+      "device_info": {
+        "os": "Android",
+        "browser": "Edge",
+        "ip_address": "185.147.83.228"
+      }
+    }
+  },
+  {
+    "user_id": 99,
+    "event_type": "purchase",
+    "event_timestamp": "2005-08-26 00:00:00",
+    "session_length_sec": 707,
+    "event_properties": {
+      "page_id": "d40ac5e9-81df-4517-961c-921097fe56c5",
+      "location": "Ericksonport",
+      "device_info": {
+        "os": "iOS",
+        "browser": "Firefox",
+        "ip_address": "16.136.74.59"
+      }
+    }
+  },
+  {
+    "user_id": 100,
+    "event_type": "page_view",
+    "event_timestamp": "2006-01-31 00:00:00",
+    "session_length_sec": 266,
+    "event_properties": {
+      "page_id": "1c0f0bdc-ac7e-437c-94cc-1e2a5e4cb287",
+      "location": "Silvatown",
+      "device_info": {
+        "os": "Windows",
+        "browser": "Firefox",
+        "ip_address": "144.254.115.90"
+      }
+    }
+  },
+  {
+    "user_id": 100,
+    "event_type": "logout",
+    "event_timestamp": "2006-02-25 00:00:00",
+    "session_length_sec": 524,
+    "event_properties": {
+      "page_id": "f8d8b7f1-c86c-4544-a7d4-cf50f791f1e5",
+      "location": "Lake Brett",
+      "device_info": {
+        "os": "Android",
+        "browser": "Firefox",
+        "ip_address": "28.42.132.236"
+      }
+    }
+  },
+  {
+    "user_id": 100,
+    "event_type": "login",
+    "event_timestamp": "2007-05-15 00:00:00",
+    "session_length_sec": 4,
+    "event_properties": {
+      "page_id": "3e00980e-ae44-4e21-9258-64f225d4a0fc",
+      "location": "New Stacyville",
+      "device_info": {
+        "os": "iOS",
+        "browser": "Edge",
+        "ip_address": "99.135.63.58"
+      }
+    }
+  }
+]

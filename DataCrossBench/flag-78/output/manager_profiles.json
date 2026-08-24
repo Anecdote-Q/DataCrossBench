@@ -1,0 +1,897 @@
+[
+  {
+    "manager_name": "张洁",
+    "experience_years": 8,
+    "education": "MBA",
+    "rating": 3.96,
+    "recent_funds_managed": [
+      "华商转债精选系列6",
+      "华商丰利增强系列19",
+      "华商转债精选系列24",
+      "华商转债精选系列1"
+    ],
+    "investment_style": {
+      "risk_preference": "成长",
+      "favorite_industries": [
+        "金融",
+        "制造"
+      ],
+      "notes": "一点还是为什有关因此因此活动人员同时当前行业."
+    }
+  },
+  {
+    "manager_name": "杨丹丹",
+    "experience_years": 7,
+    "education": "本科",
+    "rating": 4.55,
+    "recent_funds_managed": [],
+    "investment_style": {
+      "risk_preference": "激进",
+      "favorite_industries": [
+        "金融",
+        "科技"
+      ],
+      "notes": "方法注册支持网络以上两个大家如此显示."
+    }
+  },
+  {
+    "manager_name": "赵金凤",
+    "experience_years": 13,
+    "education": "硕士",
+    "rating": 4.63,
+    "recent_funds_managed": [
+      "华商转债精选系列13",
+      "华商丰利增强系列25"
+    ],
+    "investment_style": {
+      "risk_preference": "平衡",
+      "favorite_industries": [
+        "科技",
+        "医药"
+      ],
+      "notes": "更新生产服务图片工程所有."
+    }
+  },
+  {
+    "manager_name": "李婷",
+    "experience_years": 11,
+    "education": "硕士",
+    "rating": 4.03,
+    "recent_funds_managed": [
+      "华商转债精选系列4",
+      "华商丰利增强系列20",
+      "华商转债精选系列11"
+    ],
+    "investment_style": {
+      "risk_preference": "激进",
+      "favorite_industries": [
+        "医药",
+        "金融"
+      ],
+      "notes": "非常工具处理参加什么其实登录计划介绍解决."
+    }
+  },
+  {
+    "manager_name": "谭宇",
+    "experience_years": 12,
+    "education": "博士",
+    "rating": 3.56,
+    "recent_funds_managed": [
+      "华商丰利增强系列13",
+      "华商景气行业系列14",
+      "华商丰利增强系列9",
+      "华商景气行业系列10"
+    ],
+    "investment_style": {
+      "risk_preference": "平衡",
+      "favorite_industries": [
+        "科技",
+        "医药"
+      ],
+      "notes": "学校提高位置发现音乐现在说明学校研究论坛."
+    }
+  },
+  {
+    "manager_name": "施海燕",
+    "experience_years": 15,
+    "education": "硕士",
+    "rating": 4.45,
+    "recent_funds_managed": [
+      "华商稳健成长系列24",
+      "华商稳健成长系列11"
+    ],
+    "investment_style": {
+      "risk_preference": "成长",
+      "favorite_industries": [
+        "金融",
+        "医药"
+      ],
+      "notes": "过程以下只有社会是一."
+    }
+  },
+  {
+    "manager_name": "姚峰",
+    "experience_years": 6,
+    "education": "其他",
+    "rating": 3.99,
+    "recent_funds_managed": [
+      "华商稳健成长系列20"
+    ],
+    "investment_style": {
+      "risk_preference": "平衡",
+      "favorite_industries": [
+        "医药",
+        "消费"
+      ],
+      "notes": "为什可是不会什么全部一次."
+    }
+  },
+  {
+    "manager_name": "张伟",
+    "experience_years": 9,
+    "education": "硕士",
+    "rating": 3.82,
+    "recent_funds_managed": [
+      "华商景气行业系列24",
+      "华商景气行业系列21"
+    ],
+    "investment_style": {
+      "risk_preference": "激进",
+      "favorite_industries": [
+        "制造",
+        "消费"
+      ],
+      "notes": "部门销售网络不会次数成功他的很多政府不同深圳."
+    }
+  },
+  {
+    "manager_name": "边秀兰",
+    "experience_years": 7,
+    "education": "其他",
+    "rating": 3.27,
+    "recent_funds_managed": [
+      "华商转债精选系列15"
+    ],
+    "investment_style": {
+      "risk_preference": "激进",
+      "favorite_industries": [
+        "制造",
+        "金融"
+      ],
+      "notes": "主题任何显示开始帖子."
+    }
+  },
+  {
+    "manager_name": "唐桂芳",
+    "experience_years": 8,
+    "education": "其他",
+    "rating": 5.0,
+    "recent_funds_managed": [
+      "华商稳健成长系列6",
+      "华商转债精选系列8"
+    ],
+    "investment_style": {
+      "risk_preference": "稳健",
+      "favorite_industries": [
+        "医药",
+        "金融"
+      ],
+      "notes": "电话必须加入操作国家开发时间电影精华."
+    }
+  },
+  {
+    "manager_name": "李桂花",
+    "experience_years": 10,
+    "education": "本科",
+    "rating": 4.37,
+    "recent_funds_managed": [
+      "华商丰利增强系列10",
+      "华商丰利增强系列17"
+    ],
+    "investment_style": {
+      "risk_preference": "稳健",
+      "favorite_industries": [
+        "金融",
+        "科技"
+      ],
+      "notes": "系统网站人员能够主要直接日本只是因为我们."
+    }
+  },
+  {
+    "manager_name": "蒋玉珍",
+    "experience_years": 8,
+    "education": "硕士",
+    "rating": 4.42,
+    "recent_funds_managed": [
+      "华商景气行业系列0",
+      "华商转债精选系列3",
+      "华商丰利增强系列14",
+      "华商景气行业系列7"
+    ],
+    "investment_style": {
+      "risk_preference": "激进",
+      "favorite_industries": [
+        "医药",
+        "金融"
+      ],
+      "notes": "经济准备最后日期次数."
+    }
+  },
+  {
+    "manager_name": "鞠建",
+    "experience_years": 7,
+    "education": "本科",
+    "rating": 3.57,
+    "recent_funds_managed": [
+      "华商景气行业系列16",
+      "华商丰利增强系列29",
+      "华商稳健成长系列2"
+    ],
+    "investment_style": {
+      "risk_preference": "平衡",
+      "favorite_industries": [
+        "制造",
+        "科技"
+      ],
+      "notes": "活动女人标题孩子上海当前成功."
+    }
+  },
+  {
+    "manager_name": "李强",
+    "experience_years": 8,
+    "education": "其他",
+    "rating": 4.04,
+    "recent_funds_managed": [
+      "华商丰利增强系列1"
+    ],
+    "investment_style": {
+      "risk_preference": "激进",
+      "favorite_industries": [
+        "制造",
+        "消费"
+      ],
+      "notes": "次数次数过程积分自己能力上海如何一个设备企业."
+    }
+  },
+  {
+    "manager_name": "赵波",
+    "experience_years": 8,
+    "education": "硕士",
+    "rating": 3.96,
+    "recent_funds_managed": [
+      "华商稳健成长系列5",
+      "华商景气行业系列4"
+    ],
+    "investment_style": {
+      "risk_preference": "平衡",
+      "favorite_industries": [
+        "医药",
+        "消费"
+      ],
+      "notes": "合作最大发布生产时间欢迎本站你们作为回复威望."
+    }
+  },
+  {
+    "manager_name": "朱秀梅",
+    "experience_years": 4,
+    "education": "硕士",
+    "rating": 4.39,
+    "recent_funds_managed": [
+      "华商稳健成长系列2",
+      "华商转债精选系列9"
+    ],
+    "investment_style": {
+      "risk_preference": "稳健",
+      "favorite_industries": [
+        "消费",
+        "医药"
+      ],
+      "notes": "关系一样一些主题国内我的孩子时间个人."
+    }
+  },
+  {
+    "manager_name": "张勇",
+    "experience_years": 7,
+    "education": "本科",
+    "rating": 4.68,
+    "recent_funds_managed": [
+      "华商转债精选系列12",
+      "华商丰利增强系列22"
+    ],
+    "investment_style": {
+      "risk_preference": "激进",
+      "favorite_industries": [
+        "消费",
+        "科技"
+      ],
+      "notes": "这里安全免费两个上海记者业务."
+    }
+  },
+  {
+    "manager_name": "谢凯",
+    "experience_years": 10,
+    "education": "本科",
+    "rating": 3.28,
+    "recent_funds_managed": [],
+    "investment_style": {
+      "risk_preference": "激进",
+      "favorite_industries": [
+        "消费",
+        "制造"
+      ],
+      "notes": "怎么出来文章喜欢在线地方."
+    }
+  },
+  {
+    "manager_name": "张伟",
+    "experience_years": 11,
+    "education": "其他",
+    "rating": 3.46,
+    "recent_funds_managed": [
+      "华商稳健成长系列1",
+      "华商稳健成长系列28",
+      "华商稳健成长系列5"
+    ],
+    "investment_style": {
+      "risk_preference": "平衡",
+      "favorite_industries": [
+        "医药",
+        "制造"
+      ],
+      "notes": "显示大家一些留言投资之后以上下载为什两个."
+    }
+  },
+  {
+    "manager_name": "谢文",
+    "experience_years": 7,
+    "education": "其他",
+    "rating": 4.32,
+    "recent_funds_managed": [
+      "华商转债精选系列10",
+      "华商景气行业系列18"
+    ],
+    "investment_style": {
+      "risk_preference": "稳健",
+      "favorite_industries": [
+        "科技",
+        "制造"
+      ],
+      "notes": "一点一次成为自己那个."
+    }
+  },
+  {
+    "manager_name": "管浩",
+    "experience_years": 10,
+    "education": "硕士",
+    "rating": 3.75,
+    "recent_funds_managed": [
+      "华商景气行业系列0",
+      "华商稳健成长系列22",
+      "华商稳健成长系列23",
+      "华商转债精选系列17",
+      "华商丰利增强系列8"
+    ],
+    "investment_style": {
+      "risk_preference": "平衡",
+      "favorite_industries": [
+        "消费",
+        "科技"
+      ],
+      "notes": "地区应该以下国际根据电子能够学习作者."
+    }
+  },
+  {
+    "manager_name": "孙瑞",
+    "experience_years": 9,
+    "education": "硕士",
+    "rating": 4.41,
+    "recent_funds_managed": [
+      "华商丰利增强系列7"
+    ],
+    "investment_style": {
+      "risk_preference": "稳健",
+      "favorite_industries": [
+        "消费",
+        "制造"
+      ],
+      "notes": "游戏必须资料不断功能处理目前."
+    }
+  },
+  {
+    "manager_name": "杨杨",
+    "experience_years": 8,
+    "education": "MBA",
+    "rating": 3.81,
+    "recent_funds_managed": [
+      "华商稳健成长系列21",
+      "华商丰利增强系列12",
+      "华商转债精选系列6"
+    ],
+    "investment_style": {
+      "risk_preference": "成长",
+      "favorite_industries": [
+        "消费",
+        "金融"
+      ],
+      "notes": "他的产品中心的人系列威望."
+    }
+  },
+  {
+    "manager_name": "葛健",
+    "experience_years": 11,
+    "education": "MBA",
+    "rating": 3.38,
+    "recent_funds_managed": [
+      "华商转债精选系列25",
+      "华商转债精选系列19"
+    ],
+    "investment_style": {
+      "risk_preference": "稳健",
+      "favorite_industries": [
+        "金融",
+        "消费"
+      ],
+      "notes": "出现一个电影结果成为希望两个."
+    }
+  },
+  {
+    "manager_name": "陈兵",
+    "experience_years": 3,
+    "education": "博士",
+    "rating": 3.12,
+    "recent_funds_managed": [
+      "华商转债精选系列4",
+      "华商转债精选系列23"
+    ],
+    "investment_style": {
+      "risk_preference": "激进",
+      "favorite_industries": [
+        "消费",
+        "医药"
+      ],
+      "notes": "发现加入工作手机实现发生."
+    }
+  },
+  {
+    "manager_name": "翟宁",
+    "experience_years": 9,
+    "education": "其他",
+    "rating": 4.24,
+    "recent_funds_managed": [
+      "华商稳健成长系列25",
+      "华商景气行业系列28"
+    ],
+    "investment_style": {
+      "risk_preference": "成长",
+      "favorite_industries": [
+        "金融",
+        "科技"
+      ],
+      "notes": "计划实现一个人员免费威望发现资源网上国内."
+    }
+  },
+  {
+    "manager_name": "张坤",
+    "experience_years": 7,
+    "education": "博士",
+    "rating": 4.25,
+    "recent_funds_managed": [
+      "华商稳健成长系列3"
+    ],
+    "investment_style": {
+      "risk_preference": "稳健",
+      "favorite_industries": [
+        "科技",
+        "金融"
+      ],
+      "notes": "她的什么喜欢到了有关直接."
+    }
+  },
+  {
+    "manager_name": "王龙",
+    "experience_years": 12,
+    "education": "博士",
+    "rating": 4.49,
+    "recent_funds_managed": [
+      "华商景气行业系列3",
+      "华商景气行业系列6",
+      "华商转债精选系列26",
+      "华商丰利增强系列27"
+    ],
+    "investment_style": {
+      "risk_preference": "激进",
+      "favorite_industries": [
+        "医药",
+        "消费"
+      ],
+      "notes": "我的学校科技来自等级今年控制状态."
+    }
+  },
+  {
+    "manager_name": "王海燕",
+    "experience_years": 13,
+    "education": "本科",
+    "rating": 4.16,
+    "recent_funds_managed": [
+      "华商景气行业系列23"
+    ],
+    "investment_style": {
+      "risk_preference": "稳健",
+      "favorite_industries": [
+        "科技",
+        "金融"
+      ],
+      "notes": "人员您的社会比较经验继续."
+    }
+  },
+  {
+    "manager_name": "罗刚",
+    "experience_years": 13,
+    "education": "本科",
+    "rating": 2.12,
+    "recent_funds_managed": [
+      "华商转债精选系列19",
+      "华商景气行业系列9"
+    ],
+    "investment_style": {
+      "risk_preference": "稳健",
+      "favorite_industries": [
+        "金融",
+        "科技"
+      ],
+      "notes": "组织历史还有的是系统以上会员."
+    }
+  },
+  {
+    "manager_name": "王玉梅",
+    "experience_years": 10,
+    "education": "MBA",
+    "rating": 4.25,
+    "recent_funds_managed": [
+      "华商丰利增强系列27"
+    ],
+    "investment_style": {
+      "risk_preference": "稳健",
+      "favorite_industries": [
+        "制造",
+        "科技"
+      ],
+      "notes": "生活作为认为目前投资."
+    }
+  },
+  {
+    "manager_name": "吴秀梅",
+    "experience_years": 9,
+    "education": "博士",
+    "rating": 3.27,
+    "recent_funds_managed": [
+      "华商稳健成长系列16"
+    ],
+    "investment_style": {
+      "risk_preference": "稳健",
+      "favorite_industries": [
+        "消费",
+        "金融"
+      ],
+      "notes": "产品只有网上地址不会相关."
+    }
+  },
+  {
+    "manager_name": "刘欢",
+    "experience_years": 5,
+    "education": "MBA",
+    "rating": 3.07,
+    "recent_funds_managed": [
+      "华商稳健成长系列11",
+      "华商丰利增强系列15",
+      "华商稳健成长系列12",
+      "华商景气行业系列22",
+      "华商丰利增强系列29"
+    ],
+    "investment_style": {
+      "risk_preference": "成长",
+      "favorite_industries": [
+        "制造",
+        "医药"
+      ],
+      "notes": "系列市场设备或者地方应用什么学习还有类别."
+    }
+  },
+  {
+    "manager_name": "许瑞",
+    "experience_years": 13,
+    "education": "其他",
+    "rating": 3.01,
+    "recent_funds_managed": [
+      "华商转债精选系列27",
+      "华商稳健成长系列9"
+    ],
+    "investment_style": {
+      "risk_preference": "平衡",
+      "favorite_industries": [
+        "医药",
+        "科技"
+      ],
+      "notes": "同时一次国际市场成功觉得最后."
+    }
+  },
+  {
+    "manager_name": "韩军",
+    "experience_years": 5,
+    "education": "硕士",
+    "rating": 2.96,
+    "recent_funds_managed": [
+      "华商景气行业系列5"
+    ],
+    "investment_style": {
+      "risk_preference": "激进",
+      "favorite_industries": [
+        "消费",
+        "科技"
+      ],
+      "notes": "没有政府今年还有但是工具使用世界现在."
+    }
+  },
+  {
+    "manager_name": "孙琳",
+    "experience_years": 6,
+    "education": "本科",
+    "rating": 4.14,
+    "recent_funds_managed": [
+      "华商丰利增强系列18"
+    ],
+    "investment_style": {
+      "risk_preference": "稳健",
+      "favorite_industries": [
+        "消费",
+        "制造"
+      ],
+      "notes": "设计公司音乐推荐发展处理可以."
+    }
+  },
+  {
+    "manager_name": "阮婷",
+    "experience_years": 6,
+    "education": "其他",
+    "rating": 3.63,
+    "recent_funds_managed": [
+      "华商稳健成长系列14",
+      "华商景气行业系列1",
+      "华商转债精选系列18"
+    ],
+    "investment_style": {
+      "risk_preference": "成长",
+      "favorite_industries": [
+        "金融",
+        "制造"
+      ],
+      "notes": "留言世界标准准备根据客户."
+    }
+  },
+  {
+    "manager_name": "谢丹丹",
+    "experience_years": 6,
+    "education": "其他",
+    "rating": 3.24,
+    "recent_funds_managed": [
+      "华商转债精选系列29",
+      "华商稳健成长系列3",
+      "华商丰利增强系列2",
+      "华商转债精选系列4"
+    ],
+    "investment_style": {
+      "risk_preference": "稳健",
+      "favorite_industries": [
+        "消费",
+        "制造"
+      ],
+      "notes": "教育不能软件报告运行地方朋友人民时间."
+    }
+  },
+  {
+    "manager_name": "何玉珍",
+    "experience_years": 8,
+    "education": "本科",
+    "rating": 4.01,
+    "recent_funds_managed": [
+      "华商丰利增强系列15",
+      "华商转债精选系列20"
+    ],
+    "investment_style": {
+      "risk_preference": "稳健",
+      "favorite_industries": [
+        "金融",
+        "消费"
+      ],
+      "notes": "只要谢谢研究今天美国状态不断喜欢一点如果出现."
+    }
+  },
+  {
+    "manager_name": "李丽华",
+    "experience_years": 8,
+    "education": "本科",
+    "rating": 3.45,
+    "recent_funds_managed": [
+      "华商丰利增强系列7",
+      "华商转债精选系列26"
+    ],
+    "investment_style": {
+      "risk_preference": "稳健",
+      "favorite_industries": [
+        "消费",
+        "金融"
+      ],
+      "notes": "点击所有责任联系为什其实朋友品牌音乐."
+    }
+  },
+  {
+    "manager_name": "温春梅",
+    "experience_years": 7,
+    "education": "博士",
+    "rating": 4.49,
+    "recent_funds_managed": [
+      "华商丰利增强系列8"
+    ],
+    "investment_style": {
+      "risk_preference": "激进",
+      "favorite_industries": [
+        "消费",
+        "金融"
+      ],
+      "notes": "一般关系只是发现工具."
+    }
+  },
+  {
+    "manager_name": "杨霞",
+    "experience_years": 11,
+    "education": "MBA",
+    "rating": 4.73,
+    "recent_funds_managed": [],
+    "investment_style": {
+      "risk_preference": "稳健",
+      "favorite_industries": [
+        "科技",
+        "制造"
+      ],
+      "notes": "经营最后网站手机不同可以为什查看重要."
+    }
+  },
+  {
+    "manager_name": "郎玉英",
+    "experience_years": 5,
+    "education": "其他",
+    "rating": 3.89,
+    "recent_funds_managed": [
+      "华商稳健成长系列16",
+      "华商丰利增强系列28"
+    ],
+    "investment_style": {
+      "risk_preference": "稳健",
+      "favorite_industries": [
+        "制造",
+        "金融"
+      ],
+      "notes": "主要说明一下不会大小."
+    }
+  },
+  {
+    "manager_name": "杨畅",
+    "experience_years": 9,
+    "education": "博士",
+    "rating": 4.69,
+    "recent_funds_managed": [
+      "华商丰利增强系列17",
+      "华商稳健成长系列0"
+    ],
+    "investment_style": {
+      "risk_preference": "平衡",
+      "favorite_industries": [
+        "医药",
+        "制造"
+      ],
+      "notes": "社会密码下载地址应该或者制作."
+    }
+  },
+  {
+    "manager_name": "吴雷",
+    "experience_years": 8,
+    "education": "博士",
+    "rating": 4.69,
+    "recent_funds_managed": [],
+    "investment_style": {
+      "risk_preference": "成长",
+      "favorite_industries": [
+        "科技",
+        "制造"
+      ],
+      "notes": "结果价格重要设计提高."
+    }
+  },
+  {
+    "manager_name": "朱建国",
+    "experience_years": 7,
+    "education": "其他",
+    "rating": 4.04,
+    "recent_funds_managed": [
+      "华商转债精选系列0"
+    ],
+    "investment_style": {
+      "risk_preference": "平衡",
+      "favorite_industries": [
+        "消费",
+        "金融"
+      ],
+      "notes": "语言事情单位处理现在能够网上."
+    }
+  },
+  {
+    "manager_name": "孟英",
+    "experience_years": 10,
+    "education": "其他",
+    "rating": 4.87,
+    "recent_funds_managed": [
+      "华商丰利增强系列8",
+      "华商稳健成长系列26",
+      "华商丰利增强系列21",
+      "华商稳健成长系列5",
+      "华商稳健成长系列13"
+    ],
+    "investment_style": {
+      "risk_preference": "成长",
+      "favorite_industries": [
+        "制造",
+        "科技"
+      ],
+      "notes": "单位图片她的产品学习看到数据是否空间."
+    }
+  },
+  {
+    "manager_name": "乔涛",
+    "experience_years": 9,
+    "education": "硕士",
+    "rating": 3.69,
+    "recent_funds_managed": [
+      "华商稳健成长系列7"
+    ],
+    "investment_style": {
+      "risk_preference": "稳健",
+      "favorite_industries": [
+        "制造",
+        "消费"
+      ],
+      "notes": "注册留言成为制作浏览地址."
+    }
+  },
+  {
+    "manager_name": "花璐",
+    "experience_years": 13,
+    "education": "MBA",
+    "rating": 3.02,
+    "recent_funds_managed": [],
+    "investment_style": {
+      "risk_preference": "稳健",
+      "favorite_industries": [
+        "制造",
+        "医药"
+      ],
+      "notes": "标题谢谢历史特别留言不会世界."
+    }
+  },
+  {
+    "manager_name": "刘辉",
+    "experience_years": 12,
+    "education": "其他",
+    "rating": 3.22,
+    "recent_funds_managed": [
+      "华商丰利增强系列2"
+    ],
+    "investment_style": {
+      "risk_preference": "成长",
+      "favorite_industries": [
+        "金融",
+        "消费"
+      ],
+      "notes": "介绍影响无法自己之间过程感觉应用."
+    }
+  }
+]

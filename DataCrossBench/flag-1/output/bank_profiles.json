@@ -1,0 +1,599 @@
+[
+  {
+    "id": 1,
+    "name": "鑫博腾飞信息有限公司",
+    "risk_score": 53.43,
+    "branch_count": 15,
+    "product_tags": [
+      "互联网银行",
+      "理财"
+    ],
+    "active_since": "2007-11-27"
+  },
+  {
+    "id": 2,
+    "name": "创亿网络有限公司",
+    "risk_score": 48.71,
+    "branch_count": 20,
+    "product_tags": [
+      "信用卡",
+      "理财",
+      "区块链支持",
+      "绿色金融产品"
+    ],
+    "active_since": "2013-02-08"
+  },
+  {
+    "id": 3,
+    "name": "襄樊地球村科技有限公司",
+    "risk_score": 73.11,
+    "branch_count": 26,
+    "product_tags": [
+      "互联网银行",
+      "贷款",
+      "信用卡",
+      "区块链支持"
+    ],
+    "active_since": "2014-03-23"
+  },
+  {
+    "id": 4,
+    "name": "戴硕电子科技有限公司",
+    "risk_score": 42.1,
+    "branch_count": 18,
+    "product_tags": [
+      "理财",
+      "绿色金融产品",
+      "保险",
+      "互联网银行"
+    ],
+    "active_since": "2009-12-14"
+  },
+  {
+    "id": 5,
+    "name": "华远软件网络有限公司",
+    "risk_score": 66.46,
+    "branch_count": 21,
+    "product_tags": [
+      "区块链支持",
+      "保险",
+      "绿色金融产品",
+      "互联网银行"
+    ],
+    "active_since": "2019-01-24"
+  },
+  {
+    "id": 6,
+    "name": "艾提科信网络有限公司",
+    "risk_score": 32.42,
+    "branch_count": 20,
+    "product_tags": [
+      "理财",
+      "贷款",
+      "互联网银行",
+      "区块链支持"
+    ],
+    "active_since": "2012-04-28"
+  },
+  {
+    "id": 7,
+    "name": "创亿传媒有限公司",
+    "risk_score": 51.04,
+    "branch_count": 27,
+    "product_tags": [
+      "信用卡",
+      "贷款"
+    ],
+    "active_since": "2009-02-26"
+  },
+  {
+    "id": 8,
+    "name": "超艺网络有限公司",
+    "risk_score": 20.0,
+    "branch_count": 26,
+    "product_tags": [
+      "理财",
+      "互联网银行",
+      "信用卡"
+    ],
+    "active_since": "2014-01-25"
+  },
+  {
+    "id": 9,
+    "name": "数字100信息有限公司",
+    "risk_score": 44.19,
+    "branch_count": 16,
+    "product_tags": [
+      "绿色金融产品",
+      "保险"
+    ],
+    "active_since": "2016-12-04"
+  },
+  {
+    "id": 10,
+    "name": "华远软件信息有限公司",
+    "risk_score": 60.69,
+    "branch_count": 18,
+    "product_tags": [
+      "互联网银行",
+      "绿色金融产品",
+      "贷款",
+      "区块链支持"
+    ],
+    "active_since": "2008-12-29"
+  },
+  {
+    "id": 11,
+    "name": "兰金电子传媒有限公司",
+    "risk_score": 65.14,
+    "branch_count": 15,
+    "product_tags": [
+      "绿色金融产品",
+      "互联网银行",
+      "信用卡"
+    ],
+    "active_since": "2010-08-27"
+  },
+  {
+    "id": 12,
+    "name": "立信电子信息有限公司",
+    "risk_score": 27.28,
+    "branch_count": 25,
+    "product_tags": [
+      "绿色金融产品"
+    ],
+    "active_since": "2020-11-26"
+  },
+  {
+    "id": 13,
+    "name": "济南亿次元传媒有限公司",
+    "risk_score": 43.42,
+    "branch_count": 19,
+    "product_tags": [
+      "互联网银行",
+      "理财",
+      "保险",
+      "贷款"
+    ],
+    "active_since": "2015-09-23"
+  },
+  {
+    "id": 14,
+    "name": "新格林耐特科技有限公司",
+    "risk_score": 59.17,
+    "branch_count": 22,
+    "product_tags": [
+      "信用卡",
+      "贷款"
+    ],
+    "active_since": "2012-07-19"
+  },
+  {
+    "id": 15,
+    "name": "趋势信息有限公司",
+    "risk_score": 42.81,
+    "branch_count": 19,
+    "product_tags": [
+      "信用卡",
+      "绿色金融产品",
+      "贷款",
+      "保险"
+    ],
+    "active_since": "2013-09-28"
+  },
+  {
+    "id": 16,
+    "name": "凌云科技有限公司",
+    "risk_score": 74.44,
+    "branch_count": 21,
+    "product_tags": [
+      "绿色金融产品"
+    ],
+    "active_since": "2007-10-17"
+  },
+  {
+    "id": 17,
+    "name": "黄石金承科技有限公司",
+    "risk_score": 33.3,
+    "branch_count": 11,
+    "product_tags": [
+      "理财",
+      "区块链支持"
+    ],
+    "active_since": "2009-05-07"
+  },
+  {
+    "id": 18,
+    "name": "晖来计算机传媒有限公司",
+    "risk_score": 56.5,
+    "branch_count": 11,
+    "product_tags": [
+      "绿色金融产品",
+      "区块链支持",
+      "互联网银行"
+    ],
+    "active_since": "2011-01-19"
+  },
+  {
+    "id": 19,
+    "name": "银嘉信息有限公司",
+    "risk_score": 33.67,
+    "branch_count": 10,
+    "product_tags": [
+      "理财",
+      "互联网银行",
+      "绿色金融产品",
+      "区块链支持"
+    ],
+    "active_since": "2014-10-20"
+  },
+  {
+    "id": 20,
+    "name": "中建创业信息有限公司",
+    "risk_score": 90.0,
+    "branch_count": 18,
+    "product_tags": [
+      "绿色金融产品",
+      "贷款"
+    ],
+    "active_since": "2009-06-06"
+  },
+  {
+    "id": 21,
+    "name": "毕博诚科技有限公司",
+    "risk_score": 37.37,
+    "branch_count": 14,
+    "product_tags": [
+      "互联网银行",
+      "信用卡",
+      "绿色金融产品"
+    ],
+    "active_since": "2009-04-13"
+  },
+  {
+    "id": 22,
+    "name": "同兴万点网络有限公司",
+    "risk_score": 30.99,
+    "branch_count": 8,
+    "product_tags": [
+      "信用卡",
+      "区块链支持"
+    ],
+    "active_since": "2007-01-16"
+  },
+  {
+    "id": 23,
+    "name": "巨奥传媒有限公司",
+    "risk_score": 48.78,
+    "branch_count": 26,
+    "product_tags": [
+      "信用卡",
+      "互联网银行",
+      "绿色金融产品"
+    ],
+    "active_since": "2015-06-12"
+  },
+  {
+    "id": 24,
+    "name": "维涛网络有限公司",
+    "risk_score": 62.53,
+    "branch_count": 28,
+    "product_tags": [
+      "理财"
+    ],
+    "active_since": "2009-05-31"
+  },
+  {
+    "id": 25,
+    "name": "创联世纪网络有限公司",
+    "risk_score": 57.49,
+    "branch_count": 18,
+    "product_tags": [
+      "贷款",
+      "信用卡",
+      "理财",
+      "互联网银行"
+    ],
+    "active_since": "2019-07-23"
+  },
+  {
+    "id": 26,
+    "name": "双敏电子传媒有限公司",
+    "risk_score": 63.27,
+    "branch_count": 17,
+    "product_tags": [
+      "理财",
+      "区块链支持"
+    ],
+    "active_since": "2018-11-15"
+  },
+  {
+    "id": 27,
+    "name": "凌云网络有限公司",
+    "risk_score": 52.74,
+    "branch_count": 18,
+    "product_tags": [
+      "绿色金融产品",
+      "理财",
+      "保险"
+    ],
+    "active_since": "2007-01-16"
+  },
+  {
+    "id": 28,
+    "name": "华远软件传媒有限公司",
+    "risk_score": 22.19,
+    "branch_count": 25,
+    "product_tags": [
+      "理财",
+      "互联网银行",
+      "信用卡",
+      "保险"
+    ],
+    "active_since": "2009-07-19"
+  },
+  {
+    "id": 29,
+    "name": "通际名联传媒有限公司",
+    "risk_score": 70.75,
+    "branch_count": 27,
+    "product_tags": [
+      "保险",
+      "贷款",
+      "区块链支持",
+      "绿色金融产品"
+    ],
+    "active_since": "2016-01-05"
+  },
+  {
+    "id": 30,
+    "name": "天开网络有限公司",
+    "risk_score": 39.8,
+    "branch_count": 18,
+    "product_tags": [
+      "区块链支持",
+      "信用卡",
+      "保险"
+    ],
+    "active_since": "2009-03-11"
+  },
+  {
+    "id": 31,
+    "name": "艾提科信信息有限公司",
+    "risk_score": 43.68,
+    "branch_count": 24,
+    "product_tags": [
+      "信用卡",
+      "互联网银行",
+      "贷款",
+      "区块链支持"
+    ],
+    "active_since": "2007-12-18"
+  },
+  {
+    "id": 32,
+    "name": "四通传媒有限公司",
+    "risk_score": 56.72,
+    "branch_count": 27,
+    "product_tags": [
+      "区块链支持",
+      "绿色金融产品",
+      "信用卡",
+      "贷款"
+    ],
+    "active_since": "2020-01-04"
+  },
+  {
+    "id": 33,
+    "name": "创亿网络有限公司",
+    "risk_score": 67.97,
+    "branch_count": 35,
+    "product_tags": [
+      "理财",
+      "保险",
+      "绿色金融产品",
+      "区块链支持"
+    ],
+    "active_since": "2014-07-18"
+  },
+  {
+    "id": 34,
+    "name": "兰金电子科技有限公司",
+    "risk_score": 45.72,
+    "branch_count": 18,
+    "product_tags": [
+      "信用卡",
+      "绿色金融产品",
+      "区块链支持"
+    ],
+    "active_since": "2013-01-25"
+  },
+  {
+    "id": 35,
+    "name": "时空盒数字网络有限公司",
+    "risk_score": 63.96,
+    "branch_count": 20,
+    "product_tags": [
+      "互联网银行",
+      "保险"
+    ],
+    "active_since": "2017-09-30"
+  },
+  {
+    "id": 36,
+    "name": "商软冠联科技有限公司",
+    "risk_score": 77.16,
+    "branch_count": 16,
+    "product_tags": [
+      "区块链支持",
+      "贷款",
+      "绿色金融产品"
+    ],
+    "active_since": "2018-02-02"
+  },
+  {
+    "id": 37,
+    "name": "新格林耐特传媒有限公司",
+    "risk_score": 54.66,
+    "branch_count": 16,
+    "product_tags": [
+      "区块链支持"
+    ],
+    "active_since": "2008-11-01"
+  },
+  {
+    "id": 38,
+    "name": "精芯科技有限公司",
+    "risk_score": 33.27,
+    "branch_count": 20,
+    "product_tags": [
+      "贷款",
+      "绿色金融产品",
+      "理财",
+      "保险"
+    ],
+    "active_since": "2007-06-07"
+  },
+  {
+    "id": 39,
+    "name": "同兴万点信息有限公司",
+    "risk_score": 54.1,
+    "branch_count": 19,
+    "product_tags": [
+      "贷款",
+      "保险",
+      "理财",
+      "互联网银行"
+    ],
+    "active_since": "2012-06-11"
+  },
+  {
+    "id": 40,
+    "name": "恒聪百汇信息有限公司",
+    "risk_score": 40.99,
+    "branch_count": 23,
+    "product_tags": [
+      "理财",
+      "信用卡",
+      "贷款"
+    ],
+    "active_since": "2012-05-01"
+  },
+  {
+    "id": 41,
+    "name": "易动力传媒有限公司",
+    "risk_score": 38.18,
+    "branch_count": 20,
+    "product_tags": [
+      "信用卡",
+      "贷款",
+      "绿色金融产品"
+    ],
+    "active_since": "2012-12-25"
+  },
+  {
+    "id": 42,
+    "name": "天开网络有限公司",
+    "risk_score": 53.39,
+    "branch_count": 16,
+    "product_tags": [
+      "贷款",
+      "保险"
+    ],
+    "active_since": "2016-11-29"
+  },
+  {
+    "id": 43,
+    "name": "趋势信息有限公司",
+    "risk_score": 46.71,
+    "branch_count": 17,
+    "product_tags": [
+      "区块链支持",
+      "绿色金融产品",
+      "理财"
+    ],
+    "active_since": "2016-01-29"
+  },
+  {
+    "id": 44,
+    "name": "时空盒数字信息有限公司",
+    "risk_score": 53.52,
+    "branch_count": 23,
+    "product_tags": [
+      "区块链支持",
+      "贷款",
+      "绿色金融产品",
+      "互联网银行"
+    ],
+    "active_since": "2020-09-27"
+  },
+  {
+    "id": 45,
+    "name": "襄樊地球村科技有限公司",
+    "risk_score": 71.51,
+    "branch_count": 16,
+    "product_tags": [
+      "保险",
+      "贷款"
+    ],
+    "active_since": "2007-06-16"
+  },
+  {
+    "id": 46,
+    "name": "信诚致远科技有限公司",
+    "risk_score": 36.7,
+    "branch_count": 15,
+    "product_tags": [
+      "互联网银行",
+      "理财"
+    ],
+    "active_since": "2012-01-07"
+  },
+  {
+    "id": 47,
+    "name": "联通时科信息有限公司",
+    "risk_score": 71.06,
+    "branch_count": 18,
+    "product_tags": [
+      "贷款",
+      "绿色金融产品",
+      "信用卡",
+      "区块链支持"
+    ],
+    "active_since": "2011-01-25"
+  },
+  {
+    "id": 48,
+    "name": "创联世纪网络有限公司",
+    "risk_score": 53.68,
+    "branch_count": 23,
+    "product_tags": [
+      "区块链支持",
+      "理财",
+      "保险",
+      "贷款"
+    ],
+    "active_since": "2018-11-26"
+  },
+  {
+    "id": 49,
+    "name": "彩虹传媒有限公司",
+    "risk_score": 50.99,
+    "branch_count": 19,
+    "product_tags": [
+      "保险",
+      "贷款"
+    ],
+    "active_since": "2009-09-16"
+  },
+  {
+    "id": 50,
+    "name": "同兴万点网络有限公司",
+    "risk_score": 40.99,
+    "branch_count": 16,
+    "product_tags": [
+      "贷款"
+    ],
+    "active_since": "2008-10-30"
+  }
+]

@@ -1,0 +1,21 @@
+{
+    "goal": "比较百度与阿里巴巴和腾讯在AI云市场的竞争力，分析其市场份额的变化及影响因素。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 2023年百度的毛利率为51.7%，预计到2026年将保持在51.4%左右，显示出盈利能力的稳定性。",
+        "Comparison: 与阿里巴巴和腾讯相比，百度在AI云市场的份额为32.4%，显示出其在云服务领域的竞争力。",
+        "Extreme: 2024年预计百度的在线营销收入将达到725亿元，显示出其广告业务的强劲复苏。",
+        "Attribution: 广告需求的恢复与AI相关业务的推动是未来收入增长的主要驱动力。"
+    ],
+    "summary": "本报告提供了百度集团未来几年的盈利预测，强调其在AI与自动驾驶等新技术领域的持续投资，并分析了其股价走势及估值。",
+    "flag_id": "flag-53",
+    "classifier": "Internet Firms",
+    "classifier_cn": "互联网公司研究",
+    "input_files": [
+        "output/advertising_fact.csv",
+        "output/business_background.txt",
+        "output/dimension_data.db",
+        "output/user_contacts.json",
+        "output/user_profiles.json"
+    ]
+}

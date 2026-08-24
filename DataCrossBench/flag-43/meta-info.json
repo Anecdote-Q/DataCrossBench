@@ -1,0 +1,20 @@
+{
+    "goal": "评估短剧市场的发展对相关传媒公司估值和财务状况的具体影响。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 新媒股份的EPS为2.66，ROE为6.47%，显示出其在传媒行业中的稳健表现。",
+        "Comparison: 吉比特的合理价值高达248.37元，远超其他公司，显示出其在市场中的独特地位。",
+        "Extreme: 光线传媒的收盘价为9.79元，低于其合理价值，显示出市场对其未来表现的谨慎态度。",
+        "Attribution: 由于短剧市场的快速发展，相关公司的估值和财务状况也受到积极影响，尤其是与短剧相关的公司。"
+    ],
+    "summary": "本报告对多家传媒公司的财务状况进行了深度分析，提供了最新的股票评级和合理价值，揭示了行业内的竞争格局和投资机会。",
+    "flag_id": "flag-43",
+    "classifier": "Short-form Drama",
+    "classifier_cn": "短剧/微短剧内容",
+    "input_files": [
+        "output/business_background.txt",
+        "output/dimension_data.db",
+        "output/fact_data.png",
+        "output/user_profiles.json"
+    ]
+}

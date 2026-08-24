@@ -1,0 +1,21 @@
+{
+    "goal": "比较北京与全国其他省份的互联网普及率差异及其影响。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 农村网民数量达到5262万人，年增长率为127.7%。",
+        "Comparison: 广东省新增网民数为1500万，成为增长最快的省份。",
+        "Extreme: 第4页显示了最高的交易价值5000万美元。",
+        "Attribution: 由于低收入人群开始越来越多地接受互联网，农村上网人群增长较快。"
+    ],
+    "summary": "本报告总结了中国互联网在2007年的发展状况，特别是网民数量的快速增长、互联网普及率的提升以及各省网民的结构特征。",
+    "flag_id": "flag-172",
+    "classifier": "Internet Dev.",
+    "classifier_cn": "互联网发展",
+    "input_files": [
+        "output/background.txt",
+        "output/dimension_data.db",
+        "output/internet_acceptance.json",
+        "output/internet_users.png",
+        "output/transaction_values.png"
+    ]
+}

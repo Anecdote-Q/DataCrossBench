@@ -1,0 +1,20 @@
+{
+    "goal": "分析中小银行在金融科技战略维度得分提升的具体因素。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 2022年度中国银行业报告指出，数字化转型正在迈向高质量发展阶段，显示出中小银行在金融科技领域的持续进步。",
+        "Comparison: 中小银行在绿色金融贷款方面的增长速度高于整体贷款增速，2022年末绿色贷款余额同比增长38.5%。",
+        "Extreme: 2022年，平安银行绿色贷款余额1097.68亿元，同比增长58.8%，显示出其在绿色金融领域的领先地位。",
+        "Attribution: 中小银行的金融科技发展受到政策支持的推动，特别是《金融科技发展规划（2022-2025年）》的实施。"
+    ],
+    "summary": "本报告分析了中小银行在金融科技领域的现状、挑战及未来趋势，强调了政策支持、技术创新和人才培养的重要性。",
+    "flag_id": "flag-11",
+    "classifier": "FinTech",
+    "classifier_cn": "金融科技",
+    "input_files": [
+        "output/bank_profiles.json",
+        "output/banking_dimension.db",
+        "output/banking_facts.csv",
+        "output/business_background.txt"
+    ]
+}

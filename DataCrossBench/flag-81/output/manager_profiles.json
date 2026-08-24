@@ -1,0 +1,2116 @@
+[
+  {
+    "manager_id": "MGR0001",
+    "name": "Allison Hill",
+    "investment_philosophy": "主题投资",
+    "risk_management": null,
+    "experience_years": 25,
+    "certifications": [
+      "CFA"
+    ],
+    "specialties": [
+      "行业专注",
+      "热点捕捉",
+      "灵活配置"
+    ],
+    "previous_funds_managed": 9,
+    "social_media": {
+      "twitter": "@Allison_41",
+      "linkedin": "linkedin.com/in/allison_hill"
+    },
+    "notes": "主题投资"
+  },
+  {
+    "manager_id": "MGR0002",
+    "name": "Noah Rhodes",
+    "investment_philosophy": "主题投资",
+    "risk_management": null,
+    "experience_years": 12,
+    "certifications": [
+      "CFA"
+    ],
+    "specialties": [
+      "行业专注",
+      "热点捕捉",
+      "灵活配置"
+    ],
+    "previous_funds_managed": 18,
+    "social_media": {
+      "twitter": "@Noah_21",
+      "linkedin": "linkedin.com/in/noah_rhodes"
+    },
+    "notes": "主题投资"
+  },
+  {
+    "manager_id": "MGR0003",
+    "name": "Angie Henderson",
+    "investment_philosophy": null,
+    "risk_management": null,
+    "experience_years": 23,
+    "certifications": [
+      "CFA",
+      "金融分析师"
+    ],
+    "specialties": [],
+    "previous_funds_managed": 3,
+    "social_media": {
+      "twitter": "@Angie_37",
+      "linkedin": "linkedin.com/in/angie_henderson"
+    },
+    "notes": "无"
+  },
+  {
+    "manager_id": "MGR0004",
+    "name": "Daniel Wagner",
+    "investment_philosophy": "多元资产配置",
+    "risk_management": null,
+    "experience_years": 12,
+    "certifications": [
+      "金融分析师",
+      "CFA",
+      "CPA"
+    ],
+    "specialties": [
+      "分散投资",
+      "风险控制",
+      "策略动态调整"
+    ],
+    "previous_funds_managed": 7,
+    "social_media": {
+      "twitter": "@Daniel_93",
+      "linkedin": "linkedin.com/in/daniel_wagner"
+    },
+    "notes": "多元资产配置"
+  },
+  {
+    "manager_id": "MGR0005",
+    "name": "Cristian Santos",
+    "investment_philosophy": "主题投资",
+    "risk_management": "中低",
+    "experience_years": 27,
+    "certifications": [
+      "CFP",
+      "FRM",
+      "金融分析师"
+    ],
+    "specialties": [
+      "行业专注",
+      "热点捕捉",
+      "灵活配置"
+    ],
+    "previous_funds_managed": 19,
+    "social_media": {
+      "twitter": "@Cristian_45",
+      "linkedin": "linkedin.com/in/cristian_santos"
+    },
+    "notes": "主题投资"
+  },
+  {
+    "manager_id": "MGR0006",
+    "name": "Connie Lawrence",
+    "investment_philosophy": "成长投资",
+    "risk_management": null,
+    "experience_years": 30,
+    "certifications": [
+      "FRM"
+    ],
+    "specialties": [
+      "激进",
+      "关注高成长行业",
+      "长线持有"
+    ],
+    "previous_funds_managed": 14,
+    "social_media": {
+      "twitter": "@Connie_53",
+      "linkedin": "linkedin.com/in/connie_lawrence"
+    },
+    "notes": "成长投资"
+  },
+  {
+    "manager_id": "MGR0007",
+    "name": "Abigail Shaffer",
+    "investment_philosophy": null,
+    "risk_management": "低",
+    "experience_years": 13,
+    "certifications": [
+      "FRM"
+    ],
+    "specialties": [],
+    "previous_funds_managed": 11,
+    "social_media": {
+      "twitter": "@Abigail_23",
+      "linkedin": "linkedin.com/in/abigail_shaffer"
+    },
+    "notes": "无"
+  },
+  {
+    "manager_id": "MGR0008",
+    "name": "Gina Moore",
+    "investment_philosophy": "价值投资",
+    "risk_management": "中高",
+    "experience_years": 7,
+    "certifications": [
+      "CFA",
+      "CPA"
+    ],
+    "specialties": [
+      "保守",
+      "稳健",
+      "注重基本面"
+    ],
+    "previous_funds_managed": 12,
+    "social_media": {
+      "twitter": "@Gina_87",
+      "linkedin": "linkedin.com/in/gina_moore"
+    },
+    "notes": "价值投资"
+  },
+  {
+    "manager_id": "MGR0009",
+    "name": "Gabrielle Davis",
+    "investment_philosophy": null,
+    "risk_management": "中",
+    "experience_years": 13,
+    "certifications": [
+      "CFP"
+    ],
+    "specialties": [],
+    "previous_funds_managed": 18,
+    "social_media": {
+      "twitter": "@Gabrielle_25",
+      "linkedin": "linkedin.com/in/gabrielle_davis"
+    },
+    "notes": "无"
+  },
+  {
+    "manager_id": "MGR0010",
+    "name": "Ryan Munoz",
+    "investment_philosophy": "多元资产配置",
+    "risk_management": "中",
+    "experience_years": 17,
+    "certifications": [
+      "金融分析师"
+    ],
+    "specialties": [
+      "分散投资",
+      "风险控制",
+      "策略动态调整"
+    ],
+    "previous_funds_managed": 10,
+    "social_media": {
+      "twitter": "@Ryan_90",
+      "linkedin": "linkedin.com/in/ryan_munoz"
+    },
+    "notes": "多元资产配置"
+  },
+  {
+    "manager_id": "MGR0011",
+    "name": "Monica Herrera",
+    "investment_philosophy": "主题投资",
+    "risk_management": "中高",
+    "experience_years": 24,
+    "certifications": [
+      "金融分析师",
+      "FRM"
+    ],
+    "specialties": [
+      "行业专注",
+      "热点捕捉",
+      "灵活配置"
+    ],
+    "previous_funds_managed": 3,
+    "social_media": {
+      "twitter": "@Monica_15",
+      "linkedin": "linkedin.com/in/monica_herrera"
+    },
+    "notes": "主题投资"
+  },
+  {
+    "manager_id": "MGR0012",
+    "name": "Jamie Arnold",
+    "investment_philosophy": "多元资产配置",
+    "risk_management": "中高",
+    "experience_years": 26,
+    "certifications": [
+      "CPA"
+    ],
+    "specialties": [
+      "分散投资",
+      "风险控制",
+      "策略动态调整"
+    ],
+    "previous_funds_managed": 3,
+    "social_media": {
+      "twitter": "@Jamie_39",
+      "linkedin": "linkedin.com/in/jamie_arnold"
+    },
+    "notes": "多元资产配置"
+  },
+  {
+    "manager_id": "MGR0013",
+    "name": "Lisa Hensley",
+    "investment_philosophy": "主题投资",
+    "risk_management": "中低",
+    "experience_years": 8,
+    "certifications": [
+      "CPA",
+      "CFP"
+    ],
+    "specialties": [
+      "行业专注",
+      "热点捕捉",
+      "灵活配置"
+    ],
+    "previous_funds_managed": 12,
+    "social_media": {
+      "twitter": "@Lisa_30",
+      "linkedin": "linkedin.com/in/lisa_hensley"
+    },
+    "notes": "主题投资"
+  },
+  {
+    "manager_id": "MGR0014",
+    "name": "Michele Williams",
+    "investment_philosophy": "多元资产配置",
+    "risk_management": "中",
+    "experience_years": 16,
+    "certifications": [
+      "FRM",
+      "CPA"
+    ],
+    "specialties": [
+      "分散投资",
+      "风险控制",
+      "策略动态调整"
+    ],
+    "previous_funds_managed": 3,
+    "social_media": {
+      "twitter": "@Michele_87",
+      "linkedin": "linkedin.com/in/michele_williams"
+    },
+    "notes": "多元资产配置"
+  },
+  {
+    "manager_id": "MGR0015",
+    "name": "Dylan Miller",
+    "investment_philosophy": "多元资产配置",
+    "risk_management": null,
+    "experience_years": 25,
+    "certifications": [
+      "金融分析师"
+    ],
+    "specialties": [
+      "分散投资",
+      "风险控制",
+      "策略动态调整"
+    ],
+    "previous_funds_managed": 8,
+    "social_media": {
+      "twitter": "@Dylan_30",
+      "linkedin": "linkedin.com/in/dylan_miller"
+    },
+    "notes": "多元资产配置"
+  },
+  {
+    "manager_id": "MGR0016",
+    "name": "Brian Ramirez",
+    "investment_philosophy": "成长投资",
+    "risk_management": "低",
+    "experience_years": 19,
+    "certifications": [
+      "CPA",
+      "FRM"
+    ],
+    "specialties": [
+      "激进",
+      "关注高成长行业",
+      "长线持有"
+    ],
+    "previous_funds_managed": 11,
+    "social_media": {
+      "twitter": "@Brian_17",
+      "linkedin": "linkedin.com/in/brian_ramirez"
+    },
+    "notes": "成长投资"
+  },
+  {
+    "manager_id": "MGR0017",
+    "name": "Holly Wood",
+    "investment_philosophy": "成长投资",
+    "risk_management": "中高",
+    "experience_years": 12,
+    "certifications": [
+      "CPA"
+    ],
+    "specialties": [
+      "激进",
+      "关注高成长行业",
+      "长线持有"
+    ],
+    "previous_funds_managed": 13,
+    "social_media": {
+      "twitter": "@Holly_44",
+      "linkedin": "linkedin.com/in/holly_wood"
+    },
+    "notes": "成长投资"
+  },
+  {
+    "manager_id": "MGR0018",
+    "name": "Derek Zuniga",
+    "investment_philosophy": "多元资产配置",
+    "risk_management": null,
+    "experience_years": 7,
+    "certifications": [
+      "金融分析师"
+    ],
+    "specialties": [
+      "分散投资",
+      "风险控制",
+      "策略动态调整"
+    ],
+    "previous_funds_managed": 11,
+    "social_media": {
+      "twitter": "@Derek_37",
+      "linkedin": "linkedin.com/in/derek_zuniga"
+    },
+    "notes": "多元资产配置"
+  },
+  {
+    "manager_id": "MGR0019",
+    "name": "Lisa Jackson",
+    "investment_philosophy": "主题投资",
+    "risk_management": "低",
+    "experience_years": 25,
+    "certifications": [
+      "CFP",
+      "金融分析师"
+    ],
+    "specialties": [
+      "行业专注",
+      "热点捕捉",
+      "灵活配置"
+    ],
+    "previous_funds_managed": 5,
+    "social_media": {
+      "twitter": "@Lisa_43",
+      "linkedin": "linkedin.com/in/lisa_jackson"
+    },
+    "notes": "主题投资"
+  },
+  {
+    "manager_id": "MGR0020",
+    "name": "Carla Gray",
+    "investment_philosophy": "价值投资",
+    "risk_management": "中低",
+    "experience_years": 9,
+    "certifications": [
+      "金融分析师"
+    ],
+    "specialties": [
+      "保守",
+      "稳健",
+      "注重基本面"
+    ],
+    "previous_funds_managed": 18,
+    "social_media": {
+      "twitter": "@Carla_43",
+      "linkedin": "linkedin.com/in/carla_gray"
+    },
+    "notes": "价值投资"
+  },
+  {
+    "manager_id": "MGR0021",
+    "name": "Margaret Hawkins DDS",
+    "investment_philosophy": "主题投资",
+    "risk_management": "高",
+    "experience_years": 28,
+    "certifications": [
+      "CFP",
+      "金融分析师",
+      "FRM"
+    ],
+    "specialties": [
+      "行业专注",
+      "热点捕捉",
+      "灵活配置"
+    ],
+    "previous_funds_managed": 8,
+    "social_media": {
+      "twitter": "@Margaret_27",
+      "linkedin": "linkedin.com/in/margaret_hawkins_dds"
+    },
+    "notes": "主题投资"
+  },
+  {
+    "manager_id": "MGR0022",
+    "name": "Patty Perez",
+    "investment_philosophy": null,
+    "risk_management": "高",
+    "experience_years": 21,
+    "certifications": [
+      "CFA",
+      "金融分析师"
+    ],
+    "specialties": [],
+    "previous_funds_managed": 4,
+    "social_media": {
+      "twitter": "@Patty_29",
+      "linkedin": "linkedin.com/in/patty_perez"
+    },
+    "notes": "无"
+  },
+  {
+    "manager_id": "MGR0023",
+    "name": "Ethan Adams",
+    "investment_philosophy": null,
+    "risk_management": null,
+    "experience_years": 25,
+    "certifications": [
+      "CFP"
+    ],
+    "specialties": [],
+    "previous_funds_managed": 20,
+    "social_media": {
+      "twitter": "@Ethan_18",
+      "linkedin": "linkedin.com/in/ethan_adams"
+    },
+    "notes": "无"
+  },
+  {
+    "manager_id": "MGR0024",
+    "name": "Tommy Walter",
+    "investment_philosophy": "价值投资",
+    "risk_management": "中",
+    "experience_years": 17,
+    "certifications": [
+      "金融分析师",
+      "CFP"
+    ],
+    "specialties": [
+      "保守",
+      "稳健",
+      "注重基本面"
+    ],
+    "previous_funds_managed": 17,
+    "social_media": {
+      "twitter": "@Tommy_42",
+      "linkedin": "linkedin.com/in/tommy_walter"
+    },
+    "notes": "价值投资"
+  },
+  {
+    "manager_id": "MGR0025",
+    "name": "Matthew Foster",
+    "investment_philosophy": "主题投资",
+    "risk_management": "中高",
+    "experience_years": 22,
+    "certifications": [
+      "CFA"
+    ],
+    "specialties": [
+      "行业专注",
+      "热点捕捉",
+      "灵活配置"
+    ],
+    "previous_funds_managed": 18,
+    "social_media": {
+      "twitter": "@Matthew_44",
+      "linkedin": "linkedin.com/in/matthew_foster"
+    },
+    "notes": "主题投资"
+  },
+  {
+    "manager_id": "MGR0026",
+    "name": "Judy Baker",
+    "investment_philosophy": null,
+    "risk_management": "中低",
+    "experience_years": 29,
+    "certifications": [
+      "CPA",
+      "CFA",
+      "FRM"
+    ],
+    "specialties": [],
+    "previous_funds_managed": 14,
+    "social_media": {
+      "twitter": "@Judy_30",
+      "linkedin": "linkedin.com/in/judy_baker"
+    },
+    "notes": "无"
+  },
+  {
+    "manager_id": "MGR0027",
+    "name": "Justin Baker",
+    "investment_philosophy": "主题投资",
+    "risk_management": "中",
+    "experience_years": 19,
+    "certifications": [
+      "CPA"
+    ],
+    "specialties": [
+      "行业专注",
+      "热点捕捉",
+      "灵活配置"
+    ],
+    "previous_funds_managed": 17,
+    "social_media": {
+      "twitter": "@Justin_32",
+      "linkedin": "linkedin.com/in/justin_baker"
+    },
+    "notes": "主题投资"
+  },
+  {
+    "manager_id": "MGR0028",
+    "name": "Stephanie Ross",
+    "investment_philosophy": "量化投资",
+    "risk_management": null,
+    "experience_years": 21,
+    "certifications": [
+      "CPA"
+    ],
+    "specialties": [
+      "数据驱动",
+      "模型建模",
+      "策略调整频繁"
+    ],
+    "previous_funds_managed": 17,
+    "social_media": {
+      "twitter": "@Stephanie_87",
+      "linkedin": "linkedin.com/in/stephanie_ross"
+    },
+    "notes": "量化投资"
+  },
+  {
+    "manager_id": "MGR0029",
+    "name": "Zachary Hicks",
+    "investment_philosophy": "价值投资",
+    "risk_management": "中",
+    "experience_years": 11,
+    "certifications": [
+      "CPA"
+    ],
+    "specialties": [
+      "保守",
+      "稳健",
+      "注重基本面"
+    ],
+    "previous_funds_managed": 6,
+    "social_media": {
+      "twitter": "@Zachary_79",
+      "linkedin": "linkedin.com/in/zachary_hicks"
+    },
+    "notes": "价值投资"
+  },
+  {
+    "manager_id": "MGR0030",
+    "name": "Anthony Rodriguez",
+    "investment_philosophy": "成长投资",
+    "risk_management": null,
+    "experience_years": 29,
+    "certifications": [
+      "CFA",
+      "CPA",
+      "FRM"
+    ],
+    "specialties": [
+      "激进",
+      "关注高成长行业",
+      "长线持有"
+    ],
+    "previous_funds_managed": 1,
+    "social_media": {
+      "twitter": "@Anthony_24",
+      "linkedin": "linkedin.com/in/anthony_rodriguez"
+    },
+    "notes": "成长投资"
+  },
+  {
+    "manager_id": "MGR0031",
+    "name": "Rebecca Henderson",
+    "investment_philosophy": null,
+    "risk_management": null,
+    "experience_years": 16,
+    "certifications": [
+      "FRM",
+      "CFA"
+    ],
+    "specialties": [],
+    "previous_funds_managed": 8,
+    "social_media": {
+      "twitter": "@Rebecca_82",
+      "linkedin": "linkedin.com/in/rebecca_henderson"
+    },
+    "notes": "无"
+  },
+  {
+    "manager_id": "MGR0032",
+    "name": "James Ferrell",
+    "investment_philosophy": "多元资产配置",
+    "risk_management": "中低",
+    "experience_years": 7,
+    "certifications": [
+      "CFP"
+    ],
+    "specialties": [
+      "分散投资",
+      "风险控制",
+      "策略动态调整"
+    ],
+    "previous_funds_managed": 3,
+    "social_media": {
+      "twitter": "@James_78",
+      "linkedin": "linkedin.com/in/james_ferrell"
+    },
+    "notes": "多元资产配置"
+  },
+  {
+    "manager_id": "MGR0033",
+    "name": "Tricia Valencia",
+    "investment_philosophy": "主题投资",
+    "risk_management": "低",
+    "experience_years": 29,
+    "certifications": [
+      "FRM"
+    ],
+    "specialties": [
+      "行业专注",
+      "热点捕捉",
+      "灵活配置"
+    ],
+    "previous_funds_managed": 16,
+    "social_media": {
+      "twitter": "@Tricia_80",
+      "linkedin": "linkedin.com/in/tricia_valencia"
+    },
+    "notes": "主题投资"
+  },
+  {
+    "manager_id": "MGR0034",
+    "name": "Nathan Maldonado",
+    "investment_philosophy": "量化投资",
+    "risk_management": "中低",
+    "experience_years": 10,
+    "certifications": [
+      "金融分析师",
+      "CFP"
+    ],
+    "specialties": [
+      "数据驱动",
+      "模型建模",
+      "策略调整频繁"
+    ],
+    "previous_funds_managed": 7,
+    "social_media": {
+      "twitter": "@Nathan_79",
+      "linkedin": "linkedin.com/in/nathan_maldonado"
+    },
+    "notes": "量化投资"
+  },
+  {
+    "manager_id": "MGR0035",
+    "name": "Debra Davidson",
+    "investment_philosophy": "主题投资",
+    "risk_management": "低",
+    "experience_years": 29,
+    "certifications": [
+      "FRM",
+      "CPA",
+      "金融分析师"
+    ],
+    "specialties": [
+      "行业专注",
+      "热点捕捉",
+      "灵活配置"
+    ],
+    "previous_funds_managed": 12,
+    "social_media": {
+      "twitter": "@Debra_66",
+      "linkedin": "linkedin.com/in/debra_davidson"
+    },
+    "notes": "主题投资"
+  },
+  {
+    "manager_id": "MGR0036",
+    "name": "Jeffrey Chavez",
+    "investment_philosophy": "多元资产配置",
+    "risk_management": "中低",
+    "experience_years": 21,
+    "certifications": [
+      "CFA",
+      "FRM"
+    ],
+    "specialties": [
+      "分散投资",
+      "风险控制",
+      "策略动态调整"
+    ],
+    "previous_funds_managed": 8,
+    "social_media": {
+      "twitter": "@Jeffrey_18",
+      "linkedin": "linkedin.com/in/jeffrey_chavez"
+    },
+    "notes": "多元资产配置"
+  },
+  {
+    "manager_id": "MGR0037",
+    "name": "Sherri Baker",
+    "investment_philosophy": "量化投资",
+    "risk_management": "中低",
+    "experience_years": 15,
+    "certifications": [
+      "金融分析师"
+    ],
+    "specialties": [
+      "数据驱动",
+      "模型建模",
+      "策略调整频繁"
+    ],
+    "previous_funds_managed": 18,
+    "social_media": {
+      "twitter": "@Sherri_39",
+      "linkedin": "linkedin.com/in/sherri_baker"
+    },
+    "notes": "量化投资"
+  },
+  {
+    "manager_id": "MGR0038",
+    "name": "Cassandra Gaines",
+    "investment_philosophy": "价值投资",
+    "risk_management": "中",
+    "experience_years": 23,
+    "certifications": [
+      "CFA"
+    ],
+    "specialties": [
+      "保守",
+      "稳健",
+      "注重基本面"
+    ],
+    "previous_funds_managed": 3,
+    "social_media": {
+      "twitter": "@Cassandra_90",
+      "linkedin": "linkedin.com/in/cassandra_gaines"
+    },
+    "notes": "价值投资"
+  },
+  {
+    "manager_id": "MGR0039",
+    "name": "Elizabeth Fowler",
+    "investment_philosophy": "多元资产配置",
+    "risk_management": "中",
+    "experience_years": 6,
+    "certifications": [
+      "CFA"
+    ],
+    "specialties": [
+      "分散投资",
+      "风险控制",
+      "策略动态调整"
+    ],
+    "previous_funds_managed": 2,
+    "social_media": {
+      "twitter": "@Elizabeth_52",
+      "linkedin": "linkedin.com/in/elizabeth_fowler"
+    },
+    "notes": "多元资产配置"
+  },
+  {
+    "manager_id": "MGR0040",
+    "name": "Brittany Farmer",
+    "investment_philosophy": null,
+    "risk_management": "高",
+    "experience_years": 7,
+    "certifications": [
+      "FRM",
+      "CPA",
+      "CFP"
+    ],
+    "specialties": [],
+    "previous_funds_managed": 16,
+    "social_media": {
+      "twitter": "@Brittany_37",
+      "linkedin": "linkedin.com/in/brittany_farmer"
+    },
+    "notes": "无"
+  },
+  {
+    "manager_id": "MGR0041",
+    "name": "Paula Moreno",
+    "investment_philosophy": "价值投资",
+    "risk_management": null,
+    "experience_years": 22,
+    "certifications": [
+      "金融分析师"
+    ],
+    "specialties": [
+      "保守",
+      "稳健",
+      "注重基本面"
+    ],
+    "previous_funds_managed": 19,
+    "social_media": {
+      "twitter": "@Paula_70",
+      "linkedin": "linkedin.com/in/paula_moreno"
+    },
+    "notes": "价值投资"
+  },
+  {
+    "manager_id": "MGR0042",
+    "name": "Fred Smith",
+    "investment_philosophy": "量化投资",
+    "risk_management": "高",
+    "experience_years": 12,
+    "certifications": [
+      "CFP",
+      "FRM"
+    ],
+    "specialties": [
+      "数据驱动",
+      "模型建模",
+      "策略调整频繁"
+    ],
+    "previous_funds_managed": 4,
+    "social_media": {
+      "twitter": "@Fred_22",
+      "linkedin": "linkedin.com/in/fred_smith"
+    },
+    "notes": "量化投资"
+  },
+  {
+    "manager_id": "MGR0043",
+    "name": "Sherry Decker",
+    "investment_philosophy": "价值投资",
+    "risk_management": "中低",
+    "experience_years": 26,
+    "certifications": [
+      "CPA",
+      "CFP"
+    ],
+    "specialties": [
+      "保守",
+      "稳健",
+      "注重基本面"
+    ],
+    "previous_funds_managed": 14,
+    "social_media": {
+      "twitter": "@Sherry_69",
+      "linkedin": "linkedin.com/in/sherry_decker"
+    },
+    "notes": "价值投资"
+  },
+  {
+    "manager_id": "MGR0044",
+    "name": "Anthony Humphrey",
+    "investment_philosophy": "成长投资",
+    "risk_management": "低",
+    "experience_years": 28,
+    "certifications": [
+      "CFA"
+    ],
+    "specialties": [
+      "激进",
+      "关注高成长行业",
+      "长线持有"
+    ],
+    "previous_funds_managed": 2,
+    "social_media": {
+      "twitter": "@Anthony_61",
+      "linkedin": "linkedin.com/in/anthony_humphrey"
+    },
+    "notes": "成长投资"
+  },
+  {
+    "manager_id": "MGR0045",
+    "name": "Angelica Tucker",
+    "investment_philosophy": "价值投资",
+    "risk_management": "中高",
+    "experience_years": 28,
+    "certifications": [
+      "CFA",
+      "FRM"
+    ],
+    "specialties": [
+      "保守",
+      "稳健",
+      "注重基本面"
+    ],
+    "previous_funds_managed": 7,
+    "social_media": {
+      "twitter": "@Angelica_34",
+      "linkedin": "linkedin.com/in/angelica_tucker"
+    },
+    "notes": "价值投资"
+  },
+  {
+    "manager_id": "MGR0046",
+    "name": "Philip Cannon",
+    "investment_philosophy": "主题投资",
+    "risk_management": "高",
+    "experience_years": 22,
+    "certifications": [
+      "FRM",
+      "CFP"
+    ],
+    "specialties": [
+      "行业专注",
+      "热点捕捉",
+      "灵活配置"
+    ],
+    "previous_funds_managed": 6,
+    "social_media": {
+      "twitter": "@Philip_45",
+      "linkedin": "linkedin.com/in/philip_cannon"
+    },
+    "notes": "主题投资"
+  },
+  {
+    "manager_id": "MGR0047",
+    "name": "John Pierce",
+    "investment_philosophy": "成长投资",
+    "risk_management": "中高",
+    "experience_years": 19,
+    "certifications": [
+      "CFA"
+    ],
+    "specialties": [
+      "激进",
+      "关注高成长行业",
+      "长线持有"
+    ],
+    "previous_funds_managed": 15,
+    "social_media": {
+      "twitter": "@John_80",
+      "linkedin": "linkedin.com/in/john_pierce"
+    },
+    "notes": "成长投资"
+  },
+  {
+    "manager_id": "MGR0048",
+    "name": "Shane Henderson",
+    "investment_philosophy": "多元资产配置",
+    "risk_management": null,
+    "experience_years": 8,
+    "certifications": [
+      "金融分析师"
+    ],
+    "specialties": [
+      "分散投资",
+      "风险控制",
+      "策略动态调整"
+    ],
+    "previous_funds_managed": 1,
+    "social_media": {
+      "twitter": "@Shane_21",
+      "linkedin": "linkedin.com/in/shane_henderson"
+    },
+    "notes": "多元资产配置"
+  },
+  {
+    "manager_id": "MGR0049",
+    "name": "Joshua Blair",
+    "investment_philosophy": "价值投资",
+    "risk_management": "低",
+    "experience_years": 29,
+    "certifications": [
+      "FRM"
+    ],
+    "specialties": [
+      "保守",
+      "稳健",
+      "注重基本面"
+    ],
+    "previous_funds_managed": 14,
+    "social_media": {
+      "twitter": "@Joshua_72",
+      "linkedin": "linkedin.com/in/joshua_blair"
+    },
+    "notes": "价值投资"
+  },
+  {
+    "manager_id": "MGR0050",
+    "name": "Eric Carney",
+    "investment_philosophy": "量化投资",
+    "risk_management": "高",
+    "experience_years": 20,
+    "certifications": [
+      "CFP"
+    ],
+    "specialties": [
+      "数据驱动",
+      "模型建模",
+      "策略调整频繁"
+    ],
+    "previous_funds_managed": 2,
+    "social_media": {
+      "twitter": "@Eric_31",
+      "linkedin": "linkedin.com/in/eric_carney"
+    },
+    "notes": "量化投资"
+  },
+  {
+    "manager_id": "MGR0051",
+    "name": "Jessica Holmes",
+    "investment_philosophy": null,
+    "risk_management": "低",
+    "experience_years": 17,
+    "certifications": [
+      "CFP"
+    ],
+    "specialties": [],
+    "previous_funds_managed": 9,
+    "social_media": {
+      "twitter": "@Jessica_68",
+      "linkedin": "linkedin.com/in/jessica_holmes"
+    },
+    "notes": "无"
+  },
+  {
+    "manager_id": "MGR0052",
+    "name": "Danny Morgan",
+    "investment_philosophy": "多元资产配置",
+    "risk_management": "中",
+    "experience_years": 14,
+    "certifications": [
+      "金融分析师",
+      "CFP"
+    ],
+    "specialties": [
+      "分散投资",
+      "风险控制",
+      "策略动态调整"
+    ],
+    "previous_funds_managed": 5,
+    "social_media": {
+      "twitter": "@Danny_34",
+      "linkedin": "linkedin.com/in/danny_morgan"
+    },
+    "notes": "多元资产配置"
+  },
+  {
+    "manager_id": "MGR0053",
+    "name": "Crystal Robinson",
+    "investment_philosophy": "量化投资",
+    "risk_management": "中低",
+    "experience_years": 14,
+    "certifications": [
+      "CFA"
+    ],
+    "specialties": [
+      "数据驱动",
+      "模型建模",
+      "策略调整频繁"
+    ],
+    "previous_funds_managed": 19,
+    "social_media": {
+      "twitter": "@Crystal_79",
+      "linkedin": "linkedin.com/in/crystal_robinson"
+    },
+    "notes": "量化投资"
+  },
+  {
+    "manager_id": "MGR0054",
+    "name": "Mark Perez",
+    "investment_philosophy": "成长投资",
+    "risk_management": "中",
+    "experience_years": 6,
+    "certifications": [
+      "CPA",
+      "CFA",
+      "CFP"
+    ],
+    "specialties": [
+      "激进",
+      "关注高成长行业",
+      "长线持有"
+    ],
+    "previous_funds_managed": 19,
+    "social_media": {
+      "twitter": "@Mark_71",
+      "linkedin": "linkedin.com/in/mark_perez"
+    },
+    "notes": "成长投资"
+  },
+  {
+    "manager_id": "MGR0055",
+    "name": "Shannon Jones",
+    "investment_philosophy": "价值投资",
+    "risk_management": "中高",
+    "experience_years": 21,
+    "certifications": [
+      "FRM",
+      "CFA",
+      "CPA"
+    ],
+    "specialties": [
+      "保守",
+      "稳健",
+      "注重基本面"
+    ],
+    "previous_funds_managed": 3,
+    "social_media": {
+      "twitter": "@Shannon_33",
+      "linkedin": "linkedin.com/in/shannon_jones"
+    },
+    "notes": "价值投资"
+  },
+  {
+    "manager_id": "MGR0056",
+    "name": "Michael Lewis",
+    "investment_philosophy": "多元资产配置",
+    "risk_management": null,
+    "experience_years": 7,
+    "certifications": [
+      "CFA",
+      "FRM",
+      "CFP"
+    ],
+    "specialties": [
+      "分散投资",
+      "风险控制",
+      "策略动态调整"
+    ],
+    "previous_funds_managed": 4,
+    "social_media": {
+      "twitter": "@Michael_82",
+      "linkedin": "linkedin.com/in/michael_lewis"
+    },
+    "notes": "多元资产配置"
+  },
+  {
+    "manager_id": "MGR0057",
+    "name": "Timothy Duncan",
+    "investment_philosophy": "多元资产配置",
+    "risk_management": "中高",
+    "experience_years": 12,
+    "certifications": [
+      "金融分析师",
+      "CFA",
+      "CPA"
+    ],
+    "specialties": [
+      "分散投资",
+      "风险控制",
+      "策略动态调整"
+    ],
+    "previous_funds_managed": 3,
+    "social_media": {
+      "twitter": "@Timothy_63",
+      "linkedin": "linkedin.com/in/timothy_duncan"
+    },
+    "notes": "多元资产配置"
+  },
+  {
+    "manager_id": "MGR0058",
+    "name": "Richard Aguirre",
+    "investment_philosophy": "多元资产配置",
+    "risk_management": "中",
+    "experience_years": 26,
+    "certifications": [
+      "金融分析师",
+      "CPA",
+      "FRM"
+    ],
+    "specialties": [
+      "分散投资",
+      "风险控制",
+      "策略动态调整"
+    ],
+    "previous_funds_managed": 7,
+    "social_media": {
+      "twitter": "@Richard_95",
+      "linkedin": "linkedin.com/in/richard_aguirre"
+    },
+    "notes": "多元资产配置"
+  },
+  {
+    "manager_id": "MGR0059",
+    "name": "Brent Jordan",
+    "investment_philosophy": null,
+    "risk_management": "中",
+    "experience_years": 27,
+    "certifications": [
+      "FRM",
+      "CPA"
+    ],
+    "specialties": [],
+    "previous_funds_managed": 13,
+    "social_media": {
+      "twitter": "@Brent_26",
+      "linkedin": "linkedin.com/in/brent_jordan"
+    },
+    "notes": "无"
+  },
+  {
+    "manager_id": "MGR0060",
+    "name": "John Daniel",
+    "investment_philosophy": "量化投资",
+    "risk_management": "高",
+    "experience_years": 26,
+    "certifications": [
+      "CPA",
+      "CFP",
+      "FRM"
+    ],
+    "specialties": [
+      "数据驱动",
+      "模型建模",
+      "策略调整频繁"
+    ],
+    "previous_funds_managed": 3,
+    "social_media": {
+      "twitter": "@John_11",
+      "linkedin": "linkedin.com/in/john_daniel"
+    },
+    "notes": "量化投资"
+  },
+  {
+    "manager_id": "MGR0061",
+    "name": "Victoria Garcia",
+    "investment_philosophy": "量化投资",
+    "risk_management": "中低",
+    "experience_years": 19,
+    "certifications": [
+      "金融分析师",
+      "CFA",
+      "CFP"
+    ],
+    "specialties": [
+      "数据驱动",
+      "模型建模",
+      "策略调整频繁"
+    ],
+    "previous_funds_managed": 18,
+    "social_media": {
+      "twitter": "@Victoria_37",
+      "linkedin": "linkedin.com/in/victoria_garcia"
+    },
+    "notes": "量化投资"
+  },
+  {
+    "manager_id": "MGR0062",
+    "name": "Gerald Hensley",
+    "investment_philosophy": "多元资产配置",
+    "risk_management": "高",
+    "experience_years": 21,
+    "certifications": [
+      "FRM",
+      "CPA"
+    ],
+    "specialties": [
+      "分散投资",
+      "风险控制",
+      "策略动态调整"
+    ],
+    "previous_funds_managed": 3,
+    "social_media": {
+      "twitter": "@Gerald_41",
+      "linkedin": "linkedin.com/in/gerald_hensley"
+    },
+    "notes": "多元资产配置"
+  },
+  {
+    "manager_id": "MGR0063",
+    "name": "Connor West",
+    "investment_philosophy": "主题投资",
+    "risk_management": "中高",
+    "experience_years": 16,
+    "certifications": [
+      "FRM",
+      "CFP"
+    ],
+    "specialties": [
+      "行业专注",
+      "热点捕捉",
+      "灵活配置"
+    ],
+    "previous_funds_managed": 18,
+    "social_media": {
+      "twitter": "@Connor_48",
+      "linkedin": "linkedin.com/in/connor_west"
+    },
+    "notes": "主题投资"
+  },
+  {
+    "manager_id": "MGR0064",
+    "name": "Donald Wright",
+    "investment_philosophy": "量化投资",
+    "risk_management": "高",
+    "experience_years": 24,
+    "certifications": [
+      "金融分析师",
+      "CFA",
+      "CPA"
+    ],
+    "specialties": [
+      "数据驱动",
+      "模型建模",
+      "策略调整频繁"
+    ],
+    "previous_funds_managed": 18,
+    "social_media": {
+      "twitter": "@Donald_48",
+      "linkedin": "linkedin.com/in/donald_wright"
+    },
+    "notes": "量化投资"
+  },
+  {
+    "manager_id": "MGR0065",
+    "name": "Jessica Callahan",
+    "investment_philosophy": null,
+    "risk_management": null,
+    "experience_years": 26,
+    "certifications": [
+      "FRM"
+    ],
+    "specialties": [],
+    "previous_funds_managed": 9,
+    "social_media": {
+      "twitter": "@Jessica_24",
+      "linkedin": "linkedin.com/in/jessica_callahan"
+    },
+    "notes": "无"
+  },
+  {
+    "manager_id": "MGR0066",
+    "name": "Amber Kidd",
+    "investment_philosophy": "多元资产配置",
+    "risk_management": "中",
+    "experience_years": 8,
+    "certifications": [
+      "金融分析师",
+      "FRM",
+      "CFP"
+    ],
+    "specialties": [
+      "分散投资",
+      "风险控制",
+      "策略动态调整"
+    ],
+    "previous_funds_managed": 10,
+    "social_media": {
+      "twitter": "@Amber_87",
+      "linkedin": "linkedin.com/in/amber_kidd"
+    },
+    "notes": "多元资产配置"
+  },
+  {
+    "manager_id": "MGR0067",
+    "name": "Tracy House",
+    "investment_philosophy": "价值投资",
+    "risk_management": "中",
+    "experience_years": 11,
+    "certifications": [
+      "CPA",
+      "FRM",
+      "金融分析师"
+    ],
+    "specialties": [
+      "保守",
+      "稳健",
+      "注重基本面"
+    ],
+    "previous_funds_managed": 9,
+    "social_media": {
+      "twitter": "@Tracy_74",
+      "linkedin": "linkedin.com/in/tracy_house"
+    },
+    "notes": "价值投资"
+  },
+  {
+    "manager_id": "MGR0068",
+    "name": "Carol Tucker",
+    "investment_philosophy": "主题投资",
+    "risk_management": "中",
+    "experience_years": 20,
+    "certifications": [
+      "CFA",
+      "金融分析师"
+    ],
+    "specialties": [
+      "行业专注",
+      "热点捕捉",
+      "灵活配置"
+    ],
+    "previous_funds_managed": 14,
+    "social_media": {
+      "twitter": "@Carol_45",
+      "linkedin": "linkedin.com/in/carol_tucker"
+    },
+    "notes": "主题投资"
+  },
+  {
+    "manager_id": "MGR0069",
+    "name": "James Brown",
+    "investment_philosophy": "主题投资",
+    "risk_management": "中低",
+    "experience_years": 6,
+    "certifications": [
+      "CPA"
+    ],
+    "specialties": [
+      "行业专注",
+      "热点捕捉",
+      "灵活配置"
+    ],
+    "previous_funds_managed": 5,
+    "social_media": {
+      "twitter": "@James_91",
+      "linkedin": "linkedin.com/in/james_brown"
+    },
+    "notes": "主题投资"
+  },
+  {
+    "manager_id": "MGR0070",
+    "name": "William Baker",
+    "investment_philosophy": "价值投资",
+    "risk_management": null,
+    "experience_years": 13,
+    "certifications": [
+      "CFP"
+    ],
+    "specialties": [
+      "保守",
+      "稳健",
+      "注重基本面"
+    ],
+    "previous_funds_managed": 18,
+    "social_media": {
+      "twitter": "@William_64",
+      "linkedin": "linkedin.com/in/william_baker"
+    },
+    "notes": "价值投资"
+  },
+  {
+    "manager_id": "MGR0071",
+    "name": "Jordan Henderson",
+    "investment_philosophy": "量化投资",
+    "risk_management": "高",
+    "experience_years": 22,
+    "certifications": [
+      "CFA"
+    ],
+    "specialties": [
+      "数据驱动",
+      "模型建模",
+      "策略调整频繁"
+    ],
+    "previous_funds_managed": 3,
+    "social_media": {
+      "twitter": "@Jordan_98",
+      "linkedin": "linkedin.com/in/jordan_henderson"
+    },
+    "notes": "量化投资"
+  },
+  {
+    "manager_id": "MGR0072",
+    "name": "Whitney Peters",
+    "investment_philosophy": null,
+    "risk_management": "低",
+    "experience_years": 9,
+    "certifications": [
+      "CFA",
+      "CPA",
+      "CFP"
+    ],
+    "specialties": [],
+    "previous_funds_managed": 18,
+    "social_media": {
+      "twitter": "@Whitney_28",
+      "linkedin": "linkedin.com/in/whitney_peters"
+    },
+    "notes": "无"
+  },
+  {
+    "manager_id": "MGR0073",
+    "name": "Brittney Phillips",
+    "investment_philosophy": "量化投资",
+    "risk_management": "低",
+    "experience_years": 18,
+    "certifications": [
+      "CFA"
+    ],
+    "specialties": [
+      "数据驱动",
+      "模型建模",
+      "策略调整频繁"
+    ],
+    "previous_funds_managed": 10,
+    "social_media": {
+      "twitter": "@Brittney_56",
+      "linkedin": "linkedin.com/in/brittney_phillips"
+    },
+    "notes": "量化投资"
+  },
+  {
+    "manager_id": "MGR0074",
+    "name": "Lauren Daniels",
+    "investment_philosophy": "价值投资",
+    "risk_management": "中",
+    "experience_years": 30,
+    "certifications": [
+      "CPA"
+    ],
+    "specialties": [
+      "保守",
+      "稳健",
+      "注重基本面"
+    ],
+    "previous_funds_managed": 7,
+    "social_media": {
+      "twitter": "@Lauren_97",
+      "linkedin": "linkedin.com/in/lauren_daniels"
+    },
+    "notes": "价值投资"
+  },
+  {
+    "manager_id": "MGR0075",
+    "name": "Amy Silva",
+    "investment_philosophy": "多元资产配置",
+    "risk_management": "低",
+    "experience_years": 12,
+    "certifications": [
+      "CFA",
+      "CPA",
+      "CFP"
+    ],
+    "specialties": [
+      "分散投资",
+      "风险控制",
+      "策略动态调整"
+    ],
+    "previous_funds_managed": 14,
+    "social_media": {
+      "twitter": "@Amy_89",
+      "linkedin": "linkedin.com/in/amy_silva"
+    },
+    "notes": "多元资产配置"
+  },
+  {
+    "manager_id": "MGR0076",
+    "name": "Sarah Moore",
+    "investment_philosophy": null,
+    "risk_management": "中",
+    "experience_years": 28,
+    "certifications": [
+      "FRM"
+    ],
+    "specialties": [],
+    "previous_funds_managed": 6,
+    "social_media": {
+      "twitter": "@Sarah_32",
+      "linkedin": "linkedin.com/in/sarah_moore"
+    },
+    "notes": "无"
+  },
+  {
+    "manager_id": "MGR0077",
+    "name": "Angela Lopez",
+    "investment_philosophy": null,
+    "risk_management": "中高",
+    "experience_years": 18,
+    "certifications": [
+      "FRM"
+    ],
+    "specialties": [],
+    "previous_funds_managed": 11,
+    "social_media": {
+      "twitter": "@Angela_62",
+      "linkedin": "linkedin.com/in/angela_lopez"
+    },
+    "notes": "无"
+  },
+  {
+    "manager_id": "MGR0078",
+    "name": "Megan Young",
+    "investment_philosophy": "成长投资",
+    "risk_management": "中高",
+    "experience_years": 30,
+    "certifications": [
+      "FRM",
+      "CPA",
+      "CFA"
+    ],
+    "specialties": [
+      "激进",
+      "关注高成长行业",
+      "长线持有"
+    ],
+    "previous_funds_managed": 4,
+    "social_media": {
+      "twitter": "@Megan_58",
+      "linkedin": "linkedin.com/in/megan_young"
+    },
+    "notes": "成长投资"
+  },
+  {
+    "manager_id": "MGR0079",
+    "name": "Steve Sanchez",
+    "investment_philosophy": "成长投资",
+    "risk_management": "高",
+    "experience_years": 6,
+    "certifications": [
+      "FRM",
+      "金融分析师"
+    ],
+    "specialties": [
+      "激进",
+      "关注高成长行业",
+      "长线持有"
+    ],
+    "previous_funds_managed": 15,
+    "social_media": {
+      "twitter": "@Steve_54",
+      "linkedin": "linkedin.com/in/steve_sanchez"
+    },
+    "notes": "成长投资"
+  },
+  {
+    "manager_id": "MGR0080",
+    "name": "Lisa Barnes",
+    "investment_philosophy": "价值投资",
+    "risk_management": "低",
+    "experience_years": 14,
+    "certifications": [
+      "FRM"
+    ],
+    "specialties": [
+      "保守",
+      "稳健",
+      "注重基本面"
+    ],
+    "previous_funds_managed": 1,
+    "social_media": {
+      "twitter": "@Lisa_94",
+      "linkedin": "linkedin.com/in/lisa_barnes"
+    },
+    "notes": "价值投资"
+  },
+  {
+    "manager_id": "MGR0081",
+    "name": "Kelly Donovan",
+    "investment_philosophy": "成长投资",
+    "risk_management": "高",
+    "experience_years": 11,
+    "certifications": [
+      "CPA",
+      "金融分析师"
+    ],
+    "specialties": [
+      "激进",
+      "关注高成长行业",
+      "长线持有"
+    ],
+    "previous_funds_managed": 3,
+    "social_media": {
+      "twitter": "@Kelly_45",
+      "linkedin": "linkedin.com/in/kelly_donovan"
+    },
+    "notes": "成长投资"
+  },
+  {
+    "manager_id": "MGR0082",
+    "name": "Mike Allen",
+    "investment_philosophy": "多元资产配置",
+    "risk_management": "高",
+    "experience_years": 16,
+    "certifications": [
+      "金融分析师",
+      "CFP",
+      "CPA"
+    ],
+    "specialties": [
+      "分散投资",
+      "风险控制",
+      "策略动态调整"
+    ],
+    "previous_funds_managed": 18,
+    "social_media": {
+      "twitter": "@Mike_52",
+      "linkedin": "linkedin.com/in/mike_allen"
+    },
+    "notes": "多元资产配置"
+  },
+  {
+    "manager_id": "MGR0083",
+    "name": "Michael Evans",
+    "investment_philosophy": "多元资产配置",
+    "risk_management": "中低",
+    "experience_years": 5,
+    "certifications": [
+      "CPA"
+    ],
+    "specialties": [
+      "分散投资",
+      "风险控制",
+      "策略动态调整"
+    ],
+    "previous_funds_managed": 6,
+    "social_media": {
+      "twitter": "@Michael_84",
+      "linkedin": "linkedin.com/in/michael_evans"
+    },
+    "notes": "多元资产配置"
+  },
+  {
+    "manager_id": "MGR0084",
+    "name": "Paul Jones",
+    "investment_philosophy": "多元资产配置",
+    "risk_management": "中",
+    "experience_years": 13,
+    "certifications": [
+      "CFA"
+    ],
+    "specialties": [
+      "分散投资",
+      "风险控制",
+      "策略动态调整"
+    ],
+    "previous_funds_managed": 20,
+    "social_media": {
+      "twitter": "@Paul_65",
+      "linkedin": "linkedin.com/in/paul_jones"
+    },
+    "notes": "多元资产配置"
+  },
+  {
+    "manager_id": "MGR0085",
+    "name": "Zachary Ferrell",
+    "investment_philosophy": "主题投资",
+    "risk_management": "中高",
+    "experience_years": 16,
+    "certifications": [
+      "CPA",
+      "CFP",
+      "金融分析师"
+    ],
+    "specialties": [
+      "行业专注",
+      "热点捕捉",
+      "灵活配置"
+    ],
+    "previous_funds_managed": 17,
+    "social_media": {
+      "twitter": "@Zachary_24",
+      "linkedin": "linkedin.com/in/zachary_ferrell"
+    },
+    "notes": "主题投资"
+  },
+  {
+    "manager_id": "MGR0086",
+    "name": "Daniel Baker",
+    "investment_philosophy": null,
+    "risk_management": null,
+    "experience_years": 17,
+    "certifications": [
+      "FRM",
+      "CPA",
+      "CFA"
+    ],
+    "specialties": [],
+    "previous_funds_managed": 14,
+    "social_media": {
+      "twitter": "@Daniel_10",
+      "linkedin": "linkedin.com/in/daniel_baker"
+    },
+    "notes": "无"
+  },
+  {
+    "manager_id": "MGR0087",
+    "name": "Shirley Suarez",
+    "investment_philosophy": "量化投资",
+    "risk_management": null,
+    "experience_years": 21,
+    "certifications": [
+      "FRM",
+      "CPA",
+      "金融分析师"
+    ],
+    "specialties": [
+      "数据驱动",
+      "模型建模",
+      "策略调整频繁"
+    ],
+    "previous_funds_managed": 3,
+    "social_media": {
+      "twitter": "@Shirley_95",
+      "linkedin": "linkedin.com/in/shirley_suarez"
+    },
+    "notes": "量化投资"
+  },
+  {
+    "manager_id": "MGR0088",
+    "name": "Christopher Bass",
+    "investment_philosophy": "主题投资",
+    "risk_management": "中低",
+    "experience_years": 15,
+    "certifications": [
+      "CPA",
+      "CFA",
+      "金融分析师"
+    ],
+    "specialties": [
+      "行业专注",
+      "热点捕捉",
+      "灵活配置"
+    ],
+    "previous_funds_managed": 10,
+    "social_media": {
+      "twitter": "@Christopher_74",
+      "linkedin": "linkedin.com/in/christopher_bass"
+    },
+    "notes": "主题投资"
+  },
+  {
+    "manager_id": "MGR0089",
+    "name": "Lisa Archer",
+    "investment_philosophy": "多元资产配置",
+    "risk_management": "中低",
+    "experience_years": 14,
+    "certifications": [
+      "CFP",
+      "CPA",
+      "FRM"
+    ],
+    "specialties": [
+      "分散投资",
+      "风险控制",
+      "策略动态调整"
+    ],
+    "previous_funds_managed": 10,
+    "social_media": {
+      "twitter": "@Lisa_80",
+      "linkedin": "linkedin.com/in/lisa_archer"
+    },
+    "notes": "多元资产配置"
+  },
+  {
+    "manager_id": "MGR0090",
+    "name": "Aimee Montoya",
+    "investment_philosophy": "量化投资",
+    "risk_management": "中低",
+    "experience_years": 9,
+    "certifications": [
+      "CFP"
+    ],
+    "specialties": [
+      "数据驱动",
+      "模型建模",
+      "策略调整频繁"
+    ],
+    "previous_funds_managed": 13,
+    "social_media": {
+      "twitter": "@Aimee_96",
+      "linkedin": "linkedin.com/in/aimee_montoya"
+    },
+    "notes": "量化投资"
+  },
+  {
+    "manager_id": "MGR0091",
+    "name": "Matthew Mcmillan",
+    "investment_philosophy": null,
+    "risk_management": "中高",
+    "experience_years": 28,
+    "certifications": [
+      "金融分析师"
+    ],
+    "specialties": [],
+    "previous_funds_managed": 19,
+    "social_media": {
+      "twitter": "@Matthew_48",
+      "linkedin": "linkedin.com/in/matthew_mcmillan"
+    },
+    "notes": "无"
+  },
+  {
+    "manager_id": "MGR0092",
+    "name": "Brian Rodriguez",
+    "investment_philosophy": "价值投资",
+    "risk_management": "中",
+    "experience_years": 17,
+    "certifications": [
+      "CFA",
+      "CPA",
+      "FRM"
+    ],
+    "specialties": [
+      "保守",
+      "稳健",
+      "注重基本面"
+    ],
+    "previous_funds_managed": 7,
+    "social_media": {
+      "twitter": "@Brian_65",
+      "linkedin": "linkedin.com/in/brian_rodriguez"
+    },
+    "notes": "价值投资"
+  },
+  {
+    "manager_id": "MGR0093",
+    "name": "Denise Jacobs",
+    "investment_philosophy": "成长投资",
+    "risk_management": null,
+    "experience_years": 30,
+    "certifications": [
+      "金融分析师",
+      "CPA",
+      "FRM"
+    ],
+    "specialties": [
+      "激进",
+      "关注高成长行业",
+      "长线持有"
+    ],
+    "previous_funds_managed": 15,
+    "social_media": {
+      "twitter": "@Denise_66",
+      "linkedin": "linkedin.com/in/denise_jacobs"
+    },
+    "notes": "成长投资"
+  },
+  {
+    "manager_id": "MGR0094",
+    "name": "Christina Walters",
+    "investment_philosophy": "价值投资",
+    "risk_management": "高",
+    "experience_years": 26,
+    "certifications": [
+      "金融分析师"
+    ],
+    "specialties": [
+      "保守",
+      "稳健",
+      "注重基本面"
+    ],
+    "previous_funds_managed": 16,
+    "social_media": {
+      "twitter": "@Christina_31",
+      "linkedin": "linkedin.com/in/christina_walters"
+    },
+    "notes": "价值投资"
+  },
+  {
+    "manager_id": "MGR0095",
+    "name": "John Whitehead",
+    "investment_philosophy": null,
+    "risk_management": null,
+    "experience_years": 26,
+    "certifications": [
+      "CPA"
+    ],
+    "specialties": [],
+    "previous_funds_managed": 17,
+    "social_media": {
+      "twitter": "@John_94",
+      "linkedin": "linkedin.com/in/john_whitehead"
+    },
+    "notes": "无"
+  },
+  {
+    "manager_id": "MGR0096",
+    "name": "Anna Henderson",
+    "investment_philosophy": "价值投资",
+    "risk_management": "低",
+    "experience_years": 25,
+    "certifications": [
+      "CPA",
+      "CFA",
+      "CFP"
+    ],
+    "specialties": [
+      "保守",
+      "稳健",
+      "注重基本面"
+    ],
+    "previous_funds_managed": 10,
+    "social_media": {
+      "twitter": "@Anna_38",
+      "linkedin": "linkedin.com/in/anna_henderson"
+    },
+    "notes": "价值投资"
+  },
+  {
+    "manager_id": "MGR0097",
+    "name": "Aaron Wise",
+    "investment_philosophy": "主题投资",
+    "risk_management": "低",
+    "experience_years": 30,
+    "certifications": [
+      "FRM"
+    ],
+    "specialties": [
+      "行业专注",
+      "热点捕捉",
+      "灵活配置"
+    ],
+    "previous_funds_managed": 1,
+    "social_media": {
+      "twitter": "@Aaron_15",
+      "linkedin": "linkedin.com/in/aaron_wise"
+    },
+    "notes": "主题投资"
+  },
+  {
+    "manager_id": "MGR0098",
+    "name": "Deborah Figueroa",
+    "investment_philosophy": "量化投资",
+    "risk_management": "中",
+    "experience_years": 12,
+    "certifications": [
+      "金融分析师",
+      "CFA"
+    ],
+    "specialties": [
+      "数据驱动",
+      "模型建模",
+      "策略调整频繁"
+    ],
+    "previous_funds_managed": 15,
+    "social_media": {
+      "twitter": "@Deborah_63",
+      "linkedin": "linkedin.com/in/deborah_figueroa"
+    },
+    "notes": "量化投资"
+  },
+  {
+    "manager_id": "MGR0099",
+    "name": "Jessica Smith",
+    "investment_philosophy": "价值投资",
+    "risk_management": "中低",
+    "experience_years": 25,
+    "certifications": [
+      "FRM",
+      "CFP",
+      "金融分析师"
+    ],
+    "specialties": [
+      "保守",
+      "稳健",
+      "注重基本面"
+    ],
+    "previous_funds_managed": 13,
+    "social_media": {
+      "twitter": "@Jessica_41",
+      "linkedin": "linkedin.com/in/jessica_smith"
+    },
+    "notes": "价值投资"
+  },
+  {
+    "manager_id": "MGR0100",
+    "name": "Stephen Mckee",
+    "investment_philosophy": null,
+    "risk_management": null,
+    "experience_years": 9,
+    "certifications": [
+      "CFA",
+      "金融分析师",
+      "FRM"
+    ],
+    "specialties": [],
+    "previous_funds_managed": 8,
+    "social_media": {
+      "twitter": "@Stephen_32",
+      "linkedin": "linkedin.com/in/stephen_mckee"
+    },
+    "notes": "无"
+  }
+]

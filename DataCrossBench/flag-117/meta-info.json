@@ -1,0 +1,21 @@
+{
+    "goal": "比较美国和加拿大与中东和北非地区在金融科技投资者集中度上的变化及其影响。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 尽管2022年和2023年年增长率仅为1%，但金融科技行业的长期前景依然乐观，预计净收入年增长率将达到15%。",
+        "Comparison: 欧洲金融科技融资总额截至2023年底达到每年56亿美元，显示出与其他地区的差异。",
+        "Extreme: 蚂蚁集团在2018年的融资金额达到140亿美元，占当年全球金融科技总VC融资的31%。",
+        "Attribution: 本地投资者的增加有助于支持本土金融科技初创企业，满足特定市场需求。"
+    ],
+    "summary": "本报告分析了风险投资在金融科技领域的影响，探讨了不同地区的投资趋势和挑战。",
+    "flag_id": "flag-117",
+    "classifier": "FinTech",
+    "classifier_cn": "金融科技",
+    "input_files": [
+        "output/Fintech_Comparisons.json",
+        "output/Fintech_Investments.csv",
+        "output/Fintech_Trends.json",
+        "output/business_background.txt",
+        "output/dimensions.db"
+    ]
+}

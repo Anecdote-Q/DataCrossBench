@@ -1,0 +1,20 @@
+{
+    "goal": "分析阿里巴巴FY2025和FY2026的经调整净利润增长原因及其对未来财务展望的影响。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 阿里巴巴的经调整净利润预计在FY2025达到1703.22亿元，FY2026将增至1934.54亿元，显示出8.2%和13.6%的同比增速。",
+        "Comparison: 阿里巴巴的智能云业务收入增速预计将超过谷歌云的14%利润率，阿里巴巴的AI云EBIT Margin为15.7%。",
+        "Extreme: 阿里巴巴FY25Q3资本开支高达314亿元，同比增长331%，显示出公司对云和AI硬件基础设施的重视。",
+        "Attribution: 阿里巴巴的收入增长提速与AI需求的提升密切相关，尤其是在云业务领域，预计未来三年将投入超过3800亿元用于云和AI硬件基础设施。"
+    ],
+    "summary": "本报告分析了阿里巴巴的收入增长、利润率提升及其在云业务市场的竞争格局，预计未来将超出市场预期，尤其是在AI驱动的云业务领域。",
+    "flag_id": "flag-132",
+    "classifier": "Internet Firms",
+    "classifier_cn": "互联网公司研究",
+    "input_files": [
+        "output/business_background.txt",
+        "output/dimension_data.db",
+        "output/orders_fact.csv",
+        "output/user_profiles.json"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "goal": "评估华商基金相对沪深300的超额收益表现的原因及其可持续性。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 基金管理数量从成立初期的少量逐步增加至87只，反映出市场认可度的提升。",
+        "Comparison: 在2023年，华商医药医疗行业基金的收益率相对沪深300的超额收益为5.21%。",
+        "Extreme: 管理人员工持有份额在2023年中累计超31万份，显示出对基金前景的信心。",
+        "Attribution: 基金的投资策略与基金经理的投资理念一致，强调自上而下的赛道选择与自下而上的价值挖掘。"
+    ],
+    "summary": "本报告分析了华商基金管理公司的整体市场表现、资产管理规模及投资风险，强调了市场认可度的提升与投资者需关注的风险因素。",
+    "flag_id": "flag-102",
+    "classifier": "Fund Analysis",
+    "classifier_cn": "基金分析",
+    "input_files": [
+        "output/background.txt",
+        "output/dimension_data.db",
+        "output/fund_fact.png",
+        "output/user_profiles.json"
+    ]
+}

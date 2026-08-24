@@ -1,0 +1,24 @@
+{
+    "goal": "比较中国与全球医疗保健市场的增长速度，分析其背后的驱动因素。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 全球人工智能解决方案市场预计到2030年将达到14,142亿美元，年复合增长率为34.0%。",
+        "Comparison: 医疗保健市场规模的增长速度（CAGR 35.5%）高于农业（CAGR 34.0%）和美容及化妆品市场（CAGR 34.0%）。",
+        "Extreme: 整体药物研发成功率仅为12.9%，显示出药物研发的高风险性。",
+        "Attribution: 全球药品市场的增长与人口老龄化和经济发展密切相关，推动了对药品的需求上升。"
+    ],
+    "summary": "本报告分析了AI技术在医药生物行业的应用，特别是在药物研发中的重要性和市场增长潜力，强调了AI技术推动产业数字化转型的趋势。",
+    "flag_id": "flag-64",
+    "classifier": "AI Healthcare",
+    "classifier_cn": "AI 医疗健康",
+    "input_files": [
+        "output/background.txt",
+        "output/china_global_growth_comparison.png",
+        "output/china_growth_rate_outliers.png",
+        "output/dimension_data.db",
+        "output/growth_rate_trends.png",
+        "output/market_growth.csv",
+        "output/market_growth_cagr_distribution.png",
+        "output/nested_details.json"
+    ]
+}

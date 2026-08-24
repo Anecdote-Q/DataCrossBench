@@ -1,0 +1,365 @@
+[
+  {
+    "drama_id": 1,
+    "user_id": "4774bc58-c5f8-4c16-b786-0b5011c58ef0",
+    "tags": [
+      "have",
+      "put",
+      "Mr"
+    ],
+    "rating": 2.7542523125729597,
+    "last_watched_date": "2023-03-03 00:00:00"
+  },
+  {
+    "drama_id": 1,
+    "user_id": "d7fa2d8d-fb2c-4025-adf4-e62d6651529e",
+    "tags": [
+      "not",
+      "glass",
+      "wrong"
+    ],
+    "rating": 2.230332226333892,
+    "last_watched_date": "2023-08-04 00:00:00"
+  },
+  {
+    "drama_id": 1,
+    "user_id": "f86c2ca2-e085-46db-9d87-09660710d430",
+    "tags": [
+      "every",
+      "could",
+      "partner"
+    ],
+    "rating": 3.95000539550718,
+    "last_watched_date": "2023-08-02 00:00:00"
+  },
+  {
+    "drama_id": 2,
+    "user_id": "09cb3942-43f5-4a85-bbc9-f87af668a617",
+    "tags": [
+      "boy",
+      "pick",
+      "leader"
+    ],
+    "rating": 4.726516468575364,
+    "last_watched_date": "2023-02-04 00:00:00"
+  },
+  {
+    "drama_id": 2,
+    "user_id": "504d281f-c953-4b63-ba81-edd9587ef344",
+    "tags": [
+      "least",
+      "police",
+      "much"
+    ],
+    "rating": 1.962170123484518,
+    "last_watched_date": "2023-05-11 00:00:00"
+  },
+  {
+    "drama_id": 2,
+    "user_id": "939b462d-e645-4129-a29c-2ae31d9af659",
+    "tags": [
+      "customer",
+      "environmental",
+      "another"
+    ],
+    "rating": 2.9241962549718146,
+    "last_watched_date": "2023-09-14 00:00:00"
+  },
+  {
+    "drama_id": 2,
+    "user_id": "85197ff4-006e-46e3-afa1-7735b572f3d0",
+    "tags": [
+      "wish",
+      "sure",
+      "nothing"
+    ],
+    "rating": 2.06623715908795,
+    "last_watched_date": "2023-12-25 00:00:00"
+  },
+  {
+    "drama_id": 3,
+    "user_id": "bdf070aa-f0b5-456b-b82c-9074afd5dea5",
+    "tags": [
+      "since",
+      "religious",
+      "debate"
+    ],
+    "rating": 3.784208187653938,
+    "last_watched_date": "2023-07-26 00:00:00"
+  },
+  {
+    "drama_id": 3,
+    "user_id": "f2e9702d-11e9-4daa-ae69-81a35d3d9e56",
+    "tags": [
+      "red",
+      "wife",
+      "give"
+    ],
+    "rating": 2.601361609984799,
+    "last_watched_date": "2023-06-28 00:00:00"
+  },
+  {
+    "drama_id": 3,
+    "user_id": "d9178793-a9d3-42e6-905c-c6869f871ce7",
+    "tags": [
+      "capital",
+      "service",
+      "we"
+    ],
+    "rating": 2.939135912525254,
+    "last_watched_date": "2023-03-04 00:00:00"
+  },
+  {
+    "drama_id": 3,
+    "user_id": "aab97e49-4f2d-4796-81d2-c7de4ce1eb90",
+    "tags": [
+      "issue",
+      "general",
+      "interesting"
+    ],
+    "rating": 2.940182736338331,
+    "last_watched_date": "2023-04-06 00:00:00"
+  },
+  {
+    "drama_id": 4,
+    "user_id": "2095eef6-8ded-49fb-8bb0-0f20b27c4026",
+    "tags": [
+      "dark",
+      "kitchen",
+      "red"
+    ],
+    "rating": 3.961173766418355,
+    "last_watched_date": "2023-08-19 00:00:00"
+  },
+  {
+    "drama_id": 4,
+    "user_id": "bf85bf0e-ad64-456c-a10f-aa3ff0bbac67",
+    "tags": [
+      "weight",
+      "contain",
+      "power"
+    ],
+    "rating": 4.477894044741516,
+    "last_watched_date": "2023-02-05 00:00:00"
+  },
+  {
+    "drama_id": 4,
+    "user_id": "8c459ce2-67f4-4ad5-8d0b-0d1a91b0e1d9",
+    "tags": [
+      "these",
+      "a",
+      "fly"
+    ],
+    "rating": 2.4817297817263526,
+    "last_watched_date": "2023-01-13 00:00:00"
+  },
+  {
+    "drama_id": 5,
+    "user_id": "c9277d9b-6e0d-4648-b5ce-884149732d6c",
+    "tags": [
+      "particularly",
+      "policy",
+      "real"
+    ],
+    "rating": 2.1915063971068123,
+    "last_watched_date": "2023-03-07 00:00:00"
+  },
+  {
+    "drama_id": 5,
+    "user_id": "71316269-7118-4364-b709-7749527eecfa",
+    "tags": [
+      "Republican",
+      "different",
+      "much"
+    ],
+    "rating": 2.4982429564154636,
+    "last_watched_date": "2023-06-19 00:00:00"
+  },
+  {
+    "drama_id": 5,
+    "user_id": "f5b78cc7-e6b3-4944-8b32-3e357922bac2",
+    "tags": [
+      "style",
+      "simply",
+      "condition"
+    ],
+    "rating": 3.5014483315248053,
+    "last_watched_date": "2023-05-14 00:00:00"
+  },
+  {
+    "drama_id": 5,
+    "user_id": "83f4a9a9-48a6-49d0-95b5-2908a8aa7158",
+    "tags": [
+      "record",
+      "property",
+      "president"
+    ],
+    "rating": 4.158186652932027,
+    "last_watched_date": "2023-10-11 00:00:00"
+  },
+  {
+    "drama_id": 6,
+    "user_id": "f3b63fe1-d184-4324-97e8-392a55cee5db",
+    "tags": [
+      "society",
+      "easy",
+      "remember"
+    ],
+    "rating": 2.655919458688681,
+    "last_watched_date": "2023-12-14 00:00:00"
+  },
+  {
+    "drama_id": 6,
+    "user_id": "32fa2de8-ce7a-47f6-b982-0cff4f77a665",
+    "tags": [
+      "choice",
+      "ago",
+      "any"
+    ],
+    "rating": 3.750785885589421,
+    "last_watched_date": "2023-08-19 00:00:00"
+  },
+  {
+    "drama_id": 6,
+    "user_id": "9c7c7377-79a2-4903-bbe3-3b243eae0032",
+    "tags": [
+      "to",
+      "special",
+      "baby"
+    ],
+    "rating": 2.7418152014636608,
+    "last_watched_date": "2023-10-10 00:00:00"
+  },
+  {
+    "drama_id": 7,
+    "user_id": "a1384ddc-e2d9-4e5d-aa18-ce4c74962764",
+    "tags": [
+      "parent",
+      "day",
+      "serious"
+    ],
+    "rating": 3.4609556154202936,
+    "last_watched_date": "2023-05-01 00:00:00"
+  },
+  {
+    "drama_id": 7,
+    "user_id": "664fa663-7e8f-4095-a24c-69b6b24445a7",
+    "tags": [
+      "either",
+      "choose",
+      "reality"
+    ],
+    "rating": 3.296120277064576,
+    "last_watched_date": "2023-12-25 00:00:00"
+  },
+  {
+    "drama_id": 7,
+    "user_id": "c03f3538-e485-4aa1-816b-6287b00805cc",
+    "tags": [
+      "traditional",
+      "speech",
+      "value"
+    ],
+    "rating": 0.2,
+    "last_watched_date": "2023-07-17 00:00:00"
+  },
+  {
+    "drama_id": 8,
+    "user_id": "3805f907-6cd6-4193-8746-8f591b494e15",
+    "tags": [
+      "control",
+      "summer",
+      "safe"
+    ],
+    "rating": 1.5846292579495858,
+    "last_watched_date": "2023-11-03 00:00:00"
+  },
+  {
+    "drama_id": 8,
+    "user_id": "8eb22579-0cdb-4ca4-b6ec-bdd68498e113",
+    "tags": [
+      "enjoy",
+      "whose",
+      "thus"
+    ],
+    "rating": 2.579354677234641,
+    "last_watched_date": "2023-08-22 00:00:00"
+  },
+  {
+    "drama_id": 8,
+    "user_id": "cd29a36f-2222-42e1-b4da-aebf1f115b76",
+    "tags": [
+      "majority",
+      "region",
+      "nice"
+    ],
+    "rating": 3.4529363265335093,
+    "last_watched_date": "2023-06-09 00:00:00"
+  },
+  {
+    "drama_id": 8,
+    "user_id": "513a7052-986f-4025-8f15-ba58fce68504",
+    "tags": [
+      "someone",
+      "vote",
+      "level"
+    ],
+    "rating": 2.8339390916489346,
+    "last_watched_date": "2023-04-06 00:00:00"
+  },
+  {
+    "drama_id": 9,
+    "user_id": "e45b712e-b822-4688-90a4-44329cd6c852",
+    "tags": [
+      "mother",
+      "last",
+      "then"
+    ],
+    "rating": 2.337261686621787,
+    "last_watched_date": "2023-02-21 00:00:00"
+  },
+  {
+    "drama_id": 9,
+    "user_id": "e5af6e39-7227-44e6-8c41-561be827a1b9",
+    "tags": [
+      "cold",
+      "six",
+      "training"
+    ],
+    "rating": 2.8535271932583837,
+    "last_watched_date": null
+  },
+  {
+    "drama_id": 10,
+    "user_id": "c074718e-425a-409f-b337-c59979844388",
+    "tags": [
+      "end",
+      "though",
+      "public"
+    ],
+    "rating": 4.086727023039273,
+    "last_watched_date": "2023-04-11 00:00:00"
+  },
+  {
+    "drama_id": 10,
+    "user_id": "8573e793-c715-42b9-840c-5d9146fde062",
+    "tags": [
+      "memory",
+      "produce",
+      "edge"
+    ],
+    "rating": 4.004986880702632,
+    "last_watched_date": "2023-04-23 00:00:00"
+  },
+  {
+    "drama_id": 10,
+    "user_id": "b6aae05b-13d5-42f7-b09b-7d97464c04af",
+    "tags": [
+      "feeling",
+      "easy",
+      "expert"
+    ],
+    "rating": 2.935621949199033,
+    "last_watched_date": "2023-12-09 00:00:00"
+  }
+]

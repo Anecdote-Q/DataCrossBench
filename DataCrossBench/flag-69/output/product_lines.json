@@ -1,0 +1,3875 @@
+[
+  {
+    "investment_id": 1,
+    "product_lines": [
+      "生物制药",
+      "基因治疗"
+    ]
+  },
+  {
+    "investment_id": 2,
+    "product_lines": [
+      "生物制药",
+      "疫苗研发",
+      "基因治疗"
+    ]
+  },
+  {
+    "investment_id": 3,
+    "product_lines": [
+      "智能辅助治疗",
+      "智能影像识别"
+    ]
+  },
+  {
+    "investment_id": 4,
+    "product_lines": [
+      "健康管理APP",
+      "电子健康档案"
+    ]
+  },
+  {
+    "investment_id": 5,
+    "product_lines": [
+      "生物制药",
+      "疫苗研发",
+      "基因治疗"
+    ]
+  },
+  {
+    "investment_id": 6,
+    "product_lines": [
+      "AI诊断系统",
+      "智能影像识别",
+      "智能辅助治疗"
+    ]
+  },
+  {
+    "investment_id": 7,
+    "product_lines": [
+      "手术机器人",
+      "监测设备"
+    ]
+  },
+  {
+    "investment_id": 8,
+    "product_lines": [
+      "远程监护",
+      "健康管理APP",
+      "电子健康档案"
+    ]
+  },
+  {
+    "investment_id": 9,
+    "product_lines": [
+      "手术机器人",
+      "康复设备",
+      "监测设备"
+    ]
+  },
+  {
+    "investment_id": 10,
+    "product_lines": [
+      "远程监护",
+      "电子健康档案"
+    ]
+  },
+  {
+    "investment_id": 11,
+    "product_lines": [
+      "生物制药",
+      "基因治疗",
+      "疫苗研发"
+    ]
+  },
+  {
+    "investment_id": 12,
+    "product_lines": [
+      "AI诊断系统",
+      "智能影像识别",
+      "智能辅助治疗"
+    ]
+  },
+  {
+    "investment_id": 13,
+    "product_lines": [
+      "康复设备",
+      "手术机器人",
+      "监测设备"
+    ]
+  },
+  {
+    "investment_id": 14,
+    "product_lines": [
+      "监测设备",
+      "手术机器人",
+      "康复设备"
+    ]
+  },
+  {
+    "investment_id": 15,
+    "product_lines": [
+      "智能影像识别",
+      "智能辅助治疗"
+    ]
+  },
+  {
+    "investment_id": 16,
+    "product_lines": [
+      "智能辅助治疗",
+      "智能影像识别",
+      "AI诊断系统"
+    ]
+  },
+  {
+    "investment_id": 17,
+    "product_lines": [
+      "智能影像识别",
+      "AI诊断系统",
+      "智能辅助治疗"
+    ]
+  },
+  {
+    "investment_id": 18,
+    "product_lines": [
+      "电子健康档案",
+      "健康管理APP"
+    ]
+  },
+  {
+    "investment_id": 19,
+    "product_lines": [
+      "医疗大数据",
+      "云端医疗服务",
+      "医疗信息化"
+    ]
+  },
+  {
+    "investment_id": 20,
+    "product_lines": [
+      "智能辅助治疗",
+      "AI诊断系统",
+      "智能影像识别"
+    ]
+  },
+  {
+    "investment_id": 21,
+    "product_lines": [
+      "生物制药",
+      "疫苗研发"
+    ]
+  },
+  {
+    "investment_id": 22,
+    "product_lines": [
+      "智能影像识别",
+      "智能辅助治疗",
+      "AI诊断系统"
+    ]
+  },
+  {
+    "investment_id": 23,
+    "product_lines": [
+      "医疗信息化",
+      "云端医疗服务",
+      "医疗大数据"
+    ]
+  },
+  {
+    "investment_id": 24,
+    "product_lines": [
+      "远程监护",
+      "电子健康档案",
+      "健康管理APP"
+    ]
+  },
+  {
+    "investment_id": 25,
+    "product_lines": [
+      "健康管理APP",
+      "电子健康档案",
+      "远程监护"
+    ]
+  },
+  {
+    "investment_id": 26,
+    "product_lines": [
+      "智能辅助治疗",
+      "智能影像识别",
+      "AI诊断系统"
+    ]
+  },
+  {
+    "investment_id": 27,
+    "product_lines": [
+      "AI诊断系统",
+      "智能影像识别",
+      "智能辅助治疗"
+    ]
+  },
+  {
+    "investment_id": 28,
+    "product_lines": [
+      "AI诊断系统",
+      "智能辅助治疗"
+    ]
+  },
+  {
+    "investment_id": 29,
+    "product_lines": [
+      "智能辅助治疗",
+      "智能影像识别",
+      "AI诊断系统"
+    ]
+  },
+  {
+    "investment_id": 30,
+    "product_lines": [
+      "监测设备",
+      "康复设备",
+      "手术机器人"
+    ]
+  },
+  {
+    "investment_id": 31,
+    "product_lines": [
+      "电子健康档案",
+      "健康管理APP"
+    ]
+  },
+  {
+    "investment_id": 32,
+    "product_lines": [
+      "医疗信息化",
+      "云端医疗服务",
+      "医疗大数据"
+    ]
+  },
+  {
+    "investment_id": 33,
+    "product_lines": [
+      "云端医疗服务",
+      "医疗大数据",
+      "医疗信息化"
+    ]
+  },
+  {
+    "investment_id": 34,
+    "product_lines": [
+      "疫苗研发",
+      "基因治疗"
+    ]
+  },
+  {
+    "investment_id": 35,
+    "product_lines": [
+      "电子健康档案",
+      "健康管理APP",
+      "远程监护"
+    ]
+  },
+  {
+    "investment_id": 36,
+    "product_lines": [
+      "手术机器人",
+      "监测设备",
+      "康复设备"
+    ]
+  },
+  {
+    "investment_id": 37,
+    "product_lines": [
+      "电子健康档案",
+      "远程监护"
+    ]
+  },
+  {
+    "investment_id": 38,
+    "product_lines": [
+      "AI诊断系统",
+      "智能辅助治疗",
+      "智能影像识别"
+    ]
+  },
+  {
+    "investment_id": 39,
+    "product_lines": [
+      "AI诊断系统",
+      "智能辅助治疗",
+      "智能影像识别"
+    ]
+  },
+  {
+    "investment_id": 40,
+    "product_lines": [
+      "AI诊断系统",
+      "智能影像识别"
+    ]
+  },
+  {
+    "investment_id": 41,
+    "product_lines": [
+      "医疗信息化",
+      "医疗大数据"
+    ]
+  },
+  {
+    "investment_id": 42,
+    "product_lines": [
+      "疫苗研发",
+      "基因治疗",
+      "生物制药"
+    ]
+  },
+  {
+    "investment_id": 43,
+    "product_lines": [
+      "智能辅助治疗",
+      "智能影像识别",
+      "AI诊断系统"
+    ]
+  },
+  {
+    "investment_id": 44,
+    "product_lines": [
+      "疫苗研发",
+      "基因治疗",
+      "生物制药"
+    ]
+  },
+  {
+    "investment_id": 45,
+    "product_lines": [
+      "基因治疗",
+      "疫苗研发",
+      "生物制药"
+    ]
+  },
+  {
+    "investment_id": 46,
+    "product_lines": [
+      "AI诊断系统",
+      "智能辅助治疗",
+      "智能影像识别"
+    ]
+  },
+  {
+    "investment_id": 47,
+    "product_lines": [
+      "智能辅助治疗",
+      "AI诊断系统"
+    ]
+  },
+  {
+    "investment_id": 48,
+    "product_lines": [
+      "生物制药",
+      "疫苗研发",
+      "基因治疗"
+    ]
+  },
+  {
+    "investment_id": 49,
+    "product_lines": [
+      "生物制药",
+      "疫苗研发",
+      "基因治疗"
+    ]
+  },
+  {
+    "investment_id": 50,
+    "product_lines": [
+      "电子健康档案",
+      "健康管理APP"
+    ]
+  },
+  {
+    "investment_id": 51,
+    "product_lines": [
+      "疫苗研发",
+      "基因治疗",
+      "生物制药"
+    ]
+  },
+  {
+    "investment_id": 52,
+    "product_lines": [
+      "康复设备",
+      "监测设备",
+      "手术机器人"
+    ]
+  },
+  {
+    "investment_id": 53,
+    "product_lines": [
+      "基因治疗",
+      "生物制药",
+      "疫苗研发"
+    ]
+  },
+  {
+    "investment_id": 54,
+    "product_lines": [
+      "疫苗研发",
+      "基因治疗"
+    ]
+  },
+  {
+    "investment_id": 55,
+    "product_lines": [
+      "监测设备",
+      "康复设备",
+      "手术机器人"
+    ]
+  },
+  {
+    "investment_id": 56,
+    "product_lines": [
+      "智能辅助治疗",
+      "AI诊断系统"
+    ]
+  },
+  {
+    "investment_id": 57,
+    "product_lines": [
+      "智能影像识别",
+      "智能辅助治疗"
+    ]
+  },
+  {
+    "investment_id": 58,
+    "product_lines": [
+      "AI诊断系统",
+      "智能辅助治疗"
+    ]
+  },
+  {
+    "investment_id": 59,
+    "product_lines": [
+      "电子健康档案",
+      "远程监护",
+      "健康管理APP"
+    ]
+  },
+  {
+    "investment_id": 60,
+    "product_lines": [
+      "生物制药",
+      "基因治疗",
+      "疫苗研发"
+    ]
+  },
+  {
+    "investment_id": 61,
+    "product_lines": [
+      "健康管理APP",
+      "远程监护",
+      "电子健康档案"
+    ]
+  },
+  {
+    "investment_id": 62,
+    "product_lines": [
+      "智能辅助治疗",
+      "AI诊断系统"
+    ]
+  },
+  {
+    "investment_id": 63,
+    "product_lines": [
+      "AI诊断系统",
+      "智能辅助治疗"
+    ]
+  },
+  {
+    "investment_id": 64,
+    "product_lines": [
+      "智能影像识别",
+      "智能辅助治疗",
+      "AI诊断系统"
+    ]
+  },
+  {
+    "investment_id": 65,
+    "product_lines": [
+      "AI诊断系统",
+      "智能辅助治疗",
+      "智能影像识别"
+    ]
+  },
+  {
+    "investment_id": 66,
+    "product_lines": [
+      "基因治疗",
+      "疫苗研发"
+    ]
+  },
+  {
+    "investment_id": 67,
+    "product_lines": [
+      "智能影像识别",
+      "智能辅助治疗",
+      "AI诊断系统"
+    ]
+  },
+  {
+    "investment_id": 68,
+    "product_lines": [
+      "AI诊断系统",
+      "智能影像识别",
+      "智能辅助治疗"
+    ]
+  },
+  {
+    "investment_id": 69,
+    "product_lines": [
+      "康复设备",
+      "手术机器人"
+    ]
+  },
+  {
+    "investment_id": 70,
+    "product_lines": [
+      "AI诊断系统",
+      "智能辅助治疗",
+      "智能影像识别"
+    ]
+  },
+  {
+    "investment_id": 71,
+    "product_lines": [
+      "生物制药",
+      "疫苗研发",
+      "基因治疗"
+    ]
+  },
+  {
+    "investment_id": 72,
+    "product_lines": [
+      "电子健康档案",
+      "健康管理APP"
+    ]
+  },
+  {
+    "investment_id": 73,
+    "product_lines": [
+      "智能影像识别",
+      "AI诊断系统",
+      "智能辅助治疗"
+    ]
+  },
+  {
+    "investment_id": 74,
+    "product_lines": [
+      "疫苗研发",
+      "生物制药"
+    ]
+  },
+  {
+    "investment_id": 75,
+    "product_lines": [
+      "康复设备",
+      "监测设备",
+      "手术机器人"
+    ]
+  },
+  {
+    "investment_id": 76,
+    "product_lines": [
+      "康复设备",
+      "监测设备",
+      "手术机器人"
+    ]
+  },
+  {
+    "investment_id": 77,
+    "product_lines": [
+      "智能影像识别",
+      "AI诊断系统",
+      "智能辅助治疗"
+    ]
+  },
+  {
+    "investment_id": 78,
+    "product_lines": [
+      "监测设备",
+      "手术机器人",
+      "康复设备"
+    ]
+  },
+  {
+    "investment_id": 79,
+    "product_lines": [
+      "智能辅助治疗",
+      "AI诊断系统",
+      "智能影像识别"
+    ]
+  },
+  {
+    "investment_id": 80,
+    "product_lines": [
+      "智能辅助治疗",
+      "智能影像识别",
+      "AI诊断系统"
+    ]
+  },
+  {
+    "investment_id": 81,
+    "product_lines": [
+      "AI诊断系统",
+      "智能辅助治疗",
+      "智能影像识别"
+    ]
+  },
+  {
+    "investment_id": 82,
+    "product_lines": [
+      "医疗大数据",
+      "云端医疗服务",
+      "医疗信息化"
+    ]
+  },
+  {
+    "investment_id": 83,
+    "product_lines": [
+      "智能辅助治疗",
+      "智能影像识别"
+    ]
+  },
+  {
+    "investment_id": 84,
+    "product_lines": [
+      "AI诊断系统",
+      "智能影像识别"
+    ]
+  },
+  {
+    "investment_id": 85,
+    "product_lines": [
+      "生物制药",
+      "疫苗研发"
+    ]
+  },
+  {
+    "investment_id": 86,
+    "product_lines": [
+      "智能影像识别",
+      "AI诊断系统",
+      "智能辅助治疗"
+    ]
+  },
+  {
+    "investment_id": 87,
+    "product_lines": [
+      "智能辅助治疗",
+      "智能影像识别",
+      "AI诊断系统"
+    ]
+  },
+  {
+    "investment_id": 88,
+    "product_lines": [
+      "AI诊断系统",
+      "智能辅助治疗",
+      "智能影像识别"
+    ]
+  },
+  {
+    "investment_id": 89,
+    "product_lines": [
+      "AI诊断系统",
+      "智能辅助治疗",
+      "智能影像识别"
+    ]
+  },
+  {
+    "investment_id": 90,
+    "product_lines": [
+      "智能辅助治疗",
+      "智能影像识别",
+      "AI诊断系统"
+    ]
+  },
+  {
+    "investment_id": 91,
+    "product_lines": [
+      "智能辅助治疗",
+      "智能影像识别",
+      "AI诊断系统"
+    ]
+  },
+  {
+    "investment_id": 92,
+    "product_lines": [
+      "生物制药",
+      "疫苗研发"
+    ]
+  },
+  {
+    "investment_id": 93,
+    "product_lines": [
+      "智能影像识别",
+      "AI诊断系统"
+    ]
+  },
+  {
+    "investment_id": 94,
+    "product_lines": [
+      "AI诊断系统",
+      "智能辅助治疗",
+      "智能影像识别"
+    ]
+  },
+  {
+    "investment_id": 95,
+    "product_lines": [
+      "手术机器人",
+      "监测设备",
+      "康复设备"
+    ]
+  },
+  {
+    "investment_id": 96,
+    "product_lines": [
+      "智能辅助治疗",
+      "AI诊断系统",
+      "智能影像识别"
+    ]
+  },
+  {
+    "investment_id": 97,
+    "product_lines": [
+      "疫苗研发",
+      "生物制药",
+      "基因治疗"
+    ]
+  },
+  {
+    "investment_id": 98,
+    "product_lines": [
+      "AI诊断系统",
+      "智能影像识别",
+      "智能辅助治疗"
+    ]
+  },
+  {
+    "investment_id": 99,
+    "product_lines": [
+      "智能辅助治疗",
+      "智能影像识别",
+      "AI诊断系统"
+    ]
+  },
+  {
+    "investment_id": 100,
+    "product_lines": [
+      "智能影像识别",
+      "AI诊断系统",
+      "智能辅助治疗"
+    ]
+  },
+  {
+    "investment_id": 101,
+    "product_lines": [
+      "AI诊断系统",
+      "智能影像识别",
+      "智能辅助治疗"
+    ]
+  },
+  {
+    "investment_id": 102,
+    "product_lines": [
+      "智能影像识别",
+      "智能辅助治疗",
+      "AI诊断系统"
+    ]
+  },
+  {
+    "investment_id": 103,
+    "product_lines": [
+      "AI诊断系统",
+      "智能辅助治疗",
+      "智能影像识别"
+    ]
+  },
+  {
+    "investment_id": 104,
+    "product_lines": [
+      "智能影像识别",
+      "智能辅助治疗",
+      "AI诊断系统"
+    ]
+  },
+  {
+    "investment_id": 105,
+    "product_lines": [
+      "智能影像识别",
+      "智能辅助治疗",
+      "AI诊断系统"
+    ]
+  },
+  {
+    "investment_id": 106,
+    "product_lines": [
+      "AI诊断系统",
+      "智能影像识别"
+    ]
+  },
+  {
+    "investment_id": 107,
+    "product_lines": [
+      "智能辅助治疗",
+      "智能影像识别",
+      "AI诊断系统"
+    ]
+  },
+  {
+    "investment_id": 108,
+    "product_lines": [
+      "智能辅助治疗",
+      "智能影像识别"
+    ]
+  },
+  {
+    "investment_id": 109,
+    "product_lines": [
+      "疫苗研发",
+      "基因治疗",
+      "生物制药"
+    ]
+  },
+  {
+    "investment_id": 110,
+    "product_lines": [
+      "基因治疗",
+      "生物制药"
+    ]
+  },
+  {
+    "investment_id": 111,
+    "product_lines": [
+      "AI诊断系统",
+      "智能影像识别",
+      "智能辅助治疗"
+    ]
+  },
+  {
+    "investment_id": 112,
+    "product_lines": [
+      "远程监护",
+      "电子健康档案",
+      "健康管理APP"
+    ]
+  },
+  {
+    "investment_id": 113,
+    "product_lines": [
+      "疫苗研发",
+      "基因治疗",
+      "生物制药"
+    ]
+  },
+  {
+    "investment_id": 114,
+    "product_lines": [
+      "智能辅助治疗",
+      "智能影像识别",
+      "AI诊断系统"
+    ]
+  },
+  {
+    "investment_id": 115,
+    "product_lines": [
+      "监测设备",
+      "康复设备",
+      "手术机器人"
+    ]
+  },
+  {
+    "investment_id": 116,
+    "product_lines": [
+      "监测设备",
+      "康复设备",
+      "手术机器人"
+    ]
+  },
+  {
+    "investment_id": 117,
+    "product_lines": [
+      "智能影像识别",
+      "AI诊断系统",
+      "智能辅助治疗"
+    ]
+  },
+  {
+    "investment_id": 118,
+    "product_lines": [
+      "AI诊断系统",
+      "智能影像识别",
+      "智能辅助治疗"
+    ]
+  },
+  {
+    "investment_id": 119,
+    "product_lines": [
+      "远程监护",
+      "电子健康档案",
+      "健康管理APP"
+    ]
+  },
+  {
+    "investment_id": 120,
+    "product_lines": [
+      "电子健康档案",
+      "健康管理APP",
+      "远程监护"
+    ]
+  },
+  {
+    "investment_id": 121,
+    "product_lines": [
+      "智能辅助治疗",
+      "智能影像识别",
+      "AI诊断系统"
+    ]
+  },
+  {
+    "investment_id": 122,
+    "product_lines": [
+      "智能辅助治疗",
+      "智能影像识别",
+      "AI诊断系统"
+    ]
+  },
+  {
+    "investment_id": 123,
+    "product_lines": [
+      "AI诊断系统",
+      "智能辅助治疗",
+      "智能影像识别"
+    ]
+  },
+  {
+    "investment_id": 124,
+    "product_lines": [
+      "智能影像识别",
+      "AI诊断系统",
+      "智能辅助治疗"
+    ]
+  },
+  {
+    "investment_id": 125,
+    "product_lines": [
+      "疫苗研发",
+      "生物制药",
+      "基因治疗"
+    ]
+  },
+  {
+    "investment_id": 126,
+    "product_lines": [
+      "智能影像识别",
+      "AI诊断系统",
+      "智能辅助治疗"
+    ]
+  },
+  {
+    "investment_id": 127,
+    "product_lines": [
+      "AI诊断系统",
+      "智能影像识别"
+    ]
+  },
+  {
+    "investment_id": 128,
+    "product_lines": [
+      "健康管理APP",
+      "远程监护",
+      "电子健康档案"
+    ]
+  },
+  {
+    "investment_id": 129,
+    "product_lines": [
+      "AI诊断系统",
+      "智能影像识别",
+      "智能辅助治疗"
+    ]
+  },
+  {
+    "investment_id": 130,
+    "product_lines": [
+      "智能辅助治疗",
+      "智能影像识别",
+      "AI诊断系统"
+    ]
+  },
+  {
+    "investment_id": 131,
+    "product_lines": [
+      "电子健康档案",
+      "远程监护",
+      "健康管理APP"
+    ]
+  },
+  {
+    "investment_id": 132,
+    "product_lines": [
+      "监测设备",
+      "康复设备",
+      "手术机器人"
+    ]
+  },
+  {
+    "investment_id": 133,
+    "product_lines": [
+      "疫苗研发",
+      "基因治疗",
+      "生物制药"
+    ]
+  },
+  {
+    "investment_id": 134,
+    "product_lines": [
+      "基因治疗",
+      "生物制药",
+      "疫苗研发"
+    ]
+  },
+  {
+    "investment_id": 135,
+    "product_lines": [
+      "智能影像识别",
+      "智能辅助治疗",
+      "AI诊断系统"
+    ]
+  },
+  {
+    "investment_id": 136,
+    "product_lines": [
+      "AI诊断系统",
+      "智能辅助治疗"
+    ]
+  },
+  {
+    "investment_id": 137,
+    "product_lines": [
+      "基因治疗",
+      "生物制药",
+      "疫苗研发"
+    ]
+  },
+  {
+    "investment_id": 138,
+    "product_lines": [
+      "智能影像识别",
+      "智能辅助治疗"
+    ]
+  },
+  {
+    "investment_id": 139,
+    "product_lines": [
+      "智能辅助治疗",
+      "智能影像识别",
+      "AI诊断系统"
+    ]
+  },
+  {
+    "investment_id": 140,
+    "product_lines": [
+      "AI诊断系统",
+      "智能影像识别"
+    ]
+  },
+  {
+    "investment_id": 141,
+    "product_lines": [
+      "智能辅助治疗",
+      "AI诊断系统",
+      "智能影像识别"
+    ]
+  },
+  {
+    "investment_id": 142,
+    "product_lines": [
+      "AI诊断系统",
+      "智能影像识别",
+      "智能辅助治疗"
+    ]
+  },
+  {
+    "investment_id": 143,
+    "product_lines": [
+      "智能影像识别",
+      "AI诊断系统",
+      "智能辅助治疗"
+    ]
+  },
+  {
+    "investment_id": 144,
+    "product_lines": [
+      "智能影像识别",
+      "智能辅助治疗",
+      "AI诊断系统"
+    ]
+  },
+  {
+    "investment_id": 145,
+    "product_lines": [
+      "智能影像识别",
+      "智能辅助治疗"
+    ]
+  },
+  {
+    "investment_id": 146,
+    "product_lines": [
+      "康复设备",
+      "手术机器人",
+      "监测设备"
+    ]
+  },
+  {
+    "investment_id": 147,
+    "product_lines": [
+      "疫苗研发",
+      "生物制药",
+      "基因治疗"
+    ]
+  },
+  {
+    "investment_id": 148,
+    "product_lines": [
+      "生物制药",
+      "基因治疗"
+    ]
+  },
+  {
+    "investment_id": 149,
+    "product_lines": [
+      "远程监护",
+      "健康管理APP",
+      "电子健康档案"
+    ]
+  },
+  {
+    "investment_id": 150,
+    "product_lines": [
+      "智能影像识别",
+      "智能辅助治疗",
+      "AI诊断系统"
+    ]
+  },
+  {
+    "investment_id": 151,
+    "product_lines": [
+      "智能影像识别",
+      "智能辅助治疗",
+      "AI诊断系统"
+    ]
+  },
+  {
+    "investment_id": 152,
+    "product_lines": [
+      "基因治疗",
+      "疫苗研发",
+      "生物制药"
+    ]
+  },
+  {
+    "investment_id": 153,
+    "product_lines": [
+      "生物制药",
+      "疫苗研发",
+      "基因治疗"
+    ]
+  },
+  {
+    "investment_id": 154,
+    "product_lines": [
+      "电子健康档案",
+      "健康管理APP",
+      "远程监护"
+    ]
+  },
+  {
+    "investment_id": 155,
+    "product_lines": [
+      "AI诊断系统",
+      "智能辅助治疗"
+    ]
+  },
+  {
+    "investment_id": 156,
+    "product_lines": [
+      "智能辅助治疗",
+      "AI诊断系统"
+    ]
+  },
+  {
+    "investment_id": 157,
+    "product_lines": [
+      "AI诊断系统",
+      "智能影像识别",
+      "智能辅助治疗"
+    ]
+  },
+  {
+    "investment_id": 158,
+    "product_lines": [
+      "智能影像识别",
+      "智能辅助治疗",
+      "AI诊断系统"
+    ]
+  },
+  {
+    "investment_id": 159,
+    "product_lines": [
+      "疫苗研发",
+      "生物制药",
+      "基因治疗"
+    ]
+  },
+  {
+    "investment_id": 160,
+    "product_lines": [
+      "生物制药",
+      "疫苗研发",
+      "基因治疗"
+    ]
+  },
+  {
+    "investment_id": 161,
+    "product_lines": [
+      "智能影像识别",
+      "AI诊断系统",
+      "智能辅助治疗"
+    ]
+  },
+  {
+    "investment_id": 162,
+    "product_lines": [
+      "医疗大数据",
+      "云端医疗服务",
+      "医疗信息化"
+    ]
+  },
+  {
+    "investment_id": 163,
+    "product_lines": [
+      "基因治疗",
+      "疫苗研发"
+    ]
+  },
+  {
+    "investment_id": 164,
+    "product_lines": [
+      "AI诊断系统",
+      "智能影像识别",
+      "智能辅助治疗"
+    ]
+  },
+  {
+    "investment_id": 165,
+    "product_lines": [
+      "智能影像识别",
+      "AI诊断系统",
+      "智能辅助治疗"
+    ]
+  },
+  {
+    "investment_id": 166,
+    "product_lines": [
+      "智能辅助治疗",
+      "智能影像识别",
+      "AI诊断系统"
+    ]
+  },
+  {
+    "investment_id": 167,
+    "product_lines": [
+      "AI诊断系统",
+      "智能影像识别",
+      "智能辅助治疗"
+    ]
+  },
+  {
+    "investment_id": 168,
+    "product_lines": [
+      "智能影像识别",
+      "智能辅助治疗",
+      "AI诊断系统"
+    ]
+  },
+  {
+    "investment_id": 169,
+    "product_lines": [
+      "AI诊断系统",
+      "智能影像识别",
+      "智能辅助治疗"
+    ]
+  },
+  {
+    "investment_id": 170,
+    "product_lines": [
+      "智能影像识别",
+      "智能辅助治疗",
+      "AI诊断系统"
+    ]
+  },
+  {
+    "investment_id": 171,
+    "product_lines": [
+      "智能影像识别",
+      "智能辅助治疗"
+    ]
+  },
+  {
+    "investment_id": 172,
+    "product_lines": [
+      "监测设备",
+      "手术机器人",
+      "康复设备"
+    ]
+  },
+  {
+    "investment_id": 173,
+    "product_lines": [
+      "智能影像识别",
+      "智能辅助治疗",
+      "AI诊断系统"
+    ]
+  },
+  {
+    "investment_id": 174,
+    "product_lines": [
+      "疫苗研发",
+      "生物制药"
+    ]
+  },
+  {
+    "investment_id": 175,
+    "product_lines": [
+      "AI诊断系统",
+      "智能影像识别"
+    ]
+  },
+  {
+    "investment_id": 176,
+    "product_lines": [
+      "医疗信息化",
+      "医疗大数据",
+      "云端医疗服务"
+    ]
+  },
+  {
+    "investment_id": 177,
+    "product_lines": [
+      "智能影像识别",
+      "AI诊断系统",
+      "智能辅助治疗"
+    ]
+  },
+  {
+    "investment_id": 178,
+    "product_lines": [
+      "AI诊断系统",
+      "智能影像识别",
+      "智能辅助治疗"
+    ]
+  },
+  {
+    "investment_id": 179,
+    "product_lines": [
+      "医疗信息化",
+      "云端医疗服务",
+      "医疗大数据"
+    ]
+  },
+  {
+    "investment_id": 180,
+    "product_lines": [
+      "监测设备",
+      "康复设备",
+      "手术机器人"
+    ]
+  },
+  {
+    "investment_id": 181,
+    "product_lines": [
+      "远程监护",
+      "电子健康档案",
+      "健康管理APP"
+    ]
+  },
+  {
+    "investment_id": 182,
+    "product_lines": [
+      "AI诊断系统",
+      "智能辅助治疗",
+      "智能影像识别"
+    ]
+  },
+  {
+    "investment_id": 183,
+    "product_lines": [
+      "智能辅助治疗",
+      "AI诊断系统"
+    ]
+  },
+  {
+    "investment_id": 184,
+    "product_lines": [
+      "生物制药",
+      "基因治疗",
+      "疫苗研发"
+    ]
+  },
+  {
+    "investment_id": 185,
+    "product_lines": [
+      "手术机器人",
+      "康复设备",
+      "监测设备"
+    ]
+  },
+  {
+    "investment_id": 186,
+    "product_lines": [
+      "基因治疗",
+      "生物制药",
+      "疫苗研发"
+    ]
+  },
+  {
+    "investment_id": 187,
+    "product_lines": [
+      "疫苗研发",
+      "生物制药"
+    ]
+  },
+  {
+    "investment_id": 188,
+    "product_lines": [
+      "AI诊断系统",
+      "智能辅助治疗",
+      "智能影像识别"
+    ]
+  },
+  {
+    "investment_id": 189,
+    "product_lines": [
+      "电子健康档案",
+      "远程监护",
+      "健康管理APP"
+    ]
+  },
+  {
+    "investment_id": 190,
+    "product_lines": [
+      "智能辅助治疗",
+      "智能影像识别"
+    ]
+  },
+  {
+    "investment_id": 191,
+    "product_lines": [
+      "智能影像识别",
+      "智能辅助治疗",
+      "AI诊断系统"
+    ]
+  },
+  {
+    "investment_id": 192,
+    "product_lines": [
+      "AI诊断系统",
+      "智能影像识别",
+      "智能辅助治疗"
+    ]
+  },
+  {
+    "investment_id": 193,
+    "product_lines": [
+      "生物制药",
+      "基因治疗"
+    ]
+  },
+  {
+    "investment_id": 194,
+    "product_lines": [
+      "AI诊断系统",
+      "智能辅助治疗",
+      "智能影像识别"
+    ]
+  },
+  {
+    "investment_id": 195,
+    "product_lines": [
+      "智能辅助治疗",
+      "智能影像识别",
+      "AI诊断系统"
+    ]
+  },
+  {
+    "investment_id": 196,
+    "product_lines": [
+      "生物制药",
+      "基因治疗",
+      "疫苗研发"
+    ]
+  },
+  {
+    "investment_id": 197,
+    "product_lines": [
+      "智能影像识别",
+      "智能辅助治疗",
+      "AI诊断系统"
+    ]
+  },
+  {
+    "investment_id": 198,
+    "product_lines": [
+      "基因治疗",
+      "生物制药",
+      "疫苗研发"
+    ]
+  },
+  {
+    "investment_id": 199,
+    "product_lines": [
+      "智能辅助治疗",
+      "AI诊断系统",
+      "智能影像识别"
+    ]
+  },
+  {
+    "investment_id": 200,
+    "product_lines": [
+      "AI诊断系统",
+      "智能辅助治疗"
+    ]
+  },
+  {
+    "investment_id": 201,
+    "product_lines": [
+      "疫苗研发",
+      "生物制药",
+      "基因治疗"
+    ]
+  },
+  {
+    "investment_id": 202,
+    "product_lines": [
+      "智能影像识别",
+      "智能辅助治疗"
+    ]
+  },
+  {
+    "investment_id": 203,
+    "product_lines": [
+      "智能影像识别",
+      "AI诊断系统",
+      "智能辅助治疗"
+    ]
+  },
+  {
+    "investment_id": 204,
+    "product_lines": [
+      "智能辅助治疗",
+      "智能影像识别",
+      "AI诊断系统"
+    ]
+  },
+  {
+    "investment_id": 205,
+    "product_lines": [
+      "智能辅助治疗",
+      "AI诊断系统"
+    ]
+  },
+  {
+    "investment_id": 206,
+    "product_lines": [
+      "医疗信息化",
+      "医疗大数据",
+      "云端医疗服务"
+    ]
+  },
+  {
+    "investment_id": 207,
+    "product_lines": [
+      "智能辅助治疗",
+      "AI诊断系统"
+    ]
+  },
+  {
+    "investment_id": 208,
+    "product_lines": [
+      "远程监护",
+      "健康管理APP",
+      "电子健康档案"
+    ]
+  },
+  {
+    "investment_id": 209,
+    "product_lines": [
+      "AI诊断系统",
+      "智能影像识别"
+    ]
+  },
+  {
+    "investment_id": 210,
+    "product_lines": [
+      "基因治疗",
+      "生物制药",
+      "疫苗研发"
+    ]
+  },
+  {
+    "investment_id": 211,
+    "product_lines": [
+      "电子健康档案",
+      "远程监护",
+      "健康管理APP"
+    ]
+  },
+  {
+    "investment_id": 212,
+    "product_lines": [
+      "基因治疗",
+      "生物制药",
+      "疫苗研发"
+    ]
+  },
+  {
+    "investment_id": 213,
+    "product_lines": [
+      "智能辅助治疗",
+      "智能影像识别",
+      "AI诊断系统"
+    ]
+  },
+  {
+    "investment_id": 214,
+    "product_lines": [
+      "AI诊断系统",
+      "智能辅助治疗"
+    ]
+  },
+  {
+    "investment_id": 215,
+    "product_lines": [
+      "智能辅助治疗",
+      "智能影像识别"
+    ]
+  },
+  {
+    "investment_id": 216,
+    "product_lines": [
+      "手术机器人",
+      "监测设备"
+    ]
+  },
+  {
+    "investment_id": 217,
+    "product_lines": [
+      "远程监护",
+      "健康管理APP",
+      "电子健康档案"
+    ]
+  },
+  {
+    "investment_id": 218,
+    "product_lines": [
+      "医疗大数据",
+      "云端医疗服务",
+      "医疗信息化"
+    ]
+  },
+  {
+    "investment_id": 219,
+    "product_lines": [
+      "智能影像识别",
+      "智能辅助治疗",
+      "AI诊断系统"
+    ]
+  },
+  {
+    "investment_id": 220,
+    "product_lines": [
+      "远程监护",
+      "电子健康档案",
+      "健康管理APP"
+    ]
+  },
+  {
+    "investment_id": 221,
+    "product_lines": [
+      "康复设备",
+      "监测设备",
+      "手术机器人"
+    ]
+  },
+  {
+    "investment_id": 222,
+    "product_lines": [
+      "AI诊断系统",
+      "智能影像识别",
+      "智能辅助治疗"
+    ]
+  },
+  {
+    "investment_id": 223,
+    "product_lines": [
+      "AI诊断系统",
+      "智能影像识别",
+      "智能辅助治疗"
+    ]
+  },
+  {
+    "investment_id": 224,
+    "product_lines": [
+      "远程监护",
+      "健康管理APP",
+      "电子健康档案"
+    ]
+  },
+  {
+    "investment_id": 225,
+    "product_lines": [
+      "疫苗研发",
+      "基因治疗",
+      "生物制药"
+    ]
+  },
+  {
+    "investment_id": 226,
+    "product_lines": [
+      "健康管理APP",
+      "远程监护"
+    ]
+  },
+  {
+    "investment_id": 227,
+    "product_lines": [
+      "智能影像识别",
+      "智能辅助治疗",
+      "AI诊断系统"
+    ]
+  },
+  {
+    "investment_id": 228,
+    "product_lines": [
+      "健康管理APP",
+      "电子健康档案"
+    ]
+  },
+  {
+    "investment_id": 229,
+    "product_lines": [
+      "智能影像识别",
+      "AI诊断系统",
+      "智能辅助治疗"
+    ]
+  },
+  {
+    "investment_id": 230,
+    "product_lines": [
+      "AI诊断系统",
+      "智能辅助治疗"
+    ]
+  },
+  {
+    "investment_id": 231,
+    "product_lines": [
+      "AI诊断系统",
+      "智能辅助治疗",
+      "智能影像识别"
+    ]
+  },
+  {
+    "investment_id": 232,
+    "product_lines": [
+      "电子健康档案",
+      "远程监护",
+      "健康管理APP"
+    ]
+  },
+  {
+    "investment_id": 233,
+    "product_lines": [
+      "基因治疗",
+      "生物制药",
+      "疫苗研发"
+    ]
+  },
+  {
+    "investment_id": 234,
+    "product_lines": [
+      "基因治疗",
+      "生物制药",
+      "疫苗研发"
+    ]
+  },
+  {
+    "investment_id": 235,
+    "product_lines": [
+      "智能影像识别",
+      "智能辅助治疗"
+    ]
+  },
+  {
+    "investment_id": 236,
+    "product_lines": [
+      "康复设备",
+      "监测设备",
+      "手术机器人"
+    ]
+  },
+  {
+    "investment_id": 237,
+    "product_lines": [
+      "智能辅助治疗",
+      "智能影像识别",
+      "AI诊断系统"
+    ]
+  },
+  {
+    "investment_id": 238,
+    "product_lines": [
+      "远程监护",
+      "电子健康档案",
+      "健康管理APP"
+    ]
+  },
+  {
+    "investment_id": 239,
+    "product_lines": [
+      "智能辅助治疗",
+      "智能影像识别",
+      "AI诊断系统"
+    ]
+  },
+  {
+    "investment_id": 240,
+    "product_lines": [
+      "AI诊断系统",
+      "智能辅助治疗",
+      "智能影像识别"
+    ]
+  },
+  {
+    "investment_id": 241,
+    "product_lines": [
+      "智能影像识别",
+      "AI诊断系统",
+      "智能辅助治疗"
+    ]
+  },
+  {
+    "investment_id": 242,
+    "product_lines": [
+      "智能辅助治疗",
+      "智能影像识别",
+      "AI诊断系统"
+    ]
+  },
+  {
+    "investment_id": 243,
+    "product_lines": [
+      "远程监护",
+      "健康管理APP",
+      "电子健康档案"
+    ]
+  },
+  {
+    "investment_id": 244,
+    "product_lines": [
+      "生物制药",
+      "基因治疗",
+      "疫苗研发"
+    ]
+  },
+  {
+    "investment_id": 245,
+    "product_lines": [
+      "AI诊断系统",
+      "智能辅助治疗",
+      "智能影像识别"
+    ]
+  },
+  {
+    "investment_id": 246,
+    "product_lines": [
+      "手术机器人",
+      "监测设备",
+      "康复设备"
+    ]
+  },
+  {
+    "investment_id": 247,
+    "product_lines": [
+      "智能辅助治疗",
+      "智能影像识别",
+      "AI诊断系统"
+    ]
+  },
+  {
+    "investment_id": 248,
+    "product_lines": [
+      "疫苗研发",
+      "基因治疗",
+      "生物制药"
+    ]
+  },
+  {
+    "investment_id": 249,
+    "product_lines": [
+      "康复设备",
+      "手术机器人",
+      "监测设备"
+    ]
+  },
+  {
+    "investment_id": 250,
+    "product_lines": [
+      "疫苗研发",
+      "基因治疗",
+      "生物制药"
+    ]
+  },
+  {
+    "investment_id": 251,
+    "product_lines": [
+      "智能影像识别",
+      "AI诊断系统"
+    ]
+  },
+  {
+    "investment_id": 252,
+    "product_lines": [
+      "监测设备",
+      "手术机器人"
+    ]
+  },
+  {
+    "investment_id": 253,
+    "product_lines": [
+      "生物制药",
+      "疫苗研发",
+      "基因治疗"
+    ]
+  },
+  {
+    "investment_id": 254,
+    "product_lines": [
+      "智能影像识别",
+      "智能辅助治疗"
+    ]
+  },
+  {
+    "investment_id": 255,
+    "product_lines": [
+      "智能影像识别",
+      "AI诊断系统",
+      "智能辅助治疗"
+    ]
+  },
+  {
+    "investment_id": 256,
+    "product_lines": [
+      "电子健康档案",
+      "健康管理APP",
+      "远程监护"
+    ]
+  },
+  {
+    "investment_id": 257,
+    "product_lines": [
+      "生物制药",
+      "基因治疗",
+      "疫苗研发"
+    ]
+  },
+  {
+    "investment_id": 258,
+    "product_lines": [
+      "疫苗研发",
+      "生物制药",
+      "基因治疗"
+    ]
+  },
+  {
+    "investment_id": 259,
+    "product_lines": [
+      "康复设备",
+      "监测设备",
+      "手术机器人"
+    ]
+  },
+  {
+    "investment_id": 260,
+    "product_lines": [
+      "电子健康档案",
+      "健康管理APP",
+      "远程监护"
+    ]
+  },
+  {
+    "investment_id": 261,
+    "product_lines": [
+      "智能辅助治疗",
+      "AI诊断系统",
+      "智能影像识别"
+    ]
+  },
+  {
+    "investment_id": 262,
+    "product_lines": [
+      "智能影像识别",
+      "智能辅助治疗",
+      "AI诊断系统"
+    ]
+  },
+  {
+    "investment_id": 263,
+    "product_lines": [
+      "智能影像识别",
+      "智能辅助治疗",
+      "AI诊断系统"
+    ]
+  },
+  {
+    "investment_id": 264,
+    "product_lines": [
+      "远程监护",
+      "健康管理APP",
+      "电子健康档案"
+    ]
+  },
+  {
+    "investment_id": 265,
+    "product_lines": [
+      "智能辅助治疗",
+      "智能影像识别",
+      "AI诊断系统"
+    ]
+  },
+  {
+    "investment_id": 266,
+    "product_lines": [
+      "生物制药",
+      "基因治疗",
+      "疫苗研发"
+    ]
+  },
+  {
+    "investment_id": 267,
+    "product_lines": [
+      "电子健康档案",
+      "健康管理APP"
+    ]
+  },
+  {
+    "investment_id": 268,
+    "product_lines": [
+      "监测设备",
+      "手术机器人",
+      "康复设备"
+    ]
+  },
+  {
+    "investment_id": 269,
+    "product_lines": [
+      "智能辅助治疗",
+      "AI诊断系统",
+      "智能影像识别"
+    ]
+  },
+  {
+    "investment_id": 270,
+    "product_lines": [
+      "电子健康档案",
+      "健康管理APP",
+      "远程监护"
+    ]
+  },
+  {
+    "investment_id": 271,
+    "product_lines": [
+      "智能影像识别",
+      "AI诊断系统",
+      "智能辅助治疗"
+    ]
+  },
+  {
+    "investment_id": 272,
+    "product_lines": [
+      "健康管理APP",
+      "远程监护",
+      "电子健康档案"
+    ]
+  },
+  {
+    "investment_id": 273,
+    "product_lines": [
+      "AI诊断系统",
+      "智能辅助治疗",
+      "智能影像识别"
+    ]
+  },
+  {
+    "investment_id": 274,
+    "product_lines": [
+      "智能辅助治疗",
+      "智能影像识别",
+      "AI诊断系统"
+    ]
+  },
+  {
+    "investment_id": 275,
+    "product_lines": [
+      "远程监护",
+      "电子健康档案",
+      "健康管理APP"
+    ]
+  },
+  {
+    "investment_id": 276,
+    "product_lines": [
+      "智能影像识别",
+      "AI诊断系统"
+    ]
+  },
+  {
+    "investment_id": 277,
+    "product_lines": [
+      "AI诊断系统",
+      "智能影像识别",
+      "智能辅助治疗"
+    ]
+  },
+  {
+    "investment_id": 278,
+    "product_lines": [
+      "远程监护",
+      "健康管理APP"
+    ]
+  },
+  {
+    "investment_id": 279,
+    "product_lines": [
+      "电子健康档案",
+      "健康管理APP",
+      "远程监护"
+    ]
+  },
+  {
+    "investment_id": 280,
+    "product_lines": [
+      "疫苗研发",
+      "基因治疗",
+      "生物制药"
+    ]
+  },
+  {
+    "investment_id": 281,
+    "product_lines": [
+      "生物制药",
+      "疫苗研发",
+      "基因治疗"
+    ]
+  },
+  {
+    "investment_id": 282,
+    "product_lines": [
+      "疫苗研发",
+      "基因治疗"
+    ]
+  },
+  {
+    "investment_id": 283,
+    "product_lines": [
+      "智能辅助治疗",
+      "AI诊断系统",
+      "智能影像识别"
+    ]
+  },
+  {
+    "investment_id": 284,
+    "product_lines": [
+      "智能辅助治疗",
+      "智能影像识别",
+      "AI诊断系统"
+    ]
+  },
+  {
+    "investment_id": 285,
+    "product_lines": [
+      "AI诊断系统",
+      "智能辅助治疗",
+      "智能影像识别"
+    ]
+  },
+  {
+    "investment_id": 286,
+    "product_lines": [
+      "手术机器人",
+      "康复设备",
+      "监测设备"
+    ]
+  },
+  {
+    "investment_id": 287,
+    "product_lines": [
+      "基因治疗",
+      "疫苗研发",
+      "生物制药"
+    ]
+  },
+  {
+    "investment_id": 288,
+    "product_lines": [
+      "智能辅助治疗",
+      "AI诊断系统",
+      "智能影像识别"
+    ]
+  },
+  {
+    "investment_id": 289,
+    "product_lines": [
+      "智能影像识别",
+      "智能辅助治疗"
+    ]
+  },
+  {
+    "investment_id": 290,
+    "product_lines": [
+      "手术机器人",
+      "监测设备",
+      "康复设备"
+    ]
+  },
+  {
+    "investment_id": 291,
+    "product_lines": [
+      "智能影像识别",
+      "AI诊断系统",
+      "智能辅助治疗"
+    ]
+  },
+  {
+    "investment_id": 292,
+    "product_lines": [
+      "疫苗研发",
+      "基因治疗"
+    ]
+  },
+  {
+    "investment_id": 293,
+    "product_lines": [
+      "生物制药",
+      "基因治疗",
+      "疫苗研发"
+    ]
+  },
+  {
+    "investment_id": 294,
+    "product_lines": [
+      "生物制药",
+      "基因治疗",
+      "疫苗研发"
+    ]
+  },
+  {
+    "investment_id": 295,
+    "product_lines": [
+      "智能辅助治疗",
+      "AI诊断系统",
+      "智能影像识别"
+    ]
+  },
+  {
+    "investment_id": 296,
+    "product_lines": [
+      "手术机器人",
+      "康复设备",
+      "监测设备"
+    ]
+  },
+  {
+    "investment_id": 297,
+    "product_lines": [
+      "康复设备",
+      "手术机器人"
+    ]
+  },
+  {
+    "investment_id": 298,
+    "product_lines": [
+      "生物制药",
+      "基因治疗",
+      "疫苗研发"
+    ]
+  },
+  {
+    "investment_id": 299,
+    "product_lines": [
+      "基因治疗",
+      "生物制药"
+    ]
+  },
+  {
+    "investment_id": 300,
+    "product_lines": [
+      "康复设备",
+      "监测设备",
+      "手术机器人"
+    ]
+  },
+  {
+    "investment_id": 301,
+    "product_lines": [
+      "电子健康档案",
+      "健康管理APP"
+    ]
+  },
+  {
+    "investment_id": 302,
+    "product_lines": [
+      "AI诊断系统",
+      "智能影像识别",
+      "智能辅助治疗"
+    ]
+  },
+  {
+    "investment_id": 303,
+    "product_lines": [
+      "生物制药",
+      "疫苗研发",
+      "基因治疗"
+    ]
+  },
+  {
+    "investment_id": 304,
+    "product_lines": [
+      "生物制药",
+      "基因治疗"
+    ]
+  },
+  {
+    "investment_id": 305,
+    "product_lines": [
+      "智能辅助治疗",
+      "AI诊断系统"
+    ]
+  },
+  {
+    "investment_id": 306,
+    "product_lines": [
+      "远程监护",
+      "电子健康档案",
+      "健康管理APP"
+    ]
+  },
+  {
+    "investment_id": 307,
+    "product_lines": [
+      "康复设备",
+      "手术机器人",
+      "监测设备"
+    ]
+  },
+  {
+    "investment_id": 308,
+    "product_lines": [
+      "监测设备",
+      "手术机器人",
+      "康复设备"
+    ]
+  },
+  {
+    "investment_id": 309,
+    "product_lines": [
+      "智能影像识别",
+      "智能辅助治疗",
+      "AI诊断系统"
+    ]
+  },
+  {
+    "investment_id": 310,
+    "product_lines": [
+      "智能辅助治疗",
+      "智能影像识别",
+      "AI诊断系统"
+    ]
+  },
+  {
+    "investment_id": 311,
+    "product_lines": [
+      "云端医疗服务",
+      "医疗大数据"
+    ]
+  },
+  {
+    "investment_id": 312,
+    "product_lines": [
+      "健康管理APP",
+      "远程监护"
+    ]
+  },
+  {
+    "investment_id": 313,
+    "product_lines": [
+      "智能影像识别",
+      "智能辅助治疗",
+      "AI诊断系统"
+    ]
+  },
+  {
+    "investment_id": 314,
+    "product_lines": [
+      "手术机器人",
+      "康复设备",
+      "监测设备"
+    ]
+  },
+  {
+    "investment_id": 315,
+    "product_lines": [
+      "监测设备",
+      "手术机器人",
+      "康复设备"
+    ]
+  },
+  {
+    "investment_id": 316,
+    "product_lines": [
+      "基因治疗",
+      "疫苗研发",
+      "生物制药"
+    ]
+  },
+  {
+    "investment_id": 317,
+    "product_lines": [
+      "基因治疗",
+      "疫苗研发"
+    ]
+  },
+  {
+    "investment_id": 318,
+    "product_lines": [
+      "智能辅助治疗",
+      "智能影像识别",
+      "AI诊断系统"
+    ]
+  },
+  {
+    "investment_id": 319,
+    "product_lines": [
+      "智能辅助治疗",
+      "智能影像识别",
+      "AI诊断系统"
+    ]
+  },
+  {
+    "investment_id": 320,
+    "product_lines": [
+      "AI诊断系统",
+      "智能辅助治疗"
+    ]
+  },
+  {
+    "investment_id": 321,
+    "product_lines": [
+      "健康管理APP",
+      "远程监护",
+      "电子健康档案"
+    ]
+  },
+  {
+    "investment_id": 322,
+    "product_lines": [
+      "智能辅助治疗",
+      "智能影像识别"
+    ]
+  },
+  {
+    "investment_id": 323,
+    "product_lines": [
+      "智能影像识别",
+      "智能辅助治疗"
+    ]
+  },
+  {
+    "investment_id": 324,
+    "product_lines": [
+      "智能辅助治疗",
+      "AI诊断系统",
+      "智能影像识别"
+    ]
+  },
+  {
+    "investment_id": 325,
+    "product_lines": [
+      "基因治疗",
+      "生物制药",
+      "疫苗研发"
+    ]
+  },
+  {
+    "investment_id": 326,
+    "product_lines": [
+      "康复设备",
+      "监测设备",
+      "手术机器人"
+    ]
+  },
+  {
+    "investment_id": 327,
+    "product_lines": [
+      "智能影像识别",
+      "智能辅助治疗"
+    ]
+  },
+  {
+    "investment_id": 328,
+    "product_lines": [
+      "智能影像识别",
+      "AI诊断系统"
+    ]
+  },
+  {
+    "investment_id": 329,
+    "product_lines": [
+      "电子健康档案",
+      "健康管理APP",
+      "远程监护"
+    ]
+  },
+  {
+    "investment_id": 330,
+    "product_lines": [
+      "AI诊断系统",
+      "智能影像识别"
+    ]
+  },
+  {
+    "investment_id": 331,
+    "product_lines": [
+      "智能影像识别",
+      "智能辅助治疗",
+      "AI诊断系统"
+    ]
+  },
+  {
+    "investment_id": 332,
+    "product_lines": [
+      "AI诊断系统",
+      "智能影像识别",
+      "智能辅助治疗"
+    ]
+  },
+  {
+    "investment_id": 333,
+    "product_lines": [
+      "智能辅助治疗",
+      "AI诊断系统",
+      "智能影像识别"
+    ]
+  },
+  {
+    "investment_id": 334,
+    "product_lines": [
+      "智能影像识别",
+      "智能辅助治疗",
+      "AI诊断系统"
+    ]
+  },
+  {
+    "investment_id": 335,
+    "product_lines": [
+      "AI诊断系统",
+      "智能影像识别",
+      "智能辅助治疗"
+    ]
+  },
+  {
+    "investment_id": 336,
+    "product_lines": [
+      "智能辅助治疗",
+      "AI诊断系统",
+      "智能影像识别"
+    ]
+  },
+  {
+    "investment_id": 337,
+    "product_lines": [
+      "手术机器人",
+      "康复设备",
+      "监测设备"
+    ]
+  },
+  {
+    "investment_id": 338,
+    "product_lines": [
+      "智能影像识别",
+      "智能辅助治疗",
+      "AI诊断系统"
+    ]
+  },
+  {
+    "investment_id": 339,
+    "product_lines": [
+      "基因治疗",
+      "疫苗研发",
+      "生物制药"
+    ]
+  },
+  {
+    "investment_id": 340,
+    "product_lines": [
+      "基因治疗",
+      "疫苗研发"
+    ]
+  },
+  {
+    "investment_id": 341,
+    "product_lines": [
+      "智能影像识别",
+      "智能辅助治疗"
+    ]
+  },
+  {
+    "investment_id": 342,
+    "product_lines": [
+      "生物制药",
+      "疫苗研发",
+      "基因治疗"
+    ]
+  },
+  {
+    "investment_id": 343,
+    "product_lines": [
+      "AI诊断系统",
+      "智能辅助治疗"
+    ]
+  },
+  {
+    "investment_id": 344,
+    "product_lines": [
+      "医疗大数据",
+      "医疗信息化",
+      "云端医疗服务"
+    ]
+  },
+  {
+    "investment_id": 345,
+    "product_lines": [
+      "智能影像识别",
+      "AI诊断系统",
+      "智能辅助治疗"
+    ]
+  },
+  {
+    "investment_id": 346,
+    "product_lines": [
+      "智能辅助治疗",
+      "智能影像识别",
+      "AI诊断系统"
+    ]
+  },
+  {
+    "investment_id": 347,
+    "product_lines": [
+      "智能影像识别",
+      "AI诊断系统",
+      "智能辅助治疗"
+    ]
+  },
+  {
+    "investment_id": 348,
+    "product_lines": [
+      "云端医疗服务",
+      "医疗大数据"
+    ]
+  },
+  {
+    "investment_id": 349,
+    "product_lines": [
+      "生物制药",
+      "基因治疗",
+      "疫苗研发"
+    ]
+  },
+  {
+    "investment_id": 350,
+    "product_lines": [
+      "疫苗研发",
+      "基因治疗",
+      "生物制药"
+    ]
+  },
+  {
+    "investment_id": 351,
+    "product_lines": [
+      "智能影像识别",
+      "AI诊断系统",
+      "智能辅助治疗"
+    ]
+  },
+  {
+    "investment_id": 352,
+    "product_lines": [
+      "远程监护",
+      "健康管理APP"
+    ]
+  },
+  {
+    "investment_id": 353,
+    "product_lines": [
+      "智能辅助治疗",
+      "智能影像识别",
+      "AI诊断系统"
+    ]
+  },
+  {
+    "investment_id": 354,
+    "product_lines": [
+      "手术机器人",
+      "康复设备",
+      "监测设备"
+    ]
+  },
+  {
+    "investment_id": 355,
+    "product_lines": [
+      "智能辅助治疗",
+      "AI诊断系统",
+      "智能影像识别"
+    ]
+  },
+  {
+    "investment_id": 356,
+    "product_lines": [
+      "智能辅助治疗",
+      "智能影像识别",
+      "AI诊断系统"
+    ]
+  },
+  {
+    "investment_id": 357,
+    "product_lines": [
+      "AI诊断系统",
+      "智能辅助治疗",
+      "智能影像识别"
+    ]
+  },
+  {
+    "investment_id": 358,
+    "product_lines": [
+      "智能影像识别",
+      "智能辅助治疗",
+      "AI诊断系统"
+    ]
+  },
+  {
+    "investment_id": 359,
+    "product_lines": [
+      "生物制药",
+      "疫苗研发",
+      "基因治疗"
+    ]
+  },
+  {
+    "investment_id": 360,
+    "product_lines": [
+      "AI诊断系统",
+      "智能辅助治疗",
+      "智能影像识别"
+    ]
+  },
+  {
+    "investment_id": 361,
+    "product_lines": [
+      "电子健康档案",
+      "远程监护",
+      "健康管理APP"
+    ]
+  },
+  {
+    "investment_id": 362,
+    "product_lines": [
+      "智能辅助治疗",
+      "智能影像识别",
+      "AI诊断系统"
+    ]
+  },
+  {
+    "investment_id": 363,
+    "product_lines": [
+      "基因治疗",
+      "生物制药",
+      "疫苗研发"
+    ]
+  },
+  {
+    "investment_id": 364,
+    "product_lines": [
+      "智能辅助治疗",
+      "智能影像识别",
+      "AI诊断系统"
+    ]
+  },
+  {
+    "investment_id": 365,
+    "product_lines": [
+      "智能影像识别",
+      "AI诊断系统"
+    ]
+  },
+  {
+    "investment_id": 366,
+    "product_lines": [
+      "基因治疗",
+      "疫苗研发",
+      "生物制药"
+    ]
+  },
+  {
+    "investment_id": 367,
+    "product_lines": [
+      "智能影像识别",
+      "智能辅助治疗"
+    ]
+  },
+  {
+    "investment_id": 368,
+    "product_lines": [
+      "智能辅助治疗",
+      "AI诊断系统"
+    ]
+  },
+  {
+    "investment_id": 369,
+    "product_lines": [
+      "监测设备",
+      "手术机器人",
+      "康复设备"
+    ]
+  },
+  {
+    "investment_id": 370,
+    "product_lines": [
+      "监测设备",
+      "康复设备",
+      "手术机器人"
+    ]
+  },
+  {
+    "investment_id": 371,
+    "product_lines": [
+      "智能影像识别",
+      "AI诊断系统"
+    ]
+  },
+  {
+    "investment_id": 372,
+    "product_lines": [
+      "智能辅助治疗",
+      "AI诊断系统",
+      "智能影像识别"
+    ]
+  },
+  {
+    "investment_id": 373,
+    "product_lines": [
+      "生物制药",
+      "基因治疗"
+    ]
+  },
+  {
+    "investment_id": 374,
+    "product_lines": [
+      "智能辅助治疗",
+      "AI诊断系统",
+      "智能影像识别"
+    ]
+  },
+  {
+    "investment_id": 375,
+    "product_lines": [
+      "智能影像识别",
+      "智能辅助治疗",
+      "AI诊断系统"
+    ]
+  },
+  {
+    "investment_id": 376,
+    "product_lines": [
+      "智能辅助治疗",
+      "AI诊断系统",
+      "智能影像识别"
+    ]
+  },
+  {
+    "investment_id": 377,
+    "product_lines": [
+      "远程监护",
+      "健康管理APP"
+    ]
+  },
+  {
+    "investment_id": 378,
+    "product_lines": [
+      "基因治疗",
+      "疫苗研发",
+      "生物制药"
+    ]
+  },
+  {
+    "investment_id": 379,
+    "product_lines": [
+      "AI诊断系统",
+      "智能辅助治疗",
+      "智能影像识别"
+    ]
+  },
+  {
+    "investment_id": 380,
+    "product_lines": [
+      "智能辅助治疗",
+      "智能影像识别",
+      "AI诊断系统"
+    ]
+  },
+  {
+    "investment_id": 381,
+    "product_lines": [
+      "智能影像识别",
+      "智能辅助治疗"
+    ]
+  },
+  {
+    "investment_id": 382,
+    "product_lines": [
+      "生物制药",
+      "疫苗研发",
+      "基因治疗"
+    ]
+  },
+  {
+    "investment_id": 383,
+    "product_lines": [
+      "AI诊断系统",
+      "智能影像识别",
+      "智能辅助治疗"
+    ]
+  },
+  {
+    "investment_id": 384,
+    "product_lines": [
+      "AI诊断系统",
+      "智能影像识别",
+      "智能辅助治疗"
+    ]
+  },
+  {
+    "investment_id": 385,
+    "product_lines": [
+      "健康管理APP",
+      "电子健康档案",
+      "远程监护"
+    ]
+  },
+  {
+    "investment_id": 386,
+    "product_lines": [
+      "智能影像识别",
+      "AI诊断系统"
+    ]
+  },
+  {
+    "investment_id": 387,
+    "product_lines": [
+      "疫苗研发",
+      "基因治疗"
+    ]
+  },
+  {
+    "investment_id": 388,
+    "product_lines": [
+      "智能辅助治疗",
+      "智能影像识别",
+      "AI诊断系统"
+    ]
+  },
+  {
+    "investment_id": 389,
+    "product_lines": [
+      "AI诊断系统",
+      "智能辅助治疗",
+      "智能影像识别"
+    ]
+  },
+  {
+    "investment_id": 390,
+    "product_lines": [
+      "智能影像识别",
+      "智能辅助治疗"
+    ]
+  },
+  {
+    "investment_id": 391,
+    "product_lines": [
+      "远程监护",
+      "电子健康档案",
+      "健康管理APP"
+    ]
+  },
+  {
+    "investment_id": 392,
+    "product_lines": [
+      "康复设备",
+      "手术机器人",
+      "监测设备"
+    ]
+  },
+  {
+    "investment_id": 393,
+    "product_lines": [
+      "健康管理APP",
+      "远程监护",
+      "电子健康档案"
+    ]
+  },
+  {
+    "investment_id": 394,
+    "product_lines": [
+      "智能影像识别",
+      "智能辅助治疗",
+      "AI诊断系统"
+    ]
+  },
+  {
+    "investment_id": 395,
+    "product_lines": [
+      "生物制药",
+      "疫苗研发",
+      "基因治疗"
+    ]
+  },
+  {
+    "investment_id": 396,
+    "product_lines": [
+      "智能辅助治疗",
+      "智能影像识别"
+    ]
+  },
+  {
+    "investment_id": 397,
+    "product_lines": [
+      "智能辅助治疗",
+      "AI诊断系统",
+      "智能影像识别"
+    ]
+  },
+  {
+    "investment_id": 398,
+    "product_lines": [
+      "手术机器人",
+      "康复设备",
+      "监测设备"
+    ]
+  },
+  {
+    "investment_id": 399,
+    "product_lines": [
+      "智能辅助治疗",
+      "AI诊断系统",
+      "智能影像识别"
+    ]
+  },
+  {
+    "investment_id": 400,
+    "product_lines": [
+      "AI诊断系统",
+      "智能影像识别"
+    ]
+  },
+  {
+    "investment_id": 401,
+    "product_lines": [
+      "AI诊断系统",
+      "智能影像识别",
+      "智能辅助治疗"
+    ]
+  },
+  {
+    "investment_id": 402,
+    "product_lines": [
+      "智能辅助治疗",
+      "智能影像识别",
+      "AI诊断系统"
+    ]
+  },
+  {
+    "investment_id": 403,
+    "product_lines": [
+      "AI诊断系统",
+      "智能影像识别",
+      "智能辅助治疗"
+    ]
+  },
+  {
+    "investment_id": 404,
+    "product_lines": [
+      "基因治疗",
+      "生物制药"
+    ]
+  },
+  {
+    "investment_id": 405,
+    "product_lines": [
+      "AI诊断系统",
+      "智能辅助治疗",
+      "智能影像识别"
+    ]
+  },
+  {
+    "investment_id": 406,
+    "product_lines": [
+      "监测设备",
+      "手术机器人",
+      "康复设备"
+    ]
+  },
+  {
+    "investment_id": 407,
+    "product_lines": [
+      "电子健康档案",
+      "健康管理APP",
+      "远程监护"
+    ]
+  },
+  {
+    "investment_id": 408,
+    "product_lines": [
+      "智能影像识别",
+      "AI诊断系统"
+    ]
+  },
+  {
+    "investment_id": 409,
+    "product_lines": [
+      "智能辅助治疗",
+      "智能影像识别",
+      "AI诊断系统"
+    ]
+  },
+  {
+    "investment_id": 410,
+    "product_lines": [
+      "AI诊断系统",
+      "智能影像识别",
+      "智能辅助治疗"
+    ]
+  },
+  {
+    "investment_id": 411,
+    "product_lines": [
+      "生物制药",
+      "基因治疗"
+    ]
+  },
+  {
+    "investment_id": 412,
+    "product_lines": [
+      "AI诊断系统",
+      "智能辅助治疗",
+      "智能影像识别"
+    ]
+  },
+  {
+    "investment_id": 413,
+    "product_lines": [
+      "疫苗研发",
+      "生物制药"
+    ]
+  },
+  {
+    "investment_id": 414,
+    "product_lines": [
+      "智能影像识别",
+      "智能辅助治疗",
+      "AI诊断系统"
+    ]
+  },
+  {
+    "investment_id": 415,
+    "product_lines": [
+      "生物制药",
+      "基因治疗",
+      "疫苗研发"
+    ]
+  },
+  {
+    "investment_id": 416,
+    "product_lines": [
+      "智能辅助治疗",
+      "智能影像识别"
+    ]
+  },
+  {
+    "investment_id": 417,
+    "product_lines": [
+      "智能辅助治疗",
+      "AI诊断系统"
+    ]
+  },
+  {
+    "investment_id": 418,
+    "product_lines": [
+      "监测设备",
+      "手术机器人",
+      "康复设备"
+    ]
+  },
+  {
+    "investment_id": 419,
+    "product_lines": [
+      "远程监护",
+      "健康管理APP",
+      "电子健康档案"
+    ]
+  },
+  {
+    "investment_id": 420,
+    "product_lines": [
+      "智能影像识别",
+      "AI诊断系统"
+    ]
+  },
+  {
+    "investment_id": 421,
+    "product_lines": [
+      "康复设备",
+      "监测设备"
+    ]
+  },
+  {
+    "investment_id": 422,
+    "product_lines": [
+      "AI诊断系统",
+      "智能影像识别",
+      "智能辅助治疗"
+    ]
+  },
+  {
+    "investment_id": 423,
+    "product_lines": [
+      "康复设备",
+      "监测设备",
+      "手术机器人"
+    ]
+  },
+  {
+    "investment_id": 424,
+    "product_lines": [
+      "健康管理APP",
+      "电子健康档案",
+      "远程监护"
+    ]
+  },
+  {
+    "investment_id": 425,
+    "product_lines": [
+      "智能影像识别",
+      "AI诊断系统"
+    ]
+  },
+  {
+    "investment_id": 426,
+    "product_lines": [
+      "AI诊断系统",
+      "智能辅助治疗"
+    ]
+  },
+  {
+    "investment_id": 427,
+    "product_lines": [
+      "智能影像识别",
+      "智能辅助治疗",
+      "AI诊断系统"
+    ]
+  },
+  {
+    "investment_id": 428,
+    "product_lines": [
+      "生物制药",
+      "疫苗研发",
+      "基因治疗"
+    ]
+  },
+  {
+    "investment_id": 429,
+    "product_lines": [
+      "生物制药",
+      "基因治疗",
+      "疫苗研发"
+    ]
+  },
+  {
+    "investment_id": 430,
+    "product_lines": [
+      "智能影像识别",
+      "智能辅助治疗"
+    ]
+  },
+  {
+    "investment_id": 431,
+    "product_lines": [
+      "智能辅助治疗",
+      "智能影像识别",
+      "AI诊断系统"
+    ]
+  },
+  {
+    "investment_id": 432,
+    "product_lines": [
+      "健康管理APP",
+      "远程监护",
+      "电子健康档案"
+    ]
+  },
+  {
+    "investment_id": 433,
+    "product_lines": [
+      "医疗信息化",
+      "云端医疗服务",
+      "医疗大数据"
+    ]
+  },
+  {
+    "investment_id": 434,
+    "product_lines": [
+      "生物制药",
+      "基因治疗",
+      "疫苗研发"
+    ]
+  },
+  {
+    "investment_id": 435,
+    "product_lines": [
+      "智能影像识别",
+      "AI诊断系统",
+      "智能辅助治疗"
+    ]
+  },
+  {
+    "investment_id": 436,
+    "product_lines": [
+      "智能辅助治疗",
+      "智能影像识别",
+      "AI诊断系统"
+    ]
+  },
+  {
+    "investment_id": 437,
+    "product_lines": [
+      "智能辅助治疗",
+      "智能影像识别",
+      "AI诊断系统"
+    ]
+  },
+  {
+    "investment_id": 438,
+    "product_lines": [
+      "监测设备",
+      "康复设备",
+      "手术机器人"
+    ]
+  },
+  {
+    "investment_id": 439,
+    "product_lines": [
+      "智能辅助治疗",
+      "智能影像识别",
+      "AI诊断系统"
+    ]
+  },
+  {
+    "investment_id": 440,
+    "product_lines": [
+      "生物制药",
+      "基因治疗"
+    ]
+  },
+  {
+    "investment_id": 441,
+    "product_lines": [
+      "智能辅助治疗",
+      "AI诊断系统",
+      "智能影像识别"
+    ]
+  },
+  {
+    "investment_id": 442,
+    "product_lines": [
+      "疫苗研发",
+      "基因治疗",
+      "生物制药"
+    ]
+  },
+  {
+    "investment_id": 443,
+    "product_lines": [
+      "生物制药",
+      "疫苗研发",
+      "基因治疗"
+    ]
+  },
+  {
+    "investment_id": 444,
+    "product_lines": [
+      "远程监护",
+      "健康管理APP",
+      "电子健康档案"
+    ]
+  },
+  {
+    "investment_id": 445,
+    "product_lines": [
+      "智能影像识别",
+      "智能辅助治疗",
+      "AI诊断系统"
+    ]
+  },
+  {
+    "investment_id": 446,
+    "product_lines": [
+      "智能辅助治疗",
+      "AI诊断系统"
+    ]
+  },
+  {
+    "investment_id": 447,
+    "product_lines": [
+      "智能影像识别",
+      "智能辅助治疗",
+      "AI诊断系统"
+    ]
+  },
+  {
+    "investment_id": 448,
+    "product_lines": [
+      "手术机器人",
+      "康复设备",
+      "监测设备"
+    ]
+  },
+  {
+    "investment_id": 449,
+    "product_lines": [
+      "康复设备",
+      "监测设备",
+      "手术机器人"
+    ]
+  },
+  {
+    "investment_id": 450,
+    "product_lines": [
+      "基因治疗",
+      "疫苗研发",
+      "生物制药"
+    ]
+  },
+  {
+    "investment_id": 451,
+    "product_lines": [
+      "疫苗研发",
+      "基因治疗",
+      "生物制药"
+    ]
+  },
+  {
+    "investment_id": 452,
+    "product_lines": [
+      "生物制药",
+      "疫苗研发"
+    ]
+  },
+  {
+    "investment_id": 453,
+    "product_lines": [
+      "AI诊断系统",
+      "智能影像识别",
+      "智能辅助治疗"
+    ]
+  },
+  {
+    "investment_id": 454,
+    "product_lines": [
+      "康复设备",
+      "监测设备",
+      "手术机器人"
+    ]
+  },
+  {
+    "investment_id": 455,
+    "product_lines": [
+      "智能影像识别",
+      "AI诊断系统",
+      "智能辅助治疗"
+    ]
+  },
+  {
+    "investment_id": 456,
+    "product_lines": [
+      "智能辅助治疗",
+      "AI诊断系统",
+      "智能影像识别"
+    ]
+  },
+  {
+    "investment_id": 457,
+    "product_lines": [
+      "生物制药",
+      "疫苗研发",
+      "基因治疗"
+    ]
+  },
+  {
+    "investment_id": 458,
+    "product_lines": [
+      "智能影像识别",
+      "智能辅助治疗"
+    ]
+  },
+  {
+    "investment_id": 459,
+    "product_lines": [
+      "智能辅助治疗",
+      "AI诊断系统",
+      "智能影像识别"
+    ]
+  },
+  {
+    "investment_id": 460,
+    "product_lines": [
+      "远程监护",
+      "电子健康档案"
+    ]
+  },
+  {
+    "investment_id": 461,
+    "product_lines": [
+      "智能辅助治疗",
+      "智能影像识别",
+      "AI诊断系统"
+    ]
+  },
+  {
+    "investment_id": 462,
+    "product_lines": [
+      "生物制药",
+      "基因治疗"
+    ]
+  },
+  {
+    "investment_id": 463,
+    "product_lines": [
+      "智能影像识别",
+      "智能辅助治疗"
+    ]
+  },
+  {
+    "investment_id": 464,
+    "product_lines": [
+      "AI诊断系统",
+      "智能辅助治疗",
+      "智能影像识别"
+    ]
+  },
+  {
+    "investment_id": 465,
+    "product_lines": [
+      "智能辅助治疗",
+      "AI诊断系统",
+      "智能影像识别"
+    ]
+  },
+  {
+    "investment_id": 466,
+    "product_lines": [
+      "智能影像识别",
+      "AI诊断系统",
+      "智能辅助治疗"
+    ]
+  },
+  {
+    "investment_id": 467,
+    "product_lines": [
+      "电子健康档案",
+      "健康管理APP",
+      "远程监护"
+    ]
+  },
+  {
+    "investment_id": 468,
+    "product_lines": [
+      "AI诊断系统",
+      "智能影像识别",
+      "智能辅助治疗"
+    ]
+  },
+  {
+    "investment_id": 469,
+    "product_lines": [
+      "生物制药",
+      "基因治疗",
+      "疫苗研发"
+    ]
+  },
+  {
+    "investment_id": 470,
+    "product_lines": [
+      "智能辅助治疗",
+      "AI诊断系统",
+      "智能影像识别"
+    ]
+  },
+  {
+    "investment_id": 471,
+    "product_lines": [
+      "疫苗研发",
+      "生物制药",
+      "基因治疗"
+    ]
+  },
+  {
+    "investment_id": 472,
+    "product_lines": [
+      "手术机器人",
+      "监测设备"
+    ]
+  },
+  {
+    "investment_id": 473,
+    "product_lines": [
+      "电子健康档案",
+      "远程监护",
+      "健康管理APP"
+    ]
+  },
+  {
+    "investment_id": 474,
+    "product_lines": [
+      "智能辅助治疗",
+      "智能影像识别",
+      "AI诊断系统"
+    ]
+  },
+  {
+    "investment_id": 475,
+    "product_lines": [
+      "AI诊断系统",
+      "智能影像识别",
+      "智能辅助治疗"
+    ]
+  },
+  {
+    "investment_id": 476,
+    "product_lines": [
+      "AI诊断系统",
+      "智能辅助治疗",
+      "智能影像识别"
+    ]
+  },
+  {
+    "investment_id": 477,
+    "product_lines": [
+      "基因治疗",
+      "疫苗研发",
+      "生物制药"
+    ]
+  },
+  {
+    "investment_id": 478,
+    "product_lines": [
+      "智能影像识别",
+      "AI诊断系统",
+      "智能辅助治疗"
+    ]
+  },
+  {
+    "investment_id": 479,
+    "product_lines": [
+      "智能辅助治疗",
+      "智能影像识别",
+      "AI诊断系统"
+    ]
+  },
+  {
+    "investment_id": 480,
+    "product_lines": [
+      "基因治疗",
+      "生物制药",
+      "疫苗研发"
+    ]
+  },
+  {
+    "investment_id": 481,
+    "product_lines": [
+      "智能影像识别",
+      "AI诊断系统",
+      "智能辅助治疗"
+    ]
+  },
+  {
+    "investment_id": 482,
+    "product_lines": [
+      "健康管理APP",
+      "电子健康档案",
+      "远程监护"
+    ]
+  },
+  {
+    "investment_id": 483,
+    "product_lines": [
+      "智能影像识别",
+      "智能辅助治疗"
+    ]
+  },
+  {
+    "investment_id": 484,
+    "product_lines": [
+      "AI诊断系统",
+      "智能辅助治疗",
+      "智能影像识别"
+    ]
+  },
+  {
+    "investment_id": 485,
+    "product_lines": [
+      "健康管理APP",
+      "电子健康档案",
+      "远程监护"
+    ]
+  },
+  {
+    "investment_id": 486,
+    "product_lines": [
+      "智能影像识别",
+      "智能辅助治疗",
+      "AI诊断系统"
+    ]
+  },
+  {
+    "investment_id": 487,
+    "product_lines": [
+      "生物制药",
+      "基因治疗"
+    ]
+  },
+  {
+    "investment_id": 488,
+    "product_lines": [
+      "AI诊断系统",
+      "智能辅助治疗",
+      "智能影像识别"
+    ]
+  },
+  {
+    "investment_id": 489,
+    "product_lines": [
+      "AI诊断系统",
+      "智能影像识别"
+    ]
+  },
+  {
+    "investment_id": 490,
+    "product_lines": [
+      "电子健康档案",
+      "远程监护",
+      "健康管理APP"
+    ]
+  },
+  {
+    "investment_id": 491,
+    "product_lines": [
+      "健康管理APP",
+      "远程监护"
+    ]
+  },
+  {
+    "investment_id": 492,
+    "product_lines": [
+      "基因治疗",
+      "疫苗研发",
+      "生物制药"
+    ]
+  },
+  {
+    "investment_id": 493,
+    "product_lines": [
+      "AI诊断系统",
+      "智能影像识别",
+      "智能辅助治疗"
+    ]
+  },
+  {
+    "investment_id": 494,
+    "product_lines": [
+      "基因治疗",
+      "疫苗研发",
+      "生物制药"
+    ]
+  },
+  {
+    "investment_id": 495,
+    "product_lines": [
+      "智能辅助治疗",
+      "智能影像识别",
+      "AI诊断系统"
+    ]
+  },
+  {
+    "investment_id": 496,
+    "product_lines": [
+      "AI诊断系统",
+      "智能辅助治疗"
+    ]
+  },
+  {
+    "investment_id": 497,
+    "product_lines": [
+      "监测设备",
+      "康复设备",
+      "手术机器人"
+    ]
+  },
+  {
+    "investment_id": 498,
+    "product_lines": [
+      "AI诊断系统",
+      "智能影像识别",
+      "智能辅助治疗"
+    ]
+  },
+  {
+    "investment_id": 499,
+    "product_lines": [
+      "医疗大数据",
+      "医疗信息化"
+    ]
+  },
+  {
+    "investment_id": 500,
+    "product_lines": [
+      "智能影像识别",
+      "智能辅助治疗",
+      "AI诊断系统"
+    ]
+  }
+]

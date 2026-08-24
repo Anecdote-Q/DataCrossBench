@@ -1,0 +1,24 @@
+{
+    "goal": "比较不同职业用户在互联网使用中的占比，探讨技术行业的主导地位。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 根据第3页数据，家庭人均月收入400元-1000元的用户占比达到39.9%，表明中低收入群体是互联网用户的主要来源。",
+        "Comparison: 第3页的职业分布显示，计算机业职业占比18.8%，而教育职业占比仅7%，表明技术行业在互联网用户中占据重要地位。",
+        "Extreme: 第3页提到，88.9%的用户认为网上速度太慢，显示出这是用户体验中的一个极端问题。",
+        "Attribution: 第2页的问卷调查结果显示，用户对商业资讯和科技信息的需求高达67.2%和43.7%，这与第3页提到的用户对上网费用和速度的关注形成对比，表明用户希望在改善服务的同时获得更多信息。"
+    ],
+    "summary": "本报告总结了中国互联网在用户数量、上网方式、职业分布及用户需求等方面的发展趋势，揭示了互联网发展的障碍及用户对服务的期望。",
+    "flag_id": "flag-189",
+    "classifier": "Internet Dev.",
+    "classifier_cn": "互联网发展",
+    "input_files": [
+        "output/business_background.txt",
+        "output/dimension_data.db",
+        "output/gender_distribution.png",
+        "output/income_vs_fee.png",
+        "output/internet_usage_facts.csv",
+        "output/slow_speed_usage_hours.png",
+        "output/usage_hours_distribution.png",
+        "output/user_profiles.json"
+    ]
+}

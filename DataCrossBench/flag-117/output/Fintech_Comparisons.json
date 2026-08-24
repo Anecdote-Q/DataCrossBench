@@ -1,0 +1,352 @@
+[
+  {
+    "comparison_id": 1,
+    "region_1": "Europe",
+    "region_2": "South America",
+    "comparison_metric": "Average Deal Size ($M)",
+    "value": 55.194758406141624
+  },
+  {
+    "comparison_id": 2,
+    "region_1": "South America",
+    "region_2": "Asia",
+    "comparison_metric": "VC Growth Rate (%)",
+    "value": 37.31249619245098
+  },
+  {
+    "comparison_id": 3,
+    "region_1": "North America",
+    "region_2": "Asia",
+    "comparison_metric": "Average Deal Size ($M)",
+    "value": 52.4042002619621
+  },
+  {
+    "comparison_id": 4,
+    "region_1": "Europe",
+    "region_2": "South America",
+    "comparison_metric": "Number of Startups",
+    "value": 41.96042568202015
+  },
+  {
+    "comparison_id": 5,
+    "region_1": "South America",
+    "region_2": "North America",
+    "comparison_metric": "Number of Startups",
+    "value": 50.17344099626918
+  },
+  {
+    "comparison_id": 6,
+    "region_1": "Asia",
+    "region_2": "North America",
+    "comparison_metric": "VC Growth Rate (%)",
+    "value": 204.2889410683651
+  },
+  {
+    "comparison_id": 7,
+    "region_1": "Asia",
+    "region_2": "South America",
+    "comparison_metric": "Average Deal Size ($M)",
+    "value": 62.79132264052791
+  },
+  {
+    "comparison_id": 8,
+    "region_1": "South America",
+    "region_2": "Asia",
+    "comparison_metric": "VC Growth Rate (%)",
+    "value": 56.59736374381539
+  },
+  {
+    "comparison_id": 9,
+    "region_1": "Africa",
+    "region_2": "Europe",
+    "comparison_metric": "Average Deal Size ($M)",
+    "value": 45.44619123859768
+  },
+  {
+    "comparison_id": 10,
+    "region_1": "Asia",
+    "region_2": "Europe",
+    "comparison_metric": "VC Growth Rate (%)",
+    "value": 64.65789026457902
+  },
+  {
+    "comparison_id": 11,
+    "region_1": "Asia",
+    "region_2": "Europe",
+    "comparison_metric": "VC Growth Rate (%)",
+    "value": 209.9572334223411
+  },
+  {
+    "comparison_id": 12,
+    "region_1": "Asia",
+    "region_2": "Africa",
+    "comparison_metric": "VC Growth Rate (%)",
+    "value": 64.66305903969794
+  },
+  {
+    "comparison_id": 13,
+    "region_1": "Africa",
+    "region_2": "Europe",
+    "comparison_metric": "Average Deal Size ($M)",
+    "value": 52.167825225881764
+  },
+  {
+    "comparison_id": 14,
+    "region_1": "South America",
+    "region_2": "Asia",
+    "comparison_metric": "VC Growth Rate (%)",
+    "value": 55.07742493811205
+  },
+  {
+    "comparison_id": 15,
+    "region_1": "Asia",
+    "region_2": "North America",
+    "comparison_metric": "Number of Startups",
+    "value": 59.73072063219148
+  },
+  {
+    "comparison_id": 16,
+    "region_1": "Africa",
+    "region_2": "Europe",
+    "comparison_metric": "Financing Volume (Billion $)",
+    "value": 52.433583886159994
+  },
+  {
+    "comparison_id": 17,
+    "region_1": "South America",
+    "region_2": "Europe",
+    "comparison_metric": "VC Growth Rate (%)",
+    "value": 42.11705380912556
+  },
+  {
+    "comparison_id": 18,
+    "region_1": "Asia",
+    "region_2": "North America",
+    "comparison_metric": "VC Growth Rate (%)",
+    "value": 47.67422283394369
+  },
+  {
+    "comparison_id": 19,
+    "region_1": "South America",
+    "region_2": "Europe",
+    "comparison_metric": "Average Deal Size ($M)",
+    "value": 41.5249874927468
+  },
+  {
+    "comparison_id": 20,
+    "region_1": "Europe",
+    "region_2": "Asia",
+    "comparison_metric": "Number of Startups",
+    "value": 142.18757494388538
+  },
+  {
+    "comparison_id": 21,
+    "region_1": "South America",
+    "region_2": "Africa",
+    "comparison_metric": "Financing Volume (Billion $)",
+    "value": 64.08071570507688
+  },
+  {
+    "comparison_id": 22,
+    "region_1": "South America",
+    "region_2": "Africa",
+    "comparison_metric": "VC Growth Rate (%)",
+    "value": 62.39795417019427
+  },
+  {
+    "comparison_id": 23,
+    "region_1": "Africa",
+    "region_2": "South America",
+    "comparison_metric": "Financing Volume (Billion $)",
+    "value": 61.606358551300644
+  },
+  {
+    "comparison_id": 24,
+    "region_1": "Asia",
+    "region_2": "North America",
+    "comparison_metric": "Financing Volume (Billion $)",
+    "value": 282.5908146653135
+  },
+  {
+    "comparison_id": 25,
+    "region_1": "Europe",
+    "region_2": "Asia",
+    "comparison_metric": "Number of Startups",
+    "value": 45.158505287489305
+  },
+  {
+    "comparison_id": 26,
+    "region_1": "Africa",
+    "region_2": "North America",
+    "comparison_metric": "VC Growth Rate (%)",
+    "value": 251.39989016618125
+  },
+  {
+    "comparison_id": 27,
+    "region_1": "Asia",
+    "region_2": "South America",
+    "comparison_metric": "Financing Volume (Billion $)",
+    "value": 70.4553999828505
+  },
+  {
+    "comparison_id": 28,
+    "region_1": "North America",
+    "region_2": "Africa",
+    "comparison_metric": "Average Deal Size ($M)",
+    "value": 50.51817315187775
+  },
+  {
+    "comparison_id": 29,
+    "region_1": "Europe",
+    "region_2": "Africa",
+    "comparison_metric": "VC Growth Rate (%)",
+    "value": 66.28679424995798
+  },
+  {
+    "comparison_id": 30,
+    "region_1": "Asia",
+    "region_2": "South America",
+    "comparison_metric": "VC Growth Rate (%)",
+    "value": 46.33999755880827
+  },
+  {
+    "comparison_id": 31,
+    "region_1": "Africa",
+    "region_2": "Europe",
+    "comparison_metric": "Average Deal Size ($M)",
+    "value": 49.75757911089902
+  },
+  {
+    "comparison_id": 32,
+    "region_1": "North America",
+    "region_2": "South America",
+    "comparison_metric": "Financing Volume (Billion $)",
+    "value": 47.734345863490134
+  },
+  {
+    "comparison_id": 33,
+    "region_1": "Asia",
+    "region_2": "South America",
+    "comparison_metric": "Financing Volume (Billion $)",
+    "value": 40.44601641026985
+  },
+  {
+    "comparison_id": 34,
+    "region_1": "North America",
+    "region_2": "Europe",
+    "comparison_metric": "Average Deal Size ($M)",
+    "value": 45.98129603365665
+  },
+  {
+    "comparison_id": 35,
+    "region_1": "Asia",
+    "region_2": "Africa",
+    "comparison_metric": "VC Growth Rate (%)",
+    "value": 43.91106975280991
+  },
+  {
+    "comparison_id": 36,
+    "region_1": "Europe",
+    "region_2": "South America",
+    "comparison_metric": "Average Deal Size ($M)",
+    "value": 49.33842716105464
+  },
+  {
+    "comparison_id": 37,
+    "region_1": "South America",
+    "region_2": "North America",
+    "comparison_metric": "VC Growth Rate (%)",
+    "value": 61.52184096278678
+  },
+  {
+    "comparison_id": 38,
+    "region_1": "South America",
+    "region_2": "Asia",
+    "comparison_metric": "Financing Volume (Billion $)",
+    "value": 55.92701971902958
+  },
+  {
+    "comparison_id": 39,
+    "region_1": "Asia",
+    "region_2": "North America",
+    "comparison_metric": "Financing Volume (Billion $)",
+    "value": 62.94592157936686
+  },
+  {
+    "comparison_id": 40,
+    "region_1": "North America",
+    "region_2": "Asia",
+    "comparison_metric": "Financing Volume (Billion $)",
+    "value": 53.142963202068344
+  },
+  {
+    "comparison_id": 41,
+    "region_1": "Europe",
+    "region_2": "Africa",
+    "comparison_metric": "Number of Startups",
+    "value": 56.38565744501493
+  },
+  {
+    "comparison_id": 42,
+    "region_1": "Africa",
+    "region_2": "Europe",
+    "comparison_metric": "Average Deal Size ($M)",
+    "value": 61.12619443376353
+  },
+  {
+    "comparison_id": 43,
+    "region_1": "Africa",
+    "region_2": "South America",
+    "comparison_metric": "VC Growth Rate (%)",
+    "value": 53.14809940737213
+  },
+  {
+    "comparison_id": 44,
+    "region_1": "Europe",
+    "region_2": "South America",
+    "comparison_metric": "Number of Startups",
+    "value": 67.65937877899862
+  },
+  {
+    "comparison_id": 45,
+    "region_1": "Europe",
+    "region_2": "South America",
+    "comparison_metric": "VC Growth Rate (%)",
+    "value": 59.336238421732986
+  },
+  {
+    "comparison_id": 46,
+    "region_1": "North America",
+    "region_2": "Europe",
+    "comparison_metric": "VC Growth Rate (%)",
+    "value": 49.346360310778635
+  },
+  {
+    "comparison_id": 47,
+    "region_1": "Africa",
+    "region_2": "South America",
+    "comparison_metric": "VC Growth Rate (%)",
+    "value": 55.03956871294319
+  },
+  {
+    "comparison_id": 48,
+    "region_1": "North America",
+    "region_2": "Europe",
+    "comparison_metric": "Number of Startups",
+    "value": 27.24059962821043
+  },
+  {
+    "comparison_id": 49,
+    "region_1": "Asia",
+    "region_2": "North America",
+    "comparison_metric": "Financing Volume (Billion $)",
+    "value": 49.31001830290187
+  },
+  {
+    "comparison_id": 50,
+    "region_1": "Africa",
+    "region_2": "Europe",
+    "comparison_metric": "Average Deal Size ($M)",
+    "value": 67.48121833945036
+  }
+]

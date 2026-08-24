@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "technology": "Artificial Intelligence",
+    "impact_description": "推动金融数字化转型，重点在文字、语音和图像处理提升客户体验。",
+    "impact_score": 9.595213298126183
+  },
+  {
+    "id": 2,
+    "technology": "IoT",
+    "impact_description": "连接多端设备，支持个性化金融服务和资产管理。",
+    "impact_score": 6.0039607466980955
+  },
+  {
+    "id": 3,
+    "technology": "Big Data",
+    "impact_description": "优化风险管理及客户精准营销，增强决策科学性。",
+    "impact_score": 6.5043284862194
+  },
+  {
+    "id": 4,
+    "technology": "Blockchain",
+    "impact_description": "提升金融交易安全与透明，促进跨界合作与信用体系建设。",
+    "impact_score": 4.42602901340207
+  },
+  {
+    "id": 5,
+    "technology": "Big Data",
+    "impact_description": "优化风险管理及客户精准营销，增强决策科学性。",
+    "impact_score": 6.153852100863103
+  },
+  {
+    "id": 6,
+    "technology": "Big Data",
+    "impact_description": "优化风险管理及客户精准营销，增强决策科学性。",
+    "impact_score": 5.278247747199387
+  },
+  {
+    "id": 7,
+    "technology": "Cloud Computing",
+    "impact_description": "提供弹性计算资源支持，加速新产品上线与迭代。",
+    "impact_score": 5.410086698884663
+  },
+  {
+    "id": 8,
+    "technology": "IoT",
+    "impact_description": "连接多端设备，支持个性化金融服务和资产管理。",
+    "impact_score": 6.78888280187579
+  },
+  {
+    "id": 9,
+    "technology": "Cloud Computing",
+    "impact_description": "提供弹性计算资源支持，加速新产品上线与迭代。",
+    "impact_score": 4.409591777986258
+  },
+  {
+    "id": 10,
+    "technology": "Big Data",
+    "impact_description": "优化风险管理及客户精准营销，增强决策科学性。",
+    "impact_score": 4.590198058472599
+  },
+  {
+    "id": 11,
+    "technology": "Blockchain",
+    "impact_description": "提升金融交易安全与透明，促进跨界合作与信用体系建设。",
+    "impact_score": 7.623208955643183
+  },
+  {
+    "id": 12,
+    "technology": "Big Data",
+    "impact_description": "优化风险管理及客户精准营销，增强决策科学性。",
+    "impact_score": 3.2811214742548613
+  },
+  {
+    "id": 13,
+    "technology": "IoT",
+    "impact_description": "连接多端设备，支持个性化金融服务和资产管理。",
+    "impact_score": 5.428171492066702
+  },
+  {
+    "id": 14,
+    "technology": "Cloud Computing",
+    "impact_description": "提供弹性计算资源支持，加速新产品上线与迭代。",
+    "impact_score": 7.564004002039309
+  },
+  {
+    "id": 15,
+    "technology": "Blockchain",
+    "impact_description": "提升金融交易安全与透明，促进跨界合作与信用体系建设。",
+    "impact_score": 6.051815039090785
+  },
+  {
+    "id": 16,
+    "technology": "Big Data",
+    "impact_description": "优化风险管理及客户精准营销，增强决策科学性。",
+    "impact_score": 5.73203537106066
+  },
+  {
+    "id": 17,
+    "technology": "5G",
+    "impact_description": "提升移动支付和实时数据传输效率，促进物联网金融化。",
+    "impact_score": 4.248720896146776
+  },
+  {
+    "id": 18,
+    "technology": "IoT",
+    "impact_description": "连接多端设备，支持个性化金融服务和资产管理。",
+    "impact_score": 4.716377445322241
+  },
+  {
+    "id": 19,
+    "technology": "IoT",
+    "impact_description": "连接多端设备，支持个性化金融服务和资产管理。",
+    "impact_score": 7.260242079023465
+  },
+  {
+    "id": 20,
+    "technology": "5G",
+    "impact_description": "提升移动支付和实时数据传输效率，促进物联网金融化。",
+    "impact_score": 5.7960906588422905
+  },
+  {
+    "id": 21,
+    "technology": "Big Data",
+    "impact_description": "优化风险管理及客户精准营销，增强决策科学性。",
+    "impact_score": 5.5737109687838995
+  },
+  {
+    "id": 22,
+    "technology": "IoT",
+    "impact_description": "连接多端设备，支持个性化金融服务和资产管理。",
+    "impact_score": 3.497898567700145
+  },
+  {
+    "id": 23,
+    "technology": "Blockchain",
+    "impact_description": "提升金融交易安全与透明，促进跨界合作与信用体系建设。",
+    "impact_score": 3.0801407822756155
+  },
+  {
+    "id": 24,
+    "technology": "Big Data",
+    "impact_description": "优化风险管理及客户精准营销，增强决策科学性。",
+    "impact_score": 7.818425943435246
+  },
+  {
+    "id": 25,
+    "technology": "Big Data",
+    "impact_description": "优化风险管理及客户精准营销，增强决策科学性。",
+    "impact_score": 4.884930836434208
+  },
+  {
+    "id": 26,
+    "technology": "Cloud Computing",
+    "impact_description": "提供弹性计算资源支持，加速新产品上线与迭代。",
+    "impact_score": 6.016065310497522
+  },
+  {
+    "id": 27,
+    "technology": "IoT",
+    "impact_description": "连接多端设备，支持个性化金融服务和资产管理。",
+    "impact_score": 3.398575365936425
+  },
+  {
+    "id": 28,
+    "technology": "IoT",
+    "impact_description": "连接多端设备，支持个性化金融服务和资产管理。",
+    "impact_score": 6.415571428615233
+  },
+  {
+    "id": 29,
+    "technology": "5G",
+    "impact_description": "提升移动支付和实时数据传输效率，促进物联网金融化。",
+    "impact_score": 7.662833543529804
+  },
+  {
+    "id": 30,
+    "technology": "Cloud Computing",
+    "impact_description": "提供弹性计算资源支持，加速新产品上线与迭代。",
+    "impact_score": 5.878326264987098
+  },
+  {
+    "id": 31,
+    "technology": "Cloud Computing",
+    "impact_description": "提供弹性计算资源支持，加速新产品上线与迭代。",
+    "impact_score": 3.6305766118770526
+  },
+  {
+    "id": 32,
+    "technology": "IoT",
+    "impact_description": "连接多端设备，支持个性化金融服务和资产管理。",
+    "impact_score": 5.908607637367384
+  },
+  {
+    "id": 33,
+    "technology": "Big Data",
+    "impact_description": "优化风险管理及客户精准营销，增强决策科学性。",
+    "impact_score": 6.831736065523262
+  },
+  {
+    "id": 34,
+    "technology": "Cloud Computing",
+    "impact_description": "提供弹性计算资源支持，加速新产品上线与迭代。",
+    "impact_score": 5.032082682870094
+  },
+  {
+    "id": 35,
+    "technology": "5G",
+    "impact_description": "提升移动支付和实时数据传输效率，促进物联网金融化。",
+    "impact_score": 7.3991887397073395
+  },
+  {
+    "id": 36,
+    "technology": "Cloud Computing",
+    "impact_description": "提供弹性计算资源支持，加速新产品上线与迭代。",
+    "impact_score": 6.243414766786822
+  },
+  {
+    "id": 37,
+    "technology": "5G",
+    "impact_description": "提升移动支付和实时数据传输效率，促进物联网金融化。",
+    "impact_score": 7.496244591446013
+  },
+  {
+    "id": 38,
+    "technology": "Cloud Computing",
+    "impact_description": "提供弹性计算资源支持，加速新产品上线与迭代。",
+    "impact_score": 6.117526556236686
+  },
+  {
+    "id": 39,
+    "technology": "5G",
+    "impact_description": "提升移动支付和实时数据传输效率，促进物联网金融化。",
+    "impact_score": 3.656439860024121
+  },
+  {
+    "id": 40,
+    "technology": "Cloud Computing",
+    "impact_description": "提供弹性计算资源支持，加速新产品上线与迭代。",
+    "impact_score": 4.548458555525945
+  },
+  {
+    "id": 41,
+    "technology": "Cloud Computing",
+    "impact_description": "提供弹性计算资源支持，加速新产品上线与迭代。",
+    "impact_score": 4.008974741262285
+  },
+  {
+    "id": 42,
+    "technology": "Blockchain",
+    "impact_description": "提升金融交易安全与透明，促进跨界合作与信用体系建设。",
+    "impact_score": 7.544132488584312
+  },
+  {
+    "id": 43,
+    "technology": "5G",
+    "impact_description": "提升移动支付和实时数据传输效率，促进物联网金融化。",
+    "impact_score": 6.8020003364374135
+  },
+  {
+    "id": 44,
+    "technology": "5G",
+    "impact_description": "提升移动支付和实时数据传输效率，促进物联网金融化。",
+    "impact_score": 6.38199184455003
+  },
+  {
+    "id": 45,
+    "technology": "5G",
+    "impact_description": "提升移动支付和实时数据传输效率，促进物联网金融化。",
+    "impact_score": 4.504831598158108
+  },
+  {
+    "id": 46,
+    "technology": "Artificial Intelligence",
+    "impact_description": "推动金融数字化转型，重点在文字、语音和图像处理提升客户体验。",
+    "impact_score": 7.5521343161506405
+  },
+  {
+    "id": 47,
+    "technology": "Cloud Computing",
+    "impact_description": "提供弹性计算资源支持，加速新产品上线与迭代。",
+    "impact_score": 6.782255439944559
+  },
+  {
+    "id": 48,
+    "technology": "5G",
+    "impact_description": "提升移动支付和实时数据传输效率，促进物联网金融化。",
+    "impact_score": 5.370789729395399
+  },
+  {
+    "id": 49,
+    "technology": "IoT",
+    "impact_description": "连接多端设备，支持个性化金融服务和资产管理。",
+    "impact_score": 4.128947760753146
+  },
+  {
+    "id": 50,
+    "technology": "Artificial Intelligence",
+    "impact_description": "推动金融数字化转型，重点在文字、语音和图像处理提升客户体验。",
+    "impact_score": 8.849865934495826
+  },
+  {
+    "id": 51,
+    "technology": "Blockchain",
+    "impact_description": "提升金融交易安全与透明，促进跨界合作与信用体系建设。",
+    "impact_score": 3.2016692606922597
+  },
+  {
+    "id": 52,
+    "technology": "5G",
+    "impact_description": "提升移动支付和实时数据传输效率，促进物联网金融化。",
+    "impact_score": 4.6308512706412674
+  },
+  {
+    "id": 53,
+    "technology": "5G",
+    "impact_description": "提升移动支付和实时数据传输效率，促进物联网金融化。",
+    "impact_score": 5.342784972955673
+  },
+  {
+    "id": 54,
+    "technology": "Artificial Intelligence",
+    "impact_description": "推动金融数字化转型，重点在文字、语音和图像处理提升客户体验。",
+    "impact_score": 7.443875002328218
+  },
+  {
+    "id": 55,
+    "technology": "Cloud Computing",
+    "impact_description": "提供弹性计算资源支持，加速新产品上线与迭代。",
+    "impact_score": 7.9232723879541975
+  },
+  {
+    "id": 56,
+    "technology": "IoT",
+    "impact_description": "连接多端设备，支持个性化金融服务和资产管理。",
+    "impact_score": 4.045486822948071
+  },
+  {
+    "id": 57,
+    "technology": "Blockchain",
+    "impact_description": "提升金融交易安全与透明，促进跨界合作与信用体系建设。",
+    "impact_score": 3.6517656502163276
+  },
+  {
+    "id": 58,
+    "technology": "5G",
+    "impact_description": "提升移动支付和实时数据传输效率，促进物联网金融化。",
+    "impact_score": 4.0176743694344825
+  },
+  {
+    "id": 59,
+    "technology": "Cloud Computing",
+    "impact_description": "提供弹性计算资源支持，加速新产品上线与迭代。",
+    "impact_score": 6.845305665798621
+  },
+  {
+    "id": 60,
+    "technology": "IoT",
+    "impact_description": "连接多端设备，支持个性化金融服务和资产管理。",
+    "impact_score": 5.127528296359214
+  },
+  {
+    "id": 61,
+    "technology": "IoT",
+    "impact_description": "连接多端设备，支持个性化金融服务和资产管理。",
+    "impact_score": 5.82707969876269
+  },
+  {
+    "id": 62,
+    "technology": "Blockchain",
+    "impact_description": "提升金融交易安全与透明，促进跨界合作与信用体系建设。",
+    "impact_score": 3.1050457849318036
+  },
+  {
+    "id": 63,
+    "technology": "Big Data",
+    "impact_description": "优化风险管理及客户精准营销，增强决策科学性。",
+    "impact_score": 3.172156542866573
+  },
+  {
+    "id": 64,
+    "technology": "IoT",
+    "impact_description": "连接多端设备，支持个性化金融服务和资产管理。",
+    "impact_score": 5.229127749135081
+  },
+  {
+    "id": 65,
+    "technology": "Big Data",
+    "impact_description": "优化风险管理及客户精准营销，增强决策科学性。",
+    "impact_score": 7.083276216008118
+  },
+  {
+    "id": 66,
+    "technology": "IoT",
+    "impact_description": "连接多端设备，支持个性化金融服务和资产管理。",
+    "impact_score": 7.426194393537826
+  },
+  {
+    "id": 67,
+    "technology": "Blockchain",
+    "impact_description": "提升金融交易安全与透明，促进跨界合作与信用体系建设。",
+    "impact_score": 3.433532837978201
+  },
+  {
+    "id": 68,
+    "technology": "Artificial Intelligence",
+    "impact_description": "推动金融数字化转型，重点在文字、语音和图像处理提升客户体验。",
+    "impact_score": 8.61508930630307
+  },
+  {
+    "id": 69,
+    "technology": "Blockchain",
+    "impact_description": "提升金融交易安全与透明，促进跨界合作与信用体系建设。",
+    "impact_score": 7.5661484313963525
+  },
+  {
+    "id": 70,
+    "technology": "Blockchain",
+    "impact_description": "提升金融交易安全与透明，促进跨界合作与信用体系建设。",
+    "impact_score": 4.939863771989431
+  },
+  {
+    "id": 71,
+    "technology": "Artificial Intelligence",
+    "impact_description": "推动金融数字化转型，重点在文字、语音和图像处理提升客户体验。",
+    "impact_score": 9.488697494285105
+  },
+  {
+    "id": 72,
+    "technology": "Artificial Intelligence",
+    "impact_description": "推动金融数字化转型，重点在文字、语音和图像处理提升客户体验。",
+    "impact_score": 7.401086963198309
+  },
+  {
+    "id": 73,
+    "technology": "Cloud Computing",
+    "impact_description": "提供弹性计算资源支持，加速新产品上线与迭代。",
+    "impact_score": 7.676972448338994
+  },
+  {
+    "id": 74,
+    "technology": "IoT",
+    "impact_description": "连接多端设备，支持个性化金融服务和资产管理。",
+    "impact_score": 6.757116587656514
+  },
+  {
+    "id": 75,
+    "technology": "Cloud Computing",
+    "impact_description": "提供弹性计算资源支持，加速新产品上线与迭代。",
+    "impact_score": 7.706671963934508
+  },
+  {
+    "id": 76,
+    "technology": "Artificial Intelligence",
+    "impact_description": "推动金融数字化转型，重点在文字、语音和图像处理提升客户体验。",
+    "impact_score": 9.02985170065752
+  },
+  {
+    "id": 77,
+    "technology": "Big Data",
+    "impact_description": "优化风险管理及客户精准营销，增强决策科学性。",
+    "impact_score": 4.817019659997134
+  },
+  {
+    "id": 78,
+    "technology": "Big Data",
+    "impact_description": "优化风险管理及客户精准营销，增强决策科学性。",
+    "impact_score": 7.690905862623612
+  },
+  {
+    "id": 79,
+    "technology": "Blockchain",
+    "impact_description": "提升金融交易安全与透明，促进跨界合作与信用体系建设。",
+    "impact_score": 4.377833881545892
+  },
+  {
+    "id": 80,
+    "technology": "5G",
+    "impact_description": "提升移动支付和实时数据传输效率，促进物联网金融化。",
+    "impact_score": 4.660862610308662
+  },
+  {
+    "id": 81,
+    "technology": "Blockchain",
+    "impact_description": "提升金融交易安全与透明，促进跨界合作与信用体系建设。",
+    "impact_score": 6.504042090008701
+  },
+  {
+    "id": 82,
+    "technology": "Blockchain",
+    "impact_description": "提升金融交易安全与透明，促进跨界合作与信用体系建设。",
+    "impact_score": 6.826581497626931
+  },
+  {
+    "id": 83,
+    "technology": "5G",
+    "impact_description": "提升移动支付和实时数据传输效率，促进物联网金融化。",
+    "impact_score": 7.647017419245769
+  },
+  {
+    "id": 84,
+    "technology": "IoT",
+    "impact_description": "连接多端设备，支持个性化金融服务和资产管理。",
+    "impact_score": 4.024012045281047
+  },
+  {
+    "id": 85,
+    "technology": "Artificial Intelligence",
+    "impact_description": "推动金融数字化转型，重点在文字、语音和图像处理提升客户体验。",
+    "impact_score": 9.393994105657672
+  },
+  {
+    "id": 86,
+    "technology": "Big Data",
+    "impact_description": "优化风险管理及客户精准营销，增强决策科学性。",
+    "impact_score": 6.692730266984817
+  },
+  {
+    "id": 87,
+    "technology": "Blockchain",
+    "impact_description": "提升金融交易安全与透明，促进跨界合作与信用体系建设。",
+    "impact_score": 3.3189727812679894
+  },
+  {
+    "id": 88,
+    "technology": "5G",
+    "impact_description": "提升移动支付和实时数据传输效率，促进物联网金融化。",
+    "impact_score": 4.936115706051035
+  },
+  {
+    "id": 89,
+    "technology": "Cloud Computing",
+    "impact_description": "提供弹性计算资源支持，加速新产品上线与迭代。",
+    "impact_score": 4.413827285300493
+  },
+  {
+    "id": 90,
+    "technology": "Blockchain",
+    "impact_description": "提升金融交易安全与透明，促进跨界合作与信用体系建设。",
+    "impact_score": 4.5224521217701525
+  },
+  {
+    "id": 91,
+    "technology": "Big Data",
+    "impact_description": "优化风险管理及客户精准营销，增强决策科学性。",
+    "impact_score": 7.914734397773504
+  },
+  {
+    "id": 92,
+    "technology": "Artificial Intelligence",
+    "impact_description": "推动金融数字化转型，重点在文字、语音和图像处理提升客户体验。",
+    "impact_score": 8.928332240439783
+  },
+  {
+    "id": 93,
+    "technology": "Blockchain",
+    "impact_description": "提升金融交易安全与透明，促进跨界合作与信用体系建设。",
+    "impact_score": 6.588380788967498
+  },
+  {
+    "id": 94,
+    "technology": "Blockchain",
+    "impact_description": "提升金融交易安全与透明，促进跨界合作与信用体系建设。",
+    "impact_score": 7.883088186575046
+  },
+  {
+    "id": 95,
+    "technology": "IoT",
+    "impact_description": "连接多端设备，支持个性化金融服务和资产管理。",
+    "impact_score": 4.886008912288194
+  },
+  {
+    "id": 96,
+    "technology": "5G",
+    "impact_description": "提升移动支付和实时数据传输效率，促进物联网金融化。",
+    "impact_score": 7.00920084226403
+  },
+  {
+    "id": 97,
+    "technology": "Cloud Computing",
+    "impact_description": "提供弹性计算资源支持，加速新产品上线与迭代。",
+    "impact_score": 5.172654816522477
+  },
+  {
+    "id": 98,
+    "technology": "Cloud Computing",
+    "impact_description": "提供弹性计算资源支持，加速新产品上线与迭代。",
+    "impact_score": 7.347668359074898
+  },
+  {
+    "id": 99,
+    "technology": "Artificial Intelligence",
+    "impact_description": "推动金融数字化转型，重点在文字、语音和图像处理提升客户体验。",
+    "impact_score": 7.541972623933909
+  },
+  {
+    "id": 100,
+    "technology": "Big Data",
+    "impact_description": "优化风险管理及客户精准营销，增强决策科学性。",
+    "impact_score": 7.738430885321398
+  },
+  {
+    "id": 101,
+    "technology": "Artificial Intelligence",
+    "impact_description": "推动金融数字化转型，重点在文字、语音和图像处理提升客户体验。",
+    "impact_score": 7.656315125232639
+  },
+  {
+    "id": 102,
+    "technology": "Blockchain",
+    "impact_description": "提升金融交易安全与透明，促进跨界合作与信用体系建设。",
+    "impact_score": 4.631102534904658
+  },
+  {
+    "id": 103,
+    "technology": "Blockchain",
+    "impact_description": "提升金融交易安全与透明，促进跨界合作与信用体系建设。",
+    "impact_score": 6.780961170533903
+  },
+  {
+    "id": 104,
+    "technology": "Cloud Computing",
+    "impact_description": null,
+    "impact_score": 4.968775707827033
+  },
+  {
+    "id": 105,
+    "technology": "Big Data",
+    "impact_description": "优化风险管理及客户精准营销，增强决策科学性。",
+    "impact_score": 6.041056883832233
+  },
+  {
+    "id": 106,
+    "technology": "5G",
+    "impact_description": "提升移动支付和实时数据传输效率，促进物联网金融化。",
+    "impact_score": 5.222867505347143
+  },
+  {
+    "id": 107,
+    "technology": "Big Data",
+    "impact_description": "优化风险管理及客户精准营销，增强决策科学性。",
+    "impact_score": 6.711849685448909
+  },
+  {
+    "id": 108,
+    "technology": "Blockchain",
+    "impact_description": "提升金融交易安全与透明，促进跨界合作与信用体系建设。",
+    "impact_score": 4.141656261843054
+  },
+  {
+    "id": 109,
+    "technology": "5G",
+    "impact_description": "提升移动支付和实时数据传输效率，促进物联网金融化。",
+    "impact_score": 3.292289936184385
+  },
+  {
+    "id": 110,
+    "technology": "Big Data",
+    "impact_description": "优化风险管理及客户精准营销，增强决策科学性。",
+    "impact_score": 4.499646987365331
+  },
+  {
+    "id": 111,
+    "technology": "Big Data",
+    "impact_description": "优化风险管理及客户精准营销，增强决策科学性。",
+    "impact_score": 5.371543324342151
+  },
+  {
+    "id": 112,
+    "technology": "5G",
+    "impact_description": "提升移动支付和实时数据传输效率，促进物联网金融化。",
+    "impact_score": 3.8401002609633927
+  },
+  {
+    "id": 113,
+    "technology": "Blockchain",
+    "impact_description": "提升金融交易安全与透明，促进跨界合作与信用体系建设。",
+    "impact_score": 4.773986448281944
+  },
+  {
+    "id": 114,
+    "technology": "Big Data",
+    "impact_description": "优化风险管理及客户精准营销，增强决策科学性。",
+    "impact_score": 4.999915091467843
+  },
+  {
+    "id": 115,
+    "technology": "5G",
+    "impact_description": "提升移动支付和实时数据传输效率，促进物联网金融化。",
+    "impact_score": 3.2869592184413676
+  },
+  {
+    "id": 116,
+    "technology": "IoT",
+    "impact_description": "连接多端设备，支持个性化金融服务和资产管理。",
+    "impact_score": 5.9165362409210225
+  },
+  {
+    "id": 117,
+    "technology": "IoT",
+    "impact_description": "连接多端设备，支持个性化金融服务和资产管理。",
+    "impact_score": 7.421717139856438
+  },
+  {
+    "id": 118,
+    "technology": "Blockchain",
+    "impact_description": "提升金融交易安全与透明，促进跨界合作与信用体系建设。",
+    "impact_score": 3.758714564765262
+  },
+  {
+    "id": 119,
+    "technology": "5G",
+    "impact_description": "提升移动支付和实时数据传输效率，促进物联网金融化。",
+    "impact_score": 5.98904006700757
+  },
+  {
+    "id": 120,
+    "technology": "IoT",
+    "impact_description": "连接多端设备，支持个性化金融服务和资产管理。",
+    "impact_score": 6.3236960245542315
+  },
+  {
+    "id": 121,
+    "technology": "5G",
+    "impact_description": "提升移动支付和实时数据传输效率，促进物联网金融化。",
+    "impact_score": 5.0966734020964415
+  },
+  {
+    "id": 122,
+    "technology": "Big Data",
+    "impact_description": "优化风险管理及客户精准营销，增强决策科学性。",
+    "impact_score": 6.50548793682135
+  },
+  {
+    "id": 123,
+    "technology": "Blockchain",
+    "impact_description": "提升金融交易安全与透明，促进跨界合作与信用体系建设。",
+    "impact_score": 5.05365771745506
+  },
+  {
+    "id": 124,
+    "technology": "IoT",
+    "impact_description": "连接多端设备，支持个性化金融服务和资产管理。",
+    "impact_score": 5.523186439887175
+  },
+  {
+    "id": 125,
+    "technology": "Big Data",
+    "impact_description": "优化风险管理及客户精准营销，增强决策科学性。",
+    "impact_score": 3.036765222772135
+  },
+  {
+    "id": 126,
+    "technology": "Artificial Intelligence",
+    "impact_description": "推动金融数字化转型，重点在文字、语音和图像处理提升客户体验。",
+    "impact_score": 9.075160342404066
+  },
+  {
+    "id": 127,
+    "technology": "Artificial Intelligence",
+    "impact_description": "推动金融数字化转型，重点在文字、语音和图像处理提升客户体验。",
+    "impact_score": 8.984028036834173
+  },
+  {
+    "id": 128,
+    "technology": "Blockchain",
+    "impact_description": null,
+    "impact_score": 3.192004386631723
+  },
+  {
+    "id": 129,
+    "technology": "IoT",
+    "impact_description": "连接多端设备，支持个性化金融服务和资产管理。",
+    "impact_score": 4.841250536975665
+  },
+  {
+    "id": 130,
+    "technology": "IoT",
+    "impact_description": "连接多端设备，支持个性化金融服务和资产管理。",
+    "impact_score": 7.895159203958337
+  },
+  {
+    "id": 131,
+    "technology": "IoT",
+    "impact_description": "连接多端设备，支持个性化金融服务和资产管理。",
+    "impact_score": 5.1036828128430844
+  },
+  {
+    "id": 132,
+    "technology": "5G",
+    "impact_description": "提升移动支付和实时数据传输效率，促进物联网金融化。",
+    "impact_score": 5.509727025659209
+  },
+  {
+    "id": 133,
+    "technology": "Big Data",
+    "impact_description": "优化风险管理及客户精准营销，增强决策科学性。",
+    "impact_score": 7.549650790798593
+  },
+  {
+    "id": 134,
+    "technology": "IoT",
+    "impact_description": "连接多端设备，支持个性化金融服务和资产管理。",
+    "impact_score": 6.586309379328782
+  },
+  {
+    "id": 135,
+    "technology": "Big Data",
+    "impact_description": "优化风险管理及客户精准营销，增强决策科学性。",
+    "impact_score": 5.910350655621118
+  },
+  {
+    "id": 136,
+    "technology": "Blockchain",
+    "impact_description": "提升金融交易安全与透明，促进跨界合作与信用体系建设。",
+    "impact_score": 6.989023406705362
+  },
+  {
+    "id": 137,
+    "technology": "IoT",
+    "impact_description": "连接多端设备，支持个性化金融服务和资产管理。",
+    "impact_score": 7.321831332279866
+  },
+  {
+    "id": 138,
+    "technology": "Blockchain",
+    "impact_description": "提升金融交易安全与透明，促进跨界合作与信用体系建设。",
+    "impact_score": 5.284440358686334
+  },
+  {
+    "id": 139,
+    "technology": "IoT",
+    "impact_description": "连接多端设备，支持个性化金融服务和资产管理。",
+    "impact_score": 5.375541824659177
+  },
+  {
+    "id": 140,
+    "technology": "Artificial Intelligence",
+    "impact_description": "推动金融数字化转型，重点在文字、语音和图像处理提升客户体验。",
+    "impact_score": 8.158152806955508
+  },
+  {
+    "id": 141,
+    "technology": "Cloud Computing",
+    "impact_description": "提供弹性计算资源支持，加速新产品上线与迭代。",
+    "impact_score": 7.833530700092303
+  },
+  {
+    "id": 142,
+    "technology": "Blockchain",
+    "impact_description": "提升金融交易安全与透明，促进跨界合作与信用体系建设。",
+    "impact_score": 6.485831271451752
+  },
+  {
+    "id": 143,
+    "technology": "IoT",
+    "impact_description": "连接多端设备，支持个性化金融服务和资产管理。",
+    "impact_score": 3.4161153310403614
+  },
+  {
+    "id": 144,
+    "technology": "Cloud Computing",
+    "impact_description": "提供弹性计算资源支持，加速新产品上线与迭代。",
+    "impact_score": 7.314798116565092
+  },
+  {
+    "id": 145,
+    "technology": "Blockchain",
+    "impact_description": "提升金融交易安全与透明，促进跨界合作与信用体系建设。",
+    "impact_score": 5.402799704181341
+  },
+  {
+    "id": 146,
+    "technology": "5G",
+    "impact_description": "提升移动支付和实时数据传输效率，促进物联网金融化。",
+    "impact_score": 3.343769532112437
+  },
+  {
+    "id": 147,
+    "technology": "IoT",
+    "impact_description": "连接多端设备，支持个性化金融服务和资产管理。",
+    "impact_score": 5.748586275816555
+  },
+  {
+    "id": 148,
+    "technology": "5G",
+    "impact_description": "提升移动支付和实时数据传输效率，促进物联网金融化。",
+    "impact_score": 5.0858213948785105
+  },
+  {
+    "id": 149,
+    "technology": "Artificial Intelligence",
+    "impact_description": "推动金融数字化转型，重点在文字、语音和图像处理提升客户体验。",
+    "impact_score": 9.633248214587875
+  },
+  {
+    "id": 150,
+    "technology": "IoT",
+    "impact_description": "连接多端设备，支持个性化金融服务和资产管理。",
+    "impact_score": 4.019973018046937
+  },
+  {
+    "id": 151,
+    "technology": "Artificial Intelligence",
+    "impact_description": "推动金融数字化转型，重点在文字、语音和图像处理提升客户体验。",
+    "impact_score": 9.47939382847655
+  },
+  {
+    "id": 152,
+    "technology": "Cloud Computing",
+    "impact_description": "提供弹性计算资源支持，加速新产品上线与迭代。",
+    "impact_score": 5.788443455927263
+  },
+  {
+    "id": 153,
+    "technology": "Blockchain",
+    "impact_description": "提升金融交易安全与透明，促进跨界合作与信用体系建设。",
+    "impact_score": 3.273051516067345
+  },
+  {
+    "id": 154,
+    "technology": "Big Data",
+    "impact_description": "优化风险管理及客户精准营销，增强决策科学性。",
+    "impact_score": 7.859226506627423
+  },
+  {
+    "id": 155,
+    "technology": "Artificial Intelligence",
+    "impact_description": "推动金融数字化转型，重点在文字、语音和图像处理提升客户体验。",
+    "impact_score": 8.5378457323096
+  },
+  {
+    "id": 156,
+    "technology": "Big Data",
+    "impact_description": "优化风险管理及客户精准营销，增强决策科学性。",
+    "impact_score": 4.454384271157912
+  },
+  {
+    "id": 157,
+    "technology": "Big Data",
+    "impact_description": "优化风险管理及客户精准营销，增强决策科学性。",
+    "impact_score": 5.34703420994629
+  },
+  {
+    "id": 158,
+    "technology": "Blockchain",
+    "impact_description": "提升金融交易安全与透明，促进跨界合作与信用体系建设。",
+    "impact_score": 7.289288917587445
+  },
+  {
+    "id": 159,
+    "technology": "Cloud Computing",
+    "impact_description": "提供弹性计算资源支持，加速新产品上线与迭代。",
+    "impact_score": 4.5245156219253175
+  },
+  {
+    "id": 160,
+    "technology": "Blockchain",
+    "impact_description": "提升金融交易安全与透明，促进跨界合作与信用体系建设。",
+    "impact_score": 3.9633819824335017
+  },
+  {
+    "id": 161,
+    "technology": "IoT",
+    "impact_description": "连接多端设备，支持个性化金融服务和资产管理。",
+    "impact_score": 3.6453562346544075
+  },
+  {
+    "id": 162,
+    "technology": "Artificial Intelligence",
+    "impact_description": "推动金融数字化转型，重点在文字、语音和图像处理提升客户体验。",
+    "impact_score": 7.893578195170634
+  },
+  {
+    "id": 163,
+    "technology": "Big Data",
+    "impact_description": "优化风险管理及客户精准营销，增强决策科学性。",
+    "impact_score": 6.900240435200217
+  },
+  {
+    "id": 164,
+    "technology": "Blockchain",
+    "impact_description": null,
+    "impact_score": 5.358131825976308
+  },
+  {
+    "id": 165,
+    "technology": "Blockchain",
+    "impact_description": "提升金融交易安全与透明，促进跨界合作与信用体系建设。",
+    "impact_score": 4.1374080184677
+  },
+  {
+    "id": 166,
+    "technology": "Blockchain",
+    "impact_description": "提升金融交易安全与透明，促进跨界合作与信用体系建设。",
+    "impact_score": 3.830924998048746
+  },
+  {
+    "id": 167,
+    "technology": "Artificial Intelligence",
+    "impact_description": "推动金融数字化转型，重点在文字、语音和图像处理提升客户体验。",
+    "impact_score": 7.998188429531138
+  },
+  {
+    "id": 168,
+    "technology": "Cloud Computing",
+    "impact_description": "提供弹性计算资源支持，加速新产品上线与迭代。",
+    "impact_score": 7.699621864428544
+  },
+  {
+    "id": 169,
+    "technology": "Blockchain",
+    "impact_description": "提升金融交易安全与透明，促进跨界合作与信用体系建设。",
+    "impact_score": 4.715133562950122
+  },
+  {
+    "id": 170,
+    "technology": "Artificial Intelligence",
+    "impact_description": "推动金融数字化转型，重点在文字、语音和图像处理提升客户体验。",
+    "impact_score": 9.964372227863906
+  },
+  {
+    "id": 171,
+    "technology": "Big Data",
+    "impact_description": "优化风险管理及客户精准营销，增强决策科学性。",
+    "impact_score": 5.42615227882678
+  },
+  {
+    "id": 172,
+    "technology": "IoT",
+    "impact_description": "连接多端设备，支持个性化金融服务和资产管理。",
+    "impact_score": 3.8958195914507545
+  },
+  {
+    "id": 173,
+    "technology": "5G",
+    "impact_description": "提升移动支付和实时数据传输效率，促进物联网金融化。",
+    "impact_score": 7.455700458967547
+  },
+  {
+    "id": 174,
+    "technology": "Artificial Intelligence",
+    "impact_description": "推动金融数字化转型，重点在文字、语音和图像处理提升客户体验。",
+    "impact_score": 8.38106611940448
+  },
+  {
+    "id": 175,
+    "technology": "5G",
+    "impact_description": "提升移动支付和实时数据传输效率，促进物联网金融化。",
+    "impact_score": 6.548356717522623
+  },
+  {
+    "id": 176,
+    "technology": "Blockchain",
+    "impact_description": "提升金融交易安全与透明，促进跨界合作与信用体系建设。",
+    "impact_score": 7.918557916045759
+  },
+  {
+    "id": 177,
+    "technology": "Blockchain",
+    "impact_description": "提升金融交易安全与透明，促进跨界合作与信用体系建设。",
+    "impact_score": 3.25087675159987
+  },
+  {
+    "id": 178,
+    "technology": "Artificial Intelligence",
+    "impact_description": "推动金融数字化转型，重点在文字、语音和图像处理提升客户体验。",
+    "impact_score": 7.290083679362701
+  },
+  {
+    "id": 179,
+    "technology": "5G",
+    "impact_description": "提升移动支付和实时数据传输效率，促进物联网金融化。",
+    "impact_score": 6.602283707313781
+  },
+  {
+    "id": 180,
+    "technology": "Blockchain",
+    "impact_description": "提升金融交易安全与透明，促进跨界合作与信用体系建设。",
+    "impact_score": 4.409125016477359
+  },
+  {
+    "id": 181,
+    "technology": "Big Data",
+    "impact_description": "优化风险管理及客户精准营销，增强决策科学性。",
+    "impact_score": 3.9215069847504953
+  },
+  {
+    "id": 182,
+    "technology": "Cloud Computing",
+    "impact_description": "提供弹性计算资源支持，加速新产品上线与迭代。",
+    "impact_score": 3.1968093990986475
+  },
+  {
+    "id": 183,
+    "technology": "Cloud Computing",
+    "impact_description": "提供弹性计算资源支持，加速新产品上线与迭代。",
+    "impact_score": 3.109233559931009
+  },
+  {
+    "id": 184,
+    "technology": "Blockchain",
+    "impact_description": "提升金融交易安全与透明，促进跨界合作与信用体系建设。",
+    "impact_score": 6.872428015598954
+  },
+  {
+    "id": 185,
+    "technology": "5G",
+    "impact_description": "提升移动支付和实时数据传输效率，促进物联网金融化。",
+    "impact_score": 3.67216713684775
+  },
+  {
+    "id": 186,
+    "technology": "IoT",
+    "impact_description": "连接多端设备，支持个性化金融服务和资产管理。",
+    "impact_score": 5.338603079855755
+  },
+  {
+    "id": 187,
+    "technology": "Blockchain",
+    "impact_description": "提升金融交易安全与透明，促进跨界合作与信用体系建设。",
+    "impact_score": 6.029484075897415
+  },
+  {
+    "id": 188,
+    "technology": "IoT",
+    "impact_description": "连接多端设备，支持个性化金融服务和资产管理。",
+    "impact_score": 5.141759002844231
+  },
+  {
+    "id": 189,
+    "technology": "IoT",
+    "impact_description": "连接多端设备，支持个性化金融服务和资产管理。",
+    "impact_score": 3.1355332616811653
+  },
+  {
+    "id": 190,
+    "technology": "5G",
+    "impact_description": "提升移动支付和实时数据传输效率，促进物联网金融化。",
+    "impact_score": 6.917507512939544
+  },
+  {
+    "id": 191,
+    "technology": "IoT",
+    "impact_description": "连接多端设备，支持个性化金融服务和资产管理。",
+    "impact_score": 3.052566122708267
+  },
+  {
+    "id": 192,
+    "technology": "Big Data",
+    "impact_description": "优化风险管理及客户精准营销，增强决策科学性。",
+    "impact_score": 6.809449471887421
+  },
+  {
+    "id": 193,
+    "technology": "5G",
+    "impact_description": "提升移动支付和实时数据传输效率，促进物联网金融化。",
+    "impact_score": 7.466522468940614
+  },
+  {
+    "id": 194,
+    "technology": "Blockchain",
+    "impact_description": "提升金融交易安全与透明，促进跨界合作与信用体系建设。",
+    "impact_score": 5.164199605285861
+  },
+  {
+    "id": 195,
+    "technology": "Big Data",
+    "impact_description": "优化风险管理及客户精准营销，增强决策科学性。",
+    "impact_score": 5.677712365488992
+  },
+  {
+    "id": 196,
+    "technology": "Artificial Intelligence",
+    "impact_description": "推动金融数字化转型，重点在文字、语音和图像处理提升客户体验。",
+    "impact_score": 8.430950177852962
+  },
+  {
+    "id": 197,
+    "technology": "Cloud Computing",
+    "impact_description": "提供弹性计算资源支持，加速新产品上线与迭代。",
+    "impact_score": 4.9460430931171935
+  },
+  {
+    "id": 198,
+    "technology": "Blockchain",
+    "impact_description": "提升金融交易安全与透明，促进跨界合作与信用体系建设。",
+    "impact_score": 7.437122676851802
+  },
+  {
+    "id": 199,
+    "technology": "Blockchain",
+    "impact_description": "提升金融交易安全与透明，促进跨界合作与信用体系建设。",
+    "impact_score": 7.469667553349953
+  },
+  {
+    "id": 200,
+    "technology": "Blockchain",
+    "impact_description": "提升金融交易安全与透明，促进跨界合作与信用体系建设。",
+    "impact_score": 4.679081823207673
+  }
+]

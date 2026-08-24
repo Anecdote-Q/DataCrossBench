@@ -1,0 +1,20 @@
+{
+    "goal": "分析2023年小程序短剧市场规模快速增长的原因。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 自2019年快手推出短剧以来，短剧行业逐渐兴起，2023年小程序短剧的市场规模预计将持续快速增长，单日投流消耗从2000万增长至过亿。",
+        "Comparison: 2023年上半年微短剧的景气指数前30名中，优酷的《锁爱三生》以1.04的景气指数领先，抖音的《二十九》以0.789紧随其后。",
+        "Extreme: 2023年小程序短剧的单剧充值从破千万到破亿，显示出用户付费意愿的显著提升。",
+        "Attribution: 微短剧的兴起与供需双端的共振密切相关，内容变短契合消费趋势，载体变迁扩张用户基数，推动了行业的快速发展。"
+    ],
+    "summary": "本报告分析了短剧行业的现状与未来趋势，强调了微短剧的兴起及其对产业链的影响，同时探讨了新渠道和新内容对供需两端的影响。",
+    "flag_id": "flag-154",
+    "classifier": "Short-form Drama",
+    "classifier_cn": "短剧/微短剧内容",
+    "input_files": [
+        "output/business_background.txt",
+        "output/dimension_data.db",
+        "output/short_drama_market.csv",
+        "output/user_profiles.json"
+    ]
+}

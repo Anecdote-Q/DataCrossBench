@@ -1,0 +1,20 @@
+{
+    "goal": "评估新加坡政府增加资金用于Startup SG计划对解决企业资金缺口的有效性。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 金融科技行业以16.8%的复合年增长率（CAGR）增长，预计到2024年用户数量将达到54.8亿。",
+        "Comparison: 新加坡在东南亚、东亚和大洋洲的创新经济体中排名前三，显示出其作为FinTech中心的强大实力。",
+        "Extreme: 新加坡计划到2030年发行350亿新元的绿色债券，标志着其在绿色金融方面的重大承诺。",
+        "Attribution: 新加坡政府通过增加高达1.5亿新元的资金用于Startup SG计划，旨在解决企业面临的资金缺口问题。"
+    ],
+    "summary": "新加坡在金融科技领域展现出强劲的增长潜力，尽管面临多重挑战，如人才短缺和监管环境的复杂性。整体来看，金融科技行业在全球经济不确定性中依然保持乐观，尤其是在支付和贷款领域。",
+    "flag_id": "flag-126",
+    "classifier": "FinTech",
+    "classifier_cn": "金融科技",
+    "input_files": [
+        "output/business_background.txt",
+        "output/fintech_dimension.db",
+        "output/fintech_facts.png",
+        "output/user_profiles.json"
+    ]
+}

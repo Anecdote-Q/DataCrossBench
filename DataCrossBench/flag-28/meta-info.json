@@ -1,0 +1,24 @@
+{
+    "goal": "分析2022年和2023年AI医疗健康与生命科学领域风险投资交易总值下降的原因。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 自2020年以来，AI驱动的医疗健康与生命科学领域的风险投资活动显著增长，2021年达到220亿美元的峰值，但2022年和2023年交易总值分别下降至165亿美元和101亿美元。",
+        "Comparison: 生物技术领域在192笔交易中筹集了4.9亿美元，医疗技术领域在242笔交易中筹集了2.2亿美元，而健康技术领域在252笔交易中筹集了3.3亿美元，显示出生物技术的投资热度最高。",
+        "Extreme: 2021年医疗风险投资退出总值达到24.3亿美元，涉及52笔退出，显示出当年市场的活跃程度。",
+        "Attribution: 风险投资活动的激增与数据驱动的治疗、诊断和数字健康平台的突破密切相关，尤其是在2021年。"
+    ],
+    "summary": "本报告分析了2025年AI在医疗健康与生命科学领域的风险投资趋势，强调了投资活动的变化、市场机会以及面临的挑战。",
+    "flag_id": "flag-28",
+    "classifier": "AI Healthcare",
+    "classifier_cn": "AI 医疗健康",
+    "input_files": [
+        "output/average_investment_by_sector.png",
+        "output/business_background.txt",
+        "output/distribution_of_total_investment.png",
+        "output/investment_activity.csv",
+        "output/investment_dimensions.db",
+        "output/investment_payloads.json",
+        "output/total_investment_over_time.png",
+        "output/total_investment_vs_number_of_deals.png"
+    ]
+}

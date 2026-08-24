@@ -1,0 +1,20 @@
+{
+    "goal": "分析澳门互联网普及率增长的主要驱动因素。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 澳门互联网普及率从2001年33%增长到2008年66%，显示出持续上升的趋势。",
+        "Comparison: 澳门的网民人数为33.8万，占总人口的66%，显示出较高的互联网普及率。",
+        "Extreme: 澳门的家庭计算机连网率为81%，显示出较高的互联网接入水平。",
+        "Attribution: 澳门互联网的快速发展得益于宽带技术的普及和家庭计算机的增加。"
+    ],
+    "summary": "本报告提供了澳门地区互联网发展的宏观概况，特别关注网民的上网行为和偏好。",
+    "flag_id": "flag-177",
+    "classifier": "Internet Dev.",
+    "classifier_cn": "互联网发展",
+    "input_files": [
+        "output/background.txt",
+        "output/dimension_data.db",
+        "output/internet_usage_statistics.csv",
+        "output/user_profiles.json"
+    ]
+}

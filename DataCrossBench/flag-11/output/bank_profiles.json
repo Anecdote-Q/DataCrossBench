@@ -1,0 +1,602 @@
+[
+  {
+    "bank_id": 1,
+    "tech_innovation_level": "中等",
+    "talent_training_status": "一般",
+    "annual_fintech_investment_million": 1.0,
+    "digital_platforms": {
+      "mobile_app_rating": 0.55,
+      "api_integrations": 13,
+      "fintech_partners": 11
+    },
+    "regulatory_risks": "中"
+  },
+  {
+    "bank_id": 2,
+    "tech_innovation_level": "中等",
+    "talent_training_status": "一般",
+    "annual_fintech_investment_million": 1.0,
+    "digital_platforms": {
+      "mobile_app_rating": 1.43,
+      "api_integrations": 18,
+      "fintech_partners": 14
+    },
+    "regulatory_risks": "低"
+  },
+  {
+    "bank_id": 3,
+    "tech_innovation_level": "领先",
+    "talent_training_status": "高水平",
+    "annual_fintech_investment_million": 20.59,
+    "digital_platforms": {
+      "mobile_app_rating": 2.64,
+      "api_integrations": 26,
+      "fintech_partners": 12
+    },
+    "regulatory_risks": "中"
+  },
+  {
+    "bank_id": 4,
+    "tech_innovation_level": "领先",
+    "talent_training_status": "一般",
+    "annual_fintech_investment_million": 11.13,
+    "digital_platforms": {
+      "mobile_app_rating": 0.79,
+      "api_integrations": 13,
+      "fintech_partners": 12
+    },
+    "regulatory_risks": "低"
+  },
+  {
+    "bank_id": 5,
+    "tech_innovation_level": "中等",
+    "talent_training_status": "一般",
+    "annual_fintech_investment_million": 11.63,
+    "digital_platforms": {
+      "mobile_app_rating": 3.25,
+      "api_integrations": 25,
+      "fintech_partners": 10
+    },
+    "regulatory_risks": "高"
+  },
+  {
+    "bank_id": 6,
+    "tech_innovation_level": "领先",
+    "talent_training_status": "一般",
+    "annual_fintech_investment_million": 1.0,
+    "digital_platforms": {
+      "mobile_app_rating": 2.22,
+      "api_integrations": 25,
+      "fintech_partners": 10
+    },
+    "regulatory_risks": "高"
+  },
+  {
+    "bank_id": 7,
+    "tech_innovation_level": "中等",
+    "talent_training_status": "一般",
+    "annual_fintech_investment_million": 29.38,
+    "digital_platforms": {
+      "mobile_app_rating": 2.7,
+      "api_integrations": 15,
+      "fintech_partners": 13
+    },
+    "regulatory_risks": "低"
+  },
+  {
+    "bank_id": 8,
+    "tech_innovation_level": "领先",
+    "talent_training_status": "一般",
+    "annual_fintech_investment_million": 19.34,
+    "digital_platforms": {
+      "mobile_app_rating": 1.13,
+      "api_integrations": 20,
+      "fintech_partners": 7
+    },
+    "regulatory_risks": "中"
+  },
+  {
+    "bank_id": 9,
+    "tech_innovation_level": "中等",
+    "talent_training_status": "一般",
+    "annual_fintech_investment_million": 27.86,
+    "digital_platforms": {
+      "mobile_app_rating": 2.4,
+      "api_integrations": 6,
+      "fintech_partners": 10
+    },
+    "regulatory_risks": "低"
+  },
+  {
+    "bank_id": 10,
+    "tech_innovation_level": "领先",
+    "talent_training_status": "高水平",
+    "annual_fintech_investment_million": 3.73,
+    "digital_platforms": {
+      "mobile_app_rating": 0.8,
+      "api_integrations": 29,
+      "fintech_partners": 9
+    },
+    "regulatory_risks": "中"
+  },
+  {
+    "bank_id": 11,
+    "tech_innovation_level": "落后",
+    "talent_training_status": "高水平",
+    "annual_fintech_investment_million": 13.44,
+    "digital_platforms": {
+      "mobile_app_rating": 1.74,
+      "api_integrations": 22,
+      "fintech_partners": 10
+    },
+    "regulatory_risks": "低"
+  },
+  {
+    "bank_id": 12,
+    "tech_innovation_level": "领先",
+    "talent_training_status": "高水平",
+    "annual_fintech_investment_million": 14.62,
+    "digital_platforms": {
+      "mobile_app_rating": 2.38,
+      "api_integrations": 29,
+      "fintech_partners": 10
+    },
+    "regulatory_risks": "中"
+  },
+  {
+    "bank_id": 13,
+    "tech_innovation_level": "中等",
+    "talent_training_status": "高水平",
+    "annual_fintech_investment_million": 21.03,
+    "digital_platforms": {
+      "mobile_app_rating": 2.87,
+      "api_integrations": 22,
+      "fintech_partners": 5
+    },
+    "regulatory_risks": "高"
+  },
+  {
+    "bank_id": 14,
+    "tech_innovation_level": "中等",
+    "talent_training_status": "一般",
+    "annual_fintech_investment_million": 17.67,
+    "digital_platforms": {
+      "mobile_app_rating": 3.61,
+      "api_integrations": 8,
+      "fintech_partners": 3
+    },
+    "regulatory_risks": "高"
+  },
+  {
+    "bank_id": 15,
+    "tech_innovation_level": "中等",
+    "talent_training_status": "高水平",
+    "annual_fintech_investment_million": 25.9,
+    "digital_platforms": {
+      "mobile_app_rating": 1.98,
+      "api_integrations": 10,
+      "fintech_partners": 7
+    },
+    "regulatory_risks": "中"
+  },
+  {
+    "bank_id": 16,
+    "tech_innovation_level": "中等",
+    "talent_training_status": "高水平",
+    "annual_fintech_investment_million": 15.1,
+    "digital_platforms": {
+      "mobile_app_rating": 0.41,
+      "api_integrations": 8,
+      "fintech_partners": 10
+    },
+    "regulatory_risks": "高"
+  },
+  {
+    "bank_id": 17,
+    "tech_innovation_level": "中等",
+    "talent_training_status": "高水平",
+    "annual_fintech_investment_million": 15.55,
+    "digital_platforms": {
+      "mobile_app_rating": 3.49,
+      "api_integrations": 27,
+      "fintech_partners": 7
+    },
+    "regulatory_risks": "中"
+  },
+  {
+    "bank_id": 18,
+    "tech_innovation_level": "领先",
+    "talent_training_status": "欠缺",
+    "annual_fintech_investment_million": 15.01,
+    "digital_platforms": {
+      "mobile_app_rating": 2.14,
+      "api_integrations": 20,
+      "fintech_partners": 6
+    },
+    "regulatory_risks": "低"
+  },
+  {
+    "bank_id": 19,
+    "tech_innovation_level": "领先",
+    "talent_training_status": "高水平",
+    "annual_fintech_investment_million": 21.03,
+    "digital_platforms": {
+      "mobile_app_rating": 2.0,
+      "api_integrations": 24,
+      "fintech_partners": 11
+    },
+    "regulatory_risks": "中"
+  },
+  {
+    "bank_id": 20,
+    "tech_innovation_level": "领先",
+    "talent_training_status": "高水平",
+    "annual_fintech_investment_million": 13.88,
+    "digital_platforms": {
+      "mobile_app_rating": 2.43,
+      "api_integrations": 29,
+      "fintech_partners": 15
+    },
+    "regulatory_risks": "中"
+  },
+  {
+    "bank_id": 21,
+    "tech_innovation_level": "中等",
+    "talent_training_status": "一般",
+    "annual_fintech_investment_million": 20.45,
+    "digital_platforms": {
+      "mobile_app_rating": 3.19,
+      "api_integrations": 13,
+      "fintech_partners": 3
+    },
+    "regulatory_risks": "低"
+  },
+  {
+    "bank_id": 22,
+    "tech_innovation_level": "领先",
+    "talent_training_status": "一般",
+    "annual_fintech_investment_million": 17.54,
+    "digital_platforms": {
+      "mobile_app_rating": 1.4,
+      "api_integrations": 26,
+      "fintech_partners": 10
+    },
+    "regulatory_risks": "中"
+  },
+  {
+    "bank_id": 23,
+    "tech_innovation_level": "中等",
+    "talent_training_status": "一般",
+    "annual_fintech_investment_million": 21.38,
+    "digital_platforms": {
+      "mobile_app_rating": 4.59,
+      "api_integrations": 15,
+      "fintech_partners": 11
+    },
+    "regulatory_risks": "中"
+  },
+  {
+    "bank_id": 24,
+    "tech_innovation_level": "中等",
+    "talent_training_status": "欠缺",
+    "annual_fintech_investment_million": 4.62,
+    "digital_platforms": {
+      "mobile_app_rating": 2.25,
+      "api_integrations": 11,
+      "fintech_partners": 14
+    },
+    "regulatory_risks": "低"
+  },
+  {
+    "bank_id": 25,
+    "tech_innovation_level": "中等",
+    "talent_training_status": "欠缺",
+    "annual_fintech_investment_million": 14.03,
+    "digital_platforms": {
+      "mobile_app_rating": 3.07,
+      "api_integrations": 18,
+      "fintech_partners": 3
+    },
+    "regulatory_risks": "低"
+  },
+  {
+    "bank_id": 26,
+    "tech_innovation_level": "中等",
+    "talent_training_status": "欠缺",
+    "annual_fintech_investment_million": 24.33,
+    "digital_platforms": {
+      "mobile_app_rating": 4.0,
+      "api_integrations": 17,
+      "fintech_partners": 9
+    },
+    "regulatory_risks": "高"
+  },
+  {
+    "bank_id": 27,
+    "tech_innovation_level": "中等",
+    "talent_training_status": "一般",
+    "annual_fintech_investment_million": 9.91,
+    "digital_platforms": {
+      "mobile_app_rating": 3.2,
+      "api_integrations": 9,
+      "fintech_partners": 10
+    },
+    "regulatory_risks": "高"
+  },
+  {
+    "bank_id": 28,
+    "tech_innovation_level": "领先",
+    "talent_training_status": "欠缺",
+    "annual_fintech_investment_million": 23.12,
+    "digital_platforms": {
+      "mobile_app_rating": 1.67,
+      "api_integrations": 15,
+      "fintech_partners": 4
+    },
+    "regulatory_risks": "中"
+  },
+  {
+    "bank_id": 29,
+    "tech_innovation_level": "中等",
+    "talent_training_status": "一般",
+    "annual_fintech_investment_million": 16.75,
+    "digital_platforms": {
+      "mobile_app_rating": 3.42,
+      "api_integrations": 19,
+      "fintech_partners": 3
+    },
+    "regulatory_risks": "中"
+  },
+  {
+    "bank_id": 30,
+    "tech_innovation_level": "中等",
+    "talent_training_status": "一般",
+    "annual_fintech_investment_million": 15.59,
+    "digital_platforms": {
+      "mobile_app_rating": 2.96,
+      "api_integrations": 9,
+      "fintech_partners": 4
+    },
+    "regulatory_risks": "低"
+  },
+  {
+    "bank_id": 31,
+    "tech_innovation_level": "落后",
+    "talent_training_status": "高水平",
+    "annual_fintech_investment_million": 22.7,
+    "digital_platforms": {
+      "mobile_app_rating": 1.33,
+      "api_integrations": 27,
+      "fintech_partners": 9
+    },
+    "regulatory_risks": "中"
+  },
+  {
+    "bank_id": 32,
+    "tech_innovation_level": "落后",
+    "talent_training_status": "欠缺",
+    "annual_fintech_investment_million": 16.15,
+    "digital_platforms": {
+      "mobile_app_rating": 0.47,
+      "api_integrations": 22,
+      "fintech_partners": 9
+    },
+    "regulatory_risks": "高"
+  },
+  {
+    "bank_id": 33,
+    "tech_innovation_level": "中等",
+    "talent_training_status": "欠缺",
+    "annual_fintech_investment_million": 4.41,
+    "digital_platforms": {
+      "mobile_app_rating": 2.92,
+      "api_integrations": 20,
+      "fintech_partners": 11
+    },
+    "regulatory_risks": "低"
+  },
+  {
+    "bank_id": 34,
+    "tech_innovation_level": "领先",
+    "talent_training_status": "一般",
+    "annual_fintech_investment_million": 28.11,
+    "digital_platforms": {
+      "mobile_app_rating": 0.36,
+      "api_integrations": 14,
+      "fintech_partners": 6
+    },
+    "regulatory_risks": "中"
+  },
+  {
+    "bank_id": 35,
+    "tech_innovation_level": "中等",
+    "talent_training_status": "高水平",
+    "annual_fintech_investment_million": 17.56,
+    "digital_platforms": {
+      "mobile_app_rating": 2.88,
+      "api_integrations": 25,
+      "fintech_partners": 14
+    },
+    "regulatory_risks": "中"
+  },
+  {
+    "bank_id": 36,
+    "tech_innovation_level": "中等",
+    "talent_training_status": "一般",
+    "annual_fintech_investment_million": 19.79,
+    "digital_platforms": {
+      "mobile_app_rating": 2.97,
+      "api_integrations": 5,
+      "fintech_partners": 3
+    },
+    "regulatory_risks": "低"
+  },
+  {
+    "bank_id": 37,
+    "tech_innovation_level": "领先",
+    "talent_training_status": "高水平",
+    "annual_fintech_investment_million": 10.7,
+    "digital_platforms": {
+      "mobile_app_rating": 2.66,
+      "api_integrations": 18,
+      "fintech_partners": 5
+    },
+    "regulatory_risks": "低"
+  },
+  {
+    "bank_id": 38,
+    "tech_innovation_level": "中等",
+    "talent_training_status": "一般",
+    "annual_fintech_investment_million": 13.45,
+    "digital_platforms": {
+      "mobile_app_rating": 4.03,
+      "api_integrations": 10,
+      "fintech_partners": 5
+    },
+    "regulatory_risks": "低"
+  },
+  {
+    "bank_id": 39,
+    "tech_innovation_level": "中等",
+    "talent_training_status": "高水平",
+    "annual_fintech_investment_million": 32.55,
+    "digital_platforms": {
+      "mobile_app_rating": 2.59,
+      "api_integrations": 26,
+      "fintech_partners": 6
+    },
+    "regulatory_risks": "低"
+  },
+  {
+    "bank_id": 40,
+    "tech_innovation_level": "中等",
+    "talent_training_status": "高水平",
+    "annual_fintech_investment_million": 20.27,
+    "digital_platforms": {
+      "mobile_app_rating": 1.57,
+      "api_integrations": 25,
+      "fintech_partners": 7
+    },
+    "regulatory_risks": "低"
+  },
+  {
+    "bank_id": 41,
+    "tech_innovation_level": "中等",
+    "talent_training_status": "欠缺",
+    "annual_fintech_investment_million": 33.49,
+    "digital_platforms": {
+      "mobile_app_rating": 2.14,
+      "api_integrations": 19,
+      "fintech_partners": 7
+    },
+    "regulatory_risks": "中"
+  },
+  {
+    "bank_id": 42,
+    "tech_innovation_level": "领先",
+    "talent_training_status": "一般",
+    "annual_fintech_investment_million": 17.88,
+    "digital_platforms": {
+      "mobile_app_rating": 4.14,
+      "api_integrations": 16,
+      "fintech_partners": 12
+    },
+    "regulatory_risks": "低"
+  },
+  {
+    "bank_id": 43,
+    "tech_innovation_level": "落后",
+    "talent_training_status": "一般",
+    "annual_fintech_investment_million": 22.74,
+    "digital_platforms": {
+      "mobile_app_rating": 2.08,
+      "api_integrations": 19,
+      "fintech_partners": 7
+    },
+    "regulatory_risks": "低"
+  },
+  {
+    "bank_id": 44,
+    "tech_innovation_level": "中等",
+    "talent_training_status": "一般",
+    "annual_fintech_investment_million": 31.43,
+    "digital_platforms": {
+      "mobile_app_rating": 3.34,
+      "api_integrations": 12,
+      "fintech_partners": 9
+    },
+    "regulatory_risks": "中"
+  },
+  {
+    "bank_id": 45,
+    "tech_innovation_level": "中等",
+    "talent_training_status": "欠缺",
+    "annual_fintech_investment_million": 10.91,
+    "digital_platforms": {
+      "mobile_app_rating": 2.54,
+      "api_integrations": 14,
+      "fintech_partners": 3
+    },
+    "regulatory_risks": "高"
+  },
+  {
+    "bank_id": 46,
+    "tech_innovation_level": "中等",
+    "talent_training_status": "高水平",
+    "annual_fintech_investment_million": 27.21,
+    "digital_platforms": {
+      "mobile_app_rating": 4.16,
+      "api_integrations": 23,
+      "fintech_partners": 13
+    },
+    "regulatory_risks": "中"
+  },
+  {
+    "bank_id": 47,
+    "tech_innovation_level": "落后",
+    "talent_training_status": "欠缺",
+    "annual_fintech_investment_million": 38.89,
+    "digital_platforms": {
+      "mobile_app_rating": 1.61,
+      "api_integrations": 28,
+      "fintech_partners": 10
+    },
+    "regulatory_risks": "中"
+  },
+  {
+    "bank_id": 48,
+    "tech_innovation_level": "落后",
+    "talent_training_status": "一般",
+    "annual_fintech_investment_million": 4.44,
+    "digital_platforms": {
+      "mobile_app_rating": 3.82,
+      "api_integrations": 12,
+      "fintech_partners": 12
+    },
+    "regulatory_risks": "中"
+  },
+  {
+    "bank_id": 49,
+    "tech_innovation_level": "领先",
+    "talent_training_status": "高水平",
+    "annual_fintech_investment_million": 25.41,
+    "digital_platforms": {
+      "mobile_app_rating": 3.27,
+      "api_integrations": 13,
+      "fintech_partners": 13
+    },
+    "regulatory_risks": "中"
+  },
+  {
+    "bank_id": 50,
+    "tech_innovation_level": "中等",
+    "talent_training_status": "一般",
+    "annual_fintech_investment_million": 5.45,
+    "digital_platforms": {
+      "mobile_app_rating": 1.61,
+      "api_integrations": 9,
+      "fintech_partners": 13
+    },
+    "regulatory_risks": "低"
+  }
+]

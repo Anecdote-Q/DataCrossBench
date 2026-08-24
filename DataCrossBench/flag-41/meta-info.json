@@ -1,0 +1,20 @@
+{
+    "goal": "评估短剧行业审查政策收紧对红果短剧盈利能力的影响，特别是制作成本的变化。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 短剧行业的市场规模从2021年的36.8亿元快速增长至2023年的373.9亿元，预计2024年将达到504亿元，同比增长率为35%。",
+        "Comparison: 与光线传媒的合理价值10.52元相比，红果短剧的市场表现更为突出，显示出其在短剧市场中的领先地位。",
+        "Extreme: 短剧用户的付费率约为0.5%-1%，显示出市场对付费内容的接受度仍然较低。",
+        "Attribution: 由于短剧的审查政策收紧和市场竞争加剧，短剧制作成本提升，导致利润率降低，这也影响了红果短剧的盈利能力。"
+    ],
+    "summary": "红果短剧在短剧行业中迅速崛起，市场规模预计达到504亿元，用户活跃度显著提升，IAA短剧成为主要增长动力。通过与多家版权方的合作，红果短剧展现出强大的市场竞争力。",
+    "flag_id": "flag-41",
+    "classifier": "Short-form Drama",
+    "classifier_cn": "短剧/微短剧内容",
+    "input_files": [
+        "output/background.txt",
+        "output/short_drama_market.csv",
+        "output/short_drama_performance.db",
+        "output/user_profiles.json"
+    ]
+}

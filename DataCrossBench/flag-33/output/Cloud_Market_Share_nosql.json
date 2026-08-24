@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1,
+    "provider_name": "百度智能云",
+    "report_date": "2023-01-31",
+    "market_share": 22.483570765056164,
+    "payload": {
+      "last_3_months_market_share": [
+        22.74,
+        22.58,
+        22.13
+      ],
+      "provider_description": "深度AI能力驱动的云平台。"
+    }
+  },
+  {
+    "id": 2,
+    "provider_name": "百度智能云",
+    "report_date": "2023-02-28",
+    "market_share": 19.308678494144075,
+    "payload": {
+      "last_3_months_market_share": [
+        18.72,
+        20.32,
+        18.63
+      ],
+      "provider_description": "深度AI能力驱动的云平台。"
+    }
+  },
+  {
+    "id": 3,
+    "provider_name": "华三云",
+    "report_date": "2023-03-31",
+    "market_share": 23.23844269050346,
+    "payload": {
+      "last_3_months_market_share": [
+        24.32,
+        24.84,
+        23.79
+      ],
+      "provider_description": "企业级网络和云服务提供商。"
+    }
+  },
+  {
+    "id": 4,
+    "provider_name": "华三云",
+    "report_date": "2023-04-30",
+    "market_share": 66.54547608720966,
+    "payload": {
+      "last_3_months_market_share": [
+        66.92,
+        68.1,
+        68.32
+      ],
+      "provider_description": "企业级网络和云服务提供商。"
+    }
+  },
+  {
+    "id": 5,
+    "provider_name": "腾讯云",
+    "report_date": "2023-05-31",
+    "market_share": 18.829233126383322,
+    "payload": {
+      "last_3_months_market_share": [
+        17.6,
+        17.62,
+        16.65
+      ],
+      "provider_description": "侧重游戏和视频行业的云解决方案。"
+    }
+  },
+  {
+    "id": 6,
+    "provider_name": "腾讯云",
+    "report_date": "2023-06-30",
+    "market_share": 18.8293152152541,
+    "payload": {
+      "last_3_months_market_share": [
+        19.68,
+        18.34,
+        18.73
+      ],
+      "provider_description": "侧重游戏和视频行业的云解决方案。"
+    }
+  },
+  {
+    "id": 7,
+    "provider_name": "华为云",
+    "report_date": "2023-07-31",
+    "market_share": 13.320981135783017,
+    "payload": {
+      "last_3_months_market_share": [
+        13.04,
+        13.01,
+        11.78
+      ],
+      "provider_description": "具有强大网络和基础设施优势，持续投入云计算研发。"
+    }
+  },
+  {
+    "id": 8,
+    "provider_name": "京东云",
+    "report_date": "2023-08-31",
+    "market_share": 23.837173645764544,
+    "payload": {
+      "last_3_months_market_share": [
+        23.37,
+        22.79,
+        23.22
+      ],
+      "provider_description": "电商背景强势支持行业数字化转型。"
+    }
+  },
+  {
+    "id": 9,
+    "provider_name": "华三云",
+    "report_date": "2023-09-30",
+    "market_share": 17.65262807032524,
+    "payload": {
+      "last_3_months_market_share": [
+        19.42,
+        18.95,
+        18.01
+      ],
+      "provider_description": "企业级网络和云服务提供商。"
+    }
+  },
+  {
+    "id": 10,
+    "provider_name": "阿里云",
+    "report_date": "2023-10-31",
+    "market_share": 24.186719755342203,
+    "payload": {
+      "last_3_months_market_share": [
+        25.43,
+        24.0,
+        25.53
+      ],
+      "provider_description": "国内领先的云服务平台，支持多种AI业务。"
+    }
+  },
+  {
+    "id": 11,
+    "provider_name": "腾讯云",
+    "report_date": "2023-11-30",
+    "market_share": 17.682911535937688,
+    "payload": {
+      "last_3_months_market_share": [
+        16.27,
+        15.6,
+        17.29
+      ],
+      "provider_description": "侧重游戏和视频行业的云解决方案。"
+    }
+  },
+  {
+    "id": 12,
+    "provider_name": "华为云",
+    "report_date": "2023-12-31",
+    "market_share": 12.337541083743483,
+    "payload": {
+      "last_3_months_market_share": [
+        12.5,
+        11.49,
+        12.07
+      ],
+      "provider_description": "具有强大网络和基础设施优势，持续投入云计算研发。"
+    }
+  }
+]

@@ -1,0 +1,1173 @@
+[
+  {
+    "company_id": "C000",
+    "company_name": "鑫博腾飞信息有限公司",
+    "industry": "投资",
+    "founded_year": 2008,
+    "company_age": 17,
+    "company_level": "等级_7",
+    "financial_health": {
+      "credit_score": 633,
+      "debt_to_equity": 1.18,
+      "revenue_million": 114
+    },
+    "policy_awareness": {
+      "green_finance_awareness": true,
+      "inclusive_finance_projects": 2,
+      "recent_innovation_supported": true
+    },
+    "tech_keywords": [
+      "保险科技",
+      "云计算"
+    ]
+  },
+  {
+    "company_id": "C001",
+    "company_name": "创亿网络有限公司",
+    "industry": "养老金融",
+    "founded_year": 1994,
+    "company_age": 31,
+    "company_level": "等级_17",
+    "financial_health": {
+      "credit_score": 657,
+      "debt_to_equity": 0.62,
+      "revenue_million": 162
+    },
+    "policy_awareness": {
+      "green_finance_awareness": true,
+      "inclusive_finance_projects": 0,
+      "recent_innovation_supported": false
+    },
+    "tech_keywords": [
+      "养老服务",
+      "区块链"
+    ]
+  },
+  {
+    "company_id": "C002",
+    "company_name": "襄樊地球村科技有限公司",
+    "industry": "投资",
+    "founded_year": 1987,
+    "company_age": 38,
+    "company_level": "等级_20",
+    "financial_health": {
+      "credit_score": 689,
+      "debt_to_equity": 1.2,
+      "revenue_million": 353
+    },
+    "policy_awareness": {
+      "green_finance_awareness": true,
+      "inclusive_finance_projects": 0,
+      "recent_innovation_supported": false
+    },
+    "tech_keywords": [
+      "人工智能",
+      "养老服务",
+      "绿色能源",
+      "大数据",
+      "云计算"
+    ]
+  },
+  {
+    "company_id": "C003",
+    "company_name": "戴硕电子科技有限公司",
+    "industry": "养老金融",
+    "founded_year": 2000,
+    "company_age": 25,
+    "company_level": "等级_4",
+    "financial_health": {
+      "credit_score": 729,
+      "debt_to_equity": 0.42,
+      "revenue_million": 101
+    },
+    "policy_awareness": {
+      "green_finance_awareness": true,
+      "inclusive_finance_projects": 4,
+      "recent_innovation_supported": false
+    },
+    "tech_keywords": [
+      "风险管理",
+      "云计算",
+      "区块链",
+      "人工智能"
+    ]
+  },
+  {
+    "company_id": "C004",
+    "company_name": "华远软件网络有限公司",
+    "industry": "金融科技",
+    "founded_year": 1998,
+    "company_age": 27,
+    "company_level": "等级_5",
+    "financial_health": {
+      "credit_score": 785,
+      "debt_to_equity": 0.11,
+      "revenue_million": 242
+    },
+    "policy_awareness": {
+      "green_finance_awareness": true,
+      "inclusive_finance_projects": 4,
+      "recent_innovation_supported": false
+    },
+    "tech_keywords": [
+      "人工智能",
+      "云计算",
+      "养老服务",
+      "区块链",
+      "保险科技"
+    ]
+  },
+  {
+    "company_id": "C005",
+    "company_name": "艾提科信网络有限公司",
+    "industry": "投资",
+    "founded_year": 2002,
+    "company_age": 23,
+    "company_level": "等级_7",
+    "financial_health": {
+      "credit_score": 686,
+      "debt_to_equity": 1.26,
+      "revenue_million": 399
+    },
+    "policy_awareness": {
+      "green_finance_awareness": false,
+      "inclusive_finance_projects": 1,
+      "recent_innovation_supported": false
+    },
+    "tech_keywords": [
+      "人工智能",
+      "大数据"
+    ]
+  },
+  {
+    "company_id": "C006",
+    "company_name": "创亿传媒有限公司",
+    "industry": "保险",
+    "founded_year": 1990,
+    "company_age": 35,
+    "company_level": "等级_13",
+    "financial_health": {
+      "credit_score": 681,
+      "debt_to_equity": 0.16,
+      "revenue_million": 424
+    },
+    "policy_awareness": {
+      "green_finance_awareness": true,
+      "inclusive_finance_projects": 4,
+      "recent_innovation_supported": false
+    },
+    "tech_keywords": [
+      "大数据",
+      "保险科技",
+      "区块链"
+    ]
+  },
+  {
+    "company_id": "C007",
+    "company_name": "超艺网络有限公司",
+    "industry": "保险",
+    "founded_year": 1990,
+    "company_age": 35,
+    "company_level": "等级_15",
+    "financial_health": {
+      "credit_score": 743,
+      "debt_to_equity": 0.56,
+      "revenue_million": 115
+    },
+    "policy_awareness": {
+      "green_finance_awareness": true,
+      "inclusive_finance_projects": 0,
+      "recent_innovation_supported": false
+    },
+    "tech_keywords": [
+      "支付技术",
+      "养老服务"
+    ]
+  },
+  {
+    "company_id": "C008",
+    "company_name": "数字100信息有限公司",
+    "industry": "保险",
+    "founded_year": 2003,
+    "company_age": 22,
+    "company_level": "等级_11",
+    "financial_health": {
+      "credit_score": 716,
+      "debt_to_equity": 0.45,
+      "revenue_million": 157
+    },
+    "policy_awareness": {
+      "green_finance_awareness": true,
+      "inclusive_finance_projects": 2,
+      "recent_innovation_supported": false
+    },
+    "tech_keywords": [
+      "养老服务",
+      "风险管理",
+      "支付技术",
+      "云计算"
+    ]
+  },
+  {
+    "company_id": "C009",
+    "company_name": "华远软件信息有限公司",
+    "industry": "银行",
+    "founded_year": 2015,
+    "company_age": 10,
+    "company_level": "等级_4",
+    "financial_health": {
+      "credit_score": 651,
+      "debt_to_equity": 1.21,
+      "revenue_million": 304
+    },
+    "policy_awareness": {
+      "green_finance_awareness": false,
+      "inclusive_finance_projects": 2,
+      "recent_innovation_supported": true
+    },
+    "tech_keywords": [
+      "绿色能源",
+      "支付技术",
+      "大数据",
+      "养老服务",
+      "人工智能"
+    ]
+  },
+  {
+    "company_id": "C010",
+    "company_name": "兰金电子传媒有限公司",
+    "industry": "银行",
+    "founded_year": 2003,
+    "company_age": 22,
+    "company_level": "等级_13",
+    "financial_health": {
+      "credit_score": 709,
+      "debt_to_equity": 1.53,
+      "revenue_million": 294
+    },
+    "policy_awareness": {
+      "green_finance_awareness": false,
+      "inclusive_finance_projects": 4,
+      "recent_innovation_supported": false
+    },
+    "tech_keywords": [
+      "支付技术",
+      "大数据"
+    ]
+  },
+  {
+    "company_id": "C011",
+    "company_name": "立信电子信息有限公司",
+    "industry": "银行",
+    "founded_year": 1982,
+    "company_age": 43,
+    "company_level": "等级_7",
+    "financial_health": {
+      "credit_score": 778,
+      "debt_to_equity": 1.24,
+      "revenue_million": 448
+    },
+    "policy_awareness": {
+      "green_finance_awareness": false,
+      "inclusive_finance_projects": 4,
+      "recent_innovation_supported": false
+    },
+    "tech_keywords": [
+      "大数据",
+      "区块链"
+    ]
+  },
+  {
+    "company_id": "C012",
+    "company_name": "济南亿次元传媒有限公司",
+    "industry": "养老金融",
+    "founded_year": 2001,
+    "company_age": 24,
+    "company_level": "等级_19",
+    "financial_health": {
+      "credit_score": 653,
+      "debt_to_equity": 0.39,
+      "revenue_million": 141
+    },
+    "policy_awareness": {
+      "green_finance_awareness": false,
+      "inclusive_finance_projects": 0,
+      "recent_innovation_supported": true
+    },
+    "tech_keywords": [
+      "保险科技",
+      "养老服务"
+    ]
+  },
+  {
+    "company_id": "C013",
+    "company_name": "新格林耐特科技有限公司",
+    "industry": "银行",
+    "founded_year": 1981,
+    "company_age": 44,
+    "company_level": "等级_2",
+    "financial_health": {
+      "credit_score": 744,
+      "debt_to_equity": 0.93,
+      "revenue_million": 208
+    },
+    "policy_awareness": {
+      "green_finance_awareness": false,
+      "inclusive_finance_projects": 3,
+      "recent_innovation_supported": false
+    },
+    "tech_keywords": [
+      "风险管理",
+      "区块链",
+      "养老服务",
+      "支付技术",
+      "人工智能"
+    ]
+  },
+  {
+    "company_id": "C014",
+    "company_name": "趋势信息有限公司",
+    "industry": "银行",
+    "founded_year": 2003,
+    "company_age": 22,
+    "company_level": "等级_10",
+    "financial_health": {
+      "credit_score": 701,
+      "debt_to_equity": 0.6,
+      "revenue_million": 377
+    },
+    "policy_awareness": {
+      "green_finance_awareness": false,
+      "inclusive_finance_projects": 1,
+      "recent_innovation_supported": false
+    },
+    "tech_keywords": [
+      "区块链",
+      "大数据"
+    ]
+  },
+  {
+    "company_id": "C015",
+    "company_name": "凌云科技有限公司",
+    "industry": "金融科技",
+    "founded_year": 2009,
+    "company_age": 16,
+    "company_level": "等级_13",
+    "financial_health": {
+      "credit_score": 718,
+      "debt_to_equity": 1.22,
+      "revenue_million": 323
+    },
+    "policy_awareness": {
+      "green_finance_awareness": true,
+      "inclusive_finance_projects": 4,
+      "recent_innovation_supported": false
+    },
+    "tech_keywords": [
+      "保险科技",
+      "风险管理",
+      "大数据"
+    ]
+  },
+  {
+    "company_id": "C016",
+    "company_name": "黄石金承科技有限公司",
+    "industry": "保险",
+    "founded_year": 1981,
+    "company_age": 44,
+    "company_level": "等级_6",
+    "financial_health": {
+      "credit_score": 660,
+      "debt_to_equity": 1.33,
+      "revenue_million": 330
+    },
+    "policy_awareness": {
+      "green_finance_awareness": true,
+      "inclusive_finance_projects": 2,
+      "recent_innovation_supported": false
+    },
+    "tech_keywords": [
+      "支付技术",
+      "保险科技"
+    ]
+  },
+  {
+    "company_id": "C017",
+    "company_name": "晖来计算机传媒有限公司",
+    "industry": "养老金融",
+    "founded_year": 2000,
+    "company_age": 25,
+    "company_level": "等级_12",
+    "financial_health": {
+      "credit_score": 716,
+      "debt_to_equity": 1.41,
+      "revenue_million": 444
+    },
+    "policy_awareness": {
+      "green_finance_awareness": true,
+      "inclusive_finance_projects": 1,
+      "recent_innovation_supported": false
+    },
+    "tech_keywords": [
+      "云计算",
+      "风险管理",
+      "人工智能"
+    ]
+  },
+  {
+    "company_id": "C018",
+    "company_name": "银嘉信息有限公司",
+    "industry": "保险",
+    "founded_year": 2012,
+    "company_age": 13,
+    "company_level": "等级_12",
+    "financial_health": {
+      "credit_score": 759,
+      "debt_to_equity": 0.83,
+      "revenue_million": 427
+    },
+    "policy_awareness": {
+      "green_finance_awareness": true,
+      "inclusive_finance_projects": 4,
+      "recent_innovation_supported": false
+    },
+    "tech_keywords": [
+      "保险科技",
+      "人工智能",
+      "风险管理"
+    ]
+  },
+  {
+    "company_id": "C019",
+    "company_name": "中建创业信息有限公司",
+    "industry": "投资",
+    "founded_year": 1991,
+    "company_age": 34,
+    "company_level": "等级_20",
+    "financial_health": {
+      "credit_score": 741,
+      "debt_to_equity": 0.85,
+      "revenue_million": 336
+    },
+    "policy_awareness": {
+      "green_finance_awareness": true,
+      "inclusive_finance_projects": 3,
+      "recent_innovation_supported": false
+    },
+    "tech_keywords": [
+      "大数据",
+      "云计算",
+      "区块链"
+    ]
+  },
+  {
+    "company_id": "C020",
+    "company_name": "毕博诚科技有限公司",
+    "industry": "养老金融",
+    "founded_year": 2001,
+    "company_age": 24,
+    "company_level": "等级_11",
+    "financial_health": {
+      "credit_score": 739,
+      "debt_to_equity": 1.77,
+      "revenue_million": 61
+    },
+    "policy_awareness": {
+      "green_finance_awareness": true,
+      "inclusive_finance_projects": 0,
+      "recent_innovation_supported": false
+    },
+    "tech_keywords": [
+      "风险管理",
+      "云计算"
+    ]
+  },
+  {
+    "company_id": "C021",
+    "company_name": "同兴万点网络有限公司",
+    "industry": "保险",
+    "founded_year": 2004,
+    "company_age": 21,
+    "company_level": "等级_7",
+    "financial_health": {
+      "credit_score": 630,
+      "debt_to_equity": 0.86,
+      "revenue_million": 356
+    },
+    "policy_awareness": {
+      "green_finance_awareness": true,
+      "inclusive_finance_projects": 0,
+      "recent_innovation_supported": true
+    },
+    "tech_keywords": [
+      "支付技术",
+      "风险管理",
+      "大数据"
+    ]
+  },
+  {
+    "company_id": "C022",
+    "company_name": "巨奥传媒有限公司",
+    "industry": "保险",
+    "founded_year": 2006,
+    "company_age": 19,
+    "company_level": "等级_1",
+    "financial_health": {
+      "credit_score": 630,
+      "debt_to_equity": 1.4,
+      "revenue_million": 260
+    },
+    "policy_awareness": {
+      "green_finance_awareness": true,
+      "inclusive_finance_projects": 4,
+      "recent_innovation_supported": false
+    },
+    "tech_keywords": [
+      "人工智能",
+      "养老服务",
+      "云计算",
+      "保险科技",
+      "区块链"
+    ]
+  },
+  {
+    "company_id": "C023",
+    "company_name": "维涛网络有限公司",
+    "industry": "养老金融",
+    "founded_year": 2007,
+    "company_age": 18,
+    "company_level": "等级_1",
+    "financial_health": {
+      "credit_score": 711,
+      "debt_to_equity": 1.58,
+      "revenue_million": 147
+    },
+    "policy_awareness": {
+      "green_finance_awareness": false,
+      "inclusive_finance_projects": 4,
+      "recent_innovation_supported": true
+    },
+    "tech_keywords": [
+      "云计算",
+      "大数据"
+    ]
+  },
+  {
+    "company_id": "C024",
+    "company_name": "创联世纪网络有限公司",
+    "industry": "养老金融",
+    "founded_year": 1995,
+    "company_age": 30,
+    "company_level": "等级_20",
+    "financial_health": {
+      "credit_score": 633,
+      "debt_to_equity": 1.16,
+      "revenue_million": 281
+    },
+    "policy_awareness": {
+      "green_finance_awareness": true,
+      "inclusive_finance_projects": 2,
+      "recent_innovation_supported": false
+    },
+    "tech_keywords": [
+      "绿色能源",
+      "云计算",
+      "大数据",
+      "风险管理",
+      "支付技术"
+    ]
+  },
+  {
+    "company_id": "C025",
+    "company_name": "双敏电子传媒有限公司",
+    "industry": "养老金融",
+    "founded_year": 1994,
+    "company_age": 31,
+    "company_level": "等级_13",
+    "financial_health": {
+      "credit_score": 740,
+      "debt_to_equity": 1.33,
+      "revenue_million": 132
+    },
+    "policy_awareness": {
+      "green_finance_awareness": false,
+      "inclusive_finance_projects": 3,
+      "recent_innovation_supported": false
+    },
+    "tech_keywords": [
+      "支付技术",
+      "养老服务",
+      "人工智能"
+    ]
+  },
+  {
+    "company_id": "C026",
+    "company_name": "凌云网络有限公司",
+    "industry": "养老金融",
+    "founded_year": 1982,
+    "company_age": 43,
+    "company_level": "等级_9",
+    "financial_health": {
+      "credit_score": 745,
+      "debt_to_equity": 0.65,
+      "revenue_million": 464
+    },
+    "policy_awareness": {
+      "green_finance_awareness": true,
+      "inclusive_finance_projects": 0,
+      "recent_innovation_supported": true
+    },
+    "tech_keywords": [
+      "区块链",
+      "绿色能源",
+      "保险科技",
+      "云计算",
+      "养老服务"
+    ]
+  },
+  {
+    "company_id": "C027",
+    "company_name": "华远软件传媒有限公司",
+    "industry": "保险",
+    "founded_year": 1986,
+    "company_age": 39,
+    "company_level": "等级_3",
+    "financial_health": {
+      "credit_score": 716,
+      "debt_to_equity": 0.51,
+      "revenue_million": 521
+    },
+    "policy_awareness": {
+      "green_finance_awareness": true,
+      "inclusive_finance_projects": 3,
+      "recent_innovation_supported": true
+    },
+    "tech_keywords": [
+      "云计算",
+      "支付技术",
+      "人工智能",
+      "风险管理"
+    ]
+  },
+  {
+    "company_id": "C028",
+    "company_name": "通际名联传媒有限公司",
+    "industry": "银行",
+    "founded_year": 2000,
+    "company_age": 25,
+    "company_level": "等级_7",
+    "financial_health": {
+      "credit_score": 723,
+      "debt_to_equity": 1.84,
+      "revenue_million": 179
+    },
+    "policy_awareness": {
+      "green_finance_awareness": false,
+      "inclusive_finance_projects": 0,
+      "recent_innovation_supported": false
+    },
+    "tech_keywords": [
+      "支付技术",
+      "区块链",
+      "云计算"
+    ]
+  },
+  {
+    "company_id": "C029",
+    "company_name": "天开网络有限公司",
+    "industry": "保险",
+    "founded_year": 1988,
+    "company_age": 37,
+    "company_level": "等级_6",
+    "financial_health": {
+      "credit_score": 798,
+      "debt_to_equity": 1.11,
+      "revenue_million": 117
+    },
+    "policy_awareness": {
+      "green_finance_awareness": true,
+      "inclusive_finance_projects": 2,
+      "recent_innovation_supported": false
+    },
+    "tech_keywords": [
+      "云计算",
+      "绿色能源",
+      "支付技术",
+      "保险科技"
+    ]
+  },
+  {
+    "company_id": "C030",
+    "company_name": "艾提科信信息有限公司",
+    "industry": "养老金融",
+    "founded_year": 1997,
+    "company_age": 28,
+    "company_level": "等级_8",
+    "financial_health": {
+      "credit_score": 674,
+      "debt_to_equity": 1.26,
+      "revenue_million": 303
+    },
+    "policy_awareness": {
+      "green_finance_awareness": false,
+      "inclusive_finance_projects": 1,
+      "recent_innovation_supported": true
+    },
+    "tech_keywords": [
+      "大数据",
+      "绿色能源"
+    ]
+  },
+  {
+    "company_id": "C031",
+    "company_name": "四通传媒有限公司",
+    "industry": "金融科技",
+    "founded_year": 1983,
+    "company_age": 42,
+    "company_level": "等级_9",
+    "financial_health": {
+      "credit_score": 696,
+      "debt_to_equity": 0.67,
+      "revenue_million": 164
+    },
+    "policy_awareness": {
+      "green_finance_awareness": true,
+      "inclusive_finance_projects": 0,
+      "recent_innovation_supported": false
+    },
+    "tech_keywords": [
+      "大数据",
+      "风险管理",
+      "区块链"
+    ]
+  },
+  {
+    "company_id": "C032",
+    "company_name": "创亿网络有限公司",
+    "industry": "银行",
+    "founded_year": 2004,
+    "company_age": 21,
+    "company_level": "等级_5",
+    "financial_health": {
+      "credit_score": 769,
+      "debt_to_equity": 1.07,
+      "revenue_million": 166
+    },
+    "policy_awareness": {
+      "green_finance_awareness": false,
+      "inclusive_finance_projects": 0,
+      "recent_innovation_supported": false
+    },
+    "tech_keywords": [
+      "绿色能源",
+      "云计算"
+    ]
+  },
+  {
+    "company_id": "C033",
+    "company_name": "兰金电子科技有限公司",
+    "industry": "保险",
+    "founded_year": 1993,
+    "company_age": 32,
+    "company_level": "等级_1",
+    "financial_health": {
+      "credit_score": 609,
+      "debt_to_equity": 1.75,
+      "revenue_million": 481
+    },
+    "policy_awareness": {
+      "green_finance_awareness": true,
+      "inclusive_finance_projects": 3,
+      "recent_innovation_supported": false
+    },
+    "tech_keywords": [
+      "支付技术",
+      "保险科技",
+      "区块链",
+      "大数据"
+    ]
+  },
+  {
+    "company_id": "C034",
+    "company_name": "时空盒数字网络有限公司",
+    "industry": "银行",
+    "founded_year": 1988,
+    "company_age": 37,
+    "company_level": "等级_19",
+    "financial_health": {
+      "credit_score": 747,
+      "debt_to_equity": 0.35,
+      "revenue_million": 255
+    },
+    "policy_awareness": {
+      "green_finance_awareness": true,
+      "inclusive_finance_projects": 1,
+      "recent_innovation_supported": false
+    },
+    "tech_keywords": [
+      "支付技术",
+      "保险科技"
+    ]
+  },
+  {
+    "company_id": "C035",
+    "company_name": "商软冠联科技有限公司",
+    "industry": "银行",
+    "founded_year": 2005,
+    "company_age": 20,
+    "company_level": "等级_10",
+    "financial_health": {
+      "credit_score": 749,
+      "debt_to_equity": 1.27,
+      "revenue_million": 318
+    },
+    "policy_awareness": {
+      "green_finance_awareness": true,
+      "inclusive_finance_projects": 2,
+      "recent_innovation_supported": true
+    },
+    "tech_keywords": [
+      "区块链",
+      "大数据",
+      "保险科技"
+    ]
+  },
+  {
+    "company_id": "C036",
+    "company_name": "新格林耐特传媒有限公司",
+    "industry": "养老金融",
+    "founded_year": 1981,
+    "company_age": 44,
+    "company_level": "等级_12",
+    "financial_health": {
+      "credit_score": 742,
+      "debt_to_equity": 0.54,
+      "revenue_million": 490
+    },
+    "policy_awareness": {
+      "green_finance_awareness": true,
+      "inclusive_finance_projects": 1,
+      "recent_innovation_supported": true
+    },
+    "tech_keywords": [
+      "绿色能源",
+      "支付技术",
+      "人工智能",
+      "养老服务",
+      "保险科技"
+    ]
+  },
+  {
+    "company_id": "C037",
+    "company_name": "精芯科技有限公司",
+    "industry": "金融科技",
+    "founded_year": 1999,
+    "company_age": 26,
+    "company_level": "等级_15",
+    "financial_health": {
+      "credit_score": 747,
+      "debt_to_equity": 0.56,
+      "revenue_million": 205
+    },
+    "policy_awareness": {
+      "green_finance_awareness": true,
+      "inclusive_finance_projects": 0,
+      "recent_innovation_supported": false
+    },
+    "tech_keywords": [
+      "风险管理",
+      "人工智能",
+      "区块链",
+      "绿色能源",
+      "大数据"
+    ]
+  },
+  {
+    "company_id": "C038",
+    "company_name": "同兴万点信息有限公司",
+    "industry": "养老金融",
+    "founded_year": 2007,
+    "company_age": 18,
+    "company_level": "等级_9",
+    "financial_health": {
+      "credit_score": 659,
+      "debt_to_equity": 0.82,
+      "revenue_million": 249
+    },
+    "policy_awareness": {
+      "green_finance_awareness": true,
+      "inclusive_finance_projects": 2,
+      "recent_innovation_supported": true
+    },
+    "tech_keywords": [
+      "养老服务",
+      "云计算",
+      "区块链",
+      "大数据"
+    ]
+  },
+  {
+    "company_id": "C039",
+    "company_name": "恒聪百汇信息有限公司",
+    "industry": "金融科技",
+    "founded_year": 1986,
+    "company_age": 39,
+    "company_level": "等级_20",
+    "financial_health": {
+      "credit_score": 654,
+      "debt_to_equity": 1.13,
+      "revenue_million": 339
+    },
+    "policy_awareness": {
+      "green_finance_awareness": true,
+      "inclusive_finance_projects": 1,
+      "recent_innovation_supported": false
+    },
+    "tech_keywords": [
+      "人工智能",
+      "养老服务",
+      "保险科技"
+    ]
+  },
+  {
+    "company_id": "C040",
+    "company_name": "易动力传媒有限公司",
+    "industry": "保险",
+    "founded_year": 1987,
+    "company_age": 38,
+    "company_level": "等级_17",
+    "financial_health": {
+      "credit_score": 683,
+      "debt_to_equity": 0.93,
+      "revenue_million": 176
+    },
+    "policy_awareness": {
+      "green_finance_awareness": false,
+      "inclusive_finance_projects": 2,
+      "recent_innovation_supported": false
+    },
+    "tech_keywords": [
+      "区块链",
+      "大数据",
+      "风险管理",
+      "人工智能",
+      "支付技术"
+    ]
+  },
+  {
+    "company_id": "C041",
+    "company_name": "天开网络有限公司",
+    "industry": "养老金融",
+    "founded_year": 2014,
+    "company_age": 11,
+    "company_level": "等级_17",
+    "financial_health": {
+      "credit_score": 680,
+      "debt_to_equity": 0.37,
+      "revenue_million": 360
+    },
+    "policy_awareness": {
+      "green_finance_awareness": true,
+      "inclusive_finance_projects": 3,
+      "recent_innovation_supported": false
+    },
+    "tech_keywords": [
+      "大数据",
+      "养老服务"
+    ]
+  },
+  {
+    "company_id": "C042",
+    "company_name": "趋势信息有限公司",
+    "industry": "养老金融",
+    "founded_year": 1993,
+    "company_age": 32,
+    "company_level": "等级_20",
+    "financial_health": {
+      "credit_score": 719,
+      "debt_to_equity": 1.22,
+      "revenue_million": 75
+    },
+    "policy_awareness": {
+      "green_finance_awareness": true,
+      "inclusive_finance_projects": 2,
+      "recent_innovation_supported": true
+    },
+    "tech_keywords": [
+      "养老服务",
+      "风险管理",
+      "区块链",
+      "云计算",
+      "大数据"
+    ]
+  },
+  {
+    "company_id": "C043",
+    "company_name": "时空盒数字信息有限公司",
+    "industry": "金融科技",
+    "founded_year": 1996,
+    "company_age": 29,
+    "company_level": "等级_12",
+    "financial_health": {
+      "credit_score": 578,
+      "debt_to_equity": 1.02,
+      "revenue_million": 532
+    },
+    "policy_awareness": {
+      "green_finance_awareness": true,
+      "inclusive_finance_projects": 3,
+      "recent_innovation_supported": false
+    },
+    "tech_keywords": [
+      "风险管理",
+      "人工智能",
+      "大数据",
+      "绿色能源",
+      "区块链"
+    ]
+  },
+  {
+    "company_id": "C044",
+    "company_name": "襄樊地球村科技有限公司",
+    "industry": "养老金融",
+    "founded_year": 2015,
+    "company_age": 10,
+    "company_level": "等级_7",
+    "financial_health": {
+      "credit_score": 674,
+      "debt_to_equity": 1.58,
+      "revenue_million": 452
+    },
+    "policy_awareness": {
+      "green_finance_awareness": true,
+      "inclusive_finance_projects": 3,
+      "recent_innovation_supported": false
+    },
+    "tech_keywords": [
+      "区块链",
+      "人工智能",
+      "养老服务",
+      "风险管理"
+    ]
+  },
+  {
+    "company_id": "C045",
+    "company_name": "信诚致远科技有限公司",
+    "industry": "金融科技",
+    "founded_year": 1983,
+    "company_age": 42,
+    "company_level": "等级_2",
+    "financial_health": {
+      "credit_score": 656,
+      "debt_to_equity": 0.65,
+      "revenue_million": 288
+    },
+    "policy_awareness": {
+      "green_finance_awareness": true,
+      "inclusive_finance_projects": 3,
+      "recent_innovation_supported": true
+    },
+    "tech_keywords": [
+      "支付技术",
+      "人工智能",
+      "风险管理"
+    ]
+  },
+  {
+    "company_id": "C046",
+    "company_name": "联通时科信息有限公司",
+    "industry": "金融科技",
+    "founded_year": 1981,
+    "company_age": 44,
+    "company_level": "等级_3",
+    "financial_health": {
+      "credit_score": 656,
+      "debt_to_equity": 0.25,
+      "revenue_million": 281
+    },
+    "policy_awareness": {
+      "green_finance_awareness": true,
+      "inclusive_finance_projects": 0,
+      "recent_innovation_supported": false
+    },
+    "tech_keywords": [
+      "风险管理",
+      "保险科技",
+      "大数据"
+    ]
+  },
+  {
+    "company_id": "C047",
+    "company_name": "创联世纪网络有限公司",
+    "industry": "金融科技",
+    "founded_year": 1985,
+    "company_age": 40,
+    "company_level": "等级_17",
+    "financial_health": {
+      "credit_score": 736,
+      "debt_to_equity": 1.19,
+      "revenue_million": 306
+    },
+    "policy_awareness": {
+      "green_finance_awareness": true,
+      "inclusive_finance_projects": 4,
+      "recent_innovation_supported": false
+    },
+    "tech_keywords": [
+      "人工智能",
+      "云计算",
+      "支付技术",
+      "大数据",
+      "保险科技"
+    ]
+  },
+  {
+    "company_id": "C048",
+    "company_name": "彩虹传媒有限公司",
+    "industry": "保险",
+    "founded_year": 1983,
+    "company_age": 42,
+    "company_level": "等级_5",
+    "financial_health": {
+      "credit_score": 709,
+      "debt_to_equity": 1.16,
+      "revenue_million": 410
+    },
+    "policy_awareness": {
+      "green_finance_awareness": true,
+      "inclusive_finance_projects": 1,
+      "recent_innovation_supported": false
+    },
+    "tech_keywords": [
+      "风险管理",
+      "云计算",
+      "支付技术",
+      "保险科技",
+      "绿色能源"
+    ]
+  },
+  {
+    "company_id": "C049",
+    "company_name": "同兴万点网络有限公司",
+    "industry": "保险",
+    "founded_year": 2008,
+    "company_age": 17,
+    "company_level": "等级_17",
+    "financial_health": {
+      "credit_score": 754,
+      "debt_to_equity": 1.35,
+      "revenue_million": 449
+    },
+    "policy_awareness": {
+      "green_finance_awareness": true,
+      "inclusive_finance_projects": 4,
+      "recent_innovation_supported": true
+    },
+    "tech_keywords": [
+      "大数据",
+      "绿色能源",
+      "保险科技",
+      "支付技术"
+    ]
+  }
+]

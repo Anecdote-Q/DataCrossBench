@@ -1,0 +1,1195 @@
+[
+  {
+    "id": 1,
+    "company_name": "Company_1",
+    "market_trust": 82.34,
+    "market_value": 68.38,
+    "profile": {
+      "established_year": 2014,
+      "main_business": "智能机器人",
+      "regions": [
+        "华北",
+        "西南",
+        "西北"
+      ],
+      "employee_count": 31
+    }
+  },
+  {
+    "id": 2,
+    "company_name": "Company_2",
+    "market_trust": 65.07,
+    "market_value": 36.64,
+    "profile": {
+      "established_year": 2004,
+      "main_business": "生物技术",
+      "regions": [
+        "华东",
+        "华南"
+      ],
+      "employee_count": 51
+    }
+  },
+  {
+    "id": 3,
+    "company_name": "Company_3",
+    "market_trust": 74.8,
+    "market_value": 87.47,
+    "profile": {
+      "established_year": 1997,
+      "main_business": "AI医疗影像",
+      "regions": [
+        "华东",
+        "东北"
+      ],
+      "employee_count": 33
+    }
+  },
+  {
+    "id": 4,
+    "company_name": "Company_4",
+    "market_trust": 68.33,
+    "market_value": 71.6,
+    "profile": {
+      "established_year": 2007,
+      "main_business": "智能机器人",
+      "regions": [
+        "华南",
+        "华东",
+        "东北"
+      ],
+      "employee_count": 43
+    }
+  },
+  {
+    "id": 5,
+    "company_name": "Company_5",
+    "market_trust": 91.06,
+    "market_value": 41.05,
+    "profile": {
+      "established_year": 2012,
+      "main_business": "AI医疗影像",
+      "regions": [
+        "华东"
+      ],
+      "employee_count": 111
+    }
+  },
+  {
+    "id": 6,
+    "company_name": "Company_6",
+    "market_trust": 90.62,
+    "market_value": 75.62,
+    "profile": {
+      "established_year": 2018,
+      "main_business": "AI医疗影像",
+      "regions": [
+        "华东",
+        "东北"
+      ],
+      "employee_count": 47
+    }
+  },
+  {
+    "id": 7,
+    "company_name": "Company_7",
+    "market_trust": 65.08,
+    "market_value": 51.36,
+    "profile": {
+      "established_year": 1997,
+      "main_business": "医疗软件",
+      "regions": [
+        "西南",
+        "华南",
+        "东北"
+      ],
+      "employee_count": 110
+    }
+  },
+  {
+    "id": 8,
+    "company_name": "Company_8",
+    "market_trust": 78.86,
+    "market_value": 67.06,
+    "profile": {
+      "established_year": 2013,
+      "main_business": "生物技术",
+      "regions": [
+        "西南",
+        "华南",
+        "西北"
+      ],
+      "employee_count": 95
+    }
+  },
+  {
+    "id": 9,
+    "company_name": "Company_9",
+    "market_trust": 85.68,
+    "market_value": 59.69,
+    "profile": {
+      "established_year": 2015,
+      "main_business": "远程诊断",
+      "regions": [
+        "华东"
+      ],
+      "employee_count": 45
+    }
+  },
+  {
+    "id": 10,
+    "company_name": "Company_10",
+    "market_trust": 83.48,
+    "market_value": 33.07,
+    "profile": {
+      "established_year": 1993,
+      "main_business": "远程诊断",
+      "regions": [
+        "西南",
+        "西北"
+      ],
+      "employee_count": 42
+    }
+  },
+  {
+    "id": 11,
+    "company_name": "Company_11",
+    "market_trust": 24.88,
+    "market_value": 37.13,
+    "profile": {
+      "established_year": 2004,
+      "main_business": "AI医疗影像",
+      "regions": [
+        "西北",
+        "华东",
+        "东北"
+      ],
+      "employee_count": 34
+    }
+  },
+  {
+    "id": 12,
+    "company_name": "Company_12",
+    "market_trust": 88.07,
+    "market_value": 70.6,
+    "profile": {
+      "established_year": 2002,
+      "main_business": "医疗软件",
+      "regions": [
+        "华南"
+      ],
+      "employee_count": 34
+    }
+  },
+  {
+    "id": 13,
+    "company_name": "Company_13",
+    "market_trust": 65.95,
+    "market_value": 43.3,
+    "profile": {
+      "established_year": 1996,
+      "main_business": "智能机器人",
+      "regions": [
+        "西南",
+        "华南",
+        "西北"
+      ],
+      "employee_count": 65
+    }
+  },
+  {
+    "id": 14,
+    "company_name": "Company_14",
+    "market_trust": 71.97,
+    "market_value": 41.93,
+    "profile": {
+      "established_year": 1995,
+      "main_business": "医疗软件",
+      "regions": [
+        "华南",
+        "华东"
+      ],
+      "employee_count": 54
+    }
+  },
+  {
+    "id": 15,
+    "company_name": "Company_15",
+    "market_trust": 66.22,
+    "market_value": 64.82,
+    "profile": {
+      "established_year": 2004,
+      "main_business": "生物技术",
+      "regions": [
+        "华东"
+      ],
+      "employee_count": 39
+    }
+  },
+  {
+    "id": 16,
+    "company_name": "Company_16",
+    "market_trust": 82.82,
+    "market_value": 58.47,
+    "profile": {
+      "established_year": 2010,
+      "main_business": "生物技术",
+      "regions": [
+        "华东"
+      ],
+      "employee_count": 25
+    }
+  },
+  {
+    "id": 17,
+    "company_name": "Company_17",
+    "market_trust": 69.17,
+    "market_value": 91.25,
+    "profile": {
+      "established_year": 2014,
+      "main_business": "智能机器人",
+      "regions": [
+        "西南"
+      ],
+      "employee_count": 57
+    }
+  },
+  {
+    "id": 18,
+    "company_name": "Company_18",
+    "market_trust": 73.29,
+    "market_value": 28.65,
+    "profile": {
+      "established_year": 2005,
+      "main_business": "远程诊断",
+      "regions": [
+        "西南"
+      ],
+      "employee_count": 43
+    }
+  },
+  {
+    "id": 19,
+    "company_name": "Company_19",
+    "market_trust": 81.18,
+    "market_value": 50.48,
+    "profile": {
+      "established_year": 2018,
+      "main_business": "AI医疗影像",
+      "regions": [
+        "西南"
+      ],
+      "employee_count": 49
+    }
+  },
+  {
+    "id": 20,
+    "company_name": "Company_20",
+    "market_trust": 81.98,
+    "market_value": 78.24,
+    "profile": {
+      "established_year": 1990,
+      "main_business": "远程诊断",
+      "regions": [
+        "西南",
+        "华北"
+      ],
+      "employee_count": 63
+    }
+  },
+  {
+    "id": 21,
+    "company_name": "Company_21",
+    "market_trust": 65.93,
+    "market_value": 48.41,
+    "profile": {
+      "established_year": 2003,
+      "main_business": "生物技术",
+      "regions": [
+        "西北",
+        "西南",
+        "华南"
+      ],
+      "employee_count": 15
+    }
+  },
+  {
+    "id": 22,
+    "company_name": "Company_22",
+    "market_trust": 85.57,
+    "market_value": 59.05,
+    "profile": {
+      "established_year": 1996,
+      "main_business": "医疗软件",
+      "regions": [
+        "华东"
+      ],
+      "employee_count": 25
+    }
+  },
+  {
+    "id": 23,
+    "company_name": "Company_23",
+    "market_trust": 79.56,
+    "market_value": 28.75,
+    "profile": {
+      "established_year": 2008,
+      "main_business": "生物技术",
+      "regions": [
+        "西北"
+      ],
+      "employee_count": 172
+    }
+  },
+  {
+    "id": 24,
+    "company_name": "Company_24",
+    "market_trust": 64.18,
+    "market_value": 58.57,
+    "profile": {
+      "established_year": 2000,
+      "main_business": "AI医疗影像",
+      "regions": [
+        "东北"
+      ],
+      "employee_count": 42
+    }
+  },
+  {
+    "id": 25,
+    "company_name": "Company_25",
+    "market_trust": 61.72,
+    "market_value": 46.26,
+    "profile": {
+      "established_year": 2005,
+      "main_business": "生物技术",
+      "regions": [
+        "华南",
+        "华东",
+        "东北"
+      ],
+      "employee_count": 15
+    }
+  },
+  {
+    "id": 26,
+    "company_name": "Company_26",
+    "market_trust": 74.84,
+    "market_value": 69.71,
+    "profile": {
+      "established_year": 2017,
+      "main_business": "智能机器人",
+      "regions": [
+        "东北"
+      ],
+      "employee_count": 26
+    }
+  },
+  {
+    "id": 27,
+    "company_name": "Company_27",
+    "market_trust": 83.5,
+    "market_value": 73.75,
+    "profile": {
+      "established_year": 1992,
+      "main_business": "智能机器人",
+      "regions": [
+        "华东",
+        "东北"
+      ],
+      "employee_count": 189
+    }
+  },
+  {
+    "id": 28,
+    "company_name": "Company_28",
+    "market_trust": 83.76,
+    "market_value": 101.79,
+    "profile": {
+      "established_year": 1997,
+      "main_business": "生物技术",
+      "regions": [
+        "华东",
+        "东北",
+        "西北"
+      ],
+      "employee_count": 38
+    }
+  },
+  {
+    "id": 29,
+    "company_name": "Company_29",
+    "market_trust": 78.56,
+    "market_value": 283.67,
+    "profile": {
+      "established_year": 2003,
+      "main_business": "生物技术",
+      "regions": [
+        "东北",
+        "华北",
+        "西北"
+      ],
+      "employee_count": 97
+    }
+  },
+  {
+    "id": 30,
+    "company_name": "Company_30",
+    "market_trust": 75.49,
+    "market_value": 56.52,
+    "profile": {
+      "established_year": 1996,
+      "main_business": "医疗软件",
+      "regions": [
+        "华北"
+      ],
+      "employee_count": 58
+    }
+  },
+  {
+    "id": 31,
+    "company_name": "Company_31",
+    "market_trust": 80.12,
+    "market_value": 53.89,
+    "profile": {
+      "established_year": 2002,
+      "main_business": "智能机器人",
+      "regions": [
+        "西北",
+        "华北",
+        "西南"
+      ],
+      "employee_count": 42
+    }
+  },
+  {
+    "id": 32,
+    "company_name": "Company_32",
+    "market_trust": 66.45,
+    "market_value": 42.94,
+    "profile": {
+      "established_year": 2000,
+      "main_business": "AI医疗影像",
+      "regions": [
+        "西南"
+      ],
+      "employee_count": 80
+    }
+  },
+  {
+    "id": 33,
+    "company_name": "Company_33",
+    "market_trust": 91.87,
+    "market_value": 56.77,
+    "profile": {
+      "established_year": 2009,
+      "main_business": "生物技术",
+      "regions": [
+        "华东"
+      ],
+      "employee_count": 16
+    }
+  },
+  {
+    "id": 34,
+    "company_name": "Company_34",
+    "market_trust": 91.74,
+    "market_value": 44.09,
+    "profile": {
+      "established_year": 2007,
+      "main_business": "智能机器人",
+      "regions": [
+        "华北",
+        "华南",
+        "西北"
+      ],
+      "employee_count": 26
+    }
+  },
+  {
+    "id": 35,
+    "company_name": "Company_35",
+    "market_trust": 79.29,
+    "market_value": 53.37,
+    "profile": {
+      "established_year": 2018,
+      "main_business": "AI医疗影像",
+      "regions": [
+        "华北"
+      ],
+      "employee_count": 42
+    }
+  },
+  {
+    "id": 36,
+    "company_name": "Company_36",
+    "market_trust": 21.68,
+    "market_value": 76.35,
+    "profile": {
+      "established_year": 1999,
+      "main_business": "智能机器人",
+      "regions": [
+        "东北",
+        "华北"
+      ],
+      "employee_count": 27
+    }
+  },
+  {
+    "id": 37,
+    "company_name": "Company_37",
+    "market_trust": 70.89,
+    "market_value": 29.87,
+    "profile": {
+      "established_year": 2009,
+      "main_business": "生物技术",
+      "regions": [
+        "西北"
+      ],
+      "employee_count": 40
+    }
+  },
+  {
+    "id": 38,
+    "company_name": "Company_38",
+    "market_trust": 80.29,
+    "market_value": 72.8,
+    "profile": {
+      "established_year": 2016,
+      "main_business": "生物技术",
+      "regions": [
+        "西北",
+        "华东"
+      ],
+      "employee_count": 83
+    }
+  },
+  {
+    "id": 39,
+    "company_name": "Company_39",
+    "market_trust": 68.09,
+    "market_value": 76.34,
+    "profile": {
+      "established_year": 2018,
+      "main_business": "智能机器人",
+      "regions": [
+        "华东",
+        "西北"
+      ],
+      "employee_count": 58
+    }
+  },
+  {
+    "id": 40,
+    "company_name": "Company_40",
+    "market_trust": 52.76,
+    "market_value": 47.64,
+    "profile": {
+      "established_year": 2013,
+      "main_business": "生物技术",
+      "regions": [
+        "华北"
+      ],
+      "employee_count": 106
+    }
+  },
+  {
+    "id": 41,
+    "company_name": "Company_41",
+    "market_trust": 47.86,
+    "market_value": 7.56,
+    "profile": {
+      "established_year": 1999,
+      "main_business": "生物技术",
+      "regions": [
+        "西北"
+      ],
+      "employee_count": 60
+    }
+  },
+  {
+    "id": 42,
+    "company_name": "Company_42",
+    "market_trust": 67.01,
+    "market_value": 37.84,
+    "profile": {
+      "established_year": 2000,
+      "main_business": "智能机器人",
+      "regions": [
+        "西北",
+        "华北",
+        "西南"
+      ],
+      "employee_count": 89
+    }
+  },
+  {
+    "id": 43,
+    "company_name": "Company_43",
+    "market_trust": 76.56,
+    "market_value": 75.94,
+    "profile": {
+      "established_year": 1998,
+      "main_business": "AI医疗影像",
+      "regions": [
+        "西北"
+      ],
+      "employee_count": 52
+    }
+  },
+  {
+    "id": 44,
+    "company_name": "Company_44",
+    "market_trust": 78.32,
+    "market_value": 49.54,
+    "profile": {
+      "established_year": 2003,
+      "main_business": "医疗软件",
+      "regions": [
+        "华东"
+      ],
+      "employee_count": 40
+    }
+  },
+  {
+    "id": 45,
+    "company_name": "Company_45",
+    "market_trust": 70.13,
+    "market_value": 30.01,
+    "profile": {
+      "established_year": 2000,
+      "main_business": "智能机器人",
+      "regions": [
+        "华北",
+        "华南",
+        "西南"
+      ],
+      "employee_count": 114
+    }
+  },
+  {
+    "id": 46,
+    "company_name": "Company_46",
+    "market_trust": 76.42,
+    "market_value": 39.9,
+    "profile": {
+      "established_year": 2007,
+      "main_business": "远程诊断",
+      "regions": [
+        "华东",
+        "西北",
+        "东北"
+      ],
+      "employee_count": 38
+    }
+  },
+  {
+    "id": 47,
+    "company_name": "Company_47",
+    "market_trust": 72.26,
+    "market_value": 66.81,
+    "profile": {
+      "established_year": 2018,
+      "main_business": "智能机器人",
+      "regions": [
+        "华东",
+        "华北",
+        "华南"
+      ],
+      "employee_count": 64
+    }
+  },
+  {
+    "id": 48,
+    "company_name": "Company_48",
+    "market_trust": 65.01,
+    "market_value": 60.93,
+    "profile": {
+      "established_year": 2003,
+      "main_business": "智能机器人",
+      "regions": [
+        "华北"
+      ],
+      "employee_count": 80
+    }
+  },
+  {
+    "id": 49,
+    "company_name": "Company_49",
+    "market_trust": 74.46,
+    "market_value": 45.22,
+    "profile": {
+      "established_year": 2001,
+      "main_business": "AI医疗影像",
+      "regions": [
+        "华南",
+        "西北"
+      ],
+      "employee_count": 83
+    }
+  },
+  {
+    "id": 50,
+    "company_name": "Company_50",
+    "market_trust": 83.13,
+    "market_value": 42.66,
+    "profile": {
+      "established_year": 2011,
+      "main_business": "AI医疗影像",
+      "regions": [
+        "东北",
+        "西南"
+      ],
+      "employee_count": 30
+    }
+  },
+  {
+    "id": 51,
+    "company_name": "Company_51",
+    "market_trust": 65.46,
+    "market_value": 42.16,
+    "profile": {
+      "established_year": 2009,
+      "main_business": "智能机器人",
+      "regions": [
+        "华南"
+      ],
+      "employee_count": 92
+    }
+  },
+  {
+    "id": 52,
+    "company_name": "Company_52",
+    "market_trust": 65.46,
+    "market_value": 31.55,
+    "profile": {
+      "established_year": 2015,
+      "main_business": "智能机器人",
+      "regions": [
+        "华东",
+        "华南"
+      ],
+      "employee_count": 33
+    }
+  },
+  {
+    "id": 53,
+    "company_name": "Company_53",
+    "market_trust": 16.37,
+    "market_value": 82.31,
+    "profile": {
+      "established_year": 2013,
+      "main_business": "医疗软件",
+      "regions": [
+        "西北",
+        "华南"
+      ],
+      "employee_count": 81
+    }
+  },
+  {
+    "id": 54,
+    "company_name": "Company_54",
+    "market_trust": 55.63,
+    "market_value": 43.55,
+    "profile": {
+      "established_year": 1998,
+      "main_business": "智能机器人",
+      "regions": [
+        "华东",
+        "西南",
+        "西北"
+      ],
+      "employee_count": 71
+    }
+  },
+  {
+    "id": 55,
+    "company_name": "Company_55",
+    "market_trust": 70.2,
+    "market_value": 74.34,
+    "profile": {
+      "established_year": 2017,
+      "main_business": "远程诊断",
+      "regions": [
+        "华南"
+      ],
+      "employee_count": 82
+    }
+  },
+  {
+    "id": 56,
+    "company_name": "Company_56",
+    "market_trust": 82.14,
+    "market_value": 80.43,
+    "profile": {
+      "established_year": 2016,
+      "main_business": "远程诊断",
+      "regions": [
+        "华北",
+        "华南"
+      ],
+      "employee_count": 29
+    }
+  },
+  {
+    "id": 57,
+    "company_name": "Company_57",
+    "market_trust": 76.74,
+    "market_value": 69.97,
+    "profile": {
+      "established_year": 1997,
+      "main_business": "AI医疗影像",
+      "regions": [
+        "华南",
+        "西南",
+        "华北"
+      ],
+      "employee_count": 73
+    }
+  },
+  {
+    "id": 58,
+    "company_name": "Company_58",
+    "market_trust": 73.31,
+    "market_value": 41.37,
+    "profile": {
+      "established_year": 1998,
+      "main_business": "AI医疗影像",
+      "regions": [
+        "华北",
+        "东北"
+      ],
+      "employee_count": 93
+    }
+  },
+  {
+    "id": 59,
+    "company_name": "Company_59",
+    "market_trust": 31.69,
+    "market_value": 58.07,
+    "profile": {
+      "established_year": 2002,
+      "main_business": "生物技术",
+      "regions": [
+        "华东",
+        "西北"
+      ],
+      "employee_count": 60
+    }
+  },
+  {
+    "id": 60,
+    "company_name": "Company_60",
+    "market_trust": 70.11,
+    "market_value": 108.64,
+    "profile": {
+      "established_year": 2018,
+      "main_business": "医疗软件",
+      "regions": [
+        "东北"
+      ],
+      "employee_count": 36
+    }
+  },
+  {
+    "id": 61,
+    "company_name": "Company_61",
+    "market_trust": 55.52,
+    "market_value": 31.93,
+    "profile": {
+      "established_year": 1998,
+      "main_business": "AI医疗影像",
+      "regions": [
+        "东北"
+      ],
+      "employee_count": 86
+    }
+  },
+  {
+    "id": 62,
+    "company_name": "Company_62",
+    "market_trust": 82.84,
+    "market_value": 56.49,
+    "profile": {
+      "established_year": 2003,
+      "main_business": "医疗软件",
+      "regions": [
+        "华北",
+        "西南",
+        "华东"
+      ],
+      "employee_count": 57
+    }
+  },
+  {
+    "id": 63,
+    "company_name": "Company_63",
+    "market_trust": 85.71,
+    "market_value": 26.42,
+    "profile": {
+      "established_year": 2002,
+      "main_business": "生物技术",
+      "regions": [
+        "华北"
+      ],
+      "employee_count": 23
+    }
+  },
+  {
+    "id": 64,
+    "company_name": "Company_64",
+    "market_trust": 67.72,
+    "market_value": 73.75,
+    "profile": {
+      "established_year": 1991,
+      "main_business": "远程诊断",
+      "regions": [
+        "东北"
+      ],
+      "employee_count": 34
+    }
+  },
+  {
+    "id": 65,
+    "company_name": "Company_65",
+    "market_trust": 73.49,
+    "market_value": 40.71,
+    "profile": {
+      "established_year": 2015,
+      "main_business": "生物技术",
+      "regions": [
+        "西北",
+        "华南",
+        "华北"
+      ],
+      "employee_count": 41
+    }
+  },
+  {
+    "id": 66,
+    "company_name": "Company_66",
+    "market_trust": 72.63,
+    "market_value": 54.02,
+    "profile": {
+      "established_year": 2003,
+      "main_business": "AI医疗影像",
+      "regions": [
+        "华北",
+        "东北",
+        "西北"
+      ],
+      "employee_count": 115
+    }
+  },
+  {
+    "id": 67,
+    "company_name": "Company_67",
+    "market_trust": 78.51,
+    "market_value": 55.67,
+    "profile": {
+      "established_year": 2011,
+      "main_business": "AI医疗影像",
+      "regions": [
+        "华北",
+        "东北",
+        "西北"
+      ],
+      "employee_count": 106
+    }
+  },
+  {
+    "id": 68,
+    "company_name": "Company_68",
+    "market_trust": 91.9,
+    "market_value": 44.82,
+    "profile": {
+      "established_year": 2011,
+      "main_business": "远程诊断",
+      "regions": [
+        "西南",
+        "华北"
+      ],
+      "employee_count": 106
+    }
+  },
+  {
+    "id": 69,
+    "company_name": "Company_69",
+    "market_trust": 86.6,
+    "market_value": 61.73,
+    "profile": {
+      "established_year": 2007,
+      "main_business": "智能机器人",
+      "regions": [
+        "西南"
+      ],
+      "employee_count": 61
+    }
+  },
+  {
+    "id": 70,
+    "company_name": "Company_70",
+    "market_trust": 71.23,
+    "market_value": 40.5,
+    "profile": {
+      "established_year": 2011,
+      "main_business": "远程诊断",
+      "regions": [
+        "西北",
+        "华南",
+        "华北"
+      ],
+      "employee_count": 86
+    }
+  },
+  {
+    "id": 71,
+    "company_name": "Company_71",
+    "market_trust": 80.42,
+    "market_value": 67.43,
+    "profile": {
+      "established_year": 2002,
+      "main_business": "生物技术",
+      "regions": [
+        "华北"
+      ],
+      "employee_count": 30
+    }
+  },
+  {
+    "id": 72,
+    "company_name": "Company_72",
+    "market_trust": 87.54,
+    "market_value": 23.08,
+    "profile": {
+      "established_year": 1999,
+      "main_business": "智能机器人",
+      "regions": [
+        "东北",
+        "西北"
+      ],
+      "employee_count": 54
+    }
+  },
+  {
+    "id": 73,
+    "company_name": "Company_73",
+    "market_trust": 79.08,
+    "market_value": 52.53,
+    "profile": {
+      "established_year": 2010,
+      "main_business": "医疗软件",
+      "regions": [
+        "西南",
+        "西北"
+      ],
+      "employee_count": 68
+    }
+  },
+  {
+    "id": 74,
+    "company_name": "Company_74",
+    "market_trust": 74.95,
+    "market_value": 88.78,
+    "profile": {
+      "established_year": 2011,
+      "main_business": "智能机器人",
+      "regions": [
+        "西南",
+        "华南",
+        "华东"
+      ],
+      "employee_count": 31
+    }
+  },
+  {
+    "id": 75,
+    "company_name": "Company_75",
+    "market_trust": 79.46,
+    "market_value": 29.99,
+    "profile": {
+      "established_year": 1999,
+      "main_business": "生物技术",
+      "regions": [
+        "西北",
+        "东北",
+        "华北"
+      ],
+      "employee_count": 60
+    }
+  },
+  {
+    "id": 76,
+    "company_name": "Company_76",
+    "market_trust": 67.97,
+    "market_value": 36.45,
+    "profile": {
+      "established_year": 1992,
+      "main_business": "智能机器人",
+      "regions": [
+        "华北",
+        "华南",
+        "东北"
+      ],
+      "employee_count": 126
+    }
+  },
+  {
+    "id": 77,
+    "company_name": "Company_77",
+    "market_trust": 69.43,
+    "market_value": 60.28,
+    "profile": {
+      "established_year": 1994,
+      "main_business": "AI医疗影像",
+      "regions": [
+        "华南"
+      ],
+      "employee_count": 72
+    }
+  },
+  {
+    "id": 78,
+    "company_name": "Company_78",
+    "market_trust": 64.36,
+    "market_value": 260.86,
+    "profile": {
+      "established_year": 2005,
+      "main_business": "生物技术",
+      "regions": [
+        "西南"
+      ],
+      "employee_count": 86
+    }
+  },
+  {
+    "id": 79,
+    "company_name": "Company_79",
+    "market_trust": 78.07,
+    "market_value": 57.01,
+    "profile": {
+      "established_year": 2003,
+      "main_business": "生物技术",
+      "regions": [
+        "西北"
+      ],
+      "employee_count": 16
+    }
+  },
+  {
+    "id": 80,
+    "company_name": "Company_80",
+    "market_trust": 73.69,
+    "market_value": 59.78,
+    "profile": {
+      "established_year": 2012,
+      "main_business": "远程诊断",
+      "regions": [
+        "西南",
+        "华南"
+      ],
+      "employee_count": 118
+    }
+  }
+]

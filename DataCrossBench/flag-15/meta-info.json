@@ -1,0 +1,20 @@
+{
+    "goal": "比较阿里云与AWS、Azure在毛利率上的差异及其原因。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: FY2025下半年公有云业务基数影响消除，预计回归10-15%双位数增长。",
+        "Comparison: 阿里云毛利率约30%，而海外头部云厂商毛利率通常为60-70%，显示出利润率的明显差距。",
+        "Extreme: 阿里云单集群算力达15 EFLOPS，位列全球前三，显示出其在技术能力上的极端优势。",
+        "Attribution: 阿里云的降价策略通过规模效应降低了单位成本，吸引了更多客户上云，形成了良性循环。"
+    ],
+    "summary": "本报告分析了阿里云在AI时代的商业模式、市场地位及其未来发展潜力，强调了其在技术、资本投入及市场份额方面的竞争优势。",
+    "flag_id": "flag-15",
+    "classifier": "Internet Firms",
+    "classifier_cn": "互联网公司研究",
+    "input_files": [
+        "output/business_background.txt",
+        "output/cloud_data.json",
+        "output/cloud_orders.png",
+        "output/dimension_data.db"
+    ]
+}

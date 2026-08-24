@@ -1,0 +1,20 @@
+{
+    "goal": "比较港股SW化学制剂板块与A股SW化学制剂板块的表现差异及其原因。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 中药材价格回落对企业盈利能力的影响逐步显现，SW二级中药指下跌2.86%。",
+        "Comparison: 药店指数下跌3.06%，与沪深300上涨1.00%和创业板指上涨2.99%形成鲜明对比。",
+        "Extreme: 第5页提到静丙需求量提升，反映出急重症领域的需求持续扩大。",
+        "Attribution: 中药材价格回落将逐步体现在中药企业成本端，带来企业盈利能力提升。"
+    ],
+    "summary": "本报告分析了医药行业的市场动态，特别关注AI医疗、创新药研发及中医药行业的投资机会，同时指出了行业面临的风险和未来趋势。",
+    "flag_id": "flag-65",
+    "classifier": "Fund Analysis",
+    "classifier_cn": "基金分析",
+    "input_files": [
+        "output/dimension_data.db",
+        "output/market_analysis_background.txt",
+        "output/market_analysis_facts.csv",
+        "output/market_analysis_payloads.json"
+    ]
+}

@@ -1,0 +1,212 @@
+[
+  {
+    "city": "北京",
+    "profile_generated_time": "2025-12-24 06:34:55",
+    "key_indicators": {
+      "avg_market_scale": 61.71,
+      "export_ratio": 0.137
+    },
+    "industry_chain": {
+      "content_creation": 45,
+      "distribution": 21,
+      "tech_services": 20,
+      "marketing": 37,
+      "copyright_management": 49
+    },
+    "gov_support_details": [
+      {
+        "policy": "资金扶持",
+        "count": 77
+      }
+    ]
+  },
+  {
+    "city": "上海",
+    "profile_generated_time": "2025-12-24 06:34:55",
+    "key_indicators": {
+      "avg_market_scale": 80.57,
+      "export_ratio": 1.0
+    },
+    "industry_chain": {
+      "content_creation": 45,
+      "distribution": 115,
+      "tech_services": 11,
+      "marketing": 88,
+      "copyright_management": 4
+    },
+    "gov_support_details": [
+      {
+        "policy": "无相关政策",
+        "count": 70
+      }
+    ]
+  },
+  {
+    "city": "广州",
+    "profile_generated_time": "2025-12-24 06:34:55",
+    "key_indicators": {
+      "avg_market_scale": 78.4,
+      "export_ratio": 0.935
+    },
+    "industry_chain": {
+      "content_creation": 161,
+      "distribution": 140,
+      "tech_services": 13,
+      "marketing": 34,
+      "copyright_management": 25
+    },
+    "gov_support_details": [
+      {
+        "policy": "政策待完善",
+        "count": 85
+      }
+    ]
+  },
+  {
+    "city": "深圳",
+    "profile_generated_time": "2025-12-24 06:34:55",
+    "key_indicators": {
+      "avg_market_scale": 82.04,
+      "export_ratio": 0.989
+    },
+    "industry_chain": {
+      "content_creation": 26,
+      "distribution": 68,
+      "tech_services": 86,
+      "marketing": 60,
+      "copyright_management": 59
+    },
+    "gov_support_details": [
+      {
+        "policy": "产业园区支持",
+        "count": 78
+      }
+    ]
+  },
+  {
+    "city": "杭州",
+    "profile_generated_time": "2025-12-24 06:34:55",
+    "key_indicators": {
+      "avg_market_scale": 85.7,
+      "export_ratio": 0.968
+    },
+    "industry_chain": {
+      "content_creation": 110,
+      "distribution": 143,
+      "tech_services": 8,
+      "marketing": 86,
+      "copyright_management": 15
+    },
+    "gov_support_details": [
+      {
+        "policy": "税收优惠",
+        "count": 74
+      }
+    ]
+  },
+  {
+    "city": "郑州",
+    "profile_generated_time": "2025-12-24 06:34:55",
+    "key_indicators": {
+      "avg_market_scale": 91.68,
+      "export_ratio": 0.965
+    },
+    "industry_chain": {
+      "content_creation": 159,
+      "distribution": 60,
+      "tech_services": 31,
+      "marketing": 25,
+      "copyright_management": 32
+    },
+    "gov_support_details": [
+      {
+        "policy": "资金扶持",
+        "count": 65
+      }
+    ]
+  },
+  {
+    "city": "西安",
+    "profile_generated_time": "2025-12-24 06:34:55",
+    "key_indicators": {
+      "avg_market_scale": 89.89,
+      "export_ratio": 0.977
+    },
+    "industry_chain": {
+      "content_creation": 175,
+      "distribution": 18,
+      "tech_services": 19,
+      "marketing": 27,
+      "copyright_management": 71
+    },
+    "gov_support_details": [
+      {
+        "policy": "人才引进",
+        "count": 73
+      }
+    ]
+  },
+  {
+    "city": "成都",
+    "profile_generated_time": "2025-12-24 06:34:55",
+    "key_indicators": {
+      "avg_market_scale": 66.39,
+      "export_ratio": 0.122
+    },
+    "industry_chain": {
+      "content_creation": 114,
+      "distribution": 32,
+      "tech_services": 80,
+      "marketing": 68,
+      "copyright_management": 36
+    },
+    "gov_support_details": [
+      {
+        "policy": "创新创业支持",
+        "count": 74
+      }
+    ]
+  },
+  {
+    "city": "武汉",
+    "profile_generated_time": "2025-12-24 06:34:55",
+    "key_indicators": {
+      "avg_market_scale": 74.19,
+      "export_ratio": 0.173
+    },
+    "industry_chain": {
+      "content_creation": 133,
+      "distribution": 55,
+      "tech_services": 98,
+      "marketing": 51,
+      "copyright_management": 68
+    },
+    "gov_support_details": [
+      {
+        "policy": "资金扶持",
+        "count": 74
+      }
+    ]
+  },
+  {
+    "city": "南京",
+    "profile_generated_time": "2025-12-24 06:34:55",
+    "key_indicators": {
+      "avg_market_scale": 66.23,
+      "export_ratio": 0.221
+    },
+    "industry_chain": {
+      "content_creation": 134,
+      "distribution": 146,
+      "tech_services": 63,
+      "marketing": 61,
+      "copyright_management": 10
+    },
+    "gov_support_details": [
+      {
+        "policy": "产业园区支持",
+        "count": 82
+      }
+    ]
+  }
+]

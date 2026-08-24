@@ -1,0 +1,467 @@
+[
+  {
+    "fund_id": 1,
+    "fund_description": "Court movie cell contain leg. Kitchen technology nearly anything.",
+    "asset_allocation": {
+      "股票": 41.51,
+      "债券": 39.1,
+      "现金及等价物": 19.39
+    },
+    "portfolio_events": [
+      {
+        "event_date": "2024-02-28",
+        "event_type": "调仓",
+        "comments": "Check civil quite others."
+      },
+      {
+        "event_date": "2024-09-30",
+        "event_type": "赎回",
+        "comments": "Edge network wall quite boy those seem."
+      },
+      {
+        "event_date": "2025-07-07",
+        "event_type": "发行新份额",
+        "comments": "Fall citizen about reveal."
+      },
+      {
+        "event_date": "2025-06-02",
+        "event_type": "分红",
+        "comments": "Tree that fear police participant check several."
+      }
+    ]
+  },
+  {
+    "fund_id": 2,
+    "fund_description": "Enough threat score choice. Painting response data plant enough.",
+    "asset_allocation": {
+      "股票": 31.69,
+      "债券": 53.73,
+      "现金及等价物": 14.58
+    },
+    "portfolio_events": [
+      {
+        "event_date": "2024-11-20",
+        "event_type": "赎回",
+        "comments": "Product main couple design around save article."
+      },
+      {
+        "event_date": "2024-08-09",
+        "event_type": "调仓",
+        "comments": "Live try most arm meet surface attention attack."
+      }
+    ]
+  },
+  {
+    "fund_id": 3,
+    "fund_description": "Decide economic bill sister this image.",
+    "asset_allocation": {
+      "股票": 57.39,
+      "债券": 33.93,
+      "现金及等价物": 8.69
+    },
+    "portfolio_events": [
+      {
+        "event_date": "2024-02-17",
+        "event_type": "分红",
+        "comments": "Along hard need involve among half value."
+      }
+    ]
+  },
+  {
+    "fund_id": 4,
+    "fund_description": "Board its rock. Job worker break tonight couple and.",
+    "asset_allocation": {
+      "股票": 67.25,
+      "债券": 16.16,
+      "现金及等价物": 16.59
+    },
+    "portfolio_events": [
+      {
+        "event_date": "2024-11-24",
+        "event_type": "发行新份额",
+        "comments": "Development process huge everything attorney."
+      },
+      {
+        "event_date": "2025-07-11",
+        "event_type": "发行新份额",
+        "comments": "Hundred wonder movie voice boy wife condition."
+      }
+    ]
+  },
+  {
+    "fund_id": 5,
+    "fund_description": "Different current agency each little. Lay though offer responsibility.",
+    "asset_allocation": {
+      "股票": 42.57,
+      "债券": 44.96,
+      "现金及等价物": 12.47
+    },
+    "portfolio_events": [
+      {
+        "event_date": "2024-10-13",
+        "event_type": "发行新份额",
+        "comments": "Camera inside wait quality total past feeling."
+      }
+    ]
+  },
+  {
+    "fund_id": 6,
+    "fund_description": "Character him check degree. Imagine my indeed deal information toward.",
+    "asset_allocation": {
+      "股票": 74.6,
+      "债券": 17.35,
+      "现金及等价物": 8.05
+    },
+    "portfolio_events": [
+      {
+        "event_date": "2025-03-03",
+        "event_type": "赎回",
+        "comments": "Spring throughout interview trade knowledge city technology late."
+      },
+      {
+        "event_date": "2025-06-25",
+        "event_type": "发行新份额",
+        "comments": "Machine dream key require doctor from throw."
+      }
+    ]
+  },
+  {
+    "fund_id": 7,
+    "fund_description": "Record short cold parent security boy standard. Blue agent find quality when.",
+    "asset_allocation": {
+      "股票": 29.16,
+      "债券": 53.14,
+      "现金及等价物": 17.69
+    },
+    "portfolio_events": [
+      {
+        "event_date": "2025-03-22",
+        "event_type": "调仓",
+        "comments": "Option production base investment term consider."
+      },
+      {
+        "event_date": "2024-07-01",
+        "event_type": "发行新份额",
+        "comments": "Lawyer front they everything week."
+      },
+      {
+        "event_date": "2024-10-27",
+        "event_type": "调仓",
+        "comments": "Affect much yourself glass practice sit prepare."
+      },
+      {
+        "event_date": "2025-06-27",
+        "event_type": "分红",
+        "comments": "Stuff perform draw list boy."
+      }
+    ]
+  },
+  {
+    "fund_id": 8,
+    "fund_description": "Animal approach factor want point. Bill activity expect long future whole education.",
+    "asset_allocation": {
+      "股票": 49.48,
+      "债券": 33.27,
+      "现金及等价物": 17.24
+    },
+    "portfolio_events": [
+      {
+        "event_date": "2025-11-25",
+        "event_type": "赎回",
+        "comments": "Itself safe whole establish."
+      },
+      {
+        "event_date": "2025-08-05",
+        "event_type": "赎回",
+        "comments": "Itself room environmental system store beautiful think."
+      },
+      {
+        "event_date": "2024-06-19",
+        "event_type": "赎回",
+        "comments": "Particular her agreement surface consider deep something."
+      }
+    ]
+  },
+  {
+    "fund_id": 9,
+    "fund_description": "Personal enough ball dream necessary. Able late order fact.",
+    "asset_allocation": {
+      "股票": 54.02,
+      "债券": 29.02,
+      "现金及等价物": 16.95
+    },
+    "portfolio_events": [
+      {
+        "event_date": "2025-07-24",
+        "event_type": "分红",
+        "comments": "Herself training father open investment notice art."
+      }
+    ]
+  },
+  {
+    "fund_id": 10,
+    "fund_description": "Like impact fly bit. Form really explain war. Already because education break significant ten stay.",
+    "asset_allocation": {
+      "股票": 50.41,
+      "债券": 36.91,
+      "现金及等价物": 12.69
+    },
+    "portfolio_events": [
+      {
+        "event_date": "2024-02-05",
+        "event_type": "发行新份额",
+        "comments": "See notice eye buy read record wall matter."
+      },
+      {
+        "event_date": "2024-12-18",
+        "event_type": "调仓",
+        "comments": "Always it focus economy before while structure offer."
+      },
+      {
+        "event_date": "2025-11-18",
+        "event_type": "发行新份额",
+        "comments": "American series like prepare trouble consider one."
+      }
+    ]
+  },
+  {
+    "fund_id": 11,
+    "fund_description": "Who call whole forward beyond suddenly between. Address century that wide avoid sit enter.",
+    "asset_allocation": {
+      "股票": 58.31,
+      "债券": 34.6,
+      "现金及等价物": 7.09
+    },
+    "portfolio_events": [
+      {
+        "event_date": "2024-07-06",
+        "event_type": "分红",
+        "comments": "Just recognize building win participant."
+      },
+      {
+        "event_date": "2024-06-15",
+        "event_type": "分红",
+        "comments": "Nearly need behavior yeah tree."
+      },
+      {
+        "event_date": "2024-11-25",
+        "event_type": "调仓",
+        "comments": "Marriage respond meeting event."
+      }
+    ]
+  },
+  {
+    "fund_id": 12,
+    "fund_description": "Citizen kid generation onto police interesting economic. Current his low down occur.",
+    "asset_allocation": {
+      "股票": 67.54,
+      "债券": 17.63,
+      "现金及等价物": 14.82
+    },
+    "portfolio_events": [
+      {
+        "event_date": "2024-09-23",
+        "event_type": "分红",
+        "comments": "Most not society color bad."
+      },
+      {
+        "event_date": "2025-09-20",
+        "event_type": "分红",
+        "comments": "Tree central leave effect effort act source."
+      }
+    ]
+  },
+  {
+    "fund_id": 13,
+    "fund_description": "Life away senior difficult. Whose source hand so add Mr. Happy see energy herself police he push.",
+    "asset_allocation": {
+      "股票": 62.89,
+      "债券": 21.75,
+      "现金及等价物": 15.37
+    },
+    "portfolio_events": [
+      {
+        "event_date": "2025-06-02",
+        "event_type": "分红",
+        "comments": "Best physical always small almost half capital travel."
+      },
+      {
+        "event_date": "2024-08-18",
+        "event_type": "赎回",
+        "comments": "Customer skill theory hand."
+      },
+      {
+        "event_date": "2024-12-24",
+        "event_type": "发行新份额",
+        "comments": "Either station loss southern."
+      }
+    ]
+  },
+  {
+    "fund_id": 14,
+    "fund_description": "Group small open. Company appear score.",
+    "asset_allocation": {
+      "股票": 33.55,
+      "债券": 41.52,
+      "现金及等价物": 24.92
+    },
+    "portfolio_events": [
+      {
+        "event_date": "2024-09-20",
+        "event_type": "赎回",
+        "comments": "Score choice increase between majority impact week allow."
+      }
+    ]
+  },
+  {
+    "fund_id": 15,
+    "fund_description": "News only no form. Improve them wait institution. Why outside goal.",
+    "asset_allocation": {
+      "股票": 68.26,
+      "债券": 15.48,
+      "现金及等价物": 16.26
+    },
+    "portfolio_events": [
+      {
+        "event_date": "2025-05-27",
+        "event_type": "赎回",
+        "comments": "Tonight focus chance call."
+      },
+      {
+        "event_date": "2025-03-24",
+        "event_type": "发行新份额",
+        "comments": "Yes most law painting between reduce."
+      },
+      {
+        "event_date": "2025-09-07",
+        "event_type": "分红",
+        "comments": "Later direction fund law indeed believe."
+      },
+      {
+        "event_date": "2024-10-30",
+        "event_type": "发行新份额",
+        "comments": "Well rather listen before be it."
+      }
+    ]
+  },
+  {
+    "fund_id": 16,
+    "fund_description": "Office of remember individual boy again. Commercial way least ready gun join.",
+    "asset_allocation": {
+      "股票": 55.37,
+      "债券": 22.79,
+      "现金及等价物": 21.84
+    },
+    "portfolio_events": [
+      {
+        "event_date": "2025-09-19",
+        "event_type": "赎回",
+        "comments": "Center plan air second."
+      },
+      {
+        "event_date": "2024-05-29",
+        "event_type": "赎回",
+        "comments": "Game have return since nothing be apply."
+      },
+      {
+        "event_date": "2024-04-17",
+        "event_type": "调仓",
+        "comments": "Evening product magazine kind."
+      },
+      {
+        "event_date": "2024-07-10",
+        "event_type": "调仓",
+        "comments": "Involve exist question main project animal."
+      }
+    ]
+  },
+  {
+    "fund_id": 17,
+    "fund_description": "Training occur could painting may whatever late.",
+    "asset_allocation": {
+      "股票": 62.82,
+      "债券": 30.63,
+      "现金及等价物": 6.55
+    },
+    "portfolio_events": [
+      {
+        "event_date": "2025-10-16",
+        "event_type": "发行新份额",
+        "comments": "Road standard spring door chair culture."
+      },
+      {
+        "event_date": "2025-03-08",
+        "event_type": "调仓",
+        "comments": "Week physical less nor."
+      }
+    ]
+  },
+  {
+    "fund_id": 18,
+    "fund_description": "Whole six tough create question. Worker left example high month whom stage.",
+    "asset_allocation": {
+      "股票": 57.28,
+      "债券": 26.18,
+      "现金及等价物": 16.54
+    },
+    "portfolio_events": [
+      {
+        "event_date": "2025-11-27",
+        "event_type": "分红",
+        "comments": "Bank professional true financial prevent product."
+      },
+      {
+        "event_date": "2024-03-27",
+        "event_type": "调仓",
+        "comments": "Next poor foreign campaign reflect."
+      },
+      {
+        "event_date": "2025-11-15",
+        "event_type": "调仓",
+        "comments": "Meet adult final week game she."
+      },
+      {
+        "event_date": "2024-05-12",
+        "event_type": "分红",
+        "comments": "Baby such big side."
+      }
+    ]
+  },
+  {
+    "fund_id": 19,
+    "fund_description": "Case expert stop receive. Serve light past town. Eight strong nature.",
+    "asset_allocation": {
+      "股票": 80.07,
+      "债券": 17.69,
+      "现金及等价物": 2.25
+    },
+    "portfolio_events": [
+      {
+        "event_date": "2024-09-22",
+        "event_type": "赎回",
+        "comments": "Heart agreement us stuff."
+      }
+    ]
+  },
+  {
+    "fund_id": 20,
+    "fund_description": "Join hundred keep what fund cost. Happen something entire bar interesting issue yet.",
+    "asset_allocation": {
+      "股票": 66.46,
+      "债券": 26.39,
+      "现金及等价物": 7.15
+    },
+    "portfolio_events": [
+      {
+        "event_date": "2025-07-20",
+        "event_type": "调仓",
+        "comments": "Them analysis hit health section ground."
+      },
+      {
+        "event_date": "2024-02-11",
+        "event_type": "分红",
+        "comments": "Billion old series card good full poor store."
+      }
+    ]
+  }
+]

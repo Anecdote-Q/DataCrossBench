@@ -1,0 +1,136 @@
+{
+  "revenue": [
+    {
+      "year": 2020,
+      "total_revenue": 6.07
+    },
+    {
+      "year": 2021,
+      "total_revenue": 7.03
+    },
+    {
+      "year": 2022,
+      "total_revenue": 10.2
+    },
+    {
+      "year": 2023,
+      "total_revenue": 5.61
+    },
+    {
+      "year": 2024,
+      "total_revenue": 9.98
+    }
+  ],
+  "market_comparison": {
+    "Xueersi": [
+      {
+        "comparison_date": "2020-12-31",
+        "market_share": 0.35
+      },
+      {
+        "comparison_date": "2021-12-31",
+        "market_share": 0.35
+      },
+      {
+        "comparison_date": "2022-12-31",
+        "market_share": 0.35
+      },
+      {
+        "comparison_date": "2023-12-31",
+        "market_share": 0.4
+      },
+      {
+        "comparison_date": "2024-12-31",
+        "market_share": 0.45
+      }
+    ],
+    "OtherEduCo1": [
+      {
+        "comparison_date": "2020-12-31",
+        "market_share": 0.25
+      },
+      {
+        "comparison_date": "2021-12-31",
+        "market_share": 0.25
+      },
+      {
+        "comparison_date": "2022-12-31",
+        "market_share": 0.25
+      },
+      {
+        "comparison_date": "2023-12-31",
+        "market_share": 0.238
+      },
+      {
+        "comparison_date": "2024-12-31",
+        "market_share": 0.225
+      }
+    ],
+    "OtherEduCo2": [
+      {
+        "comparison_date": "2020-12-31",
+        "market_share": 0.15
+      },
+      {
+        "comparison_date": "2021-12-31",
+        "market_share": 0.15
+      },
+      {
+        "comparison_date": "2022-12-31",
+        "market_share": 0.15
+      },
+      {
+        "comparison_date": "2023-12-31",
+        "market_share": 0.138
+      },
+      {
+        "comparison_date": "2024-12-31",
+        "market_share": 0.125
+      }
+    ],
+    "OtherEduCo3": [
+      {
+        "comparison_date": "2020-12-31",
+        "market_share": 0.15
+      },
+      {
+        "comparison_date": "2021-12-31",
+        "market_share": 0.15
+      },
+      {
+        "comparison_date": "2022-12-31",
+        "market_share": 0.15
+      },
+      {
+        "comparison_date": "2023-12-31",
+        "market_share": 0.138
+      },
+      {
+        "comparison_date": "2024-12-31",
+        "market_share": 0.125
+      }
+    ],
+    "OtherEduCo4": [
+      {
+        "comparison_date": "2020-12-31",
+        "market_share": 0.1
+      },
+      {
+        "comparison_date": "2021-12-31",
+        "market_share": 0.1
+      },
+      {
+        "comparison_date": "2022-12-31",
+        "market_share": 0.1
+      },
+      {
+        "comparison_date": "2023-12-31",
+        "market_share": 0.088
+      },
+      {
+        "comparison_date": "2024-12-31",
+        "market_share": 0.075
+      }
+    ]
+  }
+}

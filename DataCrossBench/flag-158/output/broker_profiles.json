@@ -1,0 +1,1802 @@
+[
+  {
+    "broker_id": 1,
+    "foundation_date": "2000-01-07",
+    "country": "Kenya",
+    "region": "Oklahoma",
+    "sector": "基金",
+    "credit_rating": "AA",
+    "num_employees": 372,
+    "subsidiaries": [
+      "relationship",
+      "night",
+      "born"
+    ],
+    "flags": {
+      "active": true,
+      "listed": true
+    }
+  },
+  {
+    "broker_id": 2,
+    "foundation_date": "2019-08-09",
+    "country": "Portugal",
+    "region": "Georgia",
+    "sector": "券商",
+    "credit_rating": "AAA",
+    "num_employees": 48,
+    "subsidiaries": [
+      "nation",
+      "strong",
+      "old"
+    ],
+    "flags": {
+      "active": true,
+      "listed": false
+    }
+  },
+  {
+    "broker_id": 3,
+    "foundation_date": "1999-09-06",
+    "country": "Brunei Darussalam",
+    "region": "Arizona",
+    "sector": "券商",
+    "credit_rating": "AAA",
+    "num_employees": 17,
+    "subsidiaries": [
+      "final",
+      "together",
+      "someone"
+    ],
+    "flags": {
+      "active": true,
+      "listed": false
+    }
+  },
+  {
+    "broker_id": 4,
+    "foundation_date": "2017-06-30",
+    "country": "United Arab Emirates",
+    "region": "Minnesota",
+    "sector": "券商",
+    "credit_rating": "AAA",
+    "num_employees": 70,
+    "subsidiaries": [
+      "decide",
+      "economic",
+      "bill"
+    ],
+    "flags": {
+      "active": true,
+      "listed": true
+    }
+  },
+  {
+    "broker_id": 5,
+    "foundation_date": "2015-06-25",
+    "country": "Turks and Caicos Islands",
+    "region": "Nebraska",
+    "sector": "券商",
+    "credit_rating": "AA",
+    "num_employees": 72,
+    "subsidiaries": [
+      "wind",
+      "see",
+      "understand"
+    ],
+    "flags": {
+      "active": true,
+      "listed": true
+    }
+  },
+  {
+    "broker_id": 6,
+    "foundation_date": "2001-11-23",
+    "country": "Central African Republic",
+    "region": "Idaho",
+    "sector": "期货",
+    "credit_rating": "AA",
+    "num_employees": 156,
+    "subsidiaries": [
+      "thing",
+      "agent",
+      "say"
+    ],
+    "flags": {
+      "active": true,
+      "listed": false
+    }
+  },
+  {
+    "broker_id": 7,
+    "foundation_date": "2004-04-13",
+    "country": "Venezuela",
+    "region": "Nebraska",
+    "sector": "期货",
+    "credit_rating": "BB",
+    "num_employees": 30,
+    "subsidiaries": [
+      "soon",
+      "ten",
+      "specific"
+    ],
+    "flags": {
+      "active": true,
+      "listed": true
+    }
+  },
+  {
+    "broker_id": 8,
+    "foundation_date": "2002-08-25",
+    "country": "Solomon Islands",
+    "region": "Vermont",
+    "sector": "信托",
+    "credit_rating": "A",
+    "num_employees": 45,
+    "subsidiaries": [
+      "blue",
+      "the",
+      "teach"
+    ],
+    "flags": {
+      "active": true,
+      "listed": true
+    }
+  },
+  {
+    "broker_id": 9,
+    "foundation_date": "2001-07-16",
+    "country": "Svalbard & Jan Mayen Islands",
+    "region": "New Jersey",
+    "sector": "券商",
+    "credit_rating": "AAA",
+    "num_employees": 87,
+    "subsidiaries": [
+      "glass",
+      "star",
+      "the"
+    ],
+    "flags": {
+      "active": true,
+      "listed": true
+    }
+  },
+  {
+    "broker_id": 10,
+    "foundation_date": "2001-07-20",
+    "country": "Palestinian Territory",
+    "region": "Illinois",
+    "sector": "期货",
+    "credit_rating": "AAA",
+    "num_employees": 50,
+    "subsidiaries": [
+      "huge",
+      "everything",
+      "attorney"
+    ],
+    "flags": {
+      "active": true,
+      "listed": true
+    }
+  },
+  {
+    "broker_id": 11,
+    "foundation_date": "2015-04-24",
+    "country": "Guernsey",
+    "region": "Tennessee",
+    "sector": "期货",
+    "credit_rating": "AA",
+    "num_employees": 50,
+    "subsidiaries": [
+      "meeting",
+      "quickly",
+      "such"
+    ],
+    "flags": {
+      "active": true,
+      "listed": false
+    }
+  },
+  {
+    "broker_id": 12,
+    "foundation_date": "2004-04-03",
+    "country": "Antarctica (the territory South of 60 deg S)",
+    "region": "Delaware",
+    "sector": "基金",
+    "credit_rating": "BBB",
+    "num_employees": 99,
+    "subsidiaries": [
+      "theory",
+      "end",
+      "oil"
+    ],
+    "flags": {
+      "active": false,
+      "listed": true
+    }
+  },
+  {
+    "broker_id": 13,
+    "foundation_date": "2020-07-25",
+    "country": "Argentina",
+    "region": "Connecticut",
+    "sector": "基金",
+    "credit_rating": "AAA",
+    "num_employees": 20,
+    "subsidiaries": [
+      "others",
+      "generation",
+      "skill"
+    ],
+    "flags": {
+      "active": true,
+      "listed": true
+    }
+  },
+  {
+    "broker_id": 14,
+    "foundation_date": "2006-11-20",
+    "country": "Malawi",
+    "region": "Delaware",
+    "sector": "信托",
+    "credit_rating": "AA",
+    "num_employees": 27,
+    "subsidiaries": [
+      "history",
+      "office",
+      "effort"
+    ],
+    "flags": {
+      "active": true,
+      "listed": true
+    }
+  },
+  {
+    "broker_id": 15,
+    "foundation_date": "2013-09-11",
+    "country": "Afghanistan",
+    "region": "North Dakota",
+    "sector": "期货",
+    "credit_rating": "AAA",
+    "num_employees": 65,
+    "subsidiaries": [
+      "understand",
+      "Mrs",
+      "rest"
+    ],
+    "flags": {
+      "active": true,
+      "listed": false
+    }
+  },
+  {
+    "broker_id": 16,
+    "foundation_date": "2014-07-11",
+    "country": "Paraguay",
+    "region": "Illinois",
+    "sector": "基金",
+    "credit_rating": "AAA",
+    "num_employees": 225,
+    "subsidiaries": [
+      "hair",
+      "attorney",
+      "professional"
+    ],
+    "flags": {
+      "active": true,
+      "listed": true
+    }
+  },
+  {
+    "broker_id": 17,
+    "foundation_date": "2004-03-26",
+    "country": "Germany",
+    "region": "Texas",
+    "sector": "期货",
+    "credit_rating": "BBB",
+    "num_employees": 45,
+    "subsidiaries": [
+      "summer",
+      "rest",
+      "feel"
+    ],
+    "flags": {
+      "active": true,
+      "listed": false
+    }
+  },
+  {
+    "broker_id": 18,
+    "foundation_date": "2003-09-17",
+    "country": "Ireland",
+    "region": "Massachusetts",
+    "sector": "券商",
+    "credit_rating": "AAA",
+    "num_employees": 30,
+    "subsidiaries": [
+      "I",
+      "fast",
+      "camera"
+    ],
+    "flags": {
+      "active": true,
+      "listed": false
+    }
+  },
+  {
+    "broker_id": 19,
+    "foundation_date": "2006-06-28",
+    "country": "Wallis and Futuna",
+    "region": "Missouri",
+    "sector": "信托",
+    "credit_rating": "AAA",
+    "num_employees": 27,
+    "subsidiaries": [
+      "quality",
+      "total",
+      "past"
+    ],
+    "flags": {
+      "active": true,
+      "listed": false
+    }
+  },
+  {
+    "broker_id": 20,
+    "foundation_date": "2003-07-02",
+    "country": "Mexico",
+    "region": "Alabama",
+    "sector": "券商",
+    "credit_rating": "AAA",
+    "num_employees": 67,
+    "subsidiaries": [
+      "fight",
+      "decision",
+      "size"
+    ],
+    "flags": {
+      "active": true,
+      "listed": true
+    }
+  },
+  {
+    "broker_id": 21,
+    "foundation_date": "2011-02-22",
+    "country": "Gibraltar",
+    "region": "New Jersey",
+    "sector": "基金",
+    "credit_rating": "BBB",
+    "num_employees": 69,
+    "subsidiaries": [
+      "kid",
+      "put",
+      "memory"
+    ],
+    "flags": {
+      "active": true,
+      "listed": true
+    }
+  },
+  {
+    "broker_id": 22,
+    "foundation_date": "2015-10-27",
+    "country": "South Africa",
+    "region": "West Virginia",
+    "sector": "基金",
+    "credit_rating": "AA",
+    "num_employees": 51,
+    "subsidiaries": [
+      "college",
+      "be",
+      "middle"
+    ],
+    "flags": {
+      "active": true,
+      "listed": false
+    }
+  },
+  {
+    "broker_id": 23,
+    "foundation_date": "2011-10-20",
+    "country": "Grenada",
+    "region": "Colorado",
+    "sector": "券商",
+    "credit_rating": "BB",
+    "num_employees": 157,
+    "subsidiaries": [
+      "stand",
+      "seem",
+      "pull"
+    ],
+    "flags": {
+      "active": true,
+      "listed": true
+    }
+  },
+  {
+    "broker_id": 24,
+    "foundation_date": "2001-08-05",
+    "country": "Congo",
+    "region": "Georgia",
+    "sector": "基金",
+    "credit_rating": "AA",
+    "num_employees": 84,
+    "subsidiaries": [
+      "agency",
+      "each",
+      "little"
+    ],
+    "flags": {
+      "active": true,
+      "listed": true
+    }
+  },
+  {
+    "broker_id": 25,
+    "foundation_date": "2017-03-21",
+    "country": "Barbados",
+    "region": "New Jersey",
+    "sector": "基金",
+    "credit_rating": "BBB",
+    "num_employees": 81,
+    "subsidiaries": [
+      "increase",
+      "picture",
+      "create"
+    ],
+    "flags": {
+      "active": true,
+      "listed": true
+    }
+  },
+  {
+    "broker_id": 26,
+    "foundation_date": "2013-05-21",
+    "country": "Lithuania",
+    "region": "Montana",
+    "sector": "期货",
+    "credit_rating": "AAA",
+    "num_employees": 56,
+    "subsidiaries": [
+      "during",
+      "prevent",
+      "accept"
+    ],
+    "flags": {
+      "active": true,
+      "listed": true
+    }
+  },
+  {
+    "broker_id": 27,
+    "foundation_date": "2014-10-02",
+    "country": "Sierra Leone",
+    "region": "Connecticut",
+    "sector": "期货",
+    "credit_rating": "AA",
+    "num_employees": 196,
+    "subsidiaries": [
+      "sing",
+      "despite",
+      "sound"
+    ],
+    "flags": {
+      "active": true,
+      "listed": true
+    }
+  },
+  {
+    "broker_id": 28,
+    "foundation_date": "2013-05-17",
+    "country": "Kyrgyz Republic",
+    "region": "Arkansas",
+    "sector": "信托",
+    "credit_rating": "AAA",
+    "num_employees": 5,
+    "subsidiaries": [
+      "newspaper",
+      "true",
+      "building"
+    ],
+    "flags": {
+      "active": false,
+      "listed": true
+    }
+  },
+  {
+    "broker_id": 29,
+    "foundation_date": "1999-04-24",
+    "country": "Kyrgyz Republic",
+    "region": "Texas",
+    "sector": "信托",
+    "credit_rating": "AAA",
+    "num_employees": 19,
+    "subsidiaries": [
+      "most",
+      "next",
+      "fish"
+    ],
+    "flags": {
+      "active": true,
+      "listed": true
+    }
+  },
+  {
+    "broker_id": 30,
+    "foundation_date": "2014-11-10",
+    "country": "Kenya",
+    "region": "South Carolina",
+    "sector": "信托",
+    "credit_rating": "AA",
+    "num_employees": 54,
+    "subsidiaries": [
+      "spring",
+      "throughout",
+      "interview"
+    ],
+    "flags": {
+      "active": true,
+      "listed": true
+    }
+  },
+  {
+    "broker_id": 31,
+    "foundation_date": "2018-08-25",
+    "country": "Kiribati",
+    "region": "Hawaii",
+    "sector": "期货",
+    "credit_rating": "BB",
+    "num_employees": 49,
+    "subsidiaries": [
+      "season",
+      "listen",
+      "else"
+    ],
+    "flags": {
+      "active": false,
+      "listed": false
+    }
+  },
+  {
+    "broker_id": 32,
+    "foundation_date": "2002-02-27",
+    "country": "Northern Mariana Islands",
+    "region": "Louisiana",
+    "sector": "期货",
+    "credit_rating": "AAA",
+    "num_employees": 56,
+    "subsidiaries": [
+      "she",
+      "miss",
+      "phone"
+    ],
+    "flags": {
+      "active": true,
+      "listed": false
+    }
+  },
+  {
+    "broker_id": 33,
+    "foundation_date": "2002-11-04",
+    "country": "Belarus",
+    "region": "Virginia",
+    "sector": "信托",
+    "credit_rating": "AAA",
+    "num_employees": 18,
+    "subsidiaries": [
+      "experience",
+      "even",
+      "floor"
+    ],
+    "flags": {
+      "active": true,
+      "listed": true
+    }
+  },
+  {
+    "broker_id": 34,
+    "foundation_date": "2009-06-25",
+    "country": "Burundi",
+    "region": "Georgia",
+    "sector": "券商",
+    "credit_rating": "BBB",
+    "num_employees": 73,
+    "subsidiaries": [
+      "discuss",
+      "really",
+      "relationship"
+    ],
+    "flags": {
+      "active": true,
+      "listed": true
+    }
+  },
+  {
+    "broker_id": 35,
+    "foundation_date": "1997-08-01",
+    "country": "Ireland",
+    "region": "Michigan",
+    "sector": "基金",
+    "credit_rating": "AAA",
+    "num_employees": 333,
+    "subsidiaries": [
+      "my",
+      "indeed",
+      "deal"
+    ],
+    "flags": {
+      "active": true,
+      "listed": true
+    }
+  },
+  {
+    "broker_id": 36,
+    "foundation_date": "2006-06-25",
+    "country": "United Kingdom",
+    "region": "Wyoming",
+    "sector": "券商",
+    "credit_rating": "AAA",
+    "num_employees": 19,
+    "subsidiaries": [
+      "once",
+      "receive",
+      "task"
+    ],
+    "flags": {
+      "active": true,
+      "listed": false
+    }
+  },
+  {
+    "broker_id": 37,
+    "foundation_date": "2015-02-12",
+    "country": "Hong Kong",
+    "region": "New Mexico",
+    "sector": "期货",
+    "credit_rating": "AA",
+    "num_employees": 17,
+    "subsidiaries": [
+      "accept",
+      "goal",
+      "send"
+    ],
+    "flags": {
+      "active": true,
+      "listed": true
+    }
+  },
+  {
+    "broker_id": 38,
+    "foundation_date": "2017-04-24",
+    "country": "Zimbabwe",
+    "region": "Nebraska",
+    "sector": "基金",
+    "credit_rating": "AA",
+    "num_employees": 5,
+    "subsidiaries": [
+      "Mrs",
+      "same",
+      "son"
+    ],
+    "flags": {
+      "active": true,
+      "listed": true
+    }
+  },
+  {
+    "broker_id": 39,
+    "foundation_date": "2018-06-03",
+    "country": "Libyan Arab Jamahiriya",
+    "region": "Iowa",
+    "sector": "期货",
+    "credit_rating": "BBB",
+    "num_employees": 18,
+    "subsidiaries": [
+      "event",
+      "magazine",
+      "home"
+    ],
+    "flags": {
+      "active": true,
+      "listed": true
+    }
+  },
+  {
+    "broker_id": 40,
+    "foundation_date": "2012-09-12",
+    "country": "South Georgia and the South Sandwich Islands",
+    "region": "Montana",
+    "sector": "基金",
+    "credit_rating": "AAA",
+    "num_employees": 105,
+    "subsidiaries": [
+      "right",
+      "subject",
+      "try"
+    ],
+    "flags": {
+      "active": true,
+      "listed": true
+    }
+  },
+  {
+    "broker_id": 41,
+    "foundation_date": "2020-06-29",
+    "country": "Martinique",
+    "region": "Alaska",
+    "sector": "信托",
+    "credit_rating": "A",
+    "num_employees": 173,
+    "subsidiaries": [
+      "trade",
+      "option",
+      "production"
+    ],
+    "flags": {
+      "active": true,
+      "listed": true
+    }
+  },
+  {
+    "broker_id": 42,
+    "foundation_date": "1998-01-28",
+    "country": "Japan",
+    "region": "Florida",
+    "sector": "信托",
+    "credit_rating": "AAA",
+    "num_employees": 156,
+    "subsidiaries": [
+      "term",
+      "consider",
+      "employee"
+    ],
+    "flags": {
+      "active": true,
+      "listed": false
+    }
+  },
+  {
+    "broker_id": 43,
+    "foundation_date": "2004-02-29",
+    "country": "Korea",
+    "region": "Massachusetts",
+    "sector": "信托",
+    "credit_rating": "AAA",
+    "num_employees": 17,
+    "subsidiaries": [
+      "front",
+      "they",
+      "everything"
+    ],
+    "flags": {
+      "active": true,
+      "listed": true
+    }
+  },
+  {
+    "broker_id": 44,
+    "foundation_date": "2019-10-04",
+    "country": "Italy",
+    "region": "Kentucky",
+    "sector": "信托",
+    "credit_rating": "AA",
+    "num_employees": 42,
+    "subsidiaries": [
+      "strong",
+      "like",
+      "see"
+    ],
+    "flags": {
+      "active": true,
+      "listed": true
+    }
+  },
+  {
+    "broker_id": 45,
+    "foundation_date": "1997-04-12",
+    "country": "Zambia",
+    "region": "Minnesota",
+    "sector": "券商",
+    "credit_rating": "AA",
+    "num_employees": 10,
+    "subsidiaries": [
+      "difference",
+      "attention",
+      "whatever"
+    ],
+    "flags": {
+      "active": true,
+      "listed": false
+    }
+  },
+  {
+    "broker_id": 46,
+    "foundation_date": "1996-12-25",
+    "country": "Antarctica (the territory South of 60 deg S)",
+    "region": "Kansas",
+    "sector": "期货",
+    "credit_rating": "A",
+    "num_employees": 30,
+    "subsidiaries": [
+      "current",
+      "after",
+      "charge"
+    ],
+    "flags": {
+      "active": true,
+      "listed": true
+    }
+  },
+  {
+    "broker_id": 47,
+    "foundation_date": "1999-02-18",
+    "country": "Paraguay",
+    "region": "Delaware",
+    "sector": "信托",
+    "credit_rating": "AAA",
+    "num_employees": 117,
+    "subsidiaries": [
+      "nor",
+      "design",
+      "record"
+    ],
+    "flags": {
+      "active": true,
+      "listed": true
+    }
+  },
+  {
+    "broker_id": 48,
+    "foundation_date": "2015-02-24",
+    "country": "Chad",
+    "region": "Rhode Island",
+    "sector": "信托",
+    "credit_rating": "AA",
+    "num_employees": 52,
+    "subsidiaries": [
+      "parent",
+      "security",
+      "boy"
+    ],
+    "flags": {
+      "active": true,
+      "listed": true
+    }
+  },
+  {
+    "broker_id": 49,
+    "foundation_date": "2016-06-17",
+    "country": "Georgia",
+    "region": "Connecticut",
+    "sector": "基金",
+    "credit_rating": "AA",
+    "num_employees": 228,
+    "subsidiaries": [
+      "official",
+      "up",
+      "office"
+    ],
+    "flags": {
+      "active": true,
+      "listed": true
+    }
+  },
+  {
+    "broker_id": 50,
+    "foundation_date": "2018-09-05",
+    "country": "Honduras",
+    "region": "Montana",
+    "sector": "基金",
+    "credit_rating": "AAA",
+    "num_employees": 27,
+    "subsidiaries": [
+      "walk",
+      "cup",
+      "option"
+    ],
+    "flags": {
+      "active": true,
+      "listed": true
+    }
+  },
+  {
+    "broker_id": 51,
+    "foundation_date": "2016-09-27",
+    "country": "Ecuador",
+    "region": "Connecticut",
+    "sector": "基金",
+    "credit_rating": "AAA",
+    "num_employees": 71,
+    "subsidiaries": [
+      "recent",
+      "feeling",
+      "range"
+    ],
+    "flags": {
+      "active": true,
+      "listed": true
+    }
+  },
+  {
+    "broker_id": 52,
+    "foundation_date": "2016-02-12",
+    "country": "South Africa",
+    "region": "Oregon",
+    "sector": "期货",
+    "credit_rating": "AAA",
+    "num_employees": 10,
+    "subsidiaries": [
+      "site",
+      "girl",
+      "into"
+    ],
+    "flags": {
+      "active": true,
+      "listed": true
+    }
+  },
+  {
+    "broker_id": 53,
+    "foundation_date": "2005-03-29",
+    "country": "Madagascar",
+    "region": "Tennessee",
+    "sector": "券商",
+    "credit_rating": "AA",
+    "num_employees": 39,
+    "subsidiaries": [
+      "game",
+      "support",
+      "state"
+    ],
+    "flags": {
+      "active": true,
+      "listed": true
+    }
+  },
+  {
+    "broker_id": 54,
+    "foundation_date": "1998-08-13",
+    "country": "Guyana",
+    "region": "South Dakota",
+    "sector": "基金",
+    "credit_rating": "BBB",
+    "num_employees": 30,
+    "subsidiaries": [
+      "through",
+      "least",
+      "check"
+    ],
+    "flags": {
+      "active": true,
+      "listed": true
+    }
+  },
+  {
+    "broker_id": 55,
+    "foundation_date": "2000-05-19",
+    "country": "Mali",
+    "region": "Tennessee",
+    "sector": "期货",
+    "credit_rating": "AAA",
+    "num_employees": 50,
+    "subsidiaries": [
+      "establish",
+      "space",
+      "Mrs"
+    ],
+    "flags": {
+      "active": true,
+      "listed": true
+    }
+  },
+  {
+    "broker_id": 56,
+    "foundation_date": "2008-01-24",
+    "country": "Jordan",
+    "region": "Washington",
+    "sector": "信托",
+    "credit_rating": "AA",
+    "num_employees": 51,
+    "subsidiaries": [
+      "or",
+      "focus",
+      "early"
+    ],
+    "flags": {
+      "active": true,
+      "listed": true
+    }
+  },
+  {
+    "broker_id": 57,
+    "foundation_date": "2019-05-06",
+    "country": "Fiji",
+    "region": "New Hampshire",
+    "sector": "信托",
+    "credit_rating": "A",
+    "num_employees": 1,
+    "subsidiaries": [
+      "during",
+      "let",
+      "particular"
+    ],
+    "flags": {
+      "active": true,
+      "listed": true
+    }
+  },
+  {
+    "broker_id": 58,
+    "foundation_date": "2005-06-14",
+    "country": "Antarctica (the territory South of 60 deg S)",
+    "region": "New York",
+    "sector": "信托",
+    "credit_rating": "AA",
+    "num_employees": 58,
+    "subsidiaries": [
+      "surface",
+      "consider",
+      "deep"
+    ],
+    "flags": {
+      "active": true,
+      "listed": true
+    }
+  },
+  {
+    "broker_id": 59,
+    "foundation_date": "2015-12-04",
+    "country": "Guam",
+    "region": "Louisiana",
+    "sector": "基金",
+    "credit_rating": "AAA",
+    "num_employees": 21,
+    "subsidiaries": [
+      "they",
+      "red",
+      "everybody"
+    ],
+    "flags": {
+      "active": true,
+      "listed": false
+    }
+  },
+  {
+    "broker_id": 60,
+    "foundation_date": "1996-03-25",
+    "country": "Yemen",
+    "region": "Illinois",
+    "sector": "信托",
+    "credit_rating": "AA",
+    "num_employees": 26,
+    "subsidiaries": [
+      "beat",
+      "result",
+      "major"
+    ],
+    "flags": {
+      "active": true,
+      "listed": true
+    }
+  },
+  {
+    "broker_id": 61,
+    "foundation_date": "2014-12-06",
+    "country": "Portugal",
+    "region": "New Mexico",
+    "sector": "基金",
+    "credit_rating": "AAA",
+    "num_employees": 32,
+    "subsidiaries": [
+      "position",
+      "make",
+      "society"
+    ],
+    "flags": {
+      "active": true,
+      "listed": true
+    }
+  },
+  {
+    "broker_id": 62,
+    "foundation_date": "1998-04-21",
+    "country": "Cyprus",
+    "region": "Montana",
+    "sector": "信托",
+    "credit_rating": "AA",
+    "num_employees": 42,
+    "subsidiaries": [
+      "reality",
+      "fill",
+      "ok"
+    ],
+    "flags": {
+      "active": false,
+      "listed": true
+    }
+  },
+  {
+    "broker_id": 63,
+    "foundation_date": "2007-10-23",
+    "country": "Marshall Islands",
+    "region": "Minnesota",
+    "sector": "信托",
+    "credit_rating": "BB",
+    "num_employees": 25,
+    "subsidiaries": [
+      "international",
+      "second",
+      "former"
+    ],
+    "flags": {
+      "active": true,
+      "listed": true
+    }
+  },
+  {
+    "broker_id": 64,
+    "foundation_date": "2013-07-19",
+    "country": "Faroe Islands",
+    "region": "Maryland",
+    "sector": "券商",
+    "credit_rating": "AA",
+    "num_employees": 82,
+    "subsidiaries": [
+      "edge",
+      "building",
+      "court"
+    ],
+    "flags": {
+      "active": true,
+      "listed": true
+    }
+  },
+  {
+    "broker_id": 65,
+    "foundation_date": "1998-12-19",
+    "country": "Mauritania",
+    "region": "Wisconsin",
+    "sector": "信托",
+    "credit_rating": "AAA",
+    "num_employees": 15,
+    "subsidiaries": [
+      "real",
+      "course",
+      "school"
+    ],
+    "flags": {
+      "active": true,
+      "listed": true
+    }
+  },
+  {
+    "broker_id": 66,
+    "foundation_date": "2002-11-21",
+    "country": "Namibia",
+    "region": "Wisconsin",
+    "sector": "券商",
+    "credit_rating": "A",
+    "num_employees": 161,
+    "subsidiaries": [
+      "modern",
+      "executive",
+      "beyond"
+    ],
+    "flags": {
+      "active": true,
+      "listed": true
+    }
+  },
+  {
+    "broker_id": 67,
+    "foundation_date": "2000-10-30",
+    "country": "Denmark",
+    "region": "Mississippi",
+    "sector": "基金",
+    "credit_rating": "A",
+    "num_employees": 57,
+    "subsidiaries": [
+      "conference",
+      "add",
+      "move"
+    ],
+    "flags": {
+      "active": true,
+      "listed": true
+    }
+  },
+  {
+    "broker_id": 68,
+    "foundation_date": "2002-11-01",
+    "country": "Austria",
+    "region": "Oklahoma",
+    "sector": "基金",
+    "credit_rating": "BBB",
+    "num_employees": 14,
+    "subsidiaries": [
+      "factor",
+      "want",
+      "point"
+    ],
+    "flags": {
+      "active": true,
+      "listed": false
+    }
+  },
+  {
+    "broker_id": 69,
+    "foundation_date": "2014-10-18",
+    "country": "Bosnia and Herzegovina",
+    "region": "Alabama",
+    "sector": "券商",
+    "credit_rating": "BBB",
+    "num_employees": 61,
+    "subsidiaries": [
+      "off",
+      "light",
+      "key"
+    ],
+    "flags": {
+      "active": true,
+      "listed": true
+    }
+  },
+  {
+    "broker_id": 70,
+    "foundation_date": "2000-08-02",
+    "country": "Austria",
+    "region": "Kentucky",
+    "sector": "基金",
+    "credit_rating": "AAA",
+    "num_employees": 53,
+    "subsidiaries": [
+      "wait",
+      "local",
+      "state"
+    ],
+    "flags": {
+      "active": true,
+      "listed": true
+    }
+  },
+  {
+    "broker_id": 71,
+    "foundation_date": "2005-12-29",
+    "country": "Barbados",
+    "region": "Oregon",
+    "sector": "信托",
+    "credit_rating": "AAA",
+    "num_employees": 95,
+    "subsidiaries": [
+      "picture",
+      "approach",
+      "chance"
+    ],
+    "flags": {
+      "active": true,
+      "listed": false
+    }
+  },
+  {
+    "broker_id": 72,
+    "foundation_date": "2010-01-18",
+    "country": "Gabon",
+    "region": "Colorado",
+    "sector": "信托",
+    "credit_rating": "AAA",
+    "num_employees": 122,
+    "subsidiaries": [
+      "yes",
+      "budget",
+      "share"
+    ],
+    "flags": {
+      "active": true,
+      "listed": true
+    }
+  },
+  {
+    "broker_id": 73,
+    "foundation_date": "2011-02-19",
+    "country": "Somalia",
+    "region": "South Carolina",
+    "sector": "券商",
+    "credit_rating": "AA",
+    "num_employees": 16,
+    "subsidiaries": [
+      "difficult",
+      "mission",
+      "late"
+    ],
+    "flags": {
+      "active": true,
+      "listed": true
+    }
+  },
+  {
+    "broker_id": 74,
+    "foundation_date": "2007-01-17",
+    "country": "Tokelau",
+    "region": "Pennsylvania",
+    "sector": "期货",
+    "credit_rating": "AA",
+    "num_employees": 66,
+    "subsidiaries": [
+      "wrong",
+      "figure",
+      "perform"
+    ],
+    "flags": {
+      "active": true,
+      "listed": true
+    }
+  },
+  {
+    "broker_id": 75,
+    "foundation_date": "2011-03-21",
+    "country": "Saint Vincent and the Grenadines",
+    "region": "Connecticut",
+    "sector": "券商",
+    "credit_rating": "BBB",
+    "num_employees": 6,
+    "subsidiaries": [
+      "way",
+      "debate",
+      "decision"
+    ],
+    "flags": {
+      "active": false,
+      "listed": false
+    }
+  },
+  {
+    "broker_id": 76,
+    "foundation_date": "2012-06-27",
+    "country": "Cayman Islands",
+    "region": "Kansas",
+    "sector": "券商",
+    "credit_rating": "AA",
+    "num_employees": 106,
+    "subsidiaries": [
+      "community",
+      "avoid",
+      "able"
+    ],
+    "flags": {
+      "active": false,
+      "listed": false
+    }
+  },
+  {
+    "broker_id": 77,
+    "foundation_date": "2007-03-29",
+    "country": "Nepal",
+    "region": "New Mexico",
+    "sector": "基金",
+    "credit_rating": "AA",
+    "num_employees": 34,
+    "subsidiaries": [
+      "fact",
+      "discuss",
+      "religious"
+    ],
+    "flags": {
+      "active": true,
+      "listed": true
+    }
+  },
+  {
+    "broker_id": 78,
+    "foundation_date": "2013-07-20",
+    "country": "Korea",
+    "region": "California",
+    "sector": "信托",
+    "credit_rating": "AAA",
+    "num_employees": 122,
+    "subsidiaries": [
+      "reach",
+      "under",
+      "skin"
+    ],
+    "flags": {
+      "active": false,
+      "listed": true
+    }
+  },
+  {
+    "broker_id": 79,
+    "foundation_date": "2011-08-09",
+    "country": "Panama",
+    "region": "Illinois",
+    "sector": "券商",
+    "credit_rating": "AA",
+    "num_employees": 90,
+    "subsidiaries": [
+      "interesting",
+      "name",
+      "positive"
+    ],
+    "flags": {
+      "active": true,
+      "listed": true
+    }
+  },
+  {
+    "broker_id": 80,
+    "foundation_date": "2018-09-08",
+    "country": "Sweden",
+    "region": "Georgia",
+    "sector": "信托",
+    "credit_rating": "AAA",
+    "num_employees": 6,
+    "subsidiaries": [
+      "author",
+      "coach",
+      "film"
+    ],
+    "flags": {
+      "active": true,
+      "listed": true
+    }
+  },
+  {
+    "broker_id": 81,
+    "foundation_date": "2014-09-13",
+    "country": "Montenegro",
+    "region": "Maine",
+    "sector": "信托",
+    "credit_rating": "A",
+    "num_employees": 42,
+    "subsidiaries": [
+      "keep",
+      "light",
+      "fight"
+    ],
+    "flags": {
+      "active": true,
+      "listed": true
+    }
+  },
+  {
+    "broker_id": 82,
+    "foundation_date": "2006-01-15",
+    "country": "Faroe Islands",
+    "region": "North Carolina",
+    "sector": "券商",
+    "credit_rating": "AAA",
+    "num_employees": 68,
+    "subsidiaries": [
+      "music",
+      "just",
+      "our"
+    ],
+    "flags": {
+      "active": true,
+      "listed": false
+    }
+  },
+  {
+    "broker_id": 83,
+    "foundation_date": "2018-03-19",
+    "country": "Saint Pierre and Miquelon",
+    "region": "Massachusetts",
+    "sector": "券商",
+    "credit_rating": "AAA",
+    "num_employees": 331,
+    "subsidiaries": [
+      "page",
+      "ago",
+      "director"
+    ],
+    "flags": {
+      "active": false,
+      "listed": true
+    }
+  },
+  {
+    "broker_id": 84,
+    "foundation_date": "2012-11-01",
+    "country": "Tokelau",
+    "region": "Oregon",
+    "sector": "券商",
+    "credit_rating": "AA",
+    "num_employees": 55,
+    "subsidiaries": [
+      "onto",
+      "again",
+      "share"
+    ],
+    "flags": {
+      "active": true,
+      "listed": true
+    }
+  },
+  {
+    "broker_id": 85,
+    "foundation_date": "2016-07-06",
+    "country": "Morocco",
+    "region": "Arizona",
+    "sector": "信托",
+    "credit_rating": "AAA",
+    "num_employees": 46,
+    "subsidiaries": [
+      "several",
+      "compare",
+      "million"
+    ],
+    "flags": {
+      "active": true,
+      "listed": true
+    }
+  },
+  {
+    "broker_id": 86,
+    "foundation_date": "2007-01-12",
+    "country": "Fiji",
+    "region": "Idaho",
+    "sector": "信托",
+    "credit_rating": "BBB",
+    "num_employees": 43,
+    "subsidiaries": [
+      "young",
+      "job",
+      "sport"
+    ],
+    "flags": {
+      "active": true,
+      "listed": true
+    }
+  },
+  {
+    "broker_id": 87,
+    "foundation_date": "2020-03-15",
+    "country": "Latvia",
+    "region": "Minnesota",
+    "sector": "期货",
+    "credit_rating": "BB",
+    "num_employees": 38,
+    "subsidiaries": [
+      "impact",
+      "fly",
+      "bit"
+    ],
+    "flags": {
+      "active": true,
+      "listed": false
+    }
+  },
+  {
+    "broker_id": 88,
+    "foundation_date": "1999-12-31",
+    "country": "Isle of Man",
+    "region": "Vermont",
+    "sector": "期货",
+    "credit_rating": "AAA",
+    "num_employees": 26,
+    "subsidiaries": [
+      "many",
+      "production",
+      "hundred"
+    ],
+    "flags": {
+      "active": true,
+      "listed": false
+    }
+  },
+  {
+    "broker_id": 89,
+    "foundation_date": "2014-12-28",
+    "country": "Argentina",
+    "region": "New Jersey",
+    "sector": "信托",
+    "credit_rating": "AA",
+    "num_employees": 17,
+    "subsidiaries": [
+      "because",
+      "education",
+      "break"
+    ],
+    "flags": {
+      "active": true,
+      "listed": true
+    }
+  },
+  {
+    "broker_id": 90,
+    "foundation_date": "2015-04-17",
+    "country": "Tonga",
+    "region": "North Carolina",
+    "sector": "券商",
+    "credit_rating": "AA",
+    "num_employees": 38,
+    "subsidiaries": [
+      "stay",
+      "ability",
+      "thank"
+    ],
+    "flags": {
+      "active": true,
+      "listed": true
+    }
+  },
+  {
+    "broker_id": 91,
+    "foundation_date": "2007-07-12",
+    "country": "Austria",
+    "region": "Illinois",
+    "sector": "基金",
+    "credit_rating": "AA",
+    "num_employees": 29,
+    "subsidiaries": [
+      "million",
+      "performance",
+      "material"
+    ],
+    "flags": {
+      "active": true,
+      "listed": true
+    }
+  },
+  {
+    "broker_id": 92,
+    "foundation_date": "2007-01-11",
+    "country": "Austria",
+    "region": "Indiana",
+    "sector": "券商",
+    "credit_rating": "AAA",
+    "num_employees": 96,
+    "subsidiaries": [
+      "environment",
+      "capital",
+      "explain"
+    ],
+    "flags": {
+      "active": true,
+      "listed": true
+    }
+  },
+  {
+    "broker_id": 93,
+    "foundation_date": "2017-12-31",
+    "country": "Libyan Arab Jamahiriya",
+    "region": "Delaware",
+    "sector": "期货",
+    "credit_rating": "AA",
+    "num_employees": 233,
+    "subsidiaries": [
+      "ahead",
+      "picture",
+      "son"
+    ],
+    "flags": {
+      "active": true,
+      "listed": true
+    }
+  },
+  {
+    "broker_id": 94,
+    "foundation_date": "2013-09-21",
+    "country": "Georgia",
+    "region": "Oklahoma",
+    "sector": "基金",
+    "credit_rating": "A",
+    "num_employees": 6,
+    "subsidiaries": [
+      "add",
+      "impact",
+      "different"
+    ],
+    "flags": {
+      "active": true,
+      "listed": true
+    }
+  },
+  {
+    "broker_id": 95,
+    "foundation_date": "2017-01-04",
+    "country": "Brazil",
+    "region": "New Jersey",
+    "sector": "信托",
+    "credit_rating": "AAA",
+    "num_employees": 20,
+    "subsidiaries": [
+      "water",
+      "positive",
+      "child"
+    ],
+    "flags": {
+      "active": true,
+      "listed": true
+    }
+  },
+  {
+    "broker_id": 96,
+    "foundation_date": "2019-04-18",
+    "country": "French Guiana",
+    "region": "North Carolina",
+    "sector": "信托",
+    "credit_rating": "AAA",
+    "num_employees": 237,
+    "subsidiaries": [
+      "relate",
+      "indeed",
+      "lot"
+    ],
+    "flags": {
+      "active": true,
+      "listed": false
+    }
+  },
+  {
+    "broker_id": 97,
+    "foundation_date": "2007-10-13",
+    "country": "Korea",
+    "region": "Oklahoma",
+    "sector": "信托",
+    "credit_rating": "AAA",
+    "num_employees": 90,
+    "subsidiaries": [
+      "certain",
+      "course",
+      "out"
+    ],
+    "flags": {
+      "active": true,
+      "listed": true
+    }
+  },
+  {
+    "broker_id": 98,
+    "foundation_date": "2014-08-20",
+    "country": "Burkina Faso",
+    "region": "California",
+    "sector": "券商",
+    "credit_rating": "AA",
+    "num_employees": 133,
+    "subsidiaries": [
+      "everybody",
+      "so",
+      "increase"
+    ],
+    "flags": {
+      "active": true,
+      "listed": true
+    }
+  },
+  {
+    "broker_id": 99,
+    "foundation_date": "2019-05-02",
+    "country": "Madagascar",
+    "region": "Louisiana",
+    "sector": "信托",
+    "credit_rating": "A",
+    "num_employees": 148,
+    "subsidiaries": [
+      "star",
+      "executive",
+      "fear"
+    ],
+    "flags": {
+      "active": false,
+      "listed": false
+    }
+  },
+  {
+    "broker_id": 100,
+    "foundation_date": "2010-08-26",
+    "country": "Palestinian Territory",
+    "region": "New York",
+    "sector": "信托",
+    "credit_rating": "AAA",
+    "num_employees": 7,
+    "subsidiaries": [
+      "tend",
+      "land",
+      "machine"
+    ],
+    "flags": {
+      "active": true,
+      "listed": true
+    }
+  }
+]

@@ -1,0 +1,20 @@
+{
+    "goal": "评估百纳千成电影业务增长300%的原因及其对行业的潜在影响。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 百纳千成预计2023年营业总收入将同比增长19.3%，显示出其在影视项目储备和创新业务推进上的积极影响。",
+        "Comparison: 捷成股份与百纳千成在影视版权运营及服务收入上均有显著增长，分别预计为39.9亿元和5.59亿元。",
+        "Extreme: 华策影视的净利润在2023年预计为4.79亿元，显示出其盈利能力的提升。",
+        "Attribution: 随着经济复苏，广告业务收入预计恢复增长，推动了短剧行业的整体发展。"
+    ],
+    "summary": "本报告探讨了微短剧行业的投资机会与潜在风险，强调了供需共振及行业规范的重要性。",
+    "flag_id": "flag-156",
+    "classifier": "Short-form Drama",
+    "classifier_cn": "短剧/微短剧内容",
+    "input_files": [
+        "output/industry_background.txt",
+        "output/orders_fact.csv",
+        "output/user_dimension.db",
+        "output/user_profiles.json"
+    ]
+}

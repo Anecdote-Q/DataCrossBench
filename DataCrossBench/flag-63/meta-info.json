@@ -1,0 +1,24 @@
+{
+    "goal": "比较北京市与郑州市在微短剧传播能力上的差异及其影响因素。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 社媒传播指数在2025年各季度稳步提升，Q3达到全年峰值771.28，表明微短剧在社交媒体上的影响力不断增强。",
+        "Comparison: 郑州、北京和武汉在微短剧传播方面表现强势，郑州市排名94.8，显示出其在传播能力上的优势。",
+        "Extreme: 郑州市短剧话题播放量超过8000万，显示出其在传播方面的强劲表现。",
+        "Attribution: 郑州的传播优势得益于其短剧市场的活跃度和政府的支持政策。"
+    ],
+    "summary": "本报告探讨了2025年中国微短剧的出海实力和传播能力，强调了北京和深圳在出海市场的主导地位，以及郑州在传播方面的强势表现。",
+    "flag_id": "flag-63",
+    "classifier": "Short-form Drama",
+    "classifier_cn": "短剧/微短剧内容",
+    "input_files": [
+        "output/barplot_view_count_by_government_support.png",
+        "output/boxplot_view_count_by_city.png",
+        "output/business_background.txt",
+        "output/city_comparison.db",
+        "output/microshortdrama_compositeinfo.json",
+        "output/microshortdrama_fact.csv",
+        "output/scatter_ranking_vs_strength.png",
+        "output/scatter_view_count_vs_social_media_index.png"
+    ]
+}

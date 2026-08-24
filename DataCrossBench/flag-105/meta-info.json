@@ -1,0 +1,20 @@
+{
+    "goal": "比较英国与其他国家在开放银行政策下中小企业贷款关系建立的市场竞争力和消费者信任度的差异。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: OB政策实施后，中小企业更有可能与非银行机构建立新的贷款关系，形成新借贷关系的概率显著增加，约25%的样本平均关系形成率为5.3%。",
+        "Comparison: 与2016年之前相比，2017年实施CCDS政策后，具有新的非银行关系的公司利息支出下降，表明新贷款的利率较低。",
+        "Extreme: 2017年，数据共享的第一年，政策实施后，系数转正显著，特别是对于非银行，显示出市场的快速反应。",
+        "Attribution: 由于消费者对金融科技的信任，开放银行政策的采用得以加速，信任的增加与金融科技进入的显著增长密切相关。"
+    ],
+    "summary": "本报告分析了开放银行政策的实施对金融科技投资和中小企业贷款关系的影响，揭示了政策实施后市场竞争和消费者信任的变化。",
+    "flag_id": "flag-105",
+    "classifier": "FinTech",
+    "classifier_cn": "金融科技",
+    "input_files": [
+        "output/business_background.txt",
+        "output/fintech_adoption_profiles.json",
+        "output/sme_information.db",
+        "output/sme_loan_relationships.csv"
+    ]
+}

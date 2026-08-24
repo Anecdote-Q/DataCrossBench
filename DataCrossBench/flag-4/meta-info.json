@@ -1,0 +1,20 @@
+{
+    "goal": "比较杭州与深圳、上海在区块链技术专利申请量上的差异，并探讨其背后的政策和市场因素。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 杭州在区块链技术领域的专利申请量均高于深圳和上海，排名仅次于北京。",
+        "Comparison: 中国银行和工商银行在生物识别技术领域的专利申请量遥遥领先其他创新主体。",
+        "Extreme: 中国银行在量子安全技术的专利申请量位列第一，显示出其在该领域的技术实力。",
+        "Attribution: 政策推动和市场需求是促进各城市金融科技发展的重要因素，尤其是在普惠金融和数字金融领域。"
+    ],
+    "summary": "本报告探讨了中国主要城市在金融科技领域的专利申请情况，揭示了区域间的差异及其对行业发展的影响。",
+    "flag_id": "flag-4",
+    "classifier": "FinTech",
+    "classifier_cn": "金融科技",
+    "input_files": [
+        "output/business_background.txt",
+        "output/dimension_data.db",
+        "output/patent_applications.csv",
+        "output/user_profiles.json"
+    ]
+}

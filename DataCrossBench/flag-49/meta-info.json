@@ -1,0 +1,20 @@
+{
+    "goal": "分析中国金融信息服务行业市场规模逐年上涨的驱动因素。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 中国金融信息服务行业市场规模逐年上涨，预计到2025年将达到762.26亿元，2018年为340.86亿元，2023年为607.86亿元。",
+        "Comparison: 金融科技投入预计自2019年起至2027年以16.70%的CAGR达到超过700亿元规模，显示出行业的快速发展。",
+        "Extreme: 2024年9月24日金融三部委下调存款准备金率和7天期逆回购利率，政策影响显著。",
+        "Attribution: 由于政策支持，银行业数智化转型得到了加大力度的支持，推动了金融信息服务行业的健康发展。"
+    ],
+    "summary": "本报告探讨了中国金融信息服务行业的发展趋势、市场规模及政策背景，分析了行业的未来潜力与风险。",
+    "flag_id": "flag-49",
+    "classifier": "FinTech",
+    "classifier_cn": "金融科技",
+    "input_files": [
+        "output/business_background.txt",
+        "output/dimension_data.db",
+        "output/trade_facts.csv",
+        "output/user_profiles.json"
+    ]
+}

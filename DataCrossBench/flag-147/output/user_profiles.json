@@ -1,0 +1,3324 @@
+[
+  {
+    "user_id": "U00522",
+    "age_group": "25-34白领",
+    "occupation": "创业者",
+    "preferences": [
+      "悬疑"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "高"
+  },
+  {
+    "user_id": "U00738",
+    "age_group": "35-44专业人士",
+    "occupation": "家庭主妇",
+    "preferences": [
+      "都市",
+      "喜剧"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "高"
+  },
+  {
+    "user_id": "U00741",
+    "age_group": "18-24学生",
+    "occupation": "白领",
+    "preferences": [
+      "动画",
+      "悬疑",
+      "历史"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "高"
+  },
+  {
+    "user_id": "U00661",
+    "age_group": "35-44专业人士",
+    "occupation": "家庭主妇",
+    "preferences": [
+      "科幻",
+      "都市",
+      "爱情"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "低"
+  },
+  {
+    "user_id": "U00412",
+    "age_group": null,
+    "occupation": null,
+    "preferences": [
+      "动画"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "高"
+  },
+  {
+    "user_id": "U00679",
+    "age_group": "18-24学生",
+    "occupation": "白领",
+    "preferences": [
+      "动画",
+      "科幻",
+      "历史"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "低"
+  },
+  {
+    "user_id": "U00627",
+    "age_group": null,
+    "occupation": null,
+    "preferences": [
+      "都市"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "低"
+  },
+  {
+    "user_id": "U00514",
+    "age_group": "18-24学生",
+    "occupation": "白领",
+    "preferences": [
+      "科幻",
+      "历史",
+      "都市"
+    ],
+    "is_ai_user": false,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00860",
+    "age_group": "35-44专业人士",
+    "occupation": "家庭主妇",
+    "preferences": [
+      "科幻",
+      "悬疑",
+      "动画"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00137",
+    "age_group": "18-24学生",
+    "occupation": "白领",
+    "preferences": [
+      "悬疑",
+      "科幻",
+      "喜剧"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00812",
+    "age_group": "18-24学生",
+    "occupation": "白领",
+    "preferences": [
+      "悬疑",
+      "喜剧",
+      "动画"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00077",
+    "age_group": null,
+    "occupation": null,
+    "preferences": [
+      "动画",
+      "喜剧"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "高"
+  },
+  {
+    "user_id": "U00637",
+    "age_group": "25-34白领",
+    "occupation": "创业者",
+    "preferences": [
+      "都市",
+      "科幻",
+      "动画"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "低"
+  },
+  {
+    "user_id": "U00974",
+    "age_group": null,
+    "occupation": null,
+    "preferences": [
+      "悬疑",
+      "动画",
+      "喜剧"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "低"
+  },
+  {
+    "user_id": "U00939",
+    "age_group": "25-34白领",
+    "occupation": "创业者",
+    "preferences": [
+      "科幻",
+      "动画",
+      "悬疑"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "高"
+  },
+  {
+    "user_id": "U00900",
+    "age_group": "18-24学生",
+    "occupation": "白领",
+    "preferences": [
+      "都市"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "低"
+  },
+  {
+    "user_id": "U00281",
+    "age_group": "25-34白领",
+    "occupation": "创业者",
+    "preferences": [
+      "都市",
+      "悬疑",
+      "科幻"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00884",
+    "age_group": null,
+    "occupation": null,
+    "preferences": [
+      "都市",
+      "历史"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00762",
+    "age_group": "35-44专业人士",
+    "occupation": "家庭主妇",
+    "preferences": [
+      "动画",
+      "都市",
+      "科幻"
+    ],
+    "is_ai_user": false,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00320",
+    "age_group": "25-34白领",
+    "occupation": "创业者",
+    "preferences": [
+      "动画"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00550",
+    "age_group": null,
+    "occupation": null,
+    "preferences": [
+      "喜剧"
+    ],
+    "is_ai_user": false,
+    "engagement_level": "低"
+  },
+  {
+    "user_id": "U00175",
+    "age_group": "25-34白领",
+    "occupation": "创业者",
+    "preferences": [
+      "动画",
+      "历史"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "高"
+  },
+  {
+    "user_id": "U00372",
+    "age_group": "35-44专业人士",
+    "occupation": "家庭主妇",
+    "preferences": [
+      "悬疑",
+      "喜剧",
+      "爱情"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "低"
+  },
+  {
+    "user_id": "U00528",
+    "age_group": "25-34白领",
+    "occupation": "创业者",
+    "preferences": [
+      "喜剧",
+      "动画",
+      "爱情"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00211",
+    "age_group": "35-44专业人士",
+    "occupation": "家庭主妇",
+    "preferences": [
+      "历史",
+      "都市"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "低"
+  },
+  {
+    "user_id": "U00236",
+    "age_group": "18-24学生",
+    "occupation": "白领",
+    "preferences": [
+      "爱情",
+      "悬疑"
+    ],
+    "is_ai_user": false,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00102",
+    "age_group": "18-24学生",
+    "occupation": "白领",
+    "preferences": [
+      "悬疑",
+      "动画"
+    ],
+    "is_ai_user": false,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00987",
+    "age_group": "25-34白领",
+    "occupation": "创业者",
+    "preferences": [
+      "喜剧",
+      "动画",
+      "爱情"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "高"
+  },
+  {
+    "user_id": "U00903",
+    "age_group": "25-34白领",
+    "occupation": "创业者",
+    "preferences": [
+      "喜剧"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00948",
+    "age_group": null,
+    "occupation": null,
+    "preferences": [
+      "动画",
+      "都市",
+      "悬疑"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00347",
+    "age_group": "18-24学生",
+    "occupation": "白领",
+    "preferences": [
+      "动画",
+      "爱情"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "高"
+  },
+  {
+    "user_id": "U00140",
+    "age_group": "35-44专业人士",
+    "occupation": "家庭主妇",
+    "preferences": [
+      "爱情",
+      "动画"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00622",
+    "age_group": null,
+    "occupation": null,
+    "preferences": [
+      "悬疑",
+      "科幻",
+      "爱情"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00500",
+    "age_group": null,
+    "occupation": null,
+    "preferences": [
+      "科幻",
+      "历史",
+      "悬疑"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00371",
+    "age_group": "25-34白领",
+    "occupation": "创业者",
+    "preferences": [
+      "科幻"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00199",
+    "age_group": "25-34白领",
+    "occupation": "创业者",
+    "preferences": [
+      "都市",
+      "历史"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "高"
+  },
+  {
+    "user_id": "U00688",
+    "age_group": "35-44专业人士",
+    "occupation": "家庭主妇",
+    "preferences": [
+      "历史",
+      "爱情"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "低"
+  },
+  {
+    "user_id": "U00585",
+    "age_group": "18-24学生",
+    "occupation": "白领",
+    "preferences": [
+      "都市"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00902",
+    "age_group": "25-34白领",
+    "occupation": "创业者",
+    "preferences": [
+      "科幻"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00060",
+    "age_group": null,
+    "occupation": null,
+    "preferences": [
+      "喜剧",
+      "科幻"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "高"
+  },
+  {
+    "user_id": "U00329",
+    "age_group": null,
+    "occupation": null,
+    "preferences": [
+      "悬疑",
+      "动画"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "高"
+  },
+  {
+    "user_id": "U00097",
+    "age_group": null,
+    "occupation": null,
+    "preferences": [
+      "喜剧"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00313",
+    "age_group": null,
+    "occupation": null,
+    "preferences": [
+      "爱情",
+      "科幻"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00975",
+    "age_group": null,
+    "occupation": null,
+    "preferences": [
+      "爱情",
+      "喜剧"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00300",
+    "age_group": "25-34白领",
+    "occupation": "创业者",
+    "preferences": [
+      "悬疑",
+      "都市",
+      "爱情"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00278",
+    "age_group": "35-44专业人士",
+    "occupation": "家庭主妇",
+    "preferences": [
+      "历史"
+    ],
+    "is_ai_user": false,
+    "engagement_level": "高"
+  },
+  {
+    "user_id": "U00925",
+    "age_group": "25-34白领",
+    "occupation": "创业者",
+    "preferences": [
+      "爱情",
+      "科幻",
+      "都市"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "高"
+  },
+  {
+    "user_id": "U00602",
+    "age_group": "25-34白领",
+    "occupation": "创业者",
+    "preferences": [
+      "动画",
+      "悬疑",
+      "科幻"
+    ],
+    "is_ai_user": false,
+    "engagement_level": "高"
+  },
+  {
+    "user_id": "U00440",
+    "age_group": "25-34白领",
+    "occupation": "创业者",
+    "preferences": [
+      "喜剧"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "低"
+  },
+  {
+    "user_id": "U00838",
+    "age_group": null,
+    "occupation": null,
+    "preferences": [
+      "科幻",
+      "爱情"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "高"
+  },
+  {
+    "user_id": "U00571",
+    "age_group": "35-44专业人士",
+    "occupation": "家庭主妇",
+    "preferences": [
+      "爱情",
+      "科幻",
+      "悬疑"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "高"
+  },
+  {
+    "user_id": "U00880",
+    "age_group": null,
+    "occupation": null,
+    "preferences": [
+      "历史",
+      "悬疑"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00262",
+    "age_group": null,
+    "occupation": null,
+    "preferences": [
+      "动画",
+      "爱情"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00579",
+    "age_group": null,
+    "occupation": null,
+    "preferences": [
+      "喜剧",
+      "历史"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00024",
+    "age_group": null,
+    "occupation": null,
+    "preferences": [
+      "历史",
+      "都市",
+      "科幻"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00031",
+    "age_group": "25-34白领",
+    "occupation": "创业者",
+    "preferences": [
+      "喜剧"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "高"
+  },
+  {
+    "user_id": "U00618",
+    "age_group": null,
+    "occupation": null,
+    "preferences": [
+      "历史",
+      "都市",
+      "科幻"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00011",
+    "age_group": null,
+    "occupation": null,
+    "preferences": [
+      "爱情"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00222",
+    "age_group": "25-34白领",
+    "occupation": "创业者",
+    "preferences": [
+      "喜剧",
+      "科幻"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00821",
+    "age_group": "35-44专业人士",
+    "occupation": "家庭主妇",
+    "preferences": [
+      "动画",
+      "历史"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00297",
+    "age_group": "25-34白领",
+    "occupation": "创业者",
+    "preferences": [
+      "历史"
+    ],
+    "is_ai_user": false,
+    "engagement_level": "高"
+  },
+  {
+    "user_id": "U00055",
+    "age_group": "18-24学生",
+    "occupation": "白领",
+    "preferences": [
+      "悬疑",
+      "动画"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00543",
+    "age_group": null,
+    "occupation": null,
+    "preferences": [
+      "历史",
+      "爱情",
+      "悬疑"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00210",
+    "age_group": "25-34白领",
+    "occupation": "创业者",
+    "preferences": [
+      "科幻",
+      "爱情"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "低"
+  },
+  {
+    "user_id": "U00605",
+    "age_group": "18-24学生",
+    "occupation": "白领",
+    "preferences": [
+      "喜剧",
+      "历史"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00693",
+    "age_group": null,
+    "occupation": null,
+    "preferences": [
+      "动画",
+      "爱情",
+      "喜剧"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00663",
+    "age_group": "18-24学生",
+    "occupation": "白领",
+    "preferences": [
+      "科幻",
+      "都市",
+      "历史"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "高"
+  },
+  {
+    "user_id": "U00867",
+    "age_group": null,
+    "occupation": null,
+    "preferences": [
+      "悬疑"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "低"
+  },
+  {
+    "user_id": "U00071",
+    "age_group": "18-24学生",
+    "occupation": "白领",
+    "preferences": [
+      "喜剧",
+      "爱情"
+    ],
+    "is_ai_user": false,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00544",
+    "age_group": "25-34白领",
+    "occupation": "创业者",
+    "preferences": [
+      "喜剧",
+      "科幻"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "低"
+  },
+  {
+    "user_id": "U00108",
+    "age_group": "25-34白领",
+    "occupation": "创业者",
+    "preferences": [
+      "历史",
+      "爱情",
+      "悬疑"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00494",
+    "age_group": "35-44专业人士",
+    "occupation": "家庭主妇",
+    "preferences": [
+      "历史",
+      "喜剧"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "高"
+  },
+  {
+    "user_id": "U00591",
+    "age_group": null,
+    "occupation": null,
+    "preferences": [
+      "都市",
+      "喜剧",
+      "动画"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00742",
+    "age_group": "25-34白领",
+    "occupation": "创业者",
+    "preferences": [
+      "都市"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00293",
+    "age_group": "25-34白领",
+    "occupation": "创业者",
+    "preferences": [
+      "动画",
+      "悬疑",
+      "科幻"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00290",
+    "age_group": null,
+    "occupation": null,
+    "preferences": [
+      "都市"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "低"
+  },
+  {
+    "user_id": "U00653",
+    "age_group": "18-24学生",
+    "occupation": "白领",
+    "preferences": [
+      "悬疑"
+    ],
+    "is_ai_user": false,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00040",
+    "age_group": null,
+    "occupation": null,
+    "preferences": [
+      "悬疑",
+      "动画"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00590",
+    "age_group": "25-34白领",
+    "occupation": "创业者",
+    "preferences": [
+      "悬疑",
+      "历史"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00308",
+    "age_group": "25-34白领",
+    "occupation": "创业者",
+    "preferences": [
+      "科幻",
+      "动画",
+      "都市"
+    ],
+    "is_ai_user": false,
+    "engagement_level": "高"
+  },
+  {
+    "user_id": "U00680",
+    "age_group": "25-34白领",
+    "occupation": "创业者",
+    "preferences": [
+      "爱情",
+      "科幻",
+      "历史"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00067",
+    "age_group": "25-34白领",
+    "occupation": "创业者",
+    "preferences": [
+      "科幻"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00276",
+    "age_group": "35-44专业人士",
+    "occupation": "家庭主妇",
+    "preferences": [
+      "动画",
+      "悬疑"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "高"
+  },
+  {
+    "user_id": "U00068",
+    "age_group": null,
+    "occupation": null,
+    "preferences": [
+      "爱情",
+      "都市"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "高"
+  },
+  {
+    "user_id": "U00319",
+    "age_group": "35-44专业人士",
+    "occupation": "家庭主妇",
+    "preferences": [
+      "都市"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00549",
+    "age_group": null,
+    "occupation": null,
+    "preferences": [
+      "动画"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "低"
+  },
+  {
+    "user_id": "U00999",
+    "age_group": null,
+    "occupation": null,
+    "preferences": [
+      "动画",
+      "悬疑",
+      "科幻"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00715",
+    "age_group": "18-24学生",
+    "occupation": "白领",
+    "preferences": [
+      "都市",
+      "历史",
+      "悬疑"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00754",
+    "age_group": "35-44专业人士",
+    "occupation": "家庭主妇",
+    "preferences": [
+      "都市"
+    ],
+    "is_ai_user": false,
+    "engagement_level": "低"
+  },
+  {
+    "user_id": "U00328",
+    "age_group": "25-34白领",
+    "occupation": "创业者",
+    "preferences": [
+      "爱情",
+      "科幻",
+      "历史"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "低"
+  },
+  {
+    "user_id": "U00383",
+    "age_group": null,
+    "occupation": null,
+    "preferences": [
+      "爱情"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "低"
+  },
+  {
+    "user_id": "U00452",
+    "age_group": "35-44专业人士",
+    "occupation": "家庭主妇",
+    "preferences": [
+      "历史",
+      "爱情"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00523",
+    "age_group": "25-34白领",
+    "occupation": "创业者",
+    "preferences": [
+      "历史"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00219",
+    "age_group": "18-24学生",
+    "occupation": "白领",
+    "preferences": [
+      "爱情",
+      "喜剧",
+      "悬疑"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00788",
+    "age_group": null,
+    "occupation": null,
+    "preferences": [
+      "都市",
+      "爱情",
+      "悬疑"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "低"
+  },
+  {
+    "user_id": "U00437",
+    "age_group": "35-44专业人士",
+    "occupation": "家庭主妇",
+    "preferences": [
+      "爱情",
+      "动画",
+      "喜剧"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00765",
+    "age_group": "25-34白领",
+    "occupation": "创业者",
+    "preferences": [
+      "喜剧",
+      "都市"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00089",
+    "age_group": "35-44专业人士",
+    "occupation": "家庭主妇",
+    "preferences": [
+      "科幻"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "低"
+  },
+  {
+    "user_id": "U00064",
+    "age_group": "35-44专业人士",
+    "occupation": "家庭主妇",
+    "preferences": [
+      "悬疑",
+      "都市"
+    ],
+    "is_ai_user": false,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00827",
+    "age_group": null,
+    "occupation": null,
+    "preferences": [
+      "悬疑",
+      "爱情"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00717",
+    "age_group": "25-34白领",
+    "occupation": "创业者",
+    "preferences": [
+      "历史"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00352",
+    "age_group": null,
+    "occupation": null,
+    "preferences": [
+      "都市"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00937",
+    "age_group": "18-24学生",
+    "occupation": "白领",
+    "preferences": [
+      "悬疑",
+      "动画",
+      "科幻"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "低"
+  },
+  {
+    "user_id": "U00257",
+    "age_group": "25-34白领",
+    "occupation": "创业者",
+    "preferences": [
+      "历史",
+      "都市",
+      "动画"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00636",
+    "age_group": "35-44专业人士",
+    "occupation": "家庭主妇",
+    "preferences": [
+      "动画",
+      "喜剧"
+    ],
+    "is_ai_user": false,
+    "engagement_level": "低"
+  },
+  {
+    "user_id": "U00645",
+    "age_group": "25-34白领",
+    "occupation": "创业者",
+    "preferences": [
+      "动画",
+      "都市"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "低"
+  },
+  {
+    "user_id": "U00555",
+    "age_group": "18-24学生",
+    "occupation": "白领",
+    "preferences": [
+      "动画",
+      "历史"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00960",
+    "age_group": "35-44专业人士",
+    "occupation": "家庭主妇",
+    "preferences": [
+      "爱情",
+      "悬疑"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00169",
+    "age_group": "25-34白领",
+    "occupation": "创业者",
+    "preferences": [
+      "历史"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "低"
+  },
+  {
+    "user_id": "U00918",
+    "age_group": "35-44专业人士",
+    "occupation": "家庭主妇",
+    "preferences": [
+      "科幻",
+      "爱情"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "低"
+  },
+  {
+    "user_id": "U00529",
+    "age_group": null,
+    "occupation": null,
+    "preferences": [
+      "爱情",
+      "动画"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "高"
+  },
+  {
+    "user_id": "U00824",
+    "age_group": "18-24学生",
+    "occupation": "白领",
+    "preferences": [
+      "爱情"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00986",
+    "age_group": "18-24学生",
+    "occupation": "白领",
+    "preferences": [
+      "悬疑",
+      "历史"
+    ],
+    "is_ai_user": false,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00817",
+    "age_group": "25-34白领",
+    "occupation": "创业者",
+    "preferences": [
+      "科幻"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00087",
+    "age_group": "35-44专业人士",
+    "occupation": "家庭主妇",
+    "preferences": [
+      "悬疑"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "低"
+  },
+  {
+    "user_id": "U00433",
+    "age_group": "18-24学生",
+    "occupation": "白领",
+    "preferences": [
+      "爱情",
+      "都市",
+      "科幻"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00185",
+    "age_group": null,
+    "occupation": null,
+    "preferences": [
+      "历史",
+      "科幻",
+      "喜剧"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "低"
+  },
+  {
+    "user_id": "U00979",
+    "age_group": null,
+    "occupation": null,
+    "preferences": [
+      "科幻",
+      "动画",
+      "都市"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00535",
+    "age_group": "25-34白领",
+    "occupation": "创业者",
+    "preferences": [
+      "喜剧",
+      "都市",
+      "爱情"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "低"
+  },
+  {
+    "user_id": "U00295",
+    "age_group": "35-44专业人士",
+    "occupation": "家庭主妇",
+    "preferences": [
+      "科幻",
+      "动画"
+    ],
+    "is_ai_user": false,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00893",
+    "age_group": "25-34白领",
+    "occupation": "创业者",
+    "preferences": [
+      "动画",
+      "历史",
+      "爱情"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00426",
+    "age_group": "25-34白领",
+    "occupation": "创业者",
+    "preferences": [
+      "爱情",
+      "历史",
+      "动画"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00714",
+    "age_group": "25-34白领",
+    "occupation": "创业者",
+    "preferences": [
+      "喜剧",
+      "都市",
+      "动画"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "低"
+  },
+  {
+    "user_id": "U00261",
+    "age_group": "18-24学生",
+    "occupation": "白领",
+    "preferences": [
+      "爱情"
+    ],
+    "is_ai_user": false,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00238",
+    "age_group": "25-34白领",
+    "occupation": "创业者",
+    "preferences": [
+      "喜剧"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00560",
+    "age_group": null,
+    "occupation": null,
+    "preferences": [
+      "喜剧",
+      "科幻"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00584",
+    "age_group": null,
+    "occupation": null,
+    "preferences": [
+      "爱情",
+      "科幻",
+      "历史"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00446",
+    "age_group": "35-44专业人士",
+    "occupation": "家庭主妇",
+    "preferences": [
+      "悬疑",
+      "喜剧"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00868",
+    "age_group": "25-34白领",
+    "occupation": "创业者",
+    "preferences": [
+      "都市",
+      "科幻",
+      "动画"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00801",
+    "age_group": "35-44专业人士",
+    "occupation": "家庭主妇",
+    "preferences": [
+      "爱情",
+      "动画"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00600",
+    "age_group": "25-34白领",
+    "occupation": "创业者",
+    "preferences": [
+      "动画",
+      "爱情"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "高"
+  },
+  {
+    "user_id": "U00850",
+    "age_group": "18-24学生",
+    "occupation": "白领",
+    "preferences": [
+      "都市"
+    ],
+    "is_ai_user": false,
+    "engagement_level": "低"
+  },
+  {
+    "user_id": "U00266",
+    "age_group": "25-34白领",
+    "occupation": "创业者",
+    "preferences": [
+      "爱情"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "低"
+  },
+  {
+    "user_id": "U00996",
+    "age_group": "18-24学生",
+    "occupation": "白领",
+    "preferences": [
+      "爱情"
+    ],
+    "is_ai_user": false,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00530",
+    "age_group": "18-24学生",
+    "occupation": "白领",
+    "preferences": [
+      "都市",
+      "动画",
+      "爱情"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "高"
+  },
+  {
+    "user_id": "U00056",
+    "age_group": "35-44专业人士",
+    "occupation": "家庭主妇",
+    "preferences": [
+      "历史",
+      "悬疑"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "高"
+  },
+  {
+    "user_id": "U00121",
+    "age_group": "35-44专业人士",
+    "occupation": "家庭主妇",
+    "preferences": [
+      "科幻",
+      "历史"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00216",
+    "age_group": "18-24学生",
+    "occupation": "白领",
+    "preferences": [
+      "爱情"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00026",
+    "age_group": "25-34白领",
+    "occupation": "创业者",
+    "preferences": [
+      "悬疑",
+      "喜剧",
+      "科幻"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00073",
+    "age_group": "18-24学生",
+    "occupation": "白领",
+    "preferences": [
+      "科幻",
+      "历史"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00045",
+    "age_group": "35-44专业人士",
+    "occupation": "家庭主妇",
+    "preferences": [
+      "动画"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00248",
+    "age_group": "25-34白领",
+    "occupation": "创业者",
+    "preferences": [
+      "喜剧",
+      "科幻"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "高"
+  },
+  {
+    "user_id": "U00722",
+    "age_group": null,
+    "occupation": null,
+    "preferences": [
+      "历史",
+      "喜剧"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00282",
+    "age_group": "18-24学生",
+    "occupation": "白领",
+    "preferences": [
+      "爱情",
+      "悬疑"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00894",
+    "age_group": "25-34白领",
+    "occupation": "创业者",
+    "preferences": [
+      "科幻"
+    ],
+    "is_ai_user": false,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00915",
+    "age_group": "18-24学生",
+    "occupation": "白领",
+    "preferences": [
+      "悬疑",
+      "爱情",
+      "动画"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00811",
+    "age_group": "25-34白领",
+    "occupation": "创业者",
+    "preferences": [
+      "科幻",
+      "悬疑"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00245",
+    "age_group": "25-34白领",
+    "occupation": "创业者",
+    "preferences": [
+      "历史"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00823",
+    "age_group": "35-44专业人士",
+    "occupation": "家庭主妇",
+    "preferences": [
+      "科幻"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "低"
+  },
+  {
+    "user_id": "U00322",
+    "age_group": "25-34白领",
+    "occupation": "创业者",
+    "preferences": [
+      "科幻",
+      "都市",
+      "历史"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "低"
+  },
+  {
+    "user_id": "U00644",
+    "age_group": "18-24学生",
+    "occupation": "白领",
+    "preferences": [
+      "历史",
+      "都市"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00159",
+    "age_group": null,
+    "occupation": null,
+    "preferences": [
+      "喜剧",
+      "爱情",
+      "悬疑"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "高"
+  },
+  {
+    "user_id": "U00978",
+    "age_group": "35-44专业人士",
+    "occupation": "家庭主妇",
+    "preferences": [
+      "历史"
+    ],
+    "is_ai_user": false,
+    "engagement_level": "低"
+  },
+  {
+    "user_id": "U00430",
+    "age_group": "25-34白领",
+    "occupation": "创业者",
+    "preferences": [
+      "动画",
+      "科幻"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00942",
+    "age_group": "25-34白领",
+    "occupation": "创业者",
+    "preferences": [
+      "历史",
+      "喜剧"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00463",
+    "age_group": "35-44专业人士",
+    "occupation": "家庭主妇",
+    "preferences": [
+      "科幻",
+      "喜剧",
+      "爱情"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "低"
+  },
+  {
+    "user_id": "U00310",
+    "age_group": "18-24学生",
+    "occupation": "白领",
+    "preferences": [
+      "喜剧",
+      "科幻",
+      "爱情"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "高"
+  },
+  {
+    "user_id": "U00698",
+    "age_group": "35-44专业人士",
+    "occupation": "家庭主妇",
+    "preferences": [
+      "动画"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "高"
+  },
+  {
+    "user_id": "U00061",
+    "age_group": null,
+    "occupation": null,
+    "preferences": [
+      "科幻",
+      "历史",
+      "动画"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "低"
+  },
+  {
+    "user_id": "U00885",
+    "age_group": "25-34白领",
+    "occupation": "创业者",
+    "preferences": [
+      "都市",
+      "悬疑",
+      "动画"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00596",
+    "age_group": null,
+    "occupation": null,
+    "preferences": [
+      "都市",
+      "悬疑",
+      "动画"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00768",
+    "age_group": null,
+    "occupation": null,
+    "preferences": [
+      "科幻",
+      "历史"
+    ],
+    "is_ai_user": false,
+    "engagement_level": "高"
+  },
+  {
+    "user_id": "U00650",
+    "age_group": "25-34白领",
+    "occupation": "创业者",
+    "preferences": [
+      "历史",
+      "科幻"
+    ],
+    "is_ai_user": false,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00651",
+    "age_group": "35-44专业人士",
+    "occupation": "家庭主妇",
+    "preferences": [
+      "历史",
+      "喜剧",
+      "科幻"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "低"
+  },
+  {
+    "user_id": "U00866",
+    "age_group": "25-34白领",
+    "occupation": "创业者",
+    "preferences": [
+      "喜剧",
+      "科幻",
+      "历史"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00669",
+    "age_group": "35-44专业人士",
+    "occupation": "家庭主妇",
+    "preferences": [
+      "动画"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "高"
+  },
+  {
+    "user_id": "U00299",
+    "age_group": "25-34白领",
+    "occupation": "创业者",
+    "preferences": [
+      "动画",
+      "悬疑",
+      "历史"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "低"
+  },
+  {
+    "user_id": "U00690",
+    "age_group": "35-44专业人士",
+    "occupation": "家庭主妇",
+    "preferences": [
+      "动画"
+    ],
+    "is_ai_user": false,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00315",
+    "age_group": "18-24学生",
+    "occupation": "白领",
+    "preferences": [
+      "都市"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "低"
+  },
+  {
+    "user_id": "U00311",
+    "age_group": "35-44专业人士",
+    "occupation": "家庭主妇",
+    "preferences": [
+      "爱情",
+      "科幻"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "高"
+  },
+  {
+    "user_id": "U00362",
+    "age_group": null,
+    "occupation": null,
+    "preferences": [
+      "都市",
+      "科幻"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "低"
+  },
+  {
+    "user_id": "U00480",
+    "age_group": "35-44专业人士",
+    "occupation": "家庭主妇",
+    "preferences": [
+      "科幻"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "高"
+  },
+  {
+    "user_id": "U00111",
+    "age_group": null,
+    "occupation": null,
+    "preferences": [
+      "爱情"
+    ],
+    "is_ai_user": false,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00990",
+    "age_group": "18-24学生",
+    "occupation": "白领",
+    "preferences": [
+      "悬疑"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00487",
+    "age_group": "25-34白领",
+    "occupation": "创业者",
+    "preferences": [
+      "历史",
+      "动画"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "高"
+  },
+  {
+    "user_id": "U00364",
+    "age_group": "25-34白领",
+    "occupation": "创业者",
+    "preferences": [
+      "喜剧",
+      "科幻"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "高"
+  },
+  {
+    "user_id": "U00255",
+    "age_group": "35-44专业人士",
+    "occupation": "家庭主妇",
+    "preferences": [
+      "悬疑",
+      "都市"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00260",
+    "age_group": null,
+    "occupation": null,
+    "preferences": [
+      "爱情"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "低"
+  },
+  {
+    "user_id": "U00803",
+    "age_group": null,
+    "occupation": null,
+    "preferences": [
+      "悬疑",
+      "科幻"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00678",
+    "age_group": null,
+    "occupation": null,
+    "preferences": [
+      "爱情"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00495",
+    "age_group": "25-34白领",
+    "occupation": "创业者",
+    "preferences": [
+      "动画",
+      "历史"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00671",
+    "age_group": "18-24学生",
+    "occupation": "白领",
+    "preferences": [
+      "历史",
+      "喜剧"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00378",
+    "age_group": null,
+    "occupation": null,
+    "preferences": [
+      "喜剧"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "低"
+  },
+  {
+    "user_id": "U00527",
+    "age_group": "18-24学生",
+    "occupation": "白领",
+    "preferences": [
+      "爱情",
+      "科幻",
+      "喜剧"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00846",
+    "age_group": "25-34白领",
+    "occupation": "创业者",
+    "preferences": [
+      "喜剧",
+      "历史"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00138",
+    "age_group": "18-24学生",
+    "occupation": "白领",
+    "preferences": [
+      "动画"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "低"
+  },
+  {
+    "user_id": "U00356",
+    "age_group": null,
+    "occupation": null,
+    "preferences": [
+      "科幻"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00366",
+    "age_group": "35-44专业人士",
+    "occupation": "家庭主妇",
+    "preferences": [
+      "动画"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00943",
+    "age_group": null,
+    "occupation": null,
+    "preferences": [
+      "悬疑",
+      "喜剧"
+    ],
+    "is_ai_user": false,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00750",
+    "age_group": "25-34白领",
+    "occupation": "创业者",
+    "preferences": [
+      "悬疑",
+      "科幻",
+      "动画"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "低"
+  },
+  {
+    "user_id": "U00949",
+    "age_group": "35-44专业人士",
+    "occupation": "家庭主妇",
+    "preferences": [
+      "喜剧"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00830",
+    "age_group": null,
+    "occupation": null,
+    "preferences": [
+      "爱情",
+      "动画"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "低"
+  },
+  {
+    "user_id": "U00657",
+    "age_group": "18-24学生",
+    "occupation": "白领",
+    "preferences": [
+      "历史",
+      "动画",
+      "爱情"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00200",
+    "age_group": "18-24学生",
+    "occupation": "白领",
+    "preferences": [
+      "爱情",
+      "悬疑",
+      "动画"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00214",
+    "age_group": "25-34白领",
+    "occupation": "创业者",
+    "preferences": [
+      "悬疑",
+      "科幻",
+      "喜剧"
+    ],
+    "is_ai_user": false,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00409",
+    "age_group": "25-34白领",
+    "occupation": "创业者",
+    "preferences": [
+      "都市",
+      "历史",
+      "动画"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "低"
+  },
+  {
+    "user_id": "U00333",
+    "age_group": "18-24学生",
+    "occupation": "白领",
+    "preferences": [
+      "动画"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00209",
+    "age_group": "25-34白领",
+    "occupation": "创业者",
+    "preferences": [
+      "科幻",
+      "喜剧"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "高"
+  },
+  {
+    "user_id": "U00614",
+    "age_group": null,
+    "occupation": null,
+    "preferences": [
+      "爱情",
+      "动画",
+      "悬疑"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "低"
+  },
+  {
+    "user_id": "U00079",
+    "age_group": "18-24学生",
+    "occupation": "白领",
+    "preferences": [
+      "都市",
+      "动画"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "高"
+  },
+  {
+    "user_id": "U00030",
+    "age_group": null,
+    "occupation": null,
+    "preferences": [
+      "科幻",
+      "动画"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00536",
+    "age_group": "18-24学生",
+    "occupation": "白领",
+    "preferences": [
+      "悬疑",
+      "历史"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00696",
+    "age_group": "18-24学生",
+    "occupation": "白领",
+    "preferences": [
+      "历史"
+    ],
+    "is_ai_user": false,
+    "engagement_level": "低"
+  },
+  {
+    "user_id": "U00558",
+    "age_group": "18-24学生",
+    "occupation": "白领",
+    "preferences": [
+      "都市"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "低"
+  },
+  {
+    "user_id": "U00837",
+    "age_group": null,
+    "occupation": null,
+    "preferences": [
+      "爱情"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "高"
+  },
+  {
+    "user_id": "U00597",
+    "age_group": null,
+    "occupation": null,
+    "preferences": [
+      "都市"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00166",
+    "age_group": "25-34白领",
+    "occupation": "创业者",
+    "preferences": [
+      "科幻",
+      "历史",
+      "喜剧"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "低"
+  },
+  {
+    "user_id": "U00919",
+    "age_group": "35-44专业人士",
+    "occupation": "家庭主妇",
+    "preferences": [
+      "历史",
+      "科幻",
+      "动画"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00496",
+    "age_group": "25-34白领",
+    "occupation": "创业者",
+    "preferences": [
+      "都市",
+      "科幻",
+      "爱情"
+    ],
+    "is_ai_user": false,
+    "engagement_level": "低"
+  },
+  {
+    "user_id": "U00825",
+    "age_group": null,
+    "occupation": null,
+    "preferences": [
+      "爱情"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00066",
+    "age_group": "18-24学生",
+    "occupation": "白领",
+    "preferences": [
+      "都市"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00142",
+    "age_group": "25-34白领",
+    "occupation": "创业者",
+    "preferences": [
+      "动画",
+      "爱情"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "高"
+  },
+  {
+    "user_id": "U00926",
+    "age_group": "18-24学生",
+    "occupation": "白领",
+    "preferences": [
+      "历史",
+      "爱情"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00828",
+    "age_group": null,
+    "occupation": null,
+    "preferences": [
+      "喜剧",
+      "都市"
+    ],
+    "is_ai_user": false,
+    "engagement_level": "低"
+  },
+  {
+    "user_id": "U00656",
+    "age_group": "35-44专业人士",
+    "occupation": "家庭主妇",
+    "preferences": [
+      "爱情",
+      "历史"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00332",
+    "age_group": "35-44专业人士",
+    "occupation": "家庭主妇",
+    "preferences": [
+      "爱情"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00665",
+    "age_group": "35-44专业人士",
+    "occupation": "家庭主妇",
+    "preferences": [
+      "喜剧",
+      "悬疑",
+      "历史"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00250",
+    "age_group": "18-24学生",
+    "occupation": "白领",
+    "preferences": [
+      "科幻"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "高"
+  },
+  {
+    "user_id": "U00908",
+    "age_group": "35-44专业人士",
+    "occupation": "家庭主妇",
+    "preferences": [
+      "喜剧",
+      "科幻"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00709",
+    "age_group": "35-44专业人士",
+    "occupation": "家庭主妇",
+    "preferences": [
+      "都市",
+      "爱情",
+      "动画"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "低"
+  },
+  {
+    "user_id": "U00306",
+    "age_group": null,
+    "occupation": null,
+    "preferences": [
+      "喜剧",
+      "动画",
+      "爱情"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "高"
+  },
+  {
+    "user_id": "U00735",
+    "age_group": null,
+    "occupation": null,
+    "preferences": [
+      "爱情",
+      "历史",
+      "都市"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "低"
+  },
+  {
+    "user_id": "U00976",
+    "age_group": "18-24学生",
+    "occupation": "白领",
+    "preferences": [
+      "都市",
+      "动画",
+      "喜剧"
+    ],
+    "is_ai_user": false,
+    "engagement_level": "低"
+  },
+  {
+    "user_id": "U00050",
+    "age_group": "25-34白领",
+    "occupation": "创业者",
+    "preferences": [
+      "喜剧"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00897",
+    "age_group": "18-24学生",
+    "occupation": "白领",
+    "preferences": [
+      "悬疑",
+      "都市",
+      "动画"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "高"
+  },
+  {
+    "user_id": "U00003",
+    "age_group": "35-44专业人士",
+    "occupation": "家庭主妇",
+    "preferences": [
+      "喜剧"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00545",
+    "age_group": null,
+    "occupation": null,
+    "preferences": [
+      "科幻"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "低"
+  },
+  {
+    "user_id": "U00351",
+    "age_group": "18-24学生",
+    "occupation": "白领",
+    "preferences": [
+      "历史",
+      "爱情"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00905",
+    "age_group": "25-34白领",
+    "occupation": "创业者",
+    "preferences": [
+      "喜剧",
+      "都市"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00537",
+    "age_group": "25-34白领",
+    "occupation": "创业者",
+    "preferences": [
+      "动画",
+      "喜剧",
+      "爱情"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00345",
+    "age_group": "25-34白领",
+    "occupation": "创业者",
+    "preferences": [
+      "爱情",
+      "科幻"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "低"
+  },
+  {
+    "user_id": "U00995",
+    "age_group": "18-24学生",
+    "occupation": "白领",
+    "preferences": [
+      "都市",
+      "历史"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00482",
+    "age_group": "35-44专业人士",
+    "occupation": "家庭主妇",
+    "preferences": [
+      "喜剧",
+      "科幻"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "高"
+  },
+  {
+    "user_id": "U00576",
+    "age_group": "35-44专业人士",
+    "occupation": "家庭主妇",
+    "preferences": [
+      "都市"
+    ],
+    "is_ai_user": false,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00034",
+    "age_group": "25-34白领",
+    "occupation": "创业者",
+    "preferences": [
+      "都市"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "低"
+  },
+  {
+    "user_id": "U00032",
+    "age_group": "25-34白领",
+    "occupation": "创业者",
+    "preferences": [
+      "科幻",
+      "喜剧"
+    ],
+    "is_ai_user": false,
+    "engagement_level": "高"
+  },
+  {
+    "user_id": "U00232",
+    "age_group": null,
+    "occupation": null,
+    "preferences": [
+      "悬疑",
+      "喜剧"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00964",
+    "age_group": "35-44专业人士",
+    "occupation": "家庭主妇",
+    "preferences": [
+      "悬疑",
+      "爱情",
+      "都市"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "高"
+  },
+  {
+    "user_id": "U00193",
+    "age_group": "35-44专业人士",
+    "occupation": "家庭主妇",
+    "preferences": [
+      "悬疑",
+      "历史",
+      "都市"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "低"
+  },
+  {
+    "user_id": "U00334",
+    "age_group": null,
+    "occupation": null,
+    "preferences": [
+      "动画",
+      "都市",
+      "爱情"
+    ],
+    "is_ai_user": false,
+    "engagement_level": "低"
+  },
+  {
+    "user_id": "U00004",
+    "age_group": "25-34白领",
+    "occupation": "创业者",
+    "preferences": [
+      "喜剧",
+      "都市"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00205",
+    "age_group": "35-44专业人士",
+    "occupation": "家庭主妇",
+    "preferences": [
+      "悬疑",
+      "历史"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00515",
+    "age_group": null,
+    "occupation": null,
+    "preferences": [
+      "动画",
+      "爱情"
+    ],
+    "is_ai_user": false,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00800",
+    "age_group": null,
+    "occupation": null,
+    "preferences": [
+      "喜剧",
+      "都市",
+      "历史"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00307",
+    "age_group": null,
+    "occupation": null,
+    "preferences": [
+      "都市",
+      "历史"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "低"
+  },
+  {
+    "user_id": "U00110",
+    "age_group": "25-34白领",
+    "occupation": "创业者",
+    "preferences": [
+      "爱情",
+      "悬疑",
+      "科幻"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00431",
+    "age_group": "35-44专业人士",
+    "occupation": "家庭主妇",
+    "preferences": [
+      "悬疑",
+      "都市",
+      "动画"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00078",
+    "age_group": "25-34白领",
+    "occupation": "创业者",
+    "preferences": [
+      "爱情",
+      "科幻",
+      "历史"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00085",
+    "age_group": null,
+    "occupation": null,
+    "preferences": [
+      "喜剧",
+      "历史",
+      "悬疑"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00287",
+    "age_group": null,
+    "occupation": null,
+    "preferences": [
+      "爱情",
+      "动画",
+      "喜剧"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00083",
+    "age_group": null,
+    "occupation": null,
+    "preferences": [
+      "历史",
+      "科幻"
+    ],
+    "is_ai_user": false,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00992",
+    "age_group": "35-44专业人士",
+    "occupation": "家庭主妇",
+    "preferences": [
+      "历史",
+      "科幻"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00790",
+    "age_group": null,
+    "occupation": null,
+    "preferences": [
+      "喜剧",
+      "动画",
+      "爱情"
+    ],
+    "is_ai_user": false,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00895",
+    "age_group": "35-44专业人士",
+    "occupation": "家庭主妇",
+    "preferences": [
+      "动画"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "低"
+  },
+  {
+    "user_id": "U00399",
+    "age_group": "25-34白领",
+    "occupation": "创业者",
+    "preferences": [
+      "爱情",
+      "都市",
+      "动画"
+    ],
+    "is_ai_user": false,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00324",
+    "age_group": "25-34白领",
+    "occupation": "创业者",
+    "preferences": [
+      "动画",
+      "喜剧",
+      "都市"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "高"
+  },
+  {
+    "user_id": "U00520",
+    "age_group": null,
+    "occupation": null,
+    "preferences": [
+      "动画"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00917",
+    "age_group": "25-34白领",
+    "occupation": "创业者",
+    "preferences": [
+      "都市",
+      "悬疑"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "低"
+  },
+  {
+    "user_id": "U00923",
+    "age_group": "35-44专业人士",
+    "occupation": "家庭主妇",
+    "preferences": [
+      "科幻"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "高"
+  },
+  {
+    "user_id": "U00006",
+    "age_group": null,
+    "occupation": null,
+    "preferences": [
+      "动画"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "低"
+  },
+  {
+    "user_id": "U00732",
+    "age_group": "35-44专业人士",
+    "occupation": "家庭主妇",
+    "preferences": [
+      "爱情",
+      "科幻",
+      "动画"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "低"
+  },
+  {
+    "user_id": "U00466",
+    "age_group": "18-24学生",
+    "occupation": "白领",
+    "preferences": [
+      "动画",
+      "爱情"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00098",
+    "age_group": "25-34白领",
+    "occupation": "创业者",
+    "preferences": [
+      "悬疑",
+      "爱情",
+      "动画"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00267",
+    "age_group": "25-34白领",
+    "occupation": "创业者",
+    "preferences": [
+      "动画",
+      "悬疑",
+      "都市"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "低"
+  },
+  {
+    "user_id": "U00358",
+    "age_group": null,
+    "occupation": null,
+    "preferences": [
+      "历史",
+      "都市",
+      "悬疑"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00869",
+    "age_group": "25-34白领",
+    "occupation": "创业者",
+    "preferences": [
+      "都市",
+      "科幻",
+      "悬疑"
+    ],
+    "is_ai_user": false,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00799",
+    "age_group": null,
+    "occupation": null,
+    "preferences": [
+      "动画"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "低"
+  },
+  {
+    "user_id": "U00381",
+    "age_group": "25-34白领",
+    "occupation": "创业者",
+    "preferences": [
+      "爱情",
+      "喜剧"
+    ],
+    "is_ai_user": false,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00632",
+    "age_group": "18-24学生",
+    "occupation": "白领",
+    "preferences": [
+      "悬疑",
+      "历史",
+      "都市"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00382",
+    "age_group": "18-24学生",
+    "occupation": "白领",
+    "preferences": [
+      "科幻"
+    ],
+    "is_ai_user": false,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00491",
+    "age_group": "18-24学生",
+    "occupation": "白领",
+    "preferences": [
+      "悬疑"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "低"
+  },
+  {
+    "user_id": "U00119",
+    "age_group": null,
+    "occupation": null,
+    "preferences": [
+      "动画"
+    ],
+    "is_ai_user": false,
+    "engagement_level": "低"
+  },
+  {
+    "user_id": "U00901",
+    "age_group": "35-44专业人士",
+    "occupation": "家庭主妇",
+    "preferences": [
+      "悬疑",
+      "喜剧"
+    ],
+    "is_ai_user": false,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00251",
+    "age_group": "18-24学生",
+    "occupation": "白领",
+    "preferences": [
+      "喜剧",
+      "爱情",
+      "都市"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "高"
+  },
+  {
+    "user_id": "U00524",
+    "age_group": "25-34白领",
+    "occupation": "创业者",
+    "preferences": [
+      "爱情",
+      "都市",
+      "历史"
+    ],
+    "is_ai_user": false,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00010",
+    "age_group": "35-44专业人士",
+    "occupation": "家庭主妇",
+    "preferences": [
+      "喜剧",
+      "动画",
+      "历史"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00197",
+    "age_group": null,
+    "occupation": null,
+    "preferences": [
+      "动画"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "低"
+  },
+  {
+    "user_id": "U00604",
+    "age_group": "35-44专业人士",
+    "occupation": "家庭主妇",
+    "preferences": [
+      "历史"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00082",
+    "age_group": "35-44专业人士",
+    "occupation": "家庭主妇",
+    "preferences": [
+      "动画"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "低"
+  },
+  {
+    "user_id": "U00784",
+    "age_group": "35-44专业人士",
+    "occupation": "家庭主妇",
+    "preferences": [
+      "动画",
+      "喜剧"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00588",
+    "age_group": "18-24学生",
+    "occupation": "白领",
+    "preferences": [
+      "悬疑",
+      "科幻"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00798",
+    "age_group": "25-34白领",
+    "occupation": "创业者",
+    "preferences": [
+      "历史"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "高"
+  },
+  {
+    "user_id": "U00240",
+    "age_group": "35-44专业人士",
+    "occupation": "家庭主妇",
+    "preferences": [
+      "悬疑"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00291",
+    "age_group": null,
+    "occupation": null,
+    "preferences": [
+      "喜剧",
+      "爱情"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "高"
+  },
+  {
+    "user_id": "U00212",
+    "age_group": "25-34白领",
+    "occupation": "创业者",
+    "preferences": [
+      "爱情",
+      "历史",
+      "动画"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "低"
+  },
+  {
+    "user_id": "U00718",
+    "age_group": "35-44专业人士",
+    "occupation": "家庭主妇",
+    "preferences": [
+      "喜剧"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "低"
+  },
+  {
+    "user_id": "U00360",
+    "age_group": "35-44专业人士",
+    "occupation": "家庭主妇",
+    "preferences": [
+      "历史",
+      "爱情",
+      "喜剧"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "高"
+  },
+  {
+    "user_id": "U00450",
+    "age_group": "18-24学生",
+    "occupation": "白领",
+    "preferences": [
+      "喜剧",
+      "科幻",
+      "动画"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00228",
+    "age_group": "25-34白领",
+    "occupation": "创业者",
+    "preferences": [
+      "都市",
+      "科幻"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "高"
+  },
+  {
+    "user_id": "U00951",
+    "age_group": null,
+    "occupation": null,
+    "preferences": [
+      "爱情",
+      "科幻",
+      "历史"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "低"
+  },
+  {
+    "user_id": "U00947",
+    "age_group": null,
+    "occupation": null,
+    "preferences": [
+      "动画",
+      "历史",
+      "悬疑"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00797",
+    "age_group": null,
+    "occupation": null,
+    "preferences": [
+      "动画",
+      "历史",
+      "科幻"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00502",
+    "age_group": "25-34白领",
+    "occupation": "创业者",
+    "preferences": [
+      "历史"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "低"
+  },
+  {
+    "user_id": "U00465",
+    "age_group": "35-44专业人士",
+    "occupation": "家庭主妇",
+    "preferences": [
+      "历史",
+      "都市"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00363",
+    "age_group": null,
+    "occupation": null,
+    "preferences": [
+      "动画",
+      "都市",
+      "悬疑"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  },
+  {
+    "user_id": "U00469",
+    "age_group": "35-44专业人士",
+    "occupation": "家庭主妇",
+    "preferences": [
+      "悬疑",
+      "历史",
+      "喜剧"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "低"
+  },
+  {
+    "user_id": "U00936",
+    "age_group": "25-34白领",
+    "occupation": "创业者",
+    "preferences": [
+      "喜剧",
+      "爱情"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "低"
+  },
+  {
+    "user_id": "U00429",
+    "age_group": null,
+    "occupation": null,
+    "preferences": [
+      "悬疑",
+      "动画",
+      "历史"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "低"
+  },
+  {
+    "user_id": "U00008",
+    "age_group": "35-44专业人士",
+    "occupation": "家庭主妇",
+    "preferences": [
+      "爱情"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "低"
+  },
+  {
+    "user_id": "U00156",
+    "age_group": "25-34白领",
+    "occupation": "创业者",
+    "preferences": [
+      "爱情",
+      "喜剧",
+      "历史"
+    ],
+    "is_ai_user": true,
+    "engagement_level": "中"
+  }
+]

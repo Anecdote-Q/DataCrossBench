@@ -1,0 +1,1485 @@
+[
+  {
+    "user_id": 1,
+    "platform": "B站小程序",
+    "avg_daily_use_minutes": 95,
+    "preferred_genres": [
+      "爱情"
+    ],
+    "last_activity_date": "2023-03-08",
+    "device_info": {
+      "os": "iOS",
+      "app_version": "v3.1.17",
+      "location": "通辽市"
+    }
+  },
+  {
+    "user_id": 2,
+    "platform": "微信小程序",
+    "avg_daily_use_minutes": 84,
+    "preferred_genres": [
+      "历史"
+    ],
+    "last_activity_date": "2024-12-22",
+    "device_info": {
+      "os": "Android",
+      "app_version": "v2.7.4",
+      "location": "玲市"
+    }
+  },
+  {
+    "user_id": 3,
+    "platform": "B站小程序",
+    "avg_daily_use_minutes": 141,
+    "preferred_genres": [
+      "悬疑",
+      "历史"
+    ],
+    "last_activity_date": "2025-12-20",
+    "device_info": {
+      "os": "iOS",
+      "app_version": "v3.2.18",
+      "location": "海门县"
+    }
+  },
+  {
+    "user_id": 4,
+    "platform": "抖音",
+    "avg_daily_use_minutes": 159,
+    "preferred_genres": [
+      "剧情",
+      "科幻"
+    ],
+    "last_activity_date": "2026-04-01",
+    "device_info": {
+      "os": "Android",
+      "app_version": "v3.0.11",
+      "location": "鹏市"
+    }
+  },
+  {
+    "user_id": 5,
+    "platform": "B站小程序",
+    "avg_daily_use_minutes": 108,
+    "preferred_genres": [
+      "科幻"
+    ],
+    "last_activity_date": "2027-04-01",
+    "device_info": {
+      "os": "iOS",
+      "app_version": "v1.3.9",
+      "location": "阜新县"
+    }
+  },
+  {
+    "user_id": 6,
+    "platform": "抖音",
+    "avg_daily_use_minutes": 147,
+    "preferred_genres": [
+      "科幻",
+      "剧情"
+    ],
+    "last_activity_date": "2028-02-05",
+    "device_info": {
+      "os": "iOS",
+      "app_version": "v2.1.0",
+      "location": "南京市"
+    }
+  },
+  {
+    "user_id": 7,
+    "platform": "快手",
+    "avg_daily_use_minutes": 95,
+    "preferred_genres": [
+      "科幻"
+    ],
+    "last_activity_date": "2029-01-23",
+    "device_info": {
+      "os": "Windows",
+      "app_version": "v1.8.9",
+      "location": "健县"
+    }
+  },
+  {
+    "user_id": 8,
+    "platform": "抖音",
+    "avg_daily_use_minutes": 122,
+    "preferred_genres": [
+      "动作"
+    ],
+    "last_activity_date": "2030-03-26",
+    "device_info": {
+      "os": "Android",
+      "app_version": "v3.3.13",
+      "location": "北京县"
+    }
+  },
+  {
+    "user_id": 9,
+    "platform": "B站小程序",
+    "avg_daily_use_minutes": 144,
+    "preferred_genres": [
+      "历史",
+      "剧情",
+      "喜剧"
+    ],
+    "last_activity_date": "2031-08-30",
+    "device_info": {
+      "os": "Windows",
+      "app_version": "v2.8.17",
+      "location": "旭市"
+    }
+  },
+  {
+    "user_id": 10,
+    "platform": "快手",
+    "avg_daily_use_minutes": 84,
+    "preferred_genres": [
+      "剧情"
+    ],
+    "last_activity_date": "2032-03-15",
+    "device_info": {
+      "os": "iOS",
+      "app_version": "v1.0.13",
+      "location": "武汉市"
+    }
+  },
+  {
+    "user_id": 11,
+    "platform": "B站小程序",
+    "avg_daily_use_minutes": 95,
+    "preferred_genres": [
+      "喜剧",
+      "动作"
+    ],
+    "last_activity_date": "2033-04-08",
+    "device_info": {
+      "os": "Windows",
+      "app_version": "v1.7.18",
+      "location": "辛集县"
+    }
+  },
+  {
+    "user_id": 12,
+    "platform": "微信小程序",
+    "avg_daily_use_minutes": 88,
+    "preferred_genres": [
+      "科幻"
+    ],
+    "last_activity_date": "2034-04-29",
+    "device_info": {
+      "os": "Android",
+      "app_version": "v3.0.6",
+      "location": "燕县"
+    }
+  },
+  {
+    "user_id": 13,
+    "platform": "抖音",
+    "avg_daily_use_minutes": 118,
+    "preferred_genres": [
+      "爱情"
+    ],
+    "last_activity_date": "2035-03-23",
+    "device_info": {
+      "os": "iOS",
+      "app_version": "v1.4.18",
+      "location": "沈阳县"
+    }
+  },
+  {
+    "user_id": 14,
+    "platform": "微信小程序",
+    "avg_daily_use_minutes": 133,
+    "preferred_genres": [
+      "历史"
+    ],
+    "last_activity_date": "2036-03-01",
+    "device_info": {
+      "os": "Windows",
+      "app_version": "v1.8.4",
+      "location": "文县"
+    }
+  },
+  {
+    "user_id": 15,
+    "platform": "微信小程序",
+    "avg_daily_use_minutes": 71,
+    "preferred_genres": [
+      "历史",
+      "喜剧"
+    ],
+    "last_activity_date": "2037-10-28",
+    "device_info": {
+      "os": "iOS",
+      "app_version": "v1.5.17",
+      "location": "巢湖县"
+    }
+  },
+  {
+    "user_id": 16,
+    "platform": "微信小程序",
+    "avg_daily_use_minutes": 92,
+    "preferred_genres": [
+      "剧情"
+    ],
+    "last_activity_date": "2038-06-02",
+    "device_info": {
+      "os": "Android",
+      "app_version": "v1.9.17",
+      "location": "婷婷县"
+    }
+  },
+  {
+    "user_id": 17,
+    "platform": "微信小程序",
+    "avg_daily_use_minutes": 117,
+    "preferred_genres": [
+      "科幻",
+      "悬疑",
+      "爱情"
+    ],
+    "last_activity_date": "2039-07-15",
+    "device_info": {
+      "os": "Windows",
+      "app_version": "v1.3.13",
+      "location": "昆明市"
+    }
+  },
+  {
+    "user_id": 18,
+    "platform": "B站小程序",
+    "avg_daily_use_minutes": 134,
+    "preferred_genres": [
+      "喜剧",
+      "科幻",
+      "动作"
+    ],
+    "last_activity_date": "2040-01-09",
+    "device_info": {
+      "os": "Android",
+      "app_version": "v2.9.15",
+      "location": "燕市"
+    }
+  },
+  {
+    "user_id": 19,
+    "platform": "快手",
+    "avg_daily_use_minutes": 144,
+    "preferred_genres": [
+      "动作",
+      "悬疑",
+      "喜剧"
+    ],
+    "last_activity_date": "2041-03-15",
+    "device_info": {
+      "os": "Windows",
+      "app_version": "v1.0.4",
+      "location": "雪县"
+    }
+  },
+  {
+    "user_id": 20,
+    "platform": "B站小程序",
+    "avg_daily_use_minutes": 116,
+    "preferred_genres": [
+      "悬疑",
+      "科幻"
+    ],
+    "last_activity_date": "2042-05-28",
+    "device_info": {
+      "os": "Android",
+      "app_version": "v2.9.11",
+      "location": "宜都县"
+    }
+  },
+  {
+    "user_id": 21,
+    "platform": "抖音",
+    "avg_daily_use_minutes": 121,
+    "preferred_genres": [
+      "历史",
+      "动作",
+      "科幻"
+    ],
+    "last_activity_date": "2043-03-16",
+    "device_info": {
+      "os": "Windows",
+      "app_version": "v1.0.13",
+      "location": "勇市"
+    }
+  },
+  {
+    "user_id": 22,
+    "platform": "抖音",
+    "avg_daily_use_minutes": 102,
+    "preferred_genres": [
+      "爱情",
+      "科幻",
+      "历史"
+    ],
+    "last_activity_date": "2044-03-30",
+    "device_info": {
+      "os": "iOS",
+      "app_version": "v3.9.6",
+      "location": "淮安市"
+    }
+  },
+  {
+    "user_id": 23,
+    "platform": "微信小程序",
+    "avg_daily_use_minutes": 92,
+    "preferred_genres": [
+      "历史",
+      "爱情"
+    ],
+    "last_activity_date": "2045-01-18",
+    "device_info": {
+      "os": "iOS",
+      "app_version": "v3.6.13",
+      "location": "娜县"
+    }
+  },
+  {
+    "user_id": 24,
+    "platform": "抖音",
+    "avg_daily_use_minutes": 129,
+    "preferred_genres": [
+      "悬疑"
+    ],
+    "last_activity_date": "2046-05-25",
+    "device_info": {
+      "os": "Windows",
+      "app_version": "v3.6.16",
+      "location": "太原县"
+    }
+  },
+  {
+    "user_id": 25,
+    "platform": "B站小程序",
+    "avg_daily_use_minutes": 111,
+    "preferred_genres": [
+      "剧情"
+    ],
+    "last_activity_date": "2047-04-23",
+    "device_info": {
+      "os": "Android",
+      "app_version": "v1.1.6",
+      "location": "关岭县"
+    }
+  },
+  {
+    "user_id": 26,
+    "platform": "B站小程序",
+    "avg_daily_use_minutes": 143,
+    "preferred_genres": [
+      "喜剧"
+    ],
+    "last_activity_date": "2048-06-23",
+    "device_info": {
+      "os": "Windows",
+      "app_version": "v1.5.10",
+      "location": "长沙县"
+    }
+  },
+  {
+    "user_id": 27,
+    "platform": "B站小程序",
+    "avg_daily_use_minutes": 163,
+    "preferred_genres": [
+      "爱情",
+      "动作",
+      "科幻"
+    ],
+    "last_activity_date": "2049-12-19",
+    "device_info": {
+      "os": "Windows",
+      "app_version": "v1.6.18",
+      "location": "丽华市"
+    }
+  },
+  {
+    "user_id": 28,
+    "platform": "微信小程序",
+    "avg_daily_use_minutes": 64,
+    "preferred_genres": [
+      "爱情"
+    ],
+    "last_activity_date": "2050-02-23",
+    "device_info": {
+      "os": "Windows",
+      "app_version": "v3.5.1",
+      "location": "合肥县"
+    }
+  },
+  {
+    "user_id": 29,
+    "platform": "抖音",
+    "avg_daily_use_minutes": 74,
+    "preferred_genres": [
+      "历史"
+    ],
+    "last_activity_date": "2051-01-01",
+    "device_info": {
+      "os": "Windows",
+      "app_version": "v3.1.4",
+      "location": "天津县"
+    }
+  },
+  {
+    "user_id": 30,
+    "platform": "微信小程序",
+    "avg_daily_use_minutes": 124,
+    "preferred_genres": [
+      "喜剧",
+      "悬疑"
+    ],
+    "last_activity_date": "2052-11-22",
+    "device_info": {
+      "os": "Android",
+      "app_version": "v1.7.3",
+      "location": "桂英县"
+    }
+  },
+  {
+    "user_id": 31,
+    "platform": "微信小程序",
+    "avg_daily_use_minutes": 85,
+    "preferred_genres": [
+      "历史",
+      "悬疑"
+    ],
+    "last_activity_date": "2053-10-05",
+    "device_info": {
+      "os": "Android",
+      "app_version": "v1.1.8",
+      "location": "伟市"
+    }
+  },
+  {
+    "user_id": 32,
+    "platform": "快手",
+    "avg_daily_use_minutes": 99,
+    "preferred_genres": [
+      "历史",
+      "动作",
+      "剧情"
+    ],
+    "last_activity_date": "2054-02-20",
+    "device_info": {
+      "os": "Android",
+      "app_version": "v2.0.10",
+      "location": "梧州县"
+    }
+  },
+  {
+    "user_id": 33,
+    "platform": "B站小程序",
+    "avg_daily_use_minutes": 132,
+    "preferred_genres": [
+      "剧情",
+      "喜剧"
+    ],
+    "last_activity_date": "2055-06-04",
+    "device_info": {
+      "os": "Windows",
+      "app_version": "v2.6.14",
+      "location": "兰州县"
+    }
+  },
+  {
+    "user_id": 34,
+    "platform": "B站小程序",
+    "avg_daily_use_minutes": 137,
+    "preferred_genres": [
+      "悬疑",
+      "爱情"
+    ],
+    "last_activity_date": "2056-05-21",
+    "device_info": {
+      "os": "Android",
+      "app_version": "v3.0.8",
+      "location": "六盘水县"
+    }
+  },
+  {
+    "user_id": 35,
+    "platform": "抖音",
+    "avg_daily_use_minutes": 153,
+    "preferred_genres": [
+      "爱情"
+    ],
+    "last_activity_date": "2057-03-05",
+    "device_info": {
+      "os": "iOS",
+      "app_version": "v3.2.0",
+      "location": "关岭县"
+    }
+  },
+  {
+    "user_id": 36,
+    "platform": "快手",
+    "avg_daily_use_minutes": 112,
+    "preferred_genres": [
+      "爱情"
+    ],
+    "last_activity_date": "2058-06-27",
+    "device_info": {
+      "os": "Windows",
+      "app_version": "v1.8.10",
+      "location": "兴城县"
+    }
+  },
+  {
+    "user_id": 37,
+    "platform": "B站小程序",
+    "avg_daily_use_minutes": 138,
+    "preferred_genres": [
+      "剧情",
+      "历史",
+      "喜剧"
+    ],
+    "last_activity_date": "2059-06-17",
+    "device_info": {
+      "os": "iOS",
+      "app_version": "v3.8.16",
+      "location": "超县"
+    }
+  },
+  {
+    "user_id": 38,
+    "platform": "快手",
+    "avg_daily_use_minutes": 111,
+    "preferred_genres": [
+      "动作"
+    ],
+    "last_activity_date": "2060-10-29",
+    "device_info": {
+      "os": "iOS",
+      "app_version": "v2.6.9",
+      "location": "倩市"
+    }
+  },
+  {
+    "user_id": 39,
+    "platform": "抖音",
+    "avg_daily_use_minutes": 114,
+    "preferred_genres": [
+      "动作",
+      "爱情",
+      "科幻"
+    ],
+    "last_activity_date": "2061-08-01",
+    "device_info": {
+      "os": "Windows",
+      "app_version": "v3.3.10",
+      "location": "宁德市"
+    }
+  },
+  {
+    "user_id": 40,
+    "platform": "快手",
+    "avg_daily_use_minutes": 83,
+    "preferred_genres": [
+      "爱情"
+    ],
+    "last_activity_date": "2062-04-06",
+    "device_info": {
+      "os": "Android",
+      "app_version": "v3.6.18",
+      "location": "张家港市"
+    }
+  },
+  {
+    "user_id": 41,
+    "platform": "B站小程序",
+    "avg_daily_use_minutes": 82,
+    "preferred_genres": [
+      "剧情",
+      "历史",
+      "喜剧"
+    ],
+    "last_activity_date": "2063-12-25",
+    "device_info": {
+      "os": "Windows",
+      "app_version": "v1.2.4",
+      "location": "呼和浩特县"
+    }
+  },
+  {
+    "user_id": 42,
+    "platform": "B站小程序",
+    "avg_daily_use_minutes": 144,
+    "preferred_genres": [
+      "剧情",
+      "喜剧"
+    ],
+    "last_activity_date": "2064-01-24",
+    "device_info": {
+      "os": "Android",
+      "app_version": "v2.9.6",
+      "location": "峰县"
+    }
+  },
+  {
+    "user_id": 43,
+    "platform": "微信小程序",
+    "avg_daily_use_minutes": 128,
+    "preferred_genres": [
+      "科幻"
+    ],
+    "last_activity_date": "2065-06-08",
+    "device_info": {
+      "os": "Android",
+      "app_version": "v3.1.17",
+      "location": "洁市"
+    }
+  },
+  {
+    "user_id": 44,
+    "platform": "B站小程序",
+    "avg_daily_use_minutes": 102,
+    "preferred_genres": [
+      "爱情",
+      "喜剧",
+      "科幻"
+    ],
+    "last_activity_date": "2066-06-21",
+    "device_info": {
+      "os": "iOS",
+      "app_version": "v2.8.10",
+      "location": "欢市"
+    }
+  },
+  {
+    "user_id": 45,
+    "platform": "微信小程序",
+    "avg_daily_use_minutes": 164,
+    "preferred_genres": [
+      "喜剧",
+      "历史",
+      "剧情"
+    ],
+    "last_activity_date": "2067-06-28",
+    "device_info": {
+      "os": "iOS",
+      "app_version": "v3.4.18",
+      "location": "雪梅市"
+    }
+  },
+  {
+    "user_id": 46,
+    "platform": "抖音",
+    "avg_daily_use_minutes": 114,
+    "preferred_genres": [
+      "历史"
+    ],
+    "last_activity_date": "2068-08-31",
+    "device_info": {
+      "os": "Windows",
+      "app_version": "v3.3.15",
+      "location": "宜都市"
+    }
+  },
+  {
+    "user_id": 47,
+    "platform": "微信小程序",
+    "avg_daily_use_minutes": 130,
+    "preferred_genres": [
+      "动作"
+    ],
+    "last_activity_date": "2069-11-20",
+    "device_info": {
+      "os": "Windows",
+      "app_version": "v2.3.18",
+      "location": "欣县"
+    }
+  },
+  {
+    "user_id": 48,
+    "platform": "抖音",
+    "avg_daily_use_minutes": 146,
+    "preferred_genres": [
+      "喜剧",
+      "悬疑"
+    ],
+    "last_activity_date": "2070-02-20",
+    "device_info": {
+      "os": "iOS",
+      "app_version": "v2.8.18",
+      "location": "琳市"
+    }
+  },
+  {
+    "user_id": 49,
+    "platform": "B站小程序",
+    "avg_daily_use_minutes": 149,
+    "preferred_genres": [
+      "爱情"
+    ],
+    "last_activity_date": "2071-04-24",
+    "device_info": {
+      "os": "Android",
+      "app_version": "v2.8.19",
+      "location": "柳州县"
+    }
+  },
+  {
+    "user_id": 50,
+    "platform": "快手",
+    "avg_daily_use_minutes": 114,
+    "preferred_genres": [
+      "剧情"
+    ],
+    "last_activity_date": "2072-02-07",
+    "device_info": {
+      "os": "Android",
+      "app_version": "v3.8.15",
+      "location": "阜新市"
+    }
+  },
+  {
+    "user_id": 51,
+    "platform": "微信小程序",
+    "avg_daily_use_minutes": 110,
+    "preferred_genres": [
+      "喜剧",
+      "悬疑",
+      "历史"
+    ],
+    "last_activity_date": "2073-05-10",
+    "device_info": {
+      "os": "Windows",
+      "app_version": "v3.2.14",
+      "location": "芳县"
+    }
+  },
+  {
+    "user_id": 52,
+    "platform": "快手",
+    "avg_daily_use_minutes": 149,
+    "preferred_genres": [
+      "动作"
+    ],
+    "last_activity_date": "2074-05-06",
+    "device_info": {
+      "os": "Windows",
+      "app_version": "v1.8.17",
+      "location": "通辽市"
+    }
+  },
+  {
+    "user_id": 53,
+    "platform": "微信小程序",
+    "avg_daily_use_minutes": 58,
+    "preferred_genres": [
+      "动作",
+      "爱情",
+      "历史"
+    ],
+    "last_activity_date": "2075-10-25",
+    "device_info": {
+      "os": "Windows",
+      "app_version": "v3.4.0",
+      "location": "兴城县"
+    }
+  },
+  {
+    "user_id": 54,
+    "platform": "微信小程序",
+    "avg_daily_use_minutes": 91,
+    "preferred_genres": [
+      "科幻",
+      "历史"
+    ],
+    "last_activity_date": "2076-09-28",
+    "device_info": {
+      "os": "iOS",
+      "app_version": "v1.6.10",
+      "location": "平市"
+    }
+  },
+  {
+    "user_id": 55,
+    "platform": "B站小程序",
+    "avg_daily_use_minutes": 145,
+    "preferred_genres": [
+      "科幻",
+      "动作"
+    ],
+    "last_activity_date": "2077-04-25",
+    "device_info": {
+      "os": "Windows",
+      "app_version": "v2.1.2",
+      "location": "东莞市"
+    }
+  },
+  {
+    "user_id": 56,
+    "platform": "B站小程序",
+    "avg_daily_use_minutes": 138,
+    "preferred_genres": [
+      "动作"
+    ],
+    "last_activity_date": "2078-09-05",
+    "device_info": {
+      "os": "iOS",
+      "app_version": "v3.9.15",
+      "location": "南宁县"
+    }
+  },
+  {
+    "user_id": 57,
+    "platform": "抖音",
+    "avg_daily_use_minutes": 93,
+    "preferred_genres": [
+      "喜剧",
+      "爱情",
+      "科幻"
+    ],
+    "last_activity_date": "2079-11-06",
+    "device_info": {
+      "os": "iOS",
+      "app_version": "v2.4.13",
+      "location": "兰州县"
+    }
+  },
+  {
+    "user_id": 58,
+    "platform": "抖音",
+    "avg_daily_use_minutes": 136,
+    "preferred_genres": [
+      "科幻",
+      "悬疑"
+    ],
+    "last_activity_date": "2080-09-10",
+    "device_info": {
+      "os": "Windows",
+      "app_version": "v1.3.7",
+      "location": "阜新市"
+    }
+  },
+  {
+    "user_id": 59,
+    "platform": "抖音",
+    "avg_daily_use_minutes": 96,
+    "preferred_genres": [
+      "科幻",
+      "历史",
+      "剧情"
+    ],
+    "last_activity_date": "2081-12-24",
+    "device_info": {
+      "os": "iOS",
+      "app_version": "v2.1.7",
+      "location": "潮州县"
+    }
+  },
+  {
+    "user_id": 60,
+    "platform": "抖音",
+    "avg_daily_use_minutes": 113,
+    "preferred_genres": [
+      "剧情"
+    ],
+    "last_activity_date": "2082-08-28",
+    "device_info": {
+      "os": "Android",
+      "app_version": "v1.4.16",
+      "location": "涛县"
+    }
+  },
+  {
+    "user_id": 61,
+    "platform": "快手",
+    "avg_daily_use_minutes": 74,
+    "preferred_genres": [
+      "爱情",
+      "悬疑"
+    ],
+    "last_activity_date": "2083-03-29",
+    "device_info": {
+      "os": "Windows",
+      "app_version": "v3.7.8",
+      "location": "慧县"
+    }
+  },
+  {
+    "user_id": 62,
+    "platform": "B站小程序",
+    "avg_daily_use_minutes": 63,
+    "preferred_genres": [
+      "爱情",
+      "悬疑"
+    ],
+    "last_activity_date": "2084-05-27",
+    "device_info": {
+      "os": "Android",
+      "app_version": "v2.5.15",
+      "location": "东莞市"
+    }
+  },
+  {
+    "user_id": 63,
+    "platform": "抖音",
+    "avg_daily_use_minutes": 109,
+    "preferred_genres": [
+      "剧情"
+    ],
+    "last_activity_date": "2085-06-03",
+    "device_info": {
+      "os": "Windows",
+      "app_version": "v2.9.4",
+      "location": "汕尾县"
+    }
+  },
+  {
+    "user_id": 64,
+    "platform": "快手",
+    "avg_daily_use_minutes": 136,
+    "preferred_genres": [
+      "喜剧",
+      "爱情",
+      "动作"
+    ],
+    "last_activity_date": "2086-09-10",
+    "device_info": {
+      "os": "Android",
+      "app_version": "v1.9.15",
+      "location": "沈阳县"
+    }
+  },
+  {
+    "user_id": 65,
+    "platform": "微信小程序",
+    "avg_daily_use_minutes": 163,
+    "preferred_genres": [
+      "喜剧",
+      "剧情"
+    ],
+    "last_activity_date": "2087-02-18",
+    "device_info": {
+      "os": "Android",
+      "app_version": "v2.2.13",
+      "location": "畅县"
+    }
+  },
+  {
+    "user_id": 66,
+    "platform": "快手",
+    "avg_daily_use_minutes": 148,
+    "preferred_genres": [
+      "科幻"
+    ],
+    "last_activity_date": "2088-07-11",
+    "device_info": {
+      "os": "iOS",
+      "app_version": "v2.5.18",
+      "location": "兰英市"
+    }
+  },
+  {
+    "user_id": 67,
+    "platform": "微信小程序",
+    "avg_daily_use_minutes": 81,
+    "preferred_genres": [
+      "动作"
+    ],
+    "last_activity_date": "2089-01-17",
+    "device_info": {
+      "os": "iOS",
+      "app_version": "v3.0.3",
+      "location": "慧市"
+    }
+  },
+  {
+    "user_id": 68,
+    "platform": "微信小程序",
+    "avg_daily_use_minutes": 102,
+    "preferred_genres": [
+      "历史"
+    ],
+    "last_activity_date": "2090-03-17",
+    "device_info": {
+      "os": "Android",
+      "app_version": "v2.3.6",
+      "location": "海门市"
+    }
+  },
+  {
+    "user_id": 69,
+    "platform": "快手",
+    "avg_daily_use_minutes": 132,
+    "preferred_genres": [
+      "科幻"
+    ],
+    "last_activity_date": "2091-10-07",
+    "device_info": {
+      "os": "Android",
+      "app_version": "v1.5.14",
+      "location": "淑珍县"
+    }
+  },
+  {
+    "user_id": 70,
+    "platform": "B站小程序",
+    "avg_daily_use_minutes": 152,
+    "preferred_genres": [
+      "悬疑"
+    ],
+    "last_activity_date": "2092-08-18",
+    "device_info": {
+      "os": "Android",
+      "app_version": "v3.9.1",
+      "location": "海门县"
+    }
+  },
+  {
+    "user_id": 71,
+    "platform": "抖音",
+    "avg_daily_use_minutes": 140,
+    "preferred_genres": [
+      "悬疑",
+      "动作"
+    ],
+    "last_activity_date": "2093-09-27",
+    "device_info": {
+      "os": "iOS",
+      "app_version": "v2.2.11",
+      "location": "辛集市"
+    }
+  },
+  {
+    "user_id": 72,
+    "platform": "快手",
+    "avg_daily_use_minutes": 156,
+    "preferred_genres": [
+      "动作"
+    ],
+    "last_activity_date": "2094-08-08",
+    "device_info": {
+      "os": "iOS",
+      "app_version": "v2.8.8",
+      "location": "桂花县"
+    }
+  },
+  {
+    "user_id": 73,
+    "platform": "B站小程序",
+    "avg_daily_use_minutes": 124,
+    "preferred_genres": [
+      "爱情",
+      "科幻",
+      "悬疑"
+    ],
+    "last_activity_date": "2095-04-21",
+    "device_info": {
+      "os": "iOS",
+      "app_version": "v2.0.7",
+      "location": "海门市"
+    }
+  },
+  {
+    "user_id": 74,
+    "platform": "B站小程序",
+    "avg_daily_use_minutes": 120,
+    "preferred_genres": [
+      "科幻",
+      "历史",
+      "喜剧"
+    ],
+    "last_activity_date": "2096-07-24",
+    "device_info": {
+      "os": "iOS",
+      "app_version": "v1.8.8",
+      "location": "梅市"
+    }
+  },
+  {
+    "user_id": 75,
+    "platform": "B站小程序",
+    "avg_daily_use_minutes": 61,
+    "preferred_genres": [
+      "爱情",
+      "悬疑",
+      "科幻"
+    ],
+    "last_activity_date": "2097-06-02",
+    "device_info": {
+      "os": "Android",
+      "app_version": "v2.7.9",
+      "location": "晶市"
+    }
+  },
+  {
+    "user_id": 76,
+    "platform": "快手",
+    "avg_daily_use_minutes": 143,
+    "preferred_genres": [
+      "剧情"
+    ],
+    "last_activity_date": "2098-07-29",
+    "device_info": {
+      "os": "iOS",
+      "app_version": "v2.5.3",
+      "location": "玲县"
+    }
+  },
+  {
+    "user_id": 77,
+    "platform": "B站小程序",
+    "avg_daily_use_minutes": 84,
+    "preferred_genres": [
+      "喜剧",
+      "历史",
+      "剧情"
+    ],
+    "last_activity_date": "2099-09-26",
+    "device_info": {
+      "os": "iOS",
+      "app_version": "v2.2.19",
+      "location": "艳县"
+    }
+  },
+  {
+    "user_id": 78,
+    "platform": "微信小程序",
+    "avg_daily_use_minutes": 104,
+    "preferred_genres": [
+      "悬疑",
+      "历史",
+      "剧情"
+    ],
+    "last_activity_date": "2100-10-23",
+    "device_info": {
+      "os": "Android",
+      "app_version": "v1.0.1",
+      "location": "雪市"
+    }
+  },
+  {
+    "user_id": 79,
+    "platform": "B站小程序",
+    "avg_daily_use_minutes": 136,
+    "preferred_genres": [
+      "爱情"
+    ],
+    "last_activity_date": "2101-11-05",
+    "device_info": {
+      "os": "Android",
+      "app_version": "v1.3.10",
+      "location": "济南市"
+    }
+  },
+  {
+    "user_id": 80,
+    "platform": "微信小程序",
+    "avg_daily_use_minutes": 106,
+    "preferred_genres": [
+      "悬疑",
+      "剧情",
+      "爱情"
+    ],
+    "last_activity_date": "2102-10-14",
+    "device_info": {
+      "os": "iOS",
+      "app_version": "v2.3.18",
+      "location": "瑜市"
+    }
+  },
+  {
+    "user_id": 81,
+    "platform": "抖音",
+    "avg_daily_use_minutes": 139,
+    "preferred_genres": [
+      "动作",
+      "科幻"
+    ],
+    "last_activity_date": "2103-07-30",
+    "device_info": {
+      "os": "Android",
+      "app_version": "v3.4.14",
+      "location": "刚县"
+    }
+  },
+  {
+    "user_id": 82,
+    "platform": "B站小程序",
+    "avg_daily_use_minutes": 106,
+    "preferred_genres": [
+      "爱情"
+    ],
+    "last_activity_date": "2104-11-02",
+    "device_info": {
+      "os": "Windows",
+      "app_version": "v3.8.8",
+      "location": "兴城县"
+    }
+  },
+  {
+    "user_id": 83,
+    "platform": "抖音",
+    "avg_daily_use_minutes": 130,
+    "preferred_genres": [
+      "悬疑"
+    ],
+    "last_activity_date": "2105-04-02",
+    "device_info": {
+      "os": "Windows",
+      "app_version": "v3.9.11",
+      "location": "哈尔滨县"
+    }
+  },
+  {
+    "user_id": 84,
+    "platform": "抖音",
+    "avg_daily_use_minutes": 174,
+    "preferred_genres": [
+      "剧情",
+      "动作"
+    ],
+    "last_activity_date": "2106-07-26",
+    "device_info": {
+      "os": "Windows",
+      "app_version": "v2.8.17",
+      "location": "洋县"
+    }
+  },
+  {
+    "user_id": 85,
+    "platform": "B站小程序",
+    "avg_daily_use_minutes": 101,
+    "preferred_genres": [
+      "喜剧"
+    ],
+    "last_activity_date": "2107-12-26",
+    "device_info": {
+      "os": "iOS",
+      "app_version": "v2.5.8",
+      "location": "娜市"
+    }
+  },
+  {
+    "user_id": 86,
+    "platform": "微信小程序",
+    "avg_daily_use_minutes": 118,
+    "preferred_genres": [
+      "历史"
+    ],
+    "last_activity_date": "2108-10-15",
+    "device_info": {
+      "os": "iOS",
+      "app_version": "v2.3.1",
+      "location": "红市"
+    }
+  },
+  {
+    "user_id": 87,
+    "platform": "抖音",
+    "avg_daily_use_minutes": 73,
+    "preferred_genres": [
+      "悬疑"
+    ],
+    "last_activity_date": "2109-06-13",
+    "device_info": {
+      "os": "iOS",
+      "app_version": "v2.1.19",
+      "location": "兰英县"
+    }
+  },
+  {
+    "user_id": 88,
+    "platform": "B站小程序",
+    "avg_daily_use_minutes": 138,
+    "preferred_genres": [
+      "科幻"
+    ],
+    "last_activity_date": "2110-05-31",
+    "device_info": {
+      "os": "Android",
+      "app_version": "v2.5.17",
+      "location": "上海县"
+    }
+  },
+  {
+    "user_id": 89,
+    "platform": "快手",
+    "avg_daily_use_minutes": 143,
+    "preferred_genres": [
+      "历史",
+      "悬疑",
+      "科幻"
+    ],
+    "last_activity_date": "2111-07-10",
+    "device_info": {
+      "os": "Windows",
+      "app_version": "v2.9.6",
+      "location": "拉萨市"
+    }
+  },
+  {
+    "user_id": 90,
+    "platform": "快手",
+    "avg_daily_use_minutes": 119,
+    "preferred_genres": [
+      "动作",
+      "剧情",
+      "历史"
+    ],
+    "last_activity_date": "2112-04-20",
+    "device_info": {
+      "os": "Android",
+      "app_version": "v3.2.15",
+      "location": "志强市"
+    }
+  },
+  {
+    "user_id": 91,
+    "platform": "抖音",
+    "avg_daily_use_minutes": 106,
+    "preferred_genres": [
+      "喜剧",
+      "科幻"
+    ],
+    "last_activity_date": "2113-06-23",
+    "device_info": {
+      "os": "Windows",
+      "app_version": "v2.0.10",
+      "location": "瑜县"
+    }
+  },
+  {
+    "user_id": 92,
+    "platform": "抖音",
+    "avg_daily_use_minutes": 149,
+    "preferred_genres": [
+      "动作"
+    ],
+    "last_activity_date": "2114-05-12",
+    "device_info": {
+      "os": "Windows",
+      "app_version": "v1.8.8",
+      "location": "太原市"
+    }
+  },
+  {
+    "user_id": 93,
+    "platform": "B站小程序",
+    "avg_daily_use_minutes": 87,
+    "preferred_genres": [
+      "悬疑",
+      "历史"
+    ],
+    "last_activity_date": "2115-10-17",
+    "device_info": {
+      "os": "Android",
+      "app_version": "v1.9.14",
+      "location": "潜江县"
+    }
+  },
+  {
+    "user_id": 94,
+    "platform": "快手",
+    "avg_daily_use_minutes": 85,
+    "preferred_genres": [
+      "科幻",
+      "历史"
+    ],
+    "last_activity_date": "2116-12-11",
+    "device_info": {
+      "os": "iOS",
+      "app_version": "v2.5.7",
+      "location": "柳州市"
+    }
+  },
+  {
+    "user_id": 95,
+    "platform": "抖音",
+    "avg_daily_use_minutes": 63,
+    "preferred_genres": [
+      "剧情",
+      "历史"
+    ],
+    "last_activity_date": "2117-07-20",
+    "device_info": {
+      "os": "Android",
+      "app_version": "v1.7.12",
+      "location": "桂荣县"
+    }
+  },
+  {
+    "user_id": 96,
+    "platform": "B站小程序",
+    "avg_daily_use_minutes": 104,
+    "preferred_genres": [
+      "历史",
+      "科幻"
+    ],
+    "last_activity_date": "2118-03-10",
+    "device_info": {
+      "os": "Android",
+      "app_version": "v3.5.13",
+      "location": "呼和浩特县"
+    }
+  },
+  {
+    "user_id": 97,
+    "platform": "微信小程序",
+    "avg_daily_use_minutes": 66,
+    "preferred_genres": [
+      "剧情",
+      "科幻",
+      "爱情"
+    ],
+    "last_activity_date": "2119-10-13",
+    "device_info": {
+      "os": "Windows",
+      "app_version": "v1.9.15",
+      "location": "兰英市"
+    }
+  },
+  {
+    "user_id": 98,
+    "platform": "微信小程序",
+    "avg_daily_use_minutes": 162,
+    "preferred_genres": [
+      "动作",
+      "悬疑"
+    ],
+    "last_activity_date": "2120-12-27",
+    "device_info": {
+      "os": "Windows",
+      "app_version": "v2.2.19",
+      "location": "亮市"
+    }
+  },
+  {
+    "user_id": 99,
+    "platform": "快手",
+    "avg_daily_use_minutes": 138,
+    "preferred_genres": [
+      "悬疑",
+      "喜剧"
+    ],
+    "last_activity_date": "2121-03-15",
+    "device_info": {
+      "os": "iOS",
+      "app_version": "v3.7.17",
+      "location": "台北市"
+    }
+  },
+  {
+    "user_id": 100,
+    "platform": "B站小程序",
+    "avg_daily_use_minutes": 97,
+    "preferred_genres": [
+      "悬疑"
+    ],
+    "last_activity_date": "2122-10-09",
+    "device_info": {
+      "os": "iOS",
+      "app_version": "v3.3.1",
+      "location": "杭州市"
+    }
+  }
+]

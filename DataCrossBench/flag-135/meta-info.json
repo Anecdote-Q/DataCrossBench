@@ -1,0 +1,25 @@
+{
+    "goal": "分析深圳在微短剧产业中科技创新与政策支持的具体作用。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 深圳在科技赋能与出海浪潮中展现出独特优势，推动微短剧产业的快速发展。",
+        "Comparison: 深圳与京杭西深等地的政策扶持形成了不同的产业发展策略，推动了微短剧产业链的多样化。",
+        "Extreme: 深圳的区位优势和头部企业的支持推动了全球发行引擎的建设，成为行业的标杆。",
+        "Attribution: 深圳的成功与政策支持、技术创新和市场需求的结合密不可分，形成了良好的产业生态。"
+    ],
+    "summary": "深圳凭借其科技创新和政策支持，成为微短剧产业发展的重要基地，推动了产业的集聚与国际化进程。",
+    "flag_id": "flag-135",
+    "classifier": "Short-form Drama",
+    "classifier_cn": "短剧/微短剧内容",
+    "input_files": [
+        "output/avg_tech_innovation_by_city.png",
+        "output/boxplot_tech_innovation_by_policy.png",
+        "output/dimension_city.db",
+        "output/histogram_market_demand_index.png",
+        "output/industry_background.txt",
+        "output/micro_short_drama_fact.csv",
+        "output/policy_details.json",
+        "output/tech_innovation_vs_market_demand.png",
+        "output/user_profiles.json"
+    ]
+}

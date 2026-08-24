@@ -1,0 +1,22 @@
+{
+    "goal": "探讨短剧行业面临的题材单一和盈利模式单一的挑战，并评估多元化发展策略的可行性。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 2023年短剧的备案量实现理性增长，备案部数同比上涨9%。",
+        "Comparison: 短剧在长视频平台的有效播放增长中占据主要地位，成为内容品类的重要组成部分。"
+    ],
+    "summary": "尽管短剧行业在2023年取得了显著的成就，但仍面临题材单一和盈利模式单一等挑战，未来需通过多元化发展来实现可持续增长。",
+    "flag_id": "flag-148",
+    "classifier": "Short-form Drama",
+    "classifier_cn": "短剧/微短剧内容",
+    "input_files": [
+        "output/business_background.txt",
+        "output/finished_vs_not_finished.png",
+        "output/play_count_over_time.png",
+        "output/shortdrama_dim.db",
+        "output/shortdrama_fact.csv",
+        "output/user_profiles.json",
+        "output/user_score_by_genre.png",
+        "output/watch_duration_distribution.png"
+    ]
+}

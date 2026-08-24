@@ -1,0 +1,11033 @@
+[
+  {
+    "user_id": 1,
+    "profile": {
+      "avg_age": 37,
+      "gender": "女",
+      "preferences": [
+        "移动支付",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 2,
+    "profile": {
+      "avg_age": 23,
+      "gender": "女",
+      "preferences": [
+        "移动支付",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 3,
+    "profile": {
+      "avg_age": 32,
+      "gender": "男",
+      "preferences": [
+        "短视频",
+        "在线购物",
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 4,
+    "profile": {
+      "avg_age": 26,
+      "gender": "男",
+      "preferences": [
+        "远程教育",
+        "网络游戏",
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 5,
+    "profile": {
+      "avg_age": 51,
+      "gender": "男",
+      "preferences": [
+        "在线购物",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 6,
+    "profile": {
+      "avg_age": 36,
+      "gender": "女",
+      "preferences": [
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 7,
+    "profile": {
+      "avg_age": 29,
+      "gender": "男",
+      "preferences": [
+        "远程教育",
+        "短视频",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 8,
+    "profile": {
+      "avg_age": 57,
+      "gender": "男",
+      "preferences": [
+        "移动支付",
+        "网络游戏",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 9,
+    "profile": {
+      "avg_age": 15,
+      "gender": "男",
+      "preferences": [
+        "移动支付",
+        "网络游戏",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 10,
+    "profile": {
+      "avg_age": 23,
+      "gender": "男",
+      "preferences": [
+        "远程教育",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 11,
+    "profile": {
+      "avg_age": 23,
+      "gender": "女",
+      "preferences": [
+        "跨境电商",
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 12,
+    "profile": {
+      "avg_age": 47,
+      "gender": "女",
+      "preferences": [
+        "网络游戏",
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 13,
+    "profile": {
+      "avg_age": 43,
+      "gender": "女",
+      "preferences": [
+        "移动支付",
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 14,
+    "profile": {
+      "avg_age": 31,
+      "gender": "男",
+      "preferences": [
+        "网络游戏",
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 15,
+    "profile": {
+      "avg_age": 45,
+      "gender": "男",
+      "preferences": [
+        "移动支付",
+        "网络游戏",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 16,
+    "profile": {
+      "avg_age": 15,
+      "gender": "男",
+      "preferences": [
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 17,
+    "profile": {
+      "avg_age": 51,
+      "gender": "女",
+      "preferences": [
+        "移动支付",
+        "跨境电商",
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 18,
+    "profile": {
+      "avg_age": 25,
+      "gender": "女",
+      "preferences": [
+        "短视频",
+        "在线购物",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 19,
+    "profile": {
+      "avg_age": 44,
+      "gender": "女",
+      "preferences": [
+        "跨境电商",
+        "短视频",
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 20,
+    "profile": {
+      "avg_age": 15,
+      "gender": "男",
+      "preferences": [
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 21,
+    "profile": {
+      "avg_age": 36,
+      "gender": "男",
+      "preferences": [
+        "移动支付",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 22,
+    "profile": {
+      "avg_age": 45,
+      "gender": "男",
+      "preferences": [
+        "网络游戏",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 23,
+    "profile": {
+      "avg_age": 38,
+      "gender": "女",
+      "preferences": [
+        "移动支付",
+        "短视频",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 24,
+    "profile": {
+      "avg_age": 46,
+      "gender": "男",
+      "preferences": [
+        "短视频",
+        "远程教育",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 25,
+    "profile": {
+      "avg_age": 29,
+      "gender": "女",
+      "preferences": [
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 26,
+    "profile": {
+      "avg_age": 35,
+      "gender": "女",
+      "preferences": [
+        "移动支付",
+        "短视频",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 27,
+    "profile": {
+      "avg_age": 47,
+      "gender": "女",
+      "preferences": [
+        "远程教育",
+        "跨境电商",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 28,
+    "profile": {
+      "avg_age": 30,
+      "gender": "男",
+      "preferences": [
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 29,
+    "profile": {
+      "avg_age": 28,
+      "gender": "女",
+      "preferences": [
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 30,
+    "profile": {
+      "avg_age": 41,
+      "gender": "男",
+      "preferences": [
+        "移动支付",
+        "短视频",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 31,
+    "profile": {
+      "avg_age": 18,
+      "gender": "女",
+      "preferences": [
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 32,
+    "profile": {
+      "avg_age": 26,
+      "gender": "女",
+      "preferences": [
+        "移动支付",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 33,
+    "profile": {
+      "avg_age": 45,
+      "gender": "男",
+      "preferences": [
+        "短视频",
+        "网络游戏",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 34,
+    "profile": {
+      "avg_age": 39,
+      "gender": "男",
+      "preferences": [
+        "网络游戏",
+        "移动支付",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 35,
+    "profile": {
+      "avg_age": 34,
+      "gender": "男",
+      "preferences": [
+        "短视频",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 36,
+    "profile": {
+      "avg_age": 19,
+      "gender": "男",
+      "preferences": [
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 37,
+    "profile": {
+      "avg_age": 46,
+      "gender": "男",
+      "preferences": [
+        "远程教育",
+        "短视频",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 38,
+    "profile": {
+      "avg_age": 49,
+      "gender": "女",
+      "preferences": [
+        "移动支付",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 39,
+    "profile": {
+      "avg_age": 28,
+      "gender": "男",
+      "preferences": [
+        "移动支付",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 40,
+    "profile": {
+      "avg_age": 36,
+      "gender": "男",
+      "preferences": [
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 41,
+    "profile": {
+      "avg_age": 28,
+      "gender": "男",
+      "preferences": [
+        "远程教育",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 42,
+    "profile": {
+      "avg_age": 15,
+      "gender": "男",
+      "preferences": [
+        "远程教育",
+        "在线购物",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 43,
+    "profile": {
+      "avg_age": 29,
+      "gender": "男",
+      "preferences": [
+        "远程教育",
+        "跨境电商",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 44,
+    "profile": {
+      "avg_age": 41,
+      "gender": "男",
+      "preferences": [
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 45,
+    "profile": {
+      "avg_age": 43,
+      "gender": "女",
+      "preferences": [
+        "移动支付",
+        "远程教育",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 46,
+    "profile": {
+      "avg_age": 41,
+      "gender": "男",
+      "preferences": [
+        "移动支付",
+        "远程教育",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 47,
+    "profile": {
+      "avg_age": 26,
+      "gender": "女",
+      "preferences": [
+        "远程教育",
+        "移动支付",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 48,
+    "profile": {
+      "avg_age": 49,
+      "gender": "男",
+      "preferences": [
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 49,
+    "profile": {
+      "avg_age": 38,
+      "gender": "女",
+      "preferences": [
+        "跨境电商",
+        "在线购物",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 50,
+    "profile": {
+      "avg_age": 39,
+      "gender": "男",
+      "preferences": [
+        "跨境电商",
+        "在线购物",
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 51,
+    "profile": {
+      "avg_age": 40,
+      "gender": "男",
+      "preferences": [
+        "远程教育",
+        "短视频",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 52,
+    "profile": {
+      "avg_age": 44,
+      "gender": "女",
+      "preferences": [
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 53,
+    "profile": {
+      "avg_age": 44,
+      "gender": "男",
+      "preferences": [
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 54,
+    "profile": {
+      "avg_age": 24,
+      "gender": "女",
+      "preferences": [
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 55,
+    "profile": {
+      "avg_age": 17,
+      "gender": "女",
+      "preferences": [
+        "在线购物",
+        "远程教育",
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 56,
+    "profile": {
+      "avg_age": 15,
+      "gender": "女",
+      "preferences": [
+        "移动支付",
+        "远程教育",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 57,
+    "profile": {
+      "avg_age": 20,
+      "gender": "男",
+      "preferences": [
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 58,
+    "profile": {
+      "avg_age": 29,
+      "gender": "男",
+      "preferences": [
+        "短视频",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 59,
+    "profile": {
+      "avg_age": 25,
+      "gender": "女",
+      "preferences": [
+        "网络游戏",
+        "移动支付",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 60,
+    "profile": {
+      "avg_age": 23,
+      "gender": "男",
+      "preferences": [
+        "网络游戏",
+        "远程教育",
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 61,
+    "profile": {
+      "avg_age": 46,
+      "gender": "女",
+      "preferences": [
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 62,
+    "profile": {
+      "avg_age": 39,
+      "gender": "女",
+      "preferences": [
+        "网络游戏",
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 63,
+    "profile": {
+      "avg_age": 23,
+      "gender": "男",
+      "preferences": [
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 64,
+    "profile": {
+      "avg_age": 29,
+      "gender": "女",
+      "preferences": [
+        "远程教育",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 65,
+    "profile": {
+      "avg_age": 19,
+      "gender": "女",
+      "preferences": [
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 66,
+    "profile": {
+      "avg_age": 22,
+      "gender": "女",
+      "preferences": [
+        "跨境电商",
+        "移动支付",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 67,
+    "profile": {
+      "avg_age": 24,
+      "gender": "女",
+      "preferences": [
+        "跨境电商",
+        "移动支付",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 68,
+    "profile": {
+      "avg_age": 26,
+      "gender": "男",
+      "preferences": [
+        "网络游戏",
+        "在线购物",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 69,
+    "profile": {
+      "avg_age": 28,
+      "gender": "男",
+      "preferences": [
+        "短视频",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 70,
+    "profile": {
+      "avg_age": 27,
+      "gender": "男",
+      "preferences": [
+        "短视频",
+        "在线购物",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 71,
+    "profile": {
+      "avg_age": 40,
+      "gender": "男",
+      "preferences": [
+        "远程教育",
+        "移动支付",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 72,
+    "profile": {
+      "avg_age": 33,
+      "gender": "女",
+      "preferences": [
+        "跨境电商",
+        "网络游戏",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 73,
+    "profile": {
+      "avg_age": 15,
+      "gender": "男",
+      "preferences": [
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 74,
+    "profile": {
+      "avg_age": 41,
+      "gender": "男",
+      "preferences": [
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 75,
+    "profile": {
+      "avg_age": 36,
+      "gender": "男",
+      "preferences": [
+        "短视频",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 76,
+    "profile": {
+      "avg_age": 27,
+      "gender": "女",
+      "preferences": [
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 77,
+    "profile": {
+      "avg_age": 29,
+      "gender": "男",
+      "preferences": [
+        "网络游戏",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 78,
+    "profile": {
+      "avg_age": 15,
+      "gender": "女",
+      "preferences": [
+        "短视频",
+        "移动支付",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 79,
+    "profile": {
+      "avg_age": 37,
+      "gender": "男",
+      "preferences": [
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 80,
+    "profile": {
+      "avg_age": 34,
+      "gender": "男",
+      "preferences": [
+        "网络游戏",
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 81,
+    "profile": {
+      "avg_age": 44,
+      "gender": "女",
+      "preferences": [
+        "远程教育",
+        "跨境电商",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 82,
+    "profile": {
+      "avg_age": 31,
+      "gender": "女",
+      "preferences": [
+        "网络游戏",
+        "跨境电商",
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 83,
+    "profile": {
+      "avg_age": 41,
+      "gender": "男",
+      "preferences": [
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 84,
+    "profile": {
+      "avg_age": 33,
+      "gender": "男",
+      "preferences": [
+        "在线购物",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 85,
+    "profile": {
+      "avg_age": 27,
+      "gender": "男",
+      "preferences": [
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 86,
+    "profile": {
+      "avg_age": 27,
+      "gender": "女",
+      "preferences": [
+        "在线购物",
+        "跨境电商",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 87,
+    "profile": {
+      "avg_age": 36,
+      "gender": "女",
+      "preferences": [
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 88,
+    "profile": {
+      "avg_age": 39,
+      "gender": "女",
+      "preferences": [
+        "远程教育",
+        "短视频",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 89,
+    "profile": {
+      "avg_age": 27,
+      "gender": "女",
+      "preferences": [
+        "移动支付",
+        "远程教育",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 90,
+    "profile": {
+      "avg_age": 33,
+      "gender": "女",
+      "preferences": [
+        "跨境电商",
+        "移动支付",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 91,
+    "profile": {
+      "avg_age": 24,
+      "gender": "男",
+      "preferences": [
+        "在线购物",
+        "网络游戏",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 92,
+    "profile": {
+      "avg_age": 42,
+      "gender": "女",
+      "preferences": [
+        "移动支付",
+        "远程教育",
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 93,
+    "profile": {
+      "avg_age": 27,
+      "gender": "男",
+      "preferences": [
+        "在线购物",
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 94,
+    "profile": {
+      "avg_age": 28,
+      "gender": "男",
+      "preferences": [
+        "远程教育",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 95,
+    "profile": {
+      "avg_age": 40,
+      "gender": "男",
+      "preferences": [
+        "网络游戏",
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 96,
+    "profile": {
+      "avg_age": 21,
+      "gender": "男",
+      "preferences": [
+        "在线购物",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 97,
+    "profile": {
+      "avg_age": 23,
+      "gender": "女",
+      "preferences": [
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 98,
+    "profile": {
+      "avg_age": 34,
+      "gender": "男",
+      "preferences": [
+        "移动支付",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 99,
+    "profile": {
+      "avg_age": 38,
+      "gender": "男",
+      "preferences": [
+        "在线购物",
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 100,
+    "profile": {
+      "avg_age": 43,
+      "gender": "女",
+      "preferences": [
+        "远程教育",
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 101,
+    "profile": {
+      "avg_age": 15,
+      "gender": "男",
+      "preferences": [
+        "远程教育",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 102,
+    "profile": {
+      "avg_age": 41,
+      "gender": "女",
+      "preferences": [
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 103,
+    "profile": {
+      "avg_age": 36,
+      "gender": "女",
+      "preferences": [
+        "远程教育",
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 104,
+    "profile": {
+      "avg_age": 37,
+      "gender": "女",
+      "preferences": [
+        "网络游戏",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 105,
+    "profile": {
+      "avg_age": 41,
+      "gender": "女",
+      "preferences": [
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 106,
+    "profile": {
+      "avg_age": 33,
+      "gender": "女",
+      "preferences": [
+        "短视频",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 107,
+    "profile": {
+      "avg_age": 15,
+      "gender": "男",
+      "preferences": [
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 108,
+    "profile": {
+      "avg_age": 33,
+      "gender": "女",
+      "preferences": [
+        "移动支付",
+        "网络游戏",
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 109,
+    "profile": {
+      "avg_age": 36,
+      "gender": "女",
+      "preferences": [
+        "移动支付",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 110,
+    "profile": {
+      "avg_age": 24,
+      "gender": "男",
+      "preferences": [
+        "远程教育",
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 111,
+    "profile": {
+      "avg_age": 27,
+      "gender": "女",
+      "preferences": [
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 112,
+    "profile": {
+      "avg_age": 45,
+      "gender": "女",
+      "preferences": [
+        "跨境电商",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 113,
+    "profile": {
+      "avg_age": 50,
+      "gender": "女",
+      "preferences": [
+        "网络游戏",
+        "跨境电商",
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 114,
+    "profile": {
+      "avg_age": 43,
+      "gender": "女",
+      "preferences": [
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 115,
+    "profile": {
+      "avg_age": 31,
+      "gender": "女",
+      "preferences": [
+        "短视频",
+        "移动支付",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 116,
+    "profile": {
+      "avg_age": 31,
+      "gender": "男",
+      "preferences": [
+        "短视频",
+        "跨境电商",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 117,
+    "profile": {
+      "avg_age": 32,
+      "gender": "男",
+      "preferences": [
+        "在线购物",
+        "移动支付",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 118,
+    "profile": {
+      "avg_age": 32,
+      "gender": "男",
+      "preferences": [
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 119,
+    "profile": {
+      "avg_age": 41,
+      "gender": "男",
+      "preferences": [
+        "网络游戏",
+        "短视频",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 120,
+    "profile": {
+      "avg_age": 46,
+      "gender": "男",
+      "preferences": [
+        "跨境电商",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 121,
+    "profile": {
+      "avg_age": 25,
+      "gender": "男",
+      "preferences": [
+        "短视频",
+        "移动支付",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 122,
+    "profile": {
+      "avg_age": 28,
+      "gender": "男",
+      "preferences": [
+        "远程教育",
+        "跨境电商",
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 123,
+    "profile": {
+      "avg_age": 31,
+      "gender": "女",
+      "preferences": [
+        "移动支付",
+        "远程教育",
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 124,
+    "profile": {
+      "avg_age": 15,
+      "gender": "男",
+      "preferences": [
+        "移动支付",
+        "网络游戏",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 125,
+    "profile": {
+      "avg_age": 20,
+      "gender": "男",
+      "preferences": [
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 126,
+    "profile": {
+      "avg_age": 57,
+      "gender": "男",
+      "preferences": [
+        "短视频",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 127,
+    "profile": {
+      "avg_age": 44,
+      "gender": "女",
+      "preferences": [
+        "移动支付",
+        "跨境电商",
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 128,
+    "profile": {
+      "avg_age": 30,
+      "gender": "女",
+      "preferences": [
+        "移动支付",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 129,
+    "profile": {
+      "avg_age": 30,
+      "gender": "男",
+      "preferences": [
+        "移动支付",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 130,
+    "profile": {
+      "avg_age": 33,
+      "gender": "女",
+      "preferences": [
+        "移动支付",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 131,
+    "profile": {
+      "avg_age": 31,
+      "gender": "女",
+      "preferences": [
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 132,
+    "profile": {
+      "avg_age": 25,
+      "gender": "女",
+      "preferences": [
+        "远程教育",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 133,
+    "profile": {
+      "avg_age": 47,
+      "gender": "女",
+      "preferences": [
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 134,
+    "profile": {
+      "avg_age": 39,
+      "gender": "女",
+      "preferences": [
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 135,
+    "profile": {
+      "avg_age": 34,
+      "gender": "男",
+      "preferences": [
+        "移动支付",
+        "短视频",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 136,
+    "profile": {
+      "avg_age": 37,
+      "gender": "男",
+      "preferences": [
+        "在线购物",
+        "跨境电商",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 137,
+    "profile": {
+      "avg_age": 23,
+      "gender": "男",
+      "preferences": [
+        "网络游戏",
+        "跨境电商",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 138,
+    "profile": {
+      "avg_age": 46,
+      "gender": "男",
+      "preferences": [
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 139,
+    "profile": {
+      "avg_age": 35,
+      "gender": "男",
+      "preferences": [
+        "短视频",
+        "网络游戏",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 140,
+    "profile": {
+      "avg_age": 19,
+      "gender": "男",
+      "preferences": [
+        "网络游戏",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 141,
+    "profile": {
+      "avg_age": 35,
+      "gender": "男",
+      "preferences": [
+        "在线购物",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 142,
+    "profile": {
+      "avg_age": 37,
+      "gender": "男",
+      "preferences": [
+        "短视频",
+        "移动支付",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 143,
+    "profile": {
+      "avg_age": 18,
+      "gender": "男",
+      "preferences": [
+        "网络游戏",
+        "短视频",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 144,
+    "profile": {
+      "avg_age": 32,
+      "gender": "男",
+      "preferences": [
+        "移动支付",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 145,
+    "profile": {
+      "avg_age": 21,
+      "gender": "女",
+      "preferences": [
+        "远程教育",
+        "在线购物",
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 146,
+    "profile": {
+      "avg_age": 25,
+      "gender": "男",
+      "preferences": [
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 147,
+    "profile": {
+      "avg_age": 58,
+      "gender": "女",
+      "preferences": [
+        "网络游戏",
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 148,
+    "profile": {
+      "avg_age": 39,
+      "gender": "男",
+      "preferences": [
+        "跨境电商",
+        "移动支付",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 149,
+    "profile": {
+      "avg_age": 30,
+      "gender": "男",
+      "preferences": [
+        "跨境电商",
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 150,
+    "profile": {
+      "avg_age": 33,
+      "gender": "男",
+      "preferences": [
+        "远程教育",
+        "跨境电商",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 151,
+    "profile": {
+      "avg_age": 29,
+      "gender": "女",
+      "preferences": [
+        "网络游戏",
+        "远程教育",
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 152,
+    "profile": {
+      "avg_age": 35,
+      "gender": "男",
+      "preferences": [
+        "在线购物",
+        "移动支付",
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 153,
+    "profile": {
+      "avg_age": 36,
+      "gender": "女",
+      "preferences": [
+        "在线购物",
+        "短视频",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 154,
+    "profile": {
+      "avg_age": 41,
+      "gender": "男",
+      "preferences": [
+        "在线购物",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 155,
+    "profile": {
+      "avg_age": 28,
+      "gender": "女",
+      "preferences": [
+        "移动支付",
+        "在线购物",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 156,
+    "profile": {
+      "avg_age": 49,
+      "gender": "女",
+      "preferences": [
+        "移动支付",
+        "短视频",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 157,
+    "profile": {
+      "avg_age": 28,
+      "gender": "男",
+      "preferences": [
+        "短视频",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 158,
+    "profile": {
+      "avg_age": 46,
+      "gender": "女",
+      "preferences": [
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 159,
+    "profile": {
+      "avg_age": 31,
+      "gender": "男",
+      "preferences": [
+        "在线购物",
+        "短视频",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 160,
+    "profile": {
+      "avg_age": 28,
+      "gender": "男",
+      "preferences": [
+        "移动支付",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 161,
+    "profile": {
+      "avg_age": 27,
+      "gender": "女",
+      "preferences": [
+        "跨境电商",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 162,
+    "profile": {
+      "avg_age": 31,
+      "gender": "男",
+      "preferences": [
+        "短视频",
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 163,
+    "profile": {
+      "avg_age": 26,
+      "gender": "女",
+      "preferences": [
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 164,
+    "profile": {
+      "avg_age": 22,
+      "gender": "女",
+      "preferences": [
+        "在线购物",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 165,
+    "profile": {
+      "avg_age": 35,
+      "gender": "女",
+      "preferences": [
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 166,
+    "profile": {
+      "avg_age": 20,
+      "gender": "女",
+      "preferences": [
+        "远程教育",
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 167,
+    "profile": {
+      "avg_age": 43,
+      "gender": "男",
+      "preferences": [
+        "跨境电商",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 168,
+    "profile": {
+      "avg_age": 48,
+      "gender": "男",
+      "preferences": [
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 169,
+    "profile": {
+      "avg_age": 29,
+      "gender": "女",
+      "preferences": [
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 170,
+    "profile": {
+      "avg_age": 29,
+      "gender": "男",
+      "preferences": [
+        "跨境电商",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 171,
+    "profile": {
+      "avg_age": 32,
+      "gender": "女",
+      "preferences": [
+        "网络游戏",
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 172,
+    "profile": {
+      "avg_age": 35,
+      "gender": "男",
+      "preferences": [
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 173,
+    "profile": {
+      "avg_age": 28,
+      "gender": "女",
+      "preferences": [
+        "网络游戏",
+        "短视频",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 174,
+    "profile": {
+      "avg_age": 30,
+      "gender": "男",
+      "preferences": [
+        "远程教育",
+        "在线购物",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 175,
+    "profile": {
+      "avg_age": 35,
+      "gender": "女",
+      "preferences": [
+        "远程教育",
+        "网络游戏",
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 176,
+    "profile": {
+      "avg_age": 47,
+      "gender": "男",
+      "preferences": [
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 177,
+    "profile": {
+      "avg_age": 29,
+      "gender": "男",
+      "preferences": [
+        "远程教育",
+        "网络游戏",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 178,
+    "profile": {
+      "avg_age": 49,
+      "gender": "男",
+      "preferences": [
+        "网络游戏",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 179,
+    "profile": {
+      "avg_age": 27,
+      "gender": "女",
+      "preferences": [
+        "移动支付",
+        "跨境电商",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 180,
+    "profile": {
+      "avg_age": 59,
+      "gender": "女",
+      "preferences": [
+        "远程教育",
+        "在线购物",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 181,
+    "profile": {
+      "avg_age": 41,
+      "gender": "女",
+      "preferences": [
+        "跨境电商",
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 182,
+    "profile": {
+      "avg_age": 55,
+      "gender": "男",
+      "preferences": [
+        "在线购物",
+        "短视频",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 183,
+    "profile": {
+      "avg_age": 51,
+      "gender": "女",
+      "preferences": [
+        "网络游戏",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 184,
+    "profile": {
+      "avg_age": 48,
+      "gender": "男",
+      "preferences": [
+        "网络游戏",
+        "短视频",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 185,
+    "profile": {
+      "avg_age": 47,
+      "gender": "女",
+      "preferences": [
+        "网络游戏",
+        "在线购物",
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 186,
+    "profile": {
+      "avg_age": 27,
+      "gender": "女",
+      "preferences": [
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 187,
+    "profile": {
+      "avg_age": 29,
+      "gender": "女",
+      "preferences": [
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 188,
+    "profile": {
+      "avg_age": 42,
+      "gender": "男",
+      "preferences": [
+        "远程教育",
+        "网络游戏",
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 189,
+    "profile": {
+      "avg_age": 19,
+      "gender": "男",
+      "preferences": [
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 190,
+    "profile": {
+      "avg_age": 15,
+      "gender": "男",
+      "preferences": [
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 191,
+    "profile": {
+      "avg_age": 38,
+      "gender": "女",
+      "preferences": [
+        "跨境电商",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 192,
+    "profile": {
+      "avg_age": 50,
+      "gender": "男",
+      "preferences": [
+        "移动支付",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 193,
+    "profile": {
+      "avg_age": 15,
+      "gender": "女",
+      "preferences": [
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 194,
+    "profile": {
+      "avg_age": 47,
+      "gender": "男",
+      "preferences": [
+        "跨境电商",
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 195,
+    "profile": {
+      "avg_age": 43,
+      "gender": "女",
+      "preferences": [
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 196,
+    "profile": {
+      "avg_age": 30,
+      "gender": "女",
+      "preferences": [
+        "跨境电商",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 197,
+    "profile": {
+      "avg_age": 35,
+      "gender": "女",
+      "preferences": [
+        "在线购物",
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 198,
+    "profile": {
+      "avg_age": 44,
+      "gender": "男",
+      "preferences": [
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 199,
+    "profile": {
+      "avg_age": 48,
+      "gender": "女",
+      "preferences": [
+        "跨境电商",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 200,
+    "profile": {
+      "avg_age": 52,
+      "gender": "女",
+      "preferences": [
+        "在线购物",
+        "网络游戏",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 201,
+    "profile": {
+      "avg_age": 27,
+      "gender": "男",
+      "preferences": [
+        "移动支付",
+        "跨境电商",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 202,
+    "profile": {
+      "avg_age": 22,
+      "gender": "女",
+      "preferences": [
+        "短视频",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 203,
+    "profile": {
+      "avg_age": 27,
+      "gender": "男",
+      "preferences": [
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 204,
+    "profile": {
+      "avg_age": 39,
+      "gender": "男",
+      "preferences": [
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 205,
+    "profile": {
+      "avg_age": 20,
+      "gender": "男",
+      "preferences": [
+        "跨境电商",
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 206,
+    "profile": {
+      "avg_age": 43,
+      "gender": "男",
+      "preferences": [
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 207,
+    "profile": {
+      "avg_age": 42,
+      "gender": "男",
+      "preferences": [
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 208,
+    "profile": {
+      "avg_age": 41,
+      "gender": "女",
+      "preferences": [
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 209,
+    "profile": {
+      "avg_age": 41,
+      "gender": "男",
+      "preferences": [
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 210,
+    "profile": {
+      "avg_age": 26,
+      "gender": "女",
+      "preferences": [
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 211,
+    "profile": {
+      "avg_age": 18,
+      "gender": "男",
+      "preferences": [
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 212,
+    "profile": {
+      "avg_age": 28,
+      "gender": "男",
+      "preferences": [
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 213,
+    "profile": {
+      "avg_age": 22,
+      "gender": "女",
+      "preferences": [
+        "移动支付",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 214,
+    "profile": {
+      "avg_age": 40,
+      "gender": "男",
+      "preferences": [
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 215,
+    "profile": {
+      "avg_age": 21,
+      "gender": "男",
+      "preferences": [
+        "在线购物",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 216,
+    "profile": {
+      "avg_age": 18,
+      "gender": "男",
+      "preferences": [
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 217,
+    "profile": {
+      "avg_age": 46,
+      "gender": "男",
+      "preferences": [
+        "在线购物",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 218,
+    "profile": {
+      "avg_age": 21,
+      "gender": "男",
+      "preferences": [
+        "短视频",
+        "移动支付",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 219,
+    "profile": {
+      "avg_age": 55,
+      "gender": "女",
+      "preferences": [
+        "远程教育",
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 220,
+    "profile": {
+      "avg_age": 34,
+      "gender": "男",
+      "preferences": [
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 221,
+    "profile": {
+      "avg_age": 47,
+      "gender": "女",
+      "preferences": [
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 222,
+    "profile": {
+      "avg_age": 43,
+      "gender": "男",
+      "preferences": [
+        "移动支付",
+        "短视频",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 223,
+    "profile": {
+      "avg_age": 27,
+      "gender": "男",
+      "preferences": [
+        "移动支付",
+        "网络游戏",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 224,
+    "profile": {
+      "avg_age": 42,
+      "gender": "男",
+      "preferences": [
+        "移动支付",
+        "网络游戏",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 225,
+    "profile": {
+      "avg_age": 53,
+      "gender": "男",
+      "preferences": [
+        "在线购物",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 226,
+    "profile": {
+      "avg_age": 31,
+      "gender": "女",
+      "preferences": [
+        "短视频",
+        "在线购物",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 227,
+    "profile": {
+      "avg_age": 25,
+      "gender": "男",
+      "preferences": [
+        "移动支付",
+        "短视频",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 228,
+    "profile": {
+      "avg_age": 53,
+      "gender": "女",
+      "preferences": [
+        "远程教育",
+        "短视频",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 229,
+    "profile": {
+      "avg_age": 41,
+      "gender": "男",
+      "preferences": [
+        "网络游戏",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 230,
+    "profile": {
+      "avg_age": 24,
+      "gender": "女",
+      "preferences": [
+        "移动支付",
+        "远程教育",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 231,
+    "profile": {
+      "avg_age": 40,
+      "gender": "男",
+      "preferences": [
+        "跨境电商",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 232,
+    "profile": {
+      "avg_age": 43,
+      "gender": "男",
+      "preferences": [
+        "网络游戏",
+        "远程教育",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 233,
+    "profile": {
+      "avg_age": 59,
+      "gender": "男",
+      "preferences": [
+        "网络游戏",
+        "远程教育",
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 234,
+    "profile": {
+      "avg_age": 34,
+      "gender": "男",
+      "preferences": [
+        "短视频",
+        "在线购物",
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 235,
+    "profile": {
+      "avg_age": 61,
+      "gender": "女",
+      "preferences": [
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 236,
+    "profile": {
+      "avg_age": 18,
+      "gender": "男",
+      "preferences": [
+        "网络游戏",
+        "跨境电商",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 237,
+    "profile": {
+      "avg_age": 46,
+      "gender": "女",
+      "preferences": [
+        "在线购物",
+        "短视频",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 238,
+    "profile": {
+      "avg_age": 42,
+      "gender": "男",
+      "preferences": [
+        "远程教育",
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 239,
+    "profile": {
+      "avg_age": 38,
+      "gender": "男",
+      "preferences": [
+        "在线购物",
+        "短视频",
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 240,
+    "profile": {
+      "avg_age": 40,
+      "gender": "男",
+      "preferences": [
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 241,
+    "profile": {
+      "avg_age": 30,
+      "gender": "女",
+      "preferences": [
+        "远程教育",
+        "在线购物",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 242,
+    "profile": {
+      "avg_age": 23,
+      "gender": "女",
+      "preferences": [
+        "网络游戏",
+        "短视频",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 243,
+    "profile": {
+      "avg_age": 51,
+      "gender": "男",
+      "preferences": [
+        "远程教育",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 244,
+    "profile": {
+      "avg_age": 20,
+      "gender": "男",
+      "preferences": [
+        "短视频",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 245,
+    "profile": {
+      "avg_age": 52,
+      "gender": "男",
+      "preferences": [
+        "移动支付",
+        "网络游戏",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 246,
+    "profile": {
+      "avg_age": 15,
+      "gender": "女",
+      "preferences": [
+        "短视频",
+        "网络游戏",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 247,
+    "profile": {
+      "avg_age": 44,
+      "gender": "男",
+      "preferences": [
+        "跨境电商",
+        "移动支付",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 248,
+    "profile": {
+      "avg_age": 41,
+      "gender": "男",
+      "preferences": [
+        "在线购物",
+        "网络游戏",
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 249,
+    "profile": {
+      "avg_age": 15,
+      "gender": "女",
+      "preferences": [
+        "在线购物",
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 250,
+    "profile": {
+      "avg_age": 24,
+      "gender": "男",
+      "preferences": [
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 251,
+    "profile": {
+      "avg_age": 29,
+      "gender": "女",
+      "preferences": [
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 252,
+    "profile": {
+      "avg_age": 38,
+      "gender": "男",
+      "preferences": [
+        "远程教育",
+        "在线购物",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 253,
+    "profile": {
+      "avg_age": 57,
+      "gender": "女",
+      "preferences": [
+        "远程教育",
+        "网络游戏",
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 254,
+    "profile": {
+      "avg_age": 32,
+      "gender": "女",
+      "preferences": [
+        "远程教育",
+        "移动支付",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 255,
+    "profile": {
+      "avg_age": 47,
+      "gender": "女",
+      "preferences": [
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 256,
+    "profile": {
+      "avg_age": 48,
+      "gender": "男",
+      "preferences": [
+        "移动支付",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 257,
+    "profile": {
+      "avg_age": 36,
+      "gender": "男",
+      "preferences": [
+        "短视频",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 258,
+    "profile": {
+      "avg_age": 15,
+      "gender": "女",
+      "preferences": [
+        "远程教育",
+        "短视频",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 259,
+    "profile": {
+      "avg_age": 16,
+      "gender": "女",
+      "preferences": [
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 260,
+    "profile": {
+      "avg_age": 47,
+      "gender": "男",
+      "preferences": [
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 261,
+    "profile": {
+      "avg_age": 42,
+      "gender": "男",
+      "preferences": [
+        "跨境电商",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 262,
+    "profile": {
+      "avg_age": 22,
+      "gender": "男",
+      "preferences": [
+        "跨境电商",
+        "远程教育",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 263,
+    "profile": {
+      "avg_age": 30,
+      "gender": "男",
+      "preferences": [
+        "移动支付",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 264,
+    "profile": {
+      "avg_age": 17,
+      "gender": "男",
+      "preferences": [
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 265,
+    "profile": {
+      "avg_age": 23,
+      "gender": "女",
+      "preferences": [
+        "移动支付",
+        "远程教育",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 266,
+    "profile": {
+      "avg_age": 15,
+      "gender": "女",
+      "preferences": [
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 267,
+    "profile": {
+      "avg_age": 30,
+      "gender": "女",
+      "preferences": [
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 268,
+    "profile": {
+      "avg_age": 48,
+      "gender": "男",
+      "preferences": [
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 269,
+    "profile": {
+      "avg_age": 55,
+      "gender": "女",
+      "preferences": [
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 270,
+    "profile": {
+      "avg_age": 27,
+      "gender": "男",
+      "preferences": [
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 271,
+    "profile": {
+      "avg_age": 34,
+      "gender": "男",
+      "preferences": [
+        "在线购物",
+        "网络游戏",
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 272,
+    "profile": {
+      "avg_age": 27,
+      "gender": "男",
+      "preferences": [
+        "移动支付",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 273,
+    "profile": {
+      "avg_age": 41,
+      "gender": "男",
+      "preferences": [
+        "远程教育",
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 274,
+    "profile": {
+      "avg_age": 41,
+      "gender": "女",
+      "preferences": [
+        "短视频",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 275,
+    "profile": {
+      "avg_age": 37,
+      "gender": "女",
+      "preferences": [
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 276,
+    "profile": {
+      "avg_age": 25,
+      "gender": "男",
+      "preferences": [
+        "远程教育",
+        "网络游戏",
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 277,
+    "profile": {
+      "avg_age": 30,
+      "gender": "男",
+      "preferences": [
+        "网络游戏",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 278,
+    "profile": {
+      "avg_age": 30,
+      "gender": "男",
+      "preferences": [
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 279,
+    "profile": {
+      "avg_age": 51,
+      "gender": "女",
+      "preferences": [
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 280,
+    "profile": {
+      "avg_age": 34,
+      "gender": "女",
+      "preferences": [
+        "远程教育",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 281,
+    "profile": {
+      "avg_age": 25,
+      "gender": "女",
+      "preferences": [
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 282,
+    "profile": {
+      "avg_age": 36,
+      "gender": "女",
+      "preferences": [
+        "移动支付",
+        "在线购物",
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 283,
+    "profile": {
+      "avg_age": 22,
+      "gender": "男",
+      "preferences": [
+        "移动支付",
+        "网络游戏",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 284,
+    "profile": {
+      "avg_age": 55,
+      "gender": "男",
+      "preferences": [
+        "移动支付",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 285,
+    "profile": {
+      "avg_age": 22,
+      "gender": "男",
+      "preferences": [
+        "远程教育",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 286,
+    "profile": {
+      "avg_age": 24,
+      "gender": "男",
+      "preferences": [
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 287,
+    "profile": {
+      "avg_age": 31,
+      "gender": "男",
+      "preferences": [
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 288,
+    "profile": {
+      "avg_age": 35,
+      "gender": "男",
+      "preferences": [
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 289,
+    "profile": {
+      "avg_age": 31,
+      "gender": "女",
+      "preferences": [
+        "远程教育",
+        "在线购物",
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 290,
+    "profile": {
+      "avg_age": 31,
+      "gender": "女",
+      "preferences": [
+        "短视频",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 291,
+    "profile": {
+      "avg_age": 42,
+      "gender": "男",
+      "preferences": [
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 292,
+    "profile": {
+      "avg_age": 32,
+      "gender": "男",
+      "preferences": [
+        "跨境电商",
+        "短视频",
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 293,
+    "profile": {
+      "avg_age": 31,
+      "gender": "男",
+      "preferences": [
+        "短视频",
+        "网络游戏",
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 294,
+    "profile": {
+      "avg_age": 46,
+      "gender": "女",
+      "preferences": [
+        "跨境电商",
+        "在线购物",
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 295,
+    "profile": {
+      "avg_age": 46,
+      "gender": "女",
+      "preferences": [
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 296,
+    "profile": {
+      "avg_age": 32,
+      "gender": "男",
+      "preferences": [
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 297,
+    "profile": {
+      "avg_age": 33,
+      "gender": "男",
+      "preferences": [
+        "网络游戏",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 298,
+    "profile": {
+      "avg_age": 35,
+      "gender": "女",
+      "preferences": [
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 299,
+    "profile": {
+      "avg_age": 30,
+      "gender": "女",
+      "preferences": [
+        "短视频",
+        "跨境电商",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 300,
+    "profile": {
+      "avg_age": 39,
+      "gender": "女",
+      "preferences": [
+        "远程教育",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 301,
+    "profile": {
+      "avg_age": 30,
+      "gender": "男",
+      "preferences": [
+        "网络游戏",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 302,
+    "profile": {
+      "avg_age": 17,
+      "gender": "女",
+      "preferences": [
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 303,
+    "profile": {
+      "avg_age": 38,
+      "gender": "女",
+      "preferences": [
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 304,
+    "profile": {
+      "avg_age": 28,
+      "gender": "男",
+      "preferences": [
+        "远程教育",
+        "在线购物",
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 305,
+    "profile": {
+      "avg_age": 34,
+      "gender": "女",
+      "preferences": [
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 306,
+    "profile": {
+      "avg_age": 45,
+      "gender": "男",
+      "preferences": [
+        "远程教育",
+        "跨境电商",
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 307,
+    "profile": {
+      "avg_age": 49,
+      "gender": "女",
+      "preferences": [
+        "移动支付",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 308,
+    "profile": {
+      "avg_age": 35,
+      "gender": "女",
+      "preferences": [
+        "远程教育",
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 309,
+    "profile": {
+      "avg_age": 33,
+      "gender": "女",
+      "preferences": [
+        "网络游戏",
+        "短视频",
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 310,
+    "profile": {
+      "avg_age": 17,
+      "gender": "女",
+      "preferences": [
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 311,
+    "profile": {
+      "avg_age": 37,
+      "gender": "女",
+      "preferences": [
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 312,
+    "profile": {
+      "avg_age": 24,
+      "gender": "男",
+      "preferences": [
+        "在线购物",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 313,
+    "profile": {
+      "avg_age": 59,
+      "gender": "男",
+      "preferences": [
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 314,
+    "profile": {
+      "avg_age": 29,
+      "gender": "女",
+      "preferences": [
+        "远程教育",
+        "短视频",
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 315,
+    "profile": {
+      "avg_age": 29,
+      "gender": "男",
+      "preferences": [
+        "远程教育",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 316,
+    "profile": {
+      "avg_age": 34,
+      "gender": "男",
+      "preferences": [
+        "短视频",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 317,
+    "profile": {
+      "avg_age": 36,
+      "gender": "女",
+      "preferences": [
+        "短视频",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 318,
+    "profile": {
+      "avg_age": 52,
+      "gender": "男",
+      "preferences": [
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 319,
+    "profile": {
+      "avg_age": 36,
+      "gender": "男",
+      "preferences": [
+        "跨境电商",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 320,
+    "profile": {
+      "avg_age": 43,
+      "gender": "女",
+      "preferences": [
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 321,
+    "profile": {
+      "avg_age": 37,
+      "gender": "男",
+      "preferences": [
+        "移动支付",
+        "在线购物",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 322,
+    "profile": {
+      "avg_age": 47,
+      "gender": "女",
+      "preferences": [
+        "网络游戏",
+        "移动支付",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 323,
+    "profile": {
+      "avg_age": 35,
+      "gender": "男",
+      "preferences": [
+        "跨境电商",
+        "远程教育",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 324,
+    "profile": {
+      "avg_age": 15,
+      "gender": "男",
+      "preferences": [
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 325,
+    "profile": {
+      "avg_age": 42,
+      "gender": "女",
+      "preferences": [
+        "跨境电商",
+        "在线购物",
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 326,
+    "profile": {
+      "avg_age": 43,
+      "gender": "女",
+      "preferences": [
+        "网络游戏",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 327,
+    "profile": {
+      "avg_age": 38,
+      "gender": "女",
+      "preferences": [
+        "跨境电商",
+        "在线购物",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 328,
+    "profile": {
+      "avg_age": 27,
+      "gender": "男",
+      "preferences": [
+        "跨境电商",
+        "移动支付",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 329,
+    "profile": {
+      "avg_age": 47,
+      "gender": "女",
+      "preferences": [
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 330,
+    "profile": {
+      "avg_age": 21,
+      "gender": "男",
+      "preferences": [
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 331,
+    "profile": {
+      "avg_age": 44,
+      "gender": "女",
+      "preferences": [
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 332,
+    "profile": {
+      "avg_age": 31,
+      "gender": "女",
+      "preferences": [
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 333,
+    "profile": {
+      "avg_age": 30,
+      "gender": "男",
+      "preferences": [
+        "远程教育",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 334,
+    "profile": {
+      "avg_age": 37,
+      "gender": "女",
+      "preferences": [
+        "跨境电商",
+        "在线购物",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 335,
+    "profile": {
+      "avg_age": 28,
+      "gender": "女",
+      "preferences": [
+        "在线购物",
+        "跨境电商",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 336,
+    "profile": {
+      "avg_age": 32,
+      "gender": "女",
+      "preferences": [
+        "网络游戏",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 337,
+    "profile": {
+      "avg_age": 49,
+      "gender": "男",
+      "preferences": [
+        "网络游戏",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 338,
+    "profile": {
+      "avg_age": 42,
+      "gender": "男",
+      "preferences": [
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 339,
+    "profile": {
+      "avg_age": 26,
+      "gender": "男",
+      "preferences": [
+        "移动支付",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 340,
+    "profile": {
+      "avg_age": 24,
+      "gender": "女",
+      "preferences": [
+        "在线购物",
+        "移动支付",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 341,
+    "profile": {
+      "avg_age": 42,
+      "gender": "男",
+      "preferences": [
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 342,
+    "profile": {
+      "avg_age": 29,
+      "gender": "男",
+      "preferences": [
+        "在线购物",
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 343,
+    "profile": {
+      "avg_age": 42,
+      "gender": "女",
+      "preferences": [
+        "远程教育",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 344,
+    "profile": {
+      "avg_age": 15,
+      "gender": "男",
+      "preferences": [
+        "短视频",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 345,
+    "profile": {
+      "avg_age": 48,
+      "gender": "女",
+      "preferences": [
+        "在线购物",
+        "网络游戏",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 346,
+    "profile": {
+      "avg_age": 41,
+      "gender": "男",
+      "preferences": [
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 347,
+    "profile": {
+      "avg_age": 35,
+      "gender": "男",
+      "preferences": [
+        "移动支付",
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 348,
+    "profile": {
+      "avg_age": 38,
+      "gender": "女",
+      "preferences": [
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 349,
+    "profile": {
+      "avg_age": 30,
+      "gender": "男",
+      "preferences": [
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 350,
+    "profile": {
+      "avg_age": 48,
+      "gender": "男",
+      "preferences": [
+        "远程教育",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 351,
+    "profile": {
+      "avg_age": 36,
+      "gender": "女",
+      "preferences": [
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 352,
+    "profile": {
+      "avg_age": 41,
+      "gender": "男",
+      "preferences": [
+        "短视频",
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 353,
+    "profile": {
+      "avg_age": 40,
+      "gender": "女",
+      "preferences": [
+        "网络游戏",
+        "移动支付",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 354,
+    "profile": {
+      "avg_age": 29,
+      "gender": "男",
+      "preferences": [
+        "远程教育",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 355,
+    "profile": {
+      "avg_age": 31,
+      "gender": "女",
+      "preferences": [
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 356,
+    "profile": {
+      "avg_age": 39,
+      "gender": "男",
+      "preferences": [
+        "在线购物",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 357,
+    "profile": {
+      "avg_age": 54,
+      "gender": "女",
+      "preferences": [
+        "跨境电商",
+        "网络游戏",
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 358,
+    "profile": {
+      "avg_age": 51,
+      "gender": "男",
+      "preferences": [
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 359,
+    "profile": {
+      "avg_age": 25,
+      "gender": "女",
+      "preferences": [
+        "在线购物",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 360,
+    "profile": {
+      "avg_age": 45,
+      "gender": "男",
+      "preferences": [
+        "短视频",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 361,
+    "profile": {
+      "avg_age": 32,
+      "gender": "男",
+      "preferences": [
+        "网络游戏",
+        "跨境电商",
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 362,
+    "profile": {
+      "avg_age": 21,
+      "gender": "男",
+      "preferences": [
+        "在线购物",
+        "远程教育",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 363,
+    "profile": {
+      "avg_age": 38,
+      "gender": "男",
+      "preferences": [
+        "在线购物",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 364,
+    "profile": {
+      "avg_age": 23,
+      "gender": "女",
+      "preferences": [
+        "网络游戏",
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 365,
+    "profile": {
+      "avg_age": 21,
+      "gender": "女",
+      "preferences": [
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 366,
+    "profile": {
+      "avg_age": 47,
+      "gender": "女",
+      "preferences": [
+        "网络游戏",
+        "短视频",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 367,
+    "profile": {
+      "avg_age": 33,
+      "gender": "女",
+      "preferences": [
+        "远程教育",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 368,
+    "profile": {
+      "avg_age": 44,
+      "gender": "女",
+      "preferences": [
+        "网络游戏",
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 369,
+    "profile": {
+      "avg_age": 25,
+      "gender": "男",
+      "preferences": [
+        "远程教育",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 370,
+    "profile": {
+      "avg_age": 21,
+      "gender": "女",
+      "preferences": [
+        "跨境电商",
+        "短视频",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 371,
+    "profile": {
+      "avg_age": 23,
+      "gender": "女",
+      "preferences": [
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 372,
+    "profile": {
+      "avg_age": 40,
+      "gender": "男",
+      "preferences": [
+        "网络游戏",
+        "远程教育",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 373,
+    "profile": {
+      "avg_age": 15,
+      "gender": "男",
+      "preferences": [
+        "远程教育",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 374,
+    "profile": {
+      "avg_age": 41,
+      "gender": "男",
+      "preferences": [
+        "网络游戏",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 375,
+    "profile": {
+      "avg_age": 34,
+      "gender": "男",
+      "preferences": [
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 376,
+    "profile": {
+      "avg_age": 37,
+      "gender": "男",
+      "preferences": [
+        "在线购物",
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 377,
+    "profile": {
+      "avg_age": 38,
+      "gender": "女",
+      "preferences": [
+        "移动支付",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 378,
+    "profile": {
+      "avg_age": 47,
+      "gender": "女",
+      "preferences": [
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 379,
+    "profile": {
+      "avg_age": 36,
+      "gender": "女",
+      "preferences": [
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 380,
+    "profile": {
+      "avg_age": 55,
+      "gender": "女",
+      "preferences": [
+        "远程教育",
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 381,
+    "profile": {
+      "avg_age": 37,
+      "gender": "女",
+      "preferences": [
+        "远程教育",
+        "移动支付",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 382,
+    "profile": {
+      "avg_age": 55,
+      "gender": "女",
+      "preferences": [
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 383,
+    "profile": {
+      "avg_age": 30,
+      "gender": "女",
+      "preferences": [
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 384,
+    "profile": {
+      "avg_age": 16,
+      "gender": "男",
+      "preferences": [
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 385,
+    "profile": {
+      "avg_age": 33,
+      "gender": "男",
+      "preferences": [
+        "跨境电商",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 386,
+    "profile": {
+      "avg_age": 25,
+      "gender": "女",
+      "preferences": [
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 387,
+    "profile": {
+      "avg_age": 16,
+      "gender": "女",
+      "preferences": [
+        "短视频",
+        "远程教育",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 388,
+    "profile": {
+      "avg_age": 26,
+      "gender": "男",
+      "preferences": [
+        "网络游戏",
+        "远程教育",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 389,
+    "profile": {
+      "avg_age": 37,
+      "gender": "女",
+      "preferences": [
+        "在线购物",
+        "网络游戏",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 390,
+    "profile": {
+      "avg_age": 44,
+      "gender": "男",
+      "preferences": [
+        "远程教育",
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 391,
+    "profile": {
+      "avg_age": 48,
+      "gender": "男",
+      "preferences": [
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 392,
+    "profile": {
+      "avg_age": 28,
+      "gender": "男",
+      "preferences": [
+        "远程教育",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 393,
+    "profile": {
+      "avg_age": 44,
+      "gender": "女",
+      "preferences": [
+        "跨境电商",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 394,
+    "profile": {
+      "avg_age": 38,
+      "gender": "男",
+      "preferences": [
+        "跨境电商",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 395,
+    "profile": {
+      "avg_age": 15,
+      "gender": "女",
+      "preferences": [
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 396,
+    "profile": {
+      "avg_age": 39,
+      "gender": "男",
+      "preferences": [
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 397,
+    "profile": {
+      "avg_age": 36,
+      "gender": "男",
+      "preferences": [
+        "移动支付",
+        "远程教育",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 398,
+    "profile": {
+      "avg_age": 32,
+      "gender": "男",
+      "preferences": [
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 399,
+    "profile": {
+      "avg_age": 31,
+      "gender": "女",
+      "preferences": [
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 400,
+    "profile": {
+      "avg_age": 35,
+      "gender": "女",
+      "preferences": [
+        "网络游戏",
+        "跨境电商",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 401,
+    "profile": {
+      "avg_age": 56,
+      "gender": "男",
+      "preferences": [
+        "跨境电商",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 402,
+    "profile": {
+      "avg_age": 58,
+      "gender": "男",
+      "preferences": [
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 403,
+    "profile": {
+      "avg_age": 30,
+      "gender": "女",
+      "preferences": [
+        "网络游戏",
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 404,
+    "profile": {
+      "avg_age": 15,
+      "gender": "男",
+      "preferences": [
+        "远程教育",
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 405,
+    "profile": {
+      "avg_age": 34,
+      "gender": "女",
+      "preferences": [
+        "远程教育",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 406,
+    "profile": {
+      "avg_age": 24,
+      "gender": "男",
+      "preferences": [
+        "移动支付",
+        "跨境电商",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 407,
+    "profile": {
+      "avg_age": 37,
+      "gender": "男",
+      "preferences": [
+        "短视频",
+        "在线购物",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 408,
+    "profile": {
+      "avg_age": 35,
+      "gender": "男",
+      "preferences": [
+        "网络游戏",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 409,
+    "profile": {
+      "avg_age": 42,
+      "gender": "女",
+      "preferences": [
+        "在线购物",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 410,
+    "profile": {
+      "avg_age": 34,
+      "gender": "男",
+      "preferences": [
+        "短视频",
+        "移动支付",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 411,
+    "profile": {
+      "avg_age": 39,
+      "gender": "男",
+      "preferences": [
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 412,
+    "profile": {
+      "avg_age": 46,
+      "gender": "女",
+      "preferences": [
+        "跨境电商",
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 413,
+    "profile": {
+      "avg_age": 32,
+      "gender": "男",
+      "preferences": [
+        "网络游戏",
+        "跨境电商",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 414,
+    "profile": {
+      "avg_age": 45,
+      "gender": "男",
+      "preferences": [
+        "网络游戏",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 415,
+    "profile": {
+      "avg_age": 50,
+      "gender": "女",
+      "preferences": [
+        "网络游戏",
+        "在线购物",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 416,
+    "profile": {
+      "avg_age": 42,
+      "gender": "女",
+      "preferences": [
+        "移动支付",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 417,
+    "profile": {
+      "avg_age": 36,
+      "gender": "女",
+      "preferences": [
+        "跨境电商",
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 418,
+    "profile": {
+      "avg_age": 40,
+      "gender": "男",
+      "preferences": [
+        "跨境电商",
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 419,
+    "profile": {
+      "avg_age": 29,
+      "gender": "男",
+      "preferences": [
+        "在线购物",
+        "远程教育",
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 420,
+    "profile": {
+      "avg_age": 44,
+      "gender": "男",
+      "preferences": [
+        "网络游戏",
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 421,
+    "profile": {
+      "avg_age": 33,
+      "gender": "男",
+      "preferences": [
+        "网络游戏",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 422,
+    "profile": {
+      "avg_age": 34,
+      "gender": "男",
+      "preferences": [
+        "网络游戏",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 423,
+    "profile": {
+      "avg_age": 36,
+      "gender": "男",
+      "preferences": [
+        "短视频",
+        "跨境电商",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 424,
+    "profile": {
+      "avg_age": 30,
+      "gender": "女",
+      "preferences": [
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 425,
+    "profile": {
+      "avg_age": 33,
+      "gender": "男",
+      "preferences": [
+        "短视频",
+        "移动支付",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 426,
+    "profile": {
+      "avg_age": 47,
+      "gender": "女",
+      "preferences": [
+        "短视频",
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 427,
+    "profile": {
+      "avg_age": 17,
+      "gender": "女",
+      "preferences": [
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 428,
+    "profile": {
+      "avg_age": 25,
+      "gender": "男",
+      "preferences": [
+        "移动支付",
+        "网络游戏",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 429,
+    "profile": {
+      "avg_age": 29,
+      "gender": "男",
+      "preferences": [
+        "短视频",
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 430,
+    "profile": {
+      "avg_age": 42,
+      "gender": "女",
+      "preferences": [
+        "远程教育",
+        "跨境电商",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 431,
+    "profile": {
+      "avg_age": 31,
+      "gender": "男",
+      "preferences": [
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 432,
+    "profile": {
+      "avg_age": 20,
+      "gender": "男",
+      "preferences": [
+        "移动支付",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 433,
+    "profile": {
+      "avg_age": 42,
+      "gender": "女",
+      "preferences": [
+        "短视频",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 434,
+    "profile": {
+      "avg_age": 50,
+      "gender": "女",
+      "preferences": [
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 435,
+    "profile": {
+      "avg_age": 28,
+      "gender": "男",
+      "preferences": [
+        "在线购物",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 436,
+    "profile": {
+      "avg_age": 41,
+      "gender": "男",
+      "preferences": [
+        "跨境电商",
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 437,
+    "profile": {
+      "avg_age": 28,
+      "gender": "男",
+      "preferences": [
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 438,
+    "profile": {
+      "avg_age": 35,
+      "gender": "男",
+      "preferences": [
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 439,
+    "profile": {
+      "avg_age": 58,
+      "gender": "男",
+      "preferences": [
+        "在线购物",
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 440,
+    "profile": {
+      "avg_age": 15,
+      "gender": "男",
+      "preferences": [
+        "跨境电商",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 441,
+    "profile": {
+      "avg_age": 29,
+      "gender": "男",
+      "preferences": [
+        "远程教育",
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 442,
+    "profile": {
+      "avg_age": 34,
+      "gender": "男",
+      "preferences": [
+        "移动支付",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 443,
+    "profile": {
+      "avg_age": 30,
+      "gender": "男",
+      "preferences": [
+        "短视频",
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 444,
+    "profile": {
+      "avg_age": 30,
+      "gender": "女",
+      "preferences": [
+        "移动支付",
+        "网络游戏",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 445,
+    "profile": {
+      "avg_age": 40,
+      "gender": "女",
+      "preferences": [
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 446,
+    "profile": {
+      "avg_age": 24,
+      "gender": "女",
+      "preferences": [
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 447,
+    "profile": {
+      "avg_age": 41,
+      "gender": "男",
+      "preferences": [
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 448,
+    "profile": {
+      "avg_age": 46,
+      "gender": "女",
+      "preferences": [
+        "短视频",
+        "网络游戏",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 449,
+    "profile": {
+      "avg_age": 46,
+      "gender": "女",
+      "preferences": [
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 450,
+    "profile": {
+      "avg_age": 34,
+      "gender": "女",
+      "preferences": [
+        "移动支付",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 451,
+    "profile": {
+      "avg_age": 66,
+      "gender": "女",
+      "preferences": [
+        "在线购物",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 452,
+    "profile": {
+      "avg_age": 25,
+      "gender": "女",
+      "preferences": [
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 453,
+    "profile": {
+      "avg_age": 21,
+      "gender": "男",
+      "preferences": [
+        "在线购物",
+        "远程教育",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 454,
+    "profile": {
+      "avg_age": 22,
+      "gender": "男",
+      "preferences": [
+        "远程教育",
+        "短视频",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 455,
+    "profile": {
+      "avg_age": 31,
+      "gender": "女",
+      "preferences": [
+        "跨境电商",
+        "移动支付",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 456,
+    "profile": {
+      "avg_age": 40,
+      "gender": "女",
+      "preferences": [
+        "跨境电商",
+        "远程教育",
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 457,
+    "profile": {
+      "avg_age": 21,
+      "gender": "男",
+      "preferences": [
+        "跨境电商",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 458,
+    "profile": {
+      "avg_age": 43,
+      "gender": "女",
+      "preferences": [
+        "远程教育",
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 459,
+    "profile": {
+      "avg_age": 45,
+      "gender": "女",
+      "preferences": [
+        "跨境电商",
+        "远程教育",
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 460,
+    "profile": {
+      "avg_age": 48,
+      "gender": "女",
+      "preferences": [
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 461,
+    "profile": {
+      "avg_age": 26,
+      "gender": "女",
+      "preferences": [
+        "远程教育",
+        "短视频",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 462,
+    "profile": {
+      "avg_age": 34,
+      "gender": "女",
+      "preferences": [
+        "跨境电商",
+        "远程教育",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 463,
+    "profile": {
+      "avg_age": 41,
+      "gender": "女",
+      "preferences": [
+        "跨境电商",
+        "远程教育",
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 464,
+    "profile": {
+      "avg_age": 36,
+      "gender": "女",
+      "preferences": [
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 465,
+    "profile": {
+      "avg_age": 37,
+      "gender": "男",
+      "preferences": [
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 466,
+    "profile": {
+      "avg_age": 40,
+      "gender": "女",
+      "preferences": [
+        "在线购物",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 467,
+    "profile": {
+      "avg_age": 31,
+      "gender": "女",
+      "preferences": [
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 468,
+    "profile": {
+      "avg_age": 41,
+      "gender": "男",
+      "preferences": [
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 469,
+    "profile": {
+      "avg_age": 32,
+      "gender": "女",
+      "preferences": [
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 470,
+    "profile": {
+      "avg_age": 35,
+      "gender": "男",
+      "preferences": [
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 471,
+    "profile": {
+      "avg_age": 19,
+      "gender": "女",
+      "preferences": [
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 472,
+    "profile": {
+      "avg_age": 33,
+      "gender": "男",
+      "preferences": [
+        "短视频",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 473,
+    "profile": {
+      "avg_age": 18,
+      "gender": "男",
+      "preferences": [
+        "远程教育",
+        "在线购物",
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 474,
+    "profile": {
+      "avg_age": 24,
+      "gender": "女",
+      "preferences": [
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 475,
+    "profile": {
+      "avg_age": 15,
+      "gender": "男",
+      "preferences": [
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 476,
+    "profile": {
+      "avg_age": 36,
+      "gender": "男",
+      "preferences": [
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 477,
+    "profile": {
+      "avg_age": 36,
+      "gender": "女",
+      "preferences": [
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 478,
+    "profile": {
+      "avg_age": 39,
+      "gender": "女",
+      "preferences": [
+        "在线购物",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 479,
+    "profile": {
+      "avg_age": 42,
+      "gender": "男",
+      "preferences": [
+        "跨境电商",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 480,
+    "profile": {
+      "avg_age": 36,
+      "gender": "女",
+      "preferences": [
+        "远程教育",
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 481,
+    "profile": {
+      "avg_age": 27,
+      "gender": "女",
+      "preferences": [
+        "移动支付",
+        "在线购物",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 482,
+    "profile": {
+      "avg_age": 49,
+      "gender": "女",
+      "preferences": [
+        "跨境电商",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 483,
+    "profile": {
+      "avg_age": 49,
+      "gender": "男",
+      "preferences": [
+        "在线购物",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 484,
+    "profile": {
+      "avg_age": 23,
+      "gender": "男",
+      "preferences": [
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 485,
+    "profile": {
+      "avg_age": 42,
+      "gender": "女",
+      "preferences": [
+        "网络游戏",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 486,
+    "profile": {
+      "avg_age": 35,
+      "gender": "男",
+      "preferences": [
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 487,
+    "profile": {
+      "avg_age": 53,
+      "gender": "女",
+      "preferences": [
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 488,
+    "profile": {
+      "avg_age": 38,
+      "gender": "男",
+      "preferences": [
+        "在线购物",
+        "跨境电商",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 489,
+    "profile": {
+      "avg_age": 45,
+      "gender": "女",
+      "preferences": [
+        "远程教育",
+        "移动支付",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 490,
+    "profile": {
+      "avg_age": 33,
+      "gender": "女",
+      "preferences": [
+        "网络游戏",
+        "远程教育",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 491,
+    "profile": {
+      "avg_age": 39,
+      "gender": "女",
+      "preferences": [
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 492,
+    "profile": {
+      "avg_age": 40,
+      "gender": "女",
+      "preferences": [
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 493,
+    "profile": {
+      "avg_age": 29,
+      "gender": "男",
+      "preferences": [
+        "跨境电商",
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 494,
+    "profile": {
+      "avg_age": 35,
+      "gender": "女",
+      "preferences": [
+        "跨境电商",
+        "移动支付",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 495,
+    "profile": {
+      "avg_age": 24,
+      "gender": "男",
+      "preferences": [
+        "短视频",
+        "在线购物",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 496,
+    "profile": {
+      "avg_age": 24,
+      "gender": "男",
+      "preferences": [
+        "跨境电商",
+        "远程教育",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 497,
+    "profile": {
+      "avg_age": 44,
+      "gender": "男",
+      "preferences": [
+        "短视频",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 498,
+    "profile": {
+      "avg_age": 29,
+      "gender": "女",
+      "preferences": [
+        "移动支付",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 499,
+    "profile": {
+      "avg_age": 53,
+      "gender": "男",
+      "preferences": [
+        "短视频",
+        "移动支付",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 500,
+    "profile": {
+      "avg_age": 32,
+      "gender": "男",
+      "preferences": [
+        "跨境电商",
+        "网络游戏",
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 501,
+    "profile": {
+      "avg_age": 36,
+      "gender": "女",
+      "preferences": [
+        "跨境电商",
+        "移动支付",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 502,
+    "profile": {
+      "avg_age": 39,
+      "gender": "男",
+      "preferences": [
+        "移动支付",
+        "远程教育",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 503,
+    "profile": {
+      "avg_age": 37,
+      "gender": "男",
+      "preferences": [
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 504,
+    "profile": {
+      "avg_age": 39,
+      "gender": "女",
+      "preferences": [
+        "短视频",
+        "跨境电商",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 505,
+    "profile": {
+      "avg_age": 33,
+      "gender": "男",
+      "preferences": [
+        "短视频",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 506,
+    "profile": {
+      "avg_age": 46,
+      "gender": "男",
+      "preferences": [
+        "移动支付",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 507,
+    "profile": {
+      "avg_age": 34,
+      "gender": "男",
+      "preferences": [
+        "网络游戏",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 508,
+    "profile": {
+      "avg_age": 46,
+      "gender": "男",
+      "preferences": [
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 509,
+    "profile": {
+      "avg_age": 36,
+      "gender": "男",
+      "preferences": [
+        "远程教育",
+        "在线购物",
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 510,
+    "profile": {
+      "avg_age": 26,
+      "gender": "男",
+      "preferences": [
+        "短视频",
+        "在线购物",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 511,
+    "profile": {
+      "avg_age": 35,
+      "gender": "女",
+      "preferences": [
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 512,
+    "profile": {
+      "avg_age": 37,
+      "gender": "男",
+      "preferences": [
+        "在线购物",
+        "网络游戏",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 513,
+    "profile": {
+      "avg_age": 44,
+      "gender": "男",
+      "preferences": [
+        "在线购物",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 514,
+    "profile": {
+      "avg_age": 26,
+      "gender": "女",
+      "preferences": [
+        "远程教育",
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 515,
+    "profile": {
+      "avg_age": 47,
+      "gender": "女",
+      "preferences": [
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 516,
+    "profile": {
+      "avg_age": 29,
+      "gender": "女",
+      "preferences": [
+        "远程教育",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 517,
+    "profile": {
+      "avg_age": 33,
+      "gender": "女",
+      "preferences": [
+        "移动支付",
+        "远程教育",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 518,
+    "profile": {
+      "avg_age": 20,
+      "gender": "女",
+      "preferences": [
+        "移动支付",
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 519,
+    "profile": {
+      "avg_age": 28,
+      "gender": "男",
+      "preferences": [
+        "跨境电商",
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 520,
+    "profile": {
+      "avg_age": 35,
+      "gender": "女",
+      "preferences": [
+        "移动支付",
+        "短视频",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 521,
+    "profile": {
+      "avg_age": 45,
+      "gender": "男",
+      "preferences": [
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 522,
+    "profile": {
+      "avg_age": 45,
+      "gender": "男",
+      "preferences": [
+        "网络游戏",
+        "跨境电商",
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 523,
+    "profile": {
+      "avg_age": 34,
+      "gender": "男",
+      "preferences": [
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 524,
+    "profile": {
+      "avg_age": 34,
+      "gender": "男",
+      "preferences": [
+        "跨境电商",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 525,
+    "profile": {
+      "avg_age": 40,
+      "gender": "女",
+      "preferences": [
+        "移动支付",
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 526,
+    "profile": {
+      "avg_age": 23,
+      "gender": "女",
+      "preferences": [
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 527,
+    "profile": {
+      "avg_age": 44,
+      "gender": "男",
+      "preferences": [
+        "网络游戏",
+        "移动支付",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 528,
+    "profile": {
+      "avg_age": 54,
+      "gender": "女",
+      "preferences": [
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 529,
+    "profile": {
+      "avg_age": 40,
+      "gender": "女",
+      "preferences": [
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 530,
+    "profile": {
+      "avg_age": 37,
+      "gender": "男",
+      "preferences": [
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 531,
+    "profile": {
+      "avg_age": 42,
+      "gender": "男",
+      "preferences": [
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 532,
+    "profile": {
+      "avg_age": 39,
+      "gender": "女",
+      "preferences": [
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 533,
+    "profile": {
+      "avg_age": 42,
+      "gender": "女",
+      "preferences": [
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 534,
+    "profile": {
+      "avg_age": 21,
+      "gender": "男",
+      "preferences": [
+        "在线购物",
+        "短视频",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 535,
+    "profile": {
+      "avg_age": 44,
+      "gender": "男",
+      "preferences": [
+        "远程教育",
+        "短视频",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 536,
+    "profile": {
+      "avg_age": 52,
+      "gender": "男",
+      "preferences": [
+        "在线购物",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 537,
+    "profile": {
+      "avg_age": 25,
+      "gender": "女",
+      "preferences": [
+        "远程教育",
+        "在线购物",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 538,
+    "profile": {
+      "avg_age": 24,
+      "gender": "男",
+      "preferences": [
+        "远程教育",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 539,
+    "profile": {
+      "avg_age": 40,
+      "gender": "女",
+      "preferences": [
+        "在线购物",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 540,
+    "profile": {
+      "avg_age": 32,
+      "gender": "女",
+      "preferences": [
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 541,
+    "profile": {
+      "avg_age": 16,
+      "gender": "男",
+      "preferences": [
+        "在线购物",
+        "远程教育",
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 542,
+    "profile": {
+      "avg_age": 26,
+      "gender": "女",
+      "preferences": [
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 543,
+    "profile": {
+      "avg_age": 26,
+      "gender": "男",
+      "preferences": [
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 544,
+    "profile": {
+      "avg_age": 34,
+      "gender": "男",
+      "preferences": [
+        "在线购物",
+        "网络游戏",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 545,
+    "profile": {
+      "avg_age": 34,
+      "gender": "女",
+      "preferences": [
+        "远程教育",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 546,
+    "profile": {
+      "avg_age": 41,
+      "gender": "男",
+      "preferences": [
+        "跨境电商",
+        "移动支付",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 547,
+    "profile": {
+      "avg_age": 39,
+      "gender": "女",
+      "preferences": [
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 548,
+    "profile": {
+      "avg_age": 28,
+      "gender": "女",
+      "preferences": [
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 549,
+    "profile": {
+      "avg_age": 43,
+      "gender": "男",
+      "preferences": [
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 550,
+    "profile": {
+      "avg_age": 42,
+      "gender": "女",
+      "preferences": [
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 551,
+    "profile": {
+      "avg_age": 44,
+      "gender": "男",
+      "preferences": [
+        "跨境电商",
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 552,
+    "profile": {
+      "avg_age": 56,
+      "gender": "男",
+      "preferences": [
+        "短视频",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 553,
+    "profile": {
+      "avg_age": 31,
+      "gender": "女",
+      "preferences": [
+        "在线购物",
+        "网络游戏",
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 554,
+    "profile": {
+      "avg_age": 35,
+      "gender": "男",
+      "preferences": [
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 555,
+    "profile": {
+      "avg_age": 45,
+      "gender": "女",
+      "preferences": [
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 556,
+    "profile": {
+      "avg_age": 45,
+      "gender": "男",
+      "preferences": [
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 557,
+    "profile": {
+      "avg_age": 15,
+      "gender": "女",
+      "preferences": [
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 558,
+    "profile": {
+      "avg_age": 37,
+      "gender": "女",
+      "preferences": [
+        "远程教育",
+        "跨境电商",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 559,
+    "profile": {
+      "avg_age": 44,
+      "gender": "男",
+      "preferences": [
+        "短视频",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 560,
+    "profile": {
+      "avg_age": 32,
+      "gender": "男",
+      "preferences": [
+        "短视频",
+        "跨境电商",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 561,
+    "profile": {
+      "avg_age": 29,
+      "gender": "男",
+      "preferences": [
+        "在线购物",
+        "远程教育",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 562,
+    "profile": {
+      "avg_age": 49,
+      "gender": "女",
+      "preferences": [
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 563,
+    "profile": {
+      "avg_age": 18,
+      "gender": "男",
+      "preferences": [
+        "短视频",
+        "移动支付",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 564,
+    "profile": {
+      "avg_age": 34,
+      "gender": "女",
+      "preferences": [
+        "跨境电商",
+        "在线购物",
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 565,
+    "profile": {
+      "avg_age": 15,
+      "gender": "男",
+      "preferences": [
+        "在线购物",
+        "跨境电商",
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 566,
+    "profile": {
+      "avg_age": 51,
+      "gender": "女",
+      "preferences": [
+        "跨境电商",
+        "网络游戏",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 567,
+    "profile": {
+      "avg_age": 36,
+      "gender": "男",
+      "preferences": [
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 568,
+    "profile": {
+      "avg_age": 20,
+      "gender": "女",
+      "preferences": [
+        "远程教育",
+        "跨境电商",
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 569,
+    "profile": {
+      "avg_age": 37,
+      "gender": "女",
+      "preferences": [
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 570,
+    "profile": {
+      "avg_age": 50,
+      "gender": "女",
+      "preferences": [
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 571,
+    "profile": {
+      "avg_age": 26,
+      "gender": "女",
+      "preferences": [
+        "短视频",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 572,
+    "profile": {
+      "avg_age": 45,
+      "gender": "男",
+      "preferences": [
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 573,
+    "profile": {
+      "avg_age": 45,
+      "gender": "男",
+      "preferences": [
+        "短视频",
+        "移动支付",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 574,
+    "profile": {
+      "avg_age": 22,
+      "gender": "男",
+      "preferences": [
+        "跨境电商",
+        "远程教育",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 575,
+    "profile": {
+      "avg_age": 30,
+      "gender": "女",
+      "preferences": [
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 576,
+    "profile": {
+      "avg_age": 39,
+      "gender": "男",
+      "preferences": [
+        "跨境电商",
+        "网络游戏",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 577,
+    "profile": {
+      "avg_age": 32,
+      "gender": "女",
+      "preferences": [
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 578,
+    "profile": {
+      "avg_age": 43,
+      "gender": "男",
+      "preferences": [
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 579,
+    "profile": {
+      "avg_age": 38,
+      "gender": "女",
+      "preferences": [
+        "远程教育",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 580,
+    "profile": {
+      "avg_age": 26,
+      "gender": "男",
+      "preferences": [
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 581,
+    "profile": {
+      "avg_age": 15,
+      "gender": "男",
+      "preferences": [
+        "在线购物",
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 582,
+    "profile": {
+      "avg_age": 23,
+      "gender": "女",
+      "preferences": [
+        "短视频",
+        "跨境电商",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 583,
+    "profile": {
+      "avg_age": 41,
+      "gender": "男",
+      "preferences": [
+        "远程教育",
+        "短视频",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 584,
+    "profile": {
+      "avg_age": 35,
+      "gender": "男",
+      "preferences": [
+        "网络游戏",
+        "移动支付",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 585,
+    "profile": {
+      "avg_age": 24,
+      "gender": "男",
+      "preferences": [
+        "跨境电商",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 586,
+    "profile": {
+      "avg_age": 34,
+      "gender": "女",
+      "preferences": [
+        "跨境电商",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 587,
+    "profile": {
+      "avg_age": 39,
+      "gender": "男",
+      "preferences": [
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 588,
+    "profile": {
+      "avg_age": 29,
+      "gender": "女",
+      "preferences": [
+        "网络游戏",
+        "远程教育",
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 589,
+    "profile": {
+      "avg_age": 32,
+      "gender": "男",
+      "preferences": [
+        "短视频",
+        "远程教育",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 590,
+    "profile": {
+      "avg_age": 58,
+      "gender": "女",
+      "preferences": [
+        "远程教育",
+        "网络游戏",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 591,
+    "profile": {
+      "avg_age": 52,
+      "gender": "男",
+      "preferences": [
+        "跨境电商",
+        "移动支付",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 592,
+    "profile": {
+      "avg_age": 28,
+      "gender": "女",
+      "preferences": [
+        "远程教育",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 593,
+    "profile": {
+      "avg_age": 41,
+      "gender": "女",
+      "preferences": [
+        "跨境电商",
+        "移动支付",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 594,
+    "profile": {
+      "avg_age": 45,
+      "gender": "男",
+      "preferences": [
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 595,
+    "profile": {
+      "avg_age": 25,
+      "gender": "男",
+      "preferences": [
+        "短视频",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 596,
+    "profile": {
+      "avg_age": 48,
+      "gender": "男",
+      "preferences": [
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 597,
+    "profile": {
+      "avg_age": 34,
+      "gender": "女",
+      "preferences": [
+        "网络游戏",
+        "跨境电商",
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 598,
+    "profile": {
+      "avg_age": 47,
+      "gender": "女",
+      "preferences": [
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 599,
+    "profile": {
+      "avg_age": 33,
+      "gender": "男",
+      "preferences": [
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 600,
+    "profile": {
+      "avg_age": 33,
+      "gender": "女",
+      "preferences": [
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 601,
+    "profile": {
+      "avg_age": 28,
+      "gender": "女",
+      "preferences": [
+        "网络游戏",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 602,
+    "profile": {
+      "avg_age": 32,
+      "gender": "女",
+      "preferences": [
+        "网络游戏",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 603,
+    "profile": {
+      "avg_age": 29,
+      "gender": "男",
+      "preferences": [
+        "短视频",
+        "移动支付",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 604,
+    "profile": {
+      "avg_age": 35,
+      "gender": "男",
+      "preferences": [
+        "移动支付",
+        "在线购物",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 605,
+    "profile": {
+      "avg_age": 26,
+      "gender": "女",
+      "preferences": [
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 606,
+    "profile": {
+      "avg_age": 45,
+      "gender": "男",
+      "preferences": [
+        "网络游戏",
+        "跨境电商",
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 607,
+    "profile": {
+      "avg_age": 29,
+      "gender": "男",
+      "preferences": [
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 608,
+    "profile": {
+      "avg_age": 43,
+      "gender": "男",
+      "preferences": [
+        "移动支付",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 609,
+    "profile": {
+      "avg_age": 30,
+      "gender": "男",
+      "preferences": [
+        "短视频",
+        "网络游戏",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 610,
+    "profile": {
+      "avg_age": 37,
+      "gender": "男",
+      "preferences": [
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 611,
+    "profile": {
+      "avg_age": 18,
+      "gender": "男",
+      "preferences": [
+        "短视频",
+        "远程教育",
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 612,
+    "profile": {
+      "avg_age": 38,
+      "gender": "女",
+      "preferences": [
+        "短视频",
+        "在线购物",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 613,
+    "profile": {
+      "avg_age": 43,
+      "gender": "女",
+      "preferences": [
+        "短视频",
+        "跨境电商",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 614,
+    "profile": {
+      "avg_age": 27,
+      "gender": "女",
+      "preferences": [
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 615,
+    "profile": {
+      "avg_age": 42,
+      "gender": "女",
+      "preferences": [
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 616,
+    "profile": {
+      "avg_age": 33,
+      "gender": "女",
+      "preferences": [
+        "网络游戏",
+        "在线购物",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 617,
+    "profile": {
+      "avg_age": 29,
+      "gender": "男",
+      "preferences": [
+        "在线购物",
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 618,
+    "profile": {
+      "avg_age": 40,
+      "gender": "女",
+      "preferences": [
+        "远程教育",
+        "短视频",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 619,
+    "profile": {
+      "avg_age": 52,
+      "gender": "女",
+      "preferences": [
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 620,
+    "profile": {
+      "avg_age": 41,
+      "gender": "男",
+      "preferences": [
+        "在线购物",
+        "远程教育",
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 621,
+    "profile": {
+      "avg_age": 16,
+      "gender": "男",
+      "preferences": [
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 622,
+    "profile": {
+      "avg_age": 26,
+      "gender": "男",
+      "preferences": [
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 623,
+    "profile": {
+      "avg_age": 36,
+      "gender": "男",
+      "preferences": [
+        "移动支付",
+        "短视频",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 624,
+    "profile": {
+      "avg_age": 32,
+      "gender": "男",
+      "preferences": [
+        "移动支付",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 625,
+    "profile": {
+      "avg_age": 40,
+      "gender": "男",
+      "preferences": [
+        "远程教育",
+        "跨境电商",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 626,
+    "profile": {
+      "avg_age": 36,
+      "gender": "男",
+      "preferences": [
+        "远程教育",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 627,
+    "profile": {
+      "avg_age": 51,
+      "gender": "男",
+      "preferences": [
+        "在线购物",
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 628,
+    "profile": {
+      "avg_age": 35,
+      "gender": "男",
+      "preferences": [
+        "远程教育",
+        "短视频",
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 629,
+    "profile": {
+      "avg_age": 48,
+      "gender": "男",
+      "preferences": [
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 630,
+    "profile": {
+      "avg_age": 29,
+      "gender": "男",
+      "preferences": [
+        "跨境电商",
+        "网络游戏",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 631,
+    "profile": {
+      "avg_age": 29,
+      "gender": "男",
+      "preferences": [
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 632,
+    "profile": {
+      "avg_age": 45,
+      "gender": "男",
+      "preferences": [
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 633,
+    "profile": {
+      "avg_age": 21,
+      "gender": "男",
+      "preferences": [
+        "移动支付",
+        "短视频",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 634,
+    "profile": {
+      "avg_age": 21,
+      "gender": "女",
+      "preferences": [
+        "跨境电商",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 635,
+    "profile": {
+      "avg_age": 30,
+      "gender": "女",
+      "preferences": [
+        "移动支付",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 636,
+    "profile": {
+      "avg_age": 34,
+      "gender": "男",
+      "preferences": [
+        "跨境电商",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 637,
+    "profile": {
+      "avg_age": 27,
+      "gender": "男",
+      "preferences": [
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 638,
+    "profile": {
+      "avg_age": 17,
+      "gender": "男",
+      "preferences": [
+        "移动支付",
+        "在线购物",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 639,
+    "profile": {
+      "avg_age": 34,
+      "gender": "男",
+      "preferences": [
+        "远程教育",
+        "网络游戏",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 640,
+    "profile": {
+      "avg_age": 15,
+      "gender": "男",
+      "preferences": [
+        "网络游戏",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 641,
+    "profile": {
+      "avg_age": 36,
+      "gender": "女",
+      "preferences": [
+        "移动支付",
+        "网络游戏",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 642,
+    "profile": {
+      "avg_age": 18,
+      "gender": "男",
+      "preferences": [
+        "跨境电商",
+        "移动支付",
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 643,
+    "profile": {
+      "avg_age": 57,
+      "gender": "女",
+      "preferences": [
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 644,
+    "profile": {
+      "avg_age": 15,
+      "gender": "男",
+      "preferences": [
+        "短视频",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 645,
+    "profile": {
+      "avg_age": 28,
+      "gender": "男",
+      "preferences": [
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 646,
+    "profile": {
+      "avg_age": 33,
+      "gender": "女",
+      "preferences": [
+        "远程教育",
+        "跨境电商",
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 647,
+    "profile": {
+      "avg_age": 38,
+      "gender": "女",
+      "preferences": [
+        "网络游戏",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 648,
+    "profile": {
+      "avg_age": 20,
+      "gender": "男",
+      "preferences": [
+        "网络游戏",
+        "远程教育",
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 649,
+    "profile": {
+      "avg_age": 31,
+      "gender": "女",
+      "preferences": [
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 650,
+    "profile": {
+      "avg_age": 51,
+      "gender": "男",
+      "preferences": [
+        "移动支付",
+        "在线购物",
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 651,
+    "profile": {
+      "avg_age": 32,
+      "gender": "男",
+      "preferences": [
+        "远程教育",
+        "在线购物",
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 652,
+    "profile": {
+      "avg_age": 48,
+      "gender": "男",
+      "preferences": [
+        "移动支付",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 653,
+    "profile": {
+      "avg_age": 15,
+      "gender": "男",
+      "preferences": [
+        "在线购物",
+        "跨境电商",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 654,
+    "profile": {
+      "avg_age": 29,
+      "gender": "男",
+      "preferences": [
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 655,
+    "profile": {
+      "avg_age": 30,
+      "gender": "男",
+      "preferences": [
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 656,
+    "profile": {
+      "avg_age": 35,
+      "gender": "女",
+      "preferences": [
+        "短视频",
+        "网络游戏",
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 657,
+    "profile": {
+      "avg_age": 50,
+      "gender": "女",
+      "preferences": [
+        "远程教育",
+        "网络游戏",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 658,
+    "profile": {
+      "avg_age": 29,
+      "gender": "男",
+      "preferences": [
+        "在线购物",
+        "短视频",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 659,
+    "profile": {
+      "avg_age": 16,
+      "gender": "男",
+      "preferences": [
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 660,
+    "profile": {
+      "avg_age": 48,
+      "gender": "男",
+      "preferences": [
+        "跨境电商",
+        "远程教育",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 661,
+    "profile": {
+      "avg_age": 31,
+      "gender": "男",
+      "preferences": [
+        "在线购物",
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 662,
+    "profile": {
+      "avg_age": 41,
+      "gender": "男",
+      "preferences": [
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 663,
+    "profile": {
+      "avg_age": 45,
+      "gender": "男",
+      "preferences": [
+        "在线购物",
+        "跨境电商",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 664,
+    "profile": {
+      "avg_age": 17,
+      "gender": "男",
+      "preferences": [
+        "网络游戏",
+        "远程教育",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 665,
+    "profile": {
+      "avg_age": 31,
+      "gender": "女",
+      "preferences": [
+        "网络游戏",
+        "短视频",
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 666,
+    "profile": {
+      "avg_age": 35,
+      "gender": "男",
+      "preferences": [
+        "移动支付",
+        "跨境电商",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 667,
+    "profile": {
+      "avg_age": 36,
+      "gender": "男",
+      "preferences": [
+        "远程教育",
+        "短视频",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 668,
+    "profile": {
+      "avg_age": 33,
+      "gender": "女",
+      "preferences": [
+        "远程教育",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 669,
+    "profile": {
+      "avg_age": 42,
+      "gender": "女",
+      "preferences": [
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 670,
+    "profile": {
+      "avg_age": 24,
+      "gender": "男",
+      "preferences": [
+        "跨境电商",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 671,
+    "profile": {
+      "avg_age": 32,
+      "gender": "女",
+      "preferences": [
+        "网络游戏",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 672,
+    "profile": {
+      "avg_age": 48,
+      "gender": "女",
+      "preferences": [
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 673,
+    "profile": {
+      "avg_age": 38,
+      "gender": "男",
+      "preferences": [
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 674,
+    "profile": {
+      "avg_age": 46,
+      "gender": "女",
+      "preferences": [
+        "在线购物",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 675,
+    "profile": {
+      "avg_age": 38,
+      "gender": "女",
+      "preferences": [
+        "远程教育",
+        "在线购物",
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 676,
+    "profile": {
+      "avg_age": 49,
+      "gender": "男",
+      "preferences": [
+        "移动支付",
+        "远程教育",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 677,
+    "profile": {
+      "avg_age": 26,
+      "gender": "女",
+      "preferences": [
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 678,
+    "profile": {
+      "avg_age": 39,
+      "gender": "男",
+      "preferences": [
+        "网络游戏",
+        "跨境电商",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 679,
+    "profile": {
+      "avg_age": 39,
+      "gender": "女",
+      "preferences": [
+        "远程教育",
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 680,
+    "profile": {
+      "avg_age": 36,
+      "gender": "女",
+      "preferences": [
+        "远程教育",
+        "短视频",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 681,
+    "profile": {
+      "avg_age": 36,
+      "gender": "男",
+      "preferences": [
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 682,
+    "profile": {
+      "avg_age": 17,
+      "gender": "男",
+      "preferences": [
+        "网络游戏",
+        "跨境电商",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 683,
+    "profile": {
+      "avg_age": 39,
+      "gender": "男",
+      "preferences": [
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 684,
+    "profile": {
+      "avg_age": 54,
+      "gender": "男",
+      "preferences": [
+        "短视频",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 685,
+    "profile": {
+      "avg_age": 25,
+      "gender": "女",
+      "preferences": [
+        "网络游戏",
+        "远程教育",
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 686,
+    "profile": {
+      "avg_age": 31,
+      "gender": "女",
+      "preferences": [
+        "跨境电商",
+        "在线购物",
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 687,
+    "profile": {
+      "avg_age": 38,
+      "gender": "女",
+      "preferences": [
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 688,
+    "profile": {
+      "avg_age": 31,
+      "gender": "女",
+      "preferences": [
+        "在线购物",
+        "移动支付",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 689,
+    "profile": {
+      "avg_age": 45,
+      "gender": "男",
+      "preferences": [
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 690,
+    "profile": {
+      "avg_age": 24,
+      "gender": "男",
+      "preferences": [
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 691,
+    "profile": {
+      "avg_age": 42,
+      "gender": "男",
+      "preferences": [
+        "跨境电商",
+        "网络游戏",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 692,
+    "profile": {
+      "avg_age": 41,
+      "gender": "女",
+      "preferences": [
+        "远程教育",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 693,
+    "profile": {
+      "avg_age": 37,
+      "gender": "男",
+      "preferences": [
+        "在线购物",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 694,
+    "profile": {
+      "avg_age": 33,
+      "gender": "男",
+      "preferences": [
+        "移动支付",
+        "网络游戏",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 695,
+    "profile": {
+      "avg_age": 17,
+      "gender": "女",
+      "preferences": [
+        "移动支付",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 696,
+    "profile": {
+      "avg_age": 22,
+      "gender": "女",
+      "preferences": [
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 697,
+    "profile": {
+      "avg_age": 28,
+      "gender": "女",
+      "preferences": [
+        "跨境电商",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 698,
+    "profile": {
+      "avg_age": 15,
+      "gender": "女",
+      "preferences": [
+        "移动支付",
+        "短视频",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 699,
+    "profile": {
+      "avg_age": 26,
+      "gender": "男",
+      "preferences": [
+        "跨境电商",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 700,
+    "profile": {
+      "avg_age": 43,
+      "gender": "男",
+      "preferences": [
+        "短视频",
+        "跨境电商",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 701,
+    "profile": {
+      "avg_age": 42,
+      "gender": "女",
+      "preferences": [
+        "网络游戏",
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 702,
+    "profile": {
+      "avg_age": 46,
+      "gender": "女",
+      "preferences": [
+        "跨境电商",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 703,
+    "profile": {
+      "avg_age": 27,
+      "gender": "女",
+      "preferences": [
+        "网络游戏",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 704,
+    "profile": {
+      "avg_age": 42,
+      "gender": "男",
+      "preferences": [
+        "移动支付",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 705,
+    "profile": {
+      "avg_age": 25,
+      "gender": "女",
+      "preferences": [
+        "移动支付",
+        "在线购物",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 706,
+    "profile": {
+      "avg_age": 43,
+      "gender": "男",
+      "preferences": [
+        "短视频",
+        "网络游戏",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 707,
+    "profile": {
+      "avg_age": 32,
+      "gender": "女",
+      "preferences": [
+        "跨境电商",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 708,
+    "profile": {
+      "avg_age": 38,
+      "gender": "女",
+      "preferences": [
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 709,
+    "profile": {
+      "avg_age": 53,
+      "gender": "女",
+      "preferences": [
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 710,
+    "profile": {
+      "avg_age": 34,
+      "gender": "女",
+      "preferences": [
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 711,
+    "profile": {
+      "avg_age": 38,
+      "gender": "男",
+      "preferences": [
+        "短视频",
+        "在线购物",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 712,
+    "profile": {
+      "avg_age": 52,
+      "gender": "男",
+      "preferences": [
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 713,
+    "profile": {
+      "avg_age": 23,
+      "gender": "女",
+      "preferences": [
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 714,
+    "profile": {
+      "avg_age": 46,
+      "gender": "女",
+      "preferences": [
+        "短视频",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 715,
+    "profile": {
+      "avg_age": 22,
+      "gender": "男",
+      "preferences": [
+        "在线购物",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 716,
+    "profile": {
+      "avg_age": 35,
+      "gender": "男",
+      "preferences": [
+        "在线购物",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 717,
+    "profile": {
+      "avg_age": 45,
+      "gender": "女",
+      "preferences": [
+        "在线购物",
+        "远程教育",
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 718,
+    "profile": {
+      "avg_age": 15,
+      "gender": "男",
+      "preferences": [
+        "远程教育",
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 719,
+    "profile": {
+      "avg_age": 25,
+      "gender": "男",
+      "preferences": [
+        "移动支付",
+        "在线购物",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 720,
+    "profile": {
+      "avg_age": 34,
+      "gender": "女",
+      "preferences": [
+        "远程教育",
+        "移动支付",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 721,
+    "profile": {
+      "avg_age": 18,
+      "gender": "男",
+      "preferences": [
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 722,
+    "profile": {
+      "avg_age": 41,
+      "gender": "女",
+      "preferences": [
+        "远程教育",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 723,
+    "profile": {
+      "avg_age": 27,
+      "gender": "男",
+      "preferences": [
+        "移动支付",
+        "远程教育",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 724,
+    "profile": {
+      "avg_age": 31,
+      "gender": "男",
+      "preferences": [
+        "跨境电商",
+        "移动支付",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 725,
+    "profile": {
+      "avg_age": 48,
+      "gender": "女",
+      "preferences": [
+        "短视频",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 726,
+    "profile": {
+      "avg_age": 34,
+      "gender": "男",
+      "preferences": [
+        "跨境电商",
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 727,
+    "profile": {
+      "avg_age": 40,
+      "gender": "男",
+      "preferences": [
+        "跨境电商",
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 728,
+    "profile": {
+      "avg_age": 33,
+      "gender": "男",
+      "preferences": [
+        "移动支付",
+        "短视频",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 729,
+    "profile": {
+      "avg_age": 39,
+      "gender": "男",
+      "preferences": [
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 730,
+    "profile": {
+      "avg_age": 50,
+      "gender": "男",
+      "preferences": [
+        "网络游戏",
+        "在线购物",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 731,
+    "profile": {
+      "avg_age": 35,
+      "gender": "男",
+      "preferences": [
+        "跨境电商",
+        "短视频",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 732,
+    "profile": {
+      "avg_age": 26,
+      "gender": "男",
+      "preferences": [
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 733,
+    "profile": {
+      "avg_age": 49,
+      "gender": "男",
+      "preferences": [
+        "跨境电商",
+        "短视频",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 734,
+    "profile": {
+      "avg_age": 59,
+      "gender": "女",
+      "preferences": [
+        "移动支付",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 735,
+    "profile": {
+      "avg_age": 20,
+      "gender": "女",
+      "preferences": [
+        "在线购物",
+        "网络游戏",
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 736,
+    "profile": {
+      "avg_age": 31,
+      "gender": "女",
+      "preferences": [
+        "在线购物",
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 737,
+    "profile": {
+      "avg_age": 43,
+      "gender": "女",
+      "preferences": [
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 738,
+    "profile": {
+      "avg_age": 31,
+      "gender": "男",
+      "preferences": [
+        "移动支付",
+        "远程教育",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 739,
+    "profile": {
+      "avg_age": 37,
+      "gender": "男",
+      "preferences": [
+        "短视频",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 740,
+    "profile": {
+      "avg_age": 38,
+      "gender": "男",
+      "preferences": [
+        "远程教育",
+        "网络游戏",
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 741,
+    "profile": {
+      "avg_age": 48,
+      "gender": "女",
+      "preferences": [
+        "远程教育",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 742,
+    "profile": {
+      "avg_age": 35,
+      "gender": "女",
+      "preferences": [
+        "在线购物",
+        "远程教育",
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 743,
+    "profile": {
+      "avg_age": 41,
+      "gender": "女",
+      "preferences": [
+        "网络游戏",
+        "移动支付",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 744,
+    "profile": {
+      "avg_age": 41,
+      "gender": "男",
+      "preferences": [
+        "网络游戏",
+        "移动支付",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 745,
+    "profile": {
+      "avg_age": 17,
+      "gender": "男",
+      "preferences": [
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 746,
+    "profile": {
+      "avg_age": 35,
+      "gender": "女",
+      "preferences": [
+        "在线购物",
+        "跨境电商",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 747,
+    "profile": {
+      "avg_age": 38,
+      "gender": "女",
+      "preferences": [
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 748,
+    "profile": {
+      "avg_age": 64,
+      "gender": "女",
+      "preferences": [
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 749,
+    "profile": {
+      "avg_age": 39,
+      "gender": "男",
+      "preferences": [
+        "网络游戏",
+        "短视频",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 750,
+    "profile": {
+      "avg_age": 29,
+      "gender": "男",
+      "preferences": [
+        "短视频",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 751,
+    "profile": {
+      "avg_age": 47,
+      "gender": "女",
+      "preferences": [
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 752,
+    "profile": {
+      "avg_age": 51,
+      "gender": "男",
+      "preferences": [
+        "在线购物",
+        "移动支付",
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 753,
+    "profile": {
+      "avg_age": 19,
+      "gender": "女",
+      "preferences": [
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 754,
+    "profile": {
+      "avg_age": 58,
+      "gender": "女",
+      "preferences": [
+        "网络游戏",
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 755,
+    "profile": {
+      "avg_age": 21,
+      "gender": "女",
+      "preferences": [
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 756,
+    "profile": {
+      "avg_age": 30,
+      "gender": "女",
+      "preferences": [
+        "远程教育",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 757,
+    "profile": {
+      "avg_age": 29,
+      "gender": "女",
+      "preferences": [
+        "跨境电商",
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 758,
+    "profile": {
+      "avg_age": 37,
+      "gender": "男",
+      "preferences": [
+        "跨境电商",
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 759,
+    "profile": {
+      "avg_age": 40,
+      "gender": "男",
+      "preferences": [
+        "网络游戏",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 760,
+    "profile": {
+      "avg_age": 57,
+      "gender": "女",
+      "preferences": [
+        "短视频",
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 761,
+    "profile": {
+      "avg_age": 40,
+      "gender": "女",
+      "preferences": [
+        "在线购物",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 762,
+    "profile": {
+      "avg_age": 37,
+      "gender": "女",
+      "preferences": [
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 763,
+    "profile": {
+      "avg_age": 26,
+      "gender": "男",
+      "preferences": [
+        "网络游戏",
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 764,
+    "profile": {
+      "avg_age": 34,
+      "gender": "男",
+      "preferences": [
+        "远程教育",
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 765,
+    "profile": {
+      "avg_age": 27,
+      "gender": "女",
+      "preferences": [
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 766,
+    "profile": {
+      "avg_age": 45,
+      "gender": "男",
+      "preferences": [
+        "移动支付",
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 767,
+    "profile": {
+      "avg_age": 42,
+      "gender": "男",
+      "preferences": [
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 768,
+    "profile": {
+      "avg_age": 28,
+      "gender": "男",
+      "preferences": [
+        "网络游戏",
+        "远程教育",
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 769,
+    "profile": {
+      "avg_age": 29,
+      "gender": "女",
+      "preferences": [
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 770,
+    "profile": {
+      "avg_age": 33,
+      "gender": "女",
+      "preferences": [
+        "移动支付",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 771,
+    "profile": {
+      "avg_age": 43,
+      "gender": "男",
+      "preferences": [
+        "远程教育",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 772,
+    "profile": {
+      "avg_age": 43,
+      "gender": "男",
+      "preferences": [
+        "跨境电商",
+        "网络游戏",
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 773,
+    "profile": {
+      "avg_age": 41,
+      "gender": "女",
+      "preferences": [
+        "远程教育",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 774,
+    "profile": {
+      "avg_age": 18,
+      "gender": "男",
+      "preferences": [
+        "移动支付",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 775,
+    "profile": {
+      "avg_age": 38,
+      "gender": "男",
+      "preferences": [
+        "短视频",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 776,
+    "profile": {
+      "avg_age": 37,
+      "gender": "女",
+      "preferences": [
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 777,
+    "profile": {
+      "avg_age": 44,
+      "gender": "女",
+      "preferences": [
+        "在线购物",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 778,
+    "profile": {
+      "avg_age": 42,
+      "gender": "女",
+      "preferences": [
+        "远程教育",
+        "网络游戏",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 779,
+    "profile": {
+      "avg_age": 31,
+      "gender": "男",
+      "preferences": [
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 780,
+    "profile": {
+      "avg_age": 26,
+      "gender": "女",
+      "preferences": [
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 781,
+    "profile": {
+      "avg_age": 22,
+      "gender": "男",
+      "preferences": [
+        "移动支付",
+        "跨境电商",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 782,
+    "profile": {
+      "avg_age": 34,
+      "gender": "男",
+      "preferences": [
+        "跨境电商",
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 783,
+    "profile": {
+      "avg_age": 39,
+      "gender": "女",
+      "preferences": [
+        "在线购物",
+        "短视频",
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 784,
+    "profile": {
+      "avg_age": 32,
+      "gender": "女",
+      "preferences": [
+        "跨境电商",
+        "在线购物",
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 785,
+    "profile": {
+      "avg_age": 34,
+      "gender": "男",
+      "preferences": [
+        "短视频",
+        "跨境电商",
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 786,
+    "profile": {
+      "avg_age": 19,
+      "gender": "女",
+      "preferences": [
+        "移动支付",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 787,
+    "profile": {
+      "avg_age": 28,
+      "gender": "女",
+      "preferences": [
+        "跨境电商",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 788,
+    "profile": {
+      "avg_age": 17,
+      "gender": "男",
+      "preferences": [
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 789,
+    "profile": {
+      "avg_age": 44,
+      "gender": "女",
+      "preferences": [
+        "远程教育",
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 790,
+    "profile": {
+      "avg_age": 39,
+      "gender": "男",
+      "preferences": [
+        "移动支付",
+        "短视频",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 791,
+    "profile": {
+      "avg_age": 22,
+      "gender": "女",
+      "preferences": [
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 792,
+    "profile": {
+      "avg_age": 44,
+      "gender": "男",
+      "preferences": [
+        "移动支付",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 793,
+    "profile": {
+      "avg_age": 22,
+      "gender": "女",
+      "preferences": [
+        "远程教育",
+        "短视频",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 794,
+    "profile": {
+      "avg_age": 26,
+      "gender": "男",
+      "preferences": [
+        "跨境电商",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 795,
+    "profile": {
+      "avg_age": 34,
+      "gender": "男",
+      "preferences": [
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 796,
+    "profile": {
+      "avg_age": 36,
+      "gender": "女",
+      "preferences": [
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 797,
+    "profile": {
+      "avg_age": 15,
+      "gender": "男",
+      "preferences": [
+        "移动支付",
+        "在线购物",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 798,
+    "profile": {
+      "avg_age": 36,
+      "gender": "女",
+      "preferences": [
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 799,
+    "profile": {
+      "avg_age": 44,
+      "gender": "男",
+      "preferences": [
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 800,
+    "profile": {
+      "avg_age": 18,
+      "gender": "男",
+      "preferences": [
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 801,
+    "profile": {
+      "avg_age": 32,
+      "gender": "女",
+      "preferences": [
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 802,
+    "profile": {
+      "avg_age": 19,
+      "gender": "女",
+      "preferences": [
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 803,
+    "profile": {
+      "avg_age": 20,
+      "gender": "男",
+      "preferences": [
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 804,
+    "profile": {
+      "avg_age": 46,
+      "gender": "女",
+      "preferences": [
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 805,
+    "profile": {
+      "avg_age": 19,
+      "gender": "女",
+      "preferences": [
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 806,
+    "profile": {
+      "avg_age": 26,
+      "gender": "男",
+      "preferences": [
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 807,
+    "profile": {
+      "avg_age": 48,
+      "gender": "女",
+      "preferences": [
+        "短视频",
+        "网络游戏",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 808,
+    "profile": {
+      "avg_age": 29,
+      "gender": "女",
+      "preferences": [
+        "在线购物",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 809,
+    "profile": {
+      "avg_age": 25,
+      "gender": "男",
+      "preferences": [
+        "网络游戏",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 810,
+    "profile": {
+      "avg_age": 30,
+      "gender": "男",
+      "preferences": [
+        "网络游戏",
+        "跨境电商",
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 811,
+    "profile": {
+      "avg_age": 32,
+      "gender": "男",
+      "preferences": [
+        "跨境电商",
+        "在线购物",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 812,
+    "profile": {
+      "avg_age": 30,
+      "gender": "女",
+      "preferences": [
+        "在线购物",
+        "移动支付",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 813,
+    "profile": {
+      "avg_age": 34,
+      "gender": "男",
+      "preferences": [
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 814,
+    "profile": {
+      "avg_age": 32,
+      "gender": "女",
+      "preferences": [
+        "在线购物",
+        "移动支付",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 815,
+    "profile": {
+      "avg_age": 33,
+      "gender": "男",
+      "preferences": [
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 816,
+    "profile": {
+      "avg_age": 49,
+      "gender": "男",
+      "preferences": [
+        "移动支付",
+        "短视频",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 817,
+    "profile": {
+      "avg_age": 29,
+      "gender": "男",
+      "preferences": [
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 818,
+    "profile": {
+      "avg_age": 43,
+      "gender": "女",
+      "preferences": [
+        "短视频",
+        "移动支付",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 819,
+    "profile": {
+      "avg_age": 41,
+      "gender": "女",
+      "preferences": [
+        "在线购物",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 820,
+    "profile": {
+      "avg_age": 46,
+      "gender": "男",
+      "preferences": [
+        "短视频",
+        "跨境电商",
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 821,
+    "profile": {
+      "avg_age": 28,
+      "gender": "女",
+      "preferences": [
+        "远程教育",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 822,
+    "profile": {
+      "avg_age": 52,
+      "gender": "女",
+      "preferences": [
+        "跨境电商",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 823,
+    "profile": {
+      "avg_age": 43,
+      "gender": "男",
+      "preferences": [
+        "短视频",
+        "网络游戏",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 824,
+    "profile": {
+      "avg_age": 37,
+      "gender": "女",
+      "preferences": [
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 825,
+    "profile": {
+      "avg_age": 39,
+      "gender": "男",
+      "preferences": [
+        "移动支付",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 826,
+    "profile": {
+      "avg_age": 31,
+      "gender": "男",
+      "preferences": [
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 827,
+    "profile": {
+      "avg_age": 36,
+      "gender": "女",
+      "preferences": [
+        "移动支付",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 828,
+    "profile": {
+      "avg_age": 50,
+      "gender": "男",
+      "preferences": [
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 829,
+    "profile": {
+      "avg_age": 35,
+      "gender": "女",
+      "preferences": [
+        "移动支付",
+        "在线购物",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 830,
+    "profile": {
+      "avg_age": 36,
+      "gender": "男",
+      "preferences": [
+        "短视频",
+        "远程教育",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 831,
+    "profile": {
+      "avg_age": 39,
+      "gender": "女",
+      "preferences": [
+        "跨境电商",
+        "移动支付",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 832,
+    "profile": {
+      "avg_age": 33,
+      "gender": "女",
+      "preferences": [
+        "在线购物",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 833,
+    "profile": {
+      "avg_age": 49,
+      "gender": "女",
+      "preferences": [
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 834,
+    "profile": {
+      "avg_age": 30,
+      "gender": "女",
+      "preferences": [
+        "在线购物",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 835,
+    "profile": {
+      "avg_age": 21,
+      "gender": "女",
+      "preferences": [
+        "网络游戏",
+        "跨境电商",
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 836,
+    "profile": {
+      "avg_age": 34,
+      "gender": "男",
+      "preferences": [
+        "在线购物",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 837,
+    "profile": {
+      "avg_age": 34,
+      "gender": "女",
+      "preferences": [
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 838,
+    "profile": {
+      "avg_age": 44,
+      "gender": "男",
+      "preferences": [
+        "网络游戏",
+        "在线购物",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 839,
+    "profile": {
+      "avg_age": 43,
+      "gender": "男",
+      "preferences": [
+        "网络游戏",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 840,
+    "profile": {
+      "avg_age": 27,
+      "gender": "女",
+      "preferences": [
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 841,
+    "profile": {
+      "avg_age": 43,
+      "gender": "男",
+      "preferences": [
+        "移动支付",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 842,
+    "profile": {
+      "avg_age": 37,
+      "gender": "女",
+      "preferences": [
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 843,
+    "profile": {
+      "avg_age": 27,
+      "gender": "男",
+      "preferences": [
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 844,
+    "profile": {
+      "avg_age": 33,
+      "gender": "女",
+      "preferences": [
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 845,
+    "profile": {
+      "avg_age": 30,
+      "gender": "女",
+      "preferences": [
+        "短视频",
+        "在线购物",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 846,
+    "profile": {
+      "avg_age": 24,
+      "gender": "男",
+      "preferences": [
+        "移动支付",
+        "在线购物",
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 847,
+    "profile": {
+      "avg_age": 34,
+      "gender": "男",
+      "preferences": [
+        "远程教育",
+        "跨境电商",
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 848,
+    "profile": {
+      "avg_age": 30,
+      "gender": "女",
+      "preferences": [
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 849,
+    "profile": {
+      "avg_age": 42,
+      "gender": "女",
+      "preferences": [
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 850,
+    "profile": {
+      "avg_age": 37,
+      "gender": "男",
+      "preferences": [
+        "网络游戏",
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 851,
+    "profile": {
+      "avg_age": 24,
+      "gender": "男",
+      "preferences": [
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 852,
+    "profile": {
+      "avg_age": 32,
+      "gender": "女",
+      "preferences": [
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 853,
+    "profile": {
+      "avg_age": 39,
+      "gender": "女",
+      "preferences": [
+        "移动支付",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 854,
+    "profile": {
+      "avg_age": 50,
+      "gender": "女",
+      "preferences": [
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 855,
+    "profile": {
+      "avg_age": 39,
+      "gender": "男",
+      "preferences": [
+        "远程教育",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 856,
+    "profile": {
+      "avg_age": 45,
+      "gender": "男",
+      "preferences": [
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 857,
+    "profile": {
+      "avg_age": 28,
+      "gender": "男",
+      "preferences": [
+        "远程教育",
+        "跨境电商",
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 858,
+    "profile": {
+      "avg_age": 33,
+      "gender": "女",
+      "preferences": [
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 859,
+    "profile": {
+      "avg_age": 52,
+      "gender": "男",
+      "preferences": [
+        "远程教育",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 860,
+    "profile": {
+      "avg_age": 20,
+      "gender": "女",
+      "preferences": [
+        "跨境电商",
+        "远程教育",
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 861,
+    "profile": {
+      "avg_age": 37,
+      "gender": "男",
+      "preferences": [
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 862,
+    "profile": {
+      "avg_age": 18,
+      "gender": "男",
+      "preferences": [
+        "网络游戏",
+        "短视频",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 863,
+    "profile": {
+      "avg_age": 37,
+      "gender": "女",
+      "preferences": [
+        "在线购物",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 864,
+    "profile": {
+      "avg_age": 32,
+      "gender": "女",
+      "preferences": [
+        "短视频",
+        "移动支付",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 865,
+    "profile": {
+      "avg_age": 45,
+      "gender": "女",
+      "preferences": [
+        "短视频",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 866,
+    "profile": {
+      "avg_age": 24,
+      "gender": "男",
+      "preferences": [
+        "移动支付",
+        "在线购物",
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 867,
+    "profile": {
+      "avg_age": 22,
+      "gender": "女",
+      "preferences": [
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 868,
+    "profile": {
+      "avg_age": 58,
+      "gender": "女",
+      "preferences": [
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 869,
+    "profile": {
+      "avg_age": 40,
+      "gender": "女",
+      "preferences": [
+        "网络游戏",
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 870,
+    "profile": {
+      "avg_age": 35,
+      "gender": "女",
+      "preferences": [
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 871,
+    "profile": {
+      "avg_age": 44,
+      "gender": "女",
+      "preferences": [
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 872,
+    "profile": {
+      "avg_age": 25,
+      "gender": "男",
+      "preferences": [
+        "移动支付",
+        "远程教育",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 873,
+    "profile": {
+      "avg_age": 24,
+      "gender": "男",
+      "preferences": [
+        "移动支付",
+        "远程教育",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 874,
+    "profile": {
+      "avg_age": 40,
+      "gender": "女",
+      "preferences": [
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 875,
+    "profile": {
+      "avg_age": 28,
+      "gender": "男",
+      "preferences": [
+        "移动支付",
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 876,
+    "profile": {
+      "avg_age": 33,
+      "gender": "男",
+      "preferences": [
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 877,
+    "profile": {
+      "avg_age": 21,
+      "gender": "男",
+      "preferences": [
+        "网络游戏",
+        "远程教育",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 878,
+    "profile": {
+      "avg_age": 30,
+      "gender": "男",
+      "preferences": [
+        "短视频",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 879,
+    "profile": {
+      "avg_age": 34,
+      "gender": "女",
+      "preferences": [
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 880,
+    "profile": {
+      "avg_age": 35,
+      "gender": "女",
+      "preferences": [
+        "短视频",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 881,
+    "profile": {
+      "avg_age": 41,
+      "gender": "女",
+      "preferences": [
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 882,
+    "profile": {
+      "avg_age": 25,
+      "gender": "男",
+      "preferences": [
+        "移动支付",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 883,
+    "profile": {
+      "avg_age": 47,
+      "gender": "男",
+      "preferences": [
+        "跨境电商",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 884,
+    "profile": {
+      "avg_age": 34,
+      "gender": "女",
+      "preferences": [
+        "在线购物",
+        "远程教育",
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 885,
+    "profile": {
+      "avg_age": 37,
+      "gender": "男",
+      "preferences": [
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 886,
+    "profile": {
+      "avg_age": 40,
+      "gender": "女",
+      "preferences": [
+        "在线购物",
+        "远程教育",
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 887,
+    "profile": {
+      "avg_age": 30,
+      "gender": "女",
+      "preferences": [
+        "短视频",
+        "跨境电商",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 888,
+    "profile": {
+      "avg_age": 41,
+      "gender": "女",
+      "preferences": [
+        "远程教育",
+        "移动支付",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 889,
+    "profile": {
+      "avg_age": 35,
+      "gender": "男",
+      "preferences": [
+        "网络游戏",
+        "移动支付",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 890,
+    "profile": {
+      "avg_age": 42,
+      "gender": "男",
+      "preferences": [
+        "远程教育",
+        "跨境电商",
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 891,
+    "profile": {
+      "avg_age": 40,
+      "gender": "女",
+      "preferences": [
+        "在线购物",
+        "移动支付",
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 892,
+    "profile": {
+      "avg_age": 15,
+      "gender": "女",
+      "preferences": [
+        "短视频",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 893,
+    "profile": {
+      "avg_age": 34,
+      "gender": "男",
+      "preferences": [
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 894,
+    "profile": {
+      "avg_age": 28,
+      "gender": "女",
+      "preferences": [
+        "在线购物",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 895,
+    "profile": {
+      "avg_age": 22,
+      "gender": "男",
+      "preferences": [
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 896,
+    "profile": {
+      "avg_age": 30,
+      "gender": "男",
+      "preferences": [
+        "跨境电商",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 897,
+    "profile": {
+      "avg_age": 29,
+      "gender": "男",
+      "preferences": [
+        "移动支付",
+        "短视频",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 898,
+    "profile": {
+      "avg_age": 42,
+      "gender": "女",
+      "preferences": [
+        "移动支付",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 899,
+    "profile": {
+      "avg_age": 32,
+      "gender": "女",
+      "preferences": [
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 900,
+    "profile": {
+      "avg_age": 21,
+      "gender": "男",
+      "preferences": [
+        "网络游戏",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 901,
+    "profile": {
+      "avg_age": 36,
+      "gender": "女",
+      "preferences": [
+        "网络游戏",
+        "跨境电商",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 902,
+    "profile": {
+      "avg_age": 29,
+      "gender": "男",
+      "preferences": [
+        "移动支付",
+        "网络游戏",
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 903,
+    "profile": {
+      "avg_age": 39,
+      "gender": "男",
+      "preferences": [
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 904,
+    "profile": {
+      "avg_age": 37,
+      "gender": "男",
+      "preferences": [
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 905,
+    "profile": {
+      "avg_age": 44,
+      "gender": "男",
+      "preferences": [
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 906,
+    "profile": {
+      "avg_age": 16,
+      "gender": "女",
+      "preferences": [
+        "远程教育",
+        "移动支付",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 907,
+    "profile": {
+      "avg_age": 35,
+      "gender": "女",
+      "preferences": [
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 908,
+    "profile": {
+      "avg_age": 31,
+      "gender": "女",
+      "preferences": [
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 909,
+    "profile": {
+      "avg_age": 44,
+      "gender": "男",
+      "preferences": [
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 910,
+    "profile": {
+      "avg_age": 30,
+      "gender": "男",
+      "preferences": [
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 911,
+    "profile": {
+      "avg_age": 48,
+      "gender": "男",
+      "preferences": [
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 912,
+    "profile": {
+      "avg_age": 36,
+      "gender": "男",
+      "preferences": [
+        "短视频",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 913,
+    "profile": {
+      "avg_age": 33,
+      "gender": "女",
+      "preferences": [
+        "短视频",
+        "在线购物",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 914,
+    "profile": {
+      "avg_age": 40,
+      "gender": "男",
+      "preferences": [
+        "远程教育",
+        "在线购物",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 915,
+    "profile": {
+      "avg_age": 23,
+      "gender": "女",
+      "preferences": [
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 916,
+    "profile": {
+      "avg_age": 42,
+      "gender": "女",
+      "preferences": [
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 917,
+    "profile": {
+      "avg_age": 38,
+      "gender": "男",
+      "preferences": [
+        "在线购物",
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 918,
+    "profile": {
+      "avg_age": 41,
+      "gender": "女",
+      "preferences": [
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 919,
+    "profile": {
+      "avg_age": 27,
+      "gender": "女",
+      "preferences": [
+        "远程教育",
+        "跨境电商",
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 920,
+    "profile": {
+      "avg_age": 45,
+      "gender": "男",
+      "preferences": [
+        "远程教育",
+        "在线购物",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 921,
+    "profile": {
+      "avg_age": 22,
+      "gender": "男",
+      "preferences": [
+        "跨境电商",
+        "在线购物",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 922,
+    "profile": {
+      "avg_age": 42,
+      "gender": "男",
+      "preferences": [
+        "网络游戏",
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 923,
+    "profile": {
+      "avg_age": 40,
+      "gender": "男",
+      "preferences": [
+        "在线购物",
+        "远程教育",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 924,
+    "profile": {
+      "avg_age": 36,
+      "gender": "女",
+      "preferences": [
+        "远程教育",
+        "在线购物",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 925,
+    "profile": {
+      "avg_age": 41,
+      "gender": "男",
+      "preferences": [
+        "远程教育",
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 926,
+    "profile": {
+      "avg_age": 49,
+      "gender": "男",
+      "preferences": [
+        "远程教育",
+        "跨境电商",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 927,
+    "profile": {
+      "avg_age": 28,
+      "gender": "男",
+      "preferences": [
+        "网络游戏",
+        "移动支付",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 928,
+    "profile": {
+      "avg_age": 38,
+      "gender": "男",
+      "preferences": [
+        "移动支付",
+        "跨境电商",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 929,
+    "profile": {
+      "avg_age": 44,
+      "gender": "女",
+      "preferences": [
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 930,
+    "profile": {
+      "avg_age": 45,
+      "gender": "男",
+      "preferences": [
+        "网络游戏",
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 931,
+    "profile": {
+      "avg_age": 32,
+      "gender": "女",
+      "preferences": [
+        "移动支付",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 932,
+    "profile": {
+      "avg_age": 28,
+      "gender": "女",
+      "preferences": [
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 933,
+    "profile": {
+      "avg_age": 15,
+      "gender": "女",
+      "preferences": [
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 934,
+    "profile": {
+      "avg_age": 23,
+      "gender": "男",
+      "preferences": [
+        "网络游戏",
+        "移动支付",
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 935,
+    "profile": {
+      "avg_age": 39,
+      "gender": "男",
+      "preferences": [
+        "短视频",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 936,
+    "profile": {
+      "avg_age": 44,
+      "gender": "男",
+      "preferences": [
+        "跨境电商",
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 937,
+    "profile": {
+      "avg_age": 41,
+      "gender": "女",
+      "preferences": [
+        "远程教育",
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 938,
+    "profile": {
+      "avg_age": 31,
+      "gender": "女",
+      "preferences": [
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 939,
+    "profile": {
+      "avg_age": 25,
+      "gender": "女",
+      "preferences": [
+        "移动支付",
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 940,
+    "profile": {
+      "avg_age": 57,
+      "gender": "男",
+      "preferences": [
+        "移动支付",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 941,
+    "profile": {
+      "avg_age": 47,
+      "gender": "女",
+      "preferences": [
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 942,
+    "profile": {
+      "avg_age": 25,
+      "gender": "女",
+      "preferences": [
+        "在线购物",
+        "跨境电商",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 943,
+    "profile": {
+      "avg_age": 15,
+      "gender": "男",
+      "preferences": [
+        "短视频",
+        "网络游戏",
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 944,
+    "profile": {
+      "avg_age": 44,
+      "gender": "女",
+      "preferences": [
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 945,
+    "profile": {
+      "avg_age": 30,
+      "gender": "女",
+      "preferences": [
+        "跨境电商",
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 946,
+    "profile": {
+      "avg_age": 38,
+      "gender": "男",
+      "preferences": [
+        "远程教育",
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 947,
+    "profile": {
+      "avg_age": 37,
+      "gender": "女",
+      "preferences": [
+        "网络游戏",
+        "跨境电商",
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 948,
+    "profile": {
+      "avg_age": 26,
+      "gender": "男",
+      "preferences": [
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 949,
+    "profile": {
+      "avg_age": 42,
+      "gender": "女",
+      "preferences": [
+        "远程教育",
+        "跨境电商",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 950,
+    "profile": {
+      "avg_age": 32,
+      "gender": "男",
+      "preferences": [
+        "跨境电商",
+        "移动支付",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 951,
+    "profile": {
+      "avg_age": 28,
+      "gender": "男",
+      "preferences": [
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 952,
+    "profile": {
+      "avg_age": 43,
+      "gender": "男",
+      "preferences": [
+        "远程教育",
+        "跨境电商",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 953,
+    "profile": {
+      "avg_age": 46,
+      "gender": "女",
+      "preferences": [
+        "远程教育",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 954,
+    "profile": {
+      "avg_age": 32,
+      "gender": "男",
+      "preferences": [
+        "短视频",
+        "移动支付",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 955,
+    "profile": {
+      "avg_age": 33,
+      "gender": "女",
+      "preferences": [
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 956,
+    "profile": {
+      "avg_age": 31,
+      "gender": "男",
+      "preferences": [
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 957,
+    "profile": {
+      "avg_age": 49,
+      "gender": "男",
+      "preferences": [
+        "跨境电商",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 958,
+    "profile": {
+      "avg_age": 30,
+      "gender": "男",
+      "preferences": [
+        "跨境电商",
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 959,
+    "profile": {
+      "avg_age": 28,
+      "gender": "男",
+      "preferences": [
+        "在线购物",
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 960,
+    "profile": {
+      "avg_age": 34,
+      "gender": "女",
+      "preferences": [
+        "远程教育",
+        "跨境电商",
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 961,
+    "profile": {
+      "avg_age": 42,
+      "gender": "男",
+      "preferences": [
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 962,
+    "profile": {
+      "avg_age": 47,
+      "gender": "女",
+      "preferences": [
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 963,
+    "profile": {
+      "avg_age": 42,
+      "gender": "女",
+      "preferences": [
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 964,
+    "profile": {
+      "avg_age": 31,
+      "gender": "女",
+      "preferences": [
+        "短视频",
+        "移动支付",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 965,
+    "profile": {
+      "avg_age": 42,
+      "gender": "男",
+      "preferences": [
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 966,
+    "profile": {
+      "avg_age": 44,
+      "gender": "女",
+      "preferences": [
+        "跨境电商",
+        "移动支付",
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 967,
+    "profile": {
+      "avg_age": 40,
+      "gender": "男",
+      "preferences": [
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 968,
+    "profile": {
+      "avg_age": 37,
+      "gender": "男",
+      "preferences": [
+        "短视频",
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 969,
+    "profile": {
+      "avg_age": 36,
+      "gender": "男",
+      "preferences": [
+        "远程教育",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 970,
+    "profile": {
+      "avg_age": 24,
+      "gender": "男",
+      "preferences": [
+        "在线购物",
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 971,
+    "profile": {
+      "avg_age": 15,
+      "gender": "女",
+      "preferences": [
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 972,
+    "profile": {
+      "avg_age": 41,
+      "gender": "男",
+      "preferences": [
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 973,
+    "profile": {
+      "avg_age": 29,
+      "gender": "男",
+      "preferences": [
+        "移动支付",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 974,
+    "profile": {
+      "avg_age": 20,
+      "gender": "男",
+      "preferences": [
+        "短视频",
+        "跨境电商",
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 975,
+    "profile": {
+      "avg_age": 45,
+      "gender": "女",
+      "preferences": [
+        "在线购物",
+        "短视频",
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 976,
+    "profile": {
+      "avg_age": 41,
+      "gender": "女",
+      "preferences": [
+        "在线购物",
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 977,
+    "profile": {
+      "avg_age": 49,
+      "gender": "男",
+      "preferences": [
+        "跨境电商",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 978,
+    "profile": {
+      "avg_age": 42,
+      "gender": "男",
+      "preferences": [
+        "跨境电商",
+        "在线购物",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 979,
+    "profile": {
+      "avg_age": 31,
+      "gender": "女",
+      "preferences": [
+        "网络游戏",
+        "短视频",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 980,
+    "profile": {
+      "avg_age": 30,
+      "gender": "女",
+      "preferences": [
+        "网络游戏",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 981,
+    "profile": {
+      "avg_age": 24,
+      "gender": "女",
+      "preferences": [
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 982,
+    "profile": {
+      "avg_age": 41,
+      "gender": "男",
+      "preferences": [
+        "远程教育",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 983,
+    "profile": {
+      "avg_age": 23,
+      "gender": "男",
+      "preferences": [
+        "短视频",
+        "跨境电商",
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 984,
+    "profile": {
+      "avg_age": 27,
+      "gender": "女",
+      "preferences": [
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 985,
+    "profile": {
+      "avg_age": 41,
+      "gender": "男",
+      "preferences": [
+        "网络游戏",
+        "移动支付",
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 986,
+    "profile": {
+      "avg_age": 38,
+      "gender": "男",
+      "preferences": [
+        "远程教育",
+        "网络游戏"
+      ]
+    }
+  },
+  {
+    "user_id": 987,
+    "profile": {
+      "avg_age": 33,
+      "gender": "女",
+      "preferences": [
+        "移动支付",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 988,
+    "profile": {
+      "avg_age": 38,
+      "gender": "女",
+      "preferences": [
+        "远程教育",
+        "在线购物",
+        "移动支付"
+      ]
+    }
+  },
+  {
+    "user_id": 989,
+    "profile": {
+      "avg_age": 41,
+      "gender": "男",
+      "preferences": [
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 990,
+    "profile": {
+      "avg_age": 30,
+      "gender": "女",
+      "preferences": [
+        "网络游戏",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 991,
+    "profile": {
+      "avg_age": 52,
+      "gender": "女",
+      "preferences": [
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 992,
+    "profile": {
+      "avg_age": 56,
+      "gender": "男",
+      "preferences": [
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 993,
+    "profile": {
+      "avg_age": 38,
+      "gender": "女",
+      "preferences": [
+        "跨境电商",
+        "远程教育",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 994,
+    "profile": {
+      "avg_age": 43,
+      "gender": "女",
+      "preferences": [
+        "短视频",
+        "跨境电商"
+      ]
+    }
+  },
+  {
+    "user_id": 995,
+    "profile": {
+      "avg_age": 25,
+      "gender": "男",
+      "preferences": [
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 996,
+    "profile": {
+      "avg_age": 39,
+      "gender": "男",
+      "preferences": [
+        "跨境电商",
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 997,
+    "profile": {
+      "avg_age": 35,
+      "gender": "女",
+      "preferences": [
+        "移动支付",
+        "短视频"
+      ]
+    }
+  },
+  {
+    "user_id": 998,
+    "profile": {
+      "avg_age": 25,
+      "gender": "男",
+      "preferences": [
+        "网络游戏",
+        "远程教育",
+        "在线购物"
+      ]
+    }
+  },
+  {
+    "user_id": 999,
+    "profile": {
+      "avg_age": 35,
+      "gender": "男",
+      "preferences": [
+        "移动支付",
+        "跨境电商",
+        "远程教育"
+      ]
+    }
+  },
+  {
+    "user_id": 1000,
+    "profile": {
+      "avg_age": 27,
+      "gender": "男",
+      "preferences": [
+        "远程教育",
+        "移动支付"
+      ]
+    }
+  }
+]

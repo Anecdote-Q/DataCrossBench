@@ -1,0 +1,24 @@
+{
+    "goal": "比较美国与英国在金融科技监管环境下对企业运营的不同影响及其原因。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 金融科技公司计划在未来五年内投资通用用户身份科技，96%的公司对此表示支持，反映出对数据隐私的重视。",
+        "Comparison: 新加坡金融管理局加强金融科技的安全和保障，与其他国家的监管措施形成对比。",
+        "Extreme: 全球86%的中央银行正在研究或试点实施CBDC，反映出各国对数字货币的重视程度。",
+        "Attribution: 监管机构正利用现有的监管和监督权力来应对当前和新兴的风险，促使金融科技公司加强合规性和透明度。"
+    ],
+    "summary": "本报告探讨了金融科技公司在复杂的监管环境中如何应对挑战，强调了合规性、数据安全和客户信任的重要性。",
+    "flag_id": "flag-32",
+    "classifier": "FinTech",
+    "classifier_cn": "金融科技",
+    "input_files": [
+        "output/business_background.txt",
+        "output/company_services.json",
+        "output/compliance_reports.csv",
+        "output/compliance_score_distribution.png",
+        "output/compliance_scores_by_agency.png",
+        "output/dimension_data.db",
+        "output/investment_vs_privacy.png",
+        "output/low_compliance_risk_count.png"
+    ]
+}

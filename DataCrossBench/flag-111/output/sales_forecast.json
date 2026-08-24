@@ -1,0 +1,54 @@
+[
+  {
+    "year": 2024,
+    "predicted_sales": 181747,
+    "growth_rate": NaN,
+    "confidence_interval": {
+      "lower": 154484,
+      "upper": 209009,
+      "confidence": 0.9
+    },
+    "remarks": "Year 2024 forecast with strong growth trend.",
+    "strategy": "保持现有销售策略",
+    "government_subsidy": false
+  },
+  {
+    "year": 2025,
+    "predicted_sales": 422884,
+    "growth_rate": 100.0,
+    "confidence_interval": {
+      "lower": 359451,
+      "upper": 486316,
+      "confidence": 0.9
+    },
+    "remarks": "Year 2025 forecast with strong growth trend.",
+    "strategy": "加大市场推广力度",
+    "government_subsidy": true
+  },
+  {
+    "year": 2026,
+    "predicted_sales": 738847,
+    "growth_rate": 69.75,
+    "confidence_interval": {
+      "lower": 628019,
+      "upper": 849674,
+      "confidence": 0.9
+    },
+    "remarks": "Year 2026 forecast with strong growth trend.",
+    "strategy": "重点发展新能源车型",
+    "government_subsidy": true
+  },
+  {
+    "year": 2027,
+    "predicted_sales": 1036198,
+    "growth_rate": 40.76,
+    "confidence_interval": {
+      "lower": 880768,
+      "upper": 1191627,
+      "confidence": 0.9
+    },
+    "remarks": "Year 2027 forecast with strong growth trend.",
+    "strategy": "拓展海外市场",
+    "government_subsidy": false
+  }
+]

@@ -1,0 +1,352 @@
+[
+  {
+    "id": 1,
+    "company_a": "申万宏源",
+    "company_b": "中原证券",
+    "investment_difference": -52782.9,
+    "impact_on_business": "负面影响"
+  },
+  {
+    "id": 2,
+    "company_a": "东吴证券",
+    "company_b": "招商证券",
+    "investment_difference": 59770.86,
+    "impact_on_business": "负面影响"
+  },
+  {
+    "id": 3,
+    "company_a": "光大证券",
+    "company_b": "兴业证券",
+    "investment_difference": 1261.31,
+    "impact_on_business": "无明显影响"
+  },
+  {
+    "id": 4,
+    "company_a": "华西证券",
+    "company_b": "招商证券",
+    "investment_difference": -124642.56,
+    "impact_on_business": "正面推动"
+  },
+  {
+    "id": 5,
+    "company_a": "红塔证券",
+    "company_b": "中原证券",
+    "investment_difference": -90710.9,
+    "impact_on_business": "负面影响"
+  },
+  {
+    "id": 6,
+    "company_a": "西南证券",
+    "company_b": "申万宏源",
+    "investment_difference": 29661.12,
+    "impact_on_business": "略有帮助"
+  },
+  {
+    "id": 7,
+    "company_a": "东方证券",
+    "company_b": "招商证券",
+    "investment_difference": 6306019.231344047,
+    "impact_on_business": "略有帮助"
+  },
+  {
+    "id": 8,
+    "company_a": "国盛证券",
+    "company_b": "中海证券",
+    "investment_difference": -51493.13,
+    "impact_on_business": "无明显影响"
+  },
+  {
+    "id": 9,
+    "company_a": "华西证券",
+    "company_b": "浙商证券",
+    "investment_difference": -375598.53,
+    "impact_on_business": "无明显影响"
+  },
+  {
+    "id": 10,
+    "company_a": "方正证券",
+    "company_b": "东方证券",
+    "investment_difference": -894235.18,
+    "impact_on_business": "负面影响"
+  },
+  {
+    "id": 11,
+    "company_a": "万联证券",
+    "company_b": "招商证券",
+    "investment_difference": 98483.62,
+    "impact_on_business": "正面推动"
+  },
+  {
+    "id": 12,
+    "company_a": "国投证券",
+    "company_b": "东北证券",
+    "investment_difference": 157550.41,
+    "impact_on_business": "略有帮助"
+  },
+  {
+    "id": 13,
+    "company_a": "浙商证券",
+    "company_b": "国投证券",
+    "investment_difference": -286467.99,
+    "impact_on_business": "正面推动"
+  },
+  {
+    "id": 14,
+    "company_a": "长江证券",
+    "company_b": "广发证券",
+    "investment_difference": -280260.04,
+    "impact_on_business": "正面推动"
+  },
+  {
+    "id": 15,
+    "company_a": "国金证券",
+    "company_b": "华西证券",
+    "investment_difference": 258330.6,
+    "impact_on_business": "正面推动"
+  },
+  {
+    "id": 16,
+    "company_a": "华泰证券",
+    "company_b": "国泰君安",
+    "investment_difference": -210265.42,
+    "impact_on_business": null
+  },
+  {
+    "id": 17,
+    "company_a": "华泰证券",
+    "company_b": "红塔证券",
+    "investment_difference": 116724.92,
+    "impact_on_business": "略有帮助"
+  },
+  {
+    "id": 18,
+    "company_a": "浙商证券",
+    "company_b": "国金证券",
+    "investment_difference": 23980.57,
+    "impact_on_business": "负面影响"
+  },
+  {
+    "id": 19,
+    "company_a": "申万宏源",
+    "company_b": "方正证券",
+    "investment_difference": -91443.8,
+    "impact_on_business": "无明显影响"
+  },
+  {
+    "id": 20,
+    "company_a": "长城证券",
+    "company_b": "国盛证券",
+    "investment_difference": -426931.61,
+    "impact_on_business": "负面影响"
+  },
+  {
+    "id": 21,
+    "company_a": "中海证券",
+    "company_b": "兴业证券",
+    "investment_difference": 16910.9,
+    "impact_on_business": null
+  },
+  {
+    "id": 22,
+    "company_a": "长城证券",
+    "company_b": "东吴证券",
+    "investment_difference": -203495.43,
+    "impact_on_business": "负面影响"
+  },
+  {
+    "id": 23,
+    "company_a": "平安证券",
+    "company_b": "国泰君安",
+    "investment_difference": -378929.31,
+    "impact_on_business": "略有帮助"
+  },
+  {
+    "id": 24,
+    "company_a": "万联证券",
+    "company_b": "广发证券",
+    "investment_difference": -343976.25,
+    "impact_on_business": null
+  },
+  {
+    "id": 25,
+    "company_a": "长城证券",
+    "company_b": "国金证券",
+    "investment_difference": -242829.54,
+    "impact_on_business": "略有帮助"
+  },
+  {
+    "id": 26,
+    "company_a": "西南证券",
+    "company_b": "华西证券",
+    "investment_difference": 443149.37,
+    "impact_on_business": "无明显影响"
+  },
+  {
+    "id": 27,
+    "company_a": "中泰证券",
+    "company_b": "中海证券",
+    "investment_difference": -30469.02,
+    "impact_on_business": "略有帮助"
+  },
+  {
+    "id": 28,
+    "company_a": "中信证券",
+    "company_b": "东方证券",
+    "investment_difference": -1067554.89,
+    "impact_on_business": "略有帮助"
+  },
+  {
+    "id": 29,
+    "company_a": "广发证券",
+    "company_b": "中信证券",
+    "investment_difference": 54349.72,
+    "impact_on_business": "正面推动"
+  },
+  {
+    "id": 30,
+    "company_a": "东方证券",
+    "company_b": "海通证券",
+    "investment_difference": 7930457.672425743,
+    "impact_on_business": "正面推动"
+  },
+  {
+    "id": 31,
+    "company_a": "光大证券",
+    "company_b": "华泰证券",
+    "investment_difference": -70911.12,
+    "impact_on_business": "略有帮助"
+  },
+  {
+    "id": 32,
+    "company_a": "方正证券",
+    "company_b": "国泰君安",
+    "investment_difference": -33166.96,
+    "impact_on_business": "负面影响"
+  },
+  {
+    "id": 33,
+    "company_a": "国盛证券",
+    "company_b": "申万宏源",
+    "investment_difference": 1660.96,
+    "impact_on_business": null
+  },
+  {
+    "id": 34,
+    "company_a": "中原证券",
+    "company_b": "国投证券",
+    "investment_difference": -111995.88,
+    "impact_on_business": "无明显影响"
+  },
+  {
+    "id": 35,
+    "company_a": "万联证券",
+    "company_b": "国元证券",
+    "investment_difference": -96684.42,
+    "impact_on_business": "略有帮助"
+  },
+  {
+    "id": 36,
+    "company_a": "中原证券",
+    "company_b": "国金证券",
+    "investment_difference": 95441.44,
+    "impact_on_business": null
+  },
+  {
+    "id": 37,
+    "company_a": "海通证券",
+    "company_b": "招商证券",
+    "investment_difference": 90206.95,
+    "impact_on_business": "负面影响"
+  },
+  {
+    "id": 38,
+    "company_a": "方正证券",
+    "company_b": "东吴证券",
+    "investment_difference": 264487.03,
+    "impact_on_business": "略有帮助"
+  },
+  {
+    "id": 39,
+    "company_a": "中原证券",
+    "company_b": "东吴证券",
+    "investment_difference": 198332.28,
+    "impact_on_business": "正面推动"
+  },
+  {
+    "id": 40,
+    "company_a": "万联证券",
+    "company_b": "中原证券",
+    "investment_difference": -87415.26,
+    "impact_on_business": "负面影响"
+  },
+  {
+    "id": 41,
+    "company_a": "中信证券",
+    "company_b": "招商证券",
+    "investment_difference": 239400.69,
+    "impact_on_business": null
+  },
+  {
+    "id": 42,
+    "company_a": "国泰君安",
+    "company_b": "华西证券",
+    "investment_difference": 512493.9,
+    "impact_on_business": "无明显影响"
+  },
+  {
+    "id": 43,
+    "company_a": "广发证券",
+    "company_b": "国金证券",
+    "investment_difference": 204252.85,
+    "impact_on_business": "正面推动"
+  },
+  {
+    "id": 44,
+    "company_a": "红塔证券",
+    "company_b": "长江证券",
+    "investment_difference": 47518.33,
+    "impact_on_business": "无明显影响"
+  },
+  {
+    "id": 45,
+    "company_a": "方正证券",
+    "company_b": "海通证券",
+    "investment_difference": 151044.48,
+    "impact_on_business": null
+  },
+  {
+    "id": 46,
+    "company_a": "中原证券",
+    "company_b": "东方证券",
+    "investment_difference": -985020.02,
+    "impact_on_business": "无明显影响"
+  },
+  {
+    "id": 47,
+    "company_a": "广发证券",
+    "company_b": "国投证券",
+    "investment_difference": -85488.03,
+    "impact_on_business": "略有帮助"
+  },
+  {
+    "id": 48,
+    "company_a": "国盛证券",
+    "company_b": "浙商证券",
+    "investment_difference": 62936.19,
+    "impact_on_business": "无明显影响"
+  },
+  {
+    "id": 49,
+    "company_a": "国元证券",
+    "company_b": "中泰证券",
+    "investment_difference": 86535.47,
+    "impact_on_business": "正面推动"
+  },
+  {
+    "id": 50,
+    "company_a": "海通证券",
+    "company_b": "西南证券",
+    "investment_difference": -88832.64,
+    "impact_on_business": "无明显影响"
+  }
+]

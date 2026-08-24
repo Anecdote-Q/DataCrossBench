@@ -1,0 +1,20 @@
+{
+    "goal": "分析黄金现货价格上涨27%的原因，特别是新冠疫情和地缘冲突对市场的影响。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 由于新冠疫情的全球蔓延及地缘冲突加剧，黄金现货价格上涨约27%，达到1944美元/盎司。",
+        "Comparison: 上海金ETF基金（518680.SH）以不低于90%的仓位投资于黄金现货合约，显示出其在黄金投资中的优势。",
+        "Extreme: 黄金现货价格在历史上达到最高水平1921美元/盎司，当前价格1944美元/盎司显示出强劲的市场需求。",
+        "Attribution: 黄金价格的上涨与美联储的降息周期密切相关，降息导致实际利率下移，推动了黄金的投资需求。"
+    ],
+    "summary": "本报告分析了黄金在不确定经济环境中的配置价值，强调了上海金ETF基金作为投资工具的重要性，并探讨了黄金价格的历史表现及其与经济政策的关系。",
+    "flag_id": "flag-76",
+    "classifier": "Fund Analysis",
+    "classifier_cn": "基金分析",
+    "input_files": [
+        "output/dimension_data.db",
+        "output/gold_price_analysis_background.txt",
+        "output/gold_price_analysis_fact.csv",
+        "output/gold_price_analysis_nosql.json"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "goal": "分析万达电影低ROE的原因及其对公司盈利能力的影响。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 光线传媒的PE为54.39，显示出市场对其未来增长的预期较高，而万达电影的PE高达195.29，反映出其面临的市场压力。",
+        "Comparison: 横店影视的合理价值为20.50元，收盘价为16.47元，显示出其市场估值的潜在上升空间。",
+        "Extreme: 万达电影的ROE仅为1.80%，是所有分析公司中最低的，反映出其盈利能力的不足。",
+        "Attribution: 传媒行业的整体估值受到市场竞争加剧和用户付费意识薄弱的影响，导致多家公司面临盈利压力。"
+    ],
+    "summary": "本报告对多家传媒公司的财务状况进行了深度分析，提供了最新的股票评级和合理价值，揭示了行业内的竞争格局和投资机会。",
+    "flag_id": "flag-42",
+    "classifier": "Fund Analysis",
+    "classifier_cn": "基金分析",
+    "input_files": [
+        "output/background.txt",
+        "output/media_dimension.db",
+        "output/media_transactions.csv",
+        "output/user_profiles.json"
+    ]
+}

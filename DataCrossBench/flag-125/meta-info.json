@@ -1,0 +1,20 @@
+{
+    "goal": "分析2024年短剧市场规模超500亿元的驱动因素。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 2024年短剧市场规模预计超500亿元，显示出行业的持续增长潜力。",
+        "Comparison: 短剧以低成本和快速响应市场需求的优势，导致长视频平台如爱奇艺和腾讯视频的市场份额下降。",
+        "Extreme: 芒果超媒净利润同比下降18.96%，显示出长视频平台在短剧竞争中的压力。",
+        "Attribution: 短剧行业的迅猛发展与长视频平台面临的高成本和长生产周期直接相关，促使其市场份额下降。"
+    ],
+    "summary": "短剧行业正处于快速增长阶段，但也面临内容合规、用户隐私和商业模式可持续性等风险，需谨慎应对。",
+    "flag_id": "flag-125",
+    "classifier": "Short-form Drama",
+    "classifier_cn": "短剧/微短剧内容",
+    "input_files": [
+        "output/background.txt",
+        "output/short_drama_market.csv",
+        "output/user_profiles.json",
+        "output/video_platform.db"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "goal": "比较2023年上半年优酷与抖音微短剧的景气指数，探讨其差异原因。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 2023年抖音的MAU达到7-8亿，微信的MAU达到10-11亿，显示出短剧内容的消费趋势与用户基数的扩张。",
+        "Comparison: 2023年，抖音的MAU（7-8亿）显著高于长视频平台（4-5亿），显示出短视频平台在用户吸引力上的优势。",
+        "Extreme: 2023年上半年，微短剧的景气指数最高达到1.04，显示出市场对短剧内容的强烈需求。",
+        "Attribution: 由于监管政策的不断出台，行业规范化进程加快，促进了短剧内容的健康发展。"
+    ],
+    "summary": "本报告分析了短剧行业的现状与未来趋势，强调了微短剧的兴起及其对产业链的影响，同时探讨了新渠道和新内容对供需两端的影响。",
+    "flag_id": "flag-155",
+    "classifier": "Short-form Drama",
+    "classifier_cn": "短剧/微短剧内容",
+    "input_files": [
+        "output/business_background.txt",
+        "output/dimension_data.db",
+        "output/streaming_events.png",
+        "output/user_profiles.json"
+    ]
+}

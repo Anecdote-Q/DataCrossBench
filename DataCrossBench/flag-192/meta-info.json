@@ -1,0 +1,20 @@
+{
+    "goal": "比较东部和中部地区企业互联网使用率的差异及其原因。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 手机网民规模达5亿，较2012年底增加8009万人，网民中使用手机上网的人群占比由74.5%提升至81.0%。",
+        "Comparison: 北京、上海、广东等省市的互联网普及率超过65%，而江西、云南、贵州等省份的互联网普及率均不到33%。",
+        "Extreme: 2013年，微博用户规模下降2783万人，使用率降低9.2个百分点，显示出社交媒体的挑战。",
+        "Attribution: 手机网民规模的持续增长得益于3G的普及、无线网络的发展和智能手机的价格持续走低。"
+    ],
+    "summary": "本报告总结了中国互联网在2014年的发展状况，涵盖了网民规模、互联网普及率、手机应用的增长以及各地区的互联网使用情况，揭示了政策支持和技术进步对互联网发展的重要影响。",
+    "flag_id": "flag-192",
+    "classifier": "Internet Dev.",
+    "classifier_cn": "互联网发展",
+    "input_files": [
+        "output/dimension_data.db",
+        "output/industry_background.txt",
+        "output/internet_users_fact.csv",
+        "output/user_agents.json"
+    ]
+}

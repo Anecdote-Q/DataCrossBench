@@ -1,0 +1,9041 @@
+[
+  {
+    "fact_id": 1,
+    "interests": [
+      "运动",
+      "购物"
+    ],
+    "historical_order_count": 11,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 2,
+    "interests": [
+      "健康",
+      "电影",
+      "美食"
+    ],
+    "historical_order_count": 15,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 3,
+    "interests": [
+      "电影",
+      "购物"
+    ],
+    "historical_order_count": 22,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 4,
+    "interests": [
+      "美食",
+      "运动"
+    ],
+    "historical_order_count": 21,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 5,
+    "interests": [
+      "购物",
+      "美食",
+      "健康"
+    ],
+    "historical_order_count": 21,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 6,
+    "interests": [
+      "购物",
+      "旅游"
+    ],
+    "historical_order_count": 17,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 7,
+    "interests": [
+      "科技"
+    ],
+    "historical_order_count": 25,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 8,
+    "interests": [
+      "教育",
+      "购物"
+    ],
+    "historical_order_count": 18,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 9,
+    "interests": [
+      "健康",
+      "电影",
+      "旅游"
+    ],
+    "historical_order_count": 25,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 10,
+    "interests": [
+      "购物"
+    ],
+    "historical_order_count": 30,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 11,
+    "interests": [
+      "美食"
+    ],
+    "historical_order_count": 16,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 12,
+    "interests": [
+      "美食"
+    ],
+    "historical_order_count": 18,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 13,
+    "interests": [
+      "购物",
+      "科技"
+    ],
+    "historical_order_count": 21,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 14,
+    "interests": [
+      "购物"
+    ],
+    "historical_order_count": 26,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 15,
+    "interests": [
+      "健康"
+    ],
+    "historical_order_count": 22,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 16,
+    "interests": [
+      "健康"
+    ],
+    "historical_order_count": 18,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 17,
+    "interests": [
+      "美食"
+    ],
+    "historical_order_count": 16,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 18,
+    "interests": [
+      "美食"
+    ],
+    "historical_order_count": 17,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 19,
+    "interests": [
+      "运动",
+      "美食",
+      "健康"
+    ],
+    "historical_order_count": 15,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 20,
+    "interests": [
+      "旅游"
+    ],
+    "historical_order_count": 27,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 21,
+    "interests": [
+      "购物",
+      "旅游",
+      "科技"
+    ],
+    "historical_order_count": 22,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 22,
+    "interests": [
+      "运动",
+      "科技"
+    ],
+    "historical_order_count": 27,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 23,
+    "interests": [
+      "教育"
+    ],
+    "historical_order_count": 18,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 24,
+    "interests": [
+      "电影",
+      "教育"
+    ],
+    "historical_order_count": 17,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 25,
+    "interests": [
+      "旅游",
+      "教育"
+    ],
+    "historical_order_count": 14,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 26,
+    "interests": [
+      "科技"
+    ],
+    "historical_order_count": 21,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 27,
+    "interests": [
+      "健康",
+      "美食"
+    ],
+    "historical_order_count": 22,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 28,
+    "interests": [
+      "购物",
+      "美食",
+      "电影"
+    ],
+    "historical_order_count": 19,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 29,
+    "interests": [
+      "教育",
+      "运动",
+      "美食"
+    ],
+    "historical_order_count": 19,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 30,
+    "interests": [
+      "电影"
+    ],
+    "historical_order_count": 20,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 31,
+    "interests": [
+      "美食",
+      "健康"
+    ],
+    "historical_order_count": 24,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 32,
+    "interests": [
+      "美食",
+      "旅游",
+      "购物"
+    ],
+    "historical_order_count": 17,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 33,
+    "interests": [
+      "购物"
+    ],
+    "historical_order_count": 16,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 34,
+    "interests": [
+      "运动"
+    ],
+    "historical_order_count": 22,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 35,
+    "interests": [
+      "电影",
+      "运动",
+      "健康"
+    ],
+    "historical_order_count": 24,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 36,
+    "interests": [
+      "购物",
+      "科技"
+    ],
+    "historical_order_count": 24,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 37,
+    "interests": [
+      "教育",
+      "美食",
+      "科技"
+    ],
+    "historical_order_count": 17,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 38,
+    "interests": [
+      "旅游"
+    ],
+    "historical_order_count": 19,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 39,
+    "interests": [
+      "科技",
+      "健康",
+      "购物"
+    ],
+    "historical_order_count": 21,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 40,
+    "interests": [
+      "运动",
+      "科技",
+      "电影"
+    ],
+    "historical_order_count": 20,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 41,
+    "interests": [
+      "教育"
+    ],
+    "historical_order_count": 21,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 42,
+    "interests": [
+      "购物",
+      "教育"
+    ],
+    "historical_order_count": 19,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 43,
+    "interests": [
+      "运动"
+    ],
+    "historical_order_count": 16,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 44,
+    "interests": [
+      "旅游",
+      "美食",
+      "购物"
+    ],
+    "historical_order_count": 15,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 45,
+    "interests": [
+      "购物",
+      "教育"
+    ],
+    "historical_order_count": 18,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 46,
+    "interests": [
+      "教育",
+      "美食"
+    ],
+    "historical_order_count": 23,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 47,
+    "interests": [
+      "运动"
+    ],
+    "historical_order_count": 18,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 48,
+    "interests": [
+      "运动",
+      "美食"
+    ],
+    "historical_order_count": 16,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 49,
+    "interests": [
+      "购物"
+    ],
+    "historical_order_count": 20,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 50,
+    "interests": [
+      "科技",
+      "美食"
+    ],
+    "historical_order_count": 15,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 51,
+    "interests": [
+      "教育"
+    ],
+    "historical_order_count": 20,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 52,
+    "interests": [
+      "教育",
+      "科技",
+      "电影"
+    ],
+    "historical_order_count": 15,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 53,
+    "interests": [
+      "科技",
+      "电影"
+    ],
+    "historical_order_count": 21,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 54,
+    "interests": [
+      "电影",
+      "运动",
+      "科技"
+    ],
+    "historical_order_count": 24,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 55,
+    "interests": [
+      "科技",
+      "旅游",
+      "健康"
+    ],
+    "historical_order_count": 23,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 56,
+    "interests": [
+      "运动",
+      "电影"
+    ],
+    "historical_order_count": 25,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 57,
+    "interests": [
+      "购物"
+    ],
+    "historical_order_count": 25,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 58,
+    "interests": [
+      "科技",
+      "购物"
+    ],
+    "historical_order_count": 16,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 59,
+    "interests": [
+      "教育"
+    ],
+    "historical_order_count": 19,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 60,
+    "interests": [
+      "健康"
+    ],
+    "historical_order_count": 22,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 61,
+    "interests": [
+      "旅游",
+      "健康"
+    ],
+    "historical_order_count": 21,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 62,
+    "interests": [
+      "科技"
+    ],
+    "historical_order_count": 20,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 63,
+    "interests": [
+      "科技",
+      "健康",
+      "购物"
+    ],
+    "historical_order_count": 19,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 64,
+    "interests": [
+      "科技",
+      "健康"
+    ],
+    "historical_order_count": 20,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 65,
+    "interests": [
+      "教育",
+      "运动"
+    ],
+    "historical_order_count": 18,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 66,
+    "interests": [
+      "教育",
+      "旅游"
+    ],
+    "historical_order_count": 16,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 67,
+    "interests": [
+      "运动",
+      "教育"
+    ],
+    "historical_order_count": 19,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 68,
+    "interests": [
+      "电影",
+      "购物",
+      "健康"
+    ],
+    "historical_order_count": 25,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 69,
+    "interests": [
+      "教育",
+      "美食"
+    ],
+    "historical_order_count": 22,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 70,
+    "interests": [
+      "购物",
+      "教育",
+      "运动"
+    ],
+    "historical_order_count": 18,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 71,
+    "interests": [
+      "健康",
+      "教育",
+      "旅游"
+    ],
+    "historical_order_count": 14,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 72,
+    "interests": [
+      "旅游",
+      "科技"
+    ],
+    "historical_order_count": 18,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 73,
+    "interests": [
+      "健康",
+      "旅游",
+      "教育"
+    ],
+    "historical_order_count": 19,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 74,
+    "interests": [
+      "运动"
+    ],
+    "historical_order_count": 14,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 75,
+    "interests": [
+      "科技",
+      "健康",
+      "电影"
+    ],
+    "historical_order_count": 16,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 76,
+    "interests": [
+      "健康",
+      "运动"
+    ],
+    "historical_order_count": 19,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 77,
+    "interests": [
+      "科技",
+      "运动",
+      "美食"
+    ],
+    "historical_order_count": 23,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 78,
+    "interests": [
+      "旅游",
+      "美食",
+      "健康"
+    ],
+    "historical_order_count": 20,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 79,
+    "interests": [
+      "美食"
+    ],
+    "historical_order_count": 18,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 80,
+    "interests": [
+      "科技",
+      "美食"
+    ],
+    "historical_order_count": 20,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 81,
+    "interests": [
+      "运动"
+    ],
+    "historical_order_count": 26,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 82,
+    "interests": [
+      "电影",
+      "健康",
+      "购物"
+    ],
+    "historical_order_count": 14,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 83,
+    "interests": [
+      "购物",
+      "健康"
+    ],
+    "historical_order_count": 17,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 84,
+    "interests": [
+      "旅游",
+      "购物"
+    ],
+    "historical_order_count": 26,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 85,
+    "interests": [
+      "旅游"
+    ],
+    "historical_order_count": 28,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 86,
+    "interests": [
+      "运动",
+      "购物"
+    ],
+    "historical_order_count": 24,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 87,
+    "interests": [
+      "健康"
+    ],
+    "historical_order_count": 16,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 88,
+    "interests": [
+      "旅游",
+      "电影"
+    ],
+    "historical_order_count": 15,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 89,
+    "interests": [
+      "旅游",
+      "购物"
+    ],
+    "historical_order_count": 17,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 90,
+    "interests": [
+      "旅游",
+      "美食",
+      "购物"
+    ],
+    "historical_order_count": 16,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 91,
+    "interests": [
+      "购物",
+      "教育",
+      "旅游"
+    ],
+    "historical_order_count": 15,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 92,
+    "interests": [
+      "购物",
+      "健康",
+      "运动"
+    ],
+    "historical_order_count": 18,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 93,
+    "interests": [
+      "电影",
+      "科技"
+    ],
+    "historical_order_count": 21,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 94,
+    "interests": [
+      "购物",
+      "旅游",
+      "教育"
+    ],
+    "historical_order_count": 24,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 95,
+    "interests": [
+      "美食",
+      "教育"
+    ],
+    "historical_order_count": 17,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 96,
+    "interests": [
+      "科技",
+      "电影"
+    ],
+    "historical_order_count": 13,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 97,
+    "interests": [
+      "电影",
+      "旅游",
+      "购物"
+    ],
+    "historical_order_count": 17,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 98,
+    "interests": [
+      "旅游",
+      "科技",
+      "运动"
+    ],
+    "historical_order_count": 21,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 99,
+    "interests": [
+      "教育",
+      "旅游"
+    ],
+    "historical_order_count": 24,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 100,
+    "interests": [
+      "运动"
+    ],
+    "historical_order_count": 17,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 101,
+    "interests": [
+      "教育",
+      "运动",
+      "电影"
+    ],
+    "historical_order_count": 18,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 102,
+    "interests": [
+      "旅游",
+      "购物",
+      "科技"
+    ],
+    "historical_order_count": 20,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 103,
+    "interests": [
+      "购物",
+      "科技",
+      "教育"
+    ],
+    "historical_order_count": 21,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 104,
+    "interests": [
+      "旅游",
+      "教育",
+      "健康"
+    ],
+    "historical_order_count": 18,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 105,
+    "interests": [
+      "电影"
+    ],
+    "historical_order_count": 17,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 106,
+    "interests": [
+      "购物"
+    ],
+    "historical_order_count": 16,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 107,
+    "interests": [
+      "购物",
+      "运动",
+      "电影"
+    ],
+    "historical_order_count": 17,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 108,
+    "interests": [
+      "购物",
+      "运动",
+      "电影"
+    ],
+    "historical_order_count": 33,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 109,
+    "interests": [
+      "健康"
+    ],
+    "historical_order_count": 16,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 110,
+    "interests": [
+      "购物",
+      "电影",
+      "健康"
+    ],
+    "historical_order_count": 19,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 111,
+    "interests": [
+      "教育"
+    ],
+    "historical_order_count": 20,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 112,
+    "interests": [
+      "美食",
+      "科技",
+      "购物"
+    ],
+    "historical_order_count": 22,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 113,
+    "interests": [
+      "购物",
+      "旅游"
+    ],
+    "historical_order_count": 29,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 114,
+    "interests": [
+      "健康",
+      "电影",
+      "教育"
+    ],
+    "historical_order_count": 19,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 115,
+    "interests": [
+      "健康",
+      "电影"
+    ],
+    "historical_order_count": 19,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 116,
+    "interests": [
+      "美食"
+    ],
+    "historical_order_count": 13,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 117,
+    "interests": [
+      "美食",
+      "购物"
+    ],
+    "historical_order_count": 20,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 118,
+    "interests": [
+      "运动",
+      "旅游",
+      "电影"
+    ],
+    "historical_order_count": 25,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 119,
+    "interests": [
+      "旅游",
+      "运动",
+      "美食"
+    ],
+    "historical_order_count": 19,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 120,
+    "interests": [
+      "教育",
+      "运动",
+      "美食"
+    ],
+    "historical_order_count": 18,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 121,
+    "interests": [
+      "电影",
+      "健康",
+      "美食"
+    ],
+    "historical_order_count": 25,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 122,
+    "interests": [
+      "美食",
+      "电影"
+    ],
+    "historical_order_count": 13,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 123,
+    "interests": [
+      "旅游",
+      "电影"
+    ],
+    "historical_order_count": 13,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 124,
+    "interests": [
+      "电影"
+    ],
+    "historical_order_count": 14,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 125,
+    "interests": [
+      "科技",
+      "旅游",
+      "运动"
+    ],
+    "historical_order_count": 22,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 126,
+    "interests": [
+      "电影"
+    ],
+    "historical_order_count": 18,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 127,
+    "interests": [
+      "教育",
+      "运动",
+      "购物"
+    ],
+    "historical_order_count": 25,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 128,
+    "interests": [
+      "运动",
+      "购物"
+    ],
+    "historical_order_count": 20,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 129,
+    "interests": [
+      "旅游",
+      "健康",
+      "电影"
+    ],
+    "historical_order_count": 16,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 130,
+    "interests": [
+      "购物",
+      "教育"
+    ],
+    "historical_order_count": 15,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 131,
+    "interests": [
+      "购物"
+    ],
+    "historical_order_count": 16,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 132,
+    "interests": [
+      "科技"
+    ],
+    "historical_order_count": 16,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 133,
+    "interests": [
+      "运动"
+    ],
+    "historical_order_count": 26,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 134,
+    "interests": [
+      "健康",
+      "美食"
+    ],
+    "historical_order_count": 21,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 135,
+    "interests": [
+      "运动",
+      "教育"
+    ],
+    "historical_order_count": 23,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 136,
+    "interests": [
+      "健康",
+      "购物"
+    ],
+    "historical_order_count": 24,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 137,
+    "interests": [
+      "旅游",
+      "教育",
+      "电影"
+    ],
+    "historical_order_count": 19,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 138,
+    "interests": [
+      "科技"
+    ],
+    "historical_order_count": 26,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 139,
+    "interests": [
+      "电影",
+      "健康"
+    ],
+    "historical_order_count": 21,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 140,
+    "interests": [
+      "运动",
+      "购物"
+    ],
+    "historical_order_count": 19,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 141,
+    "interests": [
+      "健康",
+      "科技",
+      "购物"
+    ],
+    "historical_order_count": 28,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 142,
+    "interests": [
+      "旅游"
+    ],
+    "historical_order_count": 20,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 143,
+    "interests": [
+      "旅游"
+    ],
+    "historical_order_count": 23,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 144,
+    "interests": [
+      "健康",
+      "美食"
+    ],
+    "historical_order_count": 25,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 145,
+    "interests": [
+      "购物"
+    ],
+    "historical_order_count": 12,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 146,
+    "interests": [
+      "运动"
+    ],
+    "historical_order_count": 18,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 147,
+    "interests": [
+      "教育",
+      "购物",
+      "美食"
+    ],
+    "historical_order_count": 26,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 148,
+    "interests": [
+      "购物",
+      "美食",
+      "电影"
+    ],
+    "historical_order_count": 18,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 149,
+    "interests": [
+      "电影",
+      "健康",
+      "教育"
+    ],
+    "historical_order_count": 18,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 150,
+    "interests": [
+      "旅游",
+      "美食",
+      "健康"
+    ],
+    "historical_order_count": 21,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 151,
+    "interests": [
+      "购物"
+    ],
+    "historical_order_count": 27,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 152,
+    "interests": [
+      "健康",
+      "美食",
+      "科技"
+    ],
+    "historical_order_count": 20,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 153,
+    "interests": [
+      "科技"
+    ],
+    "historical_order_count": 20,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 154,
+    "interests": [
+      "旅游",
+      "健康"
+    ],
+    "historical_order_count": 23,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 155,
+    "interests": [
+      "旅游"
+    ],
+    "historical_order_count": 15,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 156,
+    "interests": [
+      "教育",
+      "购物"
+    ],
+    "historical_order_count": 20,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 157,
+    "interests": [
+      "购物",
+      "教育"
+    ],
+    "historical_order_count": 21,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 158,
+    "interests": [
+      "美食"
+    ],
+    "historical_order_count": 23,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 159,
+    "interests": [
+      "教育",
+      "健康"
+    ],
+    "historical_order_count": 22,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 160,
+    "interests": [
+      "购物",
+      "电影",
+      "运动"
+    ],
+    "historical_order_count": 20,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 161,
+    "interests": [
+      "旅游"
+    ],
+    "historical_order_count": 17,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 162,
+    "interests": [
+      "旅游"
+    ],
+    "historical_order_count": 15,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 163,
+    "interests": [
+      "科技",
+      "购物"
+    ],
+    "historical_order_count": 21,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 164,
+    "interests": [
+      "运动"
+    ],
+    "historical_order_count": 15,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 165,
+    "interests": [
+      "运动"
+    ],
+    "historical_order_count": 24,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 166,
+    "interests": [
+      "运动",
+      "旅游",
+      "健康"
+    ],
+    "historical_order_count": 25,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 167,
+    "interests": [
+      "科技",
+      "购物",
+      "教育"
+    ],
+    "historical_order_count": 12,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 168,
+    "interests": [
+      "健康"
+    ],
+    "historical_order_count": 21,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 169,
+    "interests": [
+      "电影"
+    ],
+    "historical_order_count": 19,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 170,
+    "interests": [
+      "旅游",
+      "运动",
+      "美食"
+    ],
+    "historical_order_count": 18,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 171,
+    "interests": [
+      "购物",
+      "电影"
+    ],
+    "historical_order_count": 25,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 172,
+    "interests": [
+      "购物",
+      "科技"
+    ],
+    "historical_order_count": 25,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 173,
+    "interests": [
+      "美食"
+    ],
+    "historical_order_count": 25,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 174,
+    "interests": [
+      "运动"
+    ],
+    "historical_order_count": 12,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 175,
+    "interests": [
+      "美食"
+    ],
+    "historical_order_count": 20,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 176,
+    "interests": [
+      "运动",
+      "教育",
+      "科技"
+    ],
+    "historical_order_count": 18,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 177,
+    "interests": [
+      "科技",
+      "美食"
+    ],
+    "historical_order_count": 20,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 178,
+    "interests": [
+      "旅游",
+      "购物"
+    ],
+    "historical_order_count": 18,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 179,
+    "interests": [
+      "电影",
+      "科技",
+      "旅游"
+    ],
+    "historical_order_count": 34,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 180,
+    "interests": [
+      "旅游",
+      "购物"
+    ],
+    "historical_order_count": 23,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 181,
+    "interests": [
+      "电影",
+      "美食",
+      "旅游"
+    ],
+    "historical_order_count": 22,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 182,
+    "interests": [
+      "旅游",
+      "电影"
+    ],
+    "historical_order_count": 19,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 183,
+    "interests": [
+      "购物",
+      "美食"
+    ],
+    "historical_order_count": 18,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 184,
+    "interests": [
+      "购物",
+      "教育",
+      "美食"
+    ],
+    "historical_order_count": 20,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 185,
+    "interests": [
+      "教育",
+      "运动"
+    ],
+    "historical_order_count": 27,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 186,
+    "interests": [
+      "教育"
+    ],
+    "historical_order_count": 18,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 187,
+    "interests": [
+      "运动",
+      "教育",
+      "美食"
+    ],
+    "historical_order_count": 18,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 188,
+    "interests": [
+      "科技",
+      "购物"
+    ],
+    "historical_order_count": 20,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 189,
+    "interests": [
+      "旅游",
+      "电影"
+    ],
+    "historical_order_count": 25,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 190,
+    "interests": [
+      "教育",
+      "美食",
+      "电影"
+    ],
+    "historical_order_count": 14,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 191,
+    "interests": [
+      "购物",
+      "健康"
+    ],
+    "historical_order_count": 19,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 192,
+    "interests": [
+      "旅游",
+      "健康",
+      "教育"
+    ],
+    "historical_order_count": 10,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 193,
+    "interests": [
+      "美食"
+    ],
+    "historical_order_count": 18,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 194,
+    "interests": [
+      "健康"
+    ],
+    "historical_order_count": 23,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 195,
+    "interests": [
+      "购物",
+      "旅游"
+    ],
+    "historical_order_count": 16,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 196,
+    "interests": [
+      "科技",
+      "旅游",
+      "购物"
+    ],
+    "historical_order_count": 25,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 197,
+    "interests": [
+      "教育",
+      "购物"
+    ],
+    "historical_order_count": 29,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 198,
+    "interests": [
+      "教育",
+      "美食",
+      "运动"
+    ],
+    "historical_order_count": 17,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 199,
+    "interests": [
+      "电影"
+    ],
+    "historical_order_count": 14,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 200,
+    "interests": [
+      "旅游",
+      "电影"
+    ],
+    "historical_order_count": 15,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 201,
+    "interests": [
+      "教育",
+      "美食"
+    ],
+    "historical_order_count": 21,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 202,
+    "interests": [
+      "教育"
+    ],
+    "historical_order_count": 8,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 203,
+    "interests": [
+      "运动",
+      "教育"
+    ],
+    "historical_order_count": 17,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 204,
+    "interests": [
+      "教育",
+      "运动"
+    ],
+    "historical_order_count": 19,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 205,
+    "interests": [
+      "电影"
+    ],
+    "historical_order_count": 20,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 206,
+    "interests": [
+      "科技"
+    ],
+    "historical_order_count": 17,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 207,
+    "interests": [
+      "教育"
+    ],
+    "historical_order_count": 21,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 208,
+    "interests": [
+      "美食",
+      "科技"
+    ],
+    "historical_order_count": 19,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 209,
+    "interests": [
+      "运动",
+      "美食",
+      "旅游"
+    ],
+    "historical_order_count": 20,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 210,
+    "interests": [
+      "健康",
+      "美食"
+    ],
+    "historical_order_count": 21,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 211,
+    "interests": [
+      "运动",
+      "美食",
+      "科技"
+    ],
+    "historical_order_count": 23,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 212,
+    "interests": [
+      "科技",
+      "教育",
+      "购物"
+    ],
+    "historical_order_count": 22,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 213,
+    "interests": [
+      "旅游",
+      "运动",
+      "美食"
+    ],
+    "historical_order_count": 19,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 214,
+    "interests": [
+      "科技",
+      "美食",
+      "运动"
+    ],
+    "historical_order_count": 24,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 215,
+    "interests": [
+      "购物",
+      "旅游"
+    ],
+    "historical_order_count": 19,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 216,
+    "interests": [
+      "教育",
+      "科技"
+    ],
+    "historical_order_count": 13,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 217,
+    "interests": [
+      "教育",
+      "购物",
+      "电影"
+    ],
+    "historical_order_count": 20,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 218,
+    "interests": [
+      "旅游"
+    ],
+    "historical_order_count": 21,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 219,
+    "interests": [
+      "旅游"
+    ],
+    "historical_order_count": 19,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 220,
+    "interests": [
+      "购物"
+    ],
+    "historical_order_count": 26,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 221,
+    "interests": [
+      "教育",
+      "电影"
+    ],
+    "historical_order_count": 15,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 222,
+    "interests": [
+      "教育",
+      "科技",
+      "旅游"
+    ],
+    "historical_order_count": 19,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 223,
+    "interests": [
+      "健康",
+      "购物"
+    ],
+    "historical_order_count": 21,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 224,
+    "interests": [
+      "购物"
+    ],
+    "historical_order_count": 20,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 225,
+    "interests": [
+      "美食",
+      "旅游",
+      "购物"
+    ],
+    "historical_order_count": 26,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 226,
+    "interests": [
+      "电影"
+    ],
+    "historical_order_count": 34,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 227,
+    "interests": [
+      "美食",
+      "教育"
+    ],
+    "historical_order_count": 31,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 228,
+    "interests": [
+      "购物",
+      "美食"
+    ],
+    "historical_order_count": 16,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 229,
+    "interests": [
+      "电影",
+      "美食"
+    ],
+    "historical_order_count": 19,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 230,
+    "interests": [
+      "购物"
+    ],
+    "historical_order_count": 21,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 231,
+    "interests": [
+      "美食"
+    ],
+    "historical_order_count": 25,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 232,
+    "interests": [
+      "电影"
+    ],
+    "historical_order_count": 18,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 233,
+    "interests": [
+      "旅游",
+      "运动"
+    ],
+    "historical_order_count": 27,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 234,
+    "interests": [
+      "美食"
+    ],
+    "historical_order_count": 25,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 235,
+    "interests": [
+      "健康"
+    ],
+    "historical_order_count": 21,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 236,
+    "interests": [
+      "教育"
+    ],
+    "historical_order_count": 17,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 237,
+    "interests": [
+      "健康"
+    ],
+    "historical_order_count": 22,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 238,
+    "interests": [
+      "科技"
+    ],
+    "historical_order_count": 23,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 239,
+    "interests": [
+      "美食",
+      "电影"
+    ],
+    "historical_order_count": 21,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 240,
+    "interests": [
+      "教育"
+    ],
+    "historical_order_count": 20,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 241,
+    "interests": [
+      "运动"
+    ],
+    "historical_order_count": 16,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 242,
+    "interests": [
+      "购物",
+      "美食"
+    ],
+    "historical_order_count": 27,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 243,
+    "interests": [
+      "运动",
+      "电影",
+      "科技"
+    ],
+    "historical_order_count": 16,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 244,
+    "interests": [
+      "旅游"
+    ],
+    "historical_order_count": 26,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 245,
+    "interests": [
+      "购物",
+      "电影"
+    ],
+    "historical_order_count": 24,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 246,
+    "interests": [
+      "电影",
+      "教育",
+      "运动"
+    ],
+    "historical_order_count": 18,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 247,
+    "interests": [
+      "教育",
+      "电影"
+    ],
+    "historical_order_count": 20,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 248,
+    "interests": [
+      "教育",
+      "电影"
+    ],
+    "historical_order_count": 26,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 249,
+    "interests": [
+      "美食"
+    ],
+    "historical_order_count": 15,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 250,
+    "interests": [
+      "电影",
+      "美食",
+      "购物"
+    ],
+    "historical_order_count": 17,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 251,
+    "interests": [
+      "教育",
+      "科技"
+    ],
+    "historical_order_count": 22,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 252,
+    "interests": [
+      "旅游"
+    ],
+    "historical_order_count": 20,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 253,
+    "interests": [
+      "电影",
+      "购物",
+      "运动"
+    ],
+    "historical_order_count": 20,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 254,
+    "interests": [
+      "科技"
+    ],
+    "historical_order_count": 23,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 255,
+    "interests": [
+      "购物"
+    ],
+    "historical_order_count": 18,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 256,
+    "interests": [
+      "教育",
+      "科技",
+      "健康"
+    ],
+    "historical_order_count": 31,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 257,
+    "interests": [
+      "美食",
+      "教育",
+      "科技"
+    ],
+    "historical_order_count": 17,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 258,
+    "interests": [
+      "购物",
+      "运动",
+      "旅游"
+    ],
+    "historical_order_count": 27,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 259,
+    "interests": [
+      "运动",
+      "旅游",
+      "电影"
+    ],
+    "historical_order_count": 29,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 260,
+    "interests": [
+      "美食"
+    ],
+    "historical_order_count": 21,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 261,
+    "interests": [
+      "电影",
+      "美食",
+      "运动"
+    ],
+    "historical_order_count": 29,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 262,
+    "interests": [
+      "教育"
+    ],
+    "historical_order_count": 20,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 263,
+    "interests": [
+      "教育"
+    ],
+    "historical_order_count": 21,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 264,
+    "interests": [
+      "美食",
+      "健康"
+    ],
+    "historical_order_count": 19,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 265,
+    "interests": [
+      "购物",
+      "科技",
+      "美食"
+    ],
+    "historical_order_count": 14,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 266,
+    "interests": [
+      "教育"
+    ],
+    "historical_order_count": 16,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 267,
+    "interests": [
+      "旅游",
+      "购物",
+      "科技"
+    ],
+    "historical_order_count": 16,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 268,
+    "interests": [
+      "购物"
+    ],
+    "historical_order_count": 15,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 269,
+    "interests": [
+      "健康",
+      "教育",
+      "购物"
+    ],
+    "historical_order_count": 21,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 270,
+    "interests": [
+      "教育",
+      "旅游",
+      "健康"
+    ],
+    "historical_order_count": 17,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 271,
+    "interests": [
+      "运动",
+      "教育"
+    ],
+    "historical_order_count": 30,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 272,
+    "interests": [
+      "购物"
+    ],
+    "historical_order_count": 23,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 273,
+    "interests": [
+      "科技",
+      "健康",
+      "运动"
+    ],
+    "historical_order_count": 17,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 274,
+    "interests": [
+      "教育"
+    ],
+    "historical_order_count": 12,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 275,
+    "interests": [
+      "旅游",
+      "电影",
+      "健康"
+    ],
+    "historical_order_count": 16,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 276,
+    "interests": [
+      "旅游",
+      "健康",
+      "购物"
+    ],
+    "historical_order_count": 20,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 277,
+    "interests": [
+      "旅游"
+    ],
+    "historical_order_count": 18,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 278,
+    "interests": [
+      "美食",
+      "购物"
+    ],
+    "historical_order_count": 19,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 279,
+    "interests": [
+      "旅游"
+    ],
+    "historical_order_count": 21,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 280,
+    "interests": [
+      "旅游",
+      "教育"
+    ],
+    "historical_order_count": 20,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 281,
+    "interests": [
+      "科技"
+    ],
+    "historical_order_count": 14,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 282,
+    "interests": [
+      "科技",
+      "旅游",
+      "电影"
+    ],
+    "historical_order_count": 15,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 283,
+    "interests": [
+      "教育",
+      "运动"
+    ],
+    "historical_order_count": 16,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 284,
+    "interests": [
+      "健康"
+    ],
+    "historical_order_count": 16,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 285,
+    "interests": [
+      "健康"
+    ],
+    "historical_order_count": 26,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 286,
+    "interests": [
+      "运动"
+    ],
+    "historical_order_count": 19,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 287,
+    "interests": [
+      "运动",
+      "美食"
+    ],
+    "historical_order_count": 19,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 288,
+    "interests": [
+      "购物",
+      "电影"
+    ],
+    "historical_order_count": 22,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 289,
+    "interests": [
+      "旅游",
+      "运动",
+      "美食"
+    ],
+    "historical_order_count": 25,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 290,
+    "interests": [
+      "健康",
+      "教育",
+      "美食"
+    ],
+    "historical_order_count": 21,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 291,
+    "interests": [
+      "购物",
+      "运动",
+      "电影"
+    ],
+    "historical_order_count": 16,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 292,
+    "interests": [
+      "旅游"
+    ],
+    "historical_order_count": 20,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 293,
+    "interests": [
+      "电影"
+    ],
+    "historical_order_count": 15,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 294,
+    "interests": [
+      "运动",
+      "教育",
+      "购物"
+    ],
+    "historical_order_count": 24,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 295,
+    "interests": [
+      "旅游"
+    ],
+    "historical_order_count": 20,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 296,
+    "interests": [
+      "健康",
+      "旅游"
+    ],
+    "historical_order_count": 21,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 297,
+    "interests": [
+      "美食",
+      "电影"
+    ],
+    "historical_order_count": 26,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 298,
+    "interests": [
+      "健康",
+      "旅游"
+    ],
+    "historical_order_count": 21,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 299,
+    "interests": [
+      "电影"
+    ],
+    "historical_order_count": 22,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 300,
+    "interests": [
+      "运动",
+      "美食",
+      "电影"
+    ],
+    "historical_order_count": 22,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 301,
+    "interests": [
+      "科技",
+      "电影"
+    ],
+    "historical_order_count": 23,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 302,
+    "interests": [
+      "运动",
+      "美食",
+      "教育"
+    ],
+    "historical_order_count": 23,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 303,
+    "interests": [
+      "教育"
+    ],
+    "historical_order_count": 19,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 304,
+    "interests": [
+      "购物",
+      "电影"
+    ],
+    "historical_order_count": 16,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 305,
+    "interests": [
+      "健康",
+      "电影"
+    ],
+    "historical_order_count": 22,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 306,
+    "interests": [
+      "运动"
+    ],
+    "historical_order_count": 18,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 307,
+    "interests": [
+      "旅游"
+    ],
+    "historical_order_count": 21,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 308,
+    "interests": [
+      "教育",
+      "科技",
+      "运动"
+    ],
+    "historical_order_count": 23,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 309,
+    "interests": [
+      "电影",
+      "运动",
+      "美食"
+    ],
+    "historical_order_count": 16,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 310,
+    "interests": [
+      "科技",
+      "运动",
+      "教育"
+    ],
+    "historical_order_count": 23,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 311,
+    "interests": [
+      "电影",
+      "健康",
+      "购物"
+    ],
+    "historical_order_count": 20,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 312,
+    "interests": [
+      "美食",
+      "运动"
+    ],
+    "historical_order_count": 23,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 313,
+    "interests": [
+      "健康"
+    ],
+    "historical_order_count": 12,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 314,
+    "interests": [
+      "电影"
+    ],
+    "historical_order_count": 18,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 315,
+    "interests": [
+      "美食"
+    ],
+    "historical_order_count": 18,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 316,
+    "interests": [
+      "科技"
+    ],
+    "historical_order_count": 14,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 317,
+    "interests": [
+      "购物",
+      "科技",
+      "运动"
+    ],
+    "historical_order_count": 18,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 318,
+    "interests": [
+      "旅游",
+      "美食"
+    ],
+    "historical_order_count": 18,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 319,
+    "interests": [
+      "科技",
+      "运动",
+      "购物"
+    ],
+    "historical_order_count": 13,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 320,
+    "interests": [
+      "健康",
+      "科技",
+      "美食"
+    ],
+    "historical_order_count": 25,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 321,
+    "interests": [
+      "科技"
+    ],
+    "historical_order_count": 13,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 322,
+    "interests": [
+      "旅游"
+    ],
+    "historical_order_count": 18,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 323,
+    "interests": [
+      "旅游",
+      "科技",
+      "购物"
+    ],
+    "historical_order_count": 21,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 324,
+    "interests": [
+      "运动",
+      "电影"
+    ],
+    "historical_order_count": 24,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 325,
+    "interests": [
+      "健康",
+      "美食",
+      "旅游"
+    ],
+    "historical_order_count": 25,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 326,
+    "interests": [
+      "购物",
+      "运动"
+    ],
+    "historical_order_count": 21,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 327,
+    "interests": [
+      "科技"
+    ],
+    "historical_order_count": 23,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 328,
+    "interests": [
+      "电影",
+      "美食",
+      "教育"
+    ],
+    "historical_order_count": 19,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 329,
+    "interests": [
+      "教育",
+      "美食"
+    ],
+    "historical_order_count": 14,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 330,
+    "interests": [
+      "运动",
+      "购物"
+    ],
+    "historical_order_count": 20,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 331,
+    "interests": [
+      "旅游",
+      "科技",
+      "健康"
+    ],
+    "historical_order_count": 20,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 332,
+    "interests": [
+      "健康",
+      "科技"
+    ],
+    "historical_order_count": 14,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 333,
+    "interests": [
+      "科技",
+      "运动"
+    ],
+    "historical_order_count": 16,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 334,
+    "interests": [
+      "健康"
+    ],
+    "historical_order_count": 32,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 335,
+    "interests": [
+      "健康",
+      "科技"
+    ],
+    "historical_order_count": 26,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 336,
+    "interests": [
+      "购物"
+    ],
+    "historical_order_count": 20,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 337,
+    "interests": [
+      "科技",
+      "旅游"
+    ],
+    "historical_order_count": 20,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 338,
+    "interests": [
+      "电影"
+    ],
+    "historical_order_count": 17,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 339,
+    "interests": [
+      "电影"
+    ],
+    "historical_order_count": 25,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 340,
+    "interests": [
+      "美食",
+      "购物"
+    ],
+    "historical_order_count": 18,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 341,
+    "interests": [
+      "教育",
+      "科技"
+    ],
+    "historical_order_count": 24,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 342,
+    "interests": [
+      "科技",
+      "教育",
+      "美食"
+    ],
+    "historical_order_count": 21,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 343,
+    "interests": [
+      "教育"
+    ],
+    "historical_order_count": 18,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 344,
+    "interests": [
+      "健康",
+      "旅游",
+      "电影"
+    ],
+    "historical_order_count": 20,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 345,
+    "interests": [
+      "购物",
+      "科技"
+    ],
+    "historical_order_count": 33,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 346,
+    "interests": [
+      "旅游",
+      "购物",
+      "美食"
+    ],
+    "historical_order_count": 24,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 347,
+    "interests": [
+      "购物"
+    ],
+    "historical_order_count": 18,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 348,
+    "interests": [
+      "电影"
+    ],
+    "historical_order_count": 22,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 349,
+    "interests": [
+      "科技",
+      "运动"
+    ],
+    "historical_order_count": 17,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 350,
+    "interests": [
+      "美食",
+      "电影",
+      "旅游"
+    ],
+    "historical_order_count": 17,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 351,
+    "interests": [
+      "美食",
+      "旅游",
+      "购物"
+    ],
+    "historical_order_count": 21,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 352,
+    "interests": [
+      "运动",
+      "电影",
+      "科技"
+    ],
+    "historical_order_count": 28,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 353,
+    "interests": [
+      "运动",
+      "旅游"
+    ],
+    "historical_order_count": 12,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 354,
+    "interests": [
+      "科技",
+      "运动"
+    ],
+    "historical_order_count": 21,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 355,
+    "interests": [
+      "教育"
+    ],
+    "historical_order_count": 23,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 356,
+    "interests": [
+      "旅游",
+      "电影"
+    ],
+    "historical_order_count": 17,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 357,
+    "interests": [
+      "运动",
+      "教育"
+    ],
+    "historical_order_count": 13,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 358,
+    "interests": [
+      "运动",
+      "教育"
+    ],
+    "historical_order_count": 18,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 359,
+    "interests": [
+      "购物"
+    ],
+    "historical_order_count": 15,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 360,
+    "interests": [
+      "科技"
+    ],
+    "historical_order_count": 16,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 361,
+    "interests": [
+      "购物",
+      "教育",
+      "美食"
+    ],
+    "historical_order_count": 17,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 362,
+    "interests": [
+      "运动",
+      "电影"
+    ],
+    "historical_order_count": 21,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 363,
+    "interests": [
+      "美食",
+      "运动"
+    ],
+    "historical_order_count": 22,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 364,
+    "interests": [
+      "电影",
+      "教育"
+    ],
+    "historical_order_count": 19,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 365,
+    "interests": [
+      "教育",
+      "运动",
+      "购物"
+    ],
+    "historical_order_count": 19,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 366,
+    "interests": [
+      "购物",
+      "健康",
+      "美食"
+    ],
+    "historical_order_count": 16,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 367,
+    "interests": [
+      "运动"
+    ],
+    "historical_order_count": 22,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 368,
+    "interests": [
+      "教育",
+      "健康",
+      "美食"
+    ],
+    "historical_order_count": 26,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 369,
+    "interests": [
+      "电影",
+      "教育"
+    ],
+    "historical_order_count": 12,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 370,
+    "interests": [
+      "教育",
+      "购物"
+    ],
+    "historical_order_count": 20,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 371,
+    "interests": [
+      "运动",
+      "电影",
+      "美食"
+    ],
+    "historical_order_count": 17,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 372,
+    "interests": [
+      "旅游"
+    ],
+    "historical_order_count": 21,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 373,
+    "interests": [
+      "旅游"
+    ],
+    "historical_order_count": 16,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 374,
+    "interests": [
+      "运动",
+      "电影",
+      "美食"
+    ],
+    "historical_order_count": 19,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 375,
+    "interests": [
+      "电影"
+    ],
+    "historical_order_count": 18,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 376,
+    "interests": [
+      "健康",
+      "旅游"
+    ],
+    "historical_order_count": 24,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 377,
+    "interests": [
+      "购物",
+      "科技",
+      "美食"
+    ],
+    "historical_order_count": 15,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 378,
+    "interests": [
+      "购物",
+      "健康"
+    ],
+    "historical_order_count": 22,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 379,
+    "interests": [
+      "健康"
+    ],
+    "historical_order_count": 17,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 380,
+    "interests": [
+      "购物"
+    ],
+    "historical_order_count": 22,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 381,
+    "interests": [
+      "旅游",
+      "健康"
+    ],
+    "historical_order_count": 28,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 382,
+    "interests": [
+      "科技",
+      "电影",
+      "健康"
+    ],
+    "historical_order_count": 24,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 383,
+    "interests": [
+      "美食",
+      "健康"
+    ],
+    "historical_order_count": 26,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 384,
+    "interests": [
+      "教育",
+      "美食",
+      "购物"
+    ],
+    "historical_order_count": 23,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 385,
+    "interests": [
+      "美食"
+    ],
+    "historical_order_count": 25,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 386,
+    "interests": [
+      "教育"
+    ],
+    "historical_order_count": 20,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 387,
+    "interests": [
+      "旅游"
+    ],
+    "historical_order_count": 18,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 388,
+    "interests": [
+      "运动",
+      "旅游",
+      "美食"
+    ],
+    "historical_order_count": 15,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 389,
+    "interests": [
+      "运动",
+      "电影"
+    ],
+    "historical_order_count": 21,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 390,
+    "interests": [
+      "购物",
+      "健康"
+    ],
+    "historical_order_count": 15,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 391,
+    "interests": [
+      "电影",
+      "旅游"
+    ],
+    "historical_order_count": 29,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 392,
+    "interests": [
+      "电影"
+    ],
+    "historical_order_count": 22,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 393,
+    "interests": [
+      "购物",
+      "旅游",
+      "教育"
+    ],
+    "historical_order_count": 19,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 394,
+    "interests": [
+      "购物",
+      "美食",
+      "健康"
+    ],
+    "historical_order_count": 23,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 395,
+    "interests": [
+      "运动",
+      "科技"
+    ],
+    "historical_order_count": 21,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 396,
+    "interests": [
+      "美食",
+      "教育",
+      "健康"
+    ],
+    "historical_order_count": 21,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 397,
+    "interests": [
+      "旅游"
+    ],
+    "historical_order_count": 18,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 398,
+    "interests": [
+      "科技",
+      "美食"
+    ],
+    "historical_order_count": 16,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 399,
+    "interests": [
+      "购物",
+      "旅游"
+    ],
+    "historical_order_count": 22,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 400,
+    "interests": [
+      "科技",
+      "教育"
+    ],
+    "historical_order_count": 21,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 401,
+    "interests": [
+      "运动",
+      "健康",
+      "科技"
+    ],
+    "historical_order_count": 20,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 402,
+    "interests": [
+      "旅游",
+      "运动"
+    ],
+    "historical_order_count": 18,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 403,
+    "interests": [
+      "旅游",
+      "科技"
+    ],
+    "historical_order_count": 23,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 404,
+    "interests": [
+      "电影",
+      "运动"
+    ],
+    "historical_order_count": 21,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 405,
+    "interests": [
+      "电影",
+      "购物"
+    ],
+    "historical_order_count": 14,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 406,
+    "interests": [
+      "购物",
+      "美食"
+    ],
+    "historical_order_count": 17,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 407,
+    "interests": [
+      "健康"
+    ],
+    "historical_order_count": 30,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 408,
+    "interests": [
+      "美食"
+    ],
+    "historical_order_count": 26,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 409,
+    "interests": [
+      "旅游",
+      "美食",
+      "运动"
+    ],
+    "historical_order_count": 18,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 410,
+    "interests": [
+      "旅游"
+    ],
+    "historical_order_count": 28,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 411,
+    "interests": [
+      "旅游",
+      "购物",
+      "教育"
+    ],
+    "historical_order_count": 28,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 412,
+    "interests": [
+      "运动",
+      "购物"
+    ],
+    "historical_order_count": 30,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 413,
+    "interests": [
+      "旅游"
+    ],
+    "historical_order_count": 20,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 414,
+    "interests": [
+      "运动"
+    ],
+    "historical_order_count": 21,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 415,
+    "interests": [
+      "教育",
+      "电影",
+      "健康"
+    ],
+    "historical_order_count": 20,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 416,
+    "interests": [
+      "美食"
+    ],
+    "historical_order_count": 23,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 417,
+    "interests": [
+      "购物"
+    ],
+    "historical_order_count": 29,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 418,
+    "interests": [
+      "健康",
+      "运动"
+    ],
+    "historical_order_count": 24,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 419,
+    "interests": [
+      "旅游",
+      "购物",
+      "科技"
+    ],
+    "historical_order_count": 23,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 420,
+    "interests": [
+      "科技"
+    ],
+    "historical_order_count": 23,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 421,
+    "interests": [
+      "运动",
+      "科技"
+    ],
+    "historical_order_count": 18,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 422,
+    "interests": [
+      "健康",
+      "科技",
+      "电影"
+    ],
+    "historical_order_count": 15,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 423,
+    "interests": [
+      "购物"
+    ],
+    "historical_order_count": 14,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 424,
+    "interests": [
+      "旅游"
+    ],
+    "historical_order_count": 18,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 425,
+    "interests": [
+      "健康",
+      "科技",
+      "运动"
+    ],
+    "historical_order_count": 29,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 426,
+    "interests": [
+      "科技"
+    ],
+    "historical_order_count": 23,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 427,
+    "interests": [
+      "美食",
+      "科技",
+      "教育"
+    ],
+    "historical_order_count": 13,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 428,
+    "interests": [
+      "健康",
+      "美食"
+    ],
+    "historical_order_count": 25,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 429,
+    "interests": [
+      "美食",
+      "健康"
+    ],
+    "historical_order_count": 13,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 430,
+    "interests": [
+      "教育",
+      "美食",
+      "健康"
+    ],
+    "historical_order_count": 18,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 431,
+    "interests": [
+      "教育",
+      "运动",
+      "科技"
+    ],
+    "historical_order_count": 20,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 432,
+    "interests": [
+      "电影",
+      "健康"
+    ],
+    "historical_order_count": 27,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 433,
+    "interests": [
+      "科技",
+      "旅游",
+      "运动"
+    ],
+    "historical_order_count": 9,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 434,
+    "interests": [
+      "购物"
+    ],
+    "historical_order_count": 20,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 435,
+    "interests": [
+      "购物",
+      "美食"
+    ],
+    "historical_order_count": 17,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 436,
+    "interests": [
+      "电影",
+      "购物"
+    ],
+    "historical_order_count": 18,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 437,
+    "interests": [
+      "电影"
+    ],
+    "historical_order_count": 22,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 438,
+    "interests": [
+      "电影",
+      "美食"
+    ],
+    "historical_order_count": 18,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 439,
+    "interests": [
+      "健康",
+      "美食"
+    ],
+    "historical_order_count": 21,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 440,
+    "interests": [
+      "教育",
+      "美食"
+    ],
+    "historical_order_count": 24,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 441,
+    "interests": [
+      "美食",
+      "健康",
+      "电影"
+    ],
+    "historical_order_count": 18,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 442,
+    "interests": [
+      "美食"
+    ],
+    "historical_order_count": 17,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 443,
+    "interests": [
+      "运动",
+      "健康",
+      "科技"
+    ],
+    "historical_order_count": 18,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 444,
+    "interests": [
+      "健康",
+      "购物",
+      "科技"
+    ],
+    "historical_order_count": 20,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 445,
+    "interests": [
+      "健康"
+    ],
+    "historical_order_count": 22,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 446,
+    "interests": [
+      "健康",
+      "教育",
+      "科技"
+    ],
+    "historical_order_count": 16,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 447,
+    "interests": [
+      "健康",
+      "美食",
+      "科技"
+    ],
+    "historical_order_count": 19,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 448,
+    "interests": [
+      "教育"
+    ],
+    "historical_order_count": 20,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 449,
+    "interests": [
+      "运动",
+      "健康",
+      "科技"
+    ],
+    "historical_order_count": 19,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 450,
+    "interests": [
+      "旅游",
+      "美食",
+      "健康"
+    ],
+    "historical_order_count": 16,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 451,
+    "interests": [
+      "科技"
+    ],
+    "historical_order_count": 22,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 452,
+    "interests": [
+      "电影",
+      "旅游"
+    ],
+    "historical_order_count": 19,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 453,
+    "interests": [
+      "电影",
+      "健康"
+    ],
+    "historical_order_count": 25,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 454,
+    "interests": [
+      "教育",
+      "美食",
+      "电影"
+    ],
+    "historical_order_count": 17,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 455,
+    "interests": [
+      "旅游",
+      "科技",
+      "电影"
+    ],
+    "historical_order_count": 22,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 456,
+    "interests": [
+      "购物",
+      "电影",
+      "美食"
+    ],
+    "historical_order_count": 15,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 457,
+    "interests": [
+      "科技",
+      "健康",
+      "运动"
+    ],
+    "historical_order_count": 27,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 458,
+    "interests": [
+      "购物",
+      "教育",
+      "运动"
+    ],
+    "historical_order_count": 29,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 459,
+    "interests": [
+      "购物",
+      "美食",
+      "电影"
+    ],
+    "historical_order_count": 24,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 460,
+    "interests": [
+      "科技",
+      "电影",
+      "运动"
+    ],
+    "historical_order_count": 22,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 461,
+    "interests": [
+      "科技",
+      "购物"
+    ],
+    "historical_order_count": 18,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 462,
+    "interests": [
+      "购物",
+      "旅游"
+    ],
+    "historical_order_count": 25,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 463,
+    "interests": [
+      "运动",
+      "科技",
+      "教育"
+    ],
+    "historical_order_count": 21,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 464,
+    "interests": [
+      "电影",
+      "旅游",
+      "科技"
+    ],
+    "historical_order_count": 19,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 465,
+    "interests": [
+      "教育",
+      "健康",
+      "旅游"
+    ],
+    "historical_order_count": 15,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 466,
+    "interests": [
+      "教育",
+      "健康",
+      "美食"
+    ],
+    "historical_order_count": 22,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 467,
+    "interests": [
+      "健康",
+      "运动",
+      "科技"
+    ],
+    "historical_order_count": 18,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 468,
+    "interests": [
+      "运动",
+      "科技",
+      "电影"
+    ],
+    "historical_order_count": 24,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 469,
+    "interests": [
+      "旅游",
+      "美食",
+      "电影"
+    ],
+    "historical_order_count": 20,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 470,
+    "interests": [
+      "美食"
+    ],
+    "historical_order_count": 16,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 471,
+    "interests": [
+      "购物",
+      "健康"
+    ],
+    "historical_order_count": 21,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 472,
+    "interests": [
+      "美食"
+    ],
+    "historical_order_count": 27,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 473,
+    "interests": [
+      "美食"
+    ],
+    "historical_order_count": 21,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 474,
+    "interests": [
+      "旅游",
+      "运动"
+    ],
+    "historical_order_count": 22,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 475,
+    "interests": [
+      "科技",
+      "旅游",
+      "运动"
+    ],
+    "historical_order_count": 22,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 476,
+    "interests": [
+      "美食",
+      "电影",
+      "科技"
+    ],
+    "historical_order_count": 15,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 477,
+    "interests": [
+      "教育",
+      "运动",
+      "美食"
+    ],
+    "historical_order_count": 22,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 478,
+    "interests": [
+      "运动",
+      "旅游",
+      "健康"
+    ],
+    "historical_order_count": 17,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 479,
+    "interests": [
+      "教育"
+    ],
+    "historical_order_count": 18,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 480,
+    "interests": [
+      "电影",
+      "购物",
+      "健康"
+    ],
+    "historical_order_count": 29,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 481,
+    "interests": [
+      "旅游",
+      "健康",
+      "科技"
+    ],
+    "historical_order_count": 18,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 482,
+    "interests": [
+      "美食",
+      "电影"
+    ],
+    "historical_order_count": 27,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 483,
+    "interests": [
+      "运动",
+      "旅游",
+      "科技"
+    ],
+    "historical_order_count": 16,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 484,
+    "interests": [
+      "教育"
+    ],
+    "historical_order_count": 18,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 485,
+    "interests": [
+      "购物",
+      "美食",
+      "旅游"
+    ],
+    "historical_order_count": 23,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 486,
+    "interests": [
+      "美食",
+      "科技",
+      "教育"
+    ],
+    "historical_order_count": 16,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 487,
+    "interests": [
+      "教育",
+      "美食"
+    ],
+    "historical_order_count": 22,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 488,
+    "interests": [
+      "电影",
+      "旅游",
+      "运动"
+    ],
+    "historical_order_count": 19,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 489,
+    "interests": [
+      "购物",
+      "电影",
+      "运动"
+    ],
+    "historical_order_count": 19,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 490,
+    "interests": [
+      "教育"
+    ],
+    "historical_order_count": 27,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 491,
+    "interests": [
+      "教育"
+    ],
+    "historical_order_count": 19,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 492,
+    "interests": [
+      "运动",
+      "旅游"
+    ],
+    "historical_order_count": 29,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 493,
+    "interests": [
+      "美食",
+      "健康",
+      "教育"
+    ],
+    "historical_order_count": 19,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 494,
+    "interests": [
+      "电影",
+      "教育"
+    ],
+    "historical_order_count": 21,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 495,
+    "interests": [
+      "教育"
+    ],
+    "historical_order_count": 22,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 496,
+    "interests": [
+      "科技"
+    ],
+    "historical_order_count": 20,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 497,
+    "interests": [
+      "运动",
+      "美食",
+      "健康"
+    ],
+    "historical_order_count": 26,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 498,
+    "interests": [
+      "健康",
+      "电影",
+      "美食"
+    ],
+    "historical_order_count": 17,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 499,
+    "interests": [
+      "电影",
+      "购物",
+      "运动"
+    ],
+    "historical_order_count": 26,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 500,
+    "interests": [
+      "购物"
+    ],
+    "historical_order_count": 19,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 501,
+    "interests": [
+      "旅游",
+      "健康",
+      "教育"
+    ],
+    "historical_order_count": 24,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 502,
+    "interests": [
+      "科技",
+      "健康",
+      "美食"
+    ],
+    "historical_order_count": 18,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 503,
+    "interests": [
+      "科技",
+      "教育",
+      "美食"
+    ],
+    "historical_order_count": 25,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 504,
+    "interests": [
+      "健康"
+    ],
+    "historical_order_count": 27,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 505,
+    "interests": [
+      "旅游"
+    ],
+    "historical_order_count": 30,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 506,
+    "interests": [
+      "购物"
+    ],
+    "historical_order_count": 18,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 507,
+    "interests": [
+      "旅游",
+      "运动",
+      "健康"
+    ],
+    "historical_order_count": 17,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 508,
+    "interests": [
+      "科技",
+      "电影"
+    ],
+    "historical_order_count": 17,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 509,
+    "interests": [
+      "教育",
+      "美食"
+    ],
+    "historical_order_count": 19,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 510,
+    "interests": [
+      "旅游",
+      "运动",
+      "美食"
+    ],
+    "historical_order_count": 27,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 511,
+    "interests": [
+      "美食",
+      "教育",
+      "健康"
+    ],
+    "historical_order_count": 16,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 512,
+    "interests": [
+      "旅游",
+      "购物",
+      "教育"
+    ],
+    "historical_order_count": 17,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 513,
+    "interests": [
+      "旅游",
+      "购物",
+      "电影"
+    ],
+    "historical_order_count": 13,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 514,
+    "interests": [
+      "美食",
+      "电影"
+    ],
+    "historical_order_count": 14,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 515,
+    "interests": [
+      "电影",
+      "旅游",
+      "教育"
+    ],
+    "historical_order_count": 17,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 516,
+    "interests": [
+      "运动",
+      "教育",
+      "旅游"
+    ],
+    "historical_order_count": 21,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 517,
+    "interests": [
+      "教育",
+      "美食",
+      "运动"
+    ],
+    "historical_order_count": 24,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 518,
+    "interests": [
+      "美食"
+    ],
+    "historical_order_count": 16,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 519,
+    "interests": [
+      "科技",
+      "运动",
+      "健康"
+    ],
+    "historical_order_count": 18,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 520,
+    "interests": [
+      "电影",
+      "教育"
+    ],
+    "historical_order_count": 23,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 521,
+    "interests": [
+      "科技"
+    ],
+    "historical_order_count": 17,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 522,
+    "interests": [
+      "购物"
+    ],
+    "historical_order_count": 23,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 523,
+    "interests": [
+      "运动",
+      "旅游",
+      "美食"
+    ],
+    "historical_order_count": 14,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 524,
+    "interests": [
+      "美食",
+      "科技",
+      "运动"
+    ],
+    "historical_order_count": 16,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 525,
+    "interests": [
+      "旅游",
+      "购物",
+      "教育"
+    ],
+    "historical_order_count": 15,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 526,
+    "interests": [
+      "旅游",
+      "健康"
+    ],
+    "historical_order_count": 14,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 527,
+    "interests": [
+      "教育",
+      "旅游"
+    ],
+    "historical_order_count": 14,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 528,
+    "interests": [
+      "运动"
+    ],
+    "historical_order_count": 12,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 529,
+    "interests": [
+      "教育"
+    ],
+    "historical_order_count": 20,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 530,
+    "interests": [
+      "教育",
+      "运动"
+    ],
+    "historical_order_count": 24,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 531,
+    "interests": [
+      "购物",
+      "运动",
+      "科技"
+    ],
+    "historical_order_count": 19,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 532,
+    "interests": [
+      "科技",
+      "旅游"
+    ],
+    "historical_order_count": 30,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 533,
+    "interests": [
+      "电影",
+      "科技"
+    ],
+    "historical_order_count": 21,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 534,
+    "interests": [
+      "科技",
+      "购物",
+      "健康"
+    ],
+    "historical_order_count": 17,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 535,
+    "interests": [
+      "教育",
+      "电影",
+      "科技"
+    ],
+    "historical_order_count": 14,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 536,
+    "interests": [
+      "运动",
+      "电影"
+    ],
+    "historical_order_count": 23,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 537,
+    "interests": [
+      "旅游"
+    ],
+    "historical_order_count": 21,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 538,
+    "interests": [
+      "电影"
+    ],
+    "historical_order_count": 19,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 539,
+    "interests": [
+      "旅游",
+      "教育",
+      "美食"
+    ],
+    "historical_order_count": 15,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 540,
+    "interests": [
+      "美食",
+      "科技",
+      "运动"
+    ],
+    "historical_order_count": 26,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 541,
+    "interests": [
+      "电影",
+      "美食",
+      "运动"
+    ],
+    "historical_order_count": 14,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 542,
+    "interests": [
+      "健康",
+      "教育",
+      "旅游"
+    ],
+    "historical_order_count": 26,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 543,
+    "interests": [
+      "电影",
+      "科技"
+    ],
+    "historical_order_count": 21,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 544,
+    "interests": [
+      "健康"
+    ],
+    "historical_order_count": 14,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 545,
+    "interests": [
+      "教育",
+      "运动"
+    ],
+    "historical_order_count": 28,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 546,
+    "interests": [
+      "电影",
+      "科技",
+      "运动"
+    ],
+    "historical_order_count": 21,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 547,
+    "interests": [
+      "购物",
+      "电影",
+      "旅游"
+    ],
+    "historical_order_count": 19,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 548,
+    "interests": [
+      "购物",
+      "教育",
+      "科技"
+    ],
+    "historical_order_count": 18,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 549,
+    "interests": [
+      "美食",
+      "旅游"
+    ],
+    "historical_order_count": 23,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 550,
+    "interests": [
+      "旅游"
+    ],
+    "historical_order_count": 16,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 551,
+    "interests": [
+      "电影",
+      "美食"
+    ],
+    "historical_order_count": 19,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 552,
+    "interests": [
+      "教育",
+      "电影",
+      "科技"
+    ],
+    "historical_order_count": 19,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 553,
+    "interests": [
+      "美食"
+    ],
+    "historical_order_count": 19,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 554,
+    "interests": [
+      "运动"
+    ],
+    "historical_order_count": 16,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 555,
+    "interests": [
+      "购物",
+      "电影",
+      "教育"
+    ],
+    "historical_order_count": 24,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 556,
+    "interests": [
+      "旅游",
+      "运动"
+    ],
+    "historical_order_count": 23,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 557,
+    "interests": [
+      "电影",
+      "运动"
+    ],
+    "historical_order_count": 20,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 558,
+    "interests": [
+      "教育",
+      "电影"
+    ],
+    "historical_order_count": 19,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 559,
+    "interests": [
+      "美食",
+      "运动",
+      "旅游"
+    ],
+    "historical_order_count": 15,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 560,
+    "interests": [
+      "电影"
+    ],
+    "historical_order_count": 21,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 561,
+    "interests": [
+      "运动",
+      "旅游",
+      "科技"
+    ],
+    "historical_order_count": 16,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 562,
+    "interests": [
+      "教育"
+    ],
+    "historical_order_count": 23,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 563,
+    "interests": [
+      "电影",
+      "健康",
+      "购物"
+    ],
+    "historical_order_count": 21,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 564,
+    "interests": [
+      "健康",
+      "电影"
+    ],
+    "historical_order_count": 19,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 565,
+    "interests": [
+      "购物",
+      "教育",
+      "电影"
+    ],
+    "historical_order_count": 19,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 566,
+    "interests": [
+      "美食"
+    ],
+    "historical_order_count": 21,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 567,
+    "interests": [
+      "购物",
+      "旅游",
+      "教育"
+    ],
+    "historical_order_count": 21,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 568,
+    "interests": [
+      "购物",
+      "美食",
+      "旅游"
+    ],
+    "historical_order_count": 19,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 569,
+    "interests": [
+      "科技"
+    ],
+    "historical_order_count": 19,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 570,
+    "interests": [
+      "运动",
+      "美食",
+      "旅游"
+    ],
+    "historical_order_count": 13,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 571,
+    "interests": [
+      "健康",
+      "科技",
+      "电影"
+    ],
+    "historical_order_count": 18,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 572,
+    "interests": [
+      "科技"
+    ],
+    "historical_order_count": 20,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 573,
+    "interests": [
+      "购物",
+      "运动",
+      "教育"
+    ],
+    "historical_order_count": 17,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 574,
+    "interests": [
+      "教育"
+    ],
+    "historical_order_count": 20,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 575,
+    "interests": [
+      "旅游",
+      "健康",
+      "电影"
+    ],
+    "historical_order_count": 18,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 576,
+    "interests": [
+      "旅游"
+    ],
+    "historical_order_count": 22,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 577,
+    "interests": [
+      "科技"
+    ],
+    "historical_order_count": 20,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 578,
+    "interests": [
+      "旅游",
+      "健康",
+      "电影"
+    ],
+    "historical_order_count": 19,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 579,
+    "interests": [
+      "旅游",
+      "美食",
+      "电影"
+    ],
+    "historical_order_count": 20,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 580,
+    "interests": [
+      "美食",
+      "科技",
+      "教育"
+    ],
+    "historical_order_count": 28,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 581,
+    "interests": [
+      "科技",
+      "购物",
+      "美食"
+    ],
+    "historical_order_count": 24,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 582,
+    "interests": [
+      "健康"
+    ],
+    "historical_order_count": 21,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 583,
+    "interests": [
+      "旅游",
+      "电影"
+    ],
+    "historical_order_count": 19,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 584,
+    "interests": [
+      "健康",
+      "科技"
+    ],
+    "historical_order_count": 19,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 585,
+    "interests": [
+      "运动"
+    ],
+    "historical_order_count": 26,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 586,
+    "interests": [
+      "电影",
+      "美食"
+    ],
+    "historical_order_count": 22,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 587,
+    "interests": [
+      "旅游",
+      "运动",
+      "美食"
+    ],
+    "historical_order_count": 13,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 588,
+    "interests": [
+      "电影",
+      "教育",
+      "购物"
+    ],
+    "historical_order_count": 26,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 589,
+    "interests": [
+      "旅游",
+      "健康"
+    ],
+    "historical_order_count": 12,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 590,
+    "interests": [
+      "运动",
+      "购物",
+      "健康"
+    ],
+    "historical_order_count": 18,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 591,
+    "interests": [
+      "教育",
+      "运动",
+      "购物"
+    ],
+    "historical_order_count": 23,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 592,
+    "interests": [
+      "科技"
+    ],
+    "historical_order_count": 26,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 593,
+    "interests": [
+      "教育"
+    ],
+    "historical_order_count": 19,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 594,
+    "interests": [
+      "运动",
+      "健康"
+    ],
+    "historical_order_count": 15,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 595,
+    "interests": [
+      "科技",
+      "教育",
+      "旅游"
+    ],
+    "historical_order_count": 23,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 596,
+    "interests": [
+      "电影",
+      "健康",
+      "教育"
+    ],
+    "historical_order_count": 25,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 597,
+    "interests": [
+      "电影"
+    ],
+    "historical_order_count": 18,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 598,
+    "interests": [
+      "美食",
+      "旅游"
+    ],
+    "historical_order_count": 21,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 599,
+    "interests": [
+      "美食",
+      "科技",
+      "健康"
+    ],
+    "historical_order_count": 19,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 600,
+    "interests": [
+      "科技",
+      "美食"
+    ],
+    "historical_order_count": 19,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 601,
+    "interests": [
+      "电影",
+      "购物"
+    ],
+    "historical_order_count": 20,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 602,
+    "interests": [
+      "美食",
+      "教育",
+      "电影"
+    ],
+    "historical_order_count": 17,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 603,
+    "interests": [
+      "运动",
+      "教育",
+      "健康"
+    ],
+    "historical_order_count": 24,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 604,
+    "interests": [
+      "健康"
+    ],
+    "historical_order_count": 21,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 605,
+    "interests": [
+      "电影"
+    ],
+    "historical_order_count": 19,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 606,
+    "interests": [
+      "美食"
+    ],
+    "historical_order_count": 26,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 607,
+    "interests": [
+      "购物",
+      "教育",
+      "美食"
+    ],
+    "historical_order_count": 18,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 608,
+    "interests": [
+      "美食"
+    ],
+    "historical_order_count": 15,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 609,
+    "interests": [
+      "运动"
+    ],
+    "historical_order_count": 18,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 610,
+    "interests": [
+      "科技",
+      "电影"
+    ],
+    "historical_order_count": 21,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 611,
+    "interests": [
+      "美食",
+      "教育",
+      "科技"
+    ],
+    "historical_order_count": 18,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 612,
+    "interests": [
+      "运动"
+    ],
+    "historical_order_count": 22,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 613,
+    "interests": [
+      "运动",
+      "旅游"
+    ],
+    "historical_order_count": 14,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 614,
+    "interests": [
+      "科技",
+      "运动"
+    ],
+    "historical_order_count": 25,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 615,
+    "interests": [
+      "购物",
+      "电影"
+    ],
+    "historical_order_count": 12,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 616,
+    "interests": [
+      "旅游",
+      "运动",
+      "购物"
+    ],
+    "historical_order_count": 24,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 617,
+    "interests": [
+      "运动"
+    ],
+    "historical_order_count": 25,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 618,
+    "interests": [
+      "健康",
+      "电影",
+      "运动"
+    ],
+    "historical_order_count": 14,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 619,
+    "interests": [
+      "教育"
+    ],
+    "historical_order_count": 20,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 620,
+    "interests": [
+      "健康",
+      "运动",
+      "美食"
+    ],
+    "historical_order_count": 14,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 621,
+    "interests": [
+      "运动"
+    ],
+    "historical_order_count": 20,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 622,
+    "interests": [
+      "电影",
+      "教育"
+    ],
+    "historical_order_count": 19,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 623,
+    "interests": [
+      "科技",
+      "购物"
+    ],
+    "historical_order_count": 29,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 624,
+    "interests": [
+      "运动",
+      "旅游",
+      "购物"
+    ],
+    "historical_order_count": 30,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 625,
+    "interests": [
+      "教育",
+      "美食"
+    ],
+    "historical_order_count": 23,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 626,
+    "interests": [
+      "教育",
+      "购物"
+    ],
+    "historical_order_count": 22,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 627,
+    "interests": [
+      "运动",
+      "旅游",
+      "教育"
+    ],
+    "historical_order_count": 21,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 628,
+    "interests": [
+      "电影",
+      "旅游"
+    ],
+    "historical_order_count": 25,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 629,
+    "interests": [
+      "电影",
+      "旅游"
+    ],
+    "historical_order_count": 25,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 630,
+    "interests": [
+      "教育"
+    ],
+    "historical_order_count": 19,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 631,
+    "interests": [
+      "旅游"
+    ],
+    "historical_order_count": 17,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 632,
+    "interests": [
+      "健康",
+      "运动",
+      "美食"
+    ],
+    "historical_order_count": 20,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 633,
+    "interests": [
+      "教育",
+      "运动"
+    ],
+    "historical_order_count": 24,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 634,
+    "interests": [
+      "运动",
+      "电影"
+    ],
+    "historical_order_count": 19,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 635,
+    "interests": [
+      "运动",
+      "电影",
+      "旅游"
+    ],
+    "historical_order_count": 17,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 636,
+    "interests": [
+      "科技"
+    ],
+    "historical_order_count": 15,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 637,
+    "interests": [
+      "美食",
+      "运动",
+      "购物"
+    ],
+    "historical_order_count": 28,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 638,
+    "interests": [
+      "购物",
+      "电影",
+      "美食"
+    ],
+    "historical_order_count": 25,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 639,
+    "interests": [
+      "美食",
+      "健康"
+    ],
+    "historical_order_count": 23,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 640,
+    "interests": [
+      "旅游",
+      "购物"
+    ],
+    "historical_order_count": 22,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 641,
+    "interests": [
+      "运动",
+      "旅游",
+      "健康"
+    ],
+    "historical_order_count": 22,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 642,
+    "interests": [
+      "运动"
+    ],
+    "historical_order_count": 27,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 643,
+    "interests": [
+      "教育",
+      "购物",
+      "旅游"
+    ],
+    "historical_order_count": 17,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 644,
+    "interests": [
+      "电影",
+      "健康"
+    ],
+    "historical_order_count": 24,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 645,
+    "interests": [
+      "科技",
+      "购物"
+    ],
+    "historical_order_count": 14,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 646,
+    "interests": [
+      "购物"
+    ],
+    "historical_order_count": 22,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 647,
+    "interests": [
+      "运动"
+    ],
+    "historical_order_count": 24,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 648,
+    "interests": [
+      "科技",
+      "健康",
+      "电影"
+    ],
+    "historical_order_count": 24,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 649,
+    "interests": [
+      "购物"
+    ],
+    "historical_order_count": 15,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 650,
+    "interests": [
+      "购物"
+    ],
+    "historical_order_count": 18,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 651,
+    "interests": [
+      "购物",
+      "科技"
+    ],
+    "historical_order_count": 16,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 652,
+    "interests": [
+      "运动",
+      "购物"
+    ],
+    "historical_order_count": 33,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 653,
+    "interests": [
+      "旅游",
+      "教育"
+    ],
+    "historical_order_count": 24,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 654,
+    "interests": [
+      "电影"
+    ],
+    "historical_order_count": 14,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 655,
+    "interests": [
+      "旅游",
+      "电影"
+    ],
+    "historical_order_count": 17,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 656,
+    "interests": [
+      "教育",
+      "购物"
+    ],
+    "historical_order_count": 10,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 657,
+    "interests": [
+      "美食",
+      "电影"
+    ],
+    "historical_order_count": 12,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 658,
+    "interests": [
+      "电影",
+      "运动"
+    ],
+    "historical_order_count": 20,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 659,
+    "interests": [
+      "教育",
+      "购物"
+    ],
+    "historical_order_count": 19,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 660,
+    "interests": [
+      "健康",
+      "美食",
+      "电影"
+    ],
+    "historical_order_count": 27,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 661,
+    "interests": [
+      "购物",
+      "科技"
+    ],
+    "historical_order_count": 26,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 662,
+    "interests": [
+      "教育",
+      "电影",
+      "健康"
+    ],
+    "historical_order_count": 18,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 663,
+    "interests": [
+      "旅游"
+    ],
+    "historical_order_count": 22,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 664,
+    "interests": [
+      "电影",
+      "购物"
+    ],
+    "historical_order_count": 25,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 665,
+    "interests": [
+      "运动",
+      "教育",
+      "购物"
+    ],
+    "historical_order_count": 23,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 666,
+    "interests": [
+      "健康",
+      "科技"
+    ],
+    "historical_order_count": 13,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 667,
+    "interests": [
+      "健康",
+      "电影",
+      "旅游"
+    ],
+    "historical_order_count": 19,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 668,
+    "interests": [
+      "购物"
+    ],
+    "historical_order_count": 25,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 669,
+    "interests": [
+      "运动",
+      "教育",
+      "科技"
+    ],
+    "historical_order_count": 21,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 670,
+    "interests": [
+      "购物"
+    ],
+    "historical_order_count": 17,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 671,
+    "interests": [
+      "旅游"
+    ],
+    "historical_order_count": 24,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 672,
+    "interests": [
+      "美食",
+      "健康"
+    ],
+    "historical_order_count": 18,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 673,
+    "interests": [
+      "旅游",
+      "美食",
+      "购物"
+    ],
+    "historical_order_count": 25,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 674,
+    "interests": [
+      "科技"
+    ],
+    "historical_order_count": 14,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 675,
+    "interests": [
+      "电影"
+    ],
+    "historical_order_count": 27,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 676,
+    "interests": [
+      "购物",
+      "旅游"
+    ],
+    "historical_order_count": 16,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 677,
+    "interests": [
+      "美食"
+    ],
+    "historical_order_count": 22,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 678,
+    "interests": [
+      "健康",
+      "电影"
+    ],
+    "historical_order_count": 16,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 679,
+    "interests": [
+      "健康",
+      "旅游",
+      "教育"
+    ],
+    "historical_order_count": 16,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 680,
+    "interests": [
+      "健康",
+      "教育",
+      "科技"
+    ],
+    "historical_order_count": 19,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 681,
+    "interests": [
+      "运动",
+      "购物",
+      "电影"
+    ],
+    "historical_order_count": 23,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 682,
+    "interests": [
+      "健康"
+    ],
+    "historical_order_count": 22,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 683,
+    "interests": [
+      "科技",
+      "购物"
+    ],
+    "historical_order_count": 21,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 684,
+    "interests": [
+      "美食",
+      "健康"
+    ],
+    "historical_order_count": 28,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 685,
+    "interests": [
+      "运动",
+      "电影"
+    ],
+    "historical_order_count": 18,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 686,
+    "interests": [
+      "健康",
+      "科技",
+      "电影"
+    ],
+    "historical_order_count": 13,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 687,
+    "interests": [
+      "科技"
+    ],
+    "historical_order_count": 20,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 688,
+    "interests": [
+      "电影",
+      "科技",
+      "美食"
+    ],
+    "historical_order_count": 18,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 689,
+    "interests": [
+      "科技"
+    ],
+    "historical_order_count": 21,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 690,
+    "interests": [
+      "电影",
+      "旅游"
+    ],
+    "historical_order_count": 14,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 691,
+    "interests": [
+      "电影",
+      "购物"
+    ],
+    "historical_order_count": 19,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 692,
+    "interests": [
+      "电影",
+      "运动"
+    ],
+    "historical_order_count": 19,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 693,
+    "interests": [
+      "运动",
+      "电影"
+    ],
+    "historical_order_count": 23,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 694,
+    "interests": [
+      "购物"
+    ],
+    "historical_order_count": 17,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 695,
+    "interests": [
+      "旅游",
+      "教育"
+    ],
+    "historical_order_count": 26,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 696,
+    "interests": [
+      "健康",
+      "购物",
+      "教育"
+    ],
+    "historical_order_count": 21,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 697,
+    "interests": [
+      "教育"
+    ],
+    "historical_order_count": 19,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 698,
+    "interests": [
+      "美食"
+    ],
+    "historical_order_count": 23,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 699,
+    "interests": [
+      "旅游"
+    ],
+    "historical_order_count": 13,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 700,
+    "interests": [
+      "购物",
+      "教育"
+    ],
+    "historical_order_count": 16,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 701,
+    "interests": [
+      "美食",
+      "旅游",
+      "健康"
+    ],
+    "historical_order_count": 20,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 702,
+    "interests": [
+      "健康"
+    ],
+    "historical_order_count": 23,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 703,
+    "interests": [
+      "科技",
+      "购物"
+    ],
+    "historical_order_count": 22,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 704,
+    "interests": [
+      "健康",
+      "教育"
+    ],
+    "historical_order_count": 17,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 705,
+    "interests": [
+      "旅游",
+      "科技"
+    ],
+    "historical_order_count": 19,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 706,
+    "interests": [
+      "运动"
+    ],
+    "historical_order_count": 15,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 707,
+    "interests": [
+      "健康"
+    ],
+    "historical_order_count": 9,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 708,
+    "interests": [
+      "运动"
+    ],
+    "historical_order_count": 14,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 709,
+    "interests": [
+      "旅游"
+    ],
+    "historical_order_count": 16,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 710,
+    "interests": [
+      "健康",
+      "旅游"
+    ],
+    "historical_order_count": 20,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 711,
+    "interests": [
+      "健康"
+    ],
+    "historical_order_count": 20,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 712,
+    "interests": [
+      "电影",
+      "健康",
+      "科技"
+    ],
+    "historical_order_count": 13,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 713,
+    "interests": [
+      "购物",
+      "教育"
+    ],
+    "historical_order_count": 16,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 714,
+    "interests": [
+      "旅游",
+      "购物",
+      "电影"
+    ],
+    "historical_order_count": 22,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 715,
+    "interests": [
+      "教育"
+    ],
+    "historical_order_count": 10,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 716,
+    "interests": [
+      "电影",
+      "美食",
+      "旅游"
+    ],
+    "historical_order_count": 13,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 717,
+    "interests": [
+      "美食",
+      "旅游"
+    ],
+    "historical_order_count": 17,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 718,
+    "interests": [
+      "旅游",
+      "电影",
+      "健康"
+    ],
+    "historical_order_count": 21,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 719,
+    "interests": [
+      "健康"
+    ],
+    "historical_order_count": 22,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 720,
+    "interests": [
+      "旅游",
+      "健康"
+    ],
+    "historical_order_count": 21,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 721,
+    "interests": [
+      "旅游",
+      "教育"
+    ],
+    "historical_order_count": 23,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 722,
+    "interests": [
+      "美食",
+      "健康",
+      "购物"
+    ],
+    "historical_order_count": 21,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 723,
+    "interests": [
+      "旅游",
+      "健康",
+      "电影"
+    ],
+    "historical_order_count": 22,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 724,
+    "interests": [
+      "教育",
+      "科技"
+    ],
+    "historical_order_count": 15,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 725,
+    "interests": [
+      "电影",
+      "美食",
+      "教育"
+    ],
+    "historical_order_count": 26,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 726,
+    "interests": [
+      "购物",
+      "健康"
+    ],
+    "historical_order_count": 20,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 727,
+    "interests": [
+      "健康",
+      "运动"
+    ],
+    "historical_order_count": 19,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 728,
+    "interests": [
+      "健康",
+      "旅游",
+      "运动"
+    ],
+    "historical_order_count": 18,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 729,
+    "interests": [
+      "教育",
+      "购物",
+      "健康"
+    ],
+    "historical_order_count": 14,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 730,
+    "interests": [
+      "购物",
+      "美食"
+    ],
+    "historical_order_count": 10,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 731,
+    "interests": [
+      "运动",
+      "科技"
+    ],
+    "historical_order_count": 29,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 732,
+    "interests": [
+      "教育",
+      "电影",
+      "美食"
+    ],
+    "historical_order_count": 15,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 733,
+    "interests": [
+      "购物",
+      "美食",
+      "运动"
+    ],
+    "historical_order_count": 20,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 734,
+    "interests": [
+      "电影",
+      "购物",
+      "教育"
+    ],
+    "historical_order_count": 16,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 735,
+    "interests": [
+      "科技",
+      "旅游",
+      "运动"
+    ],
+    "historical_order_count": 22,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 736,
+    "interests": [
+      "购物",
+      "运动",
+      "健康"
+    ],
+    "historical_order_count": 17,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 737,
+    "interests": [
+      "教育",
+      "美食"
+    ],
+    "historical_order_count": 29,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 738,
+    "interests": [
+      "旅游",
+      "美食",
+      "健康"
+    ],
+    "historical_order_count": 24,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 739,
+    "interests": [
+      "电影"
+    ],
+    "historical_order_count": 28,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 740,
+    "interests": [
+      "电影",
+      "美食"
+    ],
+    "historical_order_count": 13,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 741,
+    "interests": [
+      "科技",
+      "教育",
+      "电影"
+    ],
+    "historical_order_count": 24,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 742,
+    "interests": [
+      "教育"
+    ],
+    "historical_order_count": 15,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 743,
+    "interests": [
+      "旅游",
+      "美食",
+      "健康"
+    ],
+    "historical_order_count": 21,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 744,
+    "interests": [
+      "健康"
+    ],
+    "historical_order_count": 25,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 745,
+    "interests": [
+      "科技",
+      "健康"
+    ],
+    "historical_order_count": 34,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 746,
+    "interests": [
+      "美食",
+      "科技",
+      "运动"
+    ],
+    "historical_order_count": 26,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 747,
+    "interests": [
+      "美食",
+      "教育",
+      "健康"
+    ],
+    "historical_order_count": 24,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 748,
+    "interests": [
+      "电影"
+    ],
+    "historical_order_count": 14,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 749,
+    "interests": [
+      "电影"
+    ],
+    "historical_order_count": 18,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 750,
+    "interests": [
+      "电影"
+    ],
+    "historical_order_count": 14,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 751,
+    "interests": [
+      "购物",
+      "运动",
+      "教育"
+    ],
+    "historical_order_count": 19,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 752,
+    "interests": [
+      "旅游",
+      "科技",
+      "教育"
+    ],
+    "historical_order_count": 22,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 753,
+    "interests": [
+      "健康",
+      "教育",
+      "科技"
+    ],
+    "historical_order_count": 19,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 754,
+    "interests": [
+      "购物"
+    ],
+    "historical_order_count": 26,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 755,
+    "interests": [
+      "科技",
+      "运动",
+      "购物"
+    ],
+    "historical_order_count": 16,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 756,
+    "interests": [
+      "健康",
+      "购物",
+      "科技"
+    ],
+    "historical_order_count": 13,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 757,
+    "interests": [
+      "科技",
+      "健康"
+    ],
+    "historical_order_count": 17,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 758,
+    "interests": [
+      "教育",
+      "运动",
+      "旅游"
+    ],
+    "historical_order_count": 19,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 759,
+    "interests": [
+      "运动",
+      "购物"
+    ],
+    "historical_order_count": 11,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 760,
+    "interests": [
+      "科技",
+      "美食"
+    ],
+    "historical_order_count": 20,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 761,
+    "interests": [
+      "美食",
+      "运动"
+    ],
+    "historical_order_count": 17,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 762,
+    "interests": [
+      "美食",
+      "购物"
+    ],
+    "historical_order_count": 27,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 763,
+    "interests": [
+      "教育"
+    ],
+    "historical_order_count": 14,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 764,
+    "interests": [
+      "运动",
+      "健康",
+      "科技"
+    ],
+    "historical_order_count": 19,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 765,
+    "interests": [
+      "美食"
+    ],
+    "historical_order_count": 20,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 766,
+    "interests": [
+      "购物",
+      "旅游"
+    ],
+    "historical_order_count": 21,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 767,
+    "interests": [
+      "电影",
+      "旅游"
+    ],
+    "historical_order_count": 16,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 768,
+    "interests": [
+      "旅游",
+      "运动"
+    ],
+    "historical_order_count": 26,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 769,
+    "interests": [
+      "电影",
+      "教育",
+      "美食"
+    ],
+    "historical_order_count": 16,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 770,
+    "interests": [
+      "购物",
+      "电影"
+    ],
+    "historical_order_count": 21,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 771,
+    "interests": [
+      "运动",
+      "美食",
+      "教育"
+    ],
+    "historical_order_count": 15,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 772,
+    "interests": [
+      "美食"
+    ],
+    "historical_order_count": 15,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 773,
+    "interests": [
+      "科技",
+      "电影"
+    ],
+    "historical_order_count": 19,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 774,
+    "interests": [
+      "美食"
+    ],
+    "historical_order_count": 20,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 775,
+    "interests": [
+      "运动"
+    ],
+    "historical_order_count": 14,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 776,
+    "interests": [
+      "购物",
+      "健康"
+    ],
+    "historical_order_count": 25,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 777,
+    "interests": [
+      "美食"
+    ],
+    "historical_order_count": 17,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 778,
+    "interests": [
+      "旅游",
+      "健康"
+    ],
+    "historical_order_count": 14,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 779,
+    "interests": [
+      "科技",
+      "旅游"
+    ],
+    "historical_order_count": 25,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 780,
+    "interests": [
+      "旅游",
+      "电影"
+    ],
+    "historical_order_count": 30,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 781,
+    "interests": [
+      "科技",
+      "购物",
+      "美食"
+    ],
+    "historical_order_count": 25,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 782,
+    "interests": [
+      "科技",
+      "健康",
+      "教育"
+    ],
+    "historical_order_count": 15,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 783,
+    "interests": [
+      "健康"
+    ],
+    "historical_order_count": 19,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 784,
+    "interests": [
+      "科技",
+      "教育"
+    ],
+    "historical_order_count": 13,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 785,
+    "interests": [
+      "电影",
+      "旅游",
+      "美食"
+    ],
+    "historical_order_count": 24,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 786,
+    "interests": [
+      "教育",
+      "健康"
+    ],
+    "historical_order_count": 17,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 787,
+    "interests": [
+      "科技"
+    ],
+    "historical_order_count": 22,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 788,
+    "interests": [
+      "教育",
+      "旅游"
+    ],
+    "historical_order_count": 26,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 789,
+    "interests": [
+      "美食",
+      "科技"
+    ],
+    "historical_order_count": 27,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 790,
+    "interests": [
+      "教育"
+    ],
+    "historical_order_count": 17,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 791,
+    "interests": [
+      "购物",
+      "电影",
+      "美食"
+    ],
+    "historical_order_count": 13,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 792,
+    "interests": [
+      "教育"
+    ],
+    "historical_order_count": 21,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 793,
+    "interests": [
+      "旅游",
+      "美食",
+      "教育"
+    ],
+    "historical_order_count": 15,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 794,
+    "interests": [
+      "购物"
+    ],
+    "historical_order_count": 30,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 795,
+    "interests": [
+      "教育"
+    ],
+    "historical_order_count": 17,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 796,
+    "interests": [
+      "健康",
+      "电影"
+    ],
+    "historical_order_count": 12,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 797,
+    "interests": [
+      "电影",
+      "教育"
+    ],
+    "historical_order_count": 24,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 798,
+    "interests": [
+      "运动"
+    ],
+    "historical_order_count": 28,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 799,
+    "interests": [
+      "购物",
+      "教育",
+      "科技"
+    ],
+    "historical_order_count": 26,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 800,
+    "interests": [
+      "美食",
+      "购物"
+    ],
+    "historical_order_count": 18,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 801,
+    "interests": [
+      "运动"
+    ],
+    "historical_order_count": 25,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 802,
+    "interests": [
+      "运动",
+      "美食",
+      "电影"
+    ],
+    "historical_order_count": 22,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 803,
+    "interests": [
+      "科技"
+    ],
+    "historical_order_count": 25,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 804,
+    "interests": [
+      "教育",
+      "科技",
+      "美食"
+    ],
+    "historical_order_count": 12,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 805,
+    "interests": [
+      "科技",
+      "旅游"
+    ],
+    "historical_order_count": 21,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 806,
+    "interests": [
+      "旅游",
+      "购物",
+      "电影"
+    ],
+    "historical_order_count": 21,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 807,
+    "interests": [
+      "电影"
+    ],
+    "historical_order_count": 17,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 808,
+    "interests": [
+      "美食",
+      "健康",
+      "旅游"
+    ],
+    "historical_order_count": 18,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 809,
+    "interests": [
+      "健康",
+      "电影"
+    ],
+    "historical_order_count": 21,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 810,
+    "interests": [
+      "教育"
+    ],
+    "historical_order_count": 21,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 811,
+    "interests": [
+      "运动",
+      "旅游"
+    ],
+    "historical_order_count": 25,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 812,
+    "interests": [
+      "运动"
+    ],
+    "historical_order_count": 16,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 813,
+    "interests": [
+      "运动"
+    ],
+    "historical_order_count": 18,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 814,
+    "interests": [
+      "教育"
+    ],
+    "historical_order_count": 19,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 815,
+    "interests": [
+      "购物",
+      "美食",
+      "教育"
+    ],
+    "historical_order_count": 13,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 816,
+    "interests": [
+      "电影",
+      "健康",
+      "旅游"
+    ],
+    "historical_order_count": 15,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 817,
+    "interests": [
+      "运动",
+      "健康"
+    ],
+    "historical_order_count": 18,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 818,
+    "interests": [
+      "购物",
+      "旅游"
+    ],
+    "historical_order_count": 20,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 819,
+    "interests": [
+      "电影",
+      "科技",
+      "旅游"
+    ],
+    "historical_order_count": 19,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 820,
+    "interests": [
+      "购物",
+      "电影",
+      "旅游"
+    ],
+    "historical_order_count": 24,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 821,
+    "interests": [
+      "旅游",
+      "运动"
+    ],
+    "historical_order_count": 19,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 822,
+    "interests": [
+      "教育"
+    ],
+    "historical_order_count": 17,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 823,
+    "interests": [
+      "美食",
+      "科技",
+      "购物"
+    ],
+    "historical_order_count": 19,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 824,
+    "interests": [
+      "运动",
+      "电影"
+    ],
+    "historical_order_count": 31,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 825,
+    "interests": [
+      "电影"
+    ],
+    "historical_order_count": 26,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 826,
+    "interests": [
+      "购物"
+    ],
+    "historical_order_count": 21,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 827,
+    "interests": [
+      "运动",
+      "健康",
+      "科技"
+    ],
+    "historical_order_count": 24,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 828,
+    "interests": [
+      "电影",
+      "旅游",
+      "教育"
+    ],
+    "historical_order_count": 22,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 829,
+    "interests": [
+      "旅游",
+      "教育"
+    ],
+    "historical_order_count": 16,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 830,
+    "interests": [
+      "健康"
+    ],
+    "historical_order_count": 17,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 831,
+    "interests": [
+      "科技"
+    ],
+    "historical_order_count": 21,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 832,
+    "interests": [
+      "购物",
+      "旅游"
+    ],
+    "historical_order_count": 21,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 833,
+    "interests": [
+      "美食"
+    ],
+    "historical_order_count": 16,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 834,
+    "interests": [
+      "运动"
+    ],
+    "historical_order_count": 25,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 835,
+    "interests": [
+      "电影"
+    ],
+    "historical_order_count": 15,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 836,
+    "interests": [
+      "购物"
+    ],
+    "historical_order_count": 26,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 837,
+    "interests": [
+      "健康",
+      "教育",
+      "购物"
+    ],
+    "historical_order_count": 22,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 838,
+    "interests": [
+      "科技"
+    ],
+    "historical_order_count": 24,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 839,
+    "interests": [
+      "科技"
+    ],
+    "historical_order_count": 25,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 840,
+    "interests": [
+      "美食",
+      "运动"
+    ],
+    "historical_order_count": 17,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 841,
+    "interests": [
+      "健康",
+      "科技"
+    ],
+    "historical_order_count": 15,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 842,
+    "interests": [
+      "科技"
+    ],
+    "historical_order_count": 23,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 843,
+    "interests": [
+      "科技",
+      "运动",
+      "教育"
+    ],
+    "historical_order_count": 12,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 844,
+    "interests": [
+      "运动"
+    ],
+    "historical_order_count": 24,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 845,
+    "interests": [
+      "运动",
+      "科技"
+    ],
+    "historical_order_count": 24,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 846,
+    "interests": [
+      "购物",
+      "电影"
+    ],
+    "historical_order_count": 19,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 847,
+    "interests": [
+      "美食",
+      "教育",
+      "运动"
+    ],
+    "historical_order_count": 28,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 848,
+    "interests": [
+      "健康",
+      "美食"
+    ],
+    "historical_order_count": 19,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 849,
+    "interests": [
+      "购物"
+    ],
+    "historical_order_count": 17,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 850,
+    "interests": [
+      "教育",
+      "电影"
+    ],
+    "historical_order_count": 14,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 851,
+    "interests": [
+      "健康"
+    ],
+    "historical_order_count": 18,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 852,
+    "interests": [
+      "旅游",
+      "购物"
+    ],
+    "historical_order_count": 21,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 853,
+    "interests": [
+      "购物",
+      "教育",
+      "科技"
+    ],
+    "historical_order_count": 25,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 854,
+    "interests": [
+      "旅游"
+    ],
+    "historical_order_count": 31,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 855,
+    "interests": [
+      "教育",
+      "美食",
+      "运动"
+    ],
+    "historical_order_count": 15,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 856,
+    "interests": [
+      "购物",
+      "电影",
+      "运动"
+    ],
+    "historical_order_count": 22,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 857,
+    "interests": [
+      "购物"
+    ],
+    "historical_order_count": 16,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 858,
+    "interests": [
+      "购物",
+      "旅游",
+      "科技"
+    ],
+    "historical_order_count": 20,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 859,
+    "interests": [
+      "美食",
+      "电影",
+      "购物"
+    ],
+    "historical_order_count": 22,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 860,
+    "interests": [
+      "健康",
+      "购物",
+      "教育"
+    ],
+    "historical_order_count": 17,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 861,
+    "interests": [
+      "购物"
+    ],
+    "historical_order_count": 12,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 862,
+    "interests": [
+      "运动"
+    ],
+    "historical_order_count": 15,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 863,
+    "interests": [
+      "健康",
+      "科技"
+    ],
+    "historical_order_count": 22,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 864,
+    "interests": [
+      "美食",
+      "运动",
+      "电影"
+    ],
+    "historical_order_count": 16,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 865,
+    "interests": [
+      "健康"
+    ],
+    "historical_order_count": 21,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 866,
+    "interests": [
+      "健康",
+      "美食"
+    ],
+    "historical_order_count": 24,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 867,
+    "interests": [
+      "运动"
+    ],
+    "historical_order_count": 18,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 868,
+    "interests": [
+      "购物"
+    ],
+    "historical_order_count": 26,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 869,
+    "interests": [
+      "教育"
+    ],
+    "historical_order_count": 22,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 870,
+    "interests": [
+      "美食"
+    ],
+    "historical_order_count": 21,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 871,
+    "interests": [
+      "旅游",
+      "美食"
+    ],
+    "historical_order_count": 13,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 872,
+    "interests": [
+      "购物",
+      "旅游"
+    ],
+    "historical_order_count": 26,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 873,
+    "interests": [
+      "购物",
+      "电影",
+      "教育"
+    ],
+    "historical_order_count": 19,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 874,
+    "interests": [
+      "旅游"
+    ],
+    "historical_order_count": 23,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 875,
+    "interests": [
+      "教育",
+      "电影"
+    ],
+    "historical_order_count": 21,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 876,
+    "interests": [
+      "旅游",
+      "购物"
+    ],
+    "historical_order_count": 19,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 877,
+    "interests": [
+      "旅游"
+    ],
+    "historical_order_count": 21,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 878,
+    "interests": [
+      "科技",
+      "运动"
+    ],
+    "historical_order_count": 19,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 879,
+    "interests": [
+      "电影",
+      "运动",
+      "美食"
+    ],
+    "historical_order_count": 15,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 880,
+    "interests": [
+      "旅游",
+      "电影",
+      "教育"
+    ],
+    "historical_order_count": 22,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 881,
+    "interests": [
+      "教育",
+      "购物"
+    ],
+    "historical_order_count": 24,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 882,
+    "interests": [
+      "健康"
+    ],
+    "historical_order_count": 24,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 883,
+    "interests": [
+      "购物",
+      "运动"
+    ],
+    "historical_order_count": 21,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 884,
+    "interests": [
+      "运动",
+      "旅游",
+      "美食"
+    ],
+    "historical_order_count": 16,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 885,
+    "interests": [
+      "健康"
+    ],
+    "historical_order_count": 19,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 886,
+    "interests": [
+      "电影",
+      "科技",
+      "运动"
+    ],
+    "historical_order_count": 22,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 887,
+    "interests": [
+      "美食",
+      "购物"
+    ],
+    "historical_order_count": 18,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 888,
+    "interests": [
+      "电影",
+      "美食",
+      "教育"
+    ],
+    "historical_order_count": 12,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 889,
+    "interests": [
+      "运动",
+      "购物",
+      "美食"
+    ],
+    "historical_order_count": 20,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 890,
+    "interests": [
+      "教育",
+      "科技"
+    ],
+    "historical_order_count": 20,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 891,
+    "interests": [
+      "教育"
+    ],
+    "historical_order_count": 12,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 892,
+    "interests": [
+      "美食",
+      "科技"
+    ],
+    "historical_order_count": 17,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 893,
+    "interests": [
+      "教育"
+    ],
+    "historical_order_count": 36,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 894,
+    "interests": [
+      "健康",
+      "电影",
+      "美食"
+    ],
+    "historical_order_count": 16,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 895,
+    "interests": [
+      "购物",
+      "教育"
+    ],
+    "historical_order_count": 27,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 896,
+    "interests": [
+      "教育",
+      "电影",
+      "科技"
+    ],
+    "historical_order_count": 28,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 897,
+    "interests": [
+      "运动",
+      "健康",
+      "教育"
+    ],
+    "historical_order_count": 14,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 898,
+    "interests": [
+      "美食",
+      "旅游",
+      "运动"
+    ],
+    "historical_order_count": 13,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 899,
+    "interests": [
+      "旅游",
+      "健康"
+    ],
+    "historical_order_count": 20,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 900,
+    "interests": [
+      "教育"
+    ],
+    "historical_order_count": 21,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 901,
+    "interests": [
+      "购物",
+      "运动",
+      "科技"
+    ],
+    "historical_order_count": 21,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 902,
+    "interests": [
+      "旅游"
+    ],
+    "historical_order_count": 19,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 903,
+    "interests": [
+      "教育",
+      "健康",
+      "美食"
+    ],
+    "historical_order_count": 13,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 904,
+    "interests": [
+      "旅游",
+      "电影"
+    ],
+    "historical_order_count": 18,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 905,
+    "interests": [
+      "健康",
+      "科技"
+    ],
+    "historical_order_count": 18,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 906,
+    "interests": [
+      "运动"
+    ],
+    "historical_order_count": 23,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 907,
+    "interests": [
+      "教育"
+    ],
+    "historical_order_count": 18,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 908,
+    "interests": [
+      "旅游"
+    ],
+    "historical_order_count": 21,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 909,
+    "interests": [
+      "美食",
+      "科技",
+      "电影"
+    ],
+    "historical_order_count": 18,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 910,
+    "interests": [
+      "教育"
+    ],
+    "historical_order_count": 19,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 911,
+    "interests": [
+      "运动",
+      "科技",
+      "购物"
+    ],
+    "historical_order_count": 17,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 912,
+    "interests": [
+      "购物"
+    ],
+    "historical_order_count": 20,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 913,
+    "interests": [
+      "美食",
+      "电影",
+      "科技"
+    ],
+    "historical_order_count": 26,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 914,
+    "interests": [
+      "运动"
+    ],
+    "historical_order_count": 21,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 915,
+    "interests": [
+      "旅游",
+      "购物",
+      "电影"
+    ],
+    "historical_order_count": 21,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 916,
+    "interests": [
+      "运动"
+    ],
+    "historical_order_count": 17,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 917,
+    "interests": [
+      "运动",
+      "教育",
+      "旅游"
+    ],
+    "historical_order_count": 31,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 918,
+    "interests": [
+      "电影"
+    ],
+    "historical_order_count": 23,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 919,
+    "interests": [
+      "教育",
+      "科技"
+    ],
+    "historical_order_count": 22,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 920,
+    "interests": [
+      "旅游",
+      "购物",
+      "健康"
+    ],
+    "historical_order_count": 17,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 921,
+    "interests": [
+      "旅游",
+      "美食"
+    ],
+    "historical_order_count": 16,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 922,
+    "interests": [
+      "教育"
+    ],
+    "historical_order_count": 15,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 923,
+    "interests": [
+      "购物",
+      "教育"
+    ],
+    "historical_order_count": 33,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 924,
+    "interests": [
+      "电影",
+      "旅游",
+      "美食"
+    ],
+    "historical_order_count": 33,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 925,
+    "interests": [
+      "教育",
+      "运动",
+      "电影"
+    ],
+    "historical_order_count": 21,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 926,
+    "interests": [
+      "美食"
+    ],
+    "historical_order_count": 24,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 927,
+    "interests": [
+      "美食",
+      "健康",
+      "电影"
+    ],
+    "historical_order_count": 14,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 928,
+    "interests": [
+      "科技"
+    ],
+    "historical_order_count": 15,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 929,
+    "interests": [
+      "健康"
+    ],
+    "historical_order_count": 31,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 930,
+    "interests": [
+      "教育",
+      "科技"
+    ],
+    "historical_order_count": 13,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 931,
+    "interests": [
+      "旅游",
+      "科技",
+      "电影"
+    ],
+    "historical_order_count": 20,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 932,
+    "interests": [
+      "健康"
+    ],
+    "historical_order_count": 15,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 933,
+    "interests": [
+      "运动",
+      "教育"
+    ],
+    "historical_order_count": 18,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 934,
+    "interests": [
+      "电影",
+      "旅游"
+    ],
+    "historical_order_count": 22,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 935,
+    "interests": [
+      "运动",
+      "购物",
+      "电影"
+    ],
+    "historical_order_count": 25,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 936,
+    "interests": [
+      "教育",
+      "科技",
+      "购物"
+    ],
+    "historical_order_count": 24,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 937,
+    "interests": [
+      "美食",
+      "健康"
+    ],
+    "historical_order_count": 15,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 938,
+    "interests": [
+      "教育"
+    ],
+    "historical_order_count": 25,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 939,
+    "interests": [
+      "购物",
+      "健康"
+    ],
+    "historical_order_count": 18,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 940,
+    "interests": [
+      "购物",
+      "运动",
+      "美食"
+    ],
+    "historical_order_count": 16,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 941,
+    "interests": [
+      "旅游",
+      "购物",
+      "运动"
+    ],
+    "historical_order_count": 24,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 942,
+    "interests": [
+      "健康",
+      "电影"
+    ],
+    "historical_order_count": 19,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 943,
+    "interests": [
+      "电影"
+    ],
+    "historical_order_count": 18,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 944,
+    "interests": [
+      "科技",
+      "美食"
+    ],
+    "historical_order_count": 15,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 945,
+    "interests": [
+      "科技"
+    ],
+    "historical_order_count": 18,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 946,
+    "interests": [
+      "教育",
+      "运动",
+      "健康"
+    ],
+    "historical_order_count": 25,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 947,
+    "interests": [
+      "旅游"
+    ],
+    "historical_order_count": 19,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 948,
+    "interests": [
+      "健康"
+    ],
+    "historical_order_count": 17,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 949,
+    "interests": [
+      "旅游",
+      "科技",
+      "电影"
+    ],
+    "historical_order_count": 23,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 950,
+    "interests": [
+      "科技",
+      "美食"
+    ],
+    "historical_order_count": 23,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 951,
+    "interests": [
+      "科技",
+      "购物",
+      "电影"
+    ],
+    "historical_order_count": 27,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 952,
+    "interests": [
+      "电影"
+    ],
+    "historical_order_count": 21,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 953,
+    "interests": [
+      "美食",
+      "科技",
+      "旅游"
+    ],
+    "historical_order_count": 20,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 954,
+    "interests": [
+      "运动",
+      "电影"
+    ],
+    "historical_order_count": 16,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 955,
+    "interests": [
+      "电影"
+    ],
+    "historical_order_count": 17,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 956,
+    "interests": [
+      "运动",
+      "电影"
+    ],
+    "historical_order_count": 29,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 957,
+    "interests": [
+      "美食"
+    ],
+    "historical_order_count": 18,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 958,
+    "interests": [
+      "运动"
+    ],
+    "historical_order_count": 15,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 959,
+    "interests": [
+      "美食",
+      "健康"
+    ],
+    "historical_order_count": 16,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 960,
+    "interests": [
+      "运动"
+    ],
+    "historical_order_count": 20,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 961,
+    "interests": [
+      "科技"
+    ],
+    "historical_order_count": 12,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 962,
+    "interests": [
+      "教育",
+      "健康",
+      "电影"
+    ],
+    "historical_order_count": 26,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 963,
+    "interests": [
+      "科技",
+      "运动"
+    ],
+    "historical_order_count": 34,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 964,
+    "interests": [
+      "购物",
+      "电影",
+      "旅游"
+    ],
+    "historical_order_count": 13,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 965,
+    "interests": [
+      "科技",
+      "健康",
+      "购物"
+    ],
+    "historical_order_count": 21,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 966,
+    "interests": [
+      "运动"
+    ],
+    "historical_order_count": 19,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 967,
+    "interests": [
+      "美食"
+    ],
+    "historical_order_count": 19,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 968,
+    "interests": [
+      "美食",
+      "旅游",
+      "教育"
+    ],
+    "historical_order_count": 25,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 969,
+    "interests": [
+      "科技",
+      "旅游",
+      "美食"
+    ],
+    "historical_order_count": 21,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 970,
+    "interests": [
+      "科技",
+      "健康",
+      "电影"
+    ],
+    "historical_order_count": 21,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 971,
+    "interests": [
+      "购物",
+      "电影",
+      "运动"
+    ],
+    "historical_order_count": 30,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 972,
+    "interests": [
+      "健康",
+      "电影",
+      "购物"
+    ],
+    "historical_order_count": 18,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 973,
+    "interests": [
+      "科技"
+    ],
+    "historical_order_count": 16,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 974,
+    "interests": [
+      "健康",
+      "科技",
+      "教育"
+    ],
+    "historical_order_count": 21,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 975,
+    "interests": [
+      "运动",
+      "电影",
+      "健康"
+    ],
+    "historical_order_count": 16,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 976,
+    "interests": [
+      "美食"
+    ],
+    "historical_order_count": 17,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 977,
+    "interests": [
+      "教育",
+      "美食",
+      "运动"
+    ],
+    "historical_order_count": 24,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 978,
+    "interests": [
+      "旅游",
+      "健康",
+      "教育"
+    ],
+    "historical_order_count": 25,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 979,
+    "interests": [
+      "旅游",
+      "运动"
+    ],
+    "historical_order_count": 14,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 980,
+    "interests": [
+      "健康"
+    ],
+    "historical_order_count": 20,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 981,
+    "interests": [
+      "运动",
+      "健康",
+      "美食"
+    ],
+    "historical_order_count": 17,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 982,
+    "interests": [
+      "美食",
+      "电影",
+      "科技"
+    ],
+    "historical_order_count": 24,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 983,
+    "interests": [
+      "教育",
+      "电影",
+      "购物"
+    ],
+    "historical_order_count": 16,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 984,
+    "interests": [
+      "购物",
+      "美食"
+    ],
+    "historical_order_count": 14,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 985,
+    "interests": [
+      "运动",
+      "美食",
+      "教育"
+    ],
+    "historical_order_count": 21,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 986,
+    "interests": [
+      "购物",
+      "运动",
+      "美食"
+    ],
+    "historical_order_count": 22,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 987,
+    "interests": [
+      "美食",
+      "购物",
+      "电影"
+    ],
+    "historical_order_count": 18,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 988,
+    "interests": [
+      "旅游"
+    ],
+    "historical_order_count": 18,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 989,
+    "interests": [
+      "购物",
+      "运动"
+    ],
+    "historical_order_count": 18,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 990,
+    "interests": [
+      "运动",
+      "美食"
+    ],
+    "historical_order_count": 13,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 991,
+    "interests": [
+      "购物",
+      "运动",
+      "教育"
+    ],
+    "historical_order_count": 25,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 992,
+    "interests": [
+      "健康",
+      "购物",
+      "旅游"
+    ],
+    "historical_order_count": 16,
+    "common_device": "笔记本"
+  },
+  {
+    "fact_id": 993,
+    "interests": [
+      "电影",
+      "健康",
+      "旅游"
+    ],
+    "historical_order_count": 11,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 994,
+    "interests": [
+      "旅游",
+      "健康"
+    ],
+    "historical_order_count": 16,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 995,
+    "interests": [
+      "科技",
+      "健康"
+    ],
+    "historical_order_count": 14,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 996,
+    "interests": [
+      "健康"
+    ],
+    "historical_order_count": 20,
+    "common_device": "平板"
+  },
+  {
+    "fact_id": 997,
+    "interests": [
+      "教育"
+    ],
+    "historical_order_count": 22,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 998,
+    "interests": [
+      "运动",
+      "科技",
+      "美食"
+    ],
+    "historical_order_count": 31,
+    "common_device": "手机"
+  },
+  {
+    "fact_id": 999,
+    "interests": [
+      "健康"
+    ],
+    "historical_order_count": 26,
+    "common_device": "台式机"
+  },
+  {
+    "fact_id": 1000,
+    "interests": [
+      "运动",
+      "电影"
+    ],
+    "historical_order_count": 20,
+    "common_device": "平板"
+  }
+]

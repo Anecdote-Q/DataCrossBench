@@ -1,0 +1,5008 @@
+[
+  {
+    "user_id": "user_10000",
+    "age": 39,
+    "gender": "男",
+    "interests": [
+      "科技",
+      "运动"
+    ],
+    "preferred_brands": [
+      "佰草集"
+    ],
+    "purchase_power": 0.6,
+    "social_media": {
+      "抖音活跃度": 14,
+      "微博关注": 1258,
+      "小红书笔记数": 197
+    },
+    "brand_id_association": 7
+  },
+  {
+    "user_id": "user_10001",
+    "age": 49,
+    "gender": "女",
+    "interests": [
+      "护肤",
+      "美食",
+      "科技",
+      "音乐"
+    ],
+    "preferred_brands": [
+      "韩束"
+    ],
+    "purchase_power": 0.45,
+    "social_media": {
+      "抖音活跃度": 62,
+      "微博关注": 814,
+      "小红书笔记数": 67
+    },
+    "brand_id_association": 3
+  },
+  {
+    "user_id": "user_10002",
+    "age": 39,
+    "gender": "女",
+    "interests": [
+      "美食",
+      "时尚"
+    ],
+    "preferred_brands": [
+      "自然堂"
+    ],
+    "purchase_power": 0.64,
+    "social_media": {
+      "抖音活跃度": 49,
+      "微博关注": 2409,
+      "小红书笔记数": 97
+    },
+    "brand_id_association": 4
+  },
+  {
+    "user_id": "user_10003",
+    "age": 23,
+    "gender": "女",
+    "interests": [
+      "运动",
+      "科技"
+    ],
+    "preferred_brands": [
+      "佰草集"
+    ],
+    "purchase_power": 0.64,
+    "social_media": {
+      "抖音活跃度": 90,
+      "微博关注": 3392,
+      "小红书笔记数": 133
+    },
+    "brand_id_association": 7
+  },
+  {
+    "user_id": "user_10004",
+    "age": 45,
+    "gender": "女",
+    "interests": [
+      "旅游",
+      "时尚",
+      "音乐",
+      "科技"
+    ],
+    "preferred_brands": [
+      "美加净"
+    ],
+    "purchase_power": 0.93,
+    "social_media": {
+      "抖音活跃度": 53,
+      "微博关注": 1028,
+      "小红书笔记数": 106
+    },
+    "brand_id_association": 11
+  },
+  {
+    "user_id": "user_10005",
+    "age": 51,
+    "gender": "男",
+    "interests": [
+      "护肤",
+      "音乐",
+      "时尚"
+    ],
+    "preferred_brands": [
+      "百雀羚"
+    ],
+    "purchase_power": 0.46,
+    "social_media": {
+      "抖音活跃度": 75,
+      "微博关注": 888,
+      "小红书笔记数": 127
+    },
+    "brand_id_association": 18
+  },
+  {
+    "user_id": "user_10006",
+    "age": 31,
+    "gender": "女",
+    "interests": [
+      "美食",
+      "科技",
+      "时尚",
+      "美妆"
+    ],
+    "preferred_brands": [
+      "完美日记"
+    ],
+    "purchase_power": 0.96,
+    "social_media": {
+      "抖音活跃度": 56,
+      "微博关注": 2220,
+      "小红书笔记数": 184
+    },
+    "brand_id_association": 8
+  },
+  {
+    "user_id": "user_10007",
+    "age": 24,
+    "gender": "女",
+    "interests": [
+      "音乐",
+      "旅游"
+    ],
+    "preferred_brands": [
+      "大宝"
+    ],
+    "purchase_power": 0.88,
+    "social_media": {
+      "抖音活跃度": 92,
+      "微博关注": 1161,
+      "小红书笔记数": 54
+    },
+    "brand_id_association": 14
+  },
+  {
+    "user_id": "user_10008",
+    "age": 29,
+    "gender": "女",
+    "interests": [
+      "美食",
+      "运动",
+      "音乐",
+      "护肤"
+    ],
+    "preferred_brands": [
+      "百雀羚"
+    ],
+    "purchase_power": 0.77,
+    "social_media": {
+      "抖音活跃度": 51,
+      "微博关注": 533,
+      "小红书笔记数": 29
+    },
+    "brand_id_association": 19
+  },
+  {
+    "user_id": "user_10009",
+    "age": 44,
+    "gender": "女",
+    "interests": [
+      "音乐",
+      "科技",
+      "运动"
+    ],
+    "preferred_brands": [
+      "玉兰油"
+    ],
+    "purchase_power": 0.4,
+    "social_media": {
+      "抖音活跃度": 12,
+      "微博关注": 280,
+      "小红书笔记数": 114
+    },
+    "brand_id_association": 20
+  },
+  {
+    "user_id": "user_10010",
+    "age": 26,
+    "gender": "男",
+    "interests": [
+      "音乐",
+      "美食",
+      "护肤",
+      "运动"
+    ],
+    "preferred_brands": [
+      "韩束"
+    ],
+    "purchase_power": 0.48,
+    "social_media": {
+      "抖音活跃度": 26,
+      "微博关注": 2988,
+      "小红书笔记数": 7
+    },
+    "brand_id_association": 2
+  },
+  {
+    "user_id": "user_10011",
+    "age": 36,
+    "gender": "男",
+    "interests": [
+      "时尚",
+      "旅游",
+      "科技",
+      "护肤"
+    ],
+    "preferred_brands": [
+      "佰草集"
+    ],
+    "purchase_power": 0.81,
+    "social_media": {
+      "抖音活跃度": 21,
+      "微博关注": 3841,
+      "小红书笔记数": 97
+    },
+    "brand_id_association": 7
+  },
+  {
+    "user_id": "user_10012",
+    "age": 38,
+    "gender": "男",
+    "interests": [
+      "美妆",
+      "美食",
+      "护肤",
+      "旅游"
+    ],
+    "preferred_brands": [
+      "佰草集"
+    ],
+    "purchase_power": 0.88,
+    "social_media": {
+      "抖音活跃度": 40,
+      "微博关注": 4875,
+      "小红书笔记数": 155
+    },
+    "brand_id_association": 6
+  },
+  {
+    "user_id": "user_10013",
+    "age": 20,
+    "gender": "女",
+    "interests": [
+      "科技",
+      "美食",
+      "旅游",
+      "运动"
+    ],
+    "preferred_brands": [
+      "韩束"
+    ],
+    "purchase_power": 0.76,
+    "social_media": {
+      "抖音活跃度": 16,
+      "微博关注": 1231,
+      "小红书笔记数": 43
+    },
+    "brand_id_association": 1
+  },
+  {
+    "user_id": "user_10014",
+    "age": 45,
+    "gender": "女",
+    "interests": [
+      "科技",
+      "护肤",
+      "旅游",
+      "运动"
+    ],
+    "preferred_brands": [
+      "玉兰油"
+    ],
+    "purchase_power": 0.54,
+    "social_media": {
+      "抖音活跃度": 83,
+      "微博关注": 1365,
+      "小红书笔记数": 13
+    },
+    "brand_id_association": 21
+  },
+  {
+    "user_id": "user_10015",
+    "age": 25,
+    "gender": "男",
+    "interests": [
+      "时尚",
+      "音乐"
+    ],
+    "preferred_brands": [
+      "相宜本草"
+    ],
+    "purchase_power": 0.79,
+    "social_media": {
+      "抖音活跃度": 68,
+      "微博关注": null,
+      "小红书笔记数": 188
+    },
+    "brand_id_association": 12
+  },
+  {
+    "user_id": "user_10016",
+    "age": 48,
+    "gender": "男",
+    "interests": [
+      "美食",
+      "旅游",
+      "音乐"
+    ],
+    "preferred_brands": [
+      "韩束"
+    ],
+    "purchase_power": 0.33,
+    "social_media": {
+      "抖音活跃度": 85,
+      "微博关注": 3668,
+      "小红书笔记数": 96
+    },
+    "brand_id_association": 3
+  },
+  {
+    "user_id": "user_10017",
+    "age": 25,
+    "gender": "男",
+    "interests": [
+      "美妆",
+      "科技",
+      "护肤",
+      "音乐"
+    ],
+    "preferred_brands": [
+      "韩束"
+    ],
+    "purchase_power": 0.85,
+    "social_media": {
+      "抖音活跃度": 23,
+      "微博关注": 3228,
+      "小红书笔记数": 85
+    },
+    "brand_id_association": 1
+  },
+  {
+    "user_id": "user_10018",
+    "age": 52,
+    "gender": "男",
+    "interests": [
+      "运动",
+      "时尚",
+      "护肤",
+      "科技"
+    ],
+    "preferred_brands": [
+      "美加净"
+    ],
+    "purchase_power": 0.31,
+    "social_media": {
+      "抖音活跃度": 73,
+      "微博关注": 4075,
+      "小红书笔记数": 14
+    },
+    "brand_id_association": 11
+  },
+  {
+    "user_id": "user_10019",
+    "age": 47,
+    "gender": "男",
+    "interests": [
+      "音乐",
+      "时尚"
+    ],
+    "preferred_brands": [
+      "相宜本草"
+    ],
+    "purchase_power": 0.34,
+    "social_media": {
+      "抖音活跃度": 62,
+      "微博关注": null,
+      "小红书笔记数": 10
+    },
+    "brand_id_association": 13
+  },
+  {
+    "user_id": "user_10020",
+    "age": 25,
+    "gender": "男",
+    "interests": [
+      "科技",
+      "运动",
+      "美食",
+      "时尚"
+    ],
+    "preferred_brands": [
+      "佰草集"
+    ],
+    "purchase_power": 0.38,
+    "social_media": {
+      "抖音活跃度": 51,
+      "微博关注": null,
+      "小红书笔记数": 5
+    },
+    "brand_id_association": 7
+  },
+  {
+    "user_id": "user_10021",
+    "age": 41,
+    "gender": "男",
+    "interests": [
+      "运动",
+      "美食",
+      "时尚",
+      "音乐"
+    ],
+    "preferred_brands": [
+      "百雀羚"
+    ],
+    "purchase_power": 0.91,
+    "social_media": {
+      "抖音活跃度": 40,
+      "微博关注": 242,
+      "小红书笔记数": 134
+    },
+    "brand_id_association": 19
+  },
+  {
+    "user_id": "user_10022",
+    "age": 48,
+    "gender": "男",
+    "interests": [
+      "美食",
+      "时尚"
+    ],
+    "preferred_brands": [
+      "自然堂"
+    ],
+    "purchase_power": 0.61,
+    "social_media": {
+      "抖音活跃度": 41,
+      "微博关注": 2633,
+      "小红书笔记数": 128
+    },
+    "brand_id_association": 4
+  },
+  {
+    "user_id": "user_10023",
+    "age": 38,
+    "gender": "男",
+    "interests": [
+      "旅游",
+      "美食",
+      "时尚",
+      "护肤"
+    ],
+    "preferred_brands": [
+      "相宜本草"
+    ],
+    "purchase_power": 0.82,
+    "social_media": {
+      "抖音活跃度": 47,
+      "微博关注": 2701,
+      "小红书笔记数": 135
+    },
+    "brand_id_association": 12
+  },
+  {
+    "user_id": "user_10024",
+    "age": 45,
+    "gender": "女",
+    "interests": [
+      "运动",
+      "音乐",
+      "美食"
+    ],
+    "preferred_brands": [
+      "百雀羚"
+    ],
+    "purchase_power": 0.63,
+    "social_media": {
+      "抖音活跃度": 91,
+      "微博关注": 1470,
+      "小红书笔记数": 37
+    },
+    "brand_id_association": 19
+  },
+  {
+    "user_id": "user_10025",
+    "age": 31,
+    "gender": "女",
+    "interests": [
+      "运动",
+      "科技"
+    ],
+    "preferred_brands": [
+      "玉兰油"
+    ],
+    "purchase_power": 0.77,
+    "social_media": {
+      "抖音活跃度": 77,
+      "微博关注": 678,
+      "小红书笔记数": 81
+    },
+    "brand_id_association": 21
+  },
+  {
+    "user_id": "user_10026",
+    "age": 25,
+    "gender": "女",
+    "interests": [
+      "美妆",
+      "旅游",
+      "美食"
+    ],
+    "preferred_brands": [
+      "佰草集"
+    ],
+    "purchase_power": 0.91,
+    "social_media": {
+      "抖音活跃度": 48,
+      "微博关注": 2666,
+      "小红书笔记数": 165
+    },
+    "brand_id_association": 7
+  },
+  {
+    "user_id": "user_10027",
+    "age": 25,
+    "gender": "女",
+    "interests": [
+      "美妆",
+      "时尚"
+    ],
+    "preferred_brands": [
+      "一叶子"
+    ],
+    "purchase_power": 0.56,
+    "social_media": {
+      "抖音活跃度": 10,
+      "微博关注": 3907,
+      "小红书笔记数": 84
+    },
+    "brand_id_association": 17
+  },
+  {
+    "user_id": "user_10028",
+    "age": 27,
+    "gender": "男",
+    "interests": [
+      "护肤",
+      "时尚",
+      "科技"
+    ],
+    "preferred_brands": [
+      "一叶子"
+    ],
+    "purchase_power": 0.63,
+    "social_media": {
+      "抖音活跃度": 55,
+      "微博关注": 2103,
+      "小红书笔记数": 129
+    },
+    "brand_id_association": 16
+  },
+  {
+    "user_id": "user_10029",
+    "age": 41,
+    "gender": "女",
+    "interests": [
+      "护肤",
+      "美妆",
+      "科技",
+      "旅游"
+    ],
+    "preferred_brands": [
+      "相宜本草"
+    ],
+    "purchase_power": 0.82,
+    "social_media": {
+      "抖音活跃度": 54,
+      "微博关注": 1422,
+      "小红书笔记数": 25
+    },
+    "brand_id_association": 12
+  },
+  {
+    "user_id": "user_10030",
+    "age": 54,
+    "gender": "男",
+    "interests": [
+      "美食",
+      "时尚"
+    ],
+    "preferred_brands": [
+      "大宝"
+    ],
+    "purchase_power": 0.68,
+    "social_media": {
+      "抖音活跃度": 30,
+      "微博关注": 1217,
+      "小红书笔记数": 126
+    },
+    "brand_id_association": 14
+  },
+  {
+    "user_id": "user_10031",
+    "age": 55,
+    "gender": "女",
+    "interests": [
+      "护肤",
+      "旅游",
+      "美妆"
+    ],
+    "preferred_brands": [
+      "相宜本草"
+    ],
+    "purchase_power": 0.95,
+    "social_media": {
+      "抖音活跃度": 63,
+      "微博关注": 406,
+      "小红书笔记数": 196
+    },
+    "brand_id_association": 13
+  },
+  {
+    "user_id": "user_10032",
+    "age": 43,
+    "gender": "男",
+    "interests": [
+      "时尚",
+      "美妆"
+    ],
+    "preferred_brands": [
+      "美加净"
+    ],
+    "purchase_power": 0.97,
+    "social_media": {
+      "抖音活跃度": 95,
+      "微博关注": null,
+      "小红书笔记数": 155
+    },
+    "brand_id_association": 10
+  },
+  {
+    "user_id": "user_10033",
+    "age": 47,
+    "gender": "女",
+    "interests": [
+      "美食",
+      "运动"
+    ],
+    "preferred_brands": [
+      "一叶子"
+    ],
+    "purchase_power": 0.47,
+    "social_media": {
+      "抖音活跃度": 17,
+      "微博关注": null,
+      "小红书笔记数": 136
+    },
+    "brand_id_association": 16
+  },
+  {
+    "user_id": "user_10034",
+    "age": 45,
+    "gender": "女",
+    "interests": [
+      "旅游",
+      "音乐",
+      "美妆"
+    ],
+    "preferred_brands": [
+      "韩束"
+    ],
+    "purchase_power": 0.5,
+    "social_media": {
+      "抖音活跃度": 75,
+      "微博关注": 4348,
+      "小红书笔记数": 29
+    },
+    "brand_id_association": 2
+  },
+  {
+    "user_id": "user_10035",
+    "age": 20,
+    "gender": "男",
+    "interests": [
+      "时尚",
+      "美妆",
+      "护肤",
+      "音乐"
+    ],
+    "preferred_brands": [
+      "大宝"
+    ],
+    "purchase_power": 0.58,
+    "social_media": {
+      "抖音活跃度": 60,
+      "微博关注": 4061,
+      "小红书笔记数": 184
+    },
+    "brand_id_association": 15
+  },
+  {
+    "user_id": "user_10036",
+    "age": 26,
+    "gender": "女",
+    "interests": [
+      "运动",
+      "护肤"
+    ],
+    "preferred_brands": [
+      "美加净"
+    ],
+    "purchase_power": 0.96,
+    "social_media": {
+      "抖音活跃度": 17,
+      "微博关注": 3190,
+      "小红书笔记数": 38
+    },
+    "brand_id_association": 11
+  },
+  {
+    "user_id": "user_10037",
+    "age": 31,
+    "gender": "女",
+    "interests": [
+      "运动",
+      "护肤",
+      "科技",
+      "时尚"
+    ],
+    "preferred_brands": [
+      "大宝"
+    ],
+    "purchase_power": 0.66,
+    "social_media": {
+      "抖音活跃度": 75,
+      "微博关注": 901,
+      "小红书笔记数": 111
+    },
+    "brand_id_association": 14
+  },
+  {
+    "user_id": "user_10038",
+    "age": 41,
+    "gender": "男",
+    "interests": [
+      "美食",
+      "美妆",
+      "时尚"
+    ],
+    "preferred_brands": [
+      "相宜本草"
+    ],
+    "purchase_power": 0.57,
+    "social_media": {
+      "抖音活跃度": 69,
+      "微博关注": null,
+      "小红书笔记数": 188
+    },
+    "brand_id_association": 12
+  },
+  {
+    "user_id": "user_10039",
+    "age": 50,
+    "gender": "女",
+    "interests": [
+      "科技",
+      "美食",
+      "时尚"
+    ],
+    "preferred_brands": [
+      "美加净"
+    ],
+    "purchase_power": 0.97,
+    "social_media": {
+      "抖音活跃度": 25,
+      "微博关注": 566,
+      "小红书笔记数": 46
+    },
+    "brand_id_association": 11
+  },
+  {
+    "user_id": "user_10040",
+    "age": 42,
+    "gender": "男",
+    "interests": [
+      "运动",
+      "美食"
+    ],
+    "preferred_brands": [
+      "韩束"
+    ],
+    "purchase_power": 0.48,
+    "social_media": {
+      "抖音活跃度": 76,
+      "微博关注": 3661,
+      "小红书笔记数": 33
+    },
+    "brand_id_association": 1
+  },
+  {
+    "user_id": "user_10041",
+    "age": 21,
+    "gender": "男",
+    "interests": [
+      "美食",
+      "旅游",
+      "护肤"
+    ],
+    "preferred_brands": [
+      "韩束"
+    ],
+    "purchase_power": 0.83,
+    "social_media": {
+      "抖音活跃度": 85,
+      "微博关注": 2357,
+      "小红书笔记数": 172
+    },
+    "brand_id_association": 3
+  },
+  {
+    "user_id": "user_10042",
+    "age": 38,
+    "gender": "男",
+    "interests": [
+      "美妆",
+      "美食",
+      "护肤"
+    ],
+    "preferred_brands": [
+      "玉兰油"
+    ],
+    "purchase_power": 0.75,
+    "social_media": {
+      "抖音活跃度": 52,
+      "微博关注": 1526,
+      "小红书笔记数": 170
+    },
+    "brand_id_association": 21
+  },
+  {
+    "user_id": "user_10043",
+    "age": 50,
+    "gender": "男",
+    "interests": [
+      "旅游",
+      "美食",
+      "美妆",
+      "时尚"
+    ],
+    "preferred_brands": [
+      "百雀羚"
+    ],
+    "purchase_power": 0.7,
+    "social_media": {
+      "抖音活跃度": 23,
+      "微博关注": 3257,
+      "小红书笔记数": 179
+    },
+    "brand_id_association": 18
+  },
+  {
+    "user_id": "user_10044",
+    "age": 47,
+    "gender": "男",
+    "interests": [
+      "时尚",
+      "美食"
+    ],
+    "preferred_brands": [
+      "自然堂"
+    ],
+    "purchase_power": 0.77,
+    "social_media": {
+      "抖音活跃度": 33,
+      "微博关注": 148,
+      "小红书笔记数": 130
+    },
+    "brand_id_association": 5
+  },
+  {
+    "user_id": "user_10045",
+    "age": 52,
+    "gender": "女",
+    "interests": [
+      "科技",
+      "旅游",
+      "护肤"
+    ],
+    "preferred_brands": [
+      "大宝"
+    ],
+    "purchase_power": 0.5,
+    "social_media": {
+      "抖音活跃度": 31,
+      "微博关注": 4585,
+      "小红书笔记数": 23
+    },
+    "brand_id_association": 15
+  },
+  {
+    "user_id": "user_10046",
+    "age": 46,
+    "gender": "女",
+    "interests": [
+      "运动",
+      "时尚",
+      "音乐"
+    ],
+    "preferred_brands": [
+      "完美日记"
+    ],
+    "purchase_power": 0.57,
+    "social_media": {
+      "抖音活跃度": 54,
+      "微博关注": 2182,
+      "小红书笔记数": 10
+    },
+    "brand_id_association": 9
+  },
+  {
+    "user_id": "user_10047",
+    "age": 39,
+    "gender": "男",
+    "interests": [
+      "旅游",
+      "美食",
+      "科技",
+      "护肤"
+    ],
+    "preferred_brands": [
+      "玉兰油"
+    ],
+    "purchase_power": 0.37,
+    "social_media": {
+      "抖音活跃度": 58,
+      "微博关注": 930,
+      "小红书笔记数": 175
+    },
+    "brand_id_association": 20
+  },
+  {
+    "user_id": "user_10048",
+    "age": 53,
+    "gender": "女",
+    "interests": [
+      "运动",
+      "音乐"
+    ],
+    "preferred_brands": [
+      "玉兰油"
+    ],
+    "purchase_power": 0.86,
+    "social_media": {
+      "抖音活跃度": 50,
+      "微博关注": 489,
+      "小红书笔记数": 199
+    },
+    "brand_id_association": 20
+  },
+  {
+    "user_id": "user_10049",
+    "age": 21,
+    "gender": "女",
+    "interests": [
+      "旅游",
+      "音乐",
+      "时尚",
+      "护肤"
+    ],
+    "preferred_brands": [
+      "百雀羚"
+    ],
+    "purchase_power": 0.94,
+    "social_media": {
+      "抖音活跃度": 93,
+      "微博关注": 1266,
+      "小红书笔记数": 161
+    },
+    "brand_id_association": 19
+  },
+  {
+    "user_id": "user_10050",
+    "age": 27,
+    "gender": "男",
+    "interests": [
+      "时尚",
+      "旅游",
+      "护肤",
+      "音乐"
+    ],
+    "preferred_brands": [
+      "百雀羚"
+    ],
+    "purchase_power": 0.99,
+    "social_media": {
+      "抖音活跃度": 82,
+      "微博关注": 1184,
+      "小红书笔记数": 105
+    },
+    "brand_id_association": 19
+  },
+  {
+    "user_id": "user_10051",
+    "age": 51,
+    "gender": "女",
+    "interests": [
+      "时尚",
+      "美妆",
+      "运动",
+      "音乐"
+    ],
+    "preferred_brands": [
+      "一叶子"
+    ],
+    "purchase_power": 0.43,
+    "social_media": {
+      "抖音活跃度": 89,
+      "微博关注": 515,
+      "小红书笔记数": 95
+    },
+    "brand_id_association": 16
+  },
+  {
+    "user_id": "user_10052",
+    "age": 35,
+    "gender": "男",
+    "interests": [
+      "护肤",
+      "旅游"
+    ],
+    "preferred_brands": [
+      "自然堂"
+    ],
+    "purchase_power": 0.75,
+    "social_media": {
+      "抖音活跃度": 46,
+      "微博关注": 4834,
+      "小红书笔记数": 69
+    },
+    "brand_id_association": 4
+  },
+  {
+    "user_id": "user_10053",
+    "age": 50,
+    "gender": "男",
+    "interests": [
+      "科技",
+      "音乐"
+    ],
+    "preferred_brands": [
+      "一叶子"
+    ],
+    "purchase_power": 0.92,
+    "social_media": {
+      "抖音活跃度": 33,
+      "微博关注": 3830,
+      "小红书笔记数": 83
+    },
+    "brand_id_association": 16
+  },
+  {
+    "user_id": "user_10054",
+    "age": 32,
+    "gender": "男",
+    "interests": [
+      "科技",
+      "美妆",
+      "音乐",
+      "运动"
+    ],
+    "preferred_brands": [
+      "韩束"
+    ],
+    "purchase_power": 0.69,
+    "social_media": {
+      "抖音活跃度": 69,
+      "微博关注": 4469,
+      "小红书笔记数": 162
+    },
+    "brand_id_association": 3
+  },
+  {
+    "user_id": "user_10055",
+    "age": 24,
+    "gender": "女",
+    "interests": [
+      "科技",
+      "旅游",
+      "音乐"
+    ],
+    "preferred_brands": [
+      "完美日记"
+    ],
+    "purchase_power": 0.58,
+    "social_media": {
+      "抖音活跃度": 14,
+      "微博关注": null,
+      "小红书笔记数": 142
+    },
+    "brand_id_association": 9
+  },
+  {
+    "user_id": "user_10056",
+    "age": 40,
+    "gender": "女",
+    "interests": [
+      "美妆",
+      "时尚"
+    ],
+    "preferred_brands": [
+      "玉兰油"
+    ],
+    "purchase_power": 0.44,
+    "social_media": {
+      "抖音活跃度": 64,
+      "微博关注": null,
+      "小红书笔记数": 129
+    },
+    "brand_id_association": 20
+  },
+  {
+    "user_id": "user_10057",
+    "age": 53,
+    "gender": "男",
+    "interests": [
+      "运动",
+      "美食",
+      "音乐",
+      "时尚"
+    ],
+    "preferred_brands": [
+      "百雀羚"
+    ],
+    "purchase_power": 0.53,
+    "social_media": {
+      "抖音活跃度": 24,
+      "微博关注": 4872,
+      "小红书笔记数": 63
+    },
+    "brand_id_association": 19
+  },
+  {
+    "user_id": "user_10058",
+    "age": 42,
+    "gender": "男",
+    "interests": [
+      "旅游",
+      "时尚",
+      "运动"
+    ],
+    "preferred_brands": [
+      "相宜本草"
+    ],
+    "purchase_power": 0.58,
+    "social_media": {
+      "抖音活跃度": 71,
+      "微博关注": null,
+      "小红书笔记数": 141
+    },
+    "brand_id_association": 12
+  },
+  {
+    "user_id": "user_10059",
+    "age": 33,
+    "gender": "男",
+    "interests": [
+      "音乐",
+      "旅游",
+      "美妆"
+    ],
+    "preferred_brands": [
+      "相宜本草"
+    ],
+    "purchase_power": 0.78,
+    "social_media": {
+      "抖音活跃度": 28,
+      "微博关注": 2924,
+      "小红书笔记数": 182
+    },
+    "brand_id_association": 12
+  },
+  {
+    "user_id": "user_10060",
+    "age": 20,
+    "gender": "女",
+    "interests": [
+      "护肤",
+      "音乐"
+    ],
+    "preferred_brands": [
+      "自然堂"
+    ],
+    "purchase_power": 0.68,
+    "social_media": {
+      "抖音活跃度": 97,
+      "微博关注": null,
+      "小红书笔记数": 179
+    },
+    "brand_id_association": 5
+  },
+  {
+    "user_id": "user_10061",
+    "age": 49,
+    "gender": "女",
+    "interests": [
+      "运动",
+      "科技",
+      "音乐",
+      "护肤"
+    ],
+    "preferred_brands": [
+      "百雀羚"
+    ],
+    "purchase_power": 0.98,
+    "social_media": {
+      "抖音活跃度": 54,
+      "微博关注": 1486,
+      "小红书笔记数": 72
+    },
+    "brand_id_association": 19
+  },
+  {
+    "user_id": "user_10062",
+    "age": 33,
+    "gender": "女",
+    "interests": [
+      "运动",
+      "美食"
+    ],
+    "preferred_brands": [
+      "韩束"
+    ],
+    "purchase_power": 0.52,
+    "social_media": {
+      "抖音活跃度": 85,
+      "微博关注": 1951,
+      "小红书笔记数": 97
+    },
+    "brand_id_association": 1
+  },
+  {
+    "user_id": "user_10063",
+    "age": 50,
+    "gender": "男",
+    "interests": [
+      "旅游",
+      "音乐",
+      "美食",
+      "护肤"
+    ],
+    "preferred_brands": [
+      "完美日记"
+    ],
+    "purchase_power": 0.38,
+    "social_media": {
+      "抖音活跃度": 98,
+      "微博关注": null,
+      "小红书笔记数": 197
+    },
+    "brand_id_association": 8
+  },
+  {
+    "user_id": "user_10064",
+    "age": 50,
+    "gender": "男",
+    "interests": [
+      "时尚",
+      "科技",
+      "美食",
+      "音乐"
+    ],
+    "preferred_brands": [
+      "相宜本草"
+    ],
+    "purchase_power": 0.77,
+    "social_media": {
+      "抖音活跃度": 28,
+      "微博关注": null,
+      "小红书笔记数": 162
+    },
+    "brand_id_association": 12
+  },
+  {
+    "user_id": "user_10065",
+    "age": 31,
+    "gender": "男",
+    "interests": [
+      "时尚",
+      "美食"
+    ],
+    "preferred_brands": [
+      "相宜本草"
+    ],
+    "purchase_power": 0.79,
+    "social_media": {
+      "抖音活跃度": 57,
+      "微博关注": 3195,
+      "小红书笔记数": 7
+    },
+    "brand_id_association": 13
+  },
+  {
+    "user_id": "user_10066",
+    "age": 51,
+    "gender": "男",
+    "interests": [
+      "时尚",
+      "美食",
+      "科技"
+    ],
+    "preferred_brands": [
+      "玉兰油"
+    ],
+    "purchase_power": 0.7,
+    "social_media": {
+      "抖音活跃度": 58,
+      "微博关注": 3750,
+      "小红书笔记数": 154
+    },
+    "brand_id_association": 20
+  },
+  {
+    "user_id": "user_10067",
+    "age": 24,
+    "gender": "女",
+    "interests": [
+      "旅游",
+      "美食",
+      "护肤",
+      "科技"
+    ],
+    "preferred_brands": [
+      "大宝"
+    ],
+    "purchase_power": 0.39,
+    "social_media": {
+      "抖音活跃度": 11,
+      "微博关注": 3755,
+      "小红书笔记数": 145
+    },
+    "brand_id_association": 14
+  },
+  {
+    "user_id": "user_10068",
+    "age": 30,
+    "gender": "女",
+    "interests": [
+      "旅游",
+      "时尚"
+    ],
+    "preferred_brands": [
+      "美加净"
+    ],
+    "purchase_power": 0.66,
+    "social_media": {
+      "抖音活跃度": 61,
+      "微博关注": 203,
+      "小红书笔记数": 78
+    },
+    "brand_id_association": 11
+  },
+  {
+    "user_id": "user_10069",
+    "age": 20,
+    "gender": "女",
+    "interests": [
+      "时尚",
+      "护肤",
+      "美妆",
+      "美食"
+    ],
+    "preferred_brands": [
+      "佰草集"
+    ],
+    "purchase_power": 0.32,
+    "social_media": {
+      "抖音活跃度": 12,
+      "微博关注": 2534,
+      "小红书笔记数": 155
+    },
+    "brand_id_association": 6
+  },
+  {
+    "user_id": "user_10070",
+    "age": 46,
+    "gender": "女",
+    "interests": [
+      "美妆",
+      "运动"
+    ],
+    "preferred_brands": [
+      "相宜本草"
+    ],
+    "purchase_power": 0.7,
+    "social_media": {
+      "抖音活跃度": 55,
+      "微博关注": 3101,
+      "小红书笔记数": 111
+    },
+    "brand_id_association": 12
+  },
+  {
+    "user_id": "user_10071",
+    "age": 51,
+    "gender": "男",
+    "interests": [
+      "时尚",
+      "护肤",
+      "旅游",
+      "科技"
+    ],
+    "preferred_brands": [
+      "相宜本草"
+    ],
+    "purchase_power": 0.61,
+    "social_media": {
+      "抖音活跃度": 32,
+      "微博关注": 3039,
+      "小红书笔记数": 151
+    },
+    "brand_id_association": 12
+  },
+  {
+    "user_id": "user_10072",
+    "age": 46,
+    "gender": "女",
+    "interests": [
+      "音乐",
+      "科技",
+      "美食",
+      "时尚"
+    ],
+    "preferred_brands": [
+      "佰草集"
+    ],
+    "purchase_power": 0.82,
+    "social_media": {
+      "抖音活跃度": 22,
+      "微博关注": 4815,
+      "小红书笔记数": 192
+    },
+    "brand_id_association": 7
+  },
+  {
+    "user_id": "user_10073",
+    "age": 40,
+    "gender": "女",
+    "interests": [
+      "科技",
+      "美妆",
+      "音乐"
+    ],
+    "preferred_brands": [
+      "一叶子"
+    ],
+    "purchase_power": 0.54,
+    "social_media": {
+      "抖音活跃度": 38,
+      "微博关注": 402,
+      "小红书笔记数": 199
+    },
+    "brand_id_association": 17
+  },
+  {
+    "user_id": "user_10074",
+    "age": 41,
+    "gender": "男",
+    "interests": [
+      "美食",
+      "旅游",
+      "运动"
+    ],
+    "preferred_brands": [
+      "大宝"
+    ],
+    "purchase_power": 0.87,
+    "social_media": {
+      "抖音活跃度": 50,
+      "微博关注": 3615,
+      "小红书笔记数": 177
+    },
+    "brand_id_association": 14
+  },
+  {
+    "user_id": "user_10075",
+    "age": 39,
+    "gender": "男",
+    "interests": [
+      "护肤",
+      "美妆",
+      "美食",
+      "旅游"
+    ],
+    "preferred_brands": [
+      "百雀羚"
+    ],
+    "purchase_power": 0.77,
+    "social_media": {
+      "抖音活跃度": 83,
+      "微博关注": 3386,
+      "小红书笔记数": 123
+    },
+    "brand_id_association": 18
+  },
+  {
+    "user_id": "user_10076",
+    "age": 26,
+    "gender": "男",
+    "interests": [
+      "美食",
+      "运动"
+    ],
+    "preferred_brands": [
+      "一叶子"
+    ],
+    "purchase_power": 0.55,
+    "social_media": {
+      "抖音活跃度": 91,
+      "微博关注": 377,
+      "小红书笔记数": 177
+    },
+    "brand_id_association": 16
+  },
+  {
+    "user_id": "user_10077",
+    "age": 51,
+    "gender": "女",
+    "interests": [
+      "美妆",
+      "时尚",
+      "运动"
+    ],
+    "preferred_brands": [
+      "佰草集"
+    ],
+    "purchase_power": 0.6,
+    "social_media": {
+      "抖音活跃度": 11,
+      "微博关注": null,
+      "小红书笔记数": 132
+    },
+    "brand_id_association": 7
+  },
+  {
+    "user_id": "user_10078",
+    "age": 40,
+    "gender": "男",
+    "interests": [
+      "时尚",
+      "科技",
+      "美妆"
+    ],
+    "preferred_brands": [
+      "百雀羚"
+    ],
+    "purchase_power": 0.73,
+    "social_media": {
+      "抖音活跃度": 29,
+      "微博关注": 4830,
+      "小红书笔记数": 94
+    },
+    "brand_id_association": 18
+  },
+  {
+    "user_id": "user_10079",
+    "age": 46,
+    "gender": "男",
+    "interests": [
+      "美妆",
+      "旅游"
+    ],
+    "preferred_brands": [
+      "一叶子"
+    ],
+    "purchase_power": 0.95,
+    "social_media": {
+      "抖音活跃度": 41,
+      "微博关注": 3981,
+      "小红书笔记数": 144
+    },
+    "brand_id_association": 16
+  },
+  {
+    "user_id": "user_10080",
+    "age": 38,
+    "gender": "女",
+    "interests": [
+      "护肤",
+      "美妆",
+      "运动"
+    ],
+    "preferred_brands": [
+      "玉兰油"
+    ],
+    "purchase_power": 0.83,
+    "social_media": {
+      "抖音活跃度": 65,
+      "微博关注": null,
+      "小红书笔记数": 103
+    },
+    "brand_id_association": 20
+  },
+  {
+    "user_id": "user_10081",
+    "age": 19,
+    "gender": "女",
+    "interests": [
+      "美食",
+      "时尚",
+      "美妆",
+      "运动"
+    ],
+    "preferred_brands": [
+      "完美日记"
+    ],
+    "purchase_power": 0.65,
+    "social_media": {
+      "抖音活跃度": 56,
+      "微博关注": 4963,
+      "小红书笔记数": 10
+    },
+    "brand_id_association": 9
+  },
+  {
+    "user_id": "user_10082",
+    "age": 20,
+    "gender": "女",
+    "interests": [
+      "美妆",
+      "音乐",
+      "运动"
+    ],
+    "preferred_brands": [
+      "相宜本草"
+    ],
+    "purchase_power": 0.82,
+    "social_media": {
+      "抖音活跃度": 84,
+      "微博关注": 2848,
+      "小红书笔记数": 51
+    },
+    "brand_id_association": 13
+  },
+  {
+    "user_id": "user_10083",
+    "age": 20,
+    "gender": "男",
+    "interests": [
+      "旅游",
+      "运动"
+    ],
+    "preferred_brands": [
+      "自然堂"
+    ],
+    "purchase_power": 0.87,
+    "social_media": {
+      "抖音活跃度": 89,
+      "微博关注": 4314,
+      "小红书笔记数": 199
+    },
+    "brand_id_association": 5
+  },
+  {
+    "user_id": "user_10084",
+    "age": 51,
+    "gender": "女",
+    "interests": [
+      "美食",
+      "时尚",
+      "科技"
+    ],
+    "preferred_brands": [
+      "佰草集"
+    ],
+    "purchase_power": 0.35,
+    "social_media": {
+      "抖音活跃度": 60,
+      "微博关注": 4874,
+      "小红书笔记数": 169
+    },
+    "brand_id_association": 7
+  },
+  {
+    "user_id": "user_10085",
+    "age": 38,
+    "gender": "女",
+    "interests": [
+      "旅游",
+      "美食",
+      "美妆"
+    ],
+    "preferred_brands": [
+      "一叶子"
+    ],
+    "purchase_power": 0.76,
+    "social_media": {
+      "抖音活跃度": 99,
+      "微博关注": 1347,
+      "小红书笔记数": 142
+    },
+    "brand_id_association": 16
+  },
+  {
+    "user_id": "user_10086",
+    "age": 23,
+    "gender": "女",
+    "interests": [
+      "美食",
+      "护肤",
+      "旅游"
+    ],
+    "preferred_brands": [
+      "完美日记"
+    ],
+    "purchase_power": 0.54,
+    "social_media": {
+      "抖音活跃度": 17,
+      "微博关注": 2331,
+      "小红书笔记数": 119
+    },
+    "brand_id_association": 8
+  },
+  {
+    "user_id": "user_10087",
+    "age": 47,
+    "gender": "女",
+    "interests": [
+      "时尚",
+      "音乐",
+      "科技"
+    ],
+    "preferred_brands": [
+      "玉兰油"
+    ],
+    "purchase_power": 0.87,
+    "social_media": {
+      "抖音活跃度": 46,
+      "微博关注": 2540,
+      "小红书笔记数": 74
+    },
+    "brand_id_association": 20
+  },
+  {
+    "user_id": "user_10088",
+    "age": 51,
+    "gender": "女",
+    "interests": [
+      "护肤",
+      "美食"
+    ],
+    "preferred_brands": [
+      "韩束"
+    ],
+    "purchase_power": 0.36,
+    "social_media": {
+      "抖音活跃度": 42,
+      "微博关注": 3336,
+      "小红书笔记数": 102
+    },
+    "brand_id_association": 1
+  },
+  {
+    "user_id": "user_10089",
+    "age": 33,
+    "gender": "男",
+    "interests": [
+      "美食",
+      "旅游"
+    ],
+    "preferred_brands": [
+      "自然堂"
+    ],
+    "purchase_power": 0.35,
+    "social_media": {
+      "抖音活跃度": 30,
+      "微博关注": 3919,
+      "小红书笔记数": 177
+    },
+    "brand_id_association": 5
+  },
+  {
+    "user_id": "user_10090",
+    "age": 28,
+    "gender": "男",
+    "interests": [
+      "美食",
+      "时尚",
+      "科技",
+      "美妆"
+    ],
+    "preferred_brands": [
+      "百雀羚"
+    ],
+    "purchase_power": 0.66,
+    "social_media": {
+      "抖音活跃度": 56,
+      "微博关注": null,
+      "小红书笔记数": 6
+    },
+    "brand_id_association": 18
+  },
+  {
+    "user_id": "user_10091",
+    "age": 50,
+    "gender": "女",
+    "interests": [
+      "运动",
+      "旅游"
+    ],
+    "preferred_brands": [
+      "一叶子"
+    ],
+    "purchase_power": 0.37,
+    "social_media": {
+      "抖音活跃度": 45,
+      "微博关注": 3923,
+      "小红书笔记数": 94
+    },
+    "brand_id_association": 17
+  },
+  {
+    "user_id": "user_10092",
+    "age": 52,
+    "gender": "女",
+    "interests": [
+      "运动",
+      "科技"
+    ],
+    "preferred_brands": [
+      "相宜本草"
+    ],
+    "purchase_power": 0.55,
+    "social_media": {
+      "抖音活跃度": 79,
+      "微博关注": 825,
+      "小红书笔记数": 128
+    },
+    "brand_id_association": 12
+  },
+  {
+    "user_id": "user_10093",
+    "age": 36,
+    "gender": "女",
+    "interests": [
+      "旅游",
+      "音乐",
+      "护肤",
+      "科技"
+    ],
+    "preferred_brands": [
+      "玉兰油"
+    ],
+    "purchase_power": 0.7,
+    "social_media": {
+      "抖音活跃度": 14,
+      "微博关注": 521,
+      "小红书笔记数": 67
+    },
+    "brand_id_association": 21
+  },
+  {
+    "user_id": "user_10094",
+    "age": 23,
+    "gender": "男",
+    "interests": [
+      "音乐",
+      "美食"
+    ],
+    "preferred_brands": [
+      "相宜本草"
+    ],
+    "purchase_power": 0.51,
+    "social_media": {
+      "抖音活跃度": 13,
+      "微博关注": 3765,
+      "小红书笔记数": 43
+    },
+    "brand_id_association": 12
+  },
+  {
+    "user_id": "user_10095",
+    "age": 29,
+    "gender": "女",
+    "interests": [
+      "护肤",
+      "音乐",
+      "运动"
+    ],
+    "preferred_brands": [
+      "韩束"
+    ],
+    "purchase_power": 0.36,
+    "social_media": {
+      "抖音活跃度": 94,
+      "微博关注": 993,
+      "小红书笔记数": 47
+    },
+    "brand_id_association": 3
+  },
+  {
+    "user_id": "user_10096",
+    "age": 20,
+    "gender": "男",
+    "interests": [
+      "科技",
+      "美妆"
+    ],
+    "preferred_brands": [
+      "完美日记"
+    ],
+    "purchase_power": 0.74,
+    "social_media": {
+      "抖音活跃度": 49,
+      "微博关注": 3460,
+      "小红书笔记数": 79
+    },
+    "brand_id_association": 8
+  },
+  {
+    "user_id": "user_10097",
+    "age": 29,
+    "gender": "女",
+    "interests": [
+      "美食",
+      "科技",
+      "音乐"
+    ],
+    "preferred_brands": [
+      "大宝"
+    ],
+    "purchase_power": 0.58,
+    "social_media": {
+      "抖音活跃度": 73,
+      "微博关注": 2079,
+      "小红书笔记数": 78
+    },
+    "brand_id_association": 14
+  },
+  {
+    "user_id": "user_10098",
+    "age": 52,
+    "gender": "男",
+    "interests": [
+      "护肤",
+      "音乐"
+    ],
+    "preferred_brands": [
+      "韩束"
+    ],
+    "purchase_power": 0.9,
+    "social_media": {
+      "抖音活跃度": 45,
+      "微博关注": 2887,
+      "小红书笔记数": 131
+    },
+    "brand_id_association": 3
+  },
+  {
+    "user_id": "user_10099",
+    "age": 51,
+    "gender": "男",
+    "interests": [
+      "美妆",
+      "音乐",
+      "护肤"
+    ],
+    "preferred_brands": [
+      "美加净"
+    ],
+    "purchase_power": 0.95,
+    "social_media": {
+      "抖音活跃度": 75,
+      "微博关注": 3085,
+      "小红书笔记数": 150
+    },
+    "brand_id_association": 10
+  },
+  {
+    "user_id": "user_10100",
+    "age": 35,
+    "gender": "女",
+    "interests": [
+      "运动",
+      "护肤",
+      "时尚"
+    ],
+    "preferred_brands": [
+      "自然堂"
+    ],
+    "purchase_power": 0.37,
+    "social_media": {
+      "抖音活跃度": 49,
+      "微博关注": 2168,
+      "小红书笔记数": 55
+    },
+    "brand_id_association": 4
+  },
+  {
+    "user_id": "user_10101",
+    "age": 21,
+    "gender": "男",
+    "interests": [
+      "护肤",
+      "时尚"
+    ],
+    "preferred_brands": [
+      "美加净"
+    ],
+    "purchase_power": 0.77,
+    "social_media": {
+      "抖音活跃度": 43,
+      "微博关注": 3771,
+      "小红书笔记数": 71
+    },
+    "brand_id_association": 11
+  },
+  {
+    "user_id": "user_10102",
+    "age": 53,
+    "gender": "男",
+    "interests": [
+      "运动",
+      "美妆",
+      "美食"
+    ],
+    "preferred_brands": [
+      "佰草集"
+    ],
+    "purchase_power": 0.4,
+    "social_media": {
+      "抖音活跃度": 32,
+      "微博关注": 2411,
+      "小红书笔记数": 48
+    },
+    "brand_id_association": 7
+  },
+  {
+    "user_id": "user_10103",
+    "age": 34,
+    "gender": "女",
+    "interests": [
+      "美食",
+      "运动"
+    ],
+    "preferred_brands": [
+      "完美日记"
+    ],
+    "purchase_power": 0.83,
+    "social_media": {
+      "抖音活跃度": 88,
+      "微博关注": 978,
+      "小红书笔记数": 13
+    },
+    "brand_id_association": 9
+  },
+  {
+    "user_id": "user_10104",
+    "age": 23,
+    "gender": "男",
+    "interests": [
+      "音乐",
+      "美食",
+      "时尚"
+    ],
+    "preferred_brands": [
+      "大宝"
+    ],
+    "purchase_power": 0.4,
+    "social_media": {
+      "抖音活跃度": 92,
+      "微博关注": null,
+      "小红书笔记数": 147
+    },
+    "brand_id_association": 14
+  },
+  {
+    "user_id": "user_10105",
+    "age": 23,
+    "gender": "男",
+    "interests": [
+      "美妆",
+      "运动"
+    ],
+    "preferred_brands": [
+      "玉兰油"
+    ],
+    "purchase_power": 0.88,
+    "social_media": {
+      "抖音活跃度": 63,
+      "微博关注": 3971,
+      "小红书笔记数": 48
+    },
+    "brand_id_association": 21
+  },
+  {
+    "user_id": "user_10106",
+    "age": 47,
+    "gender": "女",
+    "interests": [
+      "时尚",
+      "旅游"
+    ],
+    "preferred_brands": [
+      "自然堂"
+    ],
+    "purchase_power": 0.78,
+    "social_media": {
+      "抖音活跃度": 47,
+      "微博关注": 3857,
+      "小红书笔记数": 69
+    },
+    "brand_id_association": 5
+  },
+  {
+    "user_id": "user_10107",
+    "age": 43,
+    "gender": "女",
+    "interests": [
+      "音乐",
+      "美妆"
+    ],
+    "preferred_brands": [
+      "佰草集"
+    ],
+    "purchase_power": 0.58,
+    "social_media": {
+      "抖音活跃度": 30,
+      "微博关注": 2659,
+      "小红书笔记数": 104
+    },
+    "brand_id_association": 7
+  },
+  {
+    "user_id": "user_10108",
+    "age": 24,
+    "gender": "女",
+    "interests": [
+      "旅游",
+      "美食",
+      "美妆"
+    ],
+    "preferred_brands": [
+      "大宝"
+    ],
+    "purchase_power": 0.72,
+    "social_media": {
+      "抖音活跃度": 38,
+      "微博关注": null,
+      "小红书笔记数": 142
+    },
+    "brand_id_association": 15
+  },
+  {
+    "user_id": "user_10109",
+    "age": 29,
+    "gender": "男",
+    "interests": [
+      "美妆",
+      "时尚",
+      "美食"
+    ],
+    "preferred_brands": [
+      "大宝"
+    ],
+    "purchase_power": 0.69,
+    "social_media": {
+      "抖音活跃度": 98,
+      "微博关注": 2744,
+      "小红书笔记数": 62
+    },
+    "brand_id_association": 15
+  },
+  {
+    "user_id": "user_10110",
+    "age": 55,
+    "gender": "女",
+    "interests": [
+      "美妆",
+      "时尚",
+      "运动",
+      "音乐"
+    ],
+    "preferred_brands": [
+      "完美日记"
+    ],
+    "purchase_power": 0.59,
+    "social_media": {
+      "抖音活跃度": 11,
+      "微博关注": 4905,
+      "小红书笔记数": 75
+    },
+    "brand_id_association": 9
+  },
+  {
+    "user_id": "user_10111",
+    "age": 51,
+    "gender": "男",
+    "interests": [
+      "时尚",
+      "科技",
+      "运动",
+      "音乐"
+    ],
+    "preferred_brands": [
+      "完美日记"
+    ],
+    "purchase_power": 0.71,
+    "social_media": {
+      "抖音活跃度": 60,
+      "微博关注": 4994,
+      "小红书笔记数": 170
+    },
+    "brand_id_association": 8
+  },
+  {
+    "user_id": "user_10112",
+    "age": 29,
+    "gender": "女",
+    "interests": [
+      "运动",
+      "科技",
+      "护肤",
+      "美食"
+    ],
+    "preferred_brands": [
+      "韩束"
+    ],
+    "purchase_power": 0.42,
+    "social_media": {
+      "抖音活跃度": 61,
+      "微博关注": 2204,
+      "小红书笔记数": 106
+    },
+    "brand_id_association": 3
+  },
+  {
+    "user_id": "user_10113",
+    "age": 30,
+    "gender": "女",
+    "interests": [
+      "护肤",
+      "美食",
+      "运动"
+    ],
+    "preferred_brands": [
+      "玉兰油"
+    ],
+    "purchase_power": 0.5,
+    "social_media": {
+      "抖音活跃度": 90,
+      "微博关注": 2572,
+      "小红书笔记数": 80
+    },
+    "brand_id_association": 20
+  },
+  {
+    "user_id": "user_10114",
+    "age": 41,
+    "gender": "男",
+    "interests": [
+      "美妆",
+      "美食",
+      "运动",
+      "音乐"
+    ],
+    "preferred_brands": [
+      "相宜本草"
+    ],
+    "purchase_power": 0.49,
+    "social_media": {
+      "抖音活跃度": 74,
+      "微博关注": 3251,
+      "小红书笔记数": 79
+    },
+    "brand_id_association": 12
+  },
+  {
+    "user_id": "user_10115",
+    "age": 21,
+    "gender": "女",
+    "interests": [
+      "音乐",
+      "科技",
+      "美食",
+      "时尚"
+    ],
+    "preferred_brands": [
+      "自然堂"
+    ],
+    "purchase_power": 0.48,
+    "social_media": {
+      "抖音活跃度": 87,
+      "微博关注": 4851,
+      "小红书笔记数": 134
+    },
+    "brand_id_association": 5
+  },
+  {
+    "user_id": "user_10116",
+    "age": 55,
+    "gender": "女",
+    "interests": [
+      "时尚",
+      "旅游",
+      "护肤",
+      "音乐"
+    ],
+    "preferred_brands": [
+      "完美日记"
+    ],
+    "purchase_power": 0.67,
+    "social_media": {
+      "抖音活跃度": 55,
+      "微博关注": 4611,
+      "小红书笔记数": 13
+    },
+    "brand_id_association": 9
+  },
+  {
+    "user_id": "user_10117",
+    "age": 22,
+    "gender": "女",
+    "interests": [
+      "旅游",
+      "音乐",
+      "美食"
+    ],
+    "preferred_brands": [
+      "韩束"
+    ],
+    "purchase_power": 0.61,
+    "social_media": {
+      "抖音活跃度": 66,
+      "微博关注": 402,
+      "小红书笔记数": 190
+    },
+    "brand_id_association": 1
+  },
+  {
+    "user_id": "user_10118",
+    "age": 23,
+    "gender": "女",
+    "interests": [
+      "旅游",
+      "护肤",
+      "运动",
+      "音乐"
+    ],
+    "preferred_brands": [
+      "自然堂"
+    ],
+    "purchase_power": 0.33,
+    "social_media": {
+      "抖音活跃度": 35,
+      "微博关注": 427,
+      "小红书笔记数": 132
+    },
+    "brand_id_association": 4
+  },
+  {
+    "user_id": "user_10119",
+    "age": 52,
+    "gender": "女",
+    "interests": [
+      "护肤",
+      "美食"
+    ],
+    "preferred_brands": [
+      "完美日记"
+    ],
+    "purchase_power": 0.69,
+    "social_media": {
+      "抖音活跃度": 19,
+      "微博关注": 2752,
+      "小红书笔记数": 94
+    },
+    "brand_id_association": 8
+  },
+  {
+    "user_id": "user_10120",
+    "age": 32,
+    "gender": "男",
+    "interests": [
+      "科技",
+      "护肤",
+      "时尚",
+      "旅游"
+    ],
+    "preferred_brands": [
+      "完美日记"
+    ],
+    "purchase_power": 0.9,
+    "social_media": {
+      "抖音活跃度": 94,
+      "微博关注": 980,
+      "小红书笔记数": 67
+    },
+    "brand_id_association": 8
+  },
+  {
+    "user_id": "user_10121",
+    "age": 22,
+    "gender": "女",
+    "interests": [
+      "美食",
+      "护肤",
+      "时尚",
+      "科技"
+    ],
+    "preferred_brands": [
+      "美加净"
+    ],
+    "purchase_power": 0.58,
+    "social_media": {
+      "抖音活跃度": 41,
+      "微博关注": 3956,
+      "小红书笔记数": 128
+    },
+    "brand_id_association": 10
+  },
+  {
+    "user_id": "user_10122",
+    "age": 40,
+    "gender": "男",
+    "interests": [
+      "美妆",
+      "科技",
+      "美食"
+    ],
+    "preferred_brands": [
+      "美加净"
+    ],
+    "purchase_power": 0.61,
+    "social_media": {
+      "抖音活跃度": 93,
+      "微博关注": 4556,
+      "小红书笔记数": 154
+    },
+    "brand_id_association": 10
+  },
+  {
+    "user_id": "user_10123",
+    "age": 40,
+    "gender": "女",
+    "interests": [
+      "运动",
+      "科技",
+      "美妆",
+      "时尚"
+    ],
+    "preferred_brands": [
+      "完美日记"
+    ],
+    "purchase_power": 0.67,
+    "social_media": {
+      "抖音活跃度": 12,
+      "微博关注": 2218,
+      "小红书笔记数": 170
+    },
+    "brand_id_association": 9
+  },
+  {
+    "user_id": "user_10124",
+    "age": 19,
+    "gender": "女",
+    "interests": [
+      "美食",
+      "运动"
+    ],
+    "preferred_brands": [
+      "自然堂"
+    ],
+    "purchase_power": 0.31,
+    "social_media": {
+      "抖音活跃度": 70,
+      "微博关注": 4815,
+      "小红书笔记数": 51
+    },
+    "brand_id_association": 5
+  },
+  {
+    "user_id": "user_10125",
+    "age": 32,
+    "gender": "女",
+    "interests": [
+      "护肤",
+      "美妆",
+      "时尚",
+      "美食"
+    ],
+    "preferred_brands": [
+      "韩束"
+    ],
+    "purchase_power": 0.9,
+    "social_media": {
+      "抖音活跃度": 15,
+      "微博关注": 907,
+      "小红书笔记数": 131
+    },
+    "brand_id_association": 1
+  },
+  {
+    "user_id": "user_10126",
+    "age": 55,
+    "gender": "男",
+    "interests": [
+      "美妆",
+      "运动",
+      "科技",
+      "旅游"
+    ],
+    "preferred_brands": [
+      "大宝"
+    ],
+    "purchase_power": 0.9,
+    "social_media": {
+      "抖音活跃度": 35,
+      "微博关注": 4810,
+      "小红书笔记数": 184
+    },
+    "brand_id_association": 14
+  },
+  {
+    "user_id": "user_10127",
+    "age": 29,
+    "gender": "女",
+    "interests": [
+      "护肤",
+      "音乐",
+      "美食",
+      "时尚"
+    ],
+    "preferred_brands": [
+      "美加净"
+    ],
+    "purchase_power": 0.84,
+    "social_media": {
+      "抖音活跃度": 70,
+      "微博关注": 127,
+      "小红书笔记数": 80
+    },
+    "brand_id_association": 10
+  },
+  {
+    "user_id": "user_10128",
+    "age": 36,
+    "gender": "女",
+    "interests": [
+      "美食",
+      "时尚",
+      "美妆",
+      "护肤"
+    ],
+    "preferred_brands": [
+      "韩束"
+    ],
+    "purchase_power": 0.84,
+    "social_media": {
+      "抖音活跃度": 88,
+      "微博关注": 1497,
+      "小红书笔记数": 60
+    },
+    "brand_id_association": 2
+  },
+  {
+    "user_id": "user_10129",
+    "age": 43,
+    "gender": "男",
+    "interests": [
+      "美妆",
+      "护肤",
+      "时尚"
+    ],
+    "preferred_brands": [
+      "一叶子"
+    ],
+    "purchase_power": 0.64,
+    "social_media": {
+      "抖音活跃度": 25,
+      "微博关注": 4203,
+      "小红书笔记数": 72
+    },
+    "brand_id_association": 16
+  },
+  {
+    "user_id": "user_10130",
+    "age": 33,
+    "gender": "男",
+    "interests": [
+      "美食",
+      "美妆",
+      "旅游",
+      "运动"
+    ],
+    "preferred_brands": [
+      "完美日记"
+    ],
+    "purchase_power": 0.96,
+    "social_media": {
+      "抖音活跃度": 38,
+      "微博关注": 495,
+      "小红书笔记数": 67
+    },
+    "brand_id_association": 9
+  },
+  {
+    "user_id": "user_10131",
+    "age": 41,
+    "gender": "女",
+    "interests": [
+      "科技",
+      "美食"
+    ],
+    "preferred_brands": [
+      "韩束"
+    ],
+    "purchase_power": 0.77,
+    "social_media": {
+      "抖音活跃度": 63,
+      "微博关注": 2754,
+      "小红书笔记数": 182
+    },
+    "brand_id_association": 3
+  },
+  {
+    "user_id": "user_10132",
+    "age": 43,
+    "gender": "女",
+    "interests": [
+      "科技",
+      "运动"
+    ],
+    "preferred_brands": [
+      "相宜本草"
+    ],
+    "purchase_power": 0.74,
+    "social_media": {
+      "抖音活跃度": 87,
+      "微博关注": 4641,
+      "小红书笔记数": 92
+    },
+    "brand_id_association": 12
+  },
+  {
+    "user_id": "user_10133",
+    "age": 21,
+    "gender": "男",
+    "interests": [
+      "科技",
+      "运动"
+    ],
+    "preferred_brands": [
+      "韩束"
+    ],
+    "purchase_power": 0.83,
+    "social_media": {
+      "抖音活跃度": 48,
+      "微博关注": 1066,
+      "小红书笔记数": 180
+    },
+    "brand_id_association": 2
+  },
+  {
+    "user_id": "user_10134",
+    "age": 55,
+    "gender": "男",
+    "interests": [
+      "运动",
+      "旅游",
+      "美妆",
+      "护肤"
+    ],
+    "preferred_brands": [
+      "百雀羚"
+    ],
+    "purchase_power": 0.9,
+    "social_media": {
+      "抖音活跃度": 62,
+      "微博关注": 2199,
+      "小红书笔记数": 12
+    },
+    "brand_id_association": 19
+  },
+  {
+    "user_id": "user_10135",
+    "age": 36,
+    "gender": "女",
+    "interests": [
+      "时尚",
+      "旅游",
+      "护肤"
+    ],
+    "preferred_brands": [
+      "玉兰油"
+    ],
+    "purchase_power": 0.8,
+    "social_media": {
+      "抖音活跃度": 83,
+      "微博关注": 3866,
+      "小红书笔记数": 74
+    },
+    "brand_id_association": 21
+  },
+  {
+    "user_id": "user_10136",
+    "age": 49,
+    "gender": "女",
+    "interests": [
+      "美食",
+      "运动",
+      "科技",
+      "旅游"
+    ],
+    "preferred_brands": [
+      "大宝"
+    ],
+    "purchase_power": 0.75,
+    "social_media": {
+      "抖音活跃度": 55,
+      "微博关注": 2205,
+      "小红书笔记数": 34
+    },
+    "brand_id_association": 15
+  },
+  {
+    "user_id": "user_10137",
+    "age": 27,
+    "gender": "男",
+    "interests": [
+      "时尚",
+      "护肤",
+      "音乐"
+    ],
+    "preferred_brands": [
+      "大宝"
+    ],
+    "purchase_power": 0.75,
+    "social_media": {
+      "抖音活跃度": 51,
+      "微博关注": 3839,
+      "小红书笔记数": 54
+    },
+    "brand_id_association": 15
+  },
+  {
+    "user_id": "user_10138",
+    "age": 19,
+    "gender": "男",
+    "interests": [
+      "时尚",
+      "运动",
+      "美妆"
+    ],
+    "preferred_brands": [
+      "一叶子"
+    ],
+    "purchase_power": 0.58,
+    "social_media": {
+      "抖音活跃度": 30,
+      "微博关注": 433,
+      "小红书笔记数": 13
+    },
+    "brand_id_association": 16
+  },
+  {
+    "user_id": "user_10139",
+    "age": 28,
+    "gender": "男",
+    "interests": [
+      "音乐",
+      "美食",
+      "护肤",
+      "运动"
+    ],
+    "preferred_brands": [
+      "一叶子"
+    ],
+    "purchase_power": 0.36,
+    "social_media": {
+      "抖音活跃度": 72,
+      "微博关注": 4876,
+      "小红书笔记数": 158
+    },
+    "brand_id_association": 17
+  },
+  {
+    "user_id": "user_10140",
+    "age": 29,
+    "gender": "男",
+    "interests": [
+      "音乐",
+      "护肤",
+      "时尚"
+    ],
+    "preferred_brands": [
+      "佰草集"
+    ],
+    "purchase_power": 0.69,
+    "social_media": {
+      "抖音活跃度": 23,
+      "微博关注": 1955,
+      "小红书笔记数": 12
+    },
+    "brand_id_association": 6
+  },
+  {
+    "user_id": "user_10141",
+    "age": 51,
+    "gender": "男",
+    "interests": [
+      "美妆",
+      "美食",
+      "护肤"
+    ],
+    "preferred_brands": [
+      "韩束"
+    ],
+    "purchase_power": 0.31,
+    "social_media": {
+      "抖音活跃度": 94,
+      "微博关注": null,
+      "小红书笔记数": 46
+    },
+    "brand_id_association": 1
+  },
+  {
+    "user_id": "user_10142",
+    "age": 53,
+    "gender": "女",
+    "interests": [
+      "音乐",
+      "美食",
+      "旅游"
+    ],
+    "preferred_brands": [
+      "百雀羚"
+    ],
+    "purchase_power": 0.53,
+    "social_media": {
+      "抖音活跃度": 64,
+      "微博关注": 4444,
+      "小红书笔记数": 88
+    },
+    "brand_id_association": 18
+  },
+  {
+    "user_id": "user_10143",
+    "age": 43,
+    "gender": "女",
+    "interests": [
+      "运动",
+      "美食",
+      "护肤"
+    ],
+    "preferred_brands": [
+      "一叶子"
+    ],
+    "purchase_power": 0.58,
+    "social_media": {
+      "抖音活跃度": 41,
+      "微博关注": null,
+      "小红书笔记数": 124
+    },
+    "brand_id_association": 17
+  },
+  {
+    "user_id": "user_10144",
+    "age": 37,
+    "gender": "女",
+    "interests": [
+      "旅游",
+      "美妆",
+      "音乐",
+      "时尚"
+    ],
+    "preferred_brands": [
+      "一叶子"
+    ],
+    "purchase_power": 0.37,
+    "social_media": {
+      "抖音活跃度": 74,
+      "微博关注": 3328,
+      "小红书笔记数": 124
+    },
+    "brand_id_association": 17
+  },
+  {
+    "user_id": "user_10145",
+    "age": 28,
+    "gender": "男",
+    "interests": [
+      "科技",
+      "美妆",
+      "运动",
+      "时尚"
+    ],
+    "preferred_brands": [
+      "玉兰油"
+    ],
+    "purchase_power": 0.72,
+    "social_media": {
+      "抖音活跃度": 13,
+      "微博关注": 1163,
+      "小红书笔记数": 132
+    },
+    "brand_id_association": 21
+  },
+  {
+    "user_id": "user_10146",
+    "age": 31,
+    "gender": "男",
+    "interests": [
+      "旅游",
+      "美妆"
+    ],
+    "preferred_brands": [
+      "自然堂"
+    ],
+    "purchase_power": 0.43,
+    "social_media": {
+      "抖音活跃度": 29,
+      "微博关注": 4541,
+      "小红书笔记数": 7
+    },
+    "brand_id_association": 5
+  },
+  {
+    "user_id": "user_10147",
+    "age": 35,
+    "gender": "男",
+    "interests": [
+      "科技",
+      "护肤",
+      "时尚",
+      "美食"
+    ],
+    "preferred_brands": [
+      "玉兰油"
+    ],
+    "purchase_power": 0.57,
+    "social_media": {
+      "抖音活跃度": 37,
+      "微博关注": 4824,
+      "小红书笔记数": 129
+    },
+    "brand_id_association": 20
+  },
+  {
+    "user_id": "user_10148",
+    "age": 43,
+    "gender": "女",
+    "interests": [
+      "旅游",
+      "科技"
+    ],
+    "preferred_brands": [
+      "韩束"
+    ],
+    "purchase_power": 0.94,
+    "social_media": {
+      "抖音活跃度": 49,
+      "微博关注": 2152,
+      "小红书笔记数": 137
+    },
+    "brand_id_association": 2
+  },
+  {
+    "user_id": "user_10149",
+    "age": 32,
+    "gender": "女",
+    "interests": [
+      "美食",
+      "时尚",
+      "科技"
+    ],
+    "preferred_brands": [
+      "美加净"
+    ],
+    "purchase_power": 0.87,
+    "social_media": {
+      "抖音活跃度": 10,
+      "微博关注": 2509,
+      "小红书笔记数": 75
+    },
+    "brand_id_association": 10
+  },
+  {
+    "user_id": "user_10150",
+    "age": 55,
+    "gender": "女",
+    "interests": [
+      "科技",
+      "美妆"
+    ],
+    "preferred_brands": [
+      "百雀羚"
+    ],
+    "purchase_power": 0.62,
+    "social_media": {
+      "抖音活跃度": 37,
+      "微博关注": 3171,
+      "小红书笔记数": 116
+    },
+    "brand_id_association": 19
+  },
+  {
+    "user_id": "user_10151",
+    "age": 19,
+    "gender": "男",
+    "interests": [
+      "科技",
+      "护肤"
+    ],
+    "preferred_brands": [
+      "完美日记"
+    ],
+    "purchase_power": 0.7,
+    "social_media": {
+      "抖音活跃度": 57,
+      "微博关注": null,
+      "小红书笔记数": 130
+    },
+    "brand_id_association": 8
+  },
+  {
+    "user_id": "user_10152",
+    "age": 32,
+    "gender": "男",
+    "interests": [
+      "运动",
+      "科技",
+      "时尚",
+      "美妆"
+    ],
+    "preferred_brands": [
+      "韩束"
+    ],
+    "purchase_power": 0.93,
+    "social_media": {
+      "抖音活跃度": 98,
+      "微博关注": 3450,
+      "小红书笔记数": 58
+    },
+    "brand_id_association": 2
+  },
+  {
+    "user_id": "user_10153",
+    "age": 46,
+    "gender": "男",
+    "interests": [
+      "美食",
+      "音乐",
+      "旅游"
+    ],
+    "preferred_brands": [
+      "自然堂"
+    ],
+    "purchase_power": 0.5,
+    "social_media": {
+      "抖音活跃度": 52,
+      "微博关注": null,
+      "小红书笔记数": 14
+    },
+    "brand_id_association": 4
+  },
+  {
+    "user_id": "user_10154",
+    "age": 41,
+    "gender": "男",
+    "interests": [
+      "音乐",
+      "美妆"
+    ],
+    "preferred_brands": [
+      "佰草集"
+    ],
+    "purchase_power": 0.86,
+    "social_media": {
+      "抖音活跃度": 27,
+      "微博关注": null,
+      "小红书笔记数": 95
+    },
+    "brand_id_association": 6
+  },
+  {
+    "user_id": "user_10155",
+    "age": 19,
+    "gender": "男",
+    "interests": [
+      "时尚",
+      "运动"
+    ],
+    "preferred_brands": [
+      "韩束"
+    ],
+    "purchase_power": 0.39,
+    "social_media": {
+      "抖音活跃度": 88,
+      "微博关注": 3662,
+      "小红书笔记数": 190
+    },
+    "brand_id_association": 3
+  },
+  {
+    "user_id": "user_10156",
+    "age": 18,
+    "gender": "男",
+    "interests": [
+      "护肤",
+      "美食"
+    ],
+    "preferred_brands": [
+      "美加净"
+    ],
+    "purchase_power": 0.59,
+    "social_media": {
+      "抖音活跃度": 75,
+      "微博关注": 2147,
+      "小红书笔记数": 161
+    },
+    "brand_id_association": 11
+  },
+  {
+    "user_id": "user_10157",
+    "age": 20,
+    "gender": "男",
+    "interests": [
+      "旅游",
+      "运动"
+    ],
+    "preferred_brands": [
+      "百雀羚"
+    ],
+    "purchase_power": 0.58,
+    "social_media": {
+      "抖音活跃度": 28,
+      "微博关注": 1195,
+      "小红书笔记数": 58
+    },
+    "brand_id_association": 18
+  },
+  {
+    "user_id": "user_10158",
+    "age": 55,
+    "gender": "女",
+    "interests": [
+      "美食",
+      "科技"
+    ],
+    "preferred_brands": [
+      "美加净"
+    ],
+    "purchase_power": 0.48,
+    "social_media": {
+      "抖音活跃度": 67,
+      "微博关注": 178,
+      "小红书笔记数": 174
+    },
+    "brand_id_association": 11
+  },
+  {
+    "user_id": "user_10159",
+    "age": 44,
+    "gender": "男",
+    "interests": [
+      "旅游",
+      "运动"
+    ],
+    "preferred_brands": [
+      "玉兰油"
+    ],
+    "purchase_power": 0.85,
+    "social_media": {
+      "抖音活跃度": 50,
+      "微博关注": 4120,
+      "小红书笔记数": 119
+    },
+    "brand_id_association": 20
+  },
+  {
+    "user_id": "user_10160",
+    "age": 30,
+    "gender": "女",
+    "interests": [
+      "音乐",
+      "运动",
+      "科技",
+      "护肤"
+    ],
+    "preferred_brands": [
+      "美加净"
+    ],
+    "purchase_power": 0.66,
+    "social_media": {
+      "抖音活跃度": 33,
+      "微博关注": 3604,
+      "小红书笔记数": 68
+    },
+    "brand_id_association": 11
+  },
+  {
+    "user_id": "user_10161",
+    "age": 48,
+    "gender": "女",
+    "interests": [
+      "护肤",
+      "科技"
+    ],
+    "preferred_brands": [
+      "完美日记"
+    ],
+    "purchase_power": 0.74,
+    "social_media": {
+      "抖音活跃度": 22,
+      "微博关注": 716,
+      "小红书笔记数": 50
+    },
+    "brand_id_association": 9
+  },
+  {
+    "user_id": "user_10162",
+    "age": 31,
+    "gender": "女",
+    "interests": [
+      "运动",
+      "旅游",
+      "音乐"
+    ],
+    "preferred_brands": [
+      "韩束"
+    ],
+    "purchase_power": 0.82,
+    "social_media": {
+      "抖音活跃度": 34,
+      "微博关注": 3002,
+      "小红书笔记数": 117
+    },
+    "brand_id_association": 3
+  },
+  {
+    "user_id": "user_10163",
+    "age": 41,
+    "gender": "男",
+    "interests": [
+      "科技",
+      "护肤",
+      "音乐"
+    ],
+    "preferred_brands": [
+      "相宜本草"
+    ],
+    "purchase_power": 0.56,
+    "social_media": {
+      "抖音活跃度": 42,
+      "微博关注": 3242,
+      "小红书笔记数": 128
+    },
+    "brand_id_association": 13
+  },
+  {
+    "user_id": "user_10164",
+    "age": 45,
+    "gender": "女",
+    "interests": [
+      "运动",
+      "科技",
+      "音乐"
+    ],
+    "preferred_brands": [
+      "大宝"
+    ],
+    "purchase_power": 0.83,
+    "social_media": {
+      "抖音活跃度": 81,
+      "微博关注": 4966,
+      "小红书笔记数": 197
+    },
+    "brand_id_association": 14
+  },
+  {
+    "user_id": "user_10165",
+    "age": 36,
+    "gender": "男",
+    "interests": [
+      "旅游",
+      "美妆"
+    ],
+    "preferred_brands": [
+      "大宝"
+    ],
+    "purchase_power": 0.66,
+    "social_media": {
+      "抖音活跃度": 83,
+      "微博关注": 2983,
+      "小红书笔记数": 13
+    },
+    "brand_id_association": 15
+  },
+  {
+    "user_id": "user_10166",
+    "age": 22,
+    "gender": "女",
+    "interests": [
+      "旅游",
+      "音乐",
+      "科技"
+    ],
+    "preferred_brands": [
+      "韩束"
+    ],
+    "purchase_power": 0.71,
+    "social_media": {
+      "抖音活跃度": 88,
+      "微博关注": 3928,
+      "小红书笔记数": 21
+    },
+    "brand_id_association": 3
+  },
+  {
+    "user_id": "user_10167",
+    "age": 49,
+    "gender": "女",
+    "interests": [
+      "护肤",
+      "美妆",
+      "时尚",
+      "运动"
+    ],
+    "preferred_brands": [
+      "自然堂"
+    ],
+    "purchase_power": 0.97,
+    "social_media": {
+      "抖音活跃度": 36,
+      "微博关注": 4823,
+      "小红书笔记数": 119
+    },
+    "brand_id_association": 4
+  },
+  {
+    "user_id": "user_10168",
+    "age": 26,
+    "gender": "男",
+    "interests": [
+      "护肤",
+      "美食"
+    ],
+    "preferred_brands": [
+      "玉兰油"
+    ],
+    "purchase_power": 0.38,
+    "social_media": {
+      "抖音活跃度": 98,
+      "微博关注": 2124,
+      "小红书笔记数": 109
+    },
+    "brand_id_association": 21
+  },
+  {
+    "user_id": "user_10169",
+    "age": 34,
+    "gender": "男",
+    "interests": [
+      "运动",
+      "护肤",
+      "美妆"
+    ],
+    "preferred_brands": [
+      "完美日记"
+    ],
+    "purchase_power": 0.31,
+    "social_media": {
+      "抖音活跃度": 84,
+      "微博关注": 2172,
+      "小红书笔记数": 94
+    },
+    "brand_id_association": 9
+  },
+  {
+    "user_id": "user_10170",
+    "age": 18,
+    "gender": "男",
+    "interests": [
+      "科技",
+      "美食",
+      "音乐"
+    ],
+    "preferred_brands": [
+      "百雀羚"
+    ],
+    "purchase_power": 0.56,
+    "social_media": {
+      "抖音活跃度": 50,
+      "微博关注": null,
+      "小红书笔记数": 63
+    },
+    "brand_id_association": 18
+  },
+  {
+    "user_id": "user_10171",
+    "age": 26,
+    "gender": "女",
+    "interests": [
+      "护肤",
+      "时尚"
+    ],
+    "preferred_brands": [
+      "完美日记"
+    ],
+    "purchase_power": 0.5,
+    "social_media": {
+      "抖音活跃度": 63,
+      "微博关注": null,
+      "小红书笔记数": 184
+    },
+    "brand_id_association": 8
+  },
+  {
+    "user_id": "user_10172",
+    "age": 39,
+    "gender": "男",
+    "interests": [
+      "护肤",
+      "美妆",
+      "旅游"
+    ],
+    "preferred_brands": [
+      "大宝"
+    ],
+    "purchase_power": 0.98,
+    "social_media": {
+      "抖音活跃度": 37,
+      "微博关注": 1993,
+      "小红书笔记数": 48
+    },
+    "brand_id_association": 15
+  },
+  {
+    "user_id": "user_10173",
+    "age": 46,
+    "gender": "男",
+    "interests": [
+      "科技",
+      "美食",
+      "时尚",
+      "旅游"
+    ],
+    "preferred_brands": [
+      "韩束"
+    ],
+    "purchase_power": 0.76,
+    "social_media": {
+      "抖音活跃度": 96,
+      "微博关注": 3183,
+      "小红书笔记数": 169
+    },
+    "brand_id_association": 2
+  },
+  {
+    "user_id": "user_10174",
+    "age": 25,
+    "gender": "男",
+    "interests": [
+      "护肤",
+      "科技",
+      "运动",
+      "美食"
+    ],
+    "preferred_brands": [
+      "大宝"
+    ],
+    "purchase_power": 0.56,
+    "social_media": {
+      "抖音活跃度": 91,
+      "微博关注": 1271,
+      "小红书笔记数": 27
+    },
+    "brand_id_association": 15
+  },
+  {
+    "user_id": "user_10175",
+    "age": 27,
+    "gender": "男",
+    "interests": [
+      "旅游",
+      "美食",
+      "音乐",
+      "时尚"
+    ],
+    "preferred_brands": [
+      "佰草集"
+    ],
+    "purchase_power": 0.52,
+    "social_media": {
+      "抖音活跃度": 35,
+      "微博关注": 1365,
+      "小红书笔记数": 154
+    },
+    "brand_id_association": 6
+  },
+  {
+    "user_id": "user_10176",
+    "age": 53,
+    "gender": "女",
+    "interests": [
+      "音乐",
+      "美食",
+      "运动",
+      "旅游"
+    ],
+    "preferred_brands": [
+      "韩束"
+    ],
+    "purchase_power": 0.37,
+    "social_media": {
+      "抖音活跃度": 28,
+      "微博关注": 3959,
+      "小红书笔记数": 6
+    },
+    "brand_id_association": 2
+  },
+  {
+    "user_id": "user_10177",
+    "age": 39,
+    "gender": "男",
+    "interests": [
+      "美食",
+      "音乐",
+      "科技"
+    ],
+    "preferred_brands": [
+      "相宜本草"
+    ],
+    "purchase_power": 0.4,
+    "social_media": {
+      "抖音活跃度": 41,
+      "微博关注": 3554,
+      "小红书笔记数": 191
+    },
+    "brand_id_association": 13
+  },
+  {
+    "user_id": "user_10178",
+    "age": 52,
+    "gender": "男",
+    "interests": [
+      "运动",
+      "科技",
+      "护肤"
+    ],
+    "preferred_brands": [
+      "韩束"
+    ],
+    "purchase_power": 0.54,
+    "social_media": {
+      "抖音活跃度": 80,
+      "微博关注": 2380,
+      "小红书笔记数": 183
+    },
+    "brand_id_association": 1
+  },
+  {
+    "user_id": "user_10179",
+    "age": 29,
+    "gender": "女",
+    "interests": [
+      "护肤",
+      "科技",
+      "音乐",
+      "美妆"
+    ],
+    "preferred_brands": [
+      "韩束"
+    ],
+    "purchase_power": 0.87,
+    "social_media": {
+      "抖音活跃度": 38,
+      "微博关注": 2215,
+      "小红书笔记数": 181
+    },
+    "brand_id_association": 3
+  },
+  {
+    "user_id": "user_10180",
+    "age": 29,
+    "gender": "女",
+    "interests": [
+      "时尚",
+      "护肤",
+      "音乐"
+    ],
+    "preferred_brands": [
+      "自然堂"
+    ],
+    "purchase_power": 0.64,
+    "social_media": {
+      "抖音活跃度": 97,
+      "微博关注": 1962,
+      "小红书笔记数": 12
+    },
+    "brand_id_association": 4
+  },
+  {
+    "user_id": "user_10181",
+    "age": 33,
+    "gender": "男",
+    "interests": [
+      "科技",
+      "时尚"
+    ],
+    "preferred_brands": [
+      "自然堂"
+    ],
+    "purchase_power": 0.85,
+    "social_media": {
+      "抖音活跃度": 81,
+      "微博关注": 3544,
+      "小红书笔记数": 159
+    },
+    "brand_id_association": 4
+  },
+  {
+    "user_id": "user_10182",
+    "age": 46,
+    "gender": "男",
+    "interests": [
+      "护肤",
+      "旅游"
+    ],
+    "preferred_brands": [
+      "百雀羚"
+    ],
+    "purchase_power": 0.91,
+    "social_media": {
+      "抖音活跃度": 93,
+      "微博关注": 3508,
+      "小红书笔记数": 60
+    },
+    "brand_id_association": 19
+  },
+  {
+    "user_id": "user_10183",
+    "age": 30,
+    "gender": "男",
+    "interests": [
+      "美食",
+      "音乐",
+      "科技"
+    ],
+    "preferred_brands": [
+      "韩束"
+    ],
+    "purchase_power": 0.95,
+    "social_media": {
+      "抖音活跃度": 78,
+      "微博关注": 4587,
+      "小红书笔记数": 166
+    },
+    "brand_id_association": 1
+  },
+  {
+    "user_id": "user_10184",
+    "age": 53,
+    "gender": "男",
+    "interests": [
+      "美妆",
+      "科技",
+      "时尚",
+      "旅游"
+    ],
+    "preferred_brands": [
+      "玉兰油"
+    ],
+    "purchase_power": 0.91,
+    "social_media": {
+      "抖音活跃度": 40,
+      "微博关注": 4290,
+      "小红书笔记数": 41
+    },
+    "brand_id_association": 21
+  },
+  {
+    "user_id": "user_10185",
+    "age": 37,
+    "gender": "女",
+    "interests": [
+      "科技",
+      "美妆",
+      "运动",
+      "旅游"
+    ],
+    "preferred_brands": [
+      "自然堂"
+    ],
+    "purchase_power": 0.75,
+    "social_media": {
+      "抖音活跃度": 78,
+      "微博关注": 291,
+      "小红书笔记数": 70
+    },
+    "brand_id_association": 5
+  },
+  {
+    "user_id": "user_10186",
+    "age": 31,
+    "gender": "女",
+    "interests": [
+      "美妆",
+      "运动"
+    ],
+    "preferred_brands": [
+      "美加净"
+    ],
+    "purchase_power": 0.64,
+    "social_media": {
+      "抖音活跃度": 40,
+      "微博关注": 3207,
+      "小红书笔记数": 110
+    },
+    "brand_id_association": 10
+  },
+  {
+    "user_id": "user_10187",
+    "age": 25,
+    "gender": "男",
+    "interests": [
+      "护肤",
+      "音乐",
+      "美妆",
+      "时尚"
+    ],
+    "preferred_brands": [
+      "一叶子"
+    ],
+    "purchase_power": 0.45,
+    "social_media": {
+      "抖音活跃度": 29,
+      "微博关注": null,
+      "小红书笔记数": 65
+    },
+    "brand_id_association": 16
+  },
+  {
+    "user_id": "user_10188",
+    "age": 35,
+    "gender": "女",
+    "interests": [
+      "美食",
+      "美妆",
+      "旅游"
+    ],
+    "preferred_brands": [
+      "韩束"
+    ],
+    "purchase_power": 0.67,
+    "social_media": {
+      "抖音活跃度": 85,
+      "微博关注": 277,
+      "小红书笔记数": 120
+    },
+    "brand_id_association": 1
+  },
+  {
+    "user_id": "user_10189",
+    "age": 35,
+    "gender": "男",
+    "interests": [
+      "音乐",
+      "美食"
+    ],
+    "preferred_brands": [
+      "大宝"
+    ],
+    "purchase_power": 0.66,
+    "social_media": {
+      "抖音活跃度": 26,
+      "微博关注": null,
+      "小红书笔记数": 162
+    },
+    "brand_id_association": 14
+  },
+  {
+    "user_id": "user_10190",
+    "age": 22,
+    "gender": "男",
+    "interests": [
+      "美妆",
+      "时尚",
+      "音乐",
+      "护肤"
+    ],
+    "preferred_brands": [
+      "自然堂"
+    ],
+    "purchase_power": 0.99,
+    "social_media": {
+      "抖音活跃度": 39,
+      "微博关注": 4757,
+      "小红书笔记数": 70
+    },
+    "brand_id_association": 4
+  },
+  {
+    "user_id": "user_10191",
+    "age": 30,
+    "gender": "女",
+    "interests": [
+      "科技",
+      "护肤",
+      "音乐",
+      "美妆"
+    ],
+    "preferred_brands": [
+      "美加净"
+    ],
+    "purchase_power": 0.39,
+    "social_media": {
+      "抖音活跃度": 29,
+      "微博关注": null,
+      "小红书笔记数": 52
+    },
+    "brand_id_association": 11
+  },
+  {
+    "user_id": "user_10192",
+    "age": 52,
+    "gender": "女",
+    "interests": [
+      "科技",
+      "美食"
+    ],
+    "preferred_brands": [
+      "韩束"
+    ],
+    "purchase_power": 0.44,
+    "social_media": {
+      "抖音活跃度": 38,
+      "微博关注": 1661,
+      "小红书笔记数": 55
+    },
+    "brand_id_association": 1
+  },
+  {
+    "user_id": "user_10193",
+    "age": 34,
+    "gender": "男",
+    "interests": [
+      "美妆",
+      "美食",
+      "音乐",
+      "护肤"
+    ],
+    "preferred_brands": [
+      "一叶子"
+    ],
+    "purchase_power": 0.84,
+    "social_media": {
+      "抖音活跃度": 78,
+      "微博关注": null,
+      "小红书笔记数": 169
+    },
+    "brand_id_association": 16
+  },
+  {
+    "user_id": "user_10194",
+    "age": 44,
+    "gender": "男",
+    "interests": [
+      "科技",
+      "旅游",
+      "音乐"
+    ],
+    "preferred_brands": [
+      "百雀羚"
+    ],
+    "purchase_power": 0.95,
+    "social_media": {
+      "抖音活跃度": 56,
+      "微博关注": null,
+      "小红书笔记数": 14
+    },
+    "brand_id_association": 19
+  },
+  {
+    "user_id": "user_10195",
+    "age": 52,
+    "gender": "男",
+    "interests": [
+      "时尚",
+      "音乐",
+      "运动",
+      "旅游"
+    ],
+    "preferred_brands": [
+      "佰草集"
+    ],
+    "purchase_power": 0.44,
+    "social_media": {
+      "抖音活跃度": 80,
+      "微博关注": 2250,
+      "小红书笔记数": 200
+    },
+    "brand_id_association": 7
+  },
+  {
+    "user_id": "user_10196",
+    "age": 37,
+    "gender": "女",
+    "interests": [
+      "时尚",
+      "音乐"
+    ],
+    "preferred_brands": [
+      "韩束"
+    ],
+    "purchase_power": 0.65,
+    "social_media": {
+      "抖音活跃度": 62,
+      "微博关注": null,
+      "小红书笔记数": 25
+    },
+    "brand_id_association": 3
+  },
+  {
+    "user_id": "user_10197",
+    "age": 38,
+    "gender": "男",
+    "interests": [
+      "护肤",
+      "音乐"
+    ],
+    "preferred_brands": [
+      "一叶子"
+    ],
+    "purchase_power": 0.7,
+    "social_media": {
+      "抖音活跃度": 39,
+      "微博关注": 2598,
+      "小红书笔记数": 54
+    },
+    "brand_id_association": 16
+  },
+  {
+    "user_id": "user_10198",
+    "age": 54,
+    "gender": "男",
+    "interests": [
+      "运动",
+      "美妆",
+      "科技"
+    ],
+    "preferred_brands": [
+      "韩束"
+    ],
+    "purchase_power": 0.77,
+    "social_media": {
+      "抖音活跃度": 71,
+      "微博关注": 1349,
+      "小红书笔记数": 26
+    },
+    "brand_id_association": 3
+  },
+  {
+    "user_id": "user_10199",
+    "age": 47,
+    "gender": "女",
+    "interests": [
+      "美妆",
+      "护肤"
+    ],
+    "preferred_brands": [
+      "完美日记"
+    ],
+    "purchase_power": 0.81,
+    "social_media": {
+      "抖音活跃度": 99,
+      "微博关注": 4130,
+      "小红书笔记数": 66
+    },
+    "brand_id_association": 9
+  },
+  {
+    "user_id": "user_10200",
+    "age": 47,
+    "gender": "男",
+    "interests": [
+      "美妆",
+      "运动",
+      "音乐"
+    ],
+    "preferred_brands": [
+      "一叶子"
+    ],
+    "purchase_power": 0.93,
+    "social_media": {
+      "抖音活跃度": 42,
+      "微博关注": 4365,
+      "小红书笔记数": 149
+    },
+    "brand_id_association": 16
+  },
+  {
+    "user_id": "user_10201",
+    "age": 40,
+    "gender": "男",
+    "interests": [
+      "旅游",
+      "美妆"
+    ],
+    "preferred_brands": [
+      "完美日记"
+    ],
+    "purchase_power": 0.35,
+    "social_media": {
+      "抖音活跃度": 69,
+      "微博关注": 3481,
+      "小红书笔记数": 168
+    },
+    "brand_id_association": 8
+  },
+  {
+    "user_id": "user_10202",
+    "age": 24,
+    "gender": "女",
+    "interests": [
+      "科技",
+      "护肤"
+    ],
+    "preferred_brands": [
+      "一叶子"
+    ],
+    "purchase_power": 0.65,
+    "social_media": {
+      "抖音活跃度": 42,
+      "微博关注": 407,
+      "小红书笔记数": 113
+    },
+    "brand_id_association": 16
+  },
+  {
+    "user_id": "user_10203",
+    "age": 38,
+    "gender": "女",
+    "interests": [
+      "科技",
+      "运动",
+      "护肤"
+    ],
+    "preferred_brands": [
+      "百雀羚"
+    ],
+    "purchase_power": 0.64,
+    "social_media": {
+      "抖音活跃度": 55,
+      "微博关注": null,
+      "小红书笔记数": 99
+    },
+    "brand_id_association": 18
+  },
+  {
+    "user_id": "user_10204",
+    "age": 33,
+    "gender": "女",
+    "interests": [
+      "运动",
+      "旅游",
+      "音乐"
+    ],
+    "preferred_brands": [
+      "大宝"
+    ],
+    "purchase_power": 0.9,
+    "social_media": {
+      "抖音活跃度": 89,
+      "微博关注": null,
+      "小红书笔记数": 189
+    },
+    "brand_id_association": 15
+  },
+  {
+    "user_id": "user_10205",
+    "age": 20,
+    "gender": "女",
+    "interests": [
+      "美妆",
+      "旅游",
+      "运动"
+    ],
+    "preferred_brands": [
+      "自然堂"
+    ],
+    "purchase_power": 0.89,
+    "social_media": {
+      "抖音活跃度": 78,
+      "微博关注": 2739,
+      "小红书笔记数": 109
+    },
+    "brand_id_association": 4
+  },
+  {
+    "user_id": "user_10206",
+    "age": 50,
+    "gender": "男",
+    "interests": [
+      "时尚",
+      "护肤",
+      "运动",
+      "音乐"
+    ],
+    "preferred_brands": [
+      "大宝"
+    ],
+    "purchase_power": 0.47,
+    "social_media": {
+      "抖音活跃度": 92,
+      "微博关注": 1263,
+      "小红书笔记数": 130
+    },
+    "brand_id_association": 14
+  },
+  {
+    "user_id": "user_10207",
+    "age": 18,
+    "gender": "女",
+    "interests": [
+      "科技",
+      "护肤",
+      "美妆",
+      "时尚"
+    ],
+    "preferred_brands": [
+      "自然堂"
+    ],
+    "purchase_power": 0.79,
+    "social_media": {
+      "抖音活跃度": 48,
+      "微博关注": null,
+      "小红书笔记数": 69
+    },
+    "brand_id_association": 5
+  },
+  {
+    "user_id": "user_10208",
+    "age": 52,
+    "gender": "女",
+    "interests": [
+      "科技",
+      "时尚",
+      "美食"
+    ],
+    "preferred_brands": [
+      "相宜本草"
+    ],
+    "purchase_power": 0.84,
+    "social_media": {
+      "抖音活跃度": 74,
+      "微博关注": 3603,
+      "小红书笔记数": 64
+    },
+    "brand_id_association": 13
+  },
+  {
+    "user_id": "user_10209",
+    "age": 25,
+    "gender": "女",
+    "interests": [
+      "科技",
+      "美妆"
+    ],
+    "preferred_brands": [
+      "玉兰油"
+    ],
+    "purchase_power": 0.51,
+    "social_media": {
+      "抖音活跃度": 13,
+      "微博关注": 368,
+      "小红书笔记数": 142
+    },
+    "brand_id_association": 21
+  },
+  {
+    "user_id": "user_10210",
+    "age": 19,
+    "gender": "男",
+    "interests": [
+      "运动",
+      "时尚",
+      "音乐",
+      "护肤"
+    ],
+    "preferred_brands": [
+      "大宝"
+    ],
+    "purchase_power": 0.81,
+    "social_media": {
+      "抖音活跃度": 59,
+      "微博关注": 389,
+      "小红书笔记数": 145
+    },
+    "brand_id_association": 14
+  },
+  {
+    "user_id": "user_10211",
+    "age": 28,
+    "gender": "女",
+    "interests": [
+      "时尚",
+      "护肤",
+      "美妆"
+    ],
+    "preferred_brands": [
+      "一叶子"
+    ],
+    "purchase_power": 0.94,
+    "social_media": {
+      "抖音活跃度": 16,
+      "微博关注": null,
+      "小红书笔记数": 85
+    },
+    "brand_id_association": 16
+  },
+  {
+    "user_id": "user_10212",
+    "age": 46,
+    "gender": "男",
+    "interests": [
+      "旅游",
+      "美妆",
+      "美食"
+    ],
+    "preferred_brands": [
+      "自然堂"
+    ],
+    "purchase_power": 0.94,
+    "social_media": {
+      "抖音活跃度": 72,
+      "微博关注": 1356,
+      "小红书笔记数": 173
+    },
+    "brand_id_association": 4
+  },
+  {
+    "user_id": "user_10213",
+    "age": 49,
+    "gender": "男",
+    "interests": [
+      "护肤",
+      "时尚"
+    ],
+    "preferred_brands": [
+      "自然堂"
+    ],
+    "purchase_power": 0.64,
+    "social_media": {
+      "抖音活跃度": 49,
+      "微博关注": 3149,
+      "小红书笔记数": 77
+    },
+    "brand_id_association": 5
+  },
+  {
+    "user_id": "user_10214",
+    "age": 34,
+    "gender": "女",
+    "interests": [
+      "美食",
+      "运动",
+      "科技",
+      "护肤"
+    ],
+    "preferred_brands": [
+      "一叶子"
+    ],
+    "purchase_power": 0.79,
+    "social_media": {
+      "抖音活跃度": 66,
+      "微博关注": null,
+      "小红书笔记数": 197
+    },
+    "brand_id_association": 16
+  },
+  {
+    "user_id": "user_10215",
+    "age": 27,
+    "gender": "男",
+    "interests": [
+      "美食",
+      "护肤",
+      "音乐",
+      "时尚"
+    ],
+    "preferred_brands": [
+      "一叶子"
+    ],
+    "purchase_power": 0.43,
+    "social_media": {
+      "抖音活跃度": 78,
+      "微博关注": 2501,
+      "小红书笔记数": 161
+    },
+    "brand_id_association": 16
+  },
+  {
+    "user_id": "user_10216",
+    "age": 23,
+    "gender": "女",
+    "interests": [
+      "科技",
+      "美食"
+    ],
+    "preferred_brands": [
+      "一叶子"
+    ],
+    "purchase_power": 0.59,
+    "social_media": {
+      "抖音活跃度": 52,
+      "微博关注": 1486,
+      "小红书笔记数": 132
+    },
+    "brand_id_association": 17
+  },
+  {
+    "user_id": "user_10217",
+    "age": 45,
+    "gender": "男",
+    "interests": [
+      "旅游",
+      "时尚",
+      "运动",
+      "美妆"
+    ],
+    "preferred_brands": [
+      "韩束"
+    ],
+    "purchase_power": 0.69,
+    "social_media": {
+      "抖音活跃度": 11,
+      "微博关注": 1884,
+      "小红书笔记数": 13
+    },
+    "brand_id_association": 1
+  },
+  {
+    "user_id": "user_10218",
+    "age": 32,
+    "gender": "男",
+    "interests": [
+      "时尚",
+      "音乐"
+    ],
+    "preferred_brands": [
+      "百雀羚"
+    ],
+    "purchase_power": 0.43,
+    "social_media": {
+      "抖音活跃度": 17,
+      "微博关注": null,
+      "小红书笔记数": 60
+    },
+    "brand_id_association": 19
+  },
+  {
+    "user_id": "user_10219",
+    "age": 28,
+    "gender": "男",
+    "interests": [
+      "美妆",
+      "美食",
+      "旅游",
+      "护肤"
+    ],
+    "preferred_brands": [
+      "一叶子"
+    ],
+    "purchase_power": 0.66,
+    "social_media": {
+      "抖音活跃度": 88,
+      "微博关注": null,
+      "小红书笔记数": 33
+    },
+    "brand_id_association": 16
+  },
+  {
+    "user_id": "user_10220",
+    "age": 31,
+    "gender": "男",
+    "interests": [
+      "时尚",
+      "科技"
+    ],
+    "preferred_brands": [
+      "自然堂"
+    ],
+    "purchase_power": 0.77,
+    "social_media": {
+      "抖音活跃度": 79,
+      "微博关注": 1314,
+      "小红书笔记数": 88
+    },
+    "brand_id_association": 5
+  },
+  {
+    "user_id": "user_10221",
+    "age": 45,
+    "gender": "女",
+    "interests": [
+      "旅游",
+      "科技",
+      "护肤"
+    ],
+    "preferred_brands": [
+      "百雀羚"
+    ],
+    "purchase_power": 0.91,
+    "social_media": {
+      "抖音活跃度": 13,
+      "微博关注": null,
+      "小红书笔记数": 25
+    },
+    "brand_id_association": 18
+  },
+  {
+    "user_id": "user_10222",
+    "age": 45,
+    "gender": "女",
+    "interests": [
+      "美妆",
+      "美食"
+    ],
+    "preferred_brands": [
+      "相宜本草"
+    ],
+    "purchase_power": 0.75,
+    "social_media": {
+      "抖音活跃度": 46,
+      "微博关注": null,
+      "小红书笔记数": 174
+    },
+    "brand_id_association": 12
+  },
+  {
+    "user_id": "user_10223",
+    "age": 26,
+    "gender": "女",
+    "interests": [
+      "科技",
+      "美食"
+    ],
+    "preferred_brands": [
+      "美加净"
+    ],
+    "purchase_power": 0.94,
+    "social_media": {
+      "抖音活跃度": 30,
+      "微博关注": 4438,
+      "小红书笔记数": 194
+    },
+    "brand_id_association": 11
+  },
+  {
+    "user_id": "user_10224",
+    "age": 24,
+    "gender": "男",
+    "interests": [
+      "时尚",
+      "旅游",
+      "运动"
+    ],
+    "preferred_brands": [
+      "相宜本草"
+    ],
+    "purchase_power": 0.77,
+    "social_media": {
+      "抖音活跃度": 35,
+      "微博关注": 2714,
+      "小红书笔记数": 47
+    },
+    "brand_id_association": 13
+  },
+  {
+    "user_id": "user_10225",
+    "age": 47,
+    "gender": "女",
+    "interests": [
+      "音乐",
+      "科技"
+    ],
+    "preferred_brands": [
+      "自然堂"
+    ],
+    "purchase_power": 0.36,
+    "social_media": {
+      "抖音活跃度": 27,
+      "微博关注": 4869,
+      "小红书笔记数": 156
+    },
+    "brand_id_association": 5
+  },
+  {
+    "user_id": "user_10226",
+    "age": 42,
+    "gender": "男",
+    "interests": [
+      "护肤",
+      "时尚",
+      "美妆",
+      "旅游"
+    ],
+    "preferred_brands": [
+      "韩束"
+    ],
+    "purchase_power": 0.48,
+    "social_media": {
+      "抖音活跃度": 58,
+      "微博关注": 1885,
+      "小红书笔记数": 9
+    },
+    "brand_id_association": 2
+  },
+  {
+    "user_id": "user_10227",
+    "age": 33,
+    "gender": "男",
+    "interests": [
+      "护肤",
+      "旅游",
+      "运动",
+      "美食"
+    ],
+    "preferred_brands": [
+      "自然堂"
+    ],
+    "purchase_power": 0.62,
+    "social_media": {
+      "抖音活跃度": 42,
+      "微博关注": 1273,
+      "小红书笔记数": 180
+    },
+    "brand_id_association": 5
+  },
+  {
+    "user_id": "user_10228",
+    "age": 34,
+    "gender": "女",
+    "interests": [
+      "科技",
+      "运动"
+    ],
+    "preferred_brands": [
+      "一叶子"
+    ],
+    "purchase_power": 0.9,
+    "social_media": {
+      "抖音活跃度": 61,
+      "微博关注": 3937,
+      "小红书笔记数": 106
+    },
+    "brand_id_association": 17
+  },
+  {
+    "user_id": "user_10229",
+    "age": 52,
+    "gender": "女",
+    "interests": [
+      "运动",
+      "美妆",
+      "护肤"
+    ],
+    "preferred_brands": [
+      "百雀羚"
+    ],
+    "purchase_power": 0.74,
+    "social_media": {
+      "抖音活跃度": 50,
+      "微博关注": 4653,
+      "小红书笔记数": 32
+    },
+    "brand_id_association": 19
+  },
+  {
+    "user_id": "user_10230",
+    "age": 21,
+    "gender": "男",
+    "interests": [
+      "音乐",
+      "运动",
+      "美妆"
+    ],
+    "preferred_brands": [
+      "大宝"
+    ],
+    "purchase_power": 0.65,
+    "social_media": {
+      "抖音活跃度": 61,
+      "微博关注": 4637,
+      "小红书笔记数": 169
+    },
+    "brand_id_association": 15
+  },
+  {
+    "user_id": "user_10231",
+    "age": 20,
+    "gender": "女",
+    "interests": [
+      "运动",
+      "科技",
+      "音乐",
+      "美妆"
+    ],
+    "preferred_brands": [
+      "大宝"
+    ],
+    "purchase_power": 0.97,
+    "social_media": {
+      "抖音活跃度": 29,
+      "微博关注": 4282,
+      "小红书笔记数": 195
+    },
+    "brand_id_association": 15
+  },
+  {
+    "user_id": "user_10232",
+    "age": 51,
+    "gender": "男",
+    "interests": [
+      "时尚",
+      "音乐",
+      "科技"
+    ],
+    "preferred_brands": [
+      "百雀羚"
+    ],
+    "purchase_power": 0.64,
+    "social_media": {
+      "抖音活跃度": 76,
+      "微博关注": 547,
+      "小红书笔记数": 184
+    },
+    "brand_id_association": 18
+  },
+  {
+    "user_id": "user_10233",
+    "age": 43,
+    "gender": "女",
+    "interests": [
+      "美食",
+      "音乐",
+      "时尚",
+      "科技"
+    ],
+    "preferred_brands": [
+      "一叶子"
+    ],
+    "purchase_power": 0.97,
+    "social_media": {
+      "抖音活跃度": 99,
+      "微博关注": 3775,
+      "小红书笔记数": 53
+    },
+    "brand_id_association": 16
+  },
+  {
+    "user_id": "user_10234",
+    "age": 43,
+    "gender": "男",
+    "interests": [
+      "音乐",
+      "旅游",
+      "美食",
+      "时尚"
+    ],
+    "preferred_brands": [
+      "大宝"
+    ],
+    "purchase_power": 0.85,
+    "social_media": {
+      "抖音活跃度": 99,
+      "微博关注": 2373,
+      "小红书笔记数": 123
+    },
+    "brand_id_association": 15
+  },
+  {
+    "user_id": "user_10235",
+    "age": 38,
+    "gender": "女",
+    "interests": [
+      "美妆",
+      "运动",
+      "科技",
+      "美食"
+    ],
+    "preferred_brands": [
+      "完美日记"
+    ],
+    "purchase_power": 0.96,
+    "social_media": {
+      "抖音活跃度": 10,
+      "微博关注": 4251,
+      "小红书笔记数": 172
+    },
+    "brand_id_association": 8
+  },
+  {
+    "user_id": "user_10236",
+    "age": 29,
+    "gender": "男",
+    "interests": [
+      "美妆",
+      "美食",
+      "运动",
+      "音乐"
+    ],
+    "preferred_brands": [
+      "玉兰油"
+    ],
+    "purchase_power": 0.67,
+    "social_media": {
+      "抖音活跃度": 78,
+      "微博关注": 3823,
+      "小红书笔记数": 67
+    },
+    "brand_id_association": 21
+  },
+  {
+    "user_id": "user_10237",
+    "age": 41,
+    "gender": "男",
+    "interests": [
+      "护肤",
+      "美妆"
+    ],
+    "preferred_brands": [
+      "韩束"
+    ],
+    "purchase_power": 0.36,
+    "social_media": {
+      "抖音活跃度": 75,
+      "微博关注": 3719,
+      "小红书笔记数": 23
+    },
+    "brand_id_association": 2
+  },
+  {
+    "user_id": "user_10238",
+    "age": 39,
+    "gender": "女",
+    "interests": [
+      "运动",
+      "科技",
+      "美妆"
+    ],
+    "preferred_brands": [
+      "相宜本草"
+    ],
+    "purchase_power": 0.77,
+    "social_media": {
+      "抖音活跃度": 74,
+      "微博关注": 3437,
+      "小红书笔记数": 123
+    },
+    "brand_id_association": 12
+  },
+  {
+    "user_id": "user_10239",
+    "age": 22,
+    "gender": "男",
+    "interests": [
+      "音乐",
+      "时尚"
+    ],
+    "preferred_brands": [
+      "韩束"
+    ],
+    "purchase_power": 0.87,
+    "social_media": {
+      "抖音活跃度": 53,
+      "微博关注": 1699,
+      "小红书笔记数": 114
+    },
+    "brand_id_association": 2
+  },
+  {
+    "user_id": "user_10240",
+    "age": 44,
+    "gender": "男",
+    "interests": [
+      "美妆",
+      "运动",
+      "科技",
+      "护肤"
+    ],
+    "preferred_brands": [
+      "美加净"
+    ],
+    "purchase_power": 0.84,
+    "social_media": {
+      "抖音活跃度": 54,
+      "微博关注": 792,
+      "小红书笔记数": 12
+    },
+    "brand_id_association": 10
+  },
+  {
+    "user_id": "user_10241",
+    "age": 30,
+    "gender": "男",
+    "interests": [
+      "美妆",
+      "旅游"
+    ],
+    "preferred_brands": [
+      "相宜本草"
+    ],
+    "purchase_power": 0.46,
+    "social_media": {
+      "抖音活跃度": 19,
+      "微博关注": 2623,
+      "小红书笔记数": 59
+    },
+    "brand_id_association": 12
+  },
+  {
+    "user_id": "user_10242",
+    "age": 22,
+    "gender": "男",
+    "interests": [
+      "科技",
+      "美妆",
+      "旅游"
+    ],
+    "preferred_brands": [
+      "百雀羚"
+    ],
+    "purchase_power": 0.82,
+    "social_media": {
+      "抖音活跃度": 13,
+      "微博关注": 1091,
+      "小红书笔记数": 147
+    },
+    "brand_id_association": 19
+  },
+  {
+    "user_id": "user_10243",
+    "age": 50,
+    "gender": "女",
+    "interests": [
+      "护肤",
+      "美妆",
+      "旅游",
+      "美食"
+    ],
+    "preferred_brands": [
+      "韩束"
+    ],
+    "purchase_power": 0.86,
+    "social_media": {
+      "抖音活跃度": 88,
+      "微博关注": 3110,
+      "小红书笔记数": 196
+    },
+    "brand_id_association": 2
+  },
+  {
+    "user_id": "user_10244",
+    "age": 35,
+    "gender": "男",
+    "interests": [
+      "美食",
+      "时尚"
+    ],
+    "preferred_brands": [
+      "韩束"
+    ],
+    "purchase_power": 0.49,
+    "social_media": {
+      "抖音活跃度": 44,
+      "微博关注": 1736,
+      "小红书笔记数": 104
+    },
+    "brand_id_association": 2
+  },
+  {
+    "user_id": "user_10245",
+    "age": 20,
+    "gender": "女",
+    "interests": [
+      "旅游",
+      "音乐",
+      "时尚"
+    ],
+    "preferred_brands": [
+      "佰草集"
+    ],
+    "purchase_power": 0.81,
+    "social_media": {
+      "抖音活跃度": 64,
+      "微博关注": 874,
+      "小红书笔记数": 130
+    },
+    "brand_id_association": 7
+  },
+  {
+    "user_id": "user_10246",
+    "age": 21,
+    "gender": "男",
+    "interests": [
+      "音乐",
+      "美妆"
+    ],
+    "preferred_brands": [
+      "玉兰油"
+    ],
+    "purchase_power": 0.74,
+    "social_media": {
+      "抖音活跃度": 81,
+      "微博关注": 1688,
+      "小红书笔记数": 145
+    },
+    "brand_id_association": 20
+  },
+  {
+    "user_id": "user_10247",
+    "age": 40,
+    "gender": "男",
+    "interests": [
+      "科技",
+      "音乐"
+    ],
+    "preferred_brands": [
+      "韩束"
+    ],
+    "purchase_power": 0.92,
+    "social_media": {
+      "抖音活跃度": 35,
+      "微博关注": 3340,
+      "小红书笔记数": 26
+    },
+    "brand_id_association": 2
+  },
+  {
+    "user_id": "user_10248",
+    "age": 19,
+    "gender": "男",
+    "interests": [
+      "美妆",
+      "运动",
+      "美食",
+      "旅游"
+    ],
+    "preferred_brands": [
+      "百雀羚"
+    ],
+    "purchase_power": 0.56,
+    "social_media": {
+      "抖音活跃度": 68,
+      "微博关注": 3681,
+      "小红书笔记数": 18
+    },
+    "brand_id_association": 19
+  },
+  {
+    "user_id": "user_10249",
+    "age": 39,
+    "gender": "女",
+    "interests": [
+      "美食",
+      "旅游",
+      "时尚",
+      "美妆"
+    ],
+    "preferred_brands": [
+      "玉兰油"
+    ],
+    "purchase_power": 0.77,
+    "social_media": {
+      "抖音活跃度": 19,
+      "微博关注": 2612,
+      "小红书笔记数": 18
+    },
+    "brand_id_association": 21
+  }
+]

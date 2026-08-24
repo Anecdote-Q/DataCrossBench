@@ -1,0 +1,22 @@
+{
+    "goal": "比较南方中证申万有色金属ETF与同类产品的年化超额收益，找出其优势所在。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 铝价在2024年年初达到19000元/吨，随后在4月15日升破20000元/吨，反映出铝市场的强劲需求和价格上涨趋势。",
+        "Comparison: 2020年中证申万有色金属指数年化收益率为34.77%，显著跑赢市场宽基指数。",
+        "Extreme: 伦敦金现货突破2300美元/盎司，累计涨幅达到15.5%，成为市场关注的焦点。",
+        "Attribution: 铝价上涨与新能源汽车轻量化需求增加密切相关，反映出市场对铝的强劲需求。"
+    ],
+    "summary": "本报告分析了南方中证申万有色金属ETF的投资价值及其在有色金属市场中的表现，强调了美联储降息预期对市场的影响以及铝和铜的供需状况。",
+    "flag_id": "flag-98",
+    "classifier": "Fund Analysis",
+    "classifier_cn": "基金分析",
+    "input_files": [
+        "output/aluminum_price_trend.csv",
+        "output/commodity_price_extreme.csv",
+        "output/etf_performance_comparison.json",
+        "output/investment_background.txt",
+        "output/market_attribution.db",
+        "output/metal_index_performance.db"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "goal": "比较联影医疗与迈瑞医疗在AI领域的市场策略及其对各自业务发展的影响。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 随着AI技术的快速发展，医疗终端应用步入效率革命的新时代，推动了医疗服务的转型。",
+        "Comparison: AI在乳腺癌早期筛查的阳性预测值（PPV）在初期试点阶段从19.2%提高到21.1%，而扩展试点阶段从19.7%提高到21.0%，显示出AI技术的有效性。",
+        "Extreme: 天智航-U的PE为-49.5，显示出其在市场中的挑战与压力。",
+        "Attribution: 由于高税收，销售额下降，影响了医疗设备公司的市场表现。"
+    ],
+    "summary": "本报告探讨了AI技术在医疗行业的多种应用场景及其面临的挑战，强调了技术进步与市场需求之间的关系。",
+    "flag_id": "flag-68",
+    "classifier": "AI Healthcare",
+    "classifier_cn": "AI 医疗健康",
+    "input_files": [
+        "output/background.txt",
+        "output/dimension_data.db",
+        "output/sales_data.png",
+        "output/user_profiles.json"
+    ]
+}

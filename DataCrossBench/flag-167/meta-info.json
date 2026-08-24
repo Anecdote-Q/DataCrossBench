@@ -1,0 +1,20 @@
+{
+    "goal": "探讨香港互联网发展与经济水平和信息化建设之间的关系。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 香港的宽带上网计算机数占家庭上网计算机的比例为84%，而澳门的宽带上网计算机数占比为30%。",
+        "Comparison: 香港的网民平均每周上网时间为11.5小时，澳门的网民上网时间未提供具体数据，显示出香港网民的活跃程度。",
+        "Extreme: 香港的网民人数（288万）与澳门（16.2万）相比，显示出两地在互联网发展上的显著差距。",
+        "Attribution: 澳门的互联网发展受到家庭上网设备普及率的限制，影响了整体的网民增长。"
+    ],
+    "summary": "本报告对香港和澳门的互联网发展状况进行了对比，揭示了两地在用户行为、上网方式及普及率方面的差异。",
+    "flag_id": "flag-167",
+    "classifier": "Internet Dev.",
+    "classifier_cn": "互联网发展",
+    "input_files": [
+        "output/background.txt",
+        "output/dimension_data.db",
+        "output/internet_usage_stats.csv",
+        "output/user_profiles.json"
+    ]
+}

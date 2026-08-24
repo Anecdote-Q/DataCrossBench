@@ -1,0 +1,5298 @@
+[
+  {
+    "fund_id": 1,
+    "manager": {
+      "name": "刘浩",
+      "experience_years": 7
+    },
+    "historical_rankings": [
+      {
+        "year": 2018,
+        "ranking": 44
+      },
+      {
+        "year": 2019,
+        "ranking": 31
+      },
+      {
+        "year": 2020,
+        "ranking": 43
+      },
+      {
+        "year": 2021,
+        "ranking": 77
+      },
+      {
+        "year": 2022,
+        "ranking": 48
+      },
+      {
+        "year": 2023,
+        "ranking": 82
+      }
+    ],
+    "top_holdings": [
+      {
+        "stock_name": "菊风公司信息有限公司",
+        "holding_percent": 4.2
+      },
+      {
+        "stock_name": "黄石金承科技有限公司",
+        "holding_percent": 1.48
+      },
+      {
+        "stock_name": "万迅电脑信息有限公司",
+        "holding_percent": 1.59
+      },
+      {
+        "stock_name": "银嘉传媒有限公司",
+        "holding_percent": 3.39
+      },
+      {
+        "stock_name": "华泰通安网络有限公司",
+        "holding_percent": 1.74
+      }
+    ]
+  },
+  {
+    "fund_id": 2,
+    "manager": {
+      "name": "李淑珍",
+      "experience_years": 12
+    },
+    "historical_rankings": [
+      {
+        "year": 2018,
+        "ranking": 13
+      },
+      {
+        "year": 2019,
+        "ranking": 44
+      },
+      {
+        "year": 2020,
+        "ranking": 47
+      },
+      {
+        "year": 2021,
+        "ranking": 64
+      },
+      {
+        "year": 2022,
+        "ranking": 91
+      },
+      {
+        "year": 2023,
+        "ranking": 53
+      }
+    ],
+    "top_holdings": [
+      {
+        "stock_name": "迪摩网络有限公司",
+        "holding_percent": 2.57
+      },
+      {
+        "stock_name": "信诚致远传媒有限公司",
+        "holding_percent": 4.51
+      },
+      {
+        "stock_name": "易动力信息有限公司",
+        "holding_percent": 0.93
+      },
+      {
+        "stock_name": "浦华众城信息有限公司",
+        "holding_percent": 4.95
+      }
+    ]
+  },
+  {
+    "fund_id": 3,
+    "manager": {
+      "name": "黄建平",
+      "experience_years": 4
+    },
+    "historical_rankings": [
+      {
+        "year": 2018,
+        "ranking": 87
+      },
+      {
+        "year": 2019,
+        "ranking": 58
+      },
+      {
+        "year": 2020,
+        "ranking": 52
+      },
+      {
+        "year": 2021,
+        "ranking": 29
+      },
+      {
+        "year": 2022,
+        "ranking": 35
+      },
+      {
+        "year": 2023,
+        "ranking": 75
+      }
+    ],
+    "top_holdings": [
+      {
+        "stock_name": "彩虹科技有限公司",
+        "holding_percent": 0.59
+      },
+      {
+        "stock_name": "商软冠联传媒有限公司",
+        "holding_percent": 3.22
+      },
+      {
+        "stock_name": "泰麒麟网络有限公司",
+        "holding_percent": 3.52
+      },
+      {
+        "stock_name": "联通时科传媒有限公司",
+        "holding_percent": 3.21
+      },
+      {
+        "stock_name": "浙大万朋科技有限公司",
+        "holding_percent": 0.82
+      },
+      {
+        "stock_name": "国讯传媒有限公司",
+        "holding_percent": 0.81
+      }
+    ]
+  },
+  {
+    "fund_id": 4,
+    "manager": {
+      "name": "黄秀云",
+      "experience_years": 6
+    },
+    "historical_rankings": [
+      {
+        "year": 2018,
+        "ranking": 96
+      },
+      {
+        "year": 2019,
+        "ranking": 71
+      },
+      {
+        "year": 2020,
+        "ranking": 92
+      },
+      {
+        "year": 2021,
+        "ranking": 44
+      },
+      {
+        "year": 2022,
+        "ranking": 82
+      },
+      {
+        "year": 2023,
+        "ranking": 60
+      }
+    ],
+    "top_holdings": [
+      {
+        "stock_name": "东方峻景网络有限公司",
+        "holding_percent": 2.27
+      },
+      {
+        "stock_name": "超艺信息有限公司",
+        "holding_percent": 2.37
+      },
+      {
+        "stock_name": "商软冠联网络有限公司",
+        "holding_percent": 2.53
+      },
+      {
+        "stock_name": "新格林耐特信息有限公司",
+        "holding_percent": 4.22
+      },
+      {
+        "stock_name": "九方信息有限公司",
+        "holding_percent": 0.94
+      }
+    ]
+  },
+  {
+    "fund_id": 5,
+    "manager": {
+      "name": "陈娜",
+      "experience_years": 3
+    },
+    "historical_rankings": [
+      {
+        "year": 2018,
+        "ranking": 67
+      },
+      {
+        "year": 2019,
+        "ranking": 91
+      },
+      {
+        "year": 2020,
+        "ranking": 18
+      },
+      {
+        "year": 2021,
+        "ranking": 50
+      },
+      {
+        "year": 2022,
+        "ranking": 30
+      },
+      {
+        "year": 2023,
+        "ranking": 66
+      }
+    ],
+    "top_holdings": [
+      {
+        "stock_name": "太极信息有限公司",
+        "holding_percent": 4.22
+      },
+      {
+        "stock_name": "惠派国际公司信息有限公司",
+        "holding_percent": 0.98
+      },
+      {
+        "stock_name": "商软冠联网络有限公司",
+        "holding_percent": 2.77
+      }
+    ]
+  },
+  {
+    "fund_id": 6,
+    "manager": {
+      "name": "张芳",
+      "experience_years": 7
+    },
+    "historical_rankings": [
+      {
+        "year": 2018,
+        "ranking": 50
+      },
+      {
+        "year": 2019,
+        "ranking": 85
+      },
+      {
+        "year": 2020,
+        "ranking": 58
+      },
+      {
+        "year": 2021,
+        "ranking": 79
+      },
+      {
+        "year": 2022,
+        "ranking": 84
+      },
+      {
+        "year": 2023,
+        "ranking": 8
+      }
+    ],
+    "top_holdings": [
+      {
+        "stock_name": "合联电子信息有限公司",
+        "holding_percent": 3.61
+      },
+      {
+        "stock_name": "佳禾传媒有限公司",
+        "holding_percent": 2.9
+      },
+      {
+        "stock_name": "快讯传媒有限公司",
+        "holding_percent": 2.21
+      }
+    ]
+  },
+  {
+    "fund_id": 7,
+    "manager": {
+      "name": "耿桂荣",
+      "experience_years": 14
+    },
+    "historical_rankings": [
+      {
+        "year": 2018,
+        "ranking": 90
+      },
+      {
+        "year": 2019,
+        "ranking": 33
+      },
+      {
+        "year": 2020,
+        "ranking": 26
+      },
+      {
+        "year": 2021,
+        "ranking": 90
+      },
+      {
+        "year": 2022,
+        "ranking": 40
+      },
+      {
+        "year": 2023,
+        "ranking": 65
+      }
+    ],
+    "top_holdings": [
+      {
+        "stock_name": "济南亿次元科技有限公司",
+        "holding_percent": 1.9
+      },
+      {
+        "stock_name": "快讯信息有限公司",
+        "holding_percent": 4.42
+      },
+      {
+        "stock_name": "南康网络有限公司",
+        "holding_percent": 1.2
+      },
+      {
+        "stock_name": "维旺明科技有限公司",
+        "holding_percent": 1.43
+      },
+      {
+        "stock_name": "联通时科传媒有限公司",
+        "holding_percent": 3.59
+      }
+    ]
+  },
+  {
+    "fund_id": 8,
+    "manager": {
+      "name": "陈瑞",
+      "experience_years": 12
+    },
+    "historical_rankings": [
+      {
+        "year": 2018,
+        "ranking": 18
+      },
+      {
+        "year": 2019,
+        "ranking": 47
+      },
+      {
+        "year": 2020,
+        "ranking": 81
+      },
+      {
+        "year": 2021,
+        "ranking": 30
+      },
+      {
+        "year": 2022,
+        "ranking": 10
+      },
+      {
+        "year": 2023,
+        "ranking": 99
+      }
+    ],
+    "top_holdings": [
+      {
+        "stock_name": "鸿睿思博传媒有限公司",
+        "holding_percent": 4.79
+      },
+      {
+        "stock_name": "迪摩网络有限公司",
+        "holding_percent": 2.32
+      },
+      {
+        "stock_name": "南康科技有限公司",
+        "holding_percent": 2.02
+      },
+      {
+        "stock_name": "创联世纪传媒有限公司",
+        "holding_percent": 0.56
+      }
+    ]
+  },
+  {
+    "fund_id": 9,
+    "manager": {
+      "name": "陈华",
+      "experience_years": 15
+    },
+    "historical_rankings": [
+      {
+        "year": 2018,
+        "ranking": 18
+      },
+      {
+        "year": 2019,
+        "ranking": 58
+      },
+      {
+        "year": 2020,
+        "ranking": 60
+      },
+      {
+        "year": 2021,
+        "ranking": 88
+      },
+      {
+        "year": 2022,
+        "ranking": 27
+      },
+      {
+        "year": 2023,
+        "ranking": 68
+      }
+    ],
+    "top_holdings": [
+      {
+        "stock_name": "东方峻景传媒有限公司",
+        "holding_percent": 3.95
+      },
+      {
+        "stock_name": "海创科技有限公司",
+        "holding_percent": 3.47
+      },
+      {
+        "stock_name": "九方信息有限公司",
+        "holding_percent": 2.51
+      },
+      {
+        "stock_name": "华成育卓科技有限公司",
+        "holding_percent": 1.51
+      }
+    ]
+  },
+  {
+    "fund_id": 10,
+    "manager": {
+      "name": "赵建国",
+      "experience_years": 19
+    },
+    "historical_rankings": [
+      {
+        "year": 2018,
+        "ranking": 87
+      },
+      {
+        "year": 2019,
+        "ranking": 30
+      },
+      {
+        "year": 2020,
+        "ranking": 21
+      },
+      {
+        "year": 2021,
+        "ranking": 62
+      },
+      {
+        "year": 2022,
+        "ranking": 10
+      },
+      {
+        "year": 2023,
+        "ranking": 13
+      }
+    ],
+    "top_holdings": [
+      {
+        "stock_name": "毕博诚信息有限公司",
+        "holding_percent": 0.59
+      },
+      {
+        "stock_name": "通际名联信息有限公司",
+        "holding_percent": 3.98
+      },
+      {
+        "stock_name": "精芯科技有限公司",
+        "holding_percent": 1.27
+      },
+      {
+        "stock_name": "数字100传媒有限公司",
+        "holding_percent": 0.7
+      },
+      {
+        "stock_name": "鸿睿思博传媒有限公司",
+        "holding_percent": 3.44
+      },
+      {
+        "stock_name": "巨奥网络有限公司",
+        "holding_percent": 3.98
+      }
+    ]
+  },
+  {
+    "fund_id": 11,
+    "manager": {
+      "name": "王建",
+      "experience_years": 6
+    },
+    "historical_rankings": [
+      {
+        "year": 2018,
+        "ranking": 51
+      },
+      {
+        "year": 2019,
+        "ranking": 52
+      },
+      {
+        "year": 2020,
+        "ranking": 39
+      },
+      {
+        "year": 2021,
+        "ranking": 8
+      },
+      {
+        "year": 2022,
+        "ranking": 45
+      },
+      {
+        "year": 2023,
+        "ranking": 88
+      }
+    ],
+    "top_holdings": [
+      {
+        "stock_name": "南康信息有限公司",
+        "holding_percent": 4.57
+      },
+      {
+        "stock_name": "银嘉传媒有限公司",
+        "holding_percent": 0.97
+      },
+      {
+        "stock_name": "新宇龙信息科技有限公司",
+        "holding_percent": 4.92
+      }
+    ]
+  },
+  {
+    "fund_id": 12,
+    "manager": {
+      "name": "乔杨",
+      "experience_years": 19
+    },
+    "historical_rankings": [
+      {
+        "year": 2018,
+        "ranking": 62
+      },
+      {
+        "year": 2019,
+        "ranking": 62
+      },
+      {
+        "year": 2020,
+        "ranking": 38
+      },
+      {
+        "year": 2021,
+        "ranking": 26
+      },
+      {
+        "year": 2022,
+        "ranking": 24
+      },
+      {
+        "year": 2023,
+        "ranking": 39
+      }
+    ],
+    "top_holdings": [
+      {
+        "stock_name": "数字100科技有限公司",
+        "holding_percent": 2.49
+      },
+      {
+        "stock_name": "雨林木风计算机科技有限公司",
+        "holding_percent": 0.82
+      },
+      {
+        "stock_name": "佳禾网络有限公司",
+        "holding_percent": 2.25
+      },
+      {
+        "stock_name": "飞海科技信息有限公司",
+        "holding_percent": 3.84
+      },
+      {
+        "stock_name": "九方科技有限公司",
+        "holding_percent": 2.24
+      },
+      {
+        "stock_name": "通际名联传媒有限公司",
+        "holding_percent": 1.99
+      }
+    ]
+  },
+  {
+    "fund_id": 13,
+    "manager": {
+      "name": "李杰",
+      "experience_years": 16
+    },
+    "historical_rankings": [
+      {
+        "year": 2018,
+        "ranking": 48
+      },
+      {
+        "year": 2019,
+        "ranking": 86
+      },
+      {
+        "year": 2020,
+        "ranking": 81
+      },
+      {
+        "year": 2021,
+        "ranking": 68
+      },
+      {
+        "year": 2022,
+        "ranking": 45
+      },
+      {
+        "year": 2023,
+        "ranking": 19
+      }
+    ],
+    "top_holdings": [
+      {
+        "stock_name": "双敏电子传媒有限公司",
+        "holding_percent": 3.63
+      },
+      {
+        "stock_name": "时刻信息有限公司",
+        "holding_percent": 0.98
+      },
+      {
+        "stock_name": "黄石金承科技有限公司",
+        "holding_percent": 3.49
+      },
+      {
+        "stock_name": "天益网络有限公司",
+        "holding_percent": 1.79
+      },
+      {
+        "stock_name": "恒聪百汇传媒有限公司",
+        "holding_percent": 1.4
+      },
+      {
+        "stock_name": "网新恒天科技有限公司",
+        "holding_percent": 4.71
+      }
+    ]
+  },
+  {
+    "fund_id": 14,
+    "manager": {
+      "name": "钟宁",
+      "experience_years": 15
+    },
+    "historical_rankings": [
+      {
+        "year": 2018,
+        "ranking": 42
+      },
+      {
+        "year": 2019,
+        "ranking": 83
+      },
+      {
+        "year": 2020,
+        "ranking": 40
+      },
+      {
+        "year": 2021,
+        "ranking": 50
+      },
+      {
+        "year": 2022,
+        "ranking": 35
+      },
+      {
+        "year": 2023,
+        "ranking": 24
+      }
+    ],
+    "top_holdings": [
+      {
+        "stock_name": "创联世纪科技有限公司",
+        "holding_percent": 2.75
+      },
+      {
+        "stock_name": "华泰通安网络有限公司",
+        "holding_percent": 1.95
+      },
+      {
+        "stock_name": "新格林耐特传媒有限公司",
+        "holding_percent": 1.09
+      },
+      {
+        "stock_name": "联软信息有限公司",
+        "holding_percent": 2.19
+      },
+      {
+        "stock_name": "华远软件科技有限公司",
+        "holding_percent": 3.53
+      },
+      {
+        "stock_name": "良诺传媒有限公司",
+        "holding_percent": 4.02
+      }
+    ]
+  },
+  {
+    "fund_id": 15,
+    "manager": {
+      "name": "唐丽丽",
+      "experience_years": 19
+    },
+    "historical_rankings": [
+      {
+        "year": 2018,
+        "ranking": 29
+      },
+      {
+        "year": 2019,
+        "ranking": 7
+      },
+      {
+        "year": 2020,
+        "ranking": 93
+      },
+      {
+        "year": 2021,
+        "ranking": 53
+      },
+      {
+        "year": 2022,
+        "ranking": 37
+      },
+      {
+        "year": 2023,
+        "ranking": 23
+      }
+    ],
+    "top_holdings": [
+      {
+        "stock_name": "易动力传媒有限公司",
+        "holding_percent": 1.23
+      },
+      {
+        "stock_name": "万迅电脑传媒有限公司",
+        "holding_percent": 1.62
+      },
+      {
+        "stock_name": "昊嘉信息有限公司",
+        "holding_percent": 1.51
+      }
+    ]
+  },
+  {
+    "fund_id": 16,
+    "manager": {
+      "name": "顾畅",
+      "experience_years": 17
+    },
+    "historical_rankings": [
+      {
+        "year": 2018,
+        "ranking": 53
+      },
+      {
+        "year": 2019,
+        "ranking": 39
+      },
+      {
+        "year": 2020,
+        "ranking": 67
+      },
+      {
+        "year": 2021,
+        "ranking": 66
+      },
+      {
+        "year": 2022,
+        "ranking": 6
+      },
+      {
+        "year": 2023,
+        "ranking": 21
+      }
+    ],
+    "top_holdings": [
+      {
+        "stock_name": "诺依曼软件信息有限公司",
+        "holding_percent": 1.65
+      },
+      {
+        "stock_name": "兰金电子网络有限公司",
+        "holding_percent": 1.68
+      },
+      {
+        "stock_name": "MBP软件网络有限公司",
+        "holding_percent": 0.68
+      }
+    ]
+  },
+  {
+    "fund_id": 17,
+    "manager": {
+      "name": "郑岩",
+      "experience_years": 19
+    },
+    "historical_rankings": [
+      {
+        "year": 2018,
+        "ranking": 78
+      },
+      {
+        "year": 2019,
+        "ranking": 42
+      },
+      {
+        "year": 2020,
+        "ranking": 45
+      },
+      {
+        "year": 2021,
+        "ranking": 44
+      },
+      {
+        "year": 2022,
+        "ranking": 91
+      },
+      {
+        "year": 2023,
+        "ranking": 33
+      }
+    ],
+    "top_holdings": [
+      {
+        "stock_name": "凌云科技有限公司",
+        "holding_percent": 2.27
+      },
+      {
+        "stock_name": "济南亿次元传媒有限公司",
+        "holding_percent": 3.1
+      },
+      {
+        "stock_name": "时空盒数字信息有限公司",
+        "holding_percent": 2.82
+      },
+      {
+        "stock_name": "巨奥科技有限公司",
+        "holding_percent": 3.59
+      },
+      {
+        "stock_name": "太极传媒有限公司",
+        "holding_percent": 3.42
+      },
+      {
+        "stock_name": "超艺科技有限公司",
+        "holding_percent": 2.41
+      }
+    ]
+  },
+  {
+    "fund_id": 18,
+    "manager": {
+      "name": "王鹏",
+      "experience_years": 6
+    },
+    "historical_rankings": [
+      {
+        "year": 2018,
+        "ranking": 2
+      },
+      {
+        "year": 2019,
+        "ranking": 47
+      },
+      {
+        "year": 2020,
+        "ranking": 30
+      },
+      {
+        "year": 2021,
+        "ranking": 27
+      },
+      {
+        "year": 2022,
+        "ranking": 71
+      },
+      {
+        "year": 2023,
+        "ranking": 20
+      }
+    ],
+    "top_holdings": [
+      {
+        "stock_name": "巨奥信息有限公司",
+        "holding_percent": 1.97
+      },
+      {
+        "stock_name": "国讯传媒有限公司",
+        "holding_percent": 3.75
+      },
+      {
+        "stock_name": "时刻科技有限公司",
+        "holding_percent": 0.84
+      },
+      {
+        "stock_name": "双敏电子信息有限公司",
+        "holding_percent": 4.61
+      }
+    ]
+  },
+  {
+    "fund_id": 19,
+    "manager": {
+      "name": "王莉",
+      "experience_years": 15
+    },
+    "historical_rankings": [
+      {
+        "year": 2018,
+        "ranking": 3
+      },
+      {
+        "year": 2019,
+        "ranking": 90
+      },
+      {
+        "year": 2020,
+        "ranking": 90
+      },
+      {
+        "year": 2021,
+        "ranking": 82
+      },
+      {
+        "year": 2022,
+        "ranking": 96
+      },
+      {
+        "year": 2023,
+        "ranking": 78
+      }
+    ],
+    "top_holdings": [
+      {
+        "stock_name": "联通时科传媒有限公司",
+        "holding_percent": 2.22
+      },
+      {
+        "stock_name": "和泰科技有限公司",
+        "holding_percent": 4.26
+      },
+      {
+        "stock_name": "MBP软件传媒有限公司",
+        "holding_percent": 4.85
+      },
+      {
+        "stock_name": "群英传媒有限公司",
+        "holding_percent": 2.47
+      },
+      {
+        "stock_name": "银嘉科技有限公司",
+        "holding_percent": 2.27
+      }
+    ]
+  },
+  {
+    "fund_id": 20,
+    "manager": {
+      "name": "金云",
+      "experience_years": 16
+    },
+    "historical_rankings": [
+      {
+        "year": 2018,
+        "ranking": 85
+      },
+      {
+        "year": 2019,
+        "ranking": 26
+      },
+      {
+        "year": 2020,
+        "ranking": 3
+      },
+      {
+        "year": 2021,
+        "ranking": 51
+      },
+      {
+        "year": 2022,
+        "ranking": 40
+      },
+      {
+        "year": 2023,
+        "ranking": 68
+      }
+    ],
+    "top_holdings": [
+      {
+        "stock_name": "飞海科技传媒有限公司",
+        "holding_percent": 1.02
+      },
+      {
+        "stock_name": "九方传媒有限公司",
+        "holding_percent": 2.3
+      },
+      {
+        "stock_name": "海创信息有限公司",
+        "holding_percent": 1.43
+      },
+      {
+        "stock_name": "时刻信息有限公司",
+        "holding_percent": 1.4
+      },
+      {
+        "stock_name": "快讯科技有限公司",
+        "holding_percent": 2.78
+      },
+      {
+        "stock_name": "戴硕电子信息有限公司",
+        "holding_percent": 3.52
+      }
+    ]
+  },
+  {
+    "fund_id": 21,
+    "manager": {
+      "name": "王东",
+      "experience_years": 16
+    },
+    "historical_rankings": [
+      {
+        "year": 2018,
+        "ranking": 86
+      },
+      {
+        "year": 2019,
+        "ranking": 80
+      },
+      {
+        "year": 2020,
+        "ranking": 46
+      },
+      {
+        "year": 2021,
+        "ranking": 76
+      },
+      {
+        "year": 2022,
+        "ranking": 10
+      },
+      {
+        "year": 2023,
+        "ranking": 24
+      }
+    ],
+    "top_holdings": [
+      {
+        "stock_name": "毕博诚传媒有限公司",
+        "holding_percent": 1.13
+      },
+      {
+        "stock_name": "浦华众城科技有限公司",
+        "holding_percent": 1.48
+      },
+      {
+        "stock_name": "天开传媒有限公司",
+        "holding_percent": 3.41
+      }
+    ]
+  },
+  {
+    "fund_id": 22,
+    "manager": {
+      "name": "崔强",
+      "experience_years": 10
+    },
+    "historical_rankings": [
+      {
+        "year": 2018,
+        "ranking": 58
+      },
+      {
+        "year": 2019,
+        "ranking": 13
+      },
+      {
+        "year": 2020,
+        "ranking": 50
+      },
+      {
+        "year": 2021,
+        "ranking": 6
+      },
+      {
+        "year": 2022,
+        "ranking": 85
+      },
+      {
+        "year": 2023,
+        "ranking": 51
+      }
+    ],
+    "top_holdings": [
+      {
+        "stock_name": "雨林木风计算机网络有限公司",
+        "holding_percent": 0.83
+      },
+      {
+        "stock_name": "七喜传媒有限公司",
+        "holding_percent": 3.33
+      },
+      {
+        "stock_name": "巨奥网络有限公司",
+        "holding_percent": 4.07
+      },
+      {
+        "stock_name": "富罳网络有限公司",
+        "holding_percent": 1.1
+      },
+      {
+        "stock_name": "兰金电子科技有限公司",
+        "holding_percent": 2.83
+      },
+      {
+        "stock_name": "立信电子网络有限公司",
+        "holding_percent": 4.01
+      }
+    ]
+  },
+  {
+    "fund_id": 23,
+    "manager": {
+      "name": "张莹",
+      "experience_years": 10
+    },
+    "historical_rankings": [
+      {
+        "year": 2018,
+        "ranking": 69
+      },
+      {
+        "year": 2019,
+        "ranking": 88
+      },
+      {
+        "year": 2020,
+        "ranking": 57
+      },
+      {
+        "year": 2021,
+        "ranking": 26
+      },
+      {
+        "year": 2022,
+        "ranking": 6
+      },
+      {
+        "year": 2023,
+        "ranking": 16
+      }
+    ],
+    "top_holdings": [
+      {
+        "stock_name": "数字100信息有限公司",
+        "holding_percent": 2.56
+      },
+      {
+        "stock_name": "良诺网络有限公司",
+        "holding_percent": 1.71
+      },
+      {
+        "stock_name": "戴硕电子信息有限公司",
+        "holding_percent": 4.29
+      },
+      {
+        "stock_name": "诺依曼软件网络有限公司",
+        "holding_percent": 1.91
+      },
+      {
+        "stock_name": "襄樊地球村信息有限公司",
+        "holding_percent": 4.27
+      },
+      {
+        "stock_name": "佳禾信息有限公司",
+        "holding_percent": 2.43
+      }
+    ]
+  },
+  {
+    "fund_id": 24,
+    "manager": {
+      "name": "王桂香",
+      "experience_years": 18
+    },
+    "historical_rankings": [
+      {
+        "year": 2018,
+        "ranking": 87
+      },
+      {
+        "year": 2019,
+        "ranking": 43
+      },
+      {
+        "year": 2020,
+        "ranking": 73
+      },
+      {
+        "year": 2021,
+        "ranking": 3
+      },
+      {
+        "year": 2022,
+        "ranking": 72
+      },
+      {
+        "year": 2023,
+        "ranking": 38
+      }
+    ],
+    "top_holdings": [
+      {
+        "stock_name": "彩虹信息有限公司",
+        "holding_percent": 2.56
+      },
+      {
+        "stock_name": "华远软件网络有限公司",
+        "holding_percent": 2.83
+      },
+      {
+        "stock_name": "同兴万点网络有限公司",
+        "holding_percent": 4.24
+      },
+      {
+        "stock_name": "数字100信息有限公司",
+        "holding_percent": 3.47
+      },
+      {
+        "stock_name": "诺依曼软件科技有限公司",
+        "holding_percent": 2.07
+      },
+      {
+        "stock_name": "快讯信息有限公司",
+        "holding_percent": 3.52
+      }
+    ]
+  },
+  {
+    "fund_id": 25,
+    "manager": {
+      "name": "汪兵",
+      "experience_years": 15
+    },
+    "historical_rankings": [
+      {
+        "year": 2018,
+        "ranking": 71
+      },
+      {
+        "year": 2019,
+        "ranking": 76
+      },
+      {
+        "year": 2020,
+        "ranking": 37
+      },
+      {
+        "year": 2021,
+        "ranking": 4
+      },
+      {
+        "year": 2022,
+        "ranking": 2
+      },
+      {
+        "year": 2023,
+        "ranking": 99
+      }
+    ],
+    "top_holdings": [
+      {
+        "stock_name": "戴硕电子信息有限公司",
+        "holding_percent": 3.96
+      },
+      {
+        "stock_name": "中建创业信息有限公司",
+        "holding_percent": 1.5
+      },
+      {
+        "stock_name": "数字100科技有限公司",
+        "holding_percent": 1.71
+      },
+      {
+        "stock_name": "易动力传媒有限公司",
+        "holding_percent": 1.59
+      }
+    ]
+  },
+  {
+    "fund_id": 26,
+    "manager": {
+      "name": "崔伟",
+      "experience_years": 3
+    },
+    "historical_rankings": [
+      {
+        "year": 2018,
+        "ranking": 17
+      },
+      {
+        "year": 2019,
+        "ranking": 16
+      },
+      {
+        "year": 2020,
+        "ranking": 9
+      },
+      {
+        "year": 2021,
+        "ranking": 53
+      },
+      {
+        "year": 2022,
+        "ranking": 73
+      },
+      {
+        "year": 2023,
+        "ranking": 59
+      }
+    ],
+    "top_holdings": [
+      {
+        "stock_name": "图龙信息网络有限公司",
+        "holding_percent": 3.77
+      },
+      {
+        "stock_name": "商软冠联科技有限公司",
+        "holding_percent": 3.46
+      },
+      {
+        "stock_name": "易动力科技有限公司",
+        "holding_percent": 3.8
+      },
+      {
+        "stock_name": "易动力信息有限公司",
+        "holding_percent": 2.1
+      },
+      {
+        "stock_name": "恩悌传媒有限公司",
+        "holding_percent": 4.19
+      }
+    ]
+  },
+  {
+    "fund_id": 27,
+    "manager": {
+      "name": "杨琳",
+      "experience_years": 8
+    },
+    "historical_rankings": [
+      {
+        "year": 2018,
+        "ranking": 53
+      },
+      {
+        "year": 2019,
+        "ranking": 20
+      },
+      {
+        "year": 2020,
+        "ranking": 39
+      },
+      {
+        "year": 2021,
+        "ranking": 99
+      },
+      {
+        "year": 2022,
+        "ranking": 72
+      },
+      {
+        "year": 2023,
+        "ranking": 34
+      }
+    ],
+    "top_holdings": [
+      {
+        "stock_name": "太极传媒有限公司",
+        "holding_percent": 1.33
+      },
+      {
+        "stock_name": "浦华众城网络有限公司",
+        "holding_percent": 3.57
+      },
+      {
+        "stock_name": "方正科技信息有限公司",
+        "holding_percent": 2.9
+      }
+    ]
+  },
+  {
+    "fund_id": 28,
+    "manager": {
+      "name": "任宇",
+      "experience_years": 10
+    },
+    "historical_rankings": [
+      {
+        "year": 2018,
+        "ranking": 14
+      },
+      {
+        "year": 2019,
+        "ranking": 81
+      },
+      {
+        "year": 2020,
+        "ranking": 37
+      },
+      {
+        "year": 2021,
+        "ranking": 44
+      },
+      {
+        "year": 2022,
+        "ranking": 9
+      },
+      {
+        "year": 2023,
+        "ranking": 58
+      }
+    ],
+    "top_holdings": [
+      {
+        "stock_name": "彩虹信息有限公司",
+        "holding_percent": 4.72
+      },
+      {
+        "stock_name": "易动力科技有限公司",
+        "holding_percent": 2.94
+      },
+      {
+        "stock_name": "佳禾传媒有限公司",
+        "holding_percent": 3.96
+      },
+      {
+        "stock_name": "济南亿次元科技有限公司",
+        "holding_percent": 0.9
+      },
+      {
+        "stock_name": "信诚致远网络有限公司",
+        "holding_percent": 1.45
+      },
+      {
+        "stock_name": "盟新信息有限公司",
+        "holding_percent": 2.76
+      }
+    ]
+  },
+  {
+    "fund_id": 29,
+    "manager": {
+      "name": "温健",
+      "experience_years": 19
+    },
+    "historical_rankings": [
+      {
+        "year": 2018,
+        "ranking": 9
+      },
+      {
+        "year": 2019,
+        "ranking": 84
+      },
+      {
+        "year": 2020,
+        "ranking": 45
+      },
+      {
+        "year": 2021,
+        "ranking": 96
+      },
+      {
+        "year": 2022,
+        "ranking": 66
+      },
+      {
+        "year": 2023,
+        "ranking": 32
+      }
+    ],
+    "top_holdings": [
+      {
+        "stock_name": "彩虹网络有限公司",
+        "holding_percent": 2.7
+      },
+      {
+        "stock_name": "雨林木风计算机科技有限公司",
+        "holding_percent": 3.7
+      },
+      {
+        "stock_name": "群英网络有限公司",
+        "holding_percent": 4.41
+      }
+    ]
+  },
+  {
+    "fund_id": 30,
+    "manager": {
+      "name": "薛艳",
+      "experience_years": 7
+    },
+    "historical_rankings": [
+      {
+        "year": 2018,
+        "ranking": 63
+      },
+      {
+        "year": 2019,
+        "ranking": 99
+      },
+      {
+        "year": 2020,
+        "ranking": 36
+      },
+      {
+        "year": 2021,
+        "ranking": 65
+      },
+      {
+        "year": 2022,
+        "ranking": 78
+      },
+      {
+        "year": 2023,
+        "ranking": 73
+      }
+    ],
+    "top_holdings": [
+      {
+        "stock_name": "维涛科技有限公司",
+        "holding_percent": 4.87
+      },
+      {
+        "stock_name": "浦华众城科技有限公司",
+        "holding_percent": 2.6
+      },
+      {
+        "stock_name": "浙大万朋传媒有限公司",
+        "holding_percent": 1.87
+      },
+      {
+        "stock_name": "华成育卓网络有限公司",
+        "holding_percent": 2.43
+      }
+    ]
+  },
+  {
+    "fund_id": 31,
+    "manager": {
+      "name": "张莉",
+      "experience_years": 5
+    },
+    "historical_rankings": [
+      {
+        "year": 2018,
+        "ranking": 7
+      },
+      {
+        "year": 2019,
+        "ranking": 13
+      },
+      {
+        "year": 2020,
+        "ranking": 68
+      },
+      {
+        "year": 2021,
+        "ranking": 43
+      },
+      {
+        "year": 2022,
+        "ranking": 57
+      },
+      {
+        "year": 2023,
+        "ranking": 36
+      }
+    ],
+    "top_holdings": [
+      {
+        "stock_name": "南康科技有限公司",
+        "holding_percent": 4.23
+      },
+      {
+        "stock_name": "华泰通安网络有限公司",
+        "holding_percent": 1.63
+      },
+      {
+        "stock_name": "天益信息有限公司",
+        "holding_percent": 4.0
+      },
+      {
+        "stock_name": "思优网络有限公司",
+        "holding_percent": 4.81
+      },
+      {
+        "stock_name": "通际名联传媒有限公司",
+        "holding_percent": 3.64
+      },
+      {
+        "stock_name": "黄石金承信息有限公司",
+        "holding_percent": 3.18
+      }
+    ]
+  },
+  {
+    "fund_id": 32,
+    "manager": {
+      "name": "漆秀英",
+      "experience_years": 5
+    },
+    "historical_rankings": [
+      {
+        "year": 2018,
+        "ranking": 90
+      },
+      {
+        "year": 2019,
+        "ranking": 4
+      },
+      {
+        "year": 2020,
+        "ranking": 79
+      },
+      {
+        "year": 2021,
+        "ranking": 96
+      },
+      {
+        "year": 2022,
+        "ranking": 93
+      },
+      {
+        "year": 2023,
+        "ranking": 74
+      }
+    ],
+    "top_holdings": [
+      {
+        "stock_name": "晖来计算机传媒有限公司",
+        "holding_percent": 3.55
+      },
+      {
+        "stock_name": "明腾科技有限公司",
+        "holding_percent": 1.39
+      },
+      {
+        "stock_name": "创亿传媒有限公司",
+        "holding_percent": 2.72
+      }
+    ]
+  },
+  {
+    "fund_id": 33,
+    "manager": {
+      "name": "杨玉",
+      "experience_years": 14
+    },
+    "historical_rankings": [
+      {
+        "year": 2018,
+        "ranking": 16
+      },
+      {
+        "year": 2019,
+        "ranking": 65
+      },
+      {
+        "year": 2020,
+        "ranking": 2
+      },
+      {
+        "year": 2021,
+        "ranking": 56
+      },
+      {
+        "year": 2022,
+        "ranking": 79
+      },
+      {
+        "year": 2023,
+        "ranking": 28
+      }
+    ],
+    "top_holdings": [
+      {
+        "stock_name": "毕博诚传媒有限公司",
+        "holding_percent": 3.22
+      },
+      {
+        "stock_name": "通际名联传媒有限公司",
+        "holding_percent": 4.62
+      },
+      {
+        "stock_name": "维旺明传媒有限公司",
+        "holding_percent": 0.73
+      }
+    ]
+  },
+  {
+    "fund_id": 34,
+    "manager": {
+      "name": "徐桂芝",
+      "experience_years": 15
+    },
+    "historical_rankings": [
+      {
+        "year": 2018,
+        "ranking": 65
+      },
+      {
+        "year": 2019,
+        "ranking": 16
+      },
+      {
+        "year": 2020,
+        "ranking": 86
+      },
+      {
+        "year": 2021,
+        "ranking": 64
+      },
+      {
+        "year": 2022,
+        "ranking": 32
+      },
+      {
+        "year": 2023,
+        "ranking": 80
+      }
+    ],
+    "top_holdings": [
+      {
+        "stock_name": "晖来计算机科技有限公司",
+        "holding_percent": 4.04
+      },
+      {
+        "stock_name": "天开传媒有限公司",
+        "holding_percent": 2.34
+      },
+      {
+        "stock_name": "巨奥信息有限公司",
+        "holding_percent": 4.21
+      },
+      {
+        "stock_name": "良诺传媒有限公司",
+        "holding_percent": 3.56
+      },
+      {
+        "stock_name": "恩悌网络有限公司",
+        "holding_percent": 4.05
+      }
+    ]
+  },
+  {
+    "fund_id": 35,
+    "manager": {
+      "name": "欧秀英",
+      "experience_years": 19
+    },
+    "historical_rankings": [
+      {
+        "year": 2018,
+        "ranking": 55
+      },
+      {
+        "year": 2019,
+        "ranking": 57
+      },
+      {
+        "year": 2020,
+        "ranking": 92
+      },
+      {
+        "year": 2021,
+        "ranking": 71
+      },
+      {
+        "year": 2022,
+        "ranking": 73
+      },
+      {
+        "year": 2023,
+        "ranking": 86
+      }
+    ],
+    "top_holdings": [
+      {
+        "stock_name": "思优信息有限公司",
+        "holding_percent": 0.75
+      },
+      {
+        "stock_name": "合联电子信息有限公司",
+        "holding_percent": 3.08
+      },
+      {
+        "stock_name": "商软冠联信息有限公司",
+        "holding_percent": 4.38
+      },
+      {
+        "stock_name": "新宇龙信息信息有限公司",
+        "holding_percent": 2.67
+      }
+    ]
+  },
+  {
+    "fund_id": 36,
+    "manager": {
+      "name": "潘玉兰",
+      "experience_years": 16
+    },
+    "historical_rankings": [
+      {
+        "year": 2018,
+        "ranking": 2
+      },
+      {
+        "year": 2019,
+        "ranking": 72
+      },
+      {
+        "year": 2020,
+        "ranking": 70
+      },
+      {
+        "year": 2021,
+        "ranking": 33
+      },
+      {
+        "year": 2022,
+        "ranking": 6
+      },
+      {
+        "year": 2023,
+        "ranking": 90
+      }
+    ],
+    "top_holdings": [
+      {
+        "stock_name": "彩虹传媒有限公司",
+        "holding_percent": 3.78
+      },
+      {
+        "stock_name": "立信电子科技有限公司",
+        "holding_percent": 3.4
+      },
+      {
+        "stock_name": "群英传媒有限公司",
+        "holding_percent": 2.01
+      },
+      {
+        "stock_name": "太极科技有限公司",
+        "holding_percent": 0.66
+      }
+    ]
+  },
+  {
+    "fund_id": 37,
+    "manager": {
+      "name": "党瑜",
+      "experience_years": 15
+    },
+    "historical_rankings": [
+      {
+        "year": 2018,
+        "ranking": 40
+      },
+      {
+        "year": 2019,
+        "ranking": 92
+      },
+      {
+        "year": 2020,
+        "ranking": 58
+      },
+      {
+        "year": 2021,
+        "ranking": 18
+      },
+      {
+        "year": 2022,
+        "ranking": 57
+      },
+      {
+        "year": 2023,
+        "ranking": 83
+      }
+    ],
+    "top_holdings": [
+      {
+        "stock_name": "时空盒数字信息有限公司",
+        "holding_percent": 1.44
+      },
+      {
+        "stock_name": "易动力科技有限公司",
+        "holding_percent": 3.2
+      },
+      {
+        "stock_name": "昂歌信息网络有限公司",
+        "holding_percent": 0.9
+      },
+      {
+        "stock_name": "七喜网络有限公司",
+        "holding_percent": 0.76
+      }
+    ]
+  },
+  {
+    "fund_id": 38,
+    "manager": {
+      "name": "鞠建军",
+      "experience_years": 13
+    },
+    "historical_rankings": [
+      {
+        "year": 2018,
+        "ranking": 33
+      },
+      {
+        "year": 2019,
+        "ranking": 88
+      },
+      {
+        "year": 2020,
+        "ranking": 66
+      },
+      {
+        "year": 2021,
+        "ranking": 30
+      },
+      {
+        "year": 2022,
+        "ranking": 81
+      },
+      {
+        "year": 2023,
+        "ranking": 34
+      }
+    ],
+    "top_holdings": [
+      {
+        "stock_name": "网新恒天信息有限公司",
+        "holding_percent": 2.14
+      },
+      {
+        "stock_name": "艾提科信传媒有限公司",
+        "holding_percent": 4.71
+      },
+      {
+        "stock_name": "天开信息有限公司",
+        "holding_percent": 0.75
+      },
+      {
+        "stock_name": "联软科技有限公司",
+        "holding_percent": 3.53
+      }
+    ]
+  },
+  {
+    "fund_id": 39,
+    "manager": {
+      "name": "李梅",
+      "experience_years": 9
+    },
+    "historical_rankings": [
+      {
+        "year": 2018,
+        "ranking": 63
+      },
+      {
+        "year": 2019,
+        "ranking": 48
+      },
+      {
+        "year": 2020,
+        "ranking": 87
+      },
+      {
+        "year": 2021,
+        "ranking": 48
+      },
+      {
+        "year": 2022,
+        "ranking": 61
+      },
+      {
+        "year": 2023,
+        "ranking": 12
+      }
+    ],
+    "top_holdings": [
+      {
+        "stock_name": "维涛传媒有限公司",
+        "holding_percent": 4.96
+      },
+      {
+        "stock_name": "时刻网络有限公司",
+        "holding_percent": 4.11
+      },
+      {
+        "stock_name": "彩虹科技有限公司",
+        "holding_percent": 3.87
+      },
+      {
+        "stock_name": "华成育卓科技有限公司",
+        "holding_percent": 4.07
+      }
+    ]
+  },
+  {
+    "fund_id": 40,
+    "manager": {
+      "name": "蒋俊",
+      "experience_years": 15
+    },
+    "historical_rankings": [
+      {
+        "year": 2018,
+        "ranking": 58
+      },
+      {
+        "year": 2019,
+        "ranking": 93
+      },
+      {
+        "year": 2020,
+        "ranking": 9
+      },
+      {
+        "year": 2021,
+        "ranking": 26
+      },
+      {
+        "year": 2022,
+        "ranking": 28
+      },
+      {
+        "year": 2023,
+        "ranking": 77
+      }
+    ],
+    "top_holdings": [
+      {
+        "stock_name": "立信电子科技有限公司",
+        "holding_percent": 0.6
+      },
+      {
+        "stock_name": "趋势信息有限公司",
+        "holding_percent": 2.18
+      },
+      {
+        "stock_name": "数字100科技有限公司",
+        "holding_percent": 1.17
+      }
+    ]
+  },
+  {
+    "fund_id": 41,
+    "manager": {
+      "name": "文欢",
+      "experience_years": 8
+    },
+    "historical_rankings": [
+      {
+        "year": 2018,
+        "ranking": 67
+      },
+      {
+        "year": 2019,
+        "ranking": 57
+      },
+      {
+        "year": 2020,
+        "ranking": 54
+      },
+      {
+        "year": 2021,
+        "ranking": 16
+      },
+      {
+        "year": 2022,
+        "ranking": 62
+      },
+      {
+        "year": 2023,
+        "ranking": 84
+      }
+    ],
+    "top_holdings": [
+      {
+        "stock_name": "恒聪百汇网络有限公司",
+        "holding_percent": 1.98
+      },
+      {
+        "stock_name": "盟新科技有限公司",
+        "holding_percent": 4.59
+      },
+      {
+        "stock_name": "联通时科科技有限公司",
+        "holding_percent": 0.94
+      },
+      {
+        "stock_name": "立信电子科技有限公司",
+        "holding_percent": 3.23
+      },
+      {
+        "stock_name": "联通时科信息有限公司",
+        "holding_percent": 2.53
+      },
+      {
+        "stock_name": "凌云传媒有限公司",
+        "holding_percent": 4.72
+      }
+    ]
+  },
+  {
+    "fund_id": 42,
+    "manager": {
+      "name": "李兵",
+      "experience_years": 14
+    },
+    "historical_rankings": [
+      {
+        "year": 2018,
+        "ranking": 17
+      },
+      {
+        "year": 2019,
+        "ranking": 15
+      },
+      {
+        "year": 2020,
+        "ranking": 48
+      },
+      {
+        "year": 2021,
+        "ranking": 32
+      },
+      {
+        "year": 2022,
+        "ranking": 77
+      },
+      {
+        "year": 2023,
+        "ranking": 85
+      }
+    ],
+    "top_holdings": [
+      {
+        "stock_name": "华成育卓网络有限公司",
+        "holding_percent": 3.22
+      },
+      {
+        "stock_name": "通际名联科技有限公司",
+        "holding_percent": 3.26
+      },
+      {
+        "stock_name": "艾提科信网络有限公司",
+        "holding_percent": 2.89
+      }
+    ]
+  },
+  {
+    "fund_id": 43,
+    "manager": {
+      "name": "谭玉华",
+      "experience_years": 5
+    },
+    "historical_rankings": [
+      {
+        "year": 2018,
+        "ranking": 16
+      },
+      {
+        "year": 2019,
+        "ranking": 28
+      },
+      {
+        "year": 2020,
+        "ranking": 98
+      },
+      {
+        "year": 2021,
+        "ranking": 1
+      },
+      {
+        "year": 2022,
+        "ranking": 41
+      },
+      {
+        "year": 2023,
+        "ranking": 48
+      }
+    ],
+    "top_holdings": [
+      {
+        "stock_name": "鸿睿思博科技有限公司",
+        "holding_percent": 1.9
+      },
+      {
+        "stock_name": "鸿睿思博传媒有限公司",
+        "holding_percent": 3.05
+      },
+      {
+        "stock_name": "维涛信息有限公司",
+        "holding_percent": 4.92
+      },
+      {
+        "stock_name": "浦华众城科技有限公司",
+        "holding_percent": 4.54
+      },
+      {
+        "stock_name": "创联世纪网络有限公司",
+        "holding_percent": 4.79
+      }
+    ]
+  },
+  {
+    "fund_id": 44,
+    "manager": {
+      "name": "温桂芝",
+      "experience_years": 17
+    },
+    "historical_rankings": [
+      {
+        "year": 2018,
+        "ranking": 90
+      },
+      {
+        "year": 2019,
+        "ranking": 30
+      },
+      {
+        "year": 2020,
+        "ranking": 89
+      },
+      {
+        "year": 2021,
+        "ranking": 45
+      },
+      {
+        "year": 2022,
+        "ranking": 80
+      },
+      {
+        "year": 2023,
+        "ranking": 39
+      }
+    ],
+    "top_holdings": [
+      {
+        "stock_name": "太极信息有限公司",
+        "holding_percent": 3.87
+      },
+      {
+        "stock_name": "联软科技有限公司",
+        "holding_percent": 4.72
+      },
+      {
+        "stock_name": "MBP软件传媒有限公司",
+        "holding_percent": 0.74
+      },
+      {
+        "stock_name": "晖来计算机信息有限公司",
+        "holding_percent": 0.55
+      },
+      {
+        "stock_name": "和泰信息有限公司",
+        "holding_percent": 3.48
+      },
+      {
+        "stock_name": "浦华众城科技有限公司",
+        "holding_percent": 1.8
+      }
+    ]
+  },
+  {
+    "fund_id": 45,
+    "manager": {
+      "name": "王兵",
+      "experience_years": 17
+    },
+    "historical_rankings": [
+      {
+        "year": 2018,
+        "ranking": 56
+      },
+      {
+        "year": 2019,
+        "ranking": 53
+      },
+      {
+        "year": 2020,
+        "ranking": 68
+      },
+      {
+        "year": 2021,
+        "ranking": 54
+      },
+      {
+        "year": 2022,
+        "ranking": 34
+      },
+      {
+        "year": 2023,
+        "ranking": 28
+      }
+    ],
+    "top_holdings": [
+      {
+        "stock_name": "创联世纪传媒有限公司",
+        "holding_percent": 2.48
+      },
+      {
+        "stock_name": "凌云传媒有限公司",
+        "holding_percent": 2.81
+      },
+      {
+        "stock_name": "晖来计算机信息有限公司",
+        "holding_percent": 3.53
+      },
+      {
+        "stock_name": "和泰传媒有限公司",
+        "holding_percent": 2.24
+      }
+    ]
+  },
+  {
+    "fund_id": 46,
+    "manager": {
+      "name": "滕平",
+      "experience_years": 12
+    },
+    "historical_rankings": [
+      {
+        "year": 2018,
+        "ranking": 92
+      },
+      {
+        "year": 2019,
+        "ranking": 84
+      },
+      {
+        "year": 2020,
+        "ranking": 75
+      },
+      {
+        "year": 2021,
+        "ranking": 74
+      },
+      {
+        "year": 2022,
+        "ranking": 61
+      },
+      {
+        "year": 2023,
+        "ranking": 23
+      }
+    ],
+    "top_holdings": [
+      {
+        "stock_name": "济南亿次元传媒有限公司",
+        "holding_percent": 4.06
+      },
+      {
+        "stock_name": "时空盒数字传媒有限公司",
+        "holding_percent": 4.9
+      },
+      {
+        "stock_name": "南康信息有限公司",
+        "holding_percent": 4.04
+      }
+    ]
+  },
+  {
+    "fund_id": 47,
+    "manager": {
+      "name": "张勇",
+      "experience_years": 8
+    },
+    "historical_rankings": [
+      {
+        "year": 2018,
+        "ranking": 74
+      },
+      {
+        "year": 2019,
+        "ranking": 66
+      },
+      {
+        "year": 2020,
+        "ranking": 24
+      },
+      {
+        "year": 2021,
+        "ranking": 38
+      },
+      {
+        "year": 2022,
+        "ranking": 28
+      },
+      {
+        "year": 2023,
+        "ranking": 28
+      }
+    ],
+    "top_holdings": [
+      {
+        "stock_name": "合联电子传媒有限公司",
+        "holding_percent": 3.72
+      },
+      {
+        "stock_name": "华泰通安网络有限公司",
+        "holding_percent": 0.99
+      },
+      {
+        "stock_name": "网新恒天传媒有限公司",
+        "holding_percent": 3.87
+      }
+    ]
+  },
+  {
+    "fund_id": 48,
+    "manager": {
+      "name": "魏军",
+      "experience_years": 7
+    },
+    "historical_rankings": [
+      {
+        "year": 2018,
+        "ranking": 75
+      },
+      {
+        "year": 2019,
+        "ranking": 74
+      },
+      {
+        "year": 2020,
+        "ranking": 43
+      },
+      {
+        "year": 2021,
+        "ranking": 59
+      },
+      {
+        "year": 2022,
+        "ranking": 2
+      },
+      {
+        "year": 2023,
+        "ranking": 15
+      }
+    ],
+    "top_holdings": [
+      {
+        "stock_name": "昂歌信息科技有限公司",
+        "holding_percent": 3.88
+      },
+      {
+        "stock_name": "良诺传媒有限公司",
+        "holding_percent": 4.29
+      },
+      {
+        "stock_name": "时空盒数字科技有限公司",
+        "holding_percent": 2.62
+      },
+      {
+        "stock_name": "富罳科技有限公司",
+        "holding_percent": 2.25
+      },
+      {
+        "stock_name": "立信电子传媒有限公司",
+        "holding_percent": 2.27
+      }
+    ]
+  },
+  {
+    "fund_id": 49,
+    "manager": {
+      "name": "俞雷",
+      "experience_years": 6
+    },
+    "historical_rankings": [
+      {
+        "year": 2018,
+        "ranking": 24
+      },
+      {
+        "year": 2019,
+        "ranking": 84
+      },
+      {
+        "year": 2020,
+        "ranking": 39
+      },
+      {
+        "year": 2021,
+        "ranking": 92
+      },
+      {
+        "year": 2022,
+        "ranking": 54
+      },
+      {
+        "year": 2023,
+        "ranking": 39
+      }
+    ],
+    "top_holdings": [
+      {
+        "stock_name": "天益传媒有限公司",
+        "holding_percent": 4.42
+      },
+      {
+        "stock_name": "超艺传媒有限公司",
+        "holding_percent": 3.01
+      },
+      {
+        "stock_name": "网新恒天科技有限公司",
+        "holding_percent": 1.96
+      }
+    ]
+  },
+  {
+    "fund_id": 50,
+    "manager": {
+      "name": "李文",
+      "experience_years": 16
+    },
+    "historical_rankings": [
+      {
+        "year": 2018,
+        "ranking": 47
+      },
+      {
+        "year": 2019,
+        "ranking": 64
+      },
+      {
+        "year": 2020,
+        "ranking": 46
+      },
+      {
+        "year": 2021,
+        "ranking": 35
+      },
+      {
+        "year": 2022,
+        "ranking": 94
+      },
+      {
+        "year": 2023,
+        "ranking": 17
+      }
+    ],
+    "top_holdings": [
+      {
+        "stock_name": "富罳科技有限公司",
+        "holding_percent": 2.68
+      },
+      {
+        "stock_name": "开发区世创传媒有限公司",
+        "holding_percent": 4.58
+      },
+      {
+        "stock_name": "易动力信息有限公司",
+        "holding_percent": 4.26
+      },
+      {
+        "stock_name": "太极网络有限公司",
+        "holding_percent": 1.16
+      }
+    ]
+  },
+  {
+    "fund_id": 51,
+    "manager": {
+      "name": "王鑫",
+      "experience_years": 7
+    },
+    "historical_rankings": [
+      {
+        "year": 2018,
+        "ranking": 61
+      },
+      {
+        "year": 2019,
+        "ranking": 39
+      },
+      {
+        "year": 2020,
+        "ranking": 55
+      },
+      {
+        "year": 2021,
+        "ranking": 96
+      },
+      {
+        "year": 2022,
+        "ranking": 36
+      },
+      {
+        "year": 2023,
+        "ranking": 37
+      }
+    ],
+    "top_holdings": [
+      {
+        "stock_name": "MBP软件传媒有限公司",
+        "holding_percent": 3.23
+      },
+      {
+        "stock_name": "九方信息有限公司",
+        "holding_percent": 2.64
+      },
+      {
+        "stock_name": "方正科技网络有限公司",
+        "holding_percent": 4.4
+      },
+      {
+        "stock_name": "明腾网络有限公司",
+        "holding_percent": 0.64
+      },
+      {
+        "stock_name": "商软冠联信息有限公司",
+        "holding_percent": 3.4
+      },
+      {
+        "stock_name": "佳禾传媒有限公司",
+        "holding_percent": 3.93
+      }
+    ]
+  },
+  {
+    "fund_id": 52,
+    "manager": {
+      "name": "张萍",
+      "experience_years": 18
+    },
+    "historical_rankings": [
+      {
+        "year": 2018,
+        "ranking": 57
+      },
+      {
+        "year": 2019,
+        "ranking": 75
+      },
+      {
+        "year": 2020,
+        "ranking": 22
+      },
+      {
+        "year": 2021,
+        "ranking": 4
+      },
+      {
+        "year": 2022,
+        "ranking": 81
+      },
+      {
+        "year": 2023,
+        "ranking": 72
+      }
+    ],
+    "top_holdings": [
+      {
+        "stock_name": "天益信息有限公司",
+        "holding_percent": 2.0
+      },
+      {
+        "stock_name": "彩虹信息有限公司",
+        "holding_percent": 2.76
+      },
+      {
+        "stock_name": "晖来计算机网络有限公司",
+        "holding_percent": 0.56
+      },
+      {
+        "stock_name": "新格林耐特网络有限公司",
+        "holding_percent": 0.53
+      }
+    ]
+  },
+  {
+    "fund_id": 53,
+    "manager": {
+      "name": "张亮",
+      "experience_years": 8
+    },
+    "historical_rankings": [
+      {
+        "year": 2018,
+        "ranking": 21
+      },
+      {
+        "year": 2019,
+        "ranking": 94
+      },
+      {
+        "year": 2020,
+        "ranking": 10
+      },
+      {
+        "year": 2021,
+        "ranking": 26
+      },
+      {
+        "year": 2022,
+        "ranking": 91
+      },
+      {
+        "year": 2023,
+        "ranking": 8
+      }
+    ],
+    "top_holdings": [
+      {
+        "stock_name": "趋势网络有限公司",
+        "holding_percent": 4.59
+      },
+      {
+        "stock_name": "昂歌信息传媒有限公司",
+        "holding_percent": 0.54
+      },
+      {
+        "stock_name": "超艺网络有限公司",
+        "holding_percent": 3.81
+      },
+      {
+        "stock_name": "九方科技有限公司",
+        "holding_percent": 1.18
+      },
+      {
+        "stock_name": "快讯科技有限公司",
+        "holding_percent": 4.61
+      }
+    ]
+  },
+  {
+    "fund_id": 54,
+    "manager": {
+      "name": "张金凤",
+      "experience_years": 14
+    },
+    "historical_rankings": [
+      {
+        "year": 2018,
+        "ranking": 91
+      },
+      {
+        "year": 2019,
+        "ranking": 22
+      },
+      {
+        "year": 2020,
+        "ranking": 96
+      },
+      {
+        "year": 2021,
+        "ranking": 27
+      },
+      {
+        "year": 2022,
+        "ranking": 64
+      },
+      {
+        "year": 2023,
+        "ranking": 2
+      }
+    ],
+    "top_holdings": [
+      {
+        "stock_name": "襄樊地球村信息有限公司",
+        "holding_percent": 4.71
+      },
+      {
+        "stock_name": "华泰通安信息有限公司",
+        "holding_percent": 4.82
+      },
+      {
+        "stock_name": "易动力传媒有限公司",
+        "holding_percent": 1.44
+      }
+    ]
+  },
+  {
+    "fund_id": 55,
+    "manager": {
+      "name": "崔英",
+      "experience_years": 7
+    },
+    "historical_rankings": [
+      {
+        "year": 2018,
+        "ranking": 97
+      },
+      {
+        "year": 2019,
+        "ranking": 84
+      },
+      {
+        "year": 2020,
+        "ranking": 30
+      },
+      {
+        "year": 2021,
+        "ranking": 8
+      },
+      {
+        "year": 2022,
+        "ranking": 38
+      },
+      {
+        "year": 2023,
+        "ranking": 61
+      }
+    ],
+    "top_holdings": [
+      {
+        "stock_name": "创汇网络有限公司",
+        "holding_percent": 1.13
+      },
+      {
+        "stock_name": "时刻信息有限公司",
+        "holding_percent": 1.51
+      },
+      {
+        "stock_name": "盟新信息有限公司",
+        "holding_percent": 3.01
+      }
+    ]
+  },
+  {
+    "fund_id": 56,
+    "manager": {
+      "name": "陈勇",
+      "experience_years": 10
+    },
+    "historical_rankings": [
+      {
+        "year": 2018,
+        "ranking": 43
+      },
+      {
+        "year": 2019,
+        "ranking": 59
+      },
+      {
+        "year": 2020,
+        "ranking": 46
+      },
+      {
+        "year": 2021,
+        "ranking": 72
+      },
+      {
+        "year": 2022,
+        "ranking": 35
+      },
+      {
+        "year": 2023,
+        "ranking": 39
+      }
+    ],
+    "top_holdings": [
+      {
+        "stock_name": "四通网络有限公司",
+        "holding_percent": 3.39
+      },
+      {
+        "stock_name": "七喜网络有限公司",
+        "holding_percent": 4.52
+      },
+      {
+        "stock_name": "立信电子传媒有限公司",
+        "holding_percent": 4.48
+      },
+      {
+        "stock_name": "精芯网络有限公司",
+        "holding_percent": 3.65
+      },
+      {
+        "stock_name": "黄石金承科技有限公司",
+        "holding_percent": 2.6
+      },
+      {
+        "stock_name": "晖来计算机传媒有限公司",
+        "holding_percent": 2.8
+      }
+    ]
+  },
+  {
+    "fund_id": 57,
+    "manager": {
+      "name": "廖艳",
+      "experience_years": 6
+    },
+    "historical_rankings": [
+      {
+        "year": 2018,
+        "ranking": 34
+      },
+      {
+        "year": 2019,
+        "ranking": 54
+      },
+      {
+        "year": 2020,
+        "ranking": 34
+      },
+      {
+        "year": 2021,
+        "ranking": 83
+      },
+      {
+        "year": 2022,
+        "ranking": 17
+      },
+      {
+        "year": 2023,
+        "ranking": 5
+      }
+    ],
+    "top_holdings": [
+      {
+        "stock_name": "思优传媒有限公司",
+        "holding_percent": 3.77
+      },
+      {
+        "stock_name": "创联世纪信息有限公司",
+        "holding_percent": 1.05
+      },
+      {
+        "stock_name": "凌颖信息传媒有限公司",
+        "holding_percent": 3.24
+      }
+    ]
+  },
+  {
+    "fund_id": 58,
+    "manager": {
+      "name": "宋丽华",
+      "experience_years": 17
+    },
+    "historical_rankings": [
+      {
+        "year": 2018,
+        "ranking": 45
+      },
+      {
+        "year": 2019,
+        "ranking": 13
+      },
+      {
+        "year": 2020,
+        "ranking": 16
+      },
+      {
+        "year": 2021,
+        "ranking": 86
+      },
+      {
+        "year": 2022,
+        "ranking": 84
+      },
+      {
+        "year": 2023,
+        "ranking": 13
+      }
+    ],
+    "top_holdings": [
+      {
+        "stock_name": "巨奥科技有限公司",
+        "holding_percent": 2.77
+      },
+      {
+        "stock_name": "迪摩科技有限公司",
+        "holding_percent": 4.52
+      },
+      {
+        "stock_name": "九方科技有限公司",
+        "holding_percent": 4.71
+      },
+      {
+        "stock_name": "立信电子传媒有限公司",
+        "holding_percent": 4.13
+      },
+      {
+        "stock_name": "鸿睿思博传媒有限公司",
+        "holding_percent": 3.36
+      },
+      {
+        "stock_name": "快讯科技有限公司",
+        "holding_percent": 1.87
+      }
+    ]
+  },
+  {
+    "fund_id": 59,
+    "manager": {
+      "name": "周建",
+      "experience_years": 9
+    },
+    "historical_rankings": [
+      {
+        "year": 2018,
+        "ranking": 34
+      },
+      {
+        "year": 2019,
+        "ranking": 27
+      },
+      {
+        "year": 2020,
+        "ranking": 7
+      },
+      {
+        "year": 2021,
+        "ranking": 3
+      },
+      {
+        "year": 2022,
+        "ranking": 47
+      },
+      {
+        "year": 2023,
+        "ranking": 97
+      }
+    ],
+    "top_holdings": [
+      {
+        "stock_name": "泰麒麟传媒有限公司",
+        "holding_percent": 3.15
+      },
+      {
+        "stock_name": "泰麒麟科技有限公司",
+        "holding_percent": 3.01
+      },
+      {
+        "stock_name": "和泰网络有限公司",
+        "holding_percent": 3.45
+      },
+      {
+        "stock_name": "数字100信息有限公司",
+        "holding_percent": 2.74
+      }
+    ]
+  },
+  {
+    "fund_id": 60,
+    "manager": {
+      "name": "胡欣",
+      "experience_years": 16
+    },
+    "historical_rankings": [
+      {
+        "year": 2018,
+        "ranking": 54
+      },
+      {
+        "year": 2019,
+        "ranking": 78
+      },
+      {
+        "year": 2020,
+        "ranking": 6
+      },
+      {
+        "year": 2021,
+        "ranking": 78
+      },
+      {
+        "year": 2022,
+        "ranking": 81
+      },
+      {
+        "year": 2023,
+        "ranking": 18
+      }
+    ],
+    "top_holdings": [
+      {
+        "stock_name": "毕博诚网络有限公司",
+        "holding_percent": 3.91
+      },
+      {
+        "stock_name": "泰麒麟科技有限公司",
+        "holding_percent": 1.52
+      },
+      {
+        "stock_name": "凌云网络有限公司",
+        "holding_percent": 1.5
+      },
+      {
+        "stock_name": "时空盒数字信息有限公司",
+        "holding_percent": 1.23
+      },
+      {
+        "stock_name": "网新恒天科技有限公司",
+        "holding_percent": 2.17
+      },
+      {
+        "stock_name": "创亿网络有限公司",
+        "holding_percent": 4.31
+      }
+    ]
+  },
+  {
+    "fund_id": 61,
+    "manager": {
+      "name": "王秀荣",
+      "experience_years": 16
+    },
+    "historical_rankings": [
+      {
+        "year": 2018,
+        "ranking": 52
+      },
+      {
+        "year": 2019,
+        "ranking": 97
+      },
+      {
+        "year": 2020,
+        "ranking": 63
+      },
+      {
+        "year": 2021,
+        "ranking": 74
+      },
+      {
+        "year": 2022,
+        "ranking": 63
+      },
+      {
+        "year": 2023,
+        "ranking": 17
+      }
+    ],
+    "top_holdings": [
+      {
+        "stock_name": "维旺明科技有限公司",
+        "holding_percent": 1.59
+      },
+      {
+        "stock_name": "超艺网络有限公司",
+        "holding_percent": 1.26
+      },
+      {
+        "stock_name": "华成育卓网络有限公司",
+        "holding_percent": 4.87
+      }
+    ]
+  },
+  {
+    "fund_id": 62,
+    "manager": {
+      "name": "刘峰",
+      "experience_years": 4
+    },
+    "historical_rankings": [
+      {
+        "year": 2018,
+        "ranking": 72
+      },
+      {
+        "year": 2019,
+        "ranking": 13
+      },
+      {
+        "year": 2020,
+        "ranking": 23
+      },
+      {
+        "year": 2021,
+        "ranking": 57
+      },
+      {
+        "year": 2022,
+        "ranking": 62
+      },
+      {
+        "year": 2023,
+        "ranking": 54
+      }
+    ],
+    "top_holdings": [
+      {
+        "stock_name": "创联世纪网络有限公司",
+        "holding_percent": 1.5
+      },
+      {
+        "stock_name": "MBP软件网络有限公司",
+        "holding_percent": 1.68
+      },
+      {
+        "stock_name": "七喜网络有限公司",
+        "holding_percent": 2.8
+      },
+      {
+        "stock_name": "天益信息有限公司",
+        "holding_percent": 1.94
+      },
+      {
+        "stock_name": "惠派国际公司传媒有限公司",
+        "holding_percent": 1.25
+      },
+      {
+        "stock_name": "趋势网络有限公司",
+        "holding_percent": 1.68
+      }
+    ]
+  },
+  {
+    "fund_id": 63,
+    "manager": {
+      "name": "刘玉珍",
+      "experience_years": 17
+    },
+    "historical_rankings": [
+      {
+        "year": 2018,
+        "ranking": 78
+      },
+      {
+        "year": 2019,
+        "ranking": 66
+      },
+      {
+        "year": 2020,
+        "ranking": 39
+      },
+      {
+        "year": 2021,
+        "ranking": 18
+      },
+      {
+        "year": 2022,
+        "ranking": 70
+      },
+      {
+        "year": 2023,
+        "ranking": 59
+      }
+    ],
+    "top_holdings": [
+      {
+        "stock_name": "泰麒麟传媒有限公司",
+        "holding_percent": 4.81
+      },
+      {
+        "stock_name": "良诺信息有限公司",
+        "holding_percent": 0.55
+      },
+      {
+        "stock_name": "群英信息有限公司",
+        "holding_percent": 4.96
+      },
+      {
+        "stock_name": "毕博诚信息有限公司",
+        "holding_percent": 3.57
+      },
+      {
+        "stock_name": "银嘉传媒有限公司",
+        "holding_percent": 3.4
+      },
+      {
+        "stock_name": "维旺明传媒有限公司",
+        "holding_percent": 0.57
+      }
+    ]
+  },
+  {
+    "fund_id": 64,
+    "manager": {
+      "name": "高瑞",
+      "experience_years": 17
+    },
+    "historical_rankings": [
+      {
+        "year": 2018,
+        "ranking": 13
+      },
+      {
+        "year": 2019,
+        "ranking": 56
+      },
+      {
+        "year": 2020,
+        "ranking": 66
+      },
+      {
+        "year": 2021,
+        "ranking": 78
+      },
+      {
+        "year": 2022,
+        "ranking": 56
+      },
+      {
+        "year": 2023,
+        "ranking": 28
+      }
+    ],
+    "top_holdings": [
+      {
+        "stock_name": "MBP软件科技有限公司",
+        "holding_percent": 4.97
+      },
+      {
+        "stock_name": "超艺信息有限公司",
+        "holding_percent": 1.55
+      },
+      {
+        "stock_name": "兰金电子网络有限公司",
+        "holding_percent": 3.31
+      },
+      {
+        "stock_name": "巨奥网络有限公司",
+        "holding_percent": 2.57
+      },
+      {
+        "stock_name": "数字100网络有限公司",
+        "holding_percent": 0.68
+      },
+      {
+        "stock_name": "创汇网络有限公司",
+        "holding_percent": 0.57
+      }
+    ]
+  },
+  {
+    "fund_id": 65,
+    "manager": {
+      "name": "刘旭",
+      "experience_years": 16
+    },
+    "historical_rankings": [
+      {
+        "year": 2018,
+        "ranking": 56
+      },
+      {
+        "year": 2019,
+        "ranking": 31
+      },
+      {
+        "year": 2020,
+        "ranking": 88
+      },
+      {
+        "year": 2021,
+        "ranking": 7
+      },
+      {
+        "year": 2022,
+        "ranking": 90
+      },
+      {
+        "year": 2023,
+        "ranking": 77
+      }
+    ],
+    "top_holdings": [
+      {
+        "stock_name": "时刻传媒有限公司",
+        "holding_percent": 4.62
+      },
+      {
+        "stock_name": "和泰网络有限公司",
+        "holding_percent": 4.41
+      },
+      {
+        "stock_name": "通际名联传媒有限公司",
+        "holding_percent": 2.17
+      },
+      {
+        "stock_name": "惠派国际公司信息有限公司",
+        "holding_percent": 0.82
+      }
+    ]
+  },
+  {
+    "fund_id": 66,
+    "manager": {
+      "name": "蒙淑珍",
+      "experience_years": 6
+    },
+    "historical_rankings": [
+      {
+        "year": 2018,
+        "ranking": 21
+      },
+      {
+        "year": 2019,
+        "ranking": 18
+      },
+      {
+        "year": 2020,
+        "ranking": 39
+      },
+      {
+        "year": 2021,
+        "ranking": 15
+      },
+      {
+        "year": 2022,
+        "ranking": 53
+      },
+      {
+        "year": 2023,
+        "ranking": 38
+      }
+    ],
+    "top_holdings": [
+      {
+        "stock_name": "新宇龙信息传媒有限公司",
+        "holding_percent": 0.74
+      },
+      {
+        "stock_name": "太极科技有限公司",
+        "holding_percent": 4.08
+      },
+      {
+        "stock_name": "MBP软件网络有限公司",
+        "holding_percent": 2.38
+      },
+      {
+        "stock_name": "佳禾信息有限公司",
+        "holding_percent": 1.53
+      },
+      {
+        "stock_name": "数字100科技有限公司",
+        "holding_percent": 1.54
+      },
+      {
+        "stock_name": "合联电子信息有限公司",
+        "holding_percent": 4.56
+      }
+    ]
+  },
+  {
+    "fund_id": 67,
+    "manager": {
+      "name": "史想",
+      "experience_years": 5
+    },
+    "historical_rankings": [
+      {
+        "year": 2018,
+        "ranking": 52
+      },
+      {
+        "year": 2019,
+        "ranking": 93
+      },
+      {
+        "year": 2020,
+        "ranking": 82
+      },
+      {
+        "year": 2021,
+        "ranking": 12
+      },
+      {
+        "year": 2022,
+        "ranking": 83
+      },
+      {
+        "year": 2023,
+        "ranking": 48
+      }
+    ],
+    "top_holdings": [
+      {
+        "stock_name": "信诚致远科技有限公司",
+        "holding_percent": 4.62
+      },
+      {
+        "stock_name": "群英网络有限公司",
+        "holding_percent": 1.07
+      },
+      {
+        "stock_name": "毕博诚信息有限公司",
+        "holding_percent": 2.38
+      },
+      {
+        "stock_name": "网新恒天科技有限公司",
+        "holding_percent": 2.05
+      }
+    ]
+  },
+  {
+    "fund_id": 68,
+    "manager": {
+      "name": "胡帆",
+      "experience_years": 10
+    },
+    "historical_rankings": [
+      {
+        "year": 2018,
+        "ranking": 86
+      },
+      {
+        "year": 2019,
+        "ranking": 25
+      },
+      {
+        "year": 2020,
+        "ranking": 66
+      },
+      {
+        "year": 2021,
+        "ranking": 73
+      },
+      {
+        "year": 2022,
+        "ranking": 73
+      },
+      {
+        "year": 2023,
+        "ranking": 77
+      }
+    ],
+    "top_holdings": [
+      {
+        "stock_name": "雨林木风计算机传媒有限公司",
+        "holding_percent": 2.41
+      },
+      {
+        "stock_name": "天开信息有限公司",
+        "holding_percent": 4.37
+      },
+      {
+        "stock_name": "银嘉网络有限公司",
+        "holding_percent": 2.94
+      },
+      {
+        "stock_name": "雨林木风计算机科技有限公司",
+        "holding_percent": 3.6
+      }
+    ]
+  },
+  {
+    "fund_id": 69,
+    "manager": {
+      "name": "杨林",
+      "experience_years": 13
+    },
+    "historical_rankings": [
+      {
+        "year": 2018,
+        "ranking": 38
+      },
+      {
+        "year": 2019,
+        "ranking": 40
+      },
+      {
+        "year": 2020,
+        "ranking": 66
+      },
+      {
+        "year": 2021,
+        "ranking": 39
+      },
+      {
+        "year": 2022,
+        "ranking": 74
+      },
+      {
+        "year": 2023,
+        "ranking": 17
+      }
+    ],
+    "top_holdings": [
+      {
+        "stock_name": "盟新网络有限公司",
+        "holding_percent": 4.51
+      },
+      {
+        "stock_name": "网新恒天科技有限公司",
+        "holding_percent": 2.0
+      },
+      {
+        "stock_name": "华泰通安信息有限公司",
+        "holding_percent": 1.16
+      },
+      {
+        "stock_name": "创汇网络有限公司",
+        "holding_percent": 0.93
+      },
+      {
+        "stock_name": "华泰通安网络有限公司",
+        "holding_percent": 0.56
+      }
+    ]
+  },
+  {
+    "fund_id": 70,
+    "manager": {
+      "name": "杨小红",
+      "experience_years": 11
+    },
+    "historical_rankings": [
+      {
+        "year": 2018,
+        "ranking": 13
+      },
+      {
+        "year": 2019,
+        "ranking": 18
+      },
+      {
+        "year": 2020,
+        "ranking": 21
+      },
+      {
+        "year": 2021,
+        "ranking": 65
+      },
+      {
+        "year": 2022,
+        "ranking": 8
+      },
+      {
+        "year": 2023,
+        "ranking": 48
+      }
+    ],
+    "top_holdings": [
+      {
+        "stock_name": "迪摩传媒有限公司",
+        "holding_percent": 4.68
+      },
+      {
+        "stock_name": "趋势传媒有限公司",
+        "holding_percent": 3.73
+      },
+      {
+        "stock_name": "济南亿次元传媒有限公司",
+        "holding_percent": 3.93
+      }
+    ]
+  },
+  {
+    "fund_id": 71,
+    "manager": {
+      "name": "姜波",
+      "experience_years": 13
+    },
+    "historical_rankings": [
+      {
+        "year": 2018,
+        "ranking": 99
+      },
+      {
+        "year": 2019,
+        "ranking": 51
+      },
+      {
+        "year": 2020,
+        "ranking": 69
+      },
+      {
+        "year": 2021,
+        "ranking": 41
+      },
+      {
+        "year": 2022,
+        "ranking": 72
+      },
+      {
+        "year": 2023,
+        "ranking": 11
+      }
+    ],
+    "top_holdings": [
+      {
+        "stock_name": "开发区世创传媒有限公司",
+        "holding_percent": 1.25
+      },
+      {
+        "stock_name": "易动力科技有限公司",
+        "holding_percent": 0.63
+      },
+      {
+        "stock_name": "彩虹传媒有限公司",
+        "holding_percent": 3.33
+      },
+      {
+        "stock_name": "兰金电子信息有限公司",
+        "holding_percent": 4.89
+      },
+      {
+        "stock_name": "中建创业网络有限公司",
+        "holding_percent": 1.99
+      },
+      {
+        "stock_name": "九方网络有限公司",
+        "holding_percent": 1.03
+      }
+    ]
+  },
+  {
+    "fund_id": 72,
+    "manager": {
+      "name": "曾平",
+      "experience_years": 4
+    },
+    "historical_rankings": [
+      {
+        "year": 2018,
+        "ranking": 94
+      },
+      {
+        "year": 2019,
+        "ranking": 77
+      },
+      {
+        "year": 2020,
+        "ranking": 62
+      },
+      {
+        "year": 2021,
+        "ranking": 87
+      },
+      {
+        "year": 2022,
+        "ranking": 29
+      },
+      {
+        "year": 2023,
+        "ranking": 38
+      }
+    ],
+    "top_holdings": [
+      {
+        "stock_name": "菊风公司科技有限公司",
+        "holding_percent": 1.92
+      },
+      {
+        "stock_name": "鑫博腾飞网络有限公司",
+        "holding_percent": 2.94
+      },
+      {
+        "stock_name": "商软冠联信息有限公司",
+        "holding_percent": 0.91
+      }
+    ]
+  },
+  {
+    "fund_id": 73,
+    "manager": {
+      "name": "田凤兰",
+      "experience_years": 12
+    },
+    "historical_rankings": [
+      {
+        "year": 2018,
+        "ranking": 3
+      },
+      {
+        "year": 2019,
+        "ranking": 93
+      },
+      {
+        "year": 2020,
+        "ranking": 45
+      },
+      {
+        "year": 2021,
+        "ranking": 8
+      },
+      {
+        "year": 2022,
+        "ranking": 86
+      },
+      {
+        "year": 2023,
+        "ranking": 29
+      }
+    ],
+    "top_holdings": [
+      {
+        "stock_name": "国讯科技有限公司",
+        "holding_percent": 3.68
+      },
+      {
+        "stock_name": "创亿传媒有限公司",
+        "holding_percent": 4.06
+      },
+      {
+        "stock_name": "维旺明网络有限公司",
+        "holding_percent": 1.37
+      },
+      {
+        "stock_name": "立信电子科技有限公司",
+        "holding_percent": 1.68
+      }
+    ]
+  },
+  {
+    "fund_id": 74,
+    "manager": {
+      "name": "刘雷",
+      "experience_years": 7
+    },
+    "historical_rankings": [
+      {
+        "year": 2018,
+        "ranking": 72
+      },
+      {
+        "year": 2019,
+        "ranking": 27
+      },
+      {
+        "year": 2020,
+        "ranking": 47
+      },
+      {
+        "year": 2021,
+        "ranking": 99
+      },
+      {
+        "year": 2022,
+        "ranking": 6
+      },
+      {
+        "year": 2023,
+        "ranking": 60
+      }
+    ],
+    "top_holdings": [
+      {
+        "stock_name": "精芯传媒有限公司",
+        "holding_percent": 0.88
+      },
+      {
+        "stock_name": "浦华众城传媒有限公司",
+        "holding_percent": 2.06
+      },
+      {
+        "stock_name": "国讯信息有限公司",
+        "holding_percent": 2.39
+      }
+    ]
+  },
+  {
+    "fund_id": 75,
+    "manager": {
+      "name": "周玉",
+      "experience_years": 9
+    },
+    "historical_rankings": [
+      {
+        "year": 2018,
+        "ranking": 44
+      },
+      {
+        "year": 2019,
+        "ranking": 29
+      },
+      {
+        "year": 2020,
+        "ranking": 95
+      },
+      {
+        "year": 2021,
+        "ranking": 44
+      },
+      {
+        "year": 2022,
+        "ranking": 36
+      },
+      {
+        "year": 2023,
+        "ranking": 19
+      }
+    ],
+    "top_holdings": [
+      {
+        "stock_name": "通际名联网络有限公司",
+        "holding_percent": 2.79
+      },
+      {
+        "stock_name": "维涛网络有限公司",
+        "holding_percent": 1.08
+      },
+      {
+        "stock_name": "商软冠联科技有限公司",
+        "holding_percent": 3.88
+      },
+      {
+        "stock_name": "创联世纪信息有限公司",
+        "holding_percent": 0.95
+      }
+    ]
+  },
+  {
+    "fund_id": 76,
+    "manager": {
+      "name": "翁玉珍",
+      "experience_years": 11
+    },
+    "historical_rankings": [
+      {
+        "year": 2018,
+        "ranking": 66
+      },
+      {
+        "year": 2019,
+        "ranking": 85
+      },
+      {
+        "year": 2020,
+        "ranking": 97
+      },
+      {
+        "year": 2021,
+        "ranking": 24
+      },
+      {
+        "year": 2022,
+        "ranking": 44
+      },
+      {
+        "year": 2023,
+        "ranking": 98
+      }
+    ],
+    "top_holdings": [
+      {
+        "stock_name": "万迅电脑信息有限公司",
+        "holding_percent": 3.5
+      },
+      {
+        "stock_name": "晖来计算机网络有限公司",
+        "holding_percent": 1.56
+      },
+      {
+        "stock_name": "昊嘉信息有限公司",
+        "holding_percent": 4.53
+      },
+      {
+        "stock_name": "商软冠联传媒有限公司",
+        "holding_percent": 1.33
+      },
+      {
+        "stock_name": "彩虹网络有限公司",
+        "holding_percent": 1.46
+      },
+      {
+        "stock_name": "趋势传媒有限公司",
+        "holding_percent": 1.72
+      }
+    ]
+  },
+  {
+    "fund_id": 77,
+    "manager": {
+      "name": "任秀芳",
+      "experience_years": 15
+    },
+    "historical_rankings": [
+      {
+        "year": 2018,
+        "ranking": 71
+      },
+      {
+        "year": 2019,
+        "ranking": 16
+      },
+      {
+        "year": 2020,
+        "ranking": 97
+      },
+      {
+        "year": 2021,
+        "ranking": 45
+      },
+      {
+        "year": 2022,
+        "ranking": 65
+      },
+      {
+        "year": 2023,
+        "ranking": 11
+      }
+    ],
+    "top_holdings": [
+      {
+        "stock_name": "诺依曼软件信息有限公司",
+        "holding_percent": 0.9
+      },
+      {
+        "stock_name": "戴硕电子网络有限公司",
+        "holding_percent": 4.79
+      },
+      {
+        "stock_name": "时刻传媒有限公司",
+        "holding_percent": 4.65
+      },
+      {
+        "stock_name": "和泰传媒有限公司",
+        "holding_percent": 0.74
+      }
+    ]
+  },
+  {
+    "fund_id": 78,
+    "manager": {
+      "name": "邢伟",
+      "experience_years": 14
+    },
+    "historical_rankings": [
+      {
+        "year": 2018,
+        "ranking": 62
+      },
+      {
+        "year": 2019,
+        "ranking": 94
+      },
+      {
+        "year": 2020,
+        "ranking": 92
+      },
+      {
+        "year": 2021,
+        "ranking": 91
+      },
+      {
+        "year": 2022,
+        "ranking": 42
+      },
+      {
+        "year": 2023,
+        "ranking": 83
+      }
+    ],
+    "top_holdings": [
+      {
+        "stock_name": "雨林木风计算机信息有限公司",
+        "holding_percent": 3.74
+      },
+      {
+        "stock_name": "创亿信息有限公司",
+        "holding_percent": 2.74
+      },
+      {
+        "stock_name": "创亿科技有限公司",
+        "holding_percent": 0.69
+      }
+    ]
+  },
+  {
+    "fund_id": 79,
+    "manager": {
+      "name": "刘建华",
+      "experience_years": 19
+    },
+    "historical_rankings": [
+      {
+        "year": 2018,
+        "ranking": 21
+      },
+      {
+        "year": 2019,
+        "ranking": 1
+      },
+      {
+        "year": 2020,
+        "ranking": 92
+      },
+      {
+        "year": 2021,
+        "ranking": 58
+      },
+      {
+        "year": 2022,
+        "ranking": 79
+      },
+      {
+        "year": 2023,
+        "ranking": 55
+      }
+    ],
+    "top_holdings": [
+      {
+        "stock_name": "维涛网络有限公司",
+        "holding_percent": 3.87
+      },
+      {
+        "stock_name": "商软冠联传媒有限公司",
+        "holding_percent": 3.5
+      },
+      {
+        "stock_name": "泰麒麟信息有限公司",
+        "holding_percent": 4.96
+      }
+    ]
+  },
+  {
+    "fund_id": 80,
+    "manager": {
+      "name": "戴海燕",
+      "experience_years": 10
+    },
+    "historical_rankings": [
+      {
+        "year": 2018,
+        "ranking": 69
+      },
+      {
+        "year": 2019,
+        "ranking": 6
+      },
+      {
+        "year": 2020,
+        "ranking": 23
+      },
+      {
+        "year": 2021,
+        "ranking": 30
+      },
+      {
+        "year": 2022,
+        "ranking": 78
+      },
+      {
+        "year": 2023,
+        "ranking": 54
+      }
+    ],
+    "top_holdings": [
+      {
+        "stock_name": "创联世纪网络有限公司",
+        "holding_percent": 2.85
+      },
+      {
+        "stock_name": "联通时科网络有限公司",
+        "holding_percent": 0.53
+      },
+      {
+        "stock_name": "国讯网络有限公司",
+        "holding_percent": 1.92
+      },
+      {
+        "stock_name": "襄樊地球村网络有限公司",
+        "holding_percent": 3.55
+      },
+      {
+        "stock_name": "华远软件信息有限公司",
+        "holding_percent": 2.68
+      }
+    ]
+  },
+  {
+    "fund_id": 81,
+    "manager": {
+      "name": "罗伟",
+      "experience_years": 5
+    },
+    "historical_rankings": [
+      {
+        "year": 2018,
+        "ranking": 36
+      },
+      {
+        "year": 2019,
+        "ranking": 17
+      },
+      {
+        "year": 2020,
+        "ranking": 28
+      },
+      {
+        "year": 2021,
+        "ranking": 92
+      },
+      {
+        "year": 2022,
+        "ranking": 22
+      },
+      {
+        "year": 2023,
+        "ranking": 7
+      }
+    ],
+    "top_holdings": [
+      {
+        "stock_name": "恒聪百汇科技有限公司",
+        "holding_percent": 4.6
+      },
+      {
+        "stock_name": "兰金电子信息有限公司",
+        "holding_percent": 4.19
+      },
+      {
+        "stock_name": "创联世纪信息有限公司",
+        "holding_percent": 1.08
+      },
+      {
+        "stock_name": "联软传媒有限公司",
+        "holding_percent": 4.99
+      },
+      {
+        "stock_name": "迪摩传媒有限公司",
+        "holding_percent": 1.66
+      }
+    ]
+  },
+  {
+    "fund_id": 82,
+    "manager": {
+      "name": "胡丽丽",
+      "experience_years": 16
+    },
+    "historical_rankings": [
+      {
+        "year": 2018,
+        "ranking": 41
+      },
+      {
+        "year": 2019,
+        "ranking": 82
+      },
+      {
+        "year": 2020,
+        "ranking": 51
+      },
+      {
+        "year": 2021,
+        "ranking": 44
+      },
+      {
+        "year": 2022,
+        "ranking": 95
+      },
+      {
+        "year": 2023,
+        "ranking": 13
+      }
+    ],
+    "top_holdings": [
+      {
+        "stock_name": "创联世纪传媒有限公司",
+        "holding_percent": 2.38
+      },
+      {
+        "stock_name": "网新恒天信息有限公司",
+        "holding_percent": 1.84
+      },
+      {
+        "stock_name": "凌云科技有限公司",
+        "holding_percent": 4.61
+      },
+      {
+        "stock_name": "创汇网络有限公司",
+        "holding_percent": 1.37
+      }
+    ]
+  },
+  {
+    "fund_id": 83,
+    "manager": {
+      "name": "郭鑫",
+      "experience_years": 10
+    },
+    "historical_rankings": [
+      {
+        "year": 2018,
+        "ranking": 24
+      },
+      {
+        "year": 2019,
+        "ranking": 98
+      },
+      {
+        "year": 2020,
+        "ranking": 72
+      },
+      {
+        "year": 2021,
+        "ranking": 33
+      },
+      {
+        "year": 2022,
+        "ranking": 23
+      },
+      {
+        "year": 2023,
+        "ranking": 77
+      }
+    ],
+    "top_holdings": [
+      {
+        "stock_name": "彩虹科技有限公司",
+        "holding_percent": 4.1
+      },
+      {
+        "stock_name": "超艺科技有限公司",
+        "holding_percent": 1.64
+      },
+      {
+        "stock_name": "维涛信息有限公司",
+        "holding_percent": 2.4
+      },
+      {
+        "stock_name": "维涛网络有限公司",
+        "holding_percent": 4.04
+      }
+    ]
+  },
+  {
+    "fund_id": 84,
+    "manager": {
+      "name": "陈晶",
+      "experience_years": 9
+    },
+    "historical_rankings": [
+      {
+        "year": 2018,
+        "ranking": 90
+      },
+      {
+        "year": 2019,
+        "ranking": 90
+      },
+      {
+        "year": 2020,
+        "ranking": 65
+      },
+      {
+        "year": 2021,
+        "ranking": 32
+      },
+      {
+        "year": 2022,
+        "ranking": 79
+      },
+      {
+        "year": 2023,
+        "ranking": 21
+      }
+    ],
+    "top_holdings": [
+      {
+        "stock_name": "联通时科科技有限公司",
+        "holding_percent": 3.7
+      },
+      {
+        "stock_name": "巨奥科技有限公司",
+        "holding_percent": 3.11
+      },
+      {
+        "stock_name": "和泰科技有限公司",
+        "holding_percent": 0.9
+      },
+      {
+        "stock_name": "凌云传媒有限公司",
+        "holding_percent": 3.62
+      }
+    ]
+  },
+  {
+    "fund_id": 85,
+    "manager": {
+      "name": "曹晨",
+      "experience_years": 17
+    },
+    "historical_rankings": [
+      {
+        "year": 2018,
+        "ranking": 25
+      },
+      {
+        "year": 2019,
+        "ranking": 50
+      },
+      {
+        "year": 2020,
+        "ranking": 14
+      },
+      {
+        "year": 2021,
+        "ranking": 6
+      },
+      {
+        "year": 2022,
+        "ranking": 76
+      },
+      {
+        "year": 2023,
+        "ranking": 84
+      }
+    ],
+    "top_holdings": [
+      {
+        "stock_name": "盟新网络有限公司",
+        "holding_percent": 4.36
+      },
+      {
+        "stock_name": "立信电子信息有限公司",
+        "holding_percent": 1.07
+      },
+      {
+        "stock_name": "鸿睿思博网络有限公司",
+        "holding_percent": 3.05
+      },
+      {
+        "stock_name": "凌云信息有限公司",
+        "holding_percent": 1.14
+      },
+      {
+        "stock_name": "快讯科技有限公司",
+        "holding_percent": 3.67
+      }
+    ]
+  },
+  {
+    "fund_id": 86,
+    "manager": {
+      "name": "吴建",
+      "experience_years": 19
+    },
+    "historical_rankings": [
+      {
+        "year": 2018,
+        "ranking": 98
+      },
+      {
+        "year": 2019,
+        "ranking": 16
+      },
+      {
+        "year": 2020,
+        "ranking": 88
+      },
+      {
+        "year": 2021,
+        "ranking": 78
+      },
+      {
+        "year": 2022,
+        "ranking": 90
+      },
+      {
+        "year": 2023,
+        "ranking": 72
+      }
+    ],
+    "top_holdings": [
+      {
+        "stock_name": "万迅电脑信息有限公司",
+        "holding_percent": 2.71
+      },
+      {
+        "stock_name": "时空盒数字传媒有限公司",
+        "holding_percent": 2.89
+      },
+      {
+        "stock_name": "联软信息有限公司",
+        "holding_percent": 1.41
+      },
+      {
+        "stock_name": "新宇龙信息科技有限公司",
+        "holding_percent": 1.78
+      }
+    ]
+  },
+  {
+    "fund_id": 87,
+    "manager": {
+      "name": "朱梅",
+      "experience_years": 16
+    },
+    "historical_rankings": [
+      {
+        "year": 2018,
+        "ranking": 40
+      },
+      {
+        "year": 2019,
+        "ranking": 25
+      },
+      {
+        "year": 2020,
+        "ranking": 25
+      },
+      {
+        "year": 2021,
+        "ranking": 3
+      },
+      {
+        "year": 2022,
+        "ranking": 69
+      },
+      {
+        "year": 2023,
+        "ranking": 26
+      }
+    ],
+    "top_holdings": [
+      {
+        "stock_name": "华泰通安网络有限公司",
+        "holding_percent": 0.95
+      },
+      {
+        "stock_name": "泰麒麟信息有限公司",
+        "holding_percent": 3.35
+      },
+      {
+        "stock_name": "商软冠联信息有限公司",
+        "holding_percent": 4.46
+      },
+      {
+        "stock_name": "凌云信息有限公司",
+        "holding_percent": 4.49
+      },
+      {
+        "stock_name": "巨奥网络有限公司",
+        "holding_percent": 4.81
+      },
+      {
+        "stock_name": "易动力信息有限公司",
+        "holding_percent": 4.4
+      }
+    ]
+  },
+  {
+    "fund_id": 88,
+    "manager": {
+      "name": "张亮",
+      "experience_years": 3
+    },
+    "historical_rankings": [
+      {
+        "year": 2018,
+        "ranking": 78
+      },
+      {
+        "year": 2019,
+        "ranking": 38
+      },
+      {
+        "year": 2020,
+        "ranking": 10
+      },
+      {
+        "year": 2021,
+        "ranking": 57
+      },
+      {
+        "year": 2022,
+        "ranking": 28
+      },
+      {
+        "year": 2023,
+        "ranking": 78
+      }
+    ],
+    "top_holdings": [
+      {
+        "stock_name": "浦华众城传媒有限公司",
+        "holding_percent": 3.21
+      },
+      {
+        "stock_name": "鸿睿思博科技有限公司",
+        "holding_percent": 3.23
+      },
+      {
+        "stock_name": "雨林木风计算机网络有限公司",
+        "holding_percent": 2.14
+      },
+      {
+        "stock_name": "商软冠联科技有限公司",
+        "holding_percent": 4.57
+      },
+      {
+        "stock_name": "新格林耐特科技有限公司",
+        "holding_percent": 2.76
+      },
+      {
+        "stock_name": "创汇信息有限公司",
+        "holding_percent": 2.59
+      }
+    ]
+  },
+  {
+    "fund_id": 89,
+    "manager": {
+      "name": "童静",
+      "experience_years": 5
+    },
+    "historical_rankings": [
+      {
+        "year": 2018,
+        "ranking": 43
+      },
+      {
+        "year": 2019,
+        "ranking": 47
+      },
+      {
+        "year": 2020,
+        "ranking": 99
+      },
+      {
+        "year": 2021,
+        "ranking": 14
+      },
+      {
+        "year": 2022,
+        "ranking": 66
+      },
+      {
+        "year": 2023,
+        "ranking": 29
+      }
+    ],
+    "top_holdings": [
+      {
+        "stock_name": "华泰通安科技有限公司",
+        "holding_percent": 4.16
+      },
+      {
+        "stock_name": "南康传媒有限公司",
+        "holding_percent": 4.0
+      },
+      {
+        "stock_name": "雨林木风计算机科技有限公司",
+        "holding_percent": 4.05
+      },
+      {
+        "stock_name": "昂歌信息网络有限公司",
+        "holding_percent": 3.69
+      },
+      {
+        "stock_name": "通际名联传媒有限公司",
+        "holding_percent": 1.64
+      },
+      {
+        "stock_name": "惠派国际公司科技有限公司",
+        "holding_percent": 4.38
+      }
+    ]
+  },
+  {
+    "fund_id": 90,
+    "manager": {
+      "name": "朱峰",
+      "experience_years": 17
+    },
+    "historical_rankings": [
+      {
+        "year": 2018,
+        "ranking": 35
+      },
+      {
+        "year": 2019,
+        "ranking": 85
+      },
+      {
+        "year": 2020,
+        "ranking": 85
+      },
+      {
+        "year": 2021,
+        "ranking": 85
+      },
+      {
+        "year": 2022,
+        "ranking": 60
+      },
+      {
+        "year": 2023,
+        "ranking": 44
+      }
+    ],
+    "top_holdings": [
+      {
+        "stock_name": "新格林耐特科技有限公司",
+        "holding_percent": 1.61
+      },
+      {
+        "stock_name": "开发区世创信息有限公司",
+        "holding_percent": 2.74
+      },
+      {
+        "stock_name": "富罳网络有限公司",
+        "holding_percent": 4.14
+      },
+      {
+        "stock_name": "图龙信息传媒有限公司",
+        "holding_percent": 2.62
+      },
+      {
+        "stock_name": "方正科技科技有限公司",
+        "holding_percent": 4.77
+      },
+      {
+        "stock_name": "太极传媒有限公司",
+        "holding_percent": 4.31
+      }
+    ]
+  },
+  {
+    "fund_id": 91,
+    "manager": {
+      "name": "吴云",
+      "experience_years": 11
+    },
+    "historical_rankings": [
+      {
+        "year": 2018,
+        "ranking": 24
+      },
+      {
+        "year": 2019,
+        "ranking": 24
+      },
+      {
+        "year": 2020,
+        "ranking": 96
+      },
+      {
+        "year": 2021,
+        "ranking": 97
+      },
+      {
+        "year": 2022,
+        "ranking": 38
+      },
+      {
+        "year": 2023,
+        "ranking": 44
+      }
+    ],
+    "top_holdings": [
+      {
+        "stock_name": "维旺明网络有限公司",
+        "holding_percent": 1.21
+      },
+      {
+        "stock_name": "浙大万朋网络有限公司",
+        "holding_percent": 1.38
+      },
+      {
+        "stock_name": "诺依曼软件网络有限公司",
+        "holding_percent": 4.88
+      }
+    ]
+  },
+  {
+    "fund_id": 92,
+    "manager": {
+      "name": "谭建",
+      "experience_years": 13
+    },
+    "historical_rankings": [
+      {
+        "year": 2018,
+        "ranking": 82
+      },
+      {
+        "year": 2019,
+        "ranking": 40
+      },
+      {
+        "year": 2020,
+        "ranking": 47
+      },
+      {
+        "year": 2021,
+        "ranking": 41
+      },
+      {
+        "year": 2022,
+        "ranking": 47
+      },
+      {
+        "year": 2023,
+        "ranking": 20
+      }
+    ],
+    "top_holdings": [
+      {
+        "stock_name": "九方传媒有限公司",
+        "holding_percent": 1.57
+      },
+      {
+        "stock_name": "雨林木风计算机网络有限公司",
+        "holding_percent": 1.8
+      },
+      {
+        "stock_name": "思优信息有限公司",
+        "holding_percent": 4.72
+      }
+    ]
+  },
+  {
+    "fund_id": 93,
+    "manager": {
+      "name": "吴帆",
+      "experience_years": 6
+    },
+    "historical_rankings": [
+      {
+        "year": 2018,
+        "ranking": 45
+      },
+      {
+        "year": 2019,
+        "ranking": 2
+      },
+      {
+        "year": 2020,
+        "ranking": 28
+      },
+      {
+        "year": 2021,
+        "ranking": 26
+      },
+      {
+        "year": 2022,
+        "ranking": 23
+      },
+      {
+        "year": 2023,
+        "ranking": 79
+      }
+    ],
+    "top_holdings": [
+      {
+        "stock_name": "东方峻景科技有限公司",
+        "holding_percent": 3.02
+      },
+      {
+        "stock_name": "凌颖信息科技有限公司",
+        "holding_percent": 1.34
+      },
+      {
+        "stock_name": "兰金电子科技有限公司",
+        "holding_percent": 2.52
+      },
+      {
+        "stock_name": "雨林木风计算机科技有限公司",
+        "holding_percent": 3.2
+      },
+      {
+        "stock_name": "明腾网络有限公司",
+        "holding_percent": 1.97
+      },
+      {
+        "stock_name": "时空盒数字科技有限公司",
+        "holding_percent": 4.01
+      }
+    ]
+  },
+  {
+    "fund_id": 94,
+    "manager": {
+      "name": "刘瑜",
+      "experience_years": 8
+    },
+    "historical_rankings": [
+      {
+        "year": 2018,
+        "ranking": 93
+      },
+      {
+        "year": 2019,
+        "ranking": 59
+      },
+      {
+        "year": 2020,
+        "ranking": 43
+      },
+      {
+        "year": 2021,
+        "ranking": 4
+      },
+      {
+        "year": 2022,
+        "ranking": 5
+      },
+      {
+        "year": 2023,
+        "ranking": 68
+      }
+    ],
+    "top_holdings": [
+      {
+        "stock_name": "济南亿次元网络有限公司",
+        "holding_percent": 4.5
+      },
+      {
+        "stock_name": "趋势科技有限公司",
+        "holding_percent": 5.0
+      },
+      {
+        "stock_name": "凌颖信息信息有限公司",
+        "holding_percent": 3.52
+      },
+      {
+        "stock_name": "兰金电子网络有限公司",
+        "holding_percent": 4.95
+      },
+      {
+        "stock_name": "思优科技有限公司",
+        "holding_percent": 3.47
+      },
+      {
+        "stock_name": "七喜科技有限公司",
+        "holding_percent": 3.8
+      }
+    ]
+  },
+  {
+    "fund_id": 95,
+    "manager": {
+      "name": "信桂英",
+      "experience_years": 9
+    },
+    "historical_rankings": [
+      {
+        "year": 2018,
+        "ranking": 26
+      },
+      {
+        "year": 2019,
+        "ranking": 43
+      },
+      {
+        "year": 2020,
+        "ranking": 36
+      },
+      {
+        "year": 2021,
+        "ranking": 39
+      },
+      {
+        "year": 2022,
+        "ranking": 61
+      },
+      {
+        "year": 2023,
+        "ranking": 16
+      }
+    ],
+    "top_holdings": [
+      {
+        "stock_name": "同兴万点科技有限公司",
+        "holding_percent": 3.92
+      },
+      {
+        "stock_name": "巨奥信息有限公司",
+        "holding_percent": 4.34
+      },
+      {
+        "stock_name": "华成育卓传媒有限公司",
+        "holding_percent": 4.88
+      },
+      {
+        "stock_name": "浦华众城科技有限公司",
+        "holding_percent": 1.7
+      }
+    ]
+  },
+  {
+    "fund_id": 96,
+    "manager": {
+      "name": "王云",
+      "experience_years": 9
+    },
+    "historical_rankings": [
+      {
+        "year": 2018,
+        "ranking": 27
+      },
+      {
+        "year": 2019,
+        "ranking": 89
+      },
+      {
+        "year": 2020,
+        "ranking": 46
+      },
+      {
+        "year": 2021,
+        "ranking": 41
+      },
+      {
+        "year": 2022,
+        "ranking": 79
+      },
+      {
+        "year": 2023,
+        "ranking": 25
+      }
+    ],
+    "top_holdings": [
+      {
+        "stock_name": "昊嘉网络有限公司",
+        "holding_percent": 3.78
+      },
+      {
+        "stock_name": "中建创业科技有限公司",
+        "holding_percent": 4.79
+      },
+      {
+        "stock_name": "图龙信息信息有限公司",
+        "holding_percent": 4.26
+      },
+      {
+        "stock_name": "凌云科技有限公司",
+        "holding_percent": 4.56
+      }
+    ]
+  },
+  {
+    "fund_id": 97,
+    "manager": {
+      "name": "郑琳",
+      "experience_years": 12
+    },
+    "historical_rankings": [
+      {
+        "year": 2018,
+        "ranking": 98
+      },
+      {
+        "year": 2019,
+        "ranking": 77
+      },
+      {
+        "year": 2020,
+        "ranking": 54
+      },
+      {
+        "year": 2021,
+        "ranking": 29
+      },
+      {
+        "year": 2022,
+        "ranking": 41
+      },
+      {
+        "year": 2023,
+        "ranking": 9
+      }
+    ],
+    "top_holdings": [
+      {
+        "stock_name": "商软冠联传媒有限公司",
+        "holding_percent": 2.77
+      },
+      {
+        "stock_name": "新宇龙信息传媒有限公司",
+        "holding_percent": 2.86
+      },
+      {
+        "stock_name": "天益科技有限公司",
+        "holding_percent": 4.88
+      },
+      {
+        "stock_name": "明腾传媒有限公司",
+        "holding_percent": 4.6
+      },
+      {
+        "stock_name": "雨林木风计算机信息有限公司",
+        "holding_percent": 1.23
+      }
+    ]
+  },
+  {
+    "fund_id": 98,
+    "manager": {
+      "name": "陈欢",
+      "experience_years": 17
+    },
+    "historical_rankings": [
+      {
+        "year": 2018,
+        "ranking": 33
+      },
+      {
+        "year": 2019,
+        "ranking": 96
+      },
+      {
+        "year": 2020,
+        "ranking": 71
+      },
+      {
+        "year": 2021,
+        "ranking": 19
+      },
+      {
+        "year": 2022,
+        "ranking": 34
+      },
+      {
+        "year": 2023,
+        "ranking": 78
+      }
+    ],
+    "top_holdings": [
+      {
+        "stock_name": "七喜信息有限公司",
+        "holding_percent": 3.3
+      },
+      {
+        "stock_name": "凌颖信息科技有限公司",
+        "holding_percent": 4.28
+      },
+      {
+        "stock_name": "新格林耐特网络有限公司",
+        "holding_percent": 3.57
+      },
+      {
+        "stock_name": "时空盒数字科技有限公司",
+        "holding_percent": 1.44
+      }
+    ]
+  },
+  {
+    "fund_id": 99,
+    "manager": {
+      "name": "王丽娟",
+      "experience_years": 19
+    },
+    "historical_rankings": [
+      {
+        "year": 2018,
+        "ranking": 28
+      },
+      {
+        "year": 2019,
+        "ranking": 19
+      },
+      {
+        "year": 2020,
+        "ranking": 27
+      },
+      {
+        "year": 2021,
+        "ranking": 48
+      },
+      {
+        "year": 2022,
+        "ranking": 19
+      },
+      {
+        "year": 2023,
+        "ranking": 97
+      }
+    ],
+    "top_holdings": [
+      {
+        "stock_name": "鸿睿思博网络有限公司",
+        "holding_percent": 1.64
+      },
+      {
+        "stock_name": "快讯网络有限公司",
+        "holding_percent": 2.37
+      },
+      {
+        "stock_name": "和泰网络有限公司",
+        "holding_percent": 0.87
+      },
+      {
+        "stock_name": "同兴万点传媒有限公司",
+        "holding_percent": 3.23
+      },
+      {
+        "stock_name": "双敏电子信息有限公司",
+        "holding_percent": 0.97
+      }
+    ]
+  },
+  {
+    "fund_id": 100,
+    "manager": {
+      "name": "龙磊",
+      "experience_years": 10
+    },
+    "historical_rankings": [
+      {
+        "year": 2018,
+        "ranking": 42
+      },
+      {
+        "year": 2019,
+        "ranking": 76
+      },
+      {
+        "year": 2020,
+        "ranking": 42
+      },
+      {
+        "year": 2021,
+        "ranking": 13
+      },
+      {
+        "year": 2022,
+        "ranking": 26
+      },
+      {
+        "year": 2023,
+        "ranking": 18
+      }
+    ],
+    "top_holdings": [
+      {
+        "stock_name": "九方传媒有限公司",
+        "holding_percent": 0.62
+      },
+      {
+        "stock_name": "四通信息有限公司",
+        "holding_percent": 4.09
+      },
+      {
+        "stock_name": "富罳信息有限公司",
+        "holding_percent": 3.2
+      },
+      {
+        "stock_name": "开发区世创信息有限公司",
+        "holding_percent": 3.7
+      }
+    ]
+  }
+]

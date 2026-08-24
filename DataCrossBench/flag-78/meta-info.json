@@ -1,0 +1,24 @@
+{
+    "goal": "评估厉骞的管理策略对华商丰利增强基金业绩的影响，特别是在行业轮动和可转债投资方面的成功案例。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 自厉骞接管以来，华商丰利增强累计收益达到120.18%，年化收益为35.94%，显示出持续的业绩增长趋势。",
+        "Comparison: 华商丰利增强基金的年化超额收益近30%，显著高于同类基金同期收益16.22%。",
+        "Extreme: 在持仓的转债中，石英转债的期间收益率高达473.47%，显示出极高的投资回报。",
+        "Attribution: 由于行业轮动节奏加快，华商丰利增强基金通过适当参与股票投资，追求稳定收益的同时，获得超过业绩比较基准的收益。"
+    ],
+    "summary": "华商丰利增强基金在过去三年中表现优异，连续获得同类业绩冠军，尤其在可转债领域展现出强大的收益获取能力和行业配置策略。",
+    "flag_id": "flag-78",
+    "classifier": "Fund Analysis",
+    "classifier_cn": "基金分析",
+    "input_files": [
+        "output/annualized_vs_excess.png",
+        "output/benchmark_vs_annualized.png",
+        "output/business_background.txt",
+        "output/cumulative_return_distribution.png",
+        "output/experience_vs_annualized.png",
+        "output/fund_dimension.db",
+        "output/fund_performance.csv",
+        "output/manager_profiles.json"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "goal": "比较华商乐享互联基金与沪深300的收益表现，探讨其超额收益的原因。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 2019年至2022年，基金的年收益率逐年波动，2019年收益率高达84.18%，而2022年则降至11.01%。",
+        "Comparison: 2022年，华商乐享互联基金的收益率相较于沪深300的-21.63%表现出明显的超额收益，达到32.64%。",
+        "Extreme: 2022年，基金的最大回撤控制在-2.46%，显示出良好的风险控制能力。",
+        "Attribution: 由于外部经济冲击如美联储加息和俄乌冲突，2022年的收益相较前几年有所下滑，但余懿的策略依然为投资者提供了相对稳健的回报。"
+    ],
+    "summary": "本报告分析了华商基金余懿的投资风格，强调其在投资中注重平衡，兼顾逆向和景气的机会，展现出优异的业绩表现和风险控制能力。",
+    "flag_id": "flag-80",
+    "classifier": "Fund Analysis",
+    "classifier_cn": "基金分析",
+    "input_files": [
+        "output/business_background.txt",
+        "output/dimension_data.db",
+        "output/fund_facts.csv",
+        "output/investment_portfolios.json"
+    ]
+}

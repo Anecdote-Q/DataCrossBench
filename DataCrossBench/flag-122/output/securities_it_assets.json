@@ -1,0 +1,1902 @@
+[
+  {
+    "company_id": 1,
+    "company_name": "招商证券",
+    "it_assets": {
+      "servers": 224,
+      "workstations": 327,
+      "cloud_services": {
+        "provider": "Azure",
+        "monthly_cost_usd": 2862.97
+      },
+      "software_licenses": {
+        "office_suite": 276,
+        "security_tools": 242,
+        "specialized_apps": 88
+      },
+      "last_audit_date": "2023-06-22 00:00:00"
+    },
+    "notes": "Final kid often. Bed far section compare. Skill theory hand maybe. Store either station loss southern."
+  },
+  {
+    "company_id": 2,
+    "company_name": "中金公司",
+    "it_assets": {
+      "servers": 394,
+      "workstations": 1851,
+      "cloud_services": {
+        "provider": "Azure",
+        "monthly_cost_usd": 7140.07
+      },
+      "software_licenses": {
+        "office_suite": 143,
+        "security_tools": 250,
+        "specialized_apps": 9
+      },
+      "last_audit_date": "2023-10-04 00:00:00"
+    },
+    "notes": "Life away senior difficult. Whose source hand so add Mr. Happy see energy herself police he push."
+  },
+  {
+    "company_id": 3,
+    "company_name": "国信证券",
+    "it_assets": {
+      "servers": 31,
+      "workstations": 1999,
+      "cloud_services": {
+        "provider": "Aliyun",
+        "monthly_cost_usd": 6468.63
+      },
+      "software_licenses": {
+        "office_suite": 101,
+        "security_tools": 396,
+        "specialized_apps": 12
+      },
+      "last_audit_date": "2023-05-07 00:00:00"
+    },
+    "notes": "People wall foreign. Determine as statement travel few impact cause watch. You break doctor Mr home."
+  },
+  {
+    "company_id": 4,
+    "company_name": "Davis and Sons投资",
+    "it_assets": {
+      "servers": 107,
+      "workstations": 1768,
+      "cloud_services": {
+        "provider": "Aliyun",
+        "monthly_cost_usd": 1883.55
+      },
+      "software_licenses": {
+        "office_suite": 177,
+        "security_tools": 298,
+        "specialized_apps": 60
+      },
+      "last_audit_date": "2023-08-27 00:00:00"
+    },
+    "notes": "Industry score choice increase between majority impact. Allow have kitchen wear talk. Wonder happen top population."
+  },
+  {
+    "company_id": 5,
+    "company_name": "Guzman, Hoffman and Baldwin投资",
+    "it_assets": {
+      "servers": 363,
+      "workstations": 574,
+      "cloud_services": {
+        "provider": "Aliyun",
+        "monthly_cost_usd": 5250.73
+      },
+      "software_licenses": {
+        "office_suite": 795,
+        "security_tools": 68,
+        "specialized_apps": 46
+      },
+      "last_audit_date": "2023-06-09 00:00:00"
+    },
+    "notes": "Every why we station begin deep. Wife anything four writer skin day stop never."
+  },
+  {
+    "company_id": 6,
+    "company_name": "Gardner, Robinson and Lawrence投资",
+    "it_assets": {
+      "servers": 60,
+      "workstations": 1235,
+      "cloud_services": {
+        "provider": "Azure",
+        "monthly_cost_usd": 3839.68
+      },
+      "software_licenses": {
+        "office_suite": 466,
+        "security_tools": 376,
+        "specialized_apps": 55
+      },
+      "last_audit_date": "2023-02-08 00:00:00"
+    },
+    "notes": "Spend do similar small other. Teach certain candidate economy company. Capital group small. Food company appear score moment second live sing."
+  },
+  {
+    "company_id": 7,
+    "company_name": "Blake and Sons证券",
+    "it_assets": {
+      "servers": 308,
+      "workstations": 1464,
+      "cloud_services": {
+        "provider": "Azure",
+        "monthly_cost_usd": 3321.37
+      },
+      "software_licenses": {
+        "office_suite": 760,
+        "security_tools": 317,
+        "specialized_apps": 35
+      },
+      "last_audit_date": "2023-10-17 00:00:00"
+    },
+    "notes": "Board mean war analysis situation term miss leader. Article look husband. Make travel available ball."
+  },
+  {
+    "company_id": 8,
+    "company_name": "Henderson, Ramirez and Lewis资产",
+    "it_assets": {
+      "servers": 26,
+      "workstations": 761,
+      "cloud_services": {
+        "provider": "Aliyun",
+        "monthly_cost_usd": 1482.7
+      },
+      "software_licenses": {
+        "office_suite": 409,
+        "security_tools": 16,
+        "specialized_apps": 112
+      },
+      "last_audit_date": "2023-09-08 00:00:00"
+    },
+    "notes": "Assume every plan nature. Herself our far measure involve soldier. Table prepare shoulder result. Involve thousand including still human."
+  },
+  {
+    "company_id": 9,
+    "company_name": "Garcia-James证券",
+    "it_assets": {
+      "servers": 59,
+      "workstations": 937,
+      "cloud_services": {
+        "provider": "Aliyun",
+        "monthly_cost_usd": 6800.95
+      },
+      "software_licenses": {
+        "office_suite": 216,
+        "security_tools": 232,
+        "specialized_apps": 50
+      },
+      "last_audit_date": "2023-09-25 00:00:00"
+    },
+    "notes": "Interview professor hear check type attack. Behavior benefit school speech."
+  },
+  {
+    "company_id": 10,
+    "company_name": "Abbott-Munoz资产",
+    "it_assets": {
+      "servers": 338,
+      "workstations": 603,
+      "cloud_services": {
+        "provider": "Azure",
+        "monthly_cost_usd": 8397.13
+      },
+      "software_licenses": {
+        "office_suite": 506,
+        "security_tools": 384,
+        "specialized_apps": 73
+      },
+      "last_audit_date": "2023-06-15 00:00:00"
+    },
+    "notes": "Only no form business. Them wait institution trouble anything explain. Goal official defense prevent difference."
+  },
+  {
+    "company_id": 11,
+    "company_name": "Blair PLC金融",
+    "it_assets": {
+      "servers": 130,
+      "workstations": 1751,
+      "cloud_services": {
+        "provider": "Azure",
+        "monthly_cost_usd": 3591.96
+      },
+      "software_licenses": {
+        "office_suite": 643,
+        "security_tools": 322,
+        "specialized_apps": 102
+      },
+      "last_audit_date": "2023-06-22 00:00:00"
+    },
+    "notes": "Suddenly happen several off southern suddenly. Party poor ago upon stop environment Congress reflect."
+  },
+  {
+    "company_id": 12,
+    "company_name": "Dudley Group证券",
+    "it_assets": {
+      "servers": 19,
+      "workstations": 1062,
+      "cloud_services": {
+        "provider": "Azure",
+        "monthly_cost_usd": 2863.8
+      },
+      "software_licenses": {
+        "office_suite": 408,
+        "security_tools": 153,
+        "specialized_apps": 75
+      },
+      "last_audit_date": "2023-10-12 00:00:00"
+    },
+    "notes": "Go consider century price attorney scientist. Begin most heavy."
+  },
+  {
+    "company_id": 13,
+    "company_name": "Arnold Ltd证券",
+    "it_assets": {
+      "servers": 10,
+      "workstations": 1108,
+      "cloud_services": {
+        "provider": "Azure",
+        "monthly_cost_usd": 2142.1
+      },
+      "software_licenses": {
+        "office_suite": 628,
+        "security_tools": 398,
+        "specialized_apps": 66
+      },
+      "last_audit_date": "2023-12-20 00:00:00"
+    },
+    "notes": "Church find food walk other third. Church pay purpose evening. Magazine kind event sense box involve."
+  },
+  {
+    "company_id": 14,
+    "company_name": "Mcclure, Ward and Lee证券",
+    "it_assets": {
+      "servers": 248,
+      "workstations": 1372,
+      "cloud_services": {
+        "provider": "Azure",
+        "monthly_cost_usd": 4861.31
+      },
+      "software_licenses": {
+        "office_suite": 286,
+        "security_tools": 217,
+        "specialized_apps": 67
+      },
+      "last_audit_date": "2023-06-06 00:00:00"
+    },
+    "notes": "Main project animal house out account feeling deep. Share face build market."
+  },
+  {
+    "company_id": 15,
+    "company_name": "Williams and Sons投资",
+    "it_assets": {
+      "servers": 344,
+      "workstations": 1241,
+      "cloud_services": {
+        "provider": "Aliyun",
+        "monthly_cost_usd": 3406.3
+      },
+      "software_licenses": {
+        "office_suite": 623,
+        "security_tools": 179,
+        "specialized_apps": 95
+      },
+      "last_audit_date": "2023-12-26 00:00:00"
+    },
+    "notes": "Can mouth discover next. Author technology amount affect TV television. Investment identify policy face if whom commercial."
+  },
+  {
+    "company_id": 16,
+    "company_name": "Galloway-Wyatt投资",
+    "it_assets": {
+      "servers": 237,
+      "workstations": 604,
+      "cloud_services": {
+        "provider": "Azure",
+        "monthly_cost_usd": 3229.04
+      },
+      "software_licenses": {
+        "office_suite": 182,
+        "security_tools": 390,
+        "specialized_apps": 142
+      },
+      "last_audit_date": "2023-12-20 00:00:00"
+    },
+    "notes": "Story turn because such during open model. That second develop single baby plan. Member town glass road standard spring door. Eight community check service."
+  },
+  {
+    "company_id": 17,
+    "company_name": "James Group资产",
+    "it_assets": {
+      "servers": 99,
+      "workstations": 442,
+      "cloud_services": {
+        "provider": "Aliyun",
+        "monthly_cost_usd": 6072.1
+      },
+      "software_licenses": {
+        "office_suite": 671,
+        "security_tools": 154,
+        "specialized_apps": 30
+      },
+      "last_audit_date": "2023-04-10 00:00:00"
+    },
+    "notes": "Week physical less nor. Large under north play person ten physical character."
+  },
+  {
+    "company_id": 18,
+    "company_name": "Flowers, Martin and Kelly资产",
+    "it_assets": {
+      "servers": 156,
+      "workstations": 515,
+      "cloud_services": {
+        "provider": "AWS",
+        "monthly_cost_usd": 4887.05
+      },
+      "software_licenses": {
+        "office_suite": 340,
+        "security_tools": 33,
+        "specialized_apps": 18
+      },
+      "last_audit_date": "2023-10-11 00:00:00"
+    },
+    "notes": "Kind field ever argue medical financial later. Hard expert popular within."
+  },
+  {
+    "company_id": 19,
+    "company_name": "Adams, Zuniga and Wong证券",
+    "it_assets": {
+      "servers": 154,
+      "workstations": 1478,
+      "cloud_services": {
+        "provider": "AWS",
+        "monthly_cost_usd": 9552.72
+      },
+      "software_licenses": {
+        "office_suite": 72,
+        "security_tools": 303,
+        "specialized_apps": 77
+      },
+      "last_audit_date": "2023-08-29 00:00:00"
+    },
+    "notes": "Order his oil west school American training occur. Focus little character artist billion."
+  },
+  {
+    "company_id": 20,
+    "company_name": "Reid, Ferguson and Sanchez资产",
+    "it_assets": {
+      "servers": 250,
+      "workstations": 952,
+      "cloud_services": {
+        "provider": "Azure",
+        "monthly_cost_usd": 8741.23
+      },
+      "software_licenses": {
+        "office_suite": 176,
+        "security_tools": 43,
+        "specialized_apps": 107
+      },
+      "last_audit_date": "2023-09-09 00:00:00"
+    },
+    "notes": "Mean common easy just. Model particular hair truth hold simple. Appear piece free form newspaper hit edge surface."
+  },
+  {
+    "company_id": 21,
+    "company_name": "Gray-Mayo投资",
+    "it_assets": {
+      "servers": 42,
+      "workstations": 1231,
+      "cloud_services": {
+        "provider": "Aliyun",
+        "monthly_cost_usd": 2044.38
+      },
+      "software_licenses": {
+        "office_suite": 371,
+        "security_tools": 53,
+        "specialized_apps": 68
+      },
+      "last_audit_date": "2023-03-02 00:00:00"
+    },
+    "notes": "Four old center glass. Can remember be next poor foreign. Prove stock school rate. Behavior provide meet adult final week game."
+  },
+  {
+    "company_id": 22,
+    "company_name": "Watts, Robinson and Nguyen资产",
+    "it_assets": {
+      "servers": 290,
+      "workstations": 1615,
+      "cloud_services": {
+        "provider": "Aliyun",
+        "monthly_cost_usd": 5328.93
+      },
+      "software_licenses": {
+        "office_suite": 449,
+        "security_tools": 240,
+        "specialized_apps": 118
+      },
+      "last_audit_date": "2023-06-02 00:00:00"
+    },
+    "notes": "Difficult case baby such big. Strong this also from short capital heavy. Congress realize person total."
+  },
+  {
+    "company_id": 23,
+    "company_name": "Perez Inc金融",
+    "it_assets": {
+      "servers": 306,
+      "workstations": 928,
+      "cloud_services": {
+        "provider": "Aliyun",
+        "monthly_cost_usd": 5267.42
+      },
+      "software_licenses": {
+        "office_suite": 161,
+        "security_tools": 400,
+        "specialized_apps": 58
+      },
+      "last_audit_date": "2023-11-17 00:00:00"
+    },
+    "notes": "Improve put down. Particular sell six doctor dream whole. Tough create question now key show sing."
+  },
+  {
+    "company_id": 24,
+    "company_name": "Morales-Jones投资",
+    "it_assets": {
+      "servers": 113,
+      "workstations": 591,
+      "cloud_services": {
+        "provider": "AWS",
+        "monthly_cost_usd": 7283.43
+      },
+      "software_licenses": {
+        "office_suite": 220,
+        "security_tools": 11,
+        "specialized_apps": 109
+      },
+      "last_audit_date": "2023-08-19 00:00:00"
+    },
+    "notes": "Industry class current painting their appear lose. Never bill suffer surface expect several. Last message store begin treat."
+  },
+  {
+    "company_id": 25,
+    "company_name": "Walter, Edwards and Rios金融",
+    "it_assets": {
+      "servers": 357,
+      "workstations": 1266,
+      "cloud_services": {
+        "provider": "Azure",
+        "monthly_cost_usd": 1744.8
+      },
+      "software_licenses": {
+        "office_suite": 779,
+        "security_tools": 242,
+        "specialized_apps": 23
+      },
+      "last_audit_date": "2023-12-18 00:00:00"
+    },
+    "notes": "Us increase how hear history bank. Agreement us stuff practice social. Although true line story."
+  },
+  {
+    "company_id": 26,
+    "company_name": "Wilkerson-Day资产",
+    "it_assets": {
+      "servers": 124,
+      "workstations": 1942,
+      "cloud_services": {
+        "provider": "AWS",
+        "monthly_cost_usd": 4116.44
+      },
+      "software_licenses": {
+        "office_suite": 495,
+        "security_tools": 68,
+        "specialized_apps": 144
+      },
+      "last_audit_date": "2023-04-26 00:00:00"
+    },
+    "notes": "Past town affect democratic change vote participant. Book explain feeling answer information soldier. Artist student matter movie place offer responsibility."
+  },
+  {
+    "company_id": 27,
+    "company_name": "Baker and Sons资本",
+    "it_assets": {
+      "servers": 336,
+      "workstations": 355,
+      "cloud_services": {
+        "provider": "AWS",
+        "monthly_cost_usd": 9267.29
+      },
+      "software_licenses": {
+        "office_suite": 374,
+        "security_tools": 314,
+        "specialized_apps": 150
+      },
+      "last_audit_date": "2023-05-28 00:00:00"
+    },
+    "notes": "Ability good number cost property model. Attack moment medical write never hospital."
+  },
+  {
+    "company_id": 28,
+    "company_name": "Hoffman, Baker and Richards证券",
+    "it_assets": {
+      "servers": 229,
+      "workstations": 304,
+      "cloud_services": {
+        "provider": "Azure",
+        "monthly_cost_usd": 3780.68
+      },
+      "software_licenses": {
+        "office_suite": 572,
+        "security_tools": 286,
+        "specialized_apps": 131
+      },
+      "last_audit_date": "2023-08-13 00:00:00"
+    },
+    "notes": "Player wonder effect. Ground attack drop. Billion old series card good full poor store."
+  },
+  {
+    "company_id": 29,
+    "company_name": "Ross, Robinson and Bright投资",
+    "it_assets": {
+      "servers": 46,
+      "workstations": 1274,
+      "cloud_services": {
+        "provider": "Azure",
+        "monthly_cost_usd": 4740.21
+      },
+      "software_licenses": {
+        "office_suite": 86,
+        "security_tools": 56,
+        "specialized_apps": 63
+      },
+      "last_audit_date": "2023-12-12 00:00:00"
+    },
+    "notes": "Place specific as simply leader fall analysis. Though firm financial huge spring. Education send course ground sit tend forward."
+  },
+  {
+    "company_id": 30,
+    "company_name": "Snyder, Campos and Callahan金融",
+    "it_assets": {
+      "servers": 299,
+      "workstations": 1252,
+      "cloud_services": {
+        "provider": "Azure",
+        "monthly_cost_usd": 8996.79
+      },
+      "software_licenses": {
+        "office_suite": 650,
+        "security_tools": 30,
+        "specialized_apps": 49
+      },
+      "last_audit_date": "2023-08-29 00:00:00"
+    },
+    "notes": "Join hundred keep what fund cost. Happen something entire bar interesting issue yet."
+  },
+  {
+    "company_id": 31,
+    "company_name": "Burton Ltd资本",
+    "it_assets": {
+      "servers": 270,
+      "workstations": 1384,
+      "cloud_services": {
+        "provider": "Azure",
+        "monthly_cost_usd": 3586.17
+      },
+      "software_licenses": {
+        "office_suite": 710,
+        "security_tools": 261,
+        "specialized_apps": 28
+      },
+      "last_audit_date": "2023-08-29 00:00:00"
+    },
+    "notes": "Family bill foreign fast knowledge response coach. Goal amount thank good your ever."
+  },
+  {
+    "company_id": 32,
+    "company_name": "Carlson-Cruz资本",
+    "it_assets": {
+      "servers": 183,
+      "workstations": 886,
+      "cloud_services": {
+        "provider": "Azure",
+        "monthly_cost_usd": 6526.0
+      },
+      "software_licenses": {
+        "office_suite": 481,
+        "security_tools": 365,
+        "specialized_apps": 131
+      },
+      "last_audit_date": "2023-05-28 00:00:00"
+    },
+    "notes": "Provide image message seek. Well central parent sit."
+  },
+  {
+    "company_id": 33,
+    "company_name": "Ferrell, Rice and Maddox投资",
+    "it_assets": {
+      "servers": 344,
+      "workstations": 1985,
+      "cloud_services": {
+        "provider": "AWS",
+        "monthly_cost_usd": 5203.62
+      },
+      "software_licenses": {
+        "office_suite": 382,
+        "security_tools": 139,
+        "specialized_apps": 87
+      },
+      "last_audit_date": "2023-03-01 00:00:00"
+    },
+    "notes": "Attack sing hand him."
+  },
+  {
+    "company_id": 34,
+    "company_name": "Frazier Inc投资",
+    "it_assets": {
+      "servers": 400,
+      "workstations": 877,
+      "cloud_services": {
+        "provider": "Aliyun",
+        "monthly_cost_usd": 1008.06
+      },
+      "software_licenses": {
+        "office_suite": 533,
+        "security_tools": 221,
+        "specialized_apps": 18
+      },
+      "last_audit_date": "2023-04-07 00:00:00"
+    },
+    "notes": "Painting quickly we. Know baby case happen fire everything. Ago control military trial."
+  },
+  {
+    "company_id": 35,
+    "company_name": "Dyer, Potter and Mack资本",
+    "it_assets": {
+      "servers": 270,
+      "workstations": 790,
+      "cloud_services": {
+        "provider": "AWS",
+        "monthly_cost_usd": 6981.07
+      },
+      "software_licenses": {
+        "office_suite": 268,
+        "security_tools": 146,
+        "specialized_apps": 145
+      },
+      "last_audit_date": "2023-03-09 00:00:00"
+    },
+    "notes": "Simple region Democrat partner really. Customer career available common require young specific."
+  },
+  {
+    "company_id": 36,
+    "company_name": "Rodriguez-Graham证券",
+    "it_assets": {
+      "servers": 152,
+      "workstations": 947,
+      "cloud_services": {
+        "provider": "Aliyun",
+        "monthly_cost_usd": 1202.09
+      },
+      "software_licenses": {
+        "office_suite": 683,
+        "security_tools": 132,
+        "specialized_apps": 45
+      },
+      "last_audit_date": "2023-06-09 00:00:00"
+    },
+    "notes": "Remember nearly face feel church remember. Soldier meeting building cut. Door management guess occur."
+  },
+  {
+    "company_id": 37,
+    "company_name": "Smith-Bowen证券",
+    "it_assets": {
+      "servers": 287,
+      "workstations": 78,
+      "cloud_services": {
+        "provider": "AWS",
+        "monthly_cost_usd": 6418.01
+      },
+      "software_licenses": {
+        "office_suite": 532,
+        "security_tools": 70,
+        "specialized_apps": 44
+      },
+      "last_audit_date": "2023-09-13 00:00:00"
+    },
+    "notes": "Candidate this assume huge response long improve. Statement available win politics last quite. Campaign stop necessary onto should can."
+  },
+  {
+    "company_id": 38,
+    "company_name": "Baker, Mason and White金融",
+    "it_assets": {
+      "servers": 371,
+      "workstations": 647,
+      "cloud_services": {
+        "provider": "Azure",
+        "monthly_cost_usd": 3550.69
+      },
+      "software_licenses": {
+        "office_suite": 309,
+        "security_tools": 243,
+        "specialized_apps": 146
+      },
+      "last_audit_date": "2023-03-16 00:00:00"
+    },
+    "notes": "Story million fight class. Generation wait thus suffer economy. Ever person pass behavior political option oil."
+  },
+  {
+    "company_id": 39,
+    "company_name": "Harrell LLC证券",
+    "it_assets": {
+      "servers": 201,
+      "workstations": 440,
+      "cloud_services": {
+        "provider": "AWS",
+        "monthly_cost_usd": 9374.95
+      },
+      "software_licenses": {
+        "office_suite": 342,
+        "security_tools": 222,
+        "specialized_apps": 92
+      },
+      "last_audit_date": "2023-09-17 00:00:00"
+    },
+    "notes": "Result painting successful nor stay agreement animal political. Enough decision occur peace air threat nation."
+  },
+  {
+    "company_id": 40,
+    "company_name": "Romero, Gonzalez and Brooks资本",
+    "it_assets": {
+      "servers": 141,
+      "workstations": 1730,
+      "cloud_services": {
+        "provider": "Aliyun",
+        "monthly_cost_usd": 6862.33
+      },
+      "software_licenses": {
+        "office_suite": 735,
+        "security_tools": 260,
+        "specialized_apps": 43
+      },
+      "last_audit_date": "2023-08-17 00:00:00"
+    },
+    "notes": "Each southern image law read citizen indeed. Daughter parent fine responsibility safe team wish."
+  },
+  {
+    "company_id": 41,
+    "company_name": "Ryan PLC资本",
+    "it_assets": {
+      "servers": 280,
+      "workstations": 1041,
+      "cloud_services": {
+        "provider": "Azure",
+        "monthly_cost_usd": 5639.38
+      },
+      "software_licenses": {
+        "office_suite": 389,
+        "security_tools": 106,
+        "specialized_apps": 66
+      },
+      "last_audit_date": "2023-10-20 00:00:00"
+    },
+    "notes": "Middle blood drop business last cell. Face his past."
+  },
+  {
+    "company_id": 42,
+    "company_name": "George Group资产",
+    "it_assets": {
+      "servers": 201,
+      "workstations": 528,
+      "cloud_services": {
+        "provider": "Azure",
+        "monthly_cost_usd": 4580.81
+      },
+      "software_licenses": {
+        "office_suite": 782,
+        "security_tools": 205,
+        "specialized_apps": 103
+      },
+      "last_audit_date": "2023-12-06 00:00:00"
+    },
+    "notes": "Spend value return couple. Marriage method material final."
+  },
+  {
+    "company_id": 43,
+    "company_name": "Rodriguez LLC资本",
+    "it_assets": {
+      "servers": 338,
+      "workstations": 361,
+      "cloud_services": {
+        "provider": "Aliyun",
+        "monthly_cost_usd": 4516.04
+      },
+      "software_licenses": {
+        "office_suite": 399,
+        "security_tools": 61,
+        "specialized_apps": 117
+      },
+      "last_audit_date": "2023-02-21 00:00:00"
+    },
+    "notes": "War measure whom Democrat."
+  },
+  {
+    "company_id": 44,
+    "company_name": "Allen-Allen证券",
+    "it_assets": {
+      "servers": 274,
+      "workstations": 1914,
+      "cloud_services": {
+        "provider": "Aliyun",
+        "monthly_cost_usd": 3869.85
+      },
+      "software_licenses": {
+        "office_suite": 218,
+        "security_tools": 48,
+        "specialized_apps": 125
+      },
+      "last_audit_date": "2023-05-16 00:00:00"
+    },
+    "notes": "Anything manager think. Experience account blue care enough hand idea. Hundred now crime."
+  },
+  {
+    "company_id": 45,
+    "company_name": "Arroyo, Miller and Tucker金融",
+    "it_assets": {
+      "servers": 178,
+      "workstations": 1326,
+      "cloud_services": {
+        "provider": "Aliyun",
+        "monthly_cost_usd": 6962.36
+      },
+      "software_licenses": {
+        "office_suite": 606,
+        "security_tools": 204,
+        "specialized_apps": 86
+      },
+      "last_audit_date": "2023-11-17 00:00:00"
+    },
+    "notes": "Available mean share evidence writer. Budget window hour some fund voice sense current. Husband American although require sound mind chance."
+  },
+  {
+    "company_id": 46,
+    "company_name": "Spence PLC资产",
+    "it_assets": {
+      "servers": 372,
+      "workstations": 1867,
+      "cloud_services": {
+        "provider": "AWS",
+        "monthly_cost_usd": 8075.21
+      },
+      "software_licenses": {
+        "office_suite": 300,
+        "security_tools": 333,
+        "specialized_apps": 78
+      },
+      "last_audit_date": "2023-04-27 00:00:00"
+    },
+    "notes": "Foreign party class wrong. Order medical meeting majority none. Staff happy purpose woman on someone rise."
+  },
+  {
+    "company_id": 47,
+    "company_name": "Anderson Group证券",
+    "it_assets": {
+      "servers": 387,
+      "workstations": 235,
+      "cloud_services": {
+        "provider": "AWS",
+        "monthly_cost_usd": 5471.77
+      },
+      "software_licenses": {
+        "office_suite": 514,
+        "security_tools": 95,
+        "specialized_apps": 81
+      },
+      "last_audit_date": "2023-01-15 00:00:00"
+    },
+    "notes": "Others enter pretty. Officer return on color pick people subject challenge. All way body affect finish. Include data maybe particularly."
+  },
+  {
+    "company_id": 48,
+    "company_name": "Martin, Rose and Obrien金融",
+    "it_assets": {
+      "servers": 28,
+      "workstations": 714,
+      "cloud_services": {
+        "provider": "AWS",
+        "monthly_cost_usd": 8369.15
+      },
+      "software_licenses": {
+        "office_suite": 310,
+        "security_tools": 281,
+        "specialized_apps": 110
+      },
+      "last_audit_date": "2023-10-17 00:00:00"
+    },
+    "notes": "Relationship million night your. Moment finish community treatment garden great sign. Particular court east newspaper different."
+  },
+  {
+    "company_id": 49,
+    "company_name": "Hickman Ltd证券",
+    "it_assets": {
+      "servers": 354,
+      "workstations": 1673,
+      "cloud_services": {
+        "provider": "Azure",
+        "monthly_cost_usd": 2813.02
+      },
+      "software_licenses": {
+        "office_suite": 694,
+        "security_tools": 359,
+        "specialized_apps": 66
+      },
+      "last_audit_date": "2023-09-12 00:00:00"
+    },
+    "notes": "Relate real major look night. Explain of myself time house."
+  },
+  {
+    "company_id": 50,
+    "company_name": "Harris, Collins and Carney资产",
+    "it_assets": {
+      "servers": 303,
+      "workstations": 343,
+      "cloud_services": {
+        "provider": "Aliyun",
+        "monthly_cost_usd": 4216.99
+      },
+      "software_licenses": {
+        "office_suite": 69,
+        "security_tools": 248,
+        "specialized_apps": 78
+      },
+      "last_audit_date": "2023-12-13 00:00:00"
+    },
+    "notes": "Fact explain research get. Pretty section degree still even no. Case past only drug prove."
+  },
+  {
+    "company_id": 51,
+    "company_name": "Brooks, Lam and Hayes资本",
+    "it_assets": {
+      "servers": 284,
+      "workstations": 373,
+      "cloud_services": {
+        "provider": "Azure",
+        "monthly_cost_usd": 8589.27
+      },
+      "software_licenses": {
+        "office_suite": 714,
+        "security_tools": 227,
+        "specialized_apps": 69
+      },
+      "last_audit_date": "2023-08-22 00:00:00"
+    },
+    "notes": "Point appear including response beyond. Accept nearly upon imagine. Local current white fly position traditional become."
+  },
+  {
+    "company_id": 52,
+    "company_name": "Walker LLC资产",
+    "it_assets": {
+      "servers": 159,
+      "workstations": 457,
+      "cloud_services": {
+        "provider": "Azure",
+        "monthly_cost_usd": 7900.02
+      },
+      "software_licenses": {
+        "office_suite": 645,
+        "security_tools": 193,
+        "specialized_apps": 80
+      },
+      "last_audit_date": "2023-12-25 00:00:00"
+    },
+    "notes": "Movement rich view tree company. Value already structure small. View while unit theory."
+  },
+  {
+    "company_id": 53,
+    "company_name": "Chapman and Sons资本",
+    "it_assets": {
+      "servers": 156,
+      "workstations": 94,
+      "cloud_services": {
+        "provider": "Aliyun",
+        "monthly_cost_usd": 2921.36
+      },
+      "software_licenses": {
+        "office_suite": 762,
+        "security_tools": 391,
+        "specialized_apps": 17
+      },
+      "last_audit_date": "2023-11-07 00:00:00"
+    },
+    "notes": "Nothing blue work expect writer."
+  },
+  {
+    "company_id": 54,
+    "company_name": "Robinson, Jones and Welch资产",
+    "it_assets": {
+      "servers": 386,
+      "workstations": 1067,
+      "cloud_services": {
+        "provider": "AWS",
+        "monthly_cost_usd": 8662.71
+      },
+      "software_licenses": {
+        "office_suite": 681,
+        "security_tools": 190,
+        "specialized_apps": 61
+      },
+      "last_audit_date": "2023-11-22 00:00:00"
+    },
+    "notes": "Management voice surface life cover both class. Possible responsibility add front far purpose cover. Task today still middle beautiful protect continue cell."
+  },
+  {
+    "company_id": 55,
+    "company_name": "Jones Inc投资",
+    "it_assets": {
+      "servers": 102,
+      "workstations": 1321,
+      "cloud_services": {
+        "provider": "Aliyun",
+        "monthly_cost_usd": 6372.3
+      },
+      "software_licenses": {
+        "office_suite": 200,
+        "security_tools": 331,
+        "specialized_apps": 29
+      },
+      "last_audit_date": "2023-11-18 00:00:00"
+    },
+    "notes": "According himself land environment form. Reveal activity president realize artist brother fill if. Type thousand show real police wait happen."
+  },
+  {
+    "company_id": 56,
+    "company_name": "Jones-Young证券",
+    "it_assets": {
+      "servers": 335,
+      "workstations": 130,
+      "cloud_services": {
+        "provider": "Aliyun",
+        "monthly_cost_usd": 5057.02
+      },
+      "software_licenses": {
+        "office_suite": 194,
+        "security_tools": 56,
+        "specialized_apps": 80
+      },
+      "last_audit_date": "2023-06-17 00:00:00"
+    },
+    "notes": "Whatever long lawyer writer health. Tree serious soon stay seven quite other."
+  },
+  {
+    "company_id": 57,
+    "company_name": "Washington, Ryan and Cummings证券",
+    "it_assets": {
+      "servers": 387,
+      "workstations": 900,
+      "cloud_services": {
+        "provider": "Azure",
+        "monthly_cost_usd": 2491.2
+      },
+      "software_licenses": {
+        "office_suite": 603,
+        "security_tools": 266,
+        "specialized_apps": 74
+      },
+      "last_audit_date": "2023-03-26 00:00:00"
+    },
+    "notes": "Land region back nor article natural measure. Mr clearly take kind quite response major."
+  },
+  {
+    "company_id": 58,
+    "company_name": "Johnston, Sanchez and Kennedy投资",
+    "it_assets": {
+      "servers": 136,
+      "workstations": 1921,
+      "cloud_services": {
+        "provider": "Aliyun",
+        "monthly_cost_usd": 6645.42
+      },
+      "software_licenses": {
+        "office_suite": 406,
+        "security_tools": 68,
+        "specialized_apps": 124
+      },
+      "last_audit_date": "2023-02-08 00:00:00"
+    },
+    "notes": "Speak law message lead around left southern. How staff second. Authority interest red must art thus worry line."
+  },
+  {
+    "company_id": 59,
+    "company_name": "Lee-Davis资本",
+    "it_assets": {
+      "servers": 77,
+      "workstations": 1594,
+      "cloud_services": {
+        "provider": "Azure",
+        "monthly_cost_usd": 7951.05
+      },
+      "software_licenses": {
+        "office_suite": 630,
+        "security_tools": 197,
+        "specialized_apps": 28
+      },
+      "last_audit_date": "2023-07-22 00:00:00"
+    },
+    "notes": "Conference career political role white hear. Large true help bag who themselves."
+  },
+  {
+    "company_id": 60,
+    "company_name": "Gomez-Jenkins证券",
+    "it_assets": {
+      "servers": 12,
+      "workstations": 591,
+      "cloud_services": {
+        "provider": "Aliyun",
+        "monthly_cost_usd": 5709.8
+      },
+      "software_licenses": {
+        "office_suite": 328,
+        "security_tools": 309,
+        "specialized_apps": 102
+      },
+      "last_audit_date": "2023-11-23 00:00:00"
+    },
+    "notes": "Budget year hotel camera without strong. Without leg rest."
+  },
+  {
+    "company_id": 61,
+    "company_name": "Brown, Valdez and Lucas投资",
+    "it_assets": {
+      "servers": 195,
+      "workstations": 271,
+      "cloud_services": {
+        "provider": "Aliyun",
+        "monthly_cost_usd": 5336.83
+      },
+      "software_licenses": {
+        "office_suite": 395,
+        "security_tools": 322,
+        "specialized_apps": 61
+      },
+      "last_audit_date": "2023-11-28 00:00:00"
+    },
+    "notes": "Here discover leave choice country themselves she. Special information she. Drive attack order."
+  },
+  {
+    "company_id": 62,
+    "company_name": "Powell LLC证券",
+    "it_assets": {
+      "servers": 37,
+      "workstations": 1351,
+      "cloud_services": {
+        "provider": "Azure",
+        "monthly_cost_usd": 8320.41
+      },
+      "software_licenses": {
+        "office_suite": 179,
+        "security_tools": 81,
+        "specialized_apps": 16
+      },
+      "last_audit_date": "2023-01-20 00:00:00"
+    },
+    "notes": "Public the each analysis keep music senior simply. Mean eye staff rule. Officer significant stand down then worry."
+  },
+  {
+    "company_id": 63,
+    "company_name": "Wright and Sons金融",
+    "it_assets": {
+      "servers": 160,
+      "workstations": 1058,
+      "cloud_services": {
+        "provider": "Azure",
+        "monthly_cost_usd": 3261.0
+      },
+      "software_licenses": {
+        "office_suite": 524,
+        "security_tools": 199,
+        "specialized_apps": 143
+      },
+      "last_audit_date": "2023-08-03 00:00:00"
+    },
+    "notes": "Including every news option same. Personal interview many win. Skill five indicate chance heavy senior."
+  },
+  {
+    "company_id": 64,
+    "company_name": "West, Henderson and Ramirez资本",
+    "it_assets": {
+      "servers": 305,
+      "workstations": 1570,
+      "cloud_services": {
+        "provider": "Azure",
+        "monthly_cost_usd": 8140.6
+      },
+      "software_licenses": {
+        "office_suite": 690,
+        "security_tools": 218,
+        "specialized_apps": 76
+      },
+      "last_audit_date": "2023-01-17 00:00:00"
+    },
+    "notes": "Support feeling remain south trip. Include indicate morning home effort form bad. Suggest begin right couple environmental purpose owner."
+  },
+  {
+    "company_id": 65,
+    "company_name": "Baxter Inc金融",
+    "it_assets": {
+      "servers": 358,
+      "workstations": 808,
+      "cloud_services": {
+        "provider": "Azure",
+        "monthly_cost_usd": 4835.22
+      },
+      "software_licenses": {
+        "office_suite": 161,
+        "security_tools": 361,
+        "specialized_apps": 99
+      },
+      "last_audit_date": "2023-10-06 00:00:00"
+    },
+    "notes": "Source onto provide describe decade. Field training deep couple scientist section."
+  },
+  {
+    "company_id": 66,
+    "company_name": "Morton-Chase资本",
+    "it_assets": {
+      "servers": 335,
+      "workstations": 784,
+      "cloud_services": {
+        "provider": "Azure",
+        "monthly_cost_usd": 3569.11
+      },
+      "software_licenses": {
+        "office_suite": 153,
+        "security_tools": 349,
+        "specialized_apps": 59
+      },
+      "last_audit_date": "2023-11-25 00:00:00"
+    },
+    "notes": "Receive region however dream focus. Herself move grow end mention. Letter sort reveal seven floor data fine."
+  },
+  {
+    "company_id": 67,
+    "company_name": "Williams PLC投资",
+    "it_assets": {
+      "servers": 332,
+      "workstations": 1272,
+      "cloud_services": {
+        "provider": "AWS",
+        "monthly_cost_usd": 9768.75
+      },
+      "software_licenses": {
+        "office_suite": 638,
+        "security_tools": 115,
+        "specialized_apps": 22
+      },
+      "last_audit_date": "2023-10-11 00:00:00"
+    },
+    "notes": "Ten scientist administration network once result far."
+  },
+  {
+    "company_id": 68,
+    "company_name": "Novak and Sons资本",
+    "it_assets": {
+      "servers": 111,
+      "workstations": 1250,
+      "cloud_services": {
+        "provider": "AWS",
+        "monthly_cost_usd": 3727.61
+      },
+      "software_licenses": {
+        "office_suite": 670,
+        "security_tools": 11,
+        "specialized_apps": 75
+      },
+      "last_audit_date": "2023-03-16 00:00:00"
+    },
+    "notes": "Discover now early nearly want front. Whom politics make collection some college result."
+  },
+  {
+    "company_id": 69,
+    "company_name": "Russell Group资本",
+    "it_assets": {
+      "servers": 71,
+      "workstations": 1156,
+      "cloud_services": {
+        "provider": "AWS",
+        "monthly_cost_usd": 4005.23
+      },
+      "software_licenses": {
+        "office_suite": 194,
+        "security_tools": 17,
+        "specialized_apps": 96
+      },
+      "last_audit_date": "2023-05-02 00:00:00"
+    },
+    "notes": "True my politics arrive. Stuff avoid stand. Share include successful."
+  },
+  {
+    "company_id": 70,
+    "company_name": "Hancock Inc投资",
+    "it_assets": {
+      "servers": 306,
+      "workstations": 713,
+      "cloud_services": {
+        "provider": "Azure",
+        "monthly_cost_usd": 3490.26
+      },
+      "software_licenses": {
+        "office_suite": 598,
+        "security_tools": 68,
+        "specialized_apps": 21
+      },
+      "last_audit_date": "2023-09-01 00:00:00"
+    },
+    "notes": "Religious across media health. Point value tree process administration mother in admit."
+  },
+  {
+    "company_id": 71,
+    "company_name": "Gray Group资本",
+    "it_assets": {
+      "servers": 234,
+      "workstations": 1643,
+      "cloud_services": {
+        "provider": "AWS",
+        "monthly_cost_usd": 4896.31
+      },
+      "software_licenses": {
+        "office_suite": 689,
+        "security_tools": 32,
+        "specialized_apps": 138
+      },
+      "last_audit_date": "2023-06-04 00:00:00"
+    },
+    "notes": "Within admit spend purpose south travel blood. Modern drive people education."
+  },
+  {
+    "company_id": 72,
+    "company_name": "House-Glover证券",
+    "it_assets": {
+      "servers": 239,
+      "workstations": 1367,
+      "cloud_services": {
+        "provider": "Azure",
+        "monthly_cost_usd": 1956.19
+      },
+      "software_licenses": {
+        "office_suite": 496,
+        "security_tools": 361,
+        "specialized_apps": 32
+      },
+      "last_audit_date": "2023-09-09 00:00:00"
+    },
+    "notes": "Some bad where learn during. Feel stock ball yard practice. Behavior here need."
+  },
+  {
+    "company_id": 73,
+    "company_name": "Henderson-Bernard资产",
+    "it_assets": {
+      "servers": 369,
+      "workstations": 1913,
+      "cloud_services": {
+        "provider": "AWS",
+        "monthly_cost_usd": 5548.5
+      },
+      "software_licenses": {
+        "office_suite": 127,
+        "security_tools": 74,
+        "specialized_apps": 75
+      },
+      "last_audit_date": "2023-11-16 00:00:00"
+    },
+    "notes": "Reflect bar suddenly. Not teach believe month amount deep."
+  },
+  {
+    "company_id": 74,
+    "company_name": "Stanley, Tucker and Lee投资",
+    "it_assets": {
+      "servers": 329,
+      "workstations": 1248,
+      "cloud_services": {
+        "provider": "Aliyun",
+        "monthly_cost_usd": 7962.39
+      },
+      "software_licenses": {
+        "office_suite": 361,
+        "security_tools": 242,
+        "specialized_apps": 134
+      },
+      "last_audit_date": "2023-11-06 00:00:00"
+    },
+    "notes": "Even under range exactly myself probably conference. Administration debate certain star start up. Class drive strong home to."
+  },
+  {
+    "company_id": 75,
+    "company_name": "Novak PLC资产",
+    "it_assets": {
+      "servers": 225,
+      "workstations": 253,
+      "cloud_services": {
+        "provider": "Aliyun",
+        "monthly_cost_usd": 5582.99
+      },
+      "software_licenses": {
+        "office_suite": 798,
+        "security_tools": 120,
+        "specialized_apps": 115
+      },
+      "last_audit_date": "2023-08-20 00:00:00"
+    },
+    "notes": "Sense cause write right may window. Best discussion away. Shoulder western however similar ahead event yeah make."
+  },
+  {
+    "company_id": 76,
+    "company_name": "Daniels, Adkins and Brown投资",
+    "it_assets": {
+      "servers": 121,
+      "workstations": 897,
+      "cloud_services": {
+        "provider": "AWS",
+        "monthly_cost_usd": 4711.45
+      },
+      "software_licenses": {
+        "office_suite": 380,
+        "security_tools": 228,
+        "specialized_apps": 85
+      },
+      "last_audit_date": "2023-12-07 00:00:00"
+    },
+    "notes": "Wait it quickly produce beat peace something. Bank child Republican plant. First blood accept final growth especially."
+  },
+  {
+    "company_id": 77,
+    "company_name": "Woods, Calhoun and Schmidt投资",
+    "it_assets": {
+      "servers": 135,
+      "workstations": 816,
+      "cloud_services": {
+        "provider": "AWS",
+        "monthly_cost_usd": 9628.74
+      },
+      "software_licenses": {
+        "office_suite": 147,
+        "security_tools": 57,
+        "specialized_apps": 115
+      },
+      "last_audit_date": "2023-02-19 00:00:00"
+    },
+    "notes": "Cost large never impact. Bed never others."
+  },
+  {
+    "company_id": 78,
+    "company_name": "Yu Inc金融",
+    "it_assets": {
+      "servers": 386,
+      "workstations": 1563,
+      "cloud_services": {
+        "provider": "Aliyun",
+        "monthly_cost_usd": 1419.87
+      },
+      "software_licenses": {
+        "office_suite": 635,
+        "security_tools": 178,
+        "specialized_apps": 36
+      },
+      "last_audit_date": "2023-07-30 00:00:00"
+    },
+    "notes": "Activity including single right nice yeah. Occur college herself catch feeling. Certainly cold every feel site guess want."
+  },
+  {
+    "company_id": 79,
+    "company_name": "Jones Inc金融",
+    "it_assets": {
+      "servers": 186,
+      "workstations": 1839,
+      "cloud_services": {
+        "provider": "Aliyun",
+        "monthly_cost_usd": 7076.65
+      },
+      "software_licenses": {
+        "office_suite": 112,
+        "security_tools": 157,
+        "specialized_apps": 84
+      },
+      "last_audit_date": "2023-06-30 00:00:00"
+    },
+    "notes": "Order crime blood fight we forward per. Key issue statement prepare organization feel. Water cut fire who why fact reason make. Site for exactly skill half usually customer."
+  },
+  {
+    "company_id": 80,
+    "company_name": "Hensley, Powell and David资本",
+    "it_assets": {
+      "servers": 58,
+      "workstations": 1233,
+      "cloud_services": {
+        "provider": "AWS",
+        "monthly_cost_usd": 6059.3
+      },
+      "software_licenses": {
+        "office_suite": 418,
+        "security_tools": 294,
+        "specialized_apps": 99
+      },
+      "last_audit_date": "2023-02-28 00:00:00"
+    },
+    "notes": "Race nearly well left. Just fact realize standard somebody. Pull cause field education child institution."
+  },
+  {
+    "company_id": 81,
+    "company_name": "Sanchez, Wheeler and Harvey资产",
+    "it_assets": {
+      "servers": 395,
+      "workstations": 620,
+      "cloud_services": {
+        "provider": "Aliyun",
+        "monthly_cost_usd": 6916.09
+      },
+      "software_licenses": {
+        "office_suite": 688,
+        "security_tools": 355,
+        "specialized_apps": 147
+      },
+      "last_audit_date": "2023-01-14 00:00:00"
+    },
+    "notes": "Last our old move. Myself so growth time Mr point. Body eat professor coach."
+  },
+  {
+    "company_id": 82,
+    "company_name": "Sandoval-Cunningham投资",
+    "it_assets": {
+      "servers": 316,
+      "workstations": 1952,
+      "cloud_services": {
+        "provider": "Azure",
+        "monthly_cost_usd": 6701.03
+      },
+      "software_licenses": {
+        "office_suite": 779,
+        "security_tools": 400,
+        "specialized_apps": 84
+      },
+      "last_audit_date": "2023-06-23 00:00:00"
+    },
+    "notes": "None population position. Whole involve action else member million. Reach determine hear leg quickly real character young. Bit indeed which break wait center find."
+  },
+  {
+    "company_id": 83,
+    "company_name": "Donovan-Harris资本",
+    "it_assets": {
+      "servers": 184,
+      "workstations": 62,
+      "cloud_services": {
+        "provider": "AWS",
+        "monthly_cost_usd": 3451.24
+      },
+      "software_licenses": {
+        "office_suite": 205,
+        "security_tools": 389,
+        "specialized_apps": 12
+      },
+      "last_audit_date": "2023-02-16 00:00:00"
+    },
+    "notes": "Miss give best reveal laugh. Feel special boy support. Quality clearly worker during."
+  },
+  {
+    "company_id": 84,
+    "company_name": "Edwards, Baker and Anderson证券",
+    "it_assets": {
+      "servers": 387,
+      "workstations": 1136,
+      "cloud_services": {
+        "provider": "Azure",
+        "monthly_cost_usd": 4648.74
+      },
+      "software_licenses": {
+        "office_suite": 379,
+        "security_tools": 379,
+        "specialized_apps": 88
+      },
+      "last_audit_date": "2023-10-18 00:00:00"
+    },
+    "notes": "Civil nice when discussion if continue policy. How scene third last involve above."
+  },
+  {
+    "company_id": 85,
+    "company_name": "Evans, Stewart and Walton投资",
+    "it_assets": {
+      "servers": 310,
+      "workstations": 223,
+      "cloud_services": {
+        "provider": "AWS",
+        "monthly_cost_usd": 9066.74
+      },
+      "software_licenses": {
+        "office_suite": 750,
+        "security_tools": 51,
+        "specialized_apps": 74
+      },
+      "last_audit_date": "2023-08-15 00:00:00"
+    },
+    "notes": "Everything region somebody officer son. Cost for leader energy television month police."
+  },
+  {
+    "company_id": 86,
+    "company_name": "Smith PLC证券",
+    "it_assets": {
+      "servers": 343,
+      "workstations": 918,
+      "cloud_services": {
+        "provider": "Aliyun",
+        "monthly_cost_usd": 2912.17
+      },
+      "software_licenses": {
+        "office_suite": 176,
+        "security_tools": 186,
+        "specialized_apps": 115
+      },
+      "last_audit_date": "2023-02-26 00:00:00"
+    },
+    "notes": "Particularly only girl suddenly pay sport. Try opportunity public finish draw. Consumer really memory industry. Offer institution main Mr."
+  },
+  {
+    "company_id": 87,
+    "company_name": "Ferrell, Jones and Lewis资本",
+    "it_assets": {
+      "servers": 150,
+      "workstations": 1438,
+      "cloud_services": {
+        "provider": "AWS",
+        "monthly_cost_usd": 7427.89
+      },
+      "software_licenses": {
+        "office_suite": 285,
+        "security_tools": 212,
+        "specialized_apps": 19
+      },
+      "last_audit_date": "2023-01-04 00:00:00"
+    },
+    "notes": "Cold eye cost success people tend weight. Carry spring white measure manager range indeed."
+  },
+  {
+    "company_id": 88,
+    "company_name": "Anderson-Bailey金融",
+    "it_assets": {
+      "servers": 109,
+      "workstations": 667,
+      "cloud_services": {
+        "provider": "Azure",
+        "monthly_cost_usd": 7255.12
+      },
+      "software_licenses": {
+        "office_suite": 395,
+        "security_tools": 71,
+        "specialized_apps": 6
+      },
+      "last_audit_date": "2023-09-12 00:00:00"
+    },
+    "notes": "Cold not somebody determine allow different eye. Not significant manager member of environmental myself. My series service kid despite interesting."
+  },
+  {
+    "company_id": 89,
+    "company_name": "Suarez LLC资本",
+    "it_assets": {
+      "servers": 387,
+      "workstations": 931,
+      "cloud_services": {
+        "provider": "Aliyun",
+        "monthly_cost_usd": 5925.7
+      },
+      "software_licenses": {
+        "office_suite": 632,
+        "security_tools": 352,
+        "specialized_apps": 95
+      },
+      "last_audit_date": "2023-02-06 00:00:00"
+    },
+    "notes": "Themselves allow enjoy television beautiful. Simply down specific onto."
+  },
+  {
+    "company_id": 90,
+    "company_name": "Moore-Bass证券",
+    "it_assets": {
+      "servers": 208,
+      "workstations": 1814,
+      "cloud_services": {
+        "provider": "AWS",
+        "monthly_cost_usd": 7936.33
+      },
+      "software_licenses": {
+        "office_suite": 380,
+        "security_tools": 304,
+        "specialized_apps": 114
+      },
+      "last_audit_date": "2023-10-21 00:00:00"
+    },
+    "notes": "Plan coach cause deal deal arrive go exactly. Collection without fall of weight method too. Career seek in arrive."
+  },
+  {
+    "company_id": 91,
+    "company_name": "Turner, Riggs and Roman投资",
+    "it_assets": {
+      "servers": 212,
+      "workstations": 1503,
+      "cloud_services": {
+        "provider": "Azure",
+        "monthly_cost_usd": 3671.36
+      },
+      "software_licenses": {
+        "office_suite": 235,
+        "security_tools": 326,
+        "specialized_apps": 122
+      },
+      "last_audit_date": "2023-12-20 00:00:00"
+    },
+    "notes": "Reduce car chair focus. Seven put majority officer environmental."
+  },
+  {
+    "company_id": 92,
+    "company_name": "Smith, Montoya and Evans资产",
+    "it_assets": {
+      "servers": 190,
+      "workstations": 230,
+      "cloud_services": {
+        "provider": "Azure",
+        "monthly_cost_usd": 2293.97
+      },
+      "software_licenses": {
+        "office_suite": 596,
+        "security_tools": 50,
+        "specialized_apps": 106
+      },
+      "last_audit_date": "2023-06-08 00:00:00"
+    },
+    "notes": "Later plant they behavior middle everything. Lawyer maintain old than suggest behavior. Play recently sure somebody huge why station."
+  },
+  {
+    "company_id": 93,
+    "company_name": "Garcia, Humphrey and Baker资本",
+    "it_assets": {
+      "servers": 386,
+      "workstations": 745,
+      "cloud_services": {
+        "provider": "Aliyun",
+        "monthly_cost_usd": 1534.66
+      },
+      "software_licenses": {
+        "office_suite": 176,
+        "security_tools": 281,
+        "specialized_apps": 135
+      },
+      "last_audit_date": "2023-04-10 00:00:00"
+    },
+    "notes": "Follow exist natural candidate system. Thus several animal phone student administration. Kid a when dark."
+  },
+  {
+    "company_id": 94,
+    "company_name": "Newton and Sons投资",
+    "it_assets": {
+      "servers": 183,
+      "workstations": 769,
+      "cloud_services": {
+        "provider": "AWS",
+        "monthly_cost_usd": 7819.03
+      },
+      "software_licenses": {
+        "office_suite": 165,
+        "security_tools": 84,
+        "specialized_apps": 70
+      },
+      "last_audit_date": "2023-04-12 00:00:00"
+    },
+    "notes": "City usually ever pressure economy. Professor power appear personal rise sense."
+  },
+  {
+    "company_id": 95,
+    "company_name": "Campbell-Clark金融",
+    "it_assets": {
+      "servers": 93,
+      "workstations": 1283,
+      "cloud_services": {
+        "provider": "Aliyun",
+        "monthly_cost_usd": 1527.47
+      },
+      "software_licenses": {
+        "office_suite": 565,
+        "security_tools": 247,
+        "specialized_apps": 149
+      },
+      "last_audit_date": "2023-10-24 00:00:00"
+    },
+    "notes": "Region ability live car. Mind knowledge account gas building. Really local director become south billion."
+  },
+  {
+    "company_id": 96,
+    "company_name": "Harris-Walters金融",
+    "it_assets": {
+      "servers": 234,
+      "workstations": 1444,
+      "cloud_services": {
+        "provider": "Aliyun",
+        "monthly_cost_usd": 5447.09
+      },
+      "software_licenses": {
+        "office_suite": 390,
+        "security_tools": 331,
+        "specialized_apps": 85
+      },
+      "last_audit_date": "2023-03-19 00:00:00"
+    },
+    "notes": "Case similar send card year. Attention none particular clearly. Reveal physical character in rather team."
+  },
+  {
+    "company_id": 97,
+    "company_name": "Wagner-King金融",
+    "it_assets": {
+      "servers": 230,
+      "workstations": 189,
+      "cloud_services": {
+        "provider": "Aliyun",
+        "monthly_cost_usd": 6574.31
+      },
+      "software_licenses": {
+        "office_suite": 117,
+        "security_tools": 190,
+        "specialized_apps": 134
+      },
+      "last_audit_date": "2023-02-07 00:00:00"
+    },
+    "notes": "Cause but role goal. Fire cause everybody base network outside."
+  },
+  {
+    "company_id": 98,
+    "company_name": "Davis Group投资",
+    "it_assets": {
+      "servers": 163,
+      "workstations": 995,
+      "cloud_services": {
+        "provider": "AWS",
+        "monthly_cost_usd": 5615.31
+      },
+      "software_licenses": {
+        "office_suite": 720,
+        "security_tools": 56,
+        "specialized_apps": 134
+      },
+      "last_audit_date": "2023-07-16 00:00:00"
+    },
+    "notes": "Single real summer probably feeling. Parent country hot position six soldier dream. Both matter order month within would. Car team nothing half raise several."
+  },
+  {
+    "company_id": 99,
+    "company_name": "Williams-Cook资本",
+    "it_assets": {
+      "servers": 241,
+      "workstations": 1238,
+      "cloud_services": {
+        "provider": "Azure",
+        "monthly_cost_usd": 7438.63
+      },
+      "software_licenses": {
+        "office_suite": 645,
+        "security_tools": 343,
+        "specialized_apps": 53
+      },
+      "last_audit_date": "2023-06-14 00:00:00"
+    },
+    "notes": "Onto add democratic. We huge expert Republican."
+  },
+  {
+    "company_id": 100,
+    "company_name": "Walsh LLC投资",
+    "it_assets": {
+      "servers": 314,
+      "workstations": 1024,
+      "cloud_services": {
+        "provider": "Azure",
+        "monthly_cost_usd": 8682.92
+      },
+      "software_licenses": {
+        "office_suite": 791,
+        "security_tools": 53,
+        "specialized_apps": 134
+      },
+      "last_audit_date": "2023-11-27 00:00:00"
+    },
+    "notes": "Reduce bar Mr pattern everyone finally. Tv window choice force only shake power. Financial join well draw."
+  }
+]

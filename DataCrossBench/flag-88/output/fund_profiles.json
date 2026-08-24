@@ -1,0 +1,183 @@
+[
+  {
+    "fund_id": 1,
+    "fund_name": "华富强化回报基金",
+    "manager_info": {
+      "name": "尹培俊",
+      "experience_years": 11,
+      "education": "硕士",
+      "awards": []
+    },
+    "risk_profile": {
+      "volatility_level": "低",
+      "max_drawdown_pct": 14.47
+    },
+    "investment_style": {
+      "styles": [
+        "趋势跟踪",
+        "量化策略"
+      ],
+      "key_focus": "资产配置与风险管理"
+    },
+    "historical_notes": [
+      {
+        "year": 2015,
+        "note": "成功降低转债仓位，有效控制风险。"
+      },
+      {
+        "year": 2019,
+        "note": "市场波动中及时调整，年收益11.94%。"
+      },
+      {
+        "year": 2020,
+        "note": "保持稳健，收益9.40。"
+      }
+    ]
+  },
+  {
+    "fund_id": 2,
+    "fund_name": "华富稳健增长基金",
+    "manager_info": {
+      "name": "李晓明",
+      "experience_years": 19,
+      "education": "硕士",
+      "awards": [
+        "",
+        "创新资产管理奖",
+        "杰出基金经理奖"
+      ]
+    },
+    "risk_profile": {
+      "volatility_level": "低",
+      "max_drawdown_pct": 12.42
+    },
+    "investment_style": {
+      "styles": [
+        "价值投资",
+        "资产配置"
+      ],
+      "key_focus": "资产配置与风险管理"
+    },
+    "historical_notes": [
+      {
+        "year": 2015,
+        "note": "成功降低转债仓位，有效控制风险。"
+      },
+      {
+        "year": 2019,
+        "note": "市场波动中及时调整，年收益11.94%。"
+      },
+      {
+        "year": 2020,
+        "note": "保持稳健，收益9.40。"
+      }
+    ]
+  },
+  {
+    "fund_id": 3,
+    "fund_name": "华富成长优选基金",
+    "manager_info": {
+      "name": "张婷婷",
+      "experience_years": 15,
+      "education": "本科",
+      "awards": []
+    },
+    "risk_profile": {
+      "volatility_level": "高",
+      "max_drawdown_pct": 16.92
+    },
+    "investment_style": {
+      "styles": [
+        "资产配置",
+        "成长投资"
+      ],
+      "key_focus": "资产配置与风险管理"
+    },
+    "historical_notes": [
+      {
+        "year": 2015,
+        "note": "成功降低转债仓位，有效控制风险。"
+      },
+      {
+        "year": 2019,
+        "note": "市场波动中及时调整，年收益11.94%。"
+      },
+      {
+        "year": 2020,
+        "note": "保持稳健，收益9.40。"
+      }
+    ]
+  },
+  {
+    "fund_id": 4,
+    "fund_name": "华富价值发掘基金",
+    "manager_info": {
+      "name": "王刚",
+      "experience_years": 6,
+      "education": "博士",
+      "awards": []
+    },
+    "risk_profile": {
+      "volatility_level": "低",
+      "max_drawdown_pct": 6.71
+    },
+    "investment_style": {
+      "styles": [
+        "价值投资",
+        "成长投资"
+      ],
+      "key_focus": "资产配置与风险管理"
+    },
+    "historical_notes": [
+      {
+        "year": 2015,
+        "note": "成功降低转债仓位，有效控制风险。"
+      },
+      {
+        "year": 2019,
+        "note": "市场波动中及时调整，年收益11.94%。"
+      },
+      {
+        "year": 2020,
+        "note": "保持稳健，收益9.40。"
+      }
+    ]
+  },
+  {
+    "fund_id": 5,
+    "fund_name": "华富未来科技基金",
+    "manager_info": {
+      "name": "陈丽",
+      "experience_years": 17,
+      "education": "本科",
+      "awards": [
+        ""
+      ]
+    },
+    "risk_profile": {
+      "volatility_level": "高",
+      "max_drawdown_pct": 5.99
+    },
+    "investment_style": {
+      "styles": [
+        "价值投资",
+        "趋势跟踪"
+      ],
+      "key_focus": "资产配置与风险管理"
+    },
+    "historical_notes": [
+      {
+        "year": 2015,
+        "note": "成功降低转债仓位，有效控制风险。"
+      },
+      {
+        "year": 2019,
+        "note": "市场波动中及时调整，年收益11.94%。"
+      },
+      {
+        "year": 2020,
+        "note": "保持稳健，收益9.40。"
+      }
+    ]
+  }
+]

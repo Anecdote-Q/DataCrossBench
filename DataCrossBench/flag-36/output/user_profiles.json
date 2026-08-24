@@ -1,0 +1,2689 @@
+[
+  {
+    "record_id": 1,
+    "year": 1923,
+    "ip_product": {
+      "ip_id": 11,
+      "ip_name": "Intuitive upward-trending knowledge user",
+      "ip_type": "校园",
+      "ip_status": "完结"
+    },
+    "market_segment": {
+      "market_segment_id": 5,
+      "market_name": "大洋洲",
+      "region_category": "其他"
+    },
+    "user_behavior": {
+      "likes_short_drama": true,
+      "average_watch_time_min": 25.6,
+      "preferred_genres": [
+        "悬疑",
+        "奇幻"
+      ]
+    },
+    "description": "1923年，海外短剧市场IP 'Intuitive upward-trending knowledge user' 在大洋洲地区表现突出，短剧内购收入达24.72亿美元。 目前买量成本占比约50.64%，位于行业高位。 短剧市场快速增长，带动内容创新与产业升级。 内容差异化不足与文化适应性改善点明显。",
+    "tags": []
+  },
+  {
+    "record_id": 2,
+    "year": 1924,
+    "ip_product": {
+      "ip_id": 16,
+      "ip_name": "Phased 5thgeneration throughput",
+      "ip_type": "历史",
+      "ip_status": "完结"
+    },
+    "market_segment": {
+      "market_segment_id": 3,
+      "market_name": "欧洲",
+      "region_category": "欧盟"
+    },
+    "user_behavior": {
+      "likes_short_drama": true,
+      "average_watch_time_min": 35.6,
+      "preferred_genres": [
+        "校园"
+      ]
+    },
+    "description": "1924年，海外短剧市场IP 'Phased 5thgeneration throughput' 在欧洲地区表现突出，短剧内购收入达29.97亿美元。 目前买量成本占比约nan%，位于行业高位。 短剧市场快速增长，带动内容创新与产业升级。 内容差异化不足与文化适应性改善点明显。",
+    "tags": [
+      "技术",
+      "体验"
+    ]
+  },
+  {
+    "record_id": 3,
+    "year": 1925,
+    "ip_product": {
+      "ip_id": 19,
+      "ip_name": "Sharable multi-tasking open system",
+      "ip_type": "悬疑",
+      "ip_status": "完结"
+    },
+    "market_segment": {
+      "market_segment_id": 2,
+      "market_name": "南美",
+      "region_category": "拉美"
+    },
+    "user_behavior": {
+      "likes_short_drama": true,
+      "average_watch_time_min": 33.0,
+      "preferred_genres": [
+        "奇幻",
+        "悬疑",
+        "科幻"
+      ]
+    },
+    "description": "1925年，海外短剧市场IP 'Sharable multi-tasking open system' 在南美地区表现突出，短剧内购收入达22.83亿美元。 目前买量成本占比约35.91%，位于行业高位。 短剧市场快速增长，带动内容创新与产业升级。 内容差异化不足与文化适应性改善点明显。",
+    "tags": [
+      "IP资源",
+      "资源分配"
+    ]
+  },
+  {
+    "record_id": 4,
+    "year": 1926,
+    "ip_product": {
+      "ip_id": 24,
+      "ip_name": "Pre-emptive multi-state secured line",
+      "ip_type": "都市",
+      "ip_status": "完结"
+    },
+    "market_segment": {
+      "market_segment_id": 4,
+      "market_name": "亚洲",
+      "region_category": "东亚"
+    },
+    "user_behavior": {
+      "likes_short_drama": true,
+      "average_watch_time_min": 25.8,
+      "preferred_genres": [
+        "爱情",
+        "校园"
+      ]
+    },
+    "description": "1926年，海外短剧市场IP 'Pre-emptive multi-state secured line' 在亚洲地区表现突出，短剧内购收入达4.94亿美元。 目前买量成本占比约16.02%，位于行业高位。 短剧市场快速增长，带动内容创新与产业升级。 内容差异化不足与文化适应性改善点明显。",
+    "tags": []
+  },
+  {
+    "record_id": 5,
+    "year": 1927,
+    "ip_product": {
+      "ip_id": 8,
+      "ip_name": "Diverse 24hour Internet solution",
+      "ip_type": "历史",
+      "ip_status": "完结"
+    },
+    "market_segment": {
+      "market_segment_id": 2,
+      "market_name": "南美",
+      "region_category": "拉美"
+    },
+    "user_behavior": {
+      "likes_short_drama": true,
+      "average_watch_time_min": 28.0,
+      "preferred_genres": [
+        "奇幻"
+      ]
+    },
+    "description": "1927年，海外短剧市场IP 'Diverse 24hour Internet solution' 在南美地区表现突出，短剧内购收入达14.21亿美元。 目前买量成本占比约71.45%，位于行业高位。 短剧市场快速增长，带动内容创新与产业升级。 内容差异化不足与文化适应性改善点明显。",
+    "tags": []
+  },
+  {
+    "record_id": 6,
+    "year": 1928,
+    "ip_product": {
+      "ip_id": 40,
+      "ip_name": "Quality-focused mission-critical conglomeration",
+      "ip_type": "科幻",
+      "ip_status": "完结"
+    },
+    "market_segment": {
+      "market_segment_id": 3,
+      "market_name": "欧洲",
+      "region_category": "欧盟"
+    },
+    "user_behavior": {
+      "likes_short_drama": false,
+      "average_watch_time_min": 37.0,
+      "preferred_genres": [
+        "动作",
+        "科幻",
+        "爱情"
+      ]
+    },
+    "description": "1928年，海外短剧市场IP 'Quality-focused mission-critical conglomeration' 在欧洲地区表现突出，短剧内购收入达36.51亿美元。 目前买量成本占比约40.41%，位于行业高位。 短剧市场快速增长，带动内容创新与产业升级。 内容差异化不足与文化适应性改善点明显。",
+    "tags": [
+      "渠道",
+      "推广成本"
+    ]
+  },
+  {
+    "record_id": 7,
+    "year": 1929,
+    "ip_product": {
+      "ip_id": 29,
+      "ip_name": "Down-sized full-range Graphical User Interface",
+      "ip_type": "动作",
+      "ip_status": "完结"
+    },
+    "market_segment": {
+      "market_segment_id": 3,
+      "market_name": "欧洲",
+      "region_category": "欧盟"
+    },
+    "user_behavior": {
+      "likes_short_drama": false,
+      "average_watch_time_min": 20.2,
+      "preferred_genres": [
+        "奇幻"
+      ]
+    },
+    "description": "1929年，海外短剧市场IP 'Down-sized full-range Graphical User Interface' 在欧洲地区表现突出，短剧内购收入达-4.27亿美元。 目前买量成本占比约73.97%，位于行业高位。 短剧市场快速增长，带动内容创新与产业升级。 内容差异化不足与文化适应性改善点明显。",
+    "tags": [
+      "技术",
+      "体验"
+    ]
+  },
+  {
+    "record_id": 8,
+    "year": 1930,
+    "ip_product": {
+      "ip_id": 16,
+      "ip_name": "Phased 5thgeneration throughput",
+      "ip_type": "历史",
+      "ip_status": "完结"
+    },
+    "market_segment": {
+      "market_segment_id": 3,
+      "market_name": "欧洲",
+      "region_category": "欧盟"
+    },
+    "user_behavior": {
+      "likes_short_drama": false,
+      "average_watch_time_min": 39.9,
+      "preferred_genres": [
+        "校园"
+      ]
+    },
+    "description": "1930年，海外短剧市场IP 'Phased 5thgeneration throughput' 在欧洲地区表现突出，短剧内购收入达15.71亿美元。 目前买量成本占比约45.0%，位于行业高位。 短剧市场快速增长，带动内容创新与产业升级。 内容差异化不足与文化适应性改善点明显。",
+    "tags": [
+      "渠道",
+      "推广成本"
+    ]
+  },
+  {
+    "record_id": 9,
+    "year": 1931,
+    "ip_product": {
+      "ip_id": 29,
+      "ip_name": "Down-sized full-range Graphical User Interface",
+      "ip_type": "动作",
+      "ip_status": "完结"
+    },
+    "market_segment": {
+      "market_segment_id": 4,
+      "market_name": "亚洲",
+      "region_category": "东亚"
+    },
+    "user_behavior": {
+      "likes_short_drama": true,
+      "average_watch_time_min": 33.8,
+      "preferred_genres": [
+        "科幻",
+        "都市",
+        "奇幻"
+      ]
+    },
+    "description": "1931年，海外短剧市场IP 'Down-sized full-range Graphical User Interface' 在亚洲地区表现突出，短剧内购收入达32.66亿美元。 目前买量成本占比约74.75%，位于行业高位。 短剧市场快速增长，带动内容创新与产业升级。 内容差异化不足与文化适应性改善点明显。",
+    "tags": [
+      "法律",
+      "障碍"
+    ]
+  },
+  {
+    "record_id": 10,
+    "year": 1932,
+    "ip_product": {
+      "ip_id": 41,
+      "ip_name": "Distributed national intranet",
+      "ip_type": "悬疑",
+      "ip_status": "完结"
+    },
+    "market_segment": {
+      "market_segment_id": 1,
+      "market_name": "北美",
+      "region_category": "英语系"
+    },
+    "user_behavior": {
+      "likes_short_drama": true,
+      "average_watch_time_min": 38.1,
+      "preferred_genres": [
+        "爱情"
+      ]
+    },
+    "description": "1932年，海外短剧市场IP 'Distributed national intranet' 在北美地区表现突出，短剧内购收入达11.33亿美元。 目前买量成本占比约63.35%，位于行业高位。 短剧市场快速增长，带动内容创新与产业升级。 内容差异化不足与文化适应性改善点明显。",
+    "tags": [
+      "供应过剩",
+      "产量激增"
+    ]
+  },
+  {
+    "record_id": 11,
+    "year": 1933,
+    "ip_product": {
+      "ip_id": 31,
+      "ip_name": "Up-sized logistical info-mediaries",
+      "ip_type": "动作",
+      "ip_status": "完结"
+    },
+    "market_segment": {
+      "market_segment_id": 4,
+      "market_name": "亚洲",
+      "region_category": "东亚"
+    },
+    "user_behavior": {
+      "likes_short_drama": true,
+      "average_watch_time_min": 27.4,
+      "preferred_genres": [
+        "科幻",
+        "奇幻",
+        "爱情"
+      ]
+    },
+    "description": "1933年，海外短剧市场IP 'Up-sized logistical info-mediaries' 在亚洲地区表现突出，短剧内购收入达13.21亿美元。 目前买量成本占比约nan%，位于行业高位。 短剧市场快速增长，带动内容创新与产业升级。 内容差异化不足与文化适应性改善点明显。",
+    "tags": [
+      "用户付费",
+      "需求波动"
+    ]
+  },
+  {
+    "record_id": 12,
+    "year": 1934,
+    "ip_product": {
+      "ip_id": 46,
+      "ip_name": "Future-proofed intermediate productivity",
+      "ip_type": "奇幻",
+      "ip_status": "完结"
+    },
+    "market_segment": {
+      "market_segment_id": 3,
+      "market_name": "欧洲",
+      "region_category": "欧盟"
+    },
+    "user_behavior": {
+      "likes_short_drama": false,
+      "average_watch_time_min": 35.9,
+      "preferred_genres": [
+        "动作",
+        "历史"
+      ]
+    },
+    "description": "1934年，海外短剧市场IP 'Future-proofed intermediate productivity' 在欧洲地区表现突出，短剧内购收入达19.05亿美元。 目前买量成本占比约32.31%，位于行业高位。 短剧市场快速增长，带动内容创新与产业升级。 内容差异化不足与文化适应性改善点明显。",
+    "tags": []
+  },
+  {
+    "record_id": 13,
+    "year": 1935,
+    "ip_product": {
+      "ip_id": 18,
+      "ip_name": "Polarized demand-driven portal",
+      "ip_type": "动作",
+      "ip_status": "停更"
+    },
+    "market_segment": {
+      "market_segment_id": 5,
+      "market_name": "大洋洲",
+      "region_category": "其他"
+    },
+    "user_behavior": {
+      "likes_short_drama": true,
+      "average_watch_time_min": 46.2,
+      "preferred_genres": [
+        "都市"
+      ]
+    },
+    "description": "1935年，海外短剧市场IP 'Polarized demand-driven portal' 在大洋洲地区表现突出，短剧内购收入达119.64亿美元。 目前买量成本占比约33.86%，位于行业高位。 短剧市场快速增长，带动内容创新与产业升级。 内容差异化不足与文化适应性改善点明显。",
+    "tags": []
+  },
+  {
+    "record_id": 14,
+    "year": 1936,
+    "ip_product": {
+      "ip_id": 46,
+      "ip_name": "Future-proofed intermediate productivity",
+      "ip_type": "奇幻",
+      "ip_status": "完结"
+    },
+    "market_segment": {
+      "market_segment_id": 1,
+      "market_name": "北美",
+      "region_category": "英语系"
+    },
+    "user_behavior": {
+      "likes_short_drama": false,
+      "average_watch_time_min": 43.9,
+      "preferred_genres": [
+        "都市",
+        "动作"
+      ]
+    },
+    "description": "1936年，海外短剧市场IP 'Future-proofed intermediate productivity' 在北美地区表现突出，短剧内购收入达50.9亿美元。 目前买量成本占比约nan%，位于行业高位。 短剧市场快速增长，带动内容创新与产业升级。 内容差异化不足与文化适应性改善点明显。",
+    "tags": [
+      "文化差异",
+      "地域"
+    ]
+  },
+  {
+    "record_id": 15,
+    "year": 1937,
+    "ip_product": {
+      "ip_id": 48,
+      "ip_name": "Secured asymmetric migration",
+      "ip_type": "科幻",
+      "ip_status": "停更"
+    },
+    "market_segment": {
+      "market_segment_id": 4,
+      "market_name": "亚洲",
+      "region_category": "东亚"
+    },
+    "user_behavior": {
+      "likes_short_drama": false,
+      "average_watch_time_min": 40.0,
+      "preferred_genres": [
+        "爱情"
+      ]
+    },
+    "description": "1937年，海外短剧市场IP 'Secured asymmetric migration' 在亚洲地区表现突出，短剧内购收入达57.78亿美元。 目前买量成本占比约nan%，位于行业高位。 短剧市场快速增长，带动内容创新与产业升级。 内容差异化不足与文化适应性改善点明显。",
+    "tags": [
+      "用户付费",
+      "需求波动"
+    ]
+  },
+  {
+    "record_id": 16,
+    "year": 1938,
+    "ip_product": {
+      "ip_id": 13,
+      "ip_name": "Synchronized client-server capacity",
+      "ip_type": "动作",
+      "ip_status": "完结"
+    },
+    "market_segment": {
+      "market_segment_id": 2,
+      "market_name": "南美",
+      "region_category": "拉美"
+    },
+    "user_behavior": {
+      "likes_short_drama": false,
+      "average_watch_time_min": 46.0,
+      "preferred_genres": [
+        "校园",
+        "动作",
+        "都市"
+      ]
+    },
+    "description": "1938年，海外短剧市场IP 'Synchronized client-server capacity' 在南美地区表现突出，短剧内购收入达15.66亿美元。 目前买量成本占比约55.83%，位于行业高位。 短剧市场快速增长，带动内容创新与产业升级。 内容差异化不足与文化适应性改善点明显。",
+    "tags": [
+      "审核",
+      "内容监管"
+    ]
+  },
+  {
+    "record_id": 17,
+    "year": 1939,
+    "ip_product": {
+      "ip_id": 8,
+      "ip_name": "Diverse 24hour Internet solution",
+      "ip_type": "历史",
+      "ip_status": "完结"
+    },
+    "market_segment": {
+      "market_segment_id": 4,
+      "market_name": "亚洲",
+      "region_category": "东亚"
+    },
+    "user_behavior": {
+      "likes_short_drama": false,
+      "average_watch_time_min": 27.7,
+      "preferred_genres": [
+        "动作",
+        "爱情"
+      ]
+    },
+    "description": "1939年，海外短剧市场IP 'Diverse 24hour Internet solution' 在亚洲地区表现突出，短剧内购收入达42.06亿美元。 目前买量成本占比约26.52%，位于行业高位。 短剧市场快速增长，带动内容创新与产业升级。 内容差异化不足与文化适应性改善点明显。",
+    "tags": [
+      "供应过剩",
+      "产量激增"
+    ]
+  },
+  {
+    "record_id": 18,
+    "year": 1940,
+    "ip_product": {
+      "ip_id": 28,
+      "ip_name": "Pre-emptive stable firmware",
+      "ip_type": "科幻",
+      "ip_status": "连载中"
+    },
+    "market_segment": {
+      "market_segment_id": 1,
+      "market_name": "北美",
+      "region_category": "英语系"
+    },
+    "user_behavior": {
+      "likes_short_drama": true,
+      "average_watch_time_min": 65.7,
+      "preferred_genres": [
+        "动作",
+        "校园"
+      ]
+    },
+    "description": "1940年，海外短剧市场IP 'Pre-emptive stable firmware' 在北美地区表现突出，短剧内购收入达41.87亿美元。 目前买量成本占比约nan%，位于行业高位。 短剧市场快速增长，带动内容创新与产业升级。 内容差异化不足与文化适应性改善点明显。",
+    "tags": [
+      "文化差异",
+      "地域"
+    ]
+  },
+  {
+    "record_id": 19,
+    "year": 1941,
+    "ip_product": {
+      "ip_id": 24,
+      "ip_name": "Pre-emptive multi-state secured line",
+      "ip_type": "都市",
+      "ip_status": "完结"
+    },
+    "market_segment": {
+      "market_segment_id": 1,
+      "market_name": "北美",
+      "region_category": "英语系"
+    },
+    "user_behavior": {
+      "likes_short_drama": true,
+      "average_watch_time_min": 27.2,
+      "preferred_genres": [
+        "爱情"
+      ]
+    },
+    "description": "1941年，海外短剧市场IP 'Pre-emptive multi-state secured line' 在北美地区表现突出，短剧内购收入达30.04亿美元。 目前买量成本占比约47.69%，位于行业高位。 短剧市场快速增长，带动内容创新与产业升级。 内容差异化不足与文化适应性改善点明显。",
+    "tags": [
+      "渠道",
+      "推广成本"
+    ]
+  },
+  {
+    "record_id": 20,
+    "year": 1942,
+    "ip_product": {
+      "ip_id": 8,
+      "ip_name": "Diverse 24hour Internet solution",
+      "ip_type": "历史",
+      "ip_status": "完结"
+    },
+    "market_segment": {
+      "market_segment_id": 4,
+      "market_name": "亚洲",
+      "region_category": "东亚"
+    },
+    "user_behavior": {
+      "likes_short_drama": true,
+      "average_watch_time_min": 29.6,
+      "preferred_genres": [
+        "奇幻",
+        "都市",
+        "爱情"
+      ]
+    },
+    "description": "1942年，海外短剧市场IP 'Diverse 24hour Internet solution' 在亚洲地区表现突出，短剧内购收入达23.86亿美元。 目前买量成本占比约36.18%，位于行业高位。 短剧市场快速增长，带动内容创新与产业升级。 内容差异化不足与文化适应性改善点明显。",
+    "tags": []
+  },
+  {
+    "record_id": 21,
+    "year": 1943,
+    "ip_product": {
+      "ip_id": 24,
+      "ip_name": "Pre-emptive multi-state secured line",
+      "ip_type": "都市",
+      "ip_status": "完结"
+    },
+    "market_segment": {
+      "market_segment_id": 1,
+      "market_name": "北美",
+      "region_category": "英语系"
+    },
+    "user_behavior": {
+      "likes_short_drama": true,
+      "average_watch_time_min": 25.7,
+      "preferred_genres": [
+        "历史"
+      ]
+    },
+    "description": "1943年，海外短剧市场IP 'Pre-emptive multi-state secured line' 在北美地区表现突出，短剧内购收入达116.24亿美元。 目前买量成本占比约44.14%，位于行业高位。 短剧市场快速增长，带动内容创新与产业升级。 内容差异化不足与文化适应性改善点明显。",
+    "tags": [
+      "文化差异",
+      "地域"
+    ]
+  },
+  {
+    "record_id": 22,
+    "year": 1944,
+    "ip_product": {
+      "ip_id": 49,
+      "ip_name": "Multi-channeled tertiary array",
+      "ip_type": "悬疑",
+      "ip_status": "连载中"
+    },
+    "market_segment": {
+      "market_segment_id": 2,
+      "market_name": "南美",
+      "region_category": "拉美"
+    },
+    "user_behavior": {
+      "likes_short_drama": false,
+      "average_watch_time_min": 42.7,
+      "preferred_genres": [
+        "历史"
+      ]
+    },
+    "description": "1944年，海外短剧市场IP 'Multi-channeled tertiary array' 在南美地区表现突出，短剧内购收入达34.91亿美元。 目前买量成本占比约42.33%，位于行业高位。 短剧市场快速增长，带动内容创新与产业升级。 内容差异化不足与文化适应性改善点明显。",
+    "tags": []
+  },
+  {
+    "record_id": 23,
+    "year": 1945,
+    "ip_product": {
+      "ip_id": 15,
+      "ip_name": "Re-engineered mission-critical firmware",
+      "ip_type": "都市",
+      "ip_status": "停更"
+    },
+    "market_segment": {
+      "market_segment_id": 5,
+      "market_name": "大洋洲",
+      "region_category": "其他"
+    },
+    "user_behavior": {
+      "likes_short_drama": true,
+      "average_watch_time_min": 42.3,
+      "preferred_genres": [
+        "动作",
+        "校园"
+      ]
+    },
+    "description": "1945年，海外短剧市场IP 'Re-engineered mission-critical firmware' 在大洋洲地区表现突出，短剧内购收入达10.64亿美元。 目前买量成本占比约54.99%，位于行业高位。 短剧市场快速增长，带动内容创新与产业升级。 内容差异化不足与文化适应性改善点明显。",
+    "tags": [
+      "竞争",
+      "策略"
+    ]
+  },
+  {
+    "record_id": 24,
+    "year": 1946,
+    "ip_product": {
+      "ip_id": 37,
+      "ip_name": "Up-sized analyzing productivity",
+      "ip_type": "悬疑",
+      "ip_status": "完结"
+    },
+    "market_segment": {
+      "market_segment_id": 2,
+      "market_name": "南美",
+      "region_category": "拉美"
+    },
+    "user_behavior": {
+      "likes_short_drama": true,
+      "average_watch_time_min": 15.9,
+      "preferred_genres": [
+        "悬疑"
+      ]
+    },
+    "description": "1946年，海外短剧市场IP 'Up-sized analyzing productivity' 在南美地区表现突出，短剧内购收入达31.76亿美元。 目前买量成本占比约nan%，位于行业高位。 短剧市场快速增长，带动内容创新与产业升级。 内容差异化不足与文化适应性改善点明显。",
+    "tags": [
+      "渠道",
+      "推广成本"
+    ]
+  },
+  {
+    "record_id": 25,
+    "year": 1947,
+    "ip_product": {
+      "ip_id": 45,
+      "ip_name": "Function-based heuristic software",
+      "ip_type": "都市",
+      "ip_status": "连载中"
+    },
+    "market_segment": {
+      "market_segment_id": 3,
+      "market_name": "欧洲",
+      "region_category": "欧盟"
+    },
+    "user_behavior": {
+      "likes_short_drama": true,
+      "average_watch_time_min": 16.5,
+      "preferred_genres": [
+        "爱情",
+        "奇幻",
+        "动作"
+      ]
+    },
+    "description": "1947年，海外短剧市场IP 'Function-based heuristic software' 在欧洲地区表现突出，短剧内购收入达27.87亿美元。 目前买量成本占比约nan%，位于行业高位。 短剧市场快速增长，带动内容创新与产业升级。 内容差异化不足与文化适应性改善点明显。",
+    "tags": [
+      "审核",
+      "内容监管"
+    ]
+  },
+  {
+    "record_id": 26,
+    "year": 1948,
+    "ip_product": {
+      "ip_id": 30,
+      "ip_name": "Reactive hybrid archive",
+      "ip_type": "悬疑",
+      "ip_status": "完结"
+    },
+    "market_segment": {
+      "market_segment_id": 2,
+      "market_name": "南美",
+      "region_category": "拉美"
+    },
+    "user_behavior": {
+      "likes_short_drama": true,
+      "average_watch_time_min": 36.4,
+      "preferred_genres": [
+        "科幻",
+        "爱情"
+      ]
+    },
+    "description": "1948年，海外短剧市场IP 'Reactive hybrid archive' 在南美地区表现突出，短剧内购收入达13.62亿美元。 目前买量成本占比约34.65%，位于行业高位。 短剧市场快速增长，带动内容创新与产业升级。 内容差异化不足与文化适应性改善点明显。",
+    "tags": [
+      "内容创新",
+      "创新不足"
+    ]
+  },
+  {
+    "record_id": 27,
+    "year": 1949,
+    "ip_product": {
+      "ip_id": 11,
+      "ip_name": "Intuitive upward-trending knowledge user",
+      "ip_type": "校园",
+      "ip_status": "完结"
+    },
+    "market_segment": {
+      "market_segment_id": 3,
+      "market_name": "欧洲",
+      "region_category": "欧盟"
+    },
+    "user_behavior": {
+      "likes_short_drama": true,
+      "average_watch_time_min": 42.4,
+      "preferred_genres": [
+        "历史",
+        "科幻",
+        "悬疑"
+      ]
+    },
+    "description": "1949年，海外短剧市场IP 'Intuitive upward-trending knowledge user' 在欧洲地区表现突出，短剧内购收入达29.07亿美元。 目前买量成本占比约nan%，位于行业高位。 短剧市场快速增长，带动内容创新与产业升级。 内容差异化不足与文化适应性改善点明显。",
+    "tags": []
+  },
+  {
+    "record_id": 28,
+    "year": 1950,
+    "ip_product": {
+      "ip_id": 9,
+      "ip_name": "Vision-oriented background policy",
+      "ip_type": "悬疑",
+      "ip_status": "连载中"
+    },
+    "market_segment": {
+      "market_segment_id": 4,
+      "market_name": "亚洲",
+      "region_category": "东亚"
+    },
+    "user_behavior": {
+      "likes_short_drama": true,
+      "average_watch_time_min": 20.1,
+      "preferred_genres": [
+        "历史",
+        "都市"
+      ]
+    },
+    "description": "1950年，海外短剧市场IP 'Vision-oriented background policy' 在亚洲地区表现突出，短剧内购收入达5.71亿美元。 目前买量成本占比约46.78%，位于行业高位。 短剧市场快速增长，带动内容创新与产业升级。 内容差异化不足与文化适应性改善点明显。",
+    "tags": []
+  },
+  {
+    "record_id": 29,
+    "year": 1951,
+    "ip_product": {
+      "ip_id": 36,
+      "ip_name": "Open-architected national middleware",
+      "ip_type": "悬疑",
+      "ip_status": "完结"
+    },
+    "market_segment": {
+      "market_segment_id": 1,
+      "market_name": "北美",
+      "region_category": "英语系"
+    },
+    "user_behavior": {
+      "likes_short_drama": true,
+      "average_watch_time_min": 29.9,
+      "preferred_genres": [
+        "爱情",
+        "悬疑",
+        "历史"
+      ]
+    },
+    "description": "1951年，海外短剧市场IP 'Open-architected national middleware' 在北美地区表现突出，短剧内购收入达18.6亿美元。 目前买量成本占比约57.01%，位于行业高位。 短剧市场快速增长，带动内容创新与产业升级。 内容差异化不足与文化适应性改善点明显。",
+    "tags": [
+      "法律",
+      "障碍"
+    ]
+  },
+  {
+    "record_id": 30,
+    "year": 1952,
+    "ip_product": {
+      "ip_id": 14,
+      "ip_name": "Ameliorated explicit Internet solution",
+      "ip_type": "动作",
+      "ip_status": "完结"
+    },
+    "market_segment": {
+      "market_segment_id": 1,
+      "market_name": "北美",
+      "region_category": "英语系"
+    },
+    "user_behavior": {
+      "likes_short_drama": true,
+      "average_watch_time_min": 21.5,
+      "preferred_genres": [
+        "历史"
+      ]
+    },
+    "description": "1952年，海外短剧市场IP 'Ameliorated explicit Internet solution' 在北美地区表现突出，短剧内购收入达11.38亿美元。 目前买量成本占比约68.19%，位于行业高位。 短剧市场快速增长，带动内容创新与产业升级。 内容差异化不足与文化适应性改善点明显。",
+    "tags": [
+      "用户付费",
+      "需求波动"
+    ]
+  },
+  {
+    "record_id": 31,
+    "year": 1953,
+    "ip_product": {
+      "ip_id": 45,
+      "ip_name": "Function-based heuristic software",
+      "ip_type": "都市",
+      "ip_status": "连载中"
+    },
+    "market_segment": {
+      "market_segment_id": 1,
+      "market_name": "北美",
+      "region_category": "英语系"
+    },
+    "user_behavior": {
+      "likes_short_drama": true,
+      "average_watch_time_min": 5.5,
+      "preferred_genres": [
+        "奇幻",
+        "都市"
+      ]
+    },
+    "description": "1953年，海外短剧市场IP 'Function-based heuristic software' 在北美地区表现突出，短剧内购收入达17.44亿美元。 目前买量成本占比约36.0%，位于行业高位。 短剧市场快速增长，带动内容创新与产业升级。 内容差异化不足与文化适应性改善点明显。",
+    "tags": [
+      "法律",
+      "障碍"
+    ]
+  },
+  {
+    "record_id": 32,
+    "year": 1954,
+    "ip_product": {
+      "ip_id": 7,
+      "ip_name": "Managed tangible encryption",
+      "ip_type": "悬疑",
+      "ip_status": "停更"
+    },
+    "market_segment": {
+      "market_segment_id": 1,
+      "market_name": "北美",
+      "region_category": "英语系"
+    },
+    "user_behavior": {
+      "likes_short_drama": true,
+      "average_watch_time_min": 24.5,
+      "preferred_genres": [
+        "历史",
+        "校园",
+        "都市"
+      ]
+    },
+    "description": "1954年，海外短剧市场IP 'Managed tangible encryption' 在北美地区表现突出，短剧内购收入达-7.99亿美元。 目前买量成本占比约nan%，位于行业高位。 短剧市场快速增长，带动内容创新与产业升级。 内容差异化不足与文化适应性改善点明显。",
+    "tags": []
+  },
+  {
+    "record_id": 33,
+    "year": 1955,
+    "ip_product": {
+      "ip_id": 26,
+      "ip_name": "Automated web-enabled project",
+      "ip_type": "奇幻",
+      "ip_status": "停更"
+    },
+    "market_segment": {
+      "market_segment_id": 3,
+      "market_name": "欧洲",
+      "region_category": "欧盟"
+    },
+    "user_behavior": {
+      "likes_short_drama": true,
+      "average_watch_time_min": 41.6,
+      "preferred_genres": [
+        "都市"
+      ]
+    },
+    "description": "1955年，海外短剧市场IP 'Automated web-enabled project' 在欧洲地区表现突出，短剧内购收入达2.28亿美元。 目前买量成本占比约67.94%，位于行业高位。 短剧市场快速增长，带动内容创新与产业升级。 内容差异化不足与文化适应性改善点明显。",
+    "tags": [
+      "内容创新",
+      "创新不足"
+    ]
+  },
+  {
+    "record_id": 34,
+    "year": 1956,
+    "ip_product": {
+      "ip_id": 43,
+      "ip_name": "Balanced 24/7 challenge",
+      "ip_type": "校园",
+      "ip_status": "完结"
+    },
+    "market_segment": {
+      "market_segment_id": 4,
+      "market_name": "亚洲",
+      "region_category": "东亚"
+    },
+    "user_behavior": {
+      "likes_short_drama": true,
+      "average_watch_time_min": 35.6,
+      "preferred_genres": [
+        "爱情",
+        "都市"
+      ]
+    },
+    "description": "1956年，海外短剧市场IP 'Balanced 24/7 challenge' 在亚洲地区表现突出，短剧内购收入达13.0亿美元。 目前买量成本占比约nan%，位于行业高位。 短剧市场快速增长，带动内容创新与产业升级。 内容差异化不足与文化适应性改善点明显。",
+    "tags": []
+  },
+  {
+    "record_id": 35,
+    "year": 1957,
+    "ip_product": {
+      "ip_id": 17,
+      "ip_name": "Integrated global model",
+      "ip_type": "校园",
+      "ip_status": "完结"
+    },
+    "market_segment": {
+      "market_segment_id": 4,
+      "market_name": "亚洲",
+      "region_category": "东亚"
+    },
+    "user_behavior": {
+      "likes_short_drama": false,
+      "average_watch_time_min": 12.7,
+      "preferred_genres": [
+        "悬疑",
+        "动作"
+      ]
+    },
+    "description": "1957年，海外短剧市场IP 'Integrated global model' 在亚洲地区表现突出，短剧内购收入达29.27亿美元。 目前买量成本占比约31.82%，位于行业高位。 短剧市场快速增长，带动内容创新与产业升级。 内容差异化不足与文化适应性改善点明显。",
+    "tags": [
+      "审核",
+      "内容监管"
+    ]
+  },
+  {
+    "record_id": 36,
+    "year": 1958,
+    "ip_product": {
+      "ip_id": 32,
+      "ip_name": "Re-engineered zero-defect Graphical User Interface",
+      "ip_type": "校园",
+      "ip_status": "停更"
+    },
+    "market_segment": {
+      "market_segment_id": 3,
+      "market_name": "欧洲",
+      "region_category": "欧盟"
+    },
+    "user_behavior": {
+      "likes_short_drama": true,
+      "average_watch_time_min": 26.1,
+      "preferred_genres": [
+        "奇幻",
+        "悬疑",
+        "都市"
+      ]
+    },
+    "description": "1958年，海外短剧市场IP 'Re-engineered zero-defect Graphical User Interface' 在欧洲地区表现突出，短剧内购收入达18.26亿美元。 目前买量成本占比约nan%，位于行业高位。 短剧市场快速增长，带动内容创新与产业升级。 内容差异化不足与文化适应性改善点明显。",
+    "tags": []
+  },
+  {
+    "record_id": 37,
+    "year": 1959,
+    "ip_product": {
+      "ip_id": 30,
+      "ip_name": "Reactive hybrid archive",
+      "ip_type": "悬疑",
+      "ip_status": "完结"
+    },
+    "market_segment": {
+      "market_segment_id": 3,
+      "market_name": "欧洲",
+      "region_category": "欧盟"
+    },
+    "user_behavior": {
+      "likes_short_drama": false,
+      "average_watch_time_min": 43.0,
+      "preferred_genres": [
+        "爱情"
+      ]
+    },
+    "description": "1959年，海外短剧市场IP 'Reactive hybrid archive' 在欧洲地区表现突出，短剧内购收入达20.03亿美元。 目前买量成本占比约70.72%，位于行业高位。 短剧市场快速增长，带动内容创新与产业升级。 内容差异化不足与文化适应性改善点明显。",
+    "tags": []
+  },
+  {
+    "record_id": 38,
+    "year": 1960,
+    "ip_product": {
+      "ip_id": 40,
+      "ip_name": "Quality-focused mission-critical conglomeration",
+      "ip_type": "科幻",
+      "ip_status": "完结"
+    },
+    "market_segment": {
+      "market_segment_id": 1,
+      "market_name": "北美",
+      "region_category": "英语系"
+    },
+    "user_behavior": {
+      "likes_short_drama": true,
+      "average_watch_time_min": 22.4,
+      "preferred_genres": [
+        "校园"
+      ]
+    },
+    "description": "1960年，海外短剧市场IP 'Quality-focused mission-critical conglomeration' 在北美地区表现突出，短剧内购收入达26.88亿美元。 目前买量成本占比约15.44%，位于行业高位。 短剧市场快速增长，带动内容创新与产业升级。 内容差异化不足与文化适应性改善点明显。",
+    "tags": []
+  },
+  {
+    "record_id": 39,
+    "year": 1961,
+    "ip_product": {
+      "ip_id": 18,
+      "ip_name": "Polarized demand-driven portal",
+      "ip_type": "动作",
+      "ip_status": "停更"
+    },
+    "market_segment": {
+      "market_segment_id": 3,
+      "market_name": "欧洲",
+      "region_category": "欧盟"
+    },
+    "user_behavior": {
+      "likes_short_drama": true,
+      "average_watch_time_min": 19.8,
+      "preferred_genres": [
+        "科幻",
+        "爱情"
+      ]
+    },
+    "description": "1961年，海外短剧市场IP 'Polarized demand-driven portal' 在欧洲地区表现突出，短剧内购收入达11.2亿美元。 目前买量成本占比约44.54%，位于行业高位。 短剧市场快速增长，带动内容创新与产业升级。 内容差异化不足与文化适应性改善点明显。",
+    "tags": []
+  },
+  {
+    "record_id": 40,
+    "year": 1962,
+    "ip_product": {
+      "ip_id": 42,
+      "ip_name": "Multi-tiered web-enabled Local Area Network",
+      "ip_type": "动作",
+      "ip_status": "完结"
+    },
+    "market_segment": {
+      "market_segment_id": 1,
+      "market_name": "北美",
+      "region_category": "英语系"
+    },
+    "user_behavior": {
+      "likes_short_drama": true,
+      "average_watch_time_min": 26.8,
+      "preferred_genres": [
+        "爱情",
+        "都市",
+        "科幻"
+      ]
+    },
+    "description": "1962年，海外短剧市场IP 'Multi-tiered web-enabled Local Area Network' 在北美地区表现突出，短剧内购收入达106.71亿美元。 目前买量成本占比约43.25%，位于行业高位。 短剧市场快速增长，带动内容创新与产业升级。 内容差异化不足与文化适应性改善点明显。",
+    "tags": []
+  },
+  {
+    "record_id": 41,
+    "year": 1963,
+    "ip_product": {
+      "ip_id": 2,
+      "ip_name": "Visionary incremental flexibility",
+      "ip_type": "奇幻",
+      "ip_status": "完结"
+    },
+    "market_segment": {
+      "market_segment_id": 1,
+      "market_name": "北美",
+      "region_category": "英语系"
+    },
+    "user_behavior": {
+      "likes_short_drama": false,
+      "average_watch_time_min": 39.8,
+      "preferred_genres": [
+        "校园",
+        "动作"
+      ]
+    },
+    "description": "1963年，海外短剧市场IP 'Visionary incremental flexibility' 在北美地区表现突出，短剧内购收入达11.95亿美元。 目前买量成本占比约nan%，位于行业高位。 短剧市场快速增长，带动内容创新与产业升级。 内容差异化不足与文化适应性改善点明显。",
+    "tags": [
+      "供应过剩",
+      "产量激增"
+    ]
+  },
+  {
+    "record_id": 42,
+    "year": 1964,
+    "ip_product": {
+      "ip_id": 17,
+      "ip_name": "Integrated global model",
+      "ip_type": "校园",
+      "ip_status": "完结"
+    },
+    "market_segment": {
+      "market_segment_id": 5,
+      "market_name": "大洋洲",
+      "region_category": "其他"
+    },
+    "user_behavior": {
+      "likes_short_drama": true,
+      "average_watch_time_min": 27.7,
+      "preferred_genres": [
+        "悬疑",
+        "科幻",
+        "动作"
+      ]
+    },
+    "description": "1964年，海外短剧市场IP 'Integrated global model' 在大洋洲地区表现突出，短剧内购收入达2.72亿美元。 目前买量成本占比约nan%，位于行业高位。 短剧市场快速增长，带动内容创新与产业升级。 内容差异化不足与文化适应性改善点明显。",
+    "tags": []
+  },
+  {
+    "record_id": 43,
+    "year": 1965,
+    "ip_product": {
+      "ip_id": 40,
+      "ip_name": "Quality-focused mission-critical conglomeration",
+      "ip_type": "科幻",
+      "ip_status": "完结"
+    },
+    "market_segment": {
+      "market_segment_id": 2,
+      "market_name": "南美",
+      "region_category": "拉美"
+    },
+    "user_behavior": {
+      "likes_short_drama": false,
+      "average_watch_time_min": 37.6,
+      "preferred_genres": [
+        "历史",
+        "爱情",
+        "科幻"
+      ]
+    },
+    "description": "1965年，海外短剧市场IP 'Quality-focused mission-critical conglomeration' 在南美地区表现突出，短剧内购收入达16.09亿美元。 目前买量成本占比约49.11%，位于行业高位。 短剧市场快速增长，带动内容创新与产业升级。 内容差异化不足与文化适应性改善点明显。",
+    "tags": []
+  },
+  {
+    "record_id": 44,
+    "year": 1966,
+    "ip_product": {
+      "ip_id": 9,
+      "ip_name": "Vision-oriented background policy",
+      "ip_type": "悬疑",
+      "ip_status": "连载中"
+    },
+    "market_segment": {
+      "market_segment_id": 2,
+      "market_name": "南美",
+      "region_category": "拉美"
+    },
+    "user_behavior": {
+      "likes_short_drama": true,
+      "average_watch_time_min": 28.5,
+      "preferred_genres": [
+        "历史",
+        "校园"
+      ]
+    },
+    "description": "1966年，海外短剧市场IP 'Vision-oriented background policy' 在南美地区表现突出，短剧内购收入达25.74亿美元。 目前买量成本占比约43.44%，位于行业高位。 短剧市场快速增长，带动内容创新与产业升级。 内容差异化不足与文化适应性改善点明显。",
+    "tags": [
+      "审核",
+      "内容监管"
+    ]
+  },
+  {
+    "record_id": 45,
+    "year": 1967,
+    "ip_product": {
+      "ip_id": 49,
+      "ip_name": "Multi-channeled tertiary array",
+      "ip_type": "悬疑",
+      "ip_status": "连载中"
+    },
+    "market_segment": {
+      "market_segment_id": 3,
+      "market_name": "欧洲",
+      "region_category": "欧盟"
+    },
+    "user_behavior": {
+      "likes_short_drama": false,
+      "average_watch_time_min": 45.8,
+      "preferred_genres": [
+        "校园",
+        "都市"
+      ]
+    },
+    "description": "1967年，海外短剧市场IP 'Multi-channeled tertiary array' 在欧洲地区表现突出，短剧内购收入达23.39亿美元。 目前买量成本占比约79.92%，位于行业高位。 短剧市场快速增长，带动内容创新与产业升级。 内容差异化不足与文化适应性改善点明显。",
+    "tags": [
+      "渠道",
+      "推广成本"
+    ]
+  },
+  {
+    "record_id": 46,
+    "year": 1968,
+    "ip_product": {
+      "ip_id": 33,
+      "ip_name": "Ameliorated content-based parallelism",
+      "ip_type": "历史",
+      "ip_status": "完结"
+    },
+    "market_segment": {
+      "market_segment_id": 5,
+      "market_name": "大洋洲",
+      "region_category": "其他"
+    },
+    "user_behavior": {
+      "likes_short_drama": false,
+      "average_watch_time_min": 37.8,
+      "preferred_genres": [
+        "悬疑"
+      ]
+    },
+    "description": "1968年，海外短剧市场IP 'Ameliorated content-based parallelism' 在大洋洲地区表现突出，短剧内购收入达19.88亿美元。 目前买量成本占比约nan%，位于行业高位。 短剧市场快速增长，带动内容创新与产业升级。 内容差异化不足与文化适应性改善点明显。",
+    "tags": []
+  },
+  {
+    "record_id": 47,
+    "year": 1969,
+    "ip_product": {
+      "ip_id": 2,
+      "ip_name": "Visionary incremental flexibility",
+      "ip_type": "奇幻",
+      "ip_status": "完结"
+    },
+    "market_segment": {
+      "market_segment_id": 4,
+      "market_name": "亚洲",
+      "region_category": "东亚"
+    },
+    "user_behavior": {
+      "likes_short_drama": true,
+      "average_watch_time_min": 24.5,
+      "preferred_genres": [
+        "科幻",
+        "历史",
+        "动作"
+      ]
+    },
+    "description": "1969年，海外短剧市场IP 'Visionary incremental flexibility' 在亚洲地区表现突出，短剧内购收入达43.92亿美元。 目前买量成本占比约48.62%，位于行业高位。 短剧市场快速增长，带动内容创新与产业升级。 内容差异化不足与文化适应性改善点明显。",
+    "tags": [
+      "法律",
+      "障碍"
+    ]
+  },
+  {
+    "record_id": 48,
+    "year": 1970,
+    "ip_product": {
+      "ip_id": 1,
+      "ip_name": "Business-focused encompassing array",
+      "ip_type": "爱情",
+      "ip_status": "完结"
+    },
+    "market_segment": {
+      "market_segment_id": 4,
+      "market_name": "亚洲",
+      "region_category": "东亚"
+    },
+    "user_behavior": {
+      "likes_short_drama": true,
+      "average_watch_time_min": 20.5,
+      "preferred_genres": [
+        "奇幻",
+        "爱情",
+        "科幻"
+      ]
+    },
+    "description": "1970年，海外短剧市场IP 'Business-focused encompassing array' 在亚洲地区表现突出，短剧内购收入达24.13亿美元。 目前买量成本占比约41.58%，位于行业高位。 短剧市场快速增长，带动内容创新与产业升级。 内容差异化不足与文化适应性改善点明显。",
+    "tags": [
+      "审核",
+      "内容监管"
+    ]
+  },
+  {
+    "record_id": 49,
+    "year": 1971,
+    "ip_product": {
+      "ip_id": 36,
+      "ip_name": "Open-architected national middleware",
+      "ip_type": "悬疑",
+      "ip_status": "完结"
+    },
+    "market_segment": {
+      "market_segment_id": 3,
+      "market_name": "欧洲",
+      "region_category": "欧盟"
+    },
+    "user_behavior": {
+      "likes_short_drama": true,
+      "average_watch_time_min": 37.1,
+      "preferred_genres": [
+        "历史",
+        "爱情",
+        "科幻"
+      ]
+    },
+    "description": "1971年，海外短剧市场IP 'Open-architected national middleware' 在欧洲地区表现突出，短剧内购收入达29.79亿美元。 目前买量成本占比约38.82%，位于行业高位。 短剧市场快速增长，带动内容创新与产业升级。 内容差异化不足与文化适应性改善点明显。",
+    "tags": []
+  },
+  {
+    "record_id": 50,
+    "year": 1972,
+    "ip_product": {
+      "ip_id": 20,
+      "ip_name": "Intuitive 24/7 infrastructure",
+      "ip_type": "都市",
+      "ip_status": "停更"
+    },
+    "market_segment": {
+      "market_segment_id": 1,
+      "market_name": "北美",
+      "region_category": "英语系"
+    },
+    "user_behavior": {
+      "likes_short_drama": false,
+      "average_watch_time_min": 28.4,
+      "preferred_genres": [
+        "奇幻"
+      ]
+    },
+    "description": "1972年，海外短剧市场IP 'Intuitive 24/7 infrastructure' 在北美地区表现突出，短剧内购收入达42.38亿美元。 目前买量成本占比约56.84%，位于行业高位。 短剧市场快速增长，带动内容创新与产业升级。 内容差异化不足与文化适应性改善点明显。",
+    "tags": [
+      "内容创新",
+      "创新不足"
+    ]
+  },
+  {
+    "record_id": 51,
+    "year": 1973,
+    "ip_product": {
+      "ip_id": 7,
+      "ip_name": "Managed tangible encryption",
+      "ip_type": "悬疑",
+      "ip_status": "停更"
+    },
+    "market_segment": {
+      "market_segment_id": 1,
+      "market_name": "北美",
+      "region_category": "英语系"
+    },
+    "user_behavior": {
+      "likes_short_drama": true,
+      "average_watch_time_min": 25.7,
+      "preferred_genres": [
+        "悬疑",
+        "历史",
+        "科幻"
+      ]
+    },
+    "description": "1973年，海外短剧市场IP 'Managed tangible encryption' 在北美地区表现突出，短剧内购收入达7.06亿美元。 目前买量成本占比约66.13%，位于行业高位。 短剧市场快速增长，带动内容创新与产业升级。 内容差异化不足与文化适应性改善点明显。",
+    "tags": [
+      "法律",
+      "障碍"
+    ]
+  },
+  {
+    "record_id": 52,
+    "year": 1974,
+    "ip_product": {
+      "ip_id": 19,
+      "ip_name": "Sharable multi-tasking open system",
+      "ip_type": "悬疑",
+      "ip_status": "完结"
+    },
+    "market_segment": {
+      "market_segment_id": 1,
+      "market_name": "北美",
+      "region_category": "英语系"
+    },
+    "user_behavior": {
+      "likes_short_drama": true,
+      "average_watch_time_min": 42.2,
+      "preferred_genres": [
+        "都市",
+        "爱情",
+        "历史"
+      ]
+    },
+    "description": "1974年，海外短剧市场IP 'Sharable multi-tasking open system' 在北美地区表现突出，短剧内购收入达9.61亿美元。 目前买量成本占比约nan%，位于行业高位。 短剧市场快速增长，带动内容创新与产业升级。 内容差异化不足与文化适应性改善点明显。",
+    "tags": [
+      "用户付费",
+      "需求波动"
+    ]
+  },
+  {
+    "record_id": 53,
+    "year": 1975,
+    "ip_product": {
+      "ip_id": 49,
+      "ip_name": "Multi-channeled tertiary array",
+      "ip_type": "悬疑",
+      "ip_status": "连载中"
+    },
+    "market_segment": {
+      "market_segment_id": 1,
+      "market_name": "北美",
+      "region_category": "英语系"
+    },
+    "user_behavior": {
+      "likes_short_drama": true,
+      "average_watch_time_min": 38.0,
+      "preferred_genres": [
+        "爱情",
+        "奇幻",
+        "历史"
+      ]
+    },
+    "description": "1975年，海外短剧市场IP 'Multi-channeled tertiary array' 在北美地区表现突出，短剧内购收入达37.44亿美元。 目前买量成本占比约nan%，位于行业高位。 短剧市场快速增长，带动内容创新与产业升级。 内容差异化不足与文化适应性改善点明显。",
+    "tags": []
+  },
+  {
+    "record_id": 54,
+    "year": 1976,
+    "ip_product": {
+      "ip_id": 38,
+      "ip_name": "Horizontal modular task-force",
+      "ip_type": "历史",
+      "ip_status": "连载中"
+    },
+    "market_segment": {
+      "market_segment_id": 4,
+      "market_name": "亚洲",
+      "region_category": "东亚"
+    },
+    "user_behavior": {
+      "likes_short_drama": true,
+      "average_watch_time_min": 23.2,
+      "preferred_genres": [
+        "悬疑",
+        "奇幻",
+        "校园"
+      ]
+    },
+    "description": "1976年，海外短剧市场IP 'Horizontal modular task-force' 在亚洲地区表现突出，短剧内购收入达12.02亿美元。 目前买量成本占比约nan%，位于行业高位。 短剧市场快速增长，带动内容创新与产业升级。 内容差异化不足与文化适应性改善点明显。",
+    "tags": [
+      "竞争",
+      "策略"
+    ]
+  },
+  {
+    "record_id": 55,
+    "year": 1977,
+    "ip_product": {
+      "ip_id": 11,
+      "ip_name": "Intuitive upward-trending knowledge user",
+      "ip_type": "校园",
+      "ip_status": "完结"
+    },
+    "market_segment": {
+      "market_segment_id": 2,
+      "market_name": "南美",
+      "region_category": "拉美"
+    },
+    "user_behavior": {
+      "likes_short_drama": true,
+      "average_watch_time_min": 23.4,
+      "preferred_genres": [
+        "校园",
+        "动作"
+      ]
+    },
+    "description": "1977年，海外短剧市场IP 'Intuitive upward-trending knowledge user' 在南美地区表现突出，短剧内购收入达20.3亿美元。 目前买量成本占比约nan%，位于行业高位。 短剧市场快速增长，带动内容创新与产业升级。 内容差异化不足与文化适应性改善点明显。",
+    "tags": [
+      "内容创新",
+      "创新不足"
+    ]
+  },
+  {
+    "record_id": 56,
+    "year": 1978,
+    "ip_product": {
+      "ip_id": 46,
+      "ip_name": "Future-proofed intermediate productivity",
+      "ip_type": "奇幻",
+      "ip_status": "完结"
+    },
+    "market_segment": {
+      "market_segment_id": 5,
+      "market_name": "大洋洲",
+      "region_category": "其他"
+    },
+    "user_behavior": {
+      "likes_short_drama": false,
+      "average_watch_time_min": 26.4,
+      "preferred_genres": [
+        "奇幻",
+        "历史",
+        "爱情"
+      ]
+    },
+    "description": "1978年，海外短剧市场IP 'Future-proofed intermediate productivity' 在大洋洲地区表现突出，短剧内购收入达30.69亿美元。 目前买量成本占比约75.25%，位于行业高位。 短剧市场快速增长，带动内容创新与产业升级。 内容差异化不足与文化适应性改善点明显。",
+    "tags": [
+      "文化差异",
+      "地域"
+    ]
+  },
+  {
+    "record_id": 57,
+    "year": 1979,
+    "ip_product": {
+      "ip_id": 31,
+      "ip_name": "Up-sized logistical info-mediaries",
+      "ip_type": "动作",
+      "ip_status": "完结"
+    },
+    "market_segment": {
+      "market_segment_id": 4,
+      "market_name": "亚洲",
+      "region_category": "东亚"
+    },
+    "user_behavior": {
+      "likes_short_drama": false,
+      "average_watch_time_min": 34.3,
+      "preferred_genres": [
+        "都市",
+        "动作"
+      ]
+    },
+    "description": "1979年，海外短剧市场IP 'Up-sized logistical info-mediaries' 在亚洲地区表现突出，短剧内购收入达28.91亿美元。 目前买量成本占比约37.55%，位于行业高位。 短剧市场快速增长，带动内容创新与产业升级。 内容差异化不足与文化适应性改善点明显。",
+    "tags": [
+      "技术",
+      "体验"
+    ]
+  },
+  {
+    "record_id": 58,
+    "year": 1980,
+    "ip_product": {
+      "ip_id": 41,
+      "ip_name": "Distributed national intranet",
+      "ip_type": "悬疑",
+      "ip_status": "完结"
+    },
+    "market_segment": {
+      "market_segment_id": 5,
+      "market_name": "大洋洲",
+      "region_category": "其他"
+    },
+    "user_behavior": {
+      "likes_short_drama": false,
+      "average_watch_time_min": 22.9,
+      "preferred_genres": [
+        "历史",
+        "爱情"
+      ]
+    },
+    "description": "1980年，海外短剧市场IP 'Distributed national intranet' 在大洋洲地区表现突出，短剧内购收入达37.55亿美元。 目前买量成本占比约63.84%，位于行业高位。 短剧市场快速增长，带动内容创新与产业升级。 内容差异化不足与文化适应性改善点明显。",
+    "tags": [
+      "用户付费",
+      "需求波动"
+    ]
+  },
+  {
+    "record_id": 59,
+    "year": 1981,
+    "ip_product": {
+      "ip_id": 41,
+      "ip_name": "Distributed national intranet",
+      "ip_type": "悬疑",
+      "ip_status": "完结"
+    },
+    "market_segment": {
+      "market_segment_id": 4,
+      "market_name": "亚洲",
+      "region_category": "东亚"
+    },
+    "user_behavior": {
+      "likes_short_drama": true,
+      "average_watch_time_min": 20.2,
+      "preferred_genres": [
+        "爱情",
+        "校园"
+      ]
+    },
+    "description": "1981年，海外短剧市场IP 'Distributed national intranet' 在亚洲地区表现突出，短剧内购收入达34.96亿美元。 目前买量成本占比约31.11%，位于行业高位。 短剧市场快速增长，带动内容创新与产业升级。 内容差异化不足与文化适应性改善点明显。",
+    "tags": []
+  },
+  {
+    "record_id": 60,
+    "year": 1982,
+    "ip_product": {
+      "ip_id": 15,
+      "ip_name": "Re-engineered mission-critical firmware",
+      "ip_type": "都市",
+      "ip_status": "停更"
+    },
+    "market_segment": {
+      "market_segment_id": 4,
+      "market_name": "亚洲",
+      "region_category": "东亚"
+    },
+    "user_behavior": {
+      "likes_short_drama": true,
+      "average_watch_time_min": 40.1,
+      "preferred_genres": [
+        "动作"
+      ]
+    },
+    "description": "1982年，海外短剧市场IP 'Re-engineered mission-critical firmware' 在亚洲地区表现突出，短剧内购收入达30.69亿美元。 目前买量成本占比约nan%，位于行业高位。 短剧市场快速增长，带动内容创新与产业升级。 内容差异化不足与文化适应性改善点明显。",
+    "tags": []
+  },
+  {
+    "record_id": 61,
+    "year": 1983,
+    "ip_product": {
+      "ip_id": 11,
+      "ip_name": "Intuitive upward-trending knowledge user",
+      "ip_type": "校园",
+      "ip_status": "完结"
+    },
+    "market_segment": {
+      "market_segment_id": 4,
+      "market_name": "亚洲",
+      "region_category": "东亚"
+    },
+    "user_behavior": {
+      "likes_short_drama": true,
+      "average_watch_time_min": 18.2,
+      "preferred_genres": [
+        "科幻"
+      ]
+    },
+    "description": "1983年，海外短剧市场IP 'Intuitive upward-trending knowledge user' 在亚洲地区表现突出，短剧内购收入达12.27亿美元。 目前买量成本占比约47.86%，位于行业高位。 短剧市场快速增长，带动内容创新与产业升级。 内容差异化不足与文化适应性改善点明显。",
+    "tags": [
+      "竞争",
+      "策略"
+    ]
+  },
+  {
+    "record_id": 62,
+    "year": 1984,
+    "ip_product": {
+      "ip_id": 39,
+      "ip_name": "Self-enabling uniform emulation",
+      "ip_type": "动作",
+      "ip_status": "连载中"
+    },
+    "market_segment": {
+      "market_segment_id": 3,
+      "market_name": "欧洲",
+      "region_category": "欧盟"
+    },
+    "user_behavior": {
+      "likes_short_drama": false,
+      "average_watch_time_min": 37.0,
+      "preferred_genres": [
+        "科幻"
+      ]
+    },
+    "description": "1984年，海外短剧市场IP 'Self-enabling uniform emulation' 在欧洲地区表现突出，短剧内购收入达27.95亿美元。 目前买量成本占比约49.21%，位于行业高位。 短剧市场快速增长，带动内容创新与产业升级。 内容差异化不足与文化适应性改善点明显。",
+    "tags": [
+      "文化差异",
+      "地域"
+    ]
+  },
+  {
+    "record_id": 63,
+    "year": 1985,
+    "ip_product": {
+      "ip_id": 16,
+      "ip_name": "Phased 5thgeneration throughput",
+      "ip_type": "历史",
+      "ip_status": "完结"
+    },
+    "market_segment": {
+      "market_segment_id": 5,
+      "market_name": "大洋洲",
+      "region_category": "其他"
+    },
+    "user_behavior": {
+      "likes_short_drama": true,
+      "average_watch_time_min": 31.7,
+      "preferred_genres": [
+        "校园"
+      ]
+    },
+    "description": "1985年，海外短剧市场IP 'Phased 5thgeneration throughput' 在大洋洲地区表现突出，短剧内购收入达23.14亿美元。 目前买量成本占比约74.42%，位于行业高位。 短剧市场快速增长，带动内容创新与产业升级。 内容差异化不足与文化适应性改善点明显。",
+    "tags": []
+  },
+  {
+    "record_id": 64,
+    "year": 1986,
+    "ip_product": {
+      "ip_id": 33,
+      "ip_name": "Ameliorated content-based parallelism",
+      "ip_type": "历史",
+      "ip_status": "完结"
+    },
+    "market_segment": {
+      "market_segment_id": 4,
+      "market_name": "亚洲",
+      "region_category": "东亚"
+    },
+    "user_behavior": {
+      "likes_short_drama": true,
+      "average_watch_time_min": 14.1,
+      "preferred_genres": [
+        "悬疑",
+        "动作",
+        "都市"
+      ]
+    },
+    "description": "1986年，海外短剧市场IP 'Ameliorated content-based parallelism' 在亚洲地区表现突出，短剧内购收入达6.74亿美元。 目前买量成本占比约nan%，位于行业高位。 短剧市场快速增长，带动内容创新与产业升级。 内容差异化不足与文化适应性改善点明显。",
+    "tags": []
+  },
+  {
+    "record_id": 65,
+    "year": 1987,
+    "ip_product": {
+      "ip_id": 24,
+      "ip_name": "Pre-emptive multi-state secured line",
+      "ip_type": "都市",
+      "ip_status": "完结"
+    },
+    "market_segment": {
+      "market_segment_id": 2,
+      "market_name": "南美",
+      "region_category": "拉美"
+    },
+    "user_behavior": {
+      "likes_short_drama": true,
+      "average_watch_time_min": 43.1,
+      "preferred_genres": [
+        "历史",
+        "科幻",
+        "悬疑"
+      ]
+    },
+    "description": "1987年，海外短剧市场IP 'Pre-emptive multi-state secured line' 在南美地区表现突出，短剧内购收入达34.17亿美元。 目前买量成本占比约nan%，位于行业高位。 短剧市场快速增长，带动内容创新与产业升级。 内容差异化不足与文化适应性改善点明显。",
+    "tags": [
+      "IP资源",
+      "资源分配"
+    ]
+  },
+  {
+    "record_id": 66,
+    "year": 1988,
+    "ip_product": {
+      "ip_id": 20,
+      "ip_name": "Intuitive 24/7 infrastructure",
+      "ip_type": "都市",
+      "ip_status": "停更"
+    },
+    "market_segment": {
+      "market_segment_id": 5,
+      "market_name": "大洋洲",
+      "region_category": "其他"
+    },
+    "user_behavior": {
+      "likes_short_drama": true,
+      "average_watch_time_min": 26.3,
+      "preferred_genres": [
+        "都市",
+        "校园",
+        "爱情"
+      ]
+    },
+    "description": "1988年，海外短剧市场IP 'Intuitive 24/7 infrastructure' 在大洋洲地区表现突出，短剧内购收入达28.07亿美元。 目前买量成本占比约39.19%，位于行业高位。 短剧市场快速增长，带动内容创新与产业升级。 内容差异化不足与文化适应性改善点明显。",
+    "tags": [
+      "用户付费",
+      "需求波动"
+    ]
+  },
+  {
+    "record_id": 67,
+    "year": 1989,
+    "ip_product": {
+      "ip_id": 15,
+      "ip_name": "Re-engineered mission-critical firmware",
+      "ip_type": "都市",
+      "ip_status": "停更"
+    },
+    "market_segment": {
+      "market_segment_id": 1,
+      "market_name": "北美",
+      "region_category": "英语系"
+    },
+    "user_behavior": {
+      "likes_short_drama": false,
+      "average_watch_time_min": 14.7,
+      "preferred_genres": [
+        "校园",
+        "爱情",
+        "悬疑"
+      ]
+    },
+    "description": "1989年，海外短剧市场IP 'Re-engineered mission-critical firmware' 在北美地区表现突出，短剧内购收入达20.45亿美元。 目前买量成本占比约37.85%，位于行业高位。 短剧市场快速增长，带动内容创新与产业升级。 内容差异化不足与文化适应性改善点明显。",
+    "tags": [
+      "竞争",
+      "策略"
+    ]
+  },
+  {
+    "record_id": 68,
+    "year": 1990,
+    "ip_product": {
+      "ip_id": 2,
+      "ip_name": "Visionary incremental flexibility",
+      "ip_type": "奇幻",
+      "ip_status": "完结"
+    },
+    "market_segment": {
+      "market_segment_id": 4,
+      "market_name": "亚洲",
+      "region_category": "东亚"
+    },
+    "user_behavior": {
+      "likes_short_drama": true,
+      "average_watch_time_min": 47.3,
+      "preferred_genres": [
+        "校园",
+        "奇幻",
+        "动作"
+      ]
+    },
+    "description": "1990年，海外短剧市场IP 'Visionary incremental flexibility' 在亚洲地区表现突出，短剧内购收入达17.67亿美元。 目前买量成本占比约nan%，位于行业高位。 短剧市场快速增长，带动内容创新与产业升级。 内容差异化不足与文化适应性改善点明显。",
+    "tags": []
+  },
+  {
+    "record_id": 69,
+    "year": 1991,
+    "ip_product": {
+      "ip_id": 24,
+      "ip_name": "Pre-emptive multi-state secured line",
+      "ip_type": "都市",
+      "ip_status": "完结"
+    },
+    "market_segment": {
+      "market_segment_id": 1,
+      "market_name": "北美",
+      "region_category": "英语系"
+    },
+    "user_behavior": {
+      "likes_short_drama": false,
+      "average_watch_time_min": 30.0,
+      "preferred_genres": [
+        "奇幻",
+        "动作",
+        "都市"
+      ]
+    },
+    "description": "1991年，海外短剧市场IP 'Pre-emptive multi-state secured line' 在北美地区表现突出，短剧内购收入达8.02亿美元。 目前买量成本占比约35.81%，位于行业高位。 短剧市场快速增长，带动内容创新与产业升级。 内容差异化不足与文化适应性改善点明显。",
+    "tags": [
+      "审核",
+      "内容监管"
+    ]
+  },
+  {
+    "record_id": 70,
+    "year": 1992,
+    "ip_product": {
+      "ip_id": 42,
+      "ip_name": "Multi-tiered web-enabled Local Area Network",
+      "ip_type": "动作",
+      "ip_status": "完结"
+    },
+    "market_segment": {
+      "market_segment_id": 2,
+      "market_name": "南美",
+      "region_category": "拉美"
+    },
+    "user_behavior": {
+      "likes_short_drama": true,
+      "average_watch_time_min": 7.9,
+      "preferred_genres": [
+        "历史",
+        "科幻",
+        "悬疑"
+      ]
+    },
+    "description": "1992年，海外短剧市场IP 'Multi-tiered web-enabled Local Area Network' 在南美地区表现突出，短剧内购收入达22.0亿美元。 目前买量成本占比约73.39%，位于行业高位。 短剧市场快速增长，带动内容创新与产业升级。 内容差异化不足与文化适应性改善点明显。",
+    "tags": [
+      "竞争",
+      "策略"
+    ]
+  },
+  {
+    "record_id": 71,
+    "year": 1993,
+    "ip_product": {
+      "ip_id": 25,
+      "ip_name": "Operative holistic migration",
+      "ip_type": "动作",
+      "ip_status": "停更"
+    },
+    "market_segment": {
+      "market_segment_id": 1,
+      "market_name": "北美",
+      "region_category": "英语系"
+    },
+    "user_behavior": {
+      "likes_short_drama": true,
+      "average_watch_time_min": 24.3,
+      "preferred_genres": [
+        "科幻",
+        "动作",
+        "悬疑"
+      ]
+    },
+    "description": "1993年，海外短剧市场IP 'Operative holistic migration' 在北美地区表现突出，短剧内购收入达24.68亿美元。 目前买量成本占比约37.53%，位于行业高位。 短剧市场快速增长，带动内容创新与产业升级。 内容差异化不足与文化适应性改善点明显。",
+    "tags": [
+      "IP资源",
+      "资源分配"
+    ]
+  },
+  {
+    "record_id": 72,
+    "year": 1994,
+    "ip_product": {
+      "ip_id": 8,
+      "ip_name": "Diverse 24hour Internet solution",
+      "ip_type": "历史",
+      "ip_status": "完结"
+    },
+    "market_segment": {
+      "market_segment_id": 5,
+      "market_name": "大洋洲",
+      "region_category": "其他"
+    },
+    "user_behavior": {
+      "likes_short_drama": true,
+      "average_watch_time_min": 45.1,
+      "preferred_genres": [
+        "奇幻",
+        "都市",
+        "校园"
+      ]
+    },
+    "description": "1994年，海外短剧市场IP 'Diverse 24hour Internet solution' 在大洋洲地区表现突出，短剧内购收入达11.69亿美元。 目前买量成本占比约67.37%，位于行业高位。 短剧市场快速增长，带动内容创新与产业升级。 内容差异化不足与文化适应性改善点明显。",
+    "tags": [
+      "审核",
+      "内容监管"
+    ]
+  },
+  {
+    "record_id": 73,
+    "year": 1995,
+    "ip_product": {
+      "ip_id": 30,
+      "ip_name": "Reactive hybrid archive",
+      "ip_type": "悬疑",
+      "ip_status": "完结"
+    },
+    "market_segment": {
+      "market_segment_id": 2,
+      "market_name": "南美",
+      "region_category": "拉美"
+    },
+    "user_behavior": {
+      "likes_short_drama": true,
+      "average_watch_time_min": 28.5,
+      "preferred_genres": [
+        "爱情"
+      ]
+    },
+    "description": "1995年，海外短剧市场IP 'Reactive hybrid archive' 在南美地区表现突出，短剧内购收入达31.62亿美元。 目前买量成本占比约58.85%，位于行业高位。 短剧市场快速增长，带动内容创新与产业升级。 内容差异化不足与文化适应性改善点明显。",
+    "tags": [
+      "IP资源",
+      "资源分配"
+    ]
+  },
+  {
+    "record_id": 74,
+    "year": 1996,
+    "ip_product": {
+      "ip_id": 37,
+      "ip_name": "Up-sized analyzing productivity",
+      "ip_type": "悬疑",
+      "ip_status": "完结"
+    },
+    "market_segment": {
+      "market_segment_id": 3,
+      "market_name": "欧洲",
+      "region_category": "欧盟"
+    },
+    "user_behavior": {
+      "likes_short_drama": true,
+      "average_watch_time_min": 16.9,
+      "preferred_genres": [
+        "历史"
+      ]
+    },
+    "description": "1996年，海外短剧市场IP 'Up-sized analyzing productivity' 在欧洲地区表现突出，短剧内购收入达9.03亿美元。 目前买量成本占比约51.39%，位于行业高位。 短剧市场快速增长，带动内容创新与产业升级。 内容差异化不足与文化适应性改善点明显。",
+    "tags": [
+      "渠道",
+      "推广成本"
+    ]
+  },
+  {
+    "record_id": 75,
+    "year": 1997,
+    "ip_product": {
+      "ip_id": 1,
+      "ip_name": "Business-focused encompassing array",
+      "ip_type": "爱情",
+      "ip_status": "完结"
+    },
+    "market_segment": {
+      "market_segment_id": 2,
+      "market_name": "南美",
+      "region_category": "拉美"
+    },
+    "user_behavior": {
+      "likes_short_drama": true,
+      "average_watch_time_min": 23.5,
+      "preferred_genres": [
+        "悬疑"
+      ]
+    },
+    "description": "1997年，海外短剧市场IP 'Business-focused encompassing array' 在南美地区表现突出，短剧内购收入达-1.23亿美元。 目前买量成本占比约46.01%，位于行业高位。 短剧市场快速增长，带动内容创新与产业升级。 内容差异化不足与文化适应性改善点明显。",
+    "tags": []
+  },
+  {
+    "record_id": 76,
+    "year": 1998,
+    "ip_product": {
+      "ip_id": 2,
+      "ip_name": "Visionary incremental flexibility",
+      "ip_type": "奇幻",
+      "ip_status": "完结"
+    },
+    "market_segment": {
+      "market_segment_id": 2,
+      "market_name": "南美",
+      "region_category": "拉美"
+    },
+    "user_behavior": {
+      "likes_short_drama": true,
+      "average_watch_time_min": 32.0,
+      "preferred_genres": [
+        "奇幻"
+      ]
+    },
+    "description": "1998年，海外短剧市场IP 'Visionary incremental flexibility' 在南美地区表现突出，短剧内购收入达30.4亿美元。 目前买量成本占比约nan%，位于行业高位。 短剧市场快速增长，带动内容创新与产业升级。 内容差异化不足与文化适应性改善点明显。",
+    "tags": [
+      "审核",
+      "内容监管"
+    ]
+  },
+  {
+    "record_id": 77,
+    "year": 1999,
+    "ip_product": {
+      "ip_id": 30,
+      "ip_name": "Reactive hybrid archive",
+      "ip_type": "悬疑",
+      "ip_status": "完结"
+    },
+    "market_segment": {
+      "market_segment_id": 4,
+      "market_name": "亚洲",
+      "region_category": "东亚"
+    },
+    "user_behavior": {
+      "likes_short_drama": false,
+      "average_watch_time_min": 38.2,
+      "preferred_genres": [
+        "奇幻"
+      ]
+    },
+    "description": "1999年，海外短剧市场IP 'Reactive hybrid archive' 在亚洲地区表现突出，短剧内购收入达15.97亿美元。 目前买量成本占比约35.79%，位于行业高位。 短剧市场快速增长，带动内容创新与产业升级。 内容差异化不足与文化适应性改善点明显。",
+    "tags": [
+      "技术",
+      "体验"
+    ]
+  },
+  {
+    "record_id": 78,
+    "year": 2000,
+    "ip_product": {
+      "ip_id": 34,
+      "ip_name": "Cross-group responsive hierarchy",
+      "ip_type": "悬疑",
+      "ip_status": "停更"
+    },
+    "market_segment": {
+      "market_segment_id": 3,
+      "market_name": "欧洲",
+      "region_category": "欧盟"
+    },
+    "user_behavior": {
+      "likes_short_drama": true,
+      "average_watch_time_min": 33.0,
+      "preferred_genres": [
+        "都市",
+        "校园"
+      ]
+    },
+    "description": "2000年，海外短剧市场IP 'Cross-group responsive hierarchy' 在欧洲地区表现突出，短剧内购收入达18.74亿美元。 目前买量成本占比约nan%，位于行业高位。 短剧市场快速增长，带动内容创新与产业升级。 内容差异化不足与文化适应性改善点明显。",
+    "tags": [
+      "内容创新",
+      "创新不足"
+    ]
+  },
+  {
+    "record_id": 79,
+    "year": 2001,
+    "ip_product": {
+      "ip_id": 26,
+      "ip_name": "Automated web-enabled project",
+      "ip_type": "奇幻",
+      "ip_status": "停更"
+    },
+    "market_segment": {
+      "market_segment_id": 2,
+      "market_name": "南美",
+      "region_category": "拉美"
+    },
+    "user_behavior": {
+      "likes_short_drama": true,
+      "average_watch_time_min": 9.1,
+      "preferred_genres": [
+        "奇幻",
+        "悬疑"
+      ]
+    },
+    "description": "2001年，海外短剧市场IP 'Automated web-enabled project' 在南美地区表现突出，短剧内购收入达11.62亿美元。 目前买量成本占比约59.9%，位于行业高位。 短剧市场快速增长，带动内容创新与产业升级。 内容差异化不足与文化适应性改善点明显。",
+    "tags": []
+  },
+  {
+    "record_id": 80,
+    "year": 2002,
+    "ip_product": {
+      "ip_id": 14,
+      "ip_name": "Ameliorated explicit Internet solution",
+      "ip_type": "动作",
+      "ip_status": "完结"
+    },
+    "market_segment": {
+      "market_segment_id": 5,
+      "market_name": "大洋洲",
+      "region_category": "其他"
+    },
+    "user_behavior": {
+      "likes_short_drama": true,
+      "average_watch_time_min": 24.6,
+      "preferred_genres": [
+        "都市",
+        "动作"
+      ]
+    },
+    "description": "2002年，海外短剧市场IP 'Ameliorated explicit Internet solution' 在大洋洲地区表现突出，短剧内购收入达14.12亿美元。 目前买量成本占比约nan%，位于行业高位。 短剧市场快速增长，带动内容创新与产业升级。 内容差异化不足与文化适应性改善点明显。",
+    "tags": []
+  },
+  {
+    "record_id": 81,
+    "year": 2003,
+    "ip_product": {
+      "ip_id": 21,
+      "ip_name": "Visionary secondary migration",
+      "ip_type": "悬疑",
+      "ip_status": "停更"
+    },
+    "market_segment": {
+      "market_segment_id": 5,
+      "market_name": "大洋洲",
+      "region_category": "其他"
+    },
+    "user_behavior": {
+      "likes_short_drama": true,
+      "average_watch_time_min": 15.8,
+      "preferred_genres": [
+        "历史"
+      ]
+    },
+    "description": "2003年，海外短剧市场IP 'Visionary secondary migration' 在大洋洲地区表现突出，短剧内购收入达32.55亿美元。 目前买量成本占比约nan%，位于行业高位。 短剧市场快速增长，带动内容创新与产业升级。 内容差异化不足与文化适应性改善点明显。",
+    "tags": []
+  },
+  {
+    "record_id": 82,
+    "year": 2004,
+    "ip_product": {
+      "ip_id": 31,
+      "ip_name": "Up-sized logistical info-mediaries",
+      "ip_type": "动作",
+      "ip_status": "完结"
+    },
+    "market_segment": {
+      "market_segment_id": 1,
+      "market_name": "北美",
+      "region_category": "英语系"
+    },
+    "user_behavior": {
+      "likes_short_drama": true,
+      "average_watch_time_min": 33.1,
+      "preferred_genres": [
+        "科幻",
+        "爱情",
+        "都市"
+      ]
+    },
+    "description": "2004年，海外短剧市场IP 'Up-sized logistical info-mediaries' 在北美地区表现突出，短剧内购收入达13.11亿美元。 目前买量成本占比约49.55%，位于行业高位。 短剧市场快速增长，带动内容创新与产业升级。 内容差异化不足与文化适应性改善点明显。",
+    "tags": []
+  },
+  {
+    "record_id": 83,
+    "year": 2005,
+    "ip_product": {
+      "ip_id": 23,
+      "ip_name": "Sharable static policy",
+      "ip_type": "都市",
+      "ip_status": "连载中"
+    },
+    "market_segment": {
+      "market_segment_id": 5,
+      "market_name": "大洋洲",
+      "region_category": "其他"
+    },
+    "user_behavior": {
+      "likes_short_drama": true,
+      "average_watch_time_min": 38.8,
+      "preferred_genres": [
+        "都市",
+        "历史"
+      ]
+    },
+    "description": "2005年，海外短剧市场IP 'Sharable static policy' 在大洋洲地区表现突出，短剧内购收入达36.61亿美元。 目前买量成本占比约62.79%，位于行业高位。 短剧市场快速增长，带动内容创新与产业升级。 内容差异化不足与文化适应性改善点明显。",
+    "tags": [
+      "法律",
+      "障碍"
+    ]
+  },
+  {
+    "record_id": 84,
+    "year": 2006,
+    "ip_product": {
+      "ip_id": 31,
+      "ip_name": "Up-sized logistical info-mediaries",
+      "ip_type": "动作",
+      "ip_status": "完结"
+    },
+    "market_segment": {
+      "market_segment_id": 3,
+      "market_name": "欧洲",
+      "region_category": "欧盟"
+    },
+    "user_behavior": {
+      "likes_short_drama": true,
+      "average_watch_time_min": 21.7,
+      "preferred_genres": [
+        "校园",
+        "悬疑"
+      ]
+    },
+    "description": "2006年，海外短剧市场IP 'Up-sized logistical info-mediaries' 在欧洲地区表现突出，短剧内购收入达28.07亿美元。 目前买量成本占比约76.0%，位于行业高位。 短剧市场快速增长，带动内容创新与产业升级。 内容差异化不足与文化适应性改善点明显。",
+    "tags": [
+      "法律",
+      "障碍"
+    ]
+  },
+  {
+    "record_id": 85,
+    "year": 2007,
+    "ip_product": {
+      "ip_id": 28,
+      "ip_name": "Pre-emptive stable firmware",
+      "ip_type": "科幻",
+      "ip_status": "连载中"
+    },
+    "market_segment": {
+      "market_segment_id": 3,
+      "market_name": "欧洲",
+      "region_category": "欧盟"
+    },
+    "user_behavior": {
+      "likes_short_drama": true,
+      "average_watch_time_min": 38.3,
+      "preferred_genres": [
+        "历史",
+        "悬疑",
+        "奇幻"
+      ]
+    },
+    "description": "2007年，海外短剧市场IP 'Pre-emptive stable firmware' 在欧洲地区表现突出，短剧内购收入达16.85亿美元。 目前买量成本占比约nan%，位于行业高位。 短剧市场快速增长，带动内容创新与产业升级。 内容差异化不足与文化适应性改善点明显。",
+    "tags": []
+  },
+  {
+    "record_id": 86,
+    "year": 2008,
+    "ip_product": {
+      "ip_id": 3,
+      "ip_name": "Customer-focused 5thgeneration implementation",
+      "ip_type": "悬疑",
+      "ip_status": "完结"
+    },
+    "market_segment": {
+      "market_segment_id": 5,
+      "market_name": "大洋洲",
+      "region_category": "其他"
+    },
+    "user_behavior": {
+      "likes_short_drama": true,
+      "average_watch_time_min": 37.9,
+      "preferred_genres": [
+        "历史",
+        "都市",
+        "科幻"
+      ]
+    },
+    "description": "2008年，海外短剧市场IP 'Customer-focused 5thgeneration implementation' 在大洋洲地区表现突出，短剧内购收入达9.14亿美元。 目前买量成本占比约34.94%，位于行业高位。 短剧市场快速增长，带动内容创新与产业升级。 内容差异化不足与文化适应性改善点明显。",
+    "tags": [
+      "用户付费",
+      "需求波动"
+    ]
+  },
+  {
+    "record_id": 87,
+    "year": 2009,
+    "ip_product": {
+      "ip_id": 38,
+      "ip_name": "Horizontal modular task-force",
+      "ip_type": "历史",
+      "ip_status": "连载中"
+    },
+    "market_segment": {
+      "market_segment_id": 3,
+      "market_name": "欧洲",
+      "region_category": "欧盟"
+    },
+    "user_behavior": {
+      "likes_short_drama": true,
+      "average_watch_time_min": 37.4,
+      "preferred_genres": [
+        "历史"
+      ]
+    },
+    "description": "2009年，海外短剧市场IP 'Horizontal modular task-force' 在欧洲地区表现突出，短剧内购收入达12.68亿美元。 目前买量成本占比约38.93%，位于行业高位。 短剧市场快速增长，带动内容创新与产业升级。 内容差异化不足与文化适应性改善点明显。",
+    "tags": []
+  },
+  {
+    "record_id": 88,
+    "year": 2010,
+    "ip_product": {
+      "ip_id": 17,
+      "ip_name": "Integrated global model",
+      "ip_type": "校园",
+      "ip_status": "完结"
+    },
+    "market_segment": {
+      "market_segment_id": 4,
+      "market_name": "亚洲",
+      "region_category": "东亚"
+    },
+    "user_behavior": {
+      "likes_short_drama": true,
+      "average_watch_time_min": 36.2,
+      "preferred_genres": [
+        "科幻"
+      ]
+    },
+    "description": "2010年，海外短剧市场IP 'Integrated global model' 在亚洲地区表现突出，短剧内购收入达7.87亿美元。 目前买量成本占比约50.86%，位于行业高位。 短剧市场快速增长，带动内容创新与产业升级。 内容差异化不足与文化适应性改善点明显。",
+    "tags": [
+      "IP资源",
+      "资源分配"
+    ]
+  },
+  {
+    "record_id": 89,
+    "year": 2011,
+    "ip_product": {
+      "ip_id": 38,
+      "ip_name": "Horizontal modular task-force",
+      "ip_type": "历史",
+      "ip_status": "连载中"
+    },
+    "market_segment": {
+      "market_segment_id": 3,
+      "market_name": "欧洲",
+      "region_category": "欧盟"
+    },
+    "user_behavior": {
+      "likes_short_drama": true,
+      "average_watch_time_min": 13.8,
+      "preferred_genres": [
+        "都市",
+        "科幻"
+      ]
+    },
+    "description": "2011年，海外短剧市场IP 'Horizontal modular task-force' 在欧洲地区表现突出，短剧内购收入达40.87亿美元。 目前买量成本占比约nan%，位于行业高位。 短剧市场快速增长，带动内容创新与产业升级。 内容差异化不足与文化适应性改善点明显。",
+    "tags": [
+      "竞争",
+      "策略"
+    ]
+  },
+  {
+    "record_id": 90,
+    "year": 2012,
+    "ip_product": {
+      "ip_id": 29,
+      "ip_name": "Down-sized full-range Graphical User Interface",
+      "ip_type": "动作",
+      "ip_status": "完结"
+    },
+    "market_segment": {
+      "market_segment_id": 4,
+      "market_name": "亚洲",
+      "region_category": "东亚"
+    },
+    "user_behavior": {
+      "likes_short_drama": true,
+      "average_watch_time_min": 41.9,
+      "preferred_genres": [
+        "爱情",
+        "都市"
+      ]
+    },
+    "description": "2012年，海外短剧市场IP 'Down-sized full-range Graphical User Interface' 在亚洲地区表现突出，短剧内购收入达21.64亿美元。 目前买量成本占比约43.8%，位于行业高位。 短剧市场快速增长，带动内容创新与产业升级。 内容差异化不足与文化适应性改善点明显。",
+    "tags": [
+      "供应过剩",
+      "产量激增"
+    ]
+  },
+  {
+    "record_id": 91,
+    "year": 2013,
+    "ip_product": {
+      "ip_id": 22,
+      "ip_name": "Optional systemic monitoring",
+      "ip_type": "历史",
+      "ip_status": "停更"
+    },
+    "market_segment": {
+      "market_segment_id": 5,
+      "market_name": "大洋洲",
+      "region_category": "其他"
+    },
+    "user_behavior": {
+      "likes_short_drama": true,
+      "average_watch_time_min": 41.7,
+      "preferred_genres": [
+        "都市"
+      ]
+    },
+    "description": "2013年，海外短剧市场IP 'Optional systemic monitoring' 在大洋洲地区表现突出，短剧内购收入达31.5亿美元。 目前买量成本占比约46.38%，位于行业高位。 短剧市场快速增长，带动内容创新与产业升级。 内容差异化不足与文化适应性改善点明显。",
+    "tags": []
+  },
+  {
+    "record_id": 92,
+    "year": 2014,
+    "ip_product": {
+      "ip_id": 17,
+      "ip_name": "Integrated global model",
+      "ip_type": "校园",
+      "ip_status": "完结"
+    },
+    "market_segment": {
+      "market_segment_id": 5,
+      "market_name": "大洋洲",
+      "region_category": "其他"
+    },
+    "user_behavior": {
+      "likes_short_drama": true,
+      "average_watch_time_min": 23.2,
+      "preferred_genres": [
+        "科幻"
+      ]
+    },
+    "description": "2014年，海外短剧市场IP 'Integrated global model' 在大洋洲地区表现突出，短剧内购收入达7.33亿美元。 目前买量成本占比约nan%，位于行业高位。 短剧市场快速增长，带动内容创新与产业升级。 内容差异化不足与文化适应性改善点明显。",
+    "tags": [
+      "文化差异",
+      "地域"
+    ]
+  },
+  {
+    "record_id": 93,
+    "year": 2015,
+    "ip_product": {
+      "ip_id": 4,
+      "ip_name": "Public-key next generation groupware",
+      "ip_type": "奇幻",
+      "ip_status": "完结"
+    },
+    "market_segment": {
+      "market_segment_id": 3,
+      "market_name": "欧洲",
+      "region_category": "欧盟"
+    },
+    "user_behavior": {
+      "likes_short_drama": true,
+      "average_watch_time_min": 36.4,
+      "preferred_genres": [
+        "都市",
+        "奇幻",
+        "爱情"
+      ]
+    },
+    "description": "2015年，海外短剧市场IP 'Public-key next generation groupware' 在欧洲地区表现突出，短剧内购收入达21.81亿美元。 目前买量成本占比约nan%，位于行业高位。 短剧市场快速增长，带动内容创新与产业升级。 内容差异化不足与文化适应性改善点明显。",
+    "tags": []
+  },
+  {
+    "record_id": 94,
+    "year": 2016,
+    "ip_product": {
+      "ip_id": 47,
+      "ip_name": "Operative 24hour benchmark",
+      "ip_type": "科幻",
+      "ip_status": "连载中"
+    },
+    "market_segment": {
+      "market_segment_id": 3,
+      "market_name": "欧洲",
+      "region_category": "欧盟"
+    },
+    "user_behavior": {
+      "likes_short_drama": true,
+      "average_watch_time_min": 21.4,
+      "preferred_genres": [
+        "历史",
+        "都市",
+        "奇幻"
+      ]
+    },
+    "description": "2016年，海外短剧市场IP 'Operative 24hour benchmark' 在欧洲地区表现突出，短剧内购收入达152.71亿美元。 目前买量成本占比约45.32%，位于行业高位。 短剧市场快速增长，带动内容创新与产业升级。 内容差异化不足与文化适应性改善点明显。",
+    "tags": [
+      "渠道",
+      "推广成本"
+    ]
+  },
+  {
+    "record_id": 95,
+    "year": 2017,
+    "ip_product": {
+      "ip_id": 49,
+      "ip_name": "Multi-channeled tertiary array",
+      "ip_type": "悬疑",
+      "ip_status": "连载中"
+    },
+    "market_segment": {
+      "market_segment_id": 2,
+      "market_name": "南美",
+      "region_category": "拉美"
+    },
+    "user_behavior": {
+      "likes_short_drama": true,
+      "average_watch_time_min": 27.8,
+      "preferred_genres": [
+        "奇幻",
+        "动作",
+        "悬疑"
+      ]
+    },
+    "description": "2017年，海外短剧市场IP 'Multi-channeled tertiary array' 在南美地区表现突出，短剧内购收入达16.65亿美元。 目前买量成本占比约100.0%，位于行业高位。 短剧市场快速增长，带动内容创新与产业升级。 内容差异化不足与文化适应性改善点明显。",
+    "tags": []
+  },
+  {
+    "record_id": 96,
+    "year": 2018,
+    "ip_product": {
+      "ip_id": 47,
+      "ip_name": "Operative 24hour benchmark",
+      "ip_type": "科幻",
+      "ip_status": "连载中"
+    },
+    "market_segment": {
+      "market_segment_id": 2,
+      "market_name": "南美",
+      "region_category": "拉美"
+    },
+    "user_behavior": {
+      "likes_short_drama": true,
+      "average_watch_time_min": 20.3,
+      "preferred_genres": [
+        "悬疑",
+        "校园"
+      ]
+    },
+    "description": "2018年，海外短剧市场IP 'Operative 24hour benchmark' 在南美地区表现突出，短剧内购收入达139.53亿美元。 目前买量成本占比约nan%，位于行业高位。 短剧市场快速增长，带动内容创新与产业升级。 内容差异化不足与文化适应性改善点明显。",
+    "tags": [
+      "竞争",
+      "策略"
+    ]
+  },
+  {
+    "record_id": 97,
+    "year": 2019,
+    "ip_product": {
+      "ip_id": 26,
+      "ip_name": "Automated web-enabled project",
+      "ip_type": "奇幻",
+      "ip_status": "停更"
+    },
+    "market_segment": {
+      "market_segment_id": 3,
+      "market_name": "欧洲",
+      "region_category": "欧盟"
+    },
+    "user_behavior": {
+      "likes_short_drama": true,
+      "average_watch_time_min": 16.8,
+      "preferred_genres": [
+        "科幻"
+      ]
+    },
+    "description": "2019年，海外短剧市场IP 'Automated web-enabled project' 在欧洲地区表现突出，短剧内购收入达9.15亿美元。 目前买量成本占比约nan%，位于行业高位。 短剧市场快速增长，带动内容创新与产业升级。 内容差异化不足与文化适应性改善点明显。",
+    "tags": [
+      "文化差异",
+      "地域"
+    ]
+  },
+  {
+    "record_id": 98,
+    "year": 2020,
+    "ip_product": {
+      "ip_id": 43,
+      "ip_name": "Balanced 24/7 challenge",
+      "ip_type": "校园",
+      "ip_status": "完结"
+    },
+    "market_segment": {
+      "market_segment_id": 4,
+      "market_name": "亚洲",
+      "region_category": "东亚"
+    },
+    "user_behavior": {
+      "likes_short_drama": true,
+      "average_watch_time_min": 54.4,
+      "preferred_genres": [
+        "历史"
+      ]
+    },
+    "description": "2020年，海外短剧市场IP 'Balanced 24/7 challenge' 在亚洲地区表现突出，短剧内购收入达6.37亿美元。 目前买量成本占比约nan%，位于行业高位。 短剧市场快速增长，带动内容创新与产业升级。 内容差异化不足与文化适应性改善点明显。",
+    "tags": []
+  },
+  {
+    "record_id": 99,
+    "year": 2021,
+    "ip_product": {
+      "ip_id": 42,
+      "ip_name": "Multi-tiered web-enabled Local Area Network",
+      "ip_type": "动作",
+      "ip_status": "完结"
+    },
+    "market_segment": {
+      "market_segment_id": 4,
+      "market_name": "亚洲",
+      "region_category": "东亚"
+    },
+    "user_behavior": {
+      "likes_short_drama": true,
+      "average_watch_time_min": 26.9,
+      "preferred_genres": [
+        "校园"
+      ]
+    },
+    "description": "2021年，海外短剧市场IP 'Multi-tiered web-enabled Local Area Network' 在亚洲地区表现突出，短剧内购收入达23.79亿美元。 目前买量成本占比约46.45%，位于行业高位。 短剧市场快速增长，带动内容创新与产业升级。 内容差异化不足与文化适应性改善点明显。",
+    "tags": []
+  },
+  {
+    "record_id": 100,
+    "year": 2022,
+    "ip_product": {
+      "ip_id": 41,
+      "ip_name": "Distributed national intranet",
+      "ip_type": "悬疑",
+      "ip_status": "完结"
+    },
+    "market_segment": {
+      "market_segment_id": 3,
+      "market_name": "欧洲",
+      "region_category": "欧盟"
+    },
+    "user_behavior": {
+      "likes_short_drama": true,
+      "average_watch_time_min": 30.9,
+      "preferred_genres": [
+        "科幻",
+        "都市",
+        "悬疑"
+      ]
+    },
+    "description": "2022年，海外短剧市场IP 'Distributed national intranet' 在欧洲地区表现突出，短剧内购收入达16.21亿美元。 目前买量成本占比约45.76%，位于行业高位。 短剧市场快速增长，带动内容创新与产业升级。 内容差异化不足与文化适应性改善点明显。",
+    "tags": []
+  }
+]

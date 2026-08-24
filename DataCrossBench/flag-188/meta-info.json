@@ -1,0 +1,20 @@
+{
+    "goal": "分析中国互联网用户数量增长的趋势及其影响因素。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 1997年中国上网用户数达到117.5万，显示出互联网用户的快速增长。",
+        "Comparison: 第2页提到的WWW站点数量约3700个，显示出中国互联网内容的丰富性，而第5页和第6页的访问量排名则显示出用户对特定网站的偏好。",
+        "Extreme: 第4页显示，申请国内域名的用户占比高达72.6%，而申请国际域名的用户仅占11.8%，显示出国内用户对本地化服务的偏好。",
+        "Attribution: 第3页提到的网上速度太慢和收费太贵是影响中国Internet发展的两大障碍，这与第2页提到的用户对信息流量比例的需求密切相关。"
+    ],
+    "summary": "本报告总结了中国互联网在用户数量、上网方式、职业分布及用户需求等方面的发展趋势，揭示了互联网发展的障碍及用户对服务的期望。",
+    "flag_id": "flag-188",
+    "classifier": "Internet Dev.",
+    "classifier_cn": "互联网发展",
+    "input_files": [
+        "output/background.txt",
+        "output/internet_usage_fact.csv",
+        "output/user_dimension.db",
+        "output/user_profiles.json"
+    ]
+}

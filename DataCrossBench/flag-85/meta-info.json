@@ -1,0 +1,20 @@
+{
+    "goal": "比较立讯精密与海康威视的市场表现，探讨其在电子行业中的主导地位。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 随着科技产业的发展，行业龙头企业将进一步受益，预计未来将有更高的市场表现。",
+        "Comparison: 苹果产业链的热门概念股数量为13只，显示出其在电子50指数中的重要性。",
+        "Extreme: 中证电子50指数的成分股中，电子制造占比32.5%，半导体占比22.7%，反映出行业结构的多样性。",
+        "Attribution: 政策的出台表明国家对于科技企业的扶持力度加强，直接影响了中证电子50指数的表现。"
+    ],
+    "summary": "本报告深入分析了中证电子50指数的成分股及其在电子行业中的表现，强调了行业龙头企业的盈利能力和成长性。",
+    "flag_id": "flag-85",
+    "classifier": "Fund Analysis",
+    "classifier_cn": "基金分析",
+    "input_files": [
+        "output/background.txt",
+        "output/dimension_data.db",
+        "output/market_performance.csv",
+        "output/user_profiles.json"
+    ]
+}

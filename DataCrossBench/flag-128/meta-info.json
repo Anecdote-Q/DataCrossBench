@@ -1,0 +1,20 @@
+{
+    "goal": "分析女性在医疗健康和教育科技领域创业的成功因素与挑战。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 截至2024年底，中国女性参与投资的民营法人企业总量突破2300万户，占全部民营法人企业的41.6%。",
+        "Comparison: 全国近80%的女性AI创新创业企业集中在北京、上海、深圳、杭州、广州五大城市，显示出区域发展的不均衡。",
+        "Extreme: 女性主导的AI医疗创新占到女性AI行业应用创企的42%，显示出该领域对女性创新力量的吸引力。",
+        "Attribution: 女性创业意愿与实际行动存在落差，反映出家庭责任与社会偏见对女性创业的影响。"
+    ],
+    "summary": "本报告分析了女性在人工智能领域的创新与创业现状，强调了她们在技术发展中的重要性及面临的挑战，包括性别偏见、融资环境和心理健康问题。",
+    "flag_id": "flag-128",
+    "classifier": "AI Healthcare",
+    "classifier_cn": "AI 医疗健康",
+    "input_files": [
+        "output/background.txt",
+        "output/dimensions.db",
+        "output/investment_facts.png",
+        "output/investor_profiles.json"
+    ]
+}

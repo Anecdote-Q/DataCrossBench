@@ -1,0 +1,5567 @@
+[
+  {
+    "user_id": 445,
+    "demographics": {
+      "age": 40,
+      "gender": "保密",
+      "city": "郑州"
+    },
+    "level": "金牌",
+    "hobbies": [
+      "编程",
+      "旅游"
+    ],
+    "preferences": {
+      "favorite_products": [
+        34,
+        38
+      ],
+      "likes_ai": true
+    },
+    "social": {
+      "wechat": "yzhang",
+      "followers": 1220,
+      "interests_score": {
+        "编程": 95.34,
+        "旅游": 97.78
+      }
+    }
+  },
+  {
+    "user_id": 899,
+    "demographics": {
+      "age": 32,
+      "gender": "女",
+      "city": "银川"
+    },
+    "level": "银牌",
+    "hobbies": [
+      "跑步"
+    ],
+    "preferences": {
+      "favorite_products": [
+        94,
+        65
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "yan01",
+      "followers": 812,
+      "interests_score": {
+        "跑步": 32.93
+      }
+    }
+  },
+  {
+    "user_id": 187,
+    "demographics": {
+      "age": 33,
+      "gender": "男",
+      "city": "贵阳"
+    },
+    "level": "银牌",
+    "hobbies": [
+      "美食",
+      "阅读",
+      "跑步"
+    ],
+    "preferences": {
+      "favorite_products": [
+        20,
+        51
+      ],
+      "likes_ai": true
+    },
+    "social": {
+      "wechat": "gang35",
+      "followers": 367,
+      "interests_score": {
+        "美食": 16.9,
+        "阅读": 71.85,
+        "跑步": 66.95
+      }
+    }
+  },
+  {
+    "user_id": 585,
+    "demographics": {
+      "age": 59,
+      "gender": "保密",
+      "city": "合山"
+    },
+    "level": "铜牌",
+    "hobbies": [
+      "摄影"
+    ],
+    "preferences": {
+      "favorite_products": [
+        3,
+        96,
+        88
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "yang10",
+      "followers": 1275,
+      "interests_score": {
+        "摄影": 24.25
+      }
+    }
+  },
+  {
+    "user_id": 665,
+    "demographics": {
+      "age": 30,
+      "gender": "男",
+      "city": "济南"
+    },
+    "level": "铜牌",
+    "hobbies": [
+      "电影"
+    ],
+    "preferences": {
+      "favorite_products": [
+        13,
+        69
+      ],
+      "likes_ai": true
+    },
+    "social": {
+      "wechat": "xueguiying",
+      "followers": 820,
+      "interests_score": {
+        "电影": 94.61
+      }
+    }
+  },
+  {
+    "user_id": 458,
+    "demographics": {
+      "age": 53,
+      "gender": "男",
+      "city": "郑州"
+    },
+    "level": "铜牌",
+    "hobbies": [
+      "美食"
+    ],
+    "preferences": {
+      "favorite_products": [
+        69
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "lingang",
+      "followers": 1036,
+      "interests_score": {
+        "美食": 94.68
+      }
+    }
+  },
+  {
+    "user_id": 100,
+    "demographics": {
+      "age": 69,
+      "gender": "男",
+      "city": "南昌"
+    },
+    "level": "铜牌",
+    "hobbies": [
+      "阅读",
+      "篮球",
+      "旅游"
+    ],
+    "preferences": {
+      "favorite_products": [
+        43,
+        77
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "fangwei",
+      "followers": 1809,
+      "interests_score": {
+        "阅读": 34.38,
+        "篮球": 16.47,
+        "旅游": 89.15
+      }
+    }
+  },
+  {
+    "user_id": 942,
+    "demographics": {
+      "age": 48,
+      "gender": "男",
+      "city": "西安"
+    },
+    "level": "铜牌",
+    "hobbies": [
+      "篮球"
+    ],
+    "preferences": {
+      "favorite_products": [
+        35
+      ],
+      "likes_ai": true
+    },
+    "social": {
+      "wechat": "eye",
+      "followers": 1093,
+      "interests_score": {
+        "篮球": 83.84
+      }
+    }
+  },
+  {
+    "user_id": 644,
+    "demographics": {
+      "age": 44,
+      "gender": "女",
+      "city": "阜新"
+    },
+    "level": "铜牌",
+    "hobbies": [
+      "跑步",
+      "音乐"
+    ],
+    "preferences": {
+      "favorite_products": [
+        48,
+        24,
+        1
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "weiduan",
+      "followers": 1566,
+      "interests_score": {
+        "跑步": 21.56,
+        "音乐": 33.36
+      }
+    }
+  },
+  {
+    "user_id": 277,
+    "demographics": {
+      "age": 28,
+      "gender": "男",
+      "city": "六安"
+    },
+    "level": "铜牌",
+    "hobbies": [
+      "音乐",
+      "摄影",
+      "电影"
+    ],
+    "preferences": {
+      "favorite_products": [
+        38
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "chao32",
+      "followers": 1034,
+      "interests_score": {
+        "音乐": 26.99,
+        "摄影": 82.31,
+        "电影": 44.87
+      }
+    }
+  },
+  {
+    "user_id": 457,
+    "demographics": {
+      "age": 44,
+      "gender": "女",
+      "city": "通辽"
+    },
+    "level": "铜牌",
+    "hobbies": [
+      "音乐",
+      "编程"
+    ],
+    "preferences": {
+      "favorite_products": [
+        84,
+        52
+      ],
+      "likes_ai": true
+    },
+    "social": {
+      "wechat": "gang14",
+      "followers": 1786,
+      "interests_score": {
+        "音乐": 83.91,
+        "编程": 91.47
+      }
+    }
+  },
+  {
+    "user_id": 164,
+    "demographics": {
+      "age": 25,
+      "gender": "男",
+      "city": "济南"
+    },
+    "level": "铜牌",
+    "hobbies": [
+      "音乐",
+      "阅读",
+      "美食"
+    ],
+    "preferences": {
+      "favorite_products": [
+        45
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "yong69",
+      "followers": 116,
+      "interests_score": {
+        "音乐": 10.78,
+        "阅读": 93.81,
+        "美食": 86.66
+      }
+    }
+  },
+  {
+    "user_id": 997,
+    "demographics": {
+      "age": 48,
+      "gender": "保密",
+      "city": "兰州"
+    },
+    "level": "银牌",
+    "hobbies": [
+      "篮球"
+    ],
+    "preferences": {
+      "favorite_products": [
+        70,
+        45,
+        15
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "gang80",
+      "followers": 354,
+      "interests_score": {
+        "篮球": 33.9
+      }
+    }
+  },
+  {
+    "user_id": 127,
+    "demographics": {
+      "age": 41,
+      "gender": "女",
+      "city": "银川"
+    },
+    "level": "铜牌",
+    "hobbies": [
+      "阅读",
+      "游戏",
+      "旅游"
+    ],
+    "preferences": {
+      "favorite_products": [
+        94,
+        58,
+        99
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "juan14",
+      "followers": 1768,
+      "interests_score": {
+        "阅读": 21.28,
+        "游戏": 75.53,
+        "旅游": 8.63
+      }
+    }
+  },
+  {
+    "user_id": 932,
+    "demographics": {
+      "age": 24,
+      "gender": "女",
+      "city": "银川"
+    },
+    "level": "铜牌",
+    "hobbies": [
+      "电影"
+    ],
+    "preferences": {
+      "favorite_products": [
+        18,
+        78,
+        47
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "tangang",
+      "followers": 1660,
+      "interests_score": {
+        "电影": 51.49
+      }
+    }
+  },
+  {
+    "user_id": 672,
+    "demographics": {
+      "age": 66,
+      "gender": "男",
+      "city": "宜都"
+    },
+    "level": "铜牌",
+    "hobbies": [
+      "摄影"
+    ],
+    "preferences": {
+      "favorite_products": [
+        51
+      ],
+      "likes_ai": true
+    },
+    "social": {
+      "wechat": "qlin",
+      "followers": 1520,
+      "interests_score": {
+        "摄影": 65.51
+      }
+    }
+  },
+  {
+    "user_id": 175,
+    "demographics": {
+      "age": 67,
+      "gender": "男",
+      "city": "荆门"
+    },
+    "level": "金牌",
+    "hobbies": [
+      "摄影",
+      "游戏",
+      "音乐"
+    ],
+    "preferences": {
+      "favorite_products": [
+        32,
+        47,
+        94
+      ],
+      "likes_ai": true
+    },
+    "social": {
+      "wechat": "yangxia",
+      "followers": 400,
+      "interests_score": {
+        "摄影": 89.4,
+        "游戏": 38.13,
+        "音乐": 84.01
+      }
+    }
+  },
+  {
+    "user_id": 551,
+    "demographics": {
+      "age": 36,
+      "gender": "女",
+      "city": "兴安盟"
+    },
+    "level": "银牌",
+    "hobbies": [
+      "美食",
+      "旅游"
+    ],
+    "preferences": {
+      "favorite_products": [
+        76,
+        50
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "qinfang",
+      "followers": 712,
+      "interests_score": {
+        "美食": 91.2,
+        "旅游": 65.41
+      }
+    }
+  },
+  {
+    "user_id": 830,
+    "demographics": {
+      "age": 58,
+      "gender": "男",
+      "city": "贵阳"
+    },
+    "level": "银牌",
+    "hobbies": [
+      "美食"
+    ],
+    "preferences": {
+      "favorite_products": [
+        10,
+        22
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "nlei",
+      "followers": 345,
+      "interests_score": {
+        "美食": 22.14
+      }
+    }
+  },
+  {
+    "user_id": 956,
+    "demographics": {
+      "age": 37,
+      "gender": "女",
+      "city": "郑州"
+    },
+    "level": "银牌",
+    "hobbies": [
+      "游戏",
+      "电影"
+    ],
+    "preferences": {
+      "favorite_products": [
+        84,
+        90
+      ],
+      "likes_ai": true
+    },
+    "social": {
+      "wechat": "khou",
+      "followers": 636,
+      "interests_score": {
+        "游戏": 88.73,
+        "电影": 93.89
+      }
+    }
+  },
+  {
+    "user_id": 727,
+    "demographics": {
+      "age": 34,
+      "gender": "保密",
+      "city": "六盘水"
+    },
+    "level": "银牌",
+    "hobbies": [
+      "音乐"
+    ],
+    "preferences": {
+      "favorite_products": [
+        92
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "ping90",
+      "followers": 112,
+      "interests_score": {
+        "音乐": 80.7
+      }
+    }
+  },
+  {
+    "user_id": 477,
+    "demographics": {
+      "age": 68,
+      "gender": "女",
+      "city": "长沙"
+    },
+    "level": "铜牌",
+    "hobbies": [
+      "编程",
+      "美食"
+    ],
+    "preferences": {
+      "favorite_products": [
+        61
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "liyin",
+      "followers": 1159,
+      "interests_score": {
+        "编程": 43.1,
+        "美食": 77.47
+      }
+    }
+  },
+  {
+    "user_id": 918,
+    "demographics": {
+      "age": 69,
+      "gender": "女",
+      "city": "上海"
+    },
+    "level": "铜牌",
+    "hobbies": [
+      "游戏",
+      "旅游",
+      "摄影"
+    ],
+    "preferences": {
+      "favorite_products": [
+        96
+      ],
+      "likes_ai": true
+    },
+    "social": {
+      "wechat": "zhangxia",
+      "followers": 640,
+      "interests_score": {
+        "游戏": 50.33,
+        "旅游": 0.41,
+        "摄影": 88.29
+      }
+    }
+  },
+  {
+    "user_id": 89,
+    "demographics": {
+      "age": 41,
+      "gender": "保密",
+      "city": "宁德"
+    },
+    "level": "钻石",
+    "hobbies": [
+      "摄影",
+      "电影",
+      "阅读"
+    ],
+    "preferences": {
+      "favorite_products": [
+        3,
+        10,
+        30
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "szhu",
+      "followers": 1120,
+      "interests_score": {
+        "摄影": 16.26,
+        "电影": 44.12,
+        "阅读": 54.3
+      }
+    }
+  },
+  {
+    "user_id": 799,
+    "demographics": {
+      "age": 22,
+      "gender": "男",
+      "city": "呼和浩特"
+    },
+    "level": "铜牌",
+    "hobbies": [
+      "旅游",
+      "电影"
+    ],
+    "preferences": {
+      "favorite_products": [
+        94,
+        67
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "pingyi",
+      "followers": 1660,
+      "interests_score": {
+        "旅游": 66.46,
+        "电影": 28.25
+      }
+    }
+  },
+  {
+    "user_id": 134,
+    "demographics": {
+      "age": 18,
+      "gender": "男",
+      "city": "济南"
+    },
+    "level": "铜牌",
+    "hobbies": [
+      "跑步"
+    ],
+    "preferences": {
+      "favorite_products": [
+        92,
+        43
+      ],
+      "likes_ai": true
+    },
+    "social": {
+      "wechat": "jsun",
+      "followers": 787,
+      "interests_score": {
+        "跑步": 0.44
+      }
+    }
+  },
+  {
+    "user_id": 500,
+    "demographics": {
+      "age": 65,
+      "gender": "男",
+      "city": "淮安"
+    },
+    "level": "铜牌",
+    "hobbies": [
+      "摄影",
+      "音乐"
+    ],
+    "preferences": {
+      "favorite_products": [
+        83,
+        24,
+        50
+      ],
+      "likes_ai": true
+    },
+    "social": {
+      "wechat": "ggong",
+      "followers": 1084,
+      "interests_score": {
+        "摄影": 69.0,
+        "音乐": 62.62
+      }
+    }
+  },
+  {
+    "user_id": 14,
+    "demographics": {
+      "age": 48,
+      "gender": "女",
+      "city": "沈阳"
+    },
+    "level": "银牌",
+    "hobbies": [
+      "美食"
+    ],
+    "preferences": {
+      "favorite_products": [
+        51
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "maolei",
+      "followers": 649,
+      "interests_score": {
+        "美食": 99.0
+      }
+    }
+  },
+  {
+    "user_id": 91,
+    "demographics": {
+      "age": 21,
+      "gender": "男",
+      "city": "乌鲁木齐"
+    },
+    "level": "铜牌",
+    "hobbies": [
+      "游戏",
+      "音乐",
+      "旅游"
+    ],
+    "preferences": {
+      "favorite_products": [
+        15,
+        73
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "huangxia",
+      "followers": 1893,
+      "interests_score": {
+        "游戏": 74.47,
+        "音乐": 60.46,
+        "旅游": 48.71
+      }
+    }
+  },
+  {
+    "user_id": 181,
+    "demographics": {
+      "age": 67,
+      "gender": "男",
+      "city": "南京"
+    },
+    "level": "银牌",
+    "hobbies": [
+      "旅游"
+    ],
+    "preferences": {
+      "favorite_products": [
+        8
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "houping",
+      "followers": 670,
+      "interests_score": {
+        "旅游": 22.74
+      }
+    }
+  },
+  {
+    "user_id": 484,
+    "demographics": {
+      "age": 58,
+      "gender": "男",
+      "city": "北镇"
+    },
+    "level": "银牌",
+    "hobbies": [
+      "电影",
+      "跑步"
+    ],
+    "preferences": {
+      "favorite_products": [
+        22,
+        60
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "xia60",
+      "followers": 776,
+      "interests_score": {
+        "电影": 47.85,
+        "跑步": 11.07
+      }
+    }
+  },
+  {
+    "user_id": 167,
+    "demographics": {
+      "age": 52,
+      "gender": "女",
+      "city": "广州"
+    },
+    "level": "铜牌",
+    "hobbies": [
+      "音乐",
+      "美食"
+    ],
+    "preferences": {
+      "favorite_products": [
+        83,
+        41
+      ],
+      "likes_ai": true
+    },
+    "social": {
+      "wechat": "zouguiying",
+      "followers": 672,
+      "interests_score": {
+        "音乐": 33.31,
+        "美食": 3.74
+      }
+    }
+  },
+  {
+    "user_id": 749,
+    "demographics": {
+      "age": 20,
+      "gender": "保密",
+      "city": "西安"
+    },
+    "level": "铜牌",
+    "hobbies": [
+      "跑步"
+    ],
+    "preferences": {
+      "favorite_products": [
+        54,
+        57
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "wli",
+      "followers": 1650,
+      "interests_score": {
+        "跑步": 57.36
+      }
+    }
+  },
+  {
+    "user_id": 849,
+    "demographics": {
+      "age": 23,
+      "gender": "保密",
+      "city": "太原"
+    },
+    "level": "银牌",
+    "hobbies": [
+      "旅游",
+      "编程"
+    ],
+    "preferences": {
+      "favorite_products": [
+        44,
+        41
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "xgu",
+      "followers": 972,
+      "interests_score": {
+        "旅游": 41.57,
+        "编程": 8.11
+      }
+    }
+  },
+  {
+    "user_id": 996,
+    "demographics": {
+      "age": 40,
+      "gender": "男",
+      "city": "南京"
+    },
+    "level": "金牌",
+    "hobbies": [
+      "电影"
+    ],
+    "preferences": {
+      "favorite_products": [
+        20,
+        48
+      ],
+      "likes_ai": true
+    },
+    "social": {
+      "wechat": "xialiu",
+      "followers": 373,
+      "interests_score": {
+        "电影": 71.96
+      }
+    }
+  },
+  {
+    "user_id": 215,
+    "demographics": {
+      "age": 30,
+      "gender": "保密",
+      "city": "关岭"
+    },
+    "level": "金牌",
+    "hobbies": [
+      "阅读",
+      "篮球"
+    ],
+    "preferences": {
+      "favorite_products": [
+        19,
+        5
+      ],
+      "likes_ai": true
+    },
+    "social": {
+      "wechat": "xiuyingqiao",
+      "followers": 262,
+      "interests_score": {
+        "阅读": 58.12,
+        "篮球": 54.87
+      }
+    }
+  },
+  {
+    "user_id": 851,
+    "demographics": {
+      "age": 26,
+      "gender": "男",
+      "city": "南昌"
+    },
+    "level": "钻石",
+    "hobbies": [
+      "游戏",
+      "美食",
+      "编程"
+    ],
+    "preferences": {
+      "favorite_products": [
+        19,
+        21,
+        20
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "shiyang",
+      "followers": 1504,
+      "interests_score": {
+        "游戏": 85.23,
+        "美食": 12.97,
+        "编程": 75.13
+      }
+    }
+  },
+  {
+    "user_id": 139,
+    "demographics": {
+      "age": 65,
+      "gender": "女",
+      "city": "银川"
+    },
+    "level": "铜牌",
+    "hobbies": [
+      "摄影"
+    ],
+    "preferences": {
+      "favorite_products": [
+        8
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "xiuyingfan",
+      "followers": 912,
+      "interests_score": {
+        "摄影": 84.2
+      }
+    }
+  },
+  {
+    "user_id": 130,
+    "demographics": {
+      "age": 37,
+      "gender": "男",
+      "city": "昆明"
+    },
+    "level": "银牌",
+    "hobbies": [
+      "电影",
+      "跑步",
+      "旅游"
+    ],
+    "preferences": {
+      "favorite_products": [
+        73,
+        86
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "fangwei",
+      "followers": 1464,
+      "interests_score": {
+        "电影": 76.32,
+        "跑步": 15.92,
+        "旅游": 61.57
+      }
+    }
+  },
+  {
+    "user_id": 713,
+    "demographics": {
+      "age": 57,
+      "gender": "男",
+      "city": "汕尾"
+    },
+    "level": "银牌",
+    "hobbies": [
+      "游戏"
+    ],
+    "preferences": {
+      "favorite_products": [
+        69,
+        23
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "junqian",
+      "followers": 1013,
+      "interests_score": {
+        "游戏": 69.66
+      }
+    }
+  },
+  {
+    "user_id": 434,
+    "demographics": {
+      "age": 36,
+      "gender": "男",
+      "city": "海口"
+    },
+    "level": "铜牌",
+    "hobbies": [
+      "篮球",
+      "编程"
+    ],
+    "preferences": {
+      "favorite_products": [
+        65
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "yanyu",
+      "followers": 182,
+      "interests_score": {
+        "篮球": 50.38,
+        "编程": 40.73
+      }
+    }
+  },
+  {
+    "user_id": 241,
+    "demographics": {
+      "age": 54,
+      "gender": "男",
+      "city": "巢湖"
+    },
+    "level": "钻石",
+    "hobbies": [
+      "摄影"
+    ],
+    "preferences": {
+      "favorite_products": [
+        1
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "guiying75",
+      "followers": 660,
+      "interests_score": {
+        "摄影": 72.56
+      }
+    }
+  },
+  {
+    "user_id": 230,
+    "demographics": {
+      "age": 21,
+      "gender": "保密",
+      "city": "六盘水"
+    },
+    "level": "铜牌",
+    "hobbies": [
+      "摄影",
+      "电影",
+      "游戏"
+    ],
+    "preferences": {
+      "favorite_products": [
+        3
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "gang53",
+      "followers": 1299,
+      "interests_score": {
+        "摄影": 17.32,
+        "电影": 15.42,
+        "游戏": 52.53
+      }
+    }
+  },
+  {
+    "user_id": 70,
+    "demographics": {
+      "age": 26,
+      "gender": "男",
+      "city": "杭州"
+    },
+    "level": "银牌",
+    "hobbies": [
+      "跑步",
+      "篮球",
+      "美食"
+    ],
+    "preferences": {
+      "favorite_products": [
+        98,
+        66,
+        17
+      ],
+      "likes_ai": true
+    },
+    "social": {
+      "wechat": "taoshao",
+      "followers": 1214,
+      "interests_score": {
+        "跑步": 33.05,
+        "篮球": 32.41,
+        "美食": 81.77
+      }
+    }
+  },
+  {
+    "user_id": 659,
+    "demographics": {
+      "age": 28,
+      "gender": "女",
+      "city": "长春"
+    },
+    "level": "银牌",
+    "hobbies": [
+      "阅读",
+      "电影",
+      "美食"
+    ],
+    "preferences": {
+      "favorite_products": [
+        6,
+        44
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "juanwei",
+      "followers": 81,
+      "interests_score": {
+        "阅读": 99.72,
+        "电影": 1.8,
+        "美食": 22.06
+      }
+    }
+  },
+  {
+    "user_id": 601,
+    "demographics": {
+      "age": 67,
+      "gender": "男",
+      "city": "荆门"
+    },
+    "level": "铜牌",
+    "hobbies": [
+      "音乐"
+    ],
+    "preferences": {
+      "favorite_products": [
+        45
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "yang49",
+      "followers": 1154,
+      "interests_score": {
+        "音乐": 63.99
+      }
+    }
+  },
+  {
+    "user_id": 692,
+    "demographics": {
+      "age": 23,
+      "gender": "女",
+      "city": "西宁"
+    },
+    "level": "铜牌",
+    "hobbies": [
+      "篮球"
+    ],
+    "preferences": {
+      "favorite_products": [
+        38
+      ],
+      "likes_ai": true
+    },
+    "social": {
+      "wechat": "dinggang",
+      "followers": 445,
+      "interests_score": {
+        "篮球": 80.25
+      }
+    }
+  },
+  {
+    "user_id": 441,
+    "demographics": {
+      "age": 21,
+      "gender": "女",
+      "city": "永安"
+    },
+    "level": "银牌",
+    "hobbies": [
+      "跑步",
+      "篮球"
+    ],
+    "preferences": {
+      "favorite_products": [
+        29
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "bding",
+      "followers": 626,
+      "interests_score": {
+        "跑步": 27.37,
+        "篮球": 0.64
+      }
+    }
+  },
+  {
+    "user_id": 710,
+    "demographics": {
+      "age": 29,
+      "gender": "女",
+      "city": "邯郸"
+    },
+    "level": "铜牌",
+    "hobbies": [
+      "旅游"
+    ],
+    "preferences": {
+      "favorite_products": [
+        72,
+        25
+      ],
+      "likes_ai": true
+    },
+    "social": {
+      "wechat": "jing11",
+      "followers": 1631,
+      "interests_score": {
+        "旅游": 70.97
+      }
+    }
+  },
+  {
+    "user_id": 763,
+    "demographics": {
+      "age": 67,
+      "gender": "男",
+      "city": "兰州"
+    },
+    "level": "银牌",
+    "hobbies": [
+      "摄影",
+      "跑步"
+    ],
+    "preferences": {
+      "favorite_products": [
+        6,
+        24,
+        68
+      ],
+      "likes_ai": true
+    },
+    "social": {
+      "wechat": "rzeng",
+      "followers": 1994,
+      "interests_score": {
+        "摄影": 64.79,
+        "跑步": 57.42
+      }
+    }
+  },
+  {
+    "user_id": 826,
+    "demographics": {
+      "age": 39,
+      "gender": "男",
+      "city": "柳州"
+    },
+    "level": "钻石",
+    "hobbies": [
+      "电影",
+      "游戏",
+      "美食"
+    ],
+    "preferences": {
+      "favorite_products": [
+        30,
+        89
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "xuejie",
+      "followers": 414,
+      "interests_score": {
+        "电影": 57.8,
+        "游戏": 10.65,
+        "美食": 68.0
+      }
+    }
+  },
+  {
+    "user_id": 142,
+    "demographics": {
+      "age": 23,
+      "gender": "男",
+      "city": "南宁"
+    },
+    "level": "金牌",
+    "hobbies": [
+      "音乐"
+    ],
+    "preferences": {
+      "favorite_products": [
+        15,
+        29,
+        54
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "pingliao",
+      "followers": 1231,
+      "interests_score": {
+        "音乐": 55.81
+      }
+    }
+  },
+  {
+    "user_id": 292,
+    "demographics": {
+      "age": 55,
+      "gender": "女",
+      "city": "哈尔滨"
+    },
+    "level": "铜牌",
+    "hobbies": [
+      "阅读",
+      "音乐"
+    ],
+    "preferences": {
+      "favorite_products": [
+        44,
+        53,
+        30
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "minlu",
+      "followers": 1063,
+      "interests_score": {
+        "阅读": 78.03,
+        "音乐": 93.68
+      }
+    }
+  },
+  {
+    "user_id": 121,
+    "demographics": {
+      "age": 30,
+      "gender": "女",
+      "city": "台北"
+    },
+    "level": "金牌",
+    "hobbies": [
+      "游戏",
+      "篮球"
+    ],
+    "preferences": {
+      "favorite_products": [
+        17
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "luoxia",
+      "followers": 803,
+      "interests_score": {
+        "游戏": 69.59,
+        "篮球": 90.79
+      }
+    }
+  },
+  {
+    "user_id": 606,
+    "demographics": {
+      "age": 50,
+      "gender": "男",
+      "city": "宜都"
+    },
+    "level": "金牌",
+    "hobbies": [
+      "音乐",
+      "旅游",
+      "电影"
+    ],
+    "preferences": {
+      "favorite_products": [
+        24
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "mintang",
+      "followers": 1104,
+      "interests_score": {
+        "音乐": 67.15,
+        "旅游": 45.29,
+        "电影": 64.73
+      }
+    }
+  },
+  {
+    "user_id": 525,
+    "demographics": {
+      "age": 49,
+      "gender": "男",
+      "city": "兰州"
+    },
+    "level": "钻石",
+    "hobbies": [
+      "音乐"
+    ],
+    "preferences": {
+      "favorite_products": [
+        74,
+        83,
+        80
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "jiezhao",
+      "followers": 1766,
+      "interests_score": {
+        "音乐": 12.52
+      }
+    }
+  },
+  {
+    "user_id": 681,
+    "demographics": {
+      "age": 59,
+      "gender": "男",
+      "city": "重庆"
+    },
+    "level": "金牌",
+    "hobbies": [
+      "电影",
+      "美食"
+    ],
+    "preferences": {
+      "favorite_products": [
+        40
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "bzhao",
+      "followers": 1695,
+      "interests_score": {
+        "电影": 95.05,
+        "美食": 65.46
+      }
+    }
+  },
+  {
+    "user_id": 473,
+    "demographics": {
+      "age": 28,
+      "gender": "男",
+      "city": "海口"
+    },
+    "level": "铜牌",
+    "hobbies": [
+      "编程",
+      "篮球"
+    ],
+    "preferences": {
+      "favorite_products": [
+        76,
+        74,
+        46
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "jun44",
+      "followers": 585,
+      "interests_score": {
+        "编程": 64.44,
+        "篮球": 60.85
+      }
+    }
+  },
+  {
+    "user_id": 251,
+    "demographics": {
+      "age": 39,
+      "gender": "女",
+      "city": "佛山"
+    },
+    "level": "银牌",
+    "hobbies": [
+      "美食",
+      "旅游"
+    ],
+    "preferences": {
+      "favorite_products": [
+        59
+      ],
+      "likes_ai": true
+    },
+    "social": {
+      "wechat": "yintao",
+      "followers": 1972,
+      "interests_score": {
+        "美食": 81.86,
+        "旅游": 39.2
+      }
+    }
+  },
+  {
+    "user_id": 879,
+    "demographics": {
+      "age": 48,
+      "gender": "男",
+      "city": "沈阳"
+    },
+    "level": "银牌",
+    "hobbies": [
+      "音乐",
+      "篮球"
+    ],
+    "preferences": {
+      "favorite_products": [
+        37,
+        82,
+        28
+      ],
+      "likes_ai": true
+    },
+    "social": {
+      "wechat": "jun40",
+      "followers": 1033,
+      "interests_score": {
+        "音乐": 63.69,
+        "篮球": 34.74
+      }
+    }
+  },
+  {
+    "user_id": 615,
+    "demographics": {
+      "age": 25,
+      "gender": "男",
+      "city": "潜江"
+    },
+    "level": "铜牌",
+    "hobbies": [
+      "篮球"
+    ],
+    "preferences": {
+      "favorite_products": [
+        71
+      ],
+      "likes_ai": true
+    },
+    "social": {
+      "wechat": "xiaoqiang",
+      "followers": 1128,
+      "interests_score": {
+        "篮球": 38.2
+      }
+    }
+  },
+  {
+    "user_id": 802,
+    "demographics": {
+      "age": 55,
+      "gender": "女",
+      "city": "六盘水"
+    },
+    "level": "金牌",
+    "hobbies": [
+      "篮球",
+      "跑步",
+      "游戏"
+    ],
+    "preferences": {
+      "favorite_products": [
+        22,
+        27,
+        44
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "yangcheng",
+      "followers": 870,
+      "interests_score": {
+        "篮球": 84.86,
+        "跑步": 60.77,
+        "游戏": 31.83
+      }
+    }
+  },
+  {
+    "user_id": 819,
+    "demographics": {
+      "age": 36,
+      "gender": "男",
+      "city": "长春"
+    },
+    "level": "铜牌",
+    "hobbies": [
+      "音乐",
+      "编程",
+      "阅读"
+    ],
+    "preferences": {
+      "favorite_products": [
+        25,
+        10
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "haojing",
+      "followers": 949,
+      "interests_score": {
+        "音乐": 22.46,
+        "编程": 97.36,
+        "阅读": 36.69
+      }
+    }
+  },
+  {
+    "user_id": 925,
+    "demographics": {
+      "age": 46,
+      "gender": "男",
+      "city": "柳州"
+    },
+    "level": "铜牌",
+    "hobbies": [
+      "阅读"
+    ],
+    "preferences": {
+      "favorite_products": [
+        61,
+        88,
+        69
+      ],
+      "likes_ai": true
+    },
+    "social": {
+      "wechat": "caiyan",
+      "followers": 1802,
+      "interests_score": {
+        "阅读": 26.88
+      }
+    }
+  },
+  {
+    "user_id": 104,
+    "demographics": {
+      "age": 50,
+      "gender": "女",
+      "city": "梧州"
+    },
+    "level": "铜牌",
+    "hobbies": [
+      "美食",
+      "编程"
+    ],
+    "preferences": {
+      "favorite_products": [
+        31,
+        90,
+        96
+      ],
+      "likes_ai": true
+    },
+    "social": {
+      "wechat": "pingduan",
+      "followers": 532,
+      "interests_score": {
+        "美食": 73.31,
+        "编程": 74.94
+      }
+    }
+  },
+  {
+    "user_id": 366,
+    "demographics": {
+      "age": 25,
+      "gender": "男",
+      "city": "通辽"
+    },
+    "level": "铜牌",
+    "hobbies": [
+      "音乐",
+      "篮球"
+    ],
+    "preferences": {
+      "favorite_products": [
+        18,
+        56
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "xiulanyan",
+      "followers": 1215,
+      "interests_score": {
+        "音乐": 94.76,
+        "篮球": 82.22
+      }
+    }
+  },
+  {
+    "user_id": 429,
+    "demographics": {
+      "age": 25,
+      "gender": "男",
+      "city": "淮安"
+    },
+    "level": "金牌",
+    "hobbies": [
+      "编程",
+      "跑步",
+      "电影"
+    ],
+    "preferences": {
+      "favorite_products": [
+        61,
+        32,
+        30
+      ],
+      "likes_ai": true
+    },
+    "social": {
+      "wechat": "chao84",
+      "followers": 1424,
+      "interests_score": {
+        "编程": 63.76,
+        "跑步": 63.19,
+        "电影": 44.92
+      }
+    }
+  },
+  {
+    "user_id": 593,
+    "demographics": {
+      "age": 54,
+      "gender": "女",
+      "city": "梧州"
+    },
+    "level": "钻石",
+    "hobbies": [
+      "摄影",
+      "电影",
+      "游戏"
+    ],
+    "preferences": {
+      "favorite_products": [
+        66,
+        75,
+        98
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "ming81",
+      "followers": 365,
+      "interests_score": {
+        "摄影": 95.63,
+        "电影": 96.56,
+        "游戏": 87.17
+      }
+    }
+  },
+  {
+    "user_id": 391,
+    "demographics": {
+      "age": 18,
+      "gender": "男",
+      "city": "呼和浩特"
+    },
+    "level": "银牌",
+    "hobbies": [
+      "摄影",
+      "音乐"
+    ],
+    "preferences": {
+      "favorite_products": [
+        62,
+        43
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "liangyong",
+      "followers": 1494,
+      "interests_score": {
+        "摄影": 12.7,
+        "音乐": 66.06
+      }
+    }
+  },
+  {
+    "user_id": 514,
+    "demographics": {
+      "age": 34,
+      "gender": "男",
+      "city": "宜都"
+    },
+    "level": "银牌",
+    "hobbies": [
+      "游戏"
+    ],
+    "preferences": {
+      "favorite_products": [
+        12,
+        52
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "shixiulan",
+      "followers": 1874,
+      "interests_score": {
+        "游戏": 64.71
+      }
+    }
+  },
+  {
+    "user_id": 872,
+    "demographics": {
+      "age": 48,
+      "gender": "女",
+      "city": "台北"
+    },
+    "level": "银牌",
+    "hobbies": [
+      "旅游"
+    ],
+    "preferences": {
+      "favorite_products": [
+        31,
+        38,
+        78
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "afang",
+      "followers": 253,
+      "interests_score": {
+        "旅游": 21.21
+      }
+    }
+  },
+  {
+    "user_id": 446,
+    "demographics": {
+      "age": 60,
+      "gender": "男",
+      "city": "梧州"
+    },
+    "level": "铜牌",
+    "hobbies": [
+      "音乐",
+      "阅读"
+    ],
+    "preferences": {
+      "favorite_products": [
+        50,
+        56,
+        5
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "guiying72",
+      "followers": 1613,
+      "interests_score": {
+        "音乐": 3.53,
+        "阅读": 26.7
+      }
+    }
+  },
+  {
+    "user_id": 949,
+    "demographics": {
+      "age": 60,
+      "gender": "男",
+      "city": "佛山"
+    },
+    "level": "铜牌",
+    "hobbies": [
+      "摄影"
+    ],
+    "preferences": {
+      "favorite_products": [
+        56
+      ],
+      "likes_ai": true
+    },
+    "social": {
+      "wechat": "dyin",
+      "followers": 108,
+      "interests_score": {
+        "摄影": 32.24
+      }
+    }
+  },
+  {
+    "user_id": 688,
+    "demographics": {
+      "age": 25,
+      "gender": "女",
+      "city": "关岭"
+    },
+    "level": "铜牌",
+    "hobbies": [
+      "阅读",
+      "跑步"
+    ],
+    "preferences": {
+      "favorite_products": [
+        64
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "tzeng",
+      "followers": 239,
+      "interests_score": {
+        "阅读": 96.64,
+        "跑步": 11.49
+      }
+    }
+  },
+  {
+    "user_id": 840,
+    "demographics": {
+      "age": 20,
+      "gender": "女",
+      "city": "天津"
+    },
+    "level": "铜牌",
+    "hobbies": [
+      "编程"
+    ],
+    "preferences": {
+      "favorite_products": [
+        42
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "yanguiying",
+      "followers": 1096,
+      "interests_score": {
+        "编程": 98.28
+      }
+    }
+  },
+  {
+    "user_id": 646,
+    "demographics": {
+      "age": 30,
+      "gender": "男",
+      "city": "昆明"
+    },
+    "level": "铜牌",
+    "hobbies": [
+      "摄影"
+    ],
+    "preferences": {
+      "favorite_products": [
+        25,
+        61
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "jiekong",
+      "followers": 1922,
+      "interests_score": {
+        "摄影": 44.97
+      }
+    }
+  },
+  {
+    "user_id": 548,
+    "demographics": {
+      "age": 27,
+      "gender": "女",
+      "city": "潮州"
+    },
+    "level": "金牌",
+    "hobbies": [
+      "编程"
+    ],
+    "preferences": {
+      "favorite_products": [
+        96,
+        85
+      ],
+      "likes_ai": true
+    },
+    "social": {
+      "wechat": "cuitao",
+      "followers": 1258,
+      "interests_score": {
+        "编程": 24.64
+      }
+    }
+  },
+  {
+    "user_id": 702,
+    "demographics": {
+      "age": 53,
+      "gender": "男",
+      "city": "齐齐哈尔"
+    },
+    "level": "银牌",
+    "hobbies": [
+      "跑步"
+    ],
+    "preferences": {
+      "favorite_products": [
+        63
+      ],
+      "likes_ai": true
+    },
+    "social": {
+      "wechat": "gongna",
+      "followers": 554,
+      "interests_score": {
+        "跑步": 50.41
+      }
+    }
+  },
+  {
+    "user_id": 831,
+    "demographics": {
+      "age": 23,
+      "gender": "男",
+      "city": "汕尾"
+    },
+    "level": "银牌",
+    "hobbies": [
+      "游戏",
+      "篮球"
+    ],
+    "preferences": {
+      "favorite_products": [
+        5,
+        77,
+        44
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "zhongjing",
+      "followers": 1966,
+      "interests_score": {
+        "游戏": 36.82,
+        "篮球": 58.3
+      }
+    }
+  },
+  {
+    "user_id": 988,
+    "demographics": {
+      "age": 45,
+      "gender": "男",
+      "city": "通辽"
+    },
+    "level": "铜牌",
+    "hobbies": [
+      "编程",
+      "跑步"
+    ],
+    "preferences": {
+      "favorite_products": [
+        31,
+        81
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "ming09",
+      "followers": 1056,
+      "interests_score": {
+        "编程": 55.14,
+        "跑步": 35.14
+      }
+    }
+  },
+  {
+    "user_id": 636,
+    "demographics": {
+      "age": 47,
+      "gender": "女",
+      "city": "兰州"
+    },
+    "level": "铜牌",
+    "hobbies": [
+      "摄影",
+      "篮球",
+      "游戏"
+    ],
+    "preferences": {
+      "favorite_products": [
+        70,
+        91
+      ],
+      "likes_ai": true
+    },
+    "social": {
+      "wechat": "jhe",
+      "followers": 1172,
+      "interests_score": {
+        "摄影": 1.33,
+        "篮球": 25.92,
+        "游戏": 97.69
+      }
+    }
+  },
+  {
+    "user_id": 611,
+    "demographics": {
+      "age": 29,
+      "gender": "女",
+      "city": "拉萨"
+    },
+    "level": "铜牌",
+    "hobbies": [
+      "跑步",
+      "电影",
+      "美食"
+    ],
+    "preferences": {
+      "favorite_products": [
+        64
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "xiafeng",
+      "followers": 1371,
+      "interests_score": {
+        "跑步": 20.13,
+        "电影": 59.49,
+        "美食": 80.33
+      }
+    }
+  },
+  {
+    "user_id": 920,
+    "demographics": {
+      "age": 69,
+      "gender": "女",
+      "city": "兰州"
+    },
+    "level": "银牌",
+    "hobbies": [
+      "跑步",
+      "电影"
+    ],
+    "preferences": {
+      "favorite_products": [
+        99,
+        42
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "jiedai",
+      "followers": 184,
+      "interests_score": {
+        "跑步": 17.62,
+        "电影": 37.28
+      }
+    }
+  },
+  {
+    "user_id": 714,
+    "demographics": {
+      "age": 28,
+      "gender": "男",
+      "city": "阜新"
+    },
+    "level": "铜牌",
+    "hobbies": [
+      "摄影",
+      "旅游"
+    ],
+    "preferences": {
+      "favorite_products": [
+        84
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "tangqiang",
+      "followers": 1489,
+      "interests_score": {
+        "摄影": 10.64,
+        "旅游": 67.52
+      }
+    }
+  },
+  {
+    "user_id": 579,
+    "demographics": {
+      "age": 29,
+      "gender": "男",
+      "city": "佛山"
+    },
+    "level": "铜牌",
+    "hobbies": [
+      "编程",
+      "篮球"
+    ],
+    "preferences": {
+      "favorite_products": [
+        12,
+        2,
+        17
+      ],
+      "likes_ai": true
+    },
+    "social": {
+      "wechat": "na41",
+      "followers": 1301,
+      "interests_score": {
+        "编程": 92.35,
+        "篮球": 50.66
+      }
+    }
+  },
+  {
+    "user_id": 557,
+    "demographics": {
+      "age": 63,
+      "gender": "女",
+      "city": "六安"
+    },
+    "level": "银牌",
+    "hobbies": [
+      "旅游"
+    ],
+    "preferences": {
+      "favorite_products": [
+        87,
+        5
+      ],
+      "likes_ai": true
+    },
+    "social": {
+      "wechat": "ixiong",
+      "followers": 56,
+      "interests_score": {
+        "旅游": 50.96
+      }
+    }
+  },
+  {
+    "user_id": 541,
+    "demographics": {
+      "age": 27,
+      "gender": "女",
+      "city": "柳州"
+    },
+    "level": "金牌",
+    "hobbies": [
+      "篮球",
+      "旅游"
+    ],
+    "preferences": {
+      "favorite_products": [
+        76,
+        27
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "oduan",
+      "followers": 349,
+      "interests_score": {
+        "篮球": 13.13,
+        "旅游": 72.97
+      }
+    }
+  },
+  {
+    "user_id": 29,
+    "demographics": {
+      "age": 49,
+      "gender": "男",
+      "city": "济南"
+    },
+    "level": "银牌",
+    "hobbies": [
+      "旅游",
+      "游戏",
+      "阅读"
+    ],
+    "preferences": {
+      "favorite_products": [
+        70,
+        91
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "jie69",
+      "followers": 951,
+      "interests_score": {
+        "旅游": 35.99,
+        "游戏": 0.2,
+        "阅读": 8.76
+      }
+    }
+  },
+  {
+    "user_id": 948,
+    "demographics": {
+      "age": 39,
+      "gender": "男",
+      "city": "台北"
+    },
+    "level": "金牌",
+    "hobbies": [
+      "电影"
+    ],
+    "preferences": {
+      "favorite_products": [
+        48
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "yanli",
+      "followers": 1828,
+      "interests_score": {
+        "电影": 72.04
+      }
+    }
+  },
+  {
+    "user_id": 789,
+    "demographics": {
+      "age": 26,
+      "gender": "男",
+      "city": "上海"
+    },
+    "level": "金牌",
+    "hobbies": [
+      "篮球",
+      "阅读",
+      "摄影"
+    ],
+    "preferences": {
+      "favorite_products": [
+        63,
+        87,
+        68
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "yuyong",
+      "followers": 1705,
+      "interests_score": {
+        "篮球": 86.75,
+        "阅读": 84.23,
+        "摄影": 17.4
+      }
+    }
+  },
+  {
+    "user_id": 485,
+    "demographics": {
+      "age": 65,
+      "gender": "保密",
+      "city": "南京"
+    },
+    "level": "金牌",
+    "hobbies": [
+      "阅读",
+      "篮球"
+    ],
+    "preferences": {
+      "favorite_products": [
+        80,
+        73,
+        37
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "xiacui",
+      "followers": 204,
+      "interests_score": {
+        "阅读": 69.21,
+        "篮球": 91.78
+      }
+    }
+  },
+  {
+    "user_id": 351,
+    "demographics": {
+      "age": 51,
+      "gender": "女",
+      "city": "辛集"
+    },
+    "level": "银牌",
+    "hobbies": [
+      "游戏",
+      "音乐"
+    ],
+    "preferences": {
+      "favorite_products": [
+        79
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "gfang",
+      "followers": 1119,
+      "interests_score": {
+        "游戏": 28.21,
+        "音乐": 80.16
+      }
+    }
+  },
+  {
+    "user_id": 37,
+    "demographics": {
+      "age": 22,
+      "gender": "女",
+      "city": "嘉禾"
+    },
+    "level": "铜牌",
+    "hobbies": [
+      "摄影"
+    ],
+    "preferences": {
+      "favorite_products": [
+        33,
+        9
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "xiangjuan",
+      "followers": 1562,
+      "interests_score": {
+        "摄影": 97.18
+      }
+    }
+  },
+  {
+    "user_id": 437,
+    "demographics": {
+      "age": 21,
+      "gender": "女",
+      "city": "大冶"
+    },
+    "level": "铜牌",
+    "hobbies": [
+      "篮球",
+      "跑步",
+      "音乐"
+    ],
+    "preferences": {
+      "favorite_products": [
+        31,
+        54
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "wenjun",
+      "followers": 1236,
+      "interests_score": {
+        "篮球": 59.23,
+        "跑步": 80.95,
+        "音乐": 90.06
+      }
+    }
+  },
+  {
+    "user_id": 595,
+    "demographics": {
+      "age": 32,
+      "gender": "男",
+      "city": "长春"
+    },
+    "level": "铜牌",
+    "hobbies": [
+      "摄影"
+    ],
+    "preferences": {
+      "favorite_products": [
+        35
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "leiliao",
+      "followers": 677,
+      "interests_score": {
+        "摄影": 61.69
+      }
+    }
+  },
+  {
+    "user_id": 293,
+    "demographics": {
+      "age": 35,
+      "gender": "女",
+      "city": "澳门"
+    },
+    "level": "金牌",
+    "hobbies": [
+      "编程",
+      "游戏"
+    ],
+    "preferences": {
+      "favorite_products": [
+        32,
+        1,
+        7
+      ],
+      "likes_ai": true
+    },
+    "social": {
+      "wechat": "sgong",
+      "followers": 638,
+      "interests_score": {
+        "编程": 72.27,
+        "游戏": 97.63
+      }
+    }
+  },
+  {
+    "user_id": 536,
+    "demographics": {
+      "age": 46,
+      "gender": "女",
+      "city": "永安"
+    },
+    "level": "银牌",
+    "hobbies": [
+      "音乐",
+      "美食"
+    ],
+    "preferences": {
+      "favorite_products": [
+        8
+      ],
+      "likes_ai": true
+    },
+    "social": {
+      "wechat": "jun90",
+      "followers": 1104,
+      "interests_score": {
+        "音乐": 34.76,
+        "美食": 53.0
+      }
+    }
+  },
+  {
+    "user_id": 252,
+    "demographics": {
+      "age": 36,
+      "gender": "男",
+      "city": "沈阳"
+    },
+    "level": "铜牌",
+    "hobbies": [
+      "摄影",
+      "跑步"
+    ],
+    "preferences": {
+      "favorite_products": [
+        80,
+        19
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "zhangguiying",
+      "followers": 572,
+      "interests_score": {
+        "摄影": 40.58,
+        "跑步": 91.08
+      }
+    }
+  },
+  {
+    "user_id": 87,
+    "demographics": {
+      "age": 47,
+      "gender": "女",
+      "city": "合山"
+    },
+    "level": "铜牌",
+    "hobbies": [
+      "美食",
+      "摄影",
+      "游戏"
+    ],
+    "preferences": {
+      "favorite_products": [
+        17,
+        14
+      ],
+      "likes_ai": true
+    },
+    "social": {
+      "wechat": "khe",
+      "followers": 1553,
+      "interests_score": {
+        "美食": 28.73,
+        "摄影": 79.69,
+        "游戏": 84.52
+      }
+    }
+  },
+  {
+    "user_id": 720,
+    "demographics": {
+      "age": 32,
+      "gender": "女",
+      "city": "南昌"
+    },
+    "level": "银牌",
+    "hobbies": [
+      "阅读"
+    ],
+    "preferences": {
+      "favorite_products": [
+        18,
+        56
+      ],
+      "likes_ai": true
+    },
+    "social": {
+      "wechat": "qinyang",
+      "followers": 1357,
+      "interests_score": {
+        "阅读": 98.24
+      }
+    }
+  },
+  {
+    "user_id": 99,
+    "demographics": {
+      "age": 56,
+      "gender": "女",
+      "city": "汕尾"
+    },
+    "level": "铜牌",
+    "hobbies": [
+      "旅游"
+    ],
+    "preferences": {
+      "favorite_products": [
+        75,
+        23,
+        77
+      ],
+      "likes_ai": true
+    },
+    "social": {
+      "wechat": "kjia",
+      "followers": 271,
+      "interests_score": {
+        "旅游": 78.01
+      }
+    }
+  },
+  {
+    "user_id": 146,
+    "demographics": {
+      "age": 25,
+      "gender": "女",
+      "city": "辽阳"
+    },
+    "level": "银牌",
+    "hobbies": [
+      "美食",
+      "阅读",
+      "篮球"
+    ],
+    "preferences": {
+      "favorite_products": [
+        50,
+        52,
+        41
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "daiping",
+      "followers": 79,
+      "interests_score": {
+        "美食": 88.25,
+        "阅读": 75.55,
+        "篮球": 30.16
+      }
+    }
+  },
+  {
+    "user_id": 367,
+    "demographics": {
+      "age": 31,
+      "gender": "男",
+      "city": "拉萨"
+    },
+    "level": "铜牌",
+    "hobbies": [
+      "跑步",
+      "美食"
+    ],
+    "preferences": {
+      "favorite_products": [
+        55,
+        96,
+        49
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "fuqiang",
+      "followers": 1116,
+      "interests_score": {
+        "跑步": 45.78,
+        "美食": 65.03
+      }
+    }
+  },
+  {
+    "user_id": 220,
+    "demographics": {
+      "age": 56,
+      "gender": "男",
+      "city": "银川"
+    },
+    "level": "钻石",
+    "hobbies": [
+      "电影",
+      "旅游"
+    ],
+    "preferences": {
+      "favorite_products": [
+        84,
+        14,
+        91
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "xiuying34",
+      "followers": 1321,
+      "interests_score": {
+        "电影": 68.13,
+        "旅游": 20.87
+      }
+    }
+  },
+  {
+    "user_id": 602,
+    "demographics": {
+      "age": 20,
+      "gender": "女",
+      "city": "佛山"
+    },
+    "level": "金牌",
+    "hobbies": [
+      "美食",
+      "旅游",
+      "音乐"
+    ],
+    "preferences": {
+      "favorite_products": [
+        38,
+        36
+      ],
+      "likes_ai": true
+    },
+    "social": {
+      "wechat": "wuyan",
+      "followers": 123,
+      "interests_score": {
+        "美食": 30.5,
+        "旅游": 94.03,
+        "音乐": 87.28
+      }
+    }
+  },
+  {
+    "user_id": 177,
+    "demographics": {
+      "age": 43,
+      "gender": "女",
+      "city": "上海"
+    },
+    "level": "铜牌",
+    "hobbies": [
+      "音乐"
+    ],
+    "preferences": {
+      "favorite_products": [
+        72
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "maochao",
+      "followers": 475,
+      "interests_score": {
+        "音乐": 91.77
+      }
+    }
+  },
+  {
+    "user_id": 389,
+    "demographics": {
+      "age": 23,
+      "gender": "女",
+      "city": "惠州"
+    },
+    "level": "银牌",
+    "hobbies": [
+      "音乐",
+      "电影"
+    ],
+    "preferences": {
+      "favorite_products": [
+        14,
+        4,
+        78
+      ],
+      "likes_ai": true
+    },
+    "social": {
+      "wechat": "ehao",
+      "followers": 1409,
+      "interests_score": {
+        "音乐": 68.87,
+        "电影": 72.12
+      }
+    }
+  },
+  {
+    "user_id": 152,
+    "demographics": {
+      "age": 46,
+      "gender": "男",
+      "city": "大冶"
+    },
+    "level": "金牌",
+    "hobbies": [
+      "摄影",
+      "跑步",
+      "游戏"
+    ],
+    "preferences": {
+      "favorite_products": [
+        56
+      ],
+      "likes_ai": true
+    },
+    "social": {
+      "wechat": "guiying64",
+      "followers": 642,
+      "interests_score": {
+        "摄影": 89.57,
+        "跑步": 8.37,
+        "游戏": 56.38
+      }
+    }
+  },
+  {
+    "user_id": 28,
+    "demographics": {
+      "age": 60,
+      "gender": "男",
+      "city": "佛山"
+    },
+    "level": "金牌",
+    "hobbies": [
+      "游戏"
+    ],
+    "preferences": {
+      "favorite_products": [
+        76,
+        62,
+        9
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "yangjuan",
+      "followers": 1569,
+      "interests_score": {
+        "游戏": 65.85
+      }
+    }
+  },
+  {
+    "user_id": 393,
+    "demographics": {
+      "age": 64,
+      "gender": "男",
+      "city": "关岭"
+    },
+    "level": "银牌",
+    "hobbies": [
+      "游戏",
+      "摄影"
+    ],
+    "preferences": {
+      "favorite_products": [
+        19,
+        41,
+        16
+      ],
+      "likes_ai": true
+    },
+    "social": {
+      "wechat": "rtan",
+      "followers": 639,
+      "interests_score": {
+        "游戏": 22.67,
+        "摄影": 68.4
+      }
+    }
+  },
+  {
+    "user_id": 209,
+    "demographics": {
+      "age": 44,
+      "gender": "女",
+      "city": "荆门"
+    },
+    "level": "铜牌",
+    "hobbies": [
+      "旅游",
+      "游戏",
+      "跑步"
+    ],
+    "preferences": {
+      "favorite_products": [
+        61,
+        93
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "xiulanlei",
+      "followers": 758,
+      "interests_score": {
+        "旅游": 6.93,
+        "游戏": 98.96,
+        "跑步": 5.06
+      }
+    }
+  },
+  {
+    "user_id": 660,
+    "demographics": {
+      "age": 21,
+      "gender": "男",
+      "city": "银川"
+    },
+    "level": "铜牌",
+    "hobbies": [
+      "篮球",
+      "摄影"
+    ],
+    "preferences": {
+      "favorite_products": [
+        63,
+        23,
+        6
+      ],
+      "likes_ai": true
+    },
+    "social": {
+      "wechat": "guiying76",
+      "followers": 179,
+      "interests_score": {
+        "篮球": 43.84,
+        "摄影": 15.16
+      }
+    }
+  },
+  {
+    "user_id": 265,
+    "demographics": {
+      "age": 37,
+      "gender": "男",
+      "city": "辽阳"
+    },
+    "level": "银牌",
+    "hobbies": [
+      "游戏",
+      "音乐",
+      "电影"
+    ],
+    "preferences": {
+      "favorite_products": [
+        92,
+        30,
+        57
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "zhongjing",
+      "followers": 523,
+      "interests_score": {
+        "游戏": 46.29,
+        "音乐": 95.36,
+        "电影": 21.15
+      }
+    }
+  },
+  {
+    "user_id": 946,
+    "demographics": {
+      "age": 69,
+      "gender": "女",
+      "city": "辽阳"
+    },
+    "level": "铜牌",
+    "hobbies": [
+      "篮球",
+      "旅游"
+    ],
+    "preferences": {
+      "favorite_products": [
+        17
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "pingshao",
+      "followers": 1201,
+      "interests_score": {
+        "篮球": 17.82,
+        "旅游": 10.06
+      }
+    }
+  },
+  {
+    "user_id": 86,
+    "demographics": {
+      "age": 58,
+      "gender": "男",
+      "city": "潮州"
+    },
+    "level": "银牌",
+    "hobbies": [
+      "电影"
+    ],
+    "preferences": {
+      "favorite_products": [
+        53,
+        68
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "gaofang",
+      "followers": 1811,
+      "interests_score": {
+        "电影": 1.85
+      }
+    }
+  },
+  {
+    "user_id": 94,
+    "demographics": {
+      "age": 65,
+      "gender": "男",
+      "city": "兴安盟"
+    },
+    "level": "铜牌",
+    "hobbies": [
+      "音乐",
+      "编程"
+    ],
+    "preferences": {
+      "favorite_products": [
+        42,
+        39,
+        90
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "mingqian",
+      "followers": 263,
+      "interests_score": {
+        "音乐": 61.29,
+        "编程": 47.19
+      }
+    }
+  },
+  {
+    "user_id": 82,
+    "demographics": {
+      "age": 20,
+      "gender": "女",
+      "city": "太原"
+    },
+    "level": "钻石",
+    "hobbies": [
+      "跑步"
+    ],
+    "preferences": {
+      "favorite_products": [
+        93,
+        67
+      ],
+      "likes_ai": true
+    },
+    "social": {
+      "wechat": "li31",
+      "followers": 1734,
+      "interests_score": {
+        "跑步": 25.51
+      }
+    }
+  },
+  {
+    "user_id": 62,
+    "demographics": {
+      "age": 31,
+      "gender": "男",
+      "city": "澳门"
+    },
+    "level": "银牌",
+    "hobbies": [
+      "摄影",
+      "美食"
+    ],
+    "preferences": {
+      "favorite_products": [
+        4
+      ],
+      "likes_ai": true
+    },
+    "social": {
+      "wechat": "rchang",
+      "followers": 1611,
+      "interests_score": {
+        "摄影": 48.7,
+        "美食": 72.72
+      }
+    }
+  },
+  {
+    "user_id": 711,
+    "demographics": {
+      "age": 32,
+      "gender": "男",
+      "city": "郑州"
+    },
+    "level": "银牌",
+    "hobbies": [
+      "篮球",
+      "美食",
+      "跑步"
+    ],
+    "preferences": {
+      "favorite_products": [
+        60
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "jun13",
+      "followers": 1962,
+      "interests_score": {
+        "篮球": 21.73,
+        "美食": 70.69,
+        "跑步": 70.78
+      }
+    }
+  },
+  {
+    "user_id": 217,
+    "demographics": {
+      "age": 47,
+      "gender": "男",
+      "city": "南昌"
+    },
+    "level": "铜牌",
+    "hobbies": [
+      "音乐",
+      "篮球",
+      "旅游"
+    ],
+    "preferences": {
+      "favorite_products": [
+        64,
+        2
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "jcui",
+      "followers": 334,
+      "interests_score": {
+        "音乐": 4.64,
+        "篮球": 24.61,
+        "旅游": 81.44
+      }
+    }
+  },
+  {
+    "user_id": 78,
+    "demographics": {
+      "age": 29,
+      "gender": "男",
+      "city": "哈尔滨"
+    },
+    "level": "铜牌",
+    "hobbies": [
+      "编程"
+    ],
+    "preferences": {
+      "favorite_products": [
+        85,
+        38,
+        18
+      ],
+      "likes_ai": true
+    },
+    "social": {
+      "wechat": "zren",
+      "followers": 1970,
+      "interests_score": {
+        "编程": 41.73
+      }
+    }
+  },
+  {
+    "user_id": 22,
+    "demographics": {
+      "age": 45,
+      "gender": "女",
+      "city": "六盘水"
+    },
+    "level": "钻石",
+    "hobbies": [
+      "编程",
+      "美食",
+      "游戏"
+    ],
+    "preferences": {
+      "favorite_products": [
+        22,
+        98,
+        10
+      ],
+      "likes_ai": true
+    },
+    "social": {
+      "wechat": "linqiang",
+      "followers": 746,
+      "interests_score": {
+        "编程": 81.91,
+        "美食": 87.65,
+        "游戏": 47.12
+      }
+    }
+  },
+  {
+    "user_id": 329,
+    "demographics": {
+      "age": 35,
+      "gender": "女",
+      "city": "香港"
+    },
+    "level": "银牌",
+    "hobbies": [
+      "电影"
+    ],
+    "preferences": {
+      "favorite_products": [
+        94,
+        58,
+        77
+      ],
+      "likes_ai": true
+    },
+    "social": {
+      "wechat": "zhumin",
+      "followers": 1333,
+      "interests_score": {
+        "电影": 39.05
+      }
+    }
+  },
+  {
+    "user_id": 662,
+    "demographics": {
+      "age": 59,
+      "gender": "男",
+      "city": "杭州"
+    },
+    "level": "钻石",
+    "hobbies": [
+      "跑步",
+      "音乐"
+    ],
+    "preferences": {
+      "favorite_products": [
+        84
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "juanwang",
+      "followers": 1527,
+      "interests_score": {
+        "跑步": 75.18,
+        "音乐": 45.68
+      }
+    }
+  },
+  {
+    "user_id": 370,
+    "demographics": {
+      "age": 19,
+      "gender": "女",
+      "city": "佛山"
+    },
+    "level": "铜牌",
+    "hobbies": [
+      "编程",
+      "篮球",
+      "摄影"
+    ],
+    "preferences": {
+      "favorite_products": [
+        51,
+        95,
+        99
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "xiuyingding",
+      "followers": 364,
+      "interests_score": {
+        "编程": 27.16,
+        "篮球": 10.68,
+        "摄影": 96.56
+      }
+    }
+  },
+  {
+    "user_id": 219,
+    "demographics": {
+      "age": 37,
+      "gender": "保密",
+      "city": "荆门"
+    },
+    "level": "银牌",
+    "hobbies": [
+      "篮球",
+      "音乐"
+    ],
+    "preferences": {
+      "favorite_products": [
+        70,
+        46
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "yixiulan",
+      "followers": 1219,
+      "interests_score": {
+        "篮球": 7.94,
+        "音乐": 69.03
+      }
+    }
+  },
+  {
+    "user_id": 362,
+    "demographics": {
+      "age": 68,
+      "gender": "男",
+      "city": "淮安"
+    },
+    "level": "铜牌",
+    "hobbies": [
+      "游戏",
+      "美食"
+    ],
+    "preferences": {
+      "favorite_products": [
+        27,
+        94
+      ],
+      "likes_ai": true
+    },
+    "social": {
+      "wechat": "pcheng",
+      "followers": 185,
+      "interests_score": {
+        "游戏": 98.32,
+        "美食": 57.09
+      }
+    }
+  },
+  {
+    "user_id": 479,
+    "demographics": {
+      "age": 54,
+      "gender": "女",
+      "city": "上海"
+    },
+    "level": "银牌",
+    "hobbies": [
+      "音乐",
+      "美食"
+    ],
+    "preferences": {
+      "favorite_products": [
+        85,
+        70
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "jing74",
+      "followers": 325,
+      "interests_score": {
+        "音乐": 70.98,
+        "美食": 42.65
+      }
+    }
+  },
+  {
+    "user_id": 515,
+    "demographics": {
+      "age": 41,
+      "gender": "女",
+      "city": "海口"
+    },
+    "level": "金牌",
+    "hobbies": [
+      "电影"
+    ],
+    "preferences": {
+      "favorite_products": [
+        90,
+        19,
+        43
+      ],
+      "likes_ai": true
+    },
+    "social": {
+      "wechat": "yanbai",
+      "followers": 1206,
+      "interests_score": {
+        "电影": 11.34
+      }
+    }
+  },
+  {
+    "user_id": 387,
+    "demographics": {
+      "age": 25,
+      "gender": "女",
+      "city": "梧州"
+    },
+    "level": "银牌",
+    "hobbies": [
+      "跑步"
+    ],
+    "preferences": {
+      "favorite_products": [
+        9,
+        5
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "ping11",
+      "followers": 848,
+      "interests_score": {
+        "跑步": 68.94
+      }
+    }
+  },
+  {
+    "user_id": 488,
+    "demographics": {
+      "age": 29,
+      "gender": "女",
+      "city": "柳州"
+    },
+    "level": "银牌",
+    "hobbies": [
+      "篮球",
+      "美食",
+      "电影"
+    ],
+    "preferences": {
+      "favorite_products": [
+        28,
+        20,
+        37
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "uyao",
+      "followers": 934,
+      "interests_score": {
+        "篮球": 54.87,
+        "美食": 31.08,
+        "电影": 21.19
+      }
+    }
+  },
+  {
+    "user_id": 76,
+    "demographics": {
+      "age": 25,
+      "gender": "男",
+      "city": "潜江"
+    },
+    "level": "铜牌",
+    "hobbies": [
+      "游戏",
+      "篮球",
+      "跑步"
+    ],
+    "preferences": {
+      "favorite_products": [
+        86,
+        68,
+        65
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "jie84",
+      "followers": 434,
+      "interests_score": {
+        "游戏": 89.52,
+        "篮球": 33.0,
+        "跑步": 76.92
+      }
+    }
+  },
+  {
+    "user_id": 141,
+    "demographics": {
+      "age": 32,
+      "gender": "女",
+      "city": "杭州"
+    },
+    "level": "金牌",
+    "hobbies": [
+      "摄影",
+      "阅读",
+      "跑步"
+    ],
+    "preferences": {
+      "favorite_products": [
+        80,
+        58
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "twu",
+      "followers": 1438,
+      "interests_score": {
+        "摄影": 79.62,
+        "阅读": 56.0,
+        "跑步": 88.1
+      }
+    }
+  },
+  {
+    "user_id": 231,
+    "demographics": {
+      "age": 59,
+      "gender": "男",
+      "city": "永安"
+    },
+    "level": "铜牌",
+    "hobbies": [
+      "旅游",
+      "电影"
+    ],
+    "preferences": {
+      "favorite_products": [
+        73,
+        92
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "shenjun",
+      "followers": 272,
+      "interests_score": {
+        "旅游": 90.28,
+        "电影": 20.47
+      }
+    }
+  },
+  {
+    "user_id": 919,
+    "demographics": {
+      "age": 69,
+      "gender": "女",
+      "city": "石家庄"
+    },
+    "level": "钻石",
+    "hobbies": [
+      "音乐"
+    ],
+    "preferences": {
+      "favorite_products": [
+        72,
+        6
+      ],
+      "likes_ai": true
+    },
+    "social": {
+      "wechat": "jduan",
+      "followers": 1202,
+      "interests_score": {
+        "音乐": 16.72
+      }
+    }
+  },
+  {
+    "user_id": 3,
+    "demographics": {
+      "age": 18,
+      "gender": "女",
+      "city": "邯郸"
+    },
+    "level": "铜牌",
+    "hobbies": [
+      "音乐"
+    ],
+    "preferences": {
+      "favorite_products": [
+        61
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "ewei",
+      "followers": 1366,
+      "interests_score": {
+        "音乐": 45.81
+      }
+    }
+  },
+  {
+    "user_id": 753,
+    "demographics": {
+      "age": 64,
+      "gender": "男",
+      "city": "天津"
+    },
+    "level": "金牌",
+    "hobbies": [
+      "跑步",
+      "游戏"
+    ],
+    "preferences": {
+      "favorite_products": [
+        42
+      ],
+      "likes_ai": true
+    },
+    "social": {
+      "wechat": "xia34",
+      "followers": 1750,
+      "interests_score": {
+        "跑步": 0.15,
+        "游戏": 78.23
+      }
+    }
+  },
+  {
+    "user_id": 854,
+    "demographics": {
+      "age": 49,
+      "gender": "男",
+      "city": "太原"
+    },
+    "level": "钻石",
+    "hobbies": [
+      "电影"
+    ],
+    "preferences": {
+      "favorite_products": [
+        89
+      ],
+      "likes_ai": true
+    },
+    "social": {
+      "wechat": "fuxiuying",
+      "followers": 248,
+      "interests_score": {
+        "电影": 74.4
+      }
+    }
+  },
+  {
+    "user_id": 153,
+    "demographics": {
+      "age": 24,
+      "gender": "男",
+      "city": "宁德"
+    },
+    "level": "金牌",
+    "hobbies": [
+      "编程",
+      "音乐"
+    ],
+    "preferences": {
+      "favorite_products": [
+        53,
+        26
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "chaoxiang",
+      "followers": 229,
+      "interests_score": {
+        "编程": 96.97,
+        "音乐": 27.21
+      }
+    }
+  },
+  {
+    "user_id": 90,
+    "demographics": {
+      "age": 21,
+      "gender": "女",
+      "city": "拉萨"
+    },
+    "level": "银牌",
+    "hobbies": [
+      "音乐",
+      "旅游"
+    ],
+    "preferences": {
+      "favorite_products": [
+        58,
+        39
+      ],
+      "likes_ai": true
+    },
+    "social": {
+      "wechat": "yongzhang",
+      "followers": 1691,
+      "interests_score": {
+        "音乐": 49.3,
+        "旅游": 36.52
+      }
+    }
+  },
+  {
+    "user_id": 190,
+    "demographics": {
+      "age": 57,
+      "gender": "女",
+      "city": "沈阳"
+    },
+    "level": "铜牌",
+    "hobbies": [
+      "摄影",
+      "阅读"
+    ],
+    "preferences": {
+      "favorite_products": [
+        19
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "liwan",
+      "followers": 1457,
+      "interests_score": {
+        "摄影": 74.08,
+        "阅读": 45.82
+      }
+    }
+  },
+  {
+    "user_id": 239,
+    "demographics": {
+      "age": 19,
+      "gender": "女",
+      "city": "郑州"
+    },
+    "level": "铜牌",
+    "hobbies": [
+      "跑步"
+    ],
+    "preferences": {
+      "favorite_products": [
+        50
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "fhan",
+      "followers": 749,
+      "interests_score": {
+        "跑步": 3.81
+      }
+    }
+  },
+  {
+    "user_id": 64,
+    "demographics": {
+      "age": 40,
+      "gender": "女",
+      "city": "阜新"
+    },
+    "level": "铜牌",
+    "hobbies": [
+      "美食",
+      "阅读"
+    ],
+    "preferences": {
+      "favorite_products": [
+        50,
+        39,
+        22
+      ],
+      "likes_ai": true
+    },
+    "social": {
+      "wechat": "fengmin",
+      "followers": 781,
+      "interests_score": {
+        "美食": 78.65,
+        "阅读": 7.67
+      }
+    }
+  },
+  {
+    "user_id": 43,
+    "demographics": {
+      "age": 44,
+      "gender": "男",
+      "city": "杭州"
+    },
+    "level": "银牌",
+    "hobbies": [
+      "游戏"
+    ],
+    "preferences": {
+      "favorite_products": [
+        42
+      ],
+      "likes_ai": true
+    },
+    "social": {
+      "wechat": "luwei",
+      "followers": 939,
+      "interests_score": {
+        "游戏": 76.56
+      }
+    }
+  },
+  {
+    "user_id": 416,
+    "demographics": {
+      "age": 62,
+      "gender": "男",
+      "city": "宜都"
+    },
+    "level": "铜牌",
+    "hobbies": [
+      "跑步",
+      "游戏",
+      "电影"
+    ],
+    "preferences": {
+      "favorite_products": [
+        65
+      ],
+      "likes_ai": true
+    },
+    "social": {
+      "wechat": "yangzheng",
+      "followers": 1996,
+      "interests_score": {
+        "跑步": 61.19,
+        "游戏": 5.77,
+        "电影": 3.53
+      }
+    }
+  },
+  {
+    "user_id": 453,
+    "demographics": {
+      "age": 43,
+      "gender": "女",
+      "city": "长春"
+    },
+    "level": "铜牌",
+    "hobbies": [
+      "编程"
+    ],
+    "preferences": {
+      "favorite_products": [
+        4
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "jie03",
+      "followers": 1253,
+      "interests_score": {
+        "编程": 34.23
+      }
+    }
+  },
+  {
+    "user_id": 143,
+    "demographics": {
+      "age": 22,
+      "gender": "男",
+      "city": "佛山"
+    },
+    "level": "铜牌",
+    "hobbies": [
+      "旅游",
+      "音乐",
+      "美食"
+    ],
+    "preferences": {
+      "favorite_products": [
+        91,
+        81,
+        9
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "yintao",
+      "followers": 544,
+      "interests_score": {
+        "旅游": 82.72,
+        "音乐": 33.41,
+        "美食": 16.08
+      }
+    }
+  },
+  {
+    "user_id": 503,
+    "demographics": {
+      "age": 48,
+      "gender": "女",
+      "city": "梧州"
+    },
+    "level": "银牌",
+    "hobbies": [
+      "阅读",
+      "摄影"
+    ],
+    "preferences": {
+      "favorite_products": [
+        17
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "ibai",
+      "followers": 1489,
+      "interests_score": {
+        "阅读": 76.35,
+        "摄影": 61.48
+      }
+    }
+  },
+  {
+    "user_id": 916,
+    "demographics": {
+      "age": 45,
+      "gender": "男",
+      "city": "潮州"
+    },
+    "level": "铜牌",
+    "hobbies": [
+      "摄影",
+      "美食"
+    ],
+    "preferences": {
+      "favorite_products": [
+        86,
+        94
+      ],
+      "likes_ai": true
+    },
+    "social": {
+      "wechat": "mengxiulan",
+      "followers": 1117,
+      "interests_score": {
+        "摄影": 43.6,
+        "美食": 90.92
+      }
+    }
+  },
+  {
+    "user_id": 914,
+    "demographics": {
+      "age": 59,
+      "gender": "男",
+      "city": "大冶"
+    },
+    "level": "银牌",
+    "hobbies": [
+      "摄影",
+      "编程",
+      "跑步"
+    ],
+    "preferences": {
+      "favorite_products": [
+        16
+      ],
+      "likes_ai": true
+    },
+    "social": {
+      "wechat": "liwen",
+      "followers": 558,
+      "interests_score": {
+        "摄影": 25.51,
+        "编程": 82.27,
+        "跑步": 80.56
+      }
+    }
+  },
+  {
+    "user_id": 969,
+    "demographics": {
+      "age": 43,
+      "gender": "女",
+      "city": "北京"
+    },
+    "level": "金牌",
+    "hobbies": [
+      "编程"
+    ],
+    "preferences": {
+      "favorite_products": [
+        69,
+        77,
+        42
+      ],
+      "likes_ai": true
+    },
+    "social": {
+      "wechat": "hma",
+      "followers": 947,
+      "interests_score": {
+        "编程": 67.03
+      }
+    }
+  },
+  {
+    "user_id": 269,
+    "demographics": {
+      "age": 26,
+      "gender": "男",
+      "city": "西宁"
+    },
+    "level": "银牌",
+    "hobbies": [
+      "美食"
+    ],
+    "preferences": {
+      "favorite_products": [
+        51,
+        50,
+        96
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "xhuang",
+      "followers": 130,
+      "interests_score": {
+        "美食": 96.96
+      }
+    }
+  },
+  {
+    "user_id": 425,
+    "demographics": {
+      "age": 58,
+      "gender": "女",
+      "city": "永安"
+    },
+    "level": "金牌",
+    "hobbies": [
+      "阅读",
+      "篮球"
+    ],
+    "preferences": {
+      "favorite_products": [
+        69,
+        73,
+        14
+      ],
+      "likes_ai": true
+    },
+    "social": {
+      "wechat": "taochang",
+      "followers": 1927,
+      "interests_score": {
+        "阅读": 81.14,
+        "篮球": 16.84
+      }
+    }
+  },
+  {
+    "user_id": 583,
+    "demographics": {
+      "age": 22,
+      "gender": "保密",
+      "city": "兴城"
+    },
+    "level": "铜牌",
+    "hobbies": [
+      "篮球"
+    ],
+    "preferences": {
+      "favorite_products": [
+        70
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "lfan",
+      "followers": 382,
+      "interests_score": {
+        "篮球": 76.39
+      }
+    }
+  },
+  {
+    "user_id": 196,
+    "demographics": {
+      "age": 51,
+      "gender": "男",
+      "city": "荆门"
+    },
+    "level": "钻石",
+    "hobbies": [
+      "编程"
+    ],
+    "preferences": {
+      "favorite_products": [
+        36,
+        2,
+        32
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "xiahan",
+      "followers": 472,
+      "interests_score": {
+        "编程": 80.63
+      }
+    }
+  },
+  {
+    "user_id": 839,
+    "demographics": {
+      "age": 32,
+      "gender": "女",
+      "city": "巢湖"
+    },
+    "level": "铜牌",
+    "hobbies": [
+      "编程"
+    ],
+    "preferences": {
+      "favorite_products": [
+        4
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "yding",
+      "followers": 1266,
+      "interests_score": {
+        "编程": 19.84
+      }
+    }
+  },
+  {
+    "user_id": 345,
+    "demographics": {
+      "age": 42,
+      "gender": "男",
+      "city": "深圳"
+    },
+    "level": "银牌",
+    "hobbies": [
+      "阅读",
+      "电影"
+    ],
+    "preferences": {
+      "favorite_products": [
+        6,
+        65
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "otao",
+      "followers": 1593,
+      "interests_score": {
+        "阅读": 36.1,
+        "电影": 56.22
+      }
+    }
+  },
+  {
+    "user_id": 628,
+    "demographics": {
+      "age": 68,
+      "gender": "女",
+      "city": "南宁"
+    },
+    "level": "钻石",
+    "hobbies": [
+      "篮球",
+      "电影",
+      "音乐"
+    ],
+    "preferences": {
+      "favorite_products": [
+        80,
+        18
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "pingcao",
+      "followers": 380,
+      "interests_score": {
+        "篮球": 77.09,
+        "电影": 78.37,
+        "音乐": 90.58
+      }
+    }
+  },
+  {
+    "user_id": 598,
+    "demographics": {
+      "age": 19,
+      "gender": "男",
+      "city": "兴安盟"
+    },
+    "level": "金牌",
+    "hobbies": [
+      "摄影"
+    ],
+    "preferences": {
+      "favorite_products": [
+        78,
+        83
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "guyan",
+      "followers": 158,
+      "interests_score": {
+        "摄影": 58.56
+      }
+    }
+  },
+  {
+    "user_id": 154,
+    "demographics": {
+      "age": 41,
+      "gender": "女",
+      "city": "合肥"
+    },
+    "level": "金牌",
+    "hobbies": [
+      "阅读",
+      "游戏"
+    ],
+    "preferences": {
+      "favorite_products": [
+        8
+      ],
+      "likes_ai": true
+    },
+    "social": {
+      "wechat": "jun85",
+      "followers": 700,
+      "interests_score": {
+        "阅读": 83.31,
+        "游戏": 80.29
+      }
+    }
+  },
+  {
+    "user_id": 767,
+    "demographics": {
+      "age": 19,
+      "gender": "男",
+      "city": "合肥"
+    },
+    "level": "银牌",
+    "hobbies": [
+      "电影",
+      "音乐"
+    ],
+    "preferences": {
+      "favorite_products": [
+        81,
+        14,
+        36
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "ping05",
+      "followers": 1256,
+      "interests_score": {
+        "电影": 33.33,
+        "音乐": 16.22
+      }
+    }
+  },
+  {
+    "user_id": 475,
+    "demographics": {
+      "age": 21,
+      "gender": "男",
+      "city": "嘉禾"
+    },
+    "level": "铜牌",
+    "hobbies": [
+      "游戏"
+    ],
+    "preferences": {
+      "favorite_products": [
+        55,
+        65
+      ],
+      "likes_ai": true
+    },
+    "social": {
+      "wechat": "laitao",
+      "followers": 1078,
+      "interests_score": {
+        "游戏": 76.47
+      }
+    }
+  },
+  {
+    "user_id": 45,
+    "demographics": {
+      "age": 25,
+      "gender": "男",
+      "city": "广州"
+    },
+    "level": "金牌",
+    "hobbies": [
+      "篮球"
+    ],
+    "preferences": {
+      "favorite_products": [
+        64
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "txia",
+      "followers": 1335,
+      "interests_score": {
+        "篮球": 9.9
+      }
+    }
+  },
+  {
+    "user_id": 495,
+    "demographics": {
+      "age": 51,
+      "gender": "男",
+      "city": "兰州"
+    },
+    "level": "铜牌",
+    "hobbies": [
+      "音乐",
+      "游戏",
+      "电影"
+    ],
+    "preferences": {
+      "favorite_products": [
+        27
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "nsun",
+      "followers": 1742,
+      "interests_score": {
+        "音乐": 60.02,
+        "游戏": 54.89,
+        "电影": 24.24
+      }
+    }
+  },
+  {
+    "user_id": 876,
+    "demographics": {
+      "age": 44,
+      "gender": "男",
+      "city": "惠州"
+    },
+    "level": "铜牌",
+    "hobbies": [
+      "跑步",
+      "电影"
+    ],
+    "preferences": {
+      "favorite_products": [
+        33
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "xueyong",
+      "followers": 726,
+      "interests_score": {
+        "跑步": 70.44,
+        "电影": 24.4
+      }
+    }
+  },
+  {
+    "user_id": 957,
+    "demographics": {
+      "age": 49,
+      "gender": "女",
+      "city": "潜江"
+    },
+    "level": "铜牌",
+    "hobbies": [
+      "电影"
+    ],
+    "preferences": {
+      "favorite_products": [
+        46
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "xialiao",
+      "followers": 1977,
+      "interests_score": {
+        "电影": 6.32
+      }
+    }
+  },
+  {
+    "user_id": 21,
+    "demographics": {
+      "age": 46,
+      "gender": "男",
+      "city": "武汉"
+    },
+    "level": "钻石",
+    "hobbies": [
+      "旅游",
+      "美食"
+    ],
+    "preferences": {
+      "favorite_products": [
+        30,
+        44,
+        48
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "ping38",
+      "followers": 1169,
+      "interests_score": {
+        "旅游": 90.84,
+        "美食": 68.36
+      }
+    }
+  },
+  {
+    "user_id": 860,
+    "demographics": {
+      "age": 69,
+      "gender": "男",
+      "city": "南昌"
+    },
+    "level": "铜牌",
+    "hobbies": [
+      "电影"
+    ],
+    "preferences": {
+      "favorite_products": [
+        86,
+        58,
+        57
+      ],
+      "likes_ai": true
+    },
+    "social": {
+      "wechat": "renfang",
+      "followers": 725,
+      "interests_score": {
+        "电影": 30.66
+      }
+    }
+  },
+  {
+    "user_id": 881,
+    "demographics": {
+      "age": 50,
+      "gender": "女",
+      "city": "长春"
+    },
+    "level": "铜牌",
+    "hobbies": [
+      "游戏",
+      "跑步",
+      "摄影"
+    ],
+    "preferences": {
+      "favorite_products": [
+        84,
+        61,
+        54
+      ],
+      "likes_ai": true
+    },
+    "social": {
+      "wechat": "fang84",
+      "followers": 562,
+      "interests_score": {
+        "游戏": 89.36,
+        "跑步": 40.08,
+        "摄影": 15.39
+      }
+    }
+  },
+  {
+    "user_id": 694,
+    "demographics": {
+      "age": 25,
+      "gender": "男",
+      "city": "济南"
+    },
+    "level": "银牌",
+    "hobbies": [
+      "美食",
+      "游戏",
+      "摄影"
+    ],
+    "preferences": {
+      "favorite_products": [
+        33,
+        18
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "ixiao",
+      "followers": 1829,
+      "interests_score": {
+        "美食": 42.39,
+        "游戏": 36.4,
+        "摄影": 43.59
+      }
+    }
+  },
+  {
+    "user_id": 657,
+    "demographics": {
+      "age": 27,
+      "gender": "男",
+      "city": "成都"
+    },
+    "level": "银牌",
+    "hobbies": [
+      "音乐",
+      "篮球"
+    ],
+    "preferences": {
+      "favorite_products": [
+        54,
+        50
+      ],
+      "likes_ai": true
+    },
+    "social": {
+      "wechat": "jshao",
+      "followers": 1996,
+      "interests_score": {
+        "音乐": 90.66,
+        "篮球": 44.85
+      }
+    }
+  },
+  {
+    "user_id": 398,
+    "demographics": {
+      "age": 22,
+      "gender": "男",
+      "city": "香港"
+    },
+    "level": "铜牌",
+    "hobbies": [
+      "音乐"
+    ],
+    "preferences": {
+      "favorite_products": [
+        44,
+        65,
+        37
+      ],
+      "likes_ai": true
+    },
+    "social": {
+      "wechat": "fang18",
+      "followers": 863,
+      "interests_score": {
+        "音乐": 39.05
+      }
+    }
+  },
+  {
+    "user_id": 902,
+    "demographics": {
+      "age": 20,
+      "gender": "男",
+      "city": "石家庄"
+    },
+    "level": "银牌",
+    "hobbies": [
+      "编程",
+      "电影",
+      "跑步"
+    ],
+    "preferences": {
+      "favorite_products": [
+        55,
+        16,
+        20
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "daixiulan",
+      "followers": 1052,
+      "interests_score": {
+        "编程": 12.95,
+        "电影": 74.17,
+        "跑步": 59.94
+      }
+    }
+  },
+  {
+    "user_id": 316,
+    "demographics": {
+      "age": 48,
+      "gender": "女",
+      "city": "太原"
+    },
+    "level": "银牌",
+    "hobbies": [
+      "编程",
+      "摄影",
+      "旅游"
+    ],
+    "preferences": {
+      "favorite_products": [
+        39,
+        38,
+        52
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "longxiulan",
+      "followers": 1006,
+      "interests_score": {
+        "编程": 18.21,
+        "摄影": 78.99,
+        "旅游": 9.14
+      }
+    }
+  },
+  {
+    "user_id": 439,
+    "demographics": {
+      "age": 21,
+      "gender": "保密",
+      "city": "北京"
+    },
+    "level": "金牌",
+    "hobbies": [
+      "电影"
+    ],
+    "preferences": {
+      "favorite_products": [
+        4,
+        92,
+        57
+      ],
+      "likes_ai": true
+    },
+    "social": {
+      "wechat": "jun19",
+      "followers": 1798,
+      "interests_score": {
+        "电影": 46.78
+      }
+    }
+  },
+  {
+    "user_id": 469,
+    "demographics": {
+      "age": 52,
+      "gender": "女",
+      "city": "东莞"
+    },
+    "level": "铜牌",
+    "hobbies": [
+      "电影"
+    ],
+    "preferences": {
+      "favorite_products": [
+        84
+      ],
+      "likes_ai": true
+    },
+    "social": {
+      "wechat": "baixiulan",
+      "followers": 1186,
+      "interests_score": {
+        "电影": 64.69
+      }
+    }
+  },
+  {
+    "user_id": 793,
+    "demographics": {
+      "age": 55,
+      "gender": "女",
+      "city": "郑州"
+    },
+    "level": "银牌",
+    "hobbies": [
+      "电影",
+      "旅游",
+      "跑步"
+    ],
+    "preferences": {
+      "favorite_products": [
+        72,
+        22,
+        17
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "gqin",
+      "followers": 1394,
+      "interests_score": {
+        "电影": 1.25,
+        "旅游": 14.64,
+        "跑步": 79.64
+      }
+    }
+  },
+  {
+    "user_id": 183,
+    "demographics": {
+      "age": 45,
+      "gender": "男",
+      "city": "银川"
+    },
+    "level": "金牌",
+    "hobbies": [
+      "电影",
+      "阅读"
+    ],
+    "preferences": {
+      "favorite_products": [
+        63,
+        74,
+        79
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "vlai",
+      "followers": 1556,
+      "interests_score": {
+        "电影": 56.69,
+        "阅读": 11.83
+      }
+    }
+  },
+  {
+    "user_id": 728,
+    "demographics": {
+      "age": 23,
+      "gender": "女",
+      "city": "台北"
+    },
+    "level": "银牌",
+    "hobbies": [
+      "电影"
+    ],
+    "preferences": {
+      "favorite_products": [
+        22,
+        8,
+        80
+      ],
+      "likes_ai": true
+    },
+    "social": {
+      "wechat": "yankong",
+      "followers": 1647,
+      "interests_score": {
+        "电影": 64.87
+      }
+    }
+  },
+  {
+    "user_id": 752,
+    "demographics": {
+      "age": 43,
+      "gender": "男",
+      "city": "福州"
+    },
+    "level": "钻石",
+    "hobbies": [
+      "电影",
+      "摄影"
+    ],
+    "preferences": {
+      "favorite_products": [
+        31,
+        46,
+        55
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "tangxia",
+      "followers": 726,
+      "interests_score": {
+        "电影": 80.14,
+        "摄影": 59.92
+      }
+    }
+  },
+  {
+    "user_id": 762,
+    "demographics": {
+      "age": 47,
+      "gender": "男",
+      "city": "淮安"
+    },
+    "level": "银牌",
+    "hobbies": [
+      "旅游",
+      "音乐",
+      "编程"
+    ],
+    "preferences": {
+      "favorite_products": [
+        82,
+        45,
+        66
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "xia67",
+      "followers": 998,
+      "interests_score": {
+        "旅游": 74.21,
+        "音乐": 95.3,
+        "编程": 21.85
+      }
+    }
+  },
+  {
+    "user_id": 376,
+    "demographics": {
+      "age": 65,
+      "gender": "女",
+      "city": "沈阳"
+    },
+    "level": "银牌",
+    "hobbies": [
+      "音乐"
+    ],
+    "preferences": {
+      "favorite_products": [
+        64
+      ],
+      "likes_ai": true
+    },
+    "social": {
+      "wechat": "ffeng",
+      "followers": 1447,
+      "interests_score": {
+        "音乐": 46.98
+      }
+    }
+  },
+  {
+    "user_id": 723,
+    "demographics": {
+      "age": 21,
+      "gender": "男",
+      "city": "南昌"
+    },
+    "level": "铜牌",
+    "hobbies": [
+      "美食",
+      "阅读"
+    ],
+    "preferences": {
+      "favorite_products": [
+        64
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "gang75",
+      "followers": 1744,
+      "interests_score": {
+        "美食": 98.83,
+        "阅读": 68.27
+      }
+    }
+  },
+  {
+    "user_id": 80,
+    "demographics": {
+      "age": 45,
+      "gender": "女",
+      "city": "兰州"
+    },
+    "level": "金牌",
+    "hobbies": [
+      "旅游"
+    ],
+    "preferences": {
+      "favorite_products": [
+        29,
+        62,
+        12
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "lwei",
+      "followers": 400,
+      "interests_score": {
+        "旅游": 21.27
+      }
+    }
+  },
+  {
+    "user_id": 20,
+    "demographics": {
+      "age": 29,
+      "gender": "男",
+      "city": "佛山"
+    },
+    "level": "金牌",
+    "hobbies": [
+      "跑步",
+      "旅游",
+      "美食"
+    ],
+    "preferences": {
+      "favorite_products": [
+        24,
+        22
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "guiyingliu",
+      "followers": 783,
+      "interests_score": {
+        "跑步": 34.06,
+        "旅游": 32.84,
+        "美食": 78.81
+      }
+    }
+  },
+  {
+    "user_id": 786,
+    "demographics": {
+      "age": 20,
+      "gender": "女",
+      "city": "深圳"
+    },
+    "level": "银牌",
+    "hobbies": [
+      "跑步",
+      "电影"
+    ],
+    "preferences": {
+      "favorite_products": [
+        27,
+        32
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "eyang",
+      "followers": 1768,
+      "interests_score": {
+        "跑步": 79.61,
+        "电影": 24.67
+      }
+    }
+  },
+  {
+    "user_id": 785,
+    "demographics": {
+      "age": 23,
+      "gender": "男",
+      "city": "东莞"
+    },
+    "level": "银牌",
+    "hobbies": [
+      "篮球",
+      "摄影"
+    ],
+    "preferences": {
+      "favorite_products": [
+        21,
+        16,
+        100
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "yong22",
+      "followers": 1889,
+      "interests_score": {
+        "篮球": 35.02,
+        "摄影": 45.98
+      }
+    }
+  },
+  {
+    "user_id": 923,
+    "demographics": {
+      "age": 63,
+      "gender": "女",
+      "city": "哈尔滨"
+    },
+    "level": "金牌",
+    "hobbies": [
+      "电影"
+    ],
+    "preferences": {
+      "favorite_products": [
+        45,
+        4
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "ckang",
+      "followers": 642,
+      "interests_score": {
+        "电影": 41.43
+      }
+    }
+  },
+  {
+    "user_id": 300,
+    "demographics": {
+      "age": 30,
+      "gender": "男",
+      "city": "通辽"
+    },
+    "level": "钻石",
+    "hobbies": [
+      "音乐"
+    ],
+    "preferences": {
+      "favorite_products": [
+        65
+      ],
+      "likes_ai": true
+    },
+    "social": {
+      "wechat": "gzeng",
+      "followers": 931,
+      "interests_score": {
+        "音乐": 40.48
+      }
+    }
+  },
+  {
+    "user_id": 656,
+    "demographics": {
+      "age": 27,
+      "gender": "男",
+      "city": "太原"
+    },
+    "level": "铜牌",
+    "hobbies": [
+      "编程",
+      "阅读"
+    ],
+    "preferences": {
+      "favorite_products": [
+        37,
+        100
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "slu",
+      "followers": 643,
+      "interests_score": {
+        "编程": 23.72,
+        "阅读": 77.59
+      }
+    }
+  },
+  {
+    "user_id": 33,
+    "demographics": {
+      "age": 40,
+      "gender": "男",
+      "city": "北镇"
+    },
+    "level": "银牌",
+    "hobbies": [
+      "编程"
+    ],
+    "preferences": {
+      "favorite_products": [
+        53
+      ],
+      "likes_ai": true
+    },
+    "social": {
+      "wechat": "yan41",
+      "followers": 1426,
+      "interests_score": {
+        "编程": 22.51
+      }
+    }
+  },
+  {
+    "user_id": 564,
+    "demographics": {
+      "age": 64,
+      "gender": "女",
+      "city": "武汉"
+    },
+    "level": "银牌",
+    "hobbies": [
+      "游戏",
+      "电影"
+    ],
+    "preferences": {
+      "favorite_products": [
+        88,
+        89,
+        37
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "gangtan",
+      "followers": 1932,
+      "interests_score": {
+        "游戏": 26.03,
+        "电影": 55.25
+      }
+    }
+  },
+  {
+    "user_id": 455,
+    "demographics": {
+      "age": 47,
+      "gender": "女",
+      "city": "合山"
+    },
+    "level": "钻石",
+    "hobbies": [
+      "游戏",
+      "篮球",
+      "旅游"
+    ],
+    "preferences": {
+      "favorite_products": [
+        81
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "xiangna",
+      "followers": 1680,
+      "interests_score": {
+        "游戏": 83.97,
+        "篮球": 26.29,
+        "旅游": 49.4
+      }
+    }
+  },
+  {
+    "user_id": 755,
+    "demographics": {
+      "age": 69,
+      "gender": "女",
+      "city": "昆明"
+    },
+    "level": "钻石",
+    "hobbies": [
+      "阅读",
+      "篮球",
+      "旅游"
+    ],
+    "preferences": {
+      "favorite_products": [
+        45,
+        90
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "leiqiang",
+      "followers": 1500,
+      "interests_score": {
+        "阅读": 20.41,
+        "篮球": 66.78,
+        "旅游": 31.7
+      }
+    }
+  },
+  {
+    "user_id": 39,
+    "demographics": {
+      "age": 38,
+      "gender": "女",
+      "city": "辽阳"
+    },
+    "level": "钻石",
+    "hobbies": [
+      "游戏"
+    ],
+    "preferences": {
+      "favorite_products": [
+        1,
+        22
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "qiang96",
+      "followers": 1806,
+      "interests_score": {
+        "游戏": 38.08
+      }
+    }
+  },
+  {
+    "user_id": 71,
+    "demographics": {
+      "age": 19,
+      "gender": "男",
+      "city": "石家庄"
+    },
+    "level": "铜牌",
+    "hobbies": [
+      "摄影"
+    ],
+    "preferences": {
+      "favorite_products": [
+        43
+      ],
+      "likes_ai": true
+    },
+    "social": {
+      "wechat": "jliao",
+      "followers": 1473,
+      "interests_score": {
+        "摄影": 8.04
+      }
+    }
+  },
+  {
+    "user_id": 999,
+    "demographics": {
+      "age": 68,
+      "gender": "女",
+      "city": "六安"
+    },
+    "level": "银牌",
+    "hobbies": [
+      "美食",
+      "音乐",
+      "游戏"
+    ],
+    "preferences": {
+      "favorite_products": [
+        91,
+        85
+      ],
+      "likes_ai": true
+    },
+    "social": {
+      "wechat": "yaojie",
+      "followers": 216,
+      "interests_score": {
+        "美食": 88.61,
+        "音乐": 99.73,
+        "游戏": 81.35
+      }
+    }
+  },
+  {
+    "user_id": 258,
+    "demographics": {
+      "age": 29,
+      "gender": "女",
+      "city": "香港"
+    },
+    "level": "铜牌",
+    "hobbies": [
+      "跑步",
+      "美食"
+    ],
+    "preferences": {
+      "favorite_products": [
+        82,
+        41
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "naxue",
+      "followers": 523,
+      "interests_score": {
+        "跑步": 17.48,
+        "美食": 99.49
+      }
+    }
+  },
+  {
+    "user_id": 435,
+    "demographics": {
+      "age": 49,
+      "gender": "女",
+      "city": "济南"
+    },
+    "level": "银牌",
+    "hobbies": [
+      "音乐",
+      "编程",
+      "摄影"
+    ],
+    "preferences": {
+      "favorite_products": [
+        65
+      ],
+      "likes_ai": false
+    },
+    "social": {
+      "wechat": "xiuyingxue",
+      "followers": 1026,
+      "interests_score": {
+        "音乐": 4.64,
+        "编程": 2.84,
+        "摄影": 71.08
+      }
+    }
+  },
+  {
+    "user_id": 156,
+    "demographics": {
+      "age": 31,
+      "gender": "女",
+      "city": "南京"
+    },
+    "level": "铜牌",
+    "hobbies": [
+      "音乐",
+      "阅读"
+    ],
+    "preferences": {
+      "favorite_products": [
+        57
+      ],
+      "likes_ai": true
+    },
+    "social": {
+      "wechat": "lkang",
+      "followers": 1342,
+      "interests_score": {
+        "音乐": 18.06,
+        "阅读": 68.37
+      }
+    }
+  }
+]

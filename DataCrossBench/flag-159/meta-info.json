@@ -1,0 +1,20 @@
+{
+    "goal": "评估学而思网校MAU增长158%的原因及其对整体收入增长的影响。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: FY2025-FY2028 Non-GAAP归母净利润CAGR为45%，显示出强劲的增长潜力。",
+        "Comparison: 好未来的FY2025学习服务和其他业务收入为15.4亿美元，同比增长46%，与整体收入增长趋势一致。",
+        "Extreme: 截至2021年2月底，公司正价长期课程的季度平均入学人次达到约470万，显示出双减前的高峰。",
+        "Attribution: 学而思素养和学习机是主要增长驱动，预计未来收入将持续增长。"
+    ],
+    "summary": "好未来在响应国家双减政策后，成功转型为素质教育和教育科技，预计未来收入和净利润将持续增长，尤其是学习服务和智能教育硬件的推动下。",
+    "flag_id": "flag-159",
+    "classifier": "Internet Firms",
+    "classifier_cn": "互联网公司研究",
+    "input_files": [
+        "output/business_background.txt",
+        "output/enrollment_details.json",
+        "output/financial_performance.csv",
+        "output/growth_drivers.db"
+    ]
+}

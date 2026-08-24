@@ -1,0 +1,20 @@
+{
+    "goal": "分析北京在微短剧产业中领先地位的原因，包括政治、文化中心的影响及资源和人才储备。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 2025年中国微短剧产业综合实力城市排名显示，北京以91.7分领跑，郑州和西安分别以86.9分和86.6分紧随其后，显示出北京在微短剧产业的持续优势。",
+        "Comparison: 北京在微短剧出海实力方面占据全国50%以上的市场份额，深圳和杭州分别排名第二和第三，显示出三座城市在出海能力上的明显差异。",
+        "Extreme: 北京的综合得分91.7分是所有城市中最高的，显示出其在微短剧产业中的绝对领先地位。",
+        "Attribution: 北京的领先地位得益于其作为全国政治、文化中心的地位，以及强大的资源和人才储备。"
+    ],
+    "summary": "本报告分析了2025年中国微短剧产业在不同城市的表现，揭示了北京在综合实力、出海能力和制作实力方面的领先地位，同时指出郑州和西安在制作实力上的并列第一。",
+    "flag_id": "flag-61",
+    "classifier": "Short-form Drama",
+    "classifier_cn": "短剧/微短剧内容",
+    "input_files": [
+        "output/background.txt",
+        "output/city_profiles.json",
+        "output/dimension_data.db",
+        "output/industry_facts.csv"
+    ]
+}

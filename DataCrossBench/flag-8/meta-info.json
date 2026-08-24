@@ -1,0 +1,20 @@
+{
+    "goal": "分析数字普惠金融在过去十年中取得显著进展的具体因素。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 数字普惠金融在过去十年中取得显著进展，尤其是在数字化转型方面，银行卡渗透率从2009年的32%上升至2021年的49.2%。",
+        "Comparison: 数字普惠金融的使用深度不断提高，表现为人均持卡数从2010年的1.81张增长到2022年的6.71张，显示出用户对数字金融服务的依赖加深。",
+        "Extreme: 截至2023年6月，全国共开立单位银行账户9771.34万户，环比增加2.67%，显示出数字普惠金融的快速扩展。",
+        "Attribution: 随着金融行业数字化转型的深入，数字技术在解决普惠金融领域的痛点和难点，取得了显著进展，推动了金融服务的普及。"
+    ],
+    "summary": "本报告探讨了金融科技在数字普惠金融中的应用与发展，强调了技术融合与创新对提升服务效率的重要性。",
+    "flag_id": "flag-8",
+    "classifier": "FinTech",
+    "classifier_cn": "金融科技",
+    "input_files": [
+        "output/background.txt",
+        "output/digital_inclusive_finance_progress.csv",
+        "output/dimension_data.db",
+        "output/user_profiles.json"
+    ]
+}

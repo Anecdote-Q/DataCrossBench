@@ -1,0 +1,20 @@
+{
+    "goal": "分析红果短剧平台用户增长的主要驱动因素，特别是与抖音流量池的关系。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 2023年1月至2023年12月，红果短剧月活用户（MAU）从32万增长3040.6%至1005万用户，2024年9月MAU预计达到1.2亿，同比增长1045.9%。",
+        "Comparison: 红果短剧的月活用户已超过5000万，显示出其在短剧市场中的竞争力，远超其他平台如爱奇艺和腾讯视频。",
+        "Extreme: 2024年6月单月总分账过1亿，2024年9月分账持续超过2亿，显示出红果短剧在盈利能力上的显著提升。",
+        "Attribution: 红果短剧的成功与其背靠抖音的流量池、丰富的内容储备以及采取的免费制盈利模式密切相关。"
+    ],
+    "summary": "红果短剧平台自2023年推出以来，凭借强大的流量支持和多样化的盈利模式，实现了用户和收益的双重增长，预计未来市场规模将持续扩大。",
+    "flag_id": "flag-123",
+    "classifier": "Short-form Drama",
+    "classifier_cn": "短剧/微短剧内容",
+    "input_files": [
+        "output/business_background.txt",
+        "output/dimension_data.db",
+        "output/monthly_active_users.csv",
+        "output/platform_comparison.json"
+    ]
+}

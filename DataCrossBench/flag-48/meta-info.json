@@ -1,0 +1,20 @@
+{
+    "goal": "比较2023年国有六大行在金融科技方面的投入与2022年A股市场成交额的增长情况。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 预计2024年9月下旬政策释放后，市场活跃度明显提升，A股市场成交额在2024年9月24-30日达73696亿元，10月8日单日成交额突破34835亿元。",
+        "Comparison: 2024年9月的A股成交额与2022年相比增长显著，2022年A股市场成交额为212万亿元，较2014年增长188%。",
+        "Extreme: 2022年，中国保险业IT解决方案市场规模达到107.6亿元，增长6.3%。",
+        "Attribution: 市场景气度和流动性改善将推动2C券商IT整体收入水平的提高，因政策的支持，股市资金面直接利好。"
+    ],
+    "summary": "本报告分析了金融科技的发展历程、市场情绪及政策支持对行业的影响，揭示了未来投资趋势和风险提示。",
+    "flag_id": "flag-48",
+    "classifier": "FinTech",
+    "classifier_cn": "金融科技",
+    "input_files": [
+        "output/business_background.txt",
+        "output/dimension_data.db",
+        "output/transactions_fact.csv",
+        "output/user_profiles.json"
+    ]
+}

@@ -1,0 +1,1902 @@
+[
+  {
+    "profile_id": 1,
+    "stock_code": "00000177",
+    "company_name": "比亚迪",
+    "preferences": {
+      "investment_focus": "半导体",
+      "risk_tolerance": "中",
+      "active_investor": true
+    },
+    "history_scores": [
+      84.93912433019503,
+      84.09233272905715,
+      82.74819603070878,
+      83.20996757292264,
+      86.78022500929772,
+      80.89213311974608,
+      86.62500129472888
+    ]
+  },
+  {
+    "profile_id": 2,
+    "stock_code": "00006351",
+    "company_name": "比亚迪",
+    "preferences": {
+      "investment_focus": "科技创新",
+      "risk_tolerance": "中",
+      "active_investor": false
+    },
+    "history_scores": [
+      83.98797761115885,
+      84.4199334840682,
+      79.82414875843257,
+      85.21243163843191,
+      79.63648247645654,
+      null,
+      88.22775667221958
+    ]
+  },
+  {
+    "profile_id": 3,
+    "stock_code": "00000122",
+    "company_name": "百度",
+    "preferences": {
+      "investment_focus": "科技创新",
+      "risk_tolerance": "中",
+      "active_investor": false
+    },
+    "history_scores": [
+      72.51701360759317,
+      65.81007736371505,
+      null,
+      70.56261503999501,
+      75.0420257647198,
+      71.70090752970435,
+      66.85634952018923
+    ]
+  },
+  {
+    "profile_id": 4,
+    "stock_code": "00006319",
+    "company_name": "百度",
+    "preferences": {
+      "investment_focus": "科技创新",
+      "risk_tolerance": "低",
+      "active_investor": false
+    },
+    "history_scores": [
+      61.55169195163058,
+      66.12173062877541,
+      65.9906916478137,
+      66.82365644473258,
+      67.36284546239433,
+      null,
+      60.2477986316213
+    ]
+  },
+  {
+    "profile_id": 5,
+    "stock_code": "30005951",
+    "company_name": "科大讯飞",
+    "preferences": {
+      "investment_focus": "智能制造",
+      "risk_tolerance": "低",
+      "active_investor": true
+    },
+    "history_scores": [
+      75.1382471608652,
+      79.24651277647983,
+      80.2143399989802,
+      80.69319182609445,
+      81.58932144170498,
+      null,
+      79.65683173345994
+    ]
+  },
+  {
+    "profile_id": 6,
+    "stock_code": "60113829",
+    "company_name": "小米",
+    "preferences": {
+      "investment_focus": "新能源",
+      "risk_tolerance": "中",
+      "active_investor": true
+    },
+    "history_scores": [
+      104.73273106192684,
+      99.21795277762328,
+      104.54718315098229,
+      null,
+      108.57813337074691,
+      99.21519934894671,
+      106.46463868284816
+    ]
+  },
+  {
+    "profile_id": 7,
+    "stock_code": "60113855",
+    "company_name": "美的",
+    "preferences": {
+      "investment_focus": "科技创新",
+      "risk_tolerance": "低",
+      "active_investor": false
+    },
+    "history_scores": [
+      65.39663560598487,
+      67.12780590310228,
+      65.45155166994265,
+      71.42045775312621,
+      67.70831658396075,
+      66.06523005850354,
+      71.68437631299764
+    ]
+  },
+  {
+    "profile_id": 8,
+    "stock_code": "00000261",
+    "company_name": "深信服",
+    "preferences": {
+      "investment_focus": "科技创新",
+      "risk_tolerance": "高",
+      "active_investor": true
+    },
+    "history_scores": [
+      71.05301422974397,
+      72.55444864495634,
+      69.46291249975201,
+      75.4544963978492,
+      67.87526935082357,
+      69.91695607818639,
+      75.15343647258446
+    ]
+  },
+  {
+    "profile_id": 9,
+    "stock_code": "00000149",
+    "company_name": "海尔",
+    "preferences": {
+      "investment_focus": "新能源",
+      "risk_tolerance": "高",
+      "active_investor": true
+    },
+    "history_scores": [
+      86.5573486863228,
+      82.30683765087919,
+      84.26414095326362,
+      80.71731325808456,
+      null,
+      86.99706964854985,
+      86.12680342896812
+    ]
+  },
+  {
+    "profile_id": 10,
+    "stock_code": "60003663",
+    "company_name": "阿里巴巴",
+    "preferences": {
+      "investment_focus": "新能源",
+      "risk_tolerance": "低",
+      "active_investor": true
+    },
+    "history_scores": [
+      67.3846676172555,
+      66.97238550682788,
+      66.68656529196444,
+      64.16767465320207,
+      68.75676511981413,
+      68.54063690951851,
+      66.34436573264983
+    ]
+  },
+  {
+    "profile_id": 11,
+    "stock_code": "00000297",
+    "company_name": "京东",
+    "preferences": {
+      "investment_focus": "科技创新",
+      "risk_tolerance": "低",
+      "active_investor": false
+    },
+    "history_scores": [
+      89.8444995093197,
+      86.16193721748262,
+      88.4710901546054,
+      87.4167215723164,
+      88.55861794937276,
+      94.08111881526078,
+      87.3368519015497
+    ]
+  },
+  {
+    "profile_id": 12,
+    "stock_code": "00241514",
+    "company_name": "百度",
+    "preferences": {
+      "investment_focus": "新能源",
+      "risk_tolerance": "高",
+      "active_investor": true
+    },
+    "history_scores": [
+      88.20339348313317,
+      87.83672940860043,
+      92.07578353876804,
+      91.09366960923136,
+      92.56791978952916,
+      90.12927217193369,
+      86.07291520463593
+    ]
+  },
+  {
+    "profile_id": 13,
+    "stock_code": "00033374",
+    "company_name": "比亚迪",
+    "preferences": {
+      "investment_focus": "新能源",
+      "risk_tolerance": "低",
+      "active_investor": true
+    },
+    "history_scores": [
+      72.91298705965727,
+      78.73331038045694,
+      67.48772896407213,
+      70.95485490076182,
+      75.4083866313285,
+      76.59641916615668,
+      null
+    ]
+  },
+  {
+    "profile_id": 14,
+    "stock_code": "00241571",
+    "company_name": "中电科",
+    "preferences": {
+      "investment_focus": "新能源",
+      "risk_tolerance": "低",
+      "active_investor": false
+    },
+    "history_scores": [
+      95.93108213155965,
+      96.88798802321196,
+      96.61095886761527,
+      89.28270513414942,
+      98.68444378655094,
+      97.98614557525018,
+      94.21815867106076
+    ]
+  },
+  {
+    "profile_id": 15,
+    "stock_code": "30005943",
+    "company_name": "比亚迪",
+    "preferences": {
+      "investment_focus": "科技创新",
+      "risk_tolerance": "中",
+      "active_investor": true
+    },
+    "history_scores": [
+      89.60853980006699,
+      null,
+      90.50585706396903,
+      82.51688399056466,
+      85.27560858575356,
+      87.94121712934688,
+      83.19014216564287
+    ]
+  },
+  {
+    "profile_id": 16,
+    "stock_code": "60003623",
+    "company_name": "紫光",
+    "preferences": {
+      "investment_focus": "半导体",
+      "risk_tolerance": "低",
+      "active_investor": true
+    },
+    "history_scores": [
+      91.71783025261972,
+      87.22881729825005,
+      85.45317979838374,
+      91.5917706104072,
+      90.7971588912584,
+      94.24435444658491,
+      90.40260004253285
+    ]
+  },
+  {
+    "profile_id": 17,
+    "stock_code": "00006309",
+    "company_name": "中芯国际",
+    "preferences": {
+      "investment_focus": "新能源",
+      "risk_tolerance": "低",
+      "active_investor": false
+    },
+    "history_scores": [
+      92.01506645731043,
+      92.79959620463997,
+      96.01896684479293,
+      92.31507953041641,
+      93.90679308027808,
+      91.29947333632015,
+      92.25181572562346
+    ]
+  },
+  {
+    "profile_id": 18,
+    "stock_code": "60131814",
+    "company_name": "京东",
+    "preferences": {
+      "investment_focus": "科技创新",
+      "risk_tolerance": "低",
+      "active_investor": true
+    },
+    "history_scores": [
+      92.03861170281043,
+      90.35405960029013,
+      92.61220736152946,
+      93.26250772011902,
+      null,
+      89.88656613346241,
+      87.5298558645706
+    ]
+  },
+  {
+    "profile_id": 19,
+    "stock_code": "00241547",
+    "company_name": "小米",
+    "preferences": {
+      "investment_focus": "智能制造",
+      "risk_tolerance": "低",
+      "active_investor": true
+    },
+    "history_scores": [
+      107.35387280622446,
+      106.9435006773431,
+      109.650816952416,
+      108.90205375351965,
+      110.46963648249844,
+      null,
+      107.8540716823669
+    ]
+  },
+  {
+    "profile_id": 20,
+    "stock_code": "00006395",
+    "company_name": "比亚迪",
+    "preferences": {
+      "investment_focus": "科技创新",
+      "risk_tolerance": "低",
+      "active_investor": true
+    },
+    "history_scores": [
+      null,
+      74.43683536741354,
+      77.52793496441102,
+      65.91843410537766,
+      73.42314820161862,
+      71.83025669538364,
+      76.23589457405728
+    ]
+  },
+  {
+    "profile_id": 21,
+    "stock_code": "30001537",
+    "company_name": "阿里巴巴",
+    "preferences": {
+      "investment_focus": "科技创新",
+      "risk_tolerance": "低",
+      "active_investor": true
+    },
+    "history_scores": [
+      85.55339456380037,
+      86.96269830642926,
+      83.8745412601928,
+      85.90475836931411,
+      82.4591528047699,
+      80.4971553541525,
+      null
+    ]
+  },
+  {
+    "profile_id": 22,
+    "stock_code": "30005920",
+    "company_name": "腾讯",
+    "preferences": {
+      "investment_focus": "智能制造",
+      "risk_tolerance": "中",
+      "active_investor": true
+    },
+    "history_scores": [
+      82.64752314429403,
+      85.14835889347799,
+      84.81887720902951,
+      78.51455802211751,
+      82.85147631944082,
+      79.78818790736152,
+      83.39387299507086
+    ]
+  },
+  {
+    "profile_id": 23,
+    "stock_code": "00241593",
+    "company_name": "京东",
+    "preferences": {
+      "investment_focus": "科技创新",
+      "risk_tolerance": "低",
+      "active_investor": true
+    },
+    "history_scores": [
+      63.77098419544449,
+      69.48292414461368,
+      68.19813531512769,
+      67.84092985570123,
+      65.33431996223567,
+      65.18111581131798,
+      75.33930359443426
+    ]
+  },
+  {
+    "profile_id": 24,
+    "stock_code": "00006344",
+    "company_name": "小米",
+    "preferences": {
+      "investment_focus": "科技创新",
+      "risk_tolerance": "低",
+      "active_investor": true
+    },
+    "history_scores": [
+      59.1444433634941,
+      61.16150150297311,
+      63.0016686978539,
+      61.63698900274009,
+      67.08421782768157,
+      65.72268862658996,
+      null
+    ]
+  },
+  {
+    "profile_id": 25,
+    "stock_code": "00241523",
+    "company_name": "京东",
+    "preferences": {
+      "investment_focus": "科技创新",
+      "risk_tolerance": "高",
+      "active_investor": true
+    },
+    "history_scores": [
+      84.47947228515999,
+      90.02203149940928,
+      86.79504193288598,
+      87.7713324379769,
+      91.20710436049194,
+      88.37670940439831,
+      86.85810549665575
+    ]
+  },
+  {
+    "profile_id": 26,
+    "stock_code": "60003604",
+    "company_name": "华为",
+    "preferences": {
+      "investment_focus": "科技创新",
+      "risk_tolerance": "中",
+      "active_investor": true
+    },
+    "history_scores": [
+      82.0019125428888,
+      88.59145370679968,
+      84.39578125994775,
+      83.1092939999156,
+      87.191800105999,
+      80.10731096321456,
+      86.99497436377408
+    ]
+  },
+  {
+    "profile_id": 27,
+    "stock_code": "60113812",
+    "company_name": "大华股份",
+    "preferences": {
+      "investment_focus": "科技创新",
+      "risk_tolerance": "低",
+      "active_investor": true
+    },
+    "history_scores": [
+      65.51804889875729,
+      78.54895514981062,
+      75.60408373890346,
+      75.67727481936218,
+      77.9577858836571,
+      null,
+      76.13519691843241
+    ]
+  },
+  {
+    "profile_id": 28,
+    "stock_code": "30001584",
+    "company_name": "紫光",
+    "preferences": {
+      "investment_focus": "科技创新",
+      "risk_tolerance": "中",
+      "active_investor": true
+    },
+    "history_scores": [
+      null,
+      91.04917567921653,
+      88.84066754049803,
+      89.75722622677681,
+      91.03153146080943,
+      92.13932516260185,
+      84.0053566382522
+    ]
+  },
+  {
+    "profile_id": 29,
+    "stock_code": "30005952",
+    "company_name": "阿里巴巴",
+    "preferences": {
+      "investment_focus": "新能源",
+      "risk_tolerance": "高",
+      "active_investor": false
+    },
+    "history_scores": [
+      72.4318689158459,
+      74.9520414108692,
+      null,
+      80.65625392969804,
+      78.00713983110572,
+      79.95022984241994,
+      76.67926351079127
+    ]
+  },
+  {
+    "profile_id": 30,
+    "stock_code": "60131836",
+    "company_name": "海康威视",
+    "preferences": {
+      "investment_focus": "科技创新",
+      "risk_tolerance": "中",
+      "active_investor": true
+    },
+    "history_scores": [
+      null,
+      75.98945968865695,
+      76.44452261064869,
+      79.95200212685774,
+      null,
+      73.9977504902582,
+      69.53452509473712
+    ]
+  },
+  {
+    "profile_id": 31,
+    "stock_code": "30001563",
+    "company_name": "腾讯",
+    "preferences": {
+      "investment_focus": "智能制造",
+      "risk_tolerance": "中",
+      "active_investor": false
+    },
+    "history_scores": [
+      88.99959517365208,
+      91.6309870536847,
+      90.36808783752792,
+      86.26723844685122,
+      null,
+      87.22200760423432,
+      91.43887907691217
+    ]
+  },
+  {
+    "profile_id": 32,
+    "stock_code": "00006362",
+    "company_name": "科大讯飞",
+    "preferences": {
+      "investment_focus": "科技创新",
+      "risk_tolerance": "中",
+      "active_investor": true
+    },
+    "history_scores": [
+      85.53109576978548,
+      71.848548991111,
+      78.82943099579025,
+      77.8000082169054,
+      77.57546590355103,
+      75.81091193747761,
+      78.89194839173487
+    ]
+  },
+  {
+    "profile_id": 33,
+    "stock_code": "00006341",
+    "company_name": "腾讯",
+    "preferences": {
+      "investment_focus": "科技创新",
+      "risk_tolerance": "中",
+      "active_investor": true
+    },
+    "history_scores": [
+      84.50172936483821,
+      85.02917257771658,
+      81.94303817836962,
+      83.36295474488057,
+      84.40061630878374,
+      79.62487987523394,
+      79.5652370495498
+    ]
+  },
+  {
+    "profile_id": 34,
+    "stock_code": "60131816",
+    "company_name": "深信服",
+    "preferences": {
+      "investment_focus": "新能源",
+      "risk_tolerance": "高",
+      "active_investor": true
+    },
+    "history_scores": [
+      76.22046346484744,
+      null,
+      73.06207574226579,
+      75.47074797913496,
+      66.20091789719098,
+      null,
+      82.10854021720301
+    ]
+  },
+  {
+    "profile_id": 35,
+    "stock_code": "60113865",
+    "company_name": "中芯国际",
+    "preferences": {
+      "investment_focus": "科技创新",
+      "risk_tolerance": "高",
+      "active_investor": false
+    },
+    "history_scores": [
+      77.64565517150788,
+      72.54177796547309,
+      76.01243296420265,
+      66.06458966289912,
+      76.57561805114355,
+      69.41618640485635,
+      76.69609770180053
+    ]
+  },
+  {
+    "profile_id": 36,
+    "stock_code": "00241507",
+    "company_name": "小米",
+    "preferences": {
+      "investment_focus": "科技创新",
+      "risk_tolerance": "低",
+      "active_investor": true
+    },
+    "history_scores": [
+      null,
+      64.24017520594457,
+      null,
+      68.95210523075326,
+      null,
+      70.14798182915118,
+      71.3498920266017
+    ]
+  },
+  {
+    "profile_id": 37,
+    "stock_code": "30005901",
+    "company_name": "中兴",
+    "preferences": {
+      "investment_focus": "科技创新",
+      "risk_tolerance": "高",
+      "active_investor": false
+    },
+    "history_scores": [
+      91.1210175793356,
+      87.8334149353394,
+      null,
+      null,
+      90.26256692929172,
+      87.33998591602284,
+      86.46005328617117
+    ]
+  },
+  {
+    "profile_id": 38,
+    "stock_code": "60051965",
+    "company_name": "小米",
+    "preferences": {
+      "investment_focus": "科技创新",
+      "risk_tolerance": "高",
+      "active_investor": false
+    },
+    "history_scores": [
+      74.97517674671975,
+      81.70817512552888,
+      81.23897059271559,
+      75.72395760608747,
+      72.42950287110648,
+      78.31353910000314,
+      76.41599015945941
+    ]
+  },
+  {
+    "profile_id": 39,
+    "stock_code": "00006393",
+    "company_name": "紫光",
+    "preferences": {
+      "investment_focus": "半导体",
+      "risk_tolerance": "高",
+      "active_investor": true
+    },
+    "history_scores": [
+      73.8761974211224,
+      74.90991242999955,
+      72.66328483670442,
+      78.33668310310728,
+      75.16921464117247,
+      80.30141689485403,
+      null
+    ]
+  },
+  {
+    "profile_id": 40,
+    "stock_code": "00241550",
+    "company_name": "美的",
+    "preferences": {
+      "investment_focus": "科技创新",
+      "risk_tolerance": "中",
+      "active_investor": false
+    },
+    "history_scores": [
+      82.8336974641288,
+      84.48898266300377,
+      81.4916173998001,
+      88.54442583831447,
+      85.49543444067073,
+      85.60379475573156,
+      82.9001860098687
+    ]
+  },
+  {
+    "profile_id": 41,
+    "stock_code": "00000104",
+    "company_name": "海尔",
+    "preferences": {
+      "investment_focus": "半导体",
+      "risk_tolerance": "中",
+      "active_investor": true
+    },
+    "history_scores": [
+      79.0007453649719,
+      79.4614542138293,
+      77.73947247771551,
+      80.60706533295043,
+      80.63002779417548,
+      82.50464665835806,
+      null
+    ]
+  },
+  {
+    "profile_id": 42,
+    "stock_code": "30005924",
+    "company_name": "中兴",
+    "preferences": {
+      "investment_focus": "科技创新",
+      "risk_tolerance": "中",
+      "active_investor": true
+    },
+    "history_scores": [
+      75.94529801156771,
+      74.58970357443056,
+      79.09909408849828,
+      72.3946790944431,
+      73.43881655738639,
+      77.14070526261985,
+      81.81378099509661
+    ]
+  },
+  {
+    "profile_id": 43,
+    "stock_code": "30005906",
+    "company_name": "网易",
+    "preferences": {
+      "investment_focus": "新能源",
+      "risk_tolerance": "中",
+      "active_investor": false
+    },
+    "history_scores": [
+      74.6369011339749,
+      74.68825582381119,
+      71.39661406274591,
+      69.10622602025782,
+      75.31889548627703,
+      77.87802989447837,
+      73.09114946996115
+    ]
+  },
+  {
+    "profile_id": 44,
+    "stock_code": "60131899",
+    "company_name": "网易",
+    "preferences": {
+      "investment_focus": "智能制造",
+      "risk_tolerance": "中",
+      "active_investor": true
+    },
+    "history_scores": [
+      82.87072666609916,
+      77.28092776794156,
+      76.66227795839431,
+      73.28888480086961,
+      73.96362824304914,
+      77.28322405125886,
+      76.69689981591145
+    ]
+  },
+  {
+    "profile_id": 45,
+    "stock_code": "00000121",
+    "company_name": "深信服",
+    "preferences": {
+      "investment_focus": "新能源",
+      "risk_tolerance": "高",
+      "active_investor": true
+    },
+    "history_scores": [
+      null,
+      null,
+      103.92062734307778,
+      106.38498745844507,
+      105.58498186148195,
+      98.6359159812745,
+      103.53960910199615
+    ]
+  },
+  {
+    "profile_id": 46,
+    "stock_code": "60003614",
+    "company_name": "中科曙光",
+    "preferences": {
+      "investment_focus": "科技创新",
+      "risk_tolerance": "低",
+      "active_investor": true
+    },
+    "history_scores": [
+      67.29504289863567,
+      null,
+      70.04458672960607,
+      68.95919657568389,
+      63.62851931066572,
+      67.92331235384972,
+      null
+    ]
+  },
+  {
+    "profile_id": 47,
+    "stock_code": "00006340",
+    "company_name": "美的",
+    "preferences": {
+      "investment_focus": "科技创新",
+      "risk_tolerance": "中",
+      "active_investor": true
+    },
+    "history_scores": [
+      77.68750446186164,
+      76.70218943904922,
+      74.53530578453682,
+      75.49204681189535,
+      75.74183224037917,
+      71.49541790462827,
+      80.50405499291125
+    ]
+  },
+  {
+    "profile_id": 48,
+    "stock_code": "30005938",
+    "company_name": "深信服",
+    "preferences": {
+      "investment_focus": "新能源",
+      "risk_tolerance": "低",
+      "active_investor": true
+    },
+    "history_scores": [
+      70.46303742251543,
+      75.59210441410823,
+      76.56483476145803,
+      72.82010957386726,
+      73.75585419166568,
+      78.6592287447203,
+      77.23932388028028
+    ]
+  },
+  {
+    "profile_id": 49,
+    "stock_code": "60131837",
+    "company_name": "紫光",
+    "preferences": {
+      "investment_focus": "新能源",
+      "risk_tolerance": "中",
+      "active_investor": true
+    },
+    "history_scores": [
+      90.13391332955531,
+      88.60465206530554,
+      89.89551361440283,
+      96.63919212475982,
+      93.60736714401645,
+      91.81832618638714,
+      86.45010930781255
+    ]
+  },
+  {
+    "profile_id": 50,
+    "stock_code": "00000117",
+    "company_name": "美的",
+    "preferences": {
+      "investment_focus": "智能制造",
+      "risk_tolerance": "低",
+      "active_investor": true
+    },
+    "history_scores": [
+      78.93958311491498,
+      77.68917944214844,
+      83.076021751369,
+      86.17351839631357,
+      79.25322673118788,
+      82.07276273717062,
+      84.7263654493883
+    ]
+  },
+  {
+    "profile_id": 51,
+    "stock_code": "60131860",
+    "company_name": "中芯国际",
+    "preferences": {
+      "investment_focus": "新能源",
+      "risk_tolerance": "高",
+      "active_investor": true
+    },
+    "history_scores": [
+      87.61110463246311,
+      86.2954053239326,
+      86.45081883211992,
+      80.93825705415108,
+      87.51727842510951,
+      89.27433851156317,
+      91.03881292002701
+    ]
+  },
+  {
+    "profile_id": 52,
+    "stock_code": "30001520",
+    "company_name": "比亚迪",
+    "preferences": {
+      "investment_focus": "科技创新",
+      "risk_tolerance": "中",
+      "active_investor": true
+    },
+    "history_scores": [
+      100.88373639782704,
+      102.78005148084772,
+      102.93830822326402,
+      105.2937000971253,
+      102.622478568613,
+      105.89245804014803,
+      98.90732694336553
+    ]
+  },
+  {
+    "profile_id": 53,
+    "stock_code": "60051927",
+    "company_name": "京东",
+    "preferences": {
+      "investment_focus": "智能制造",
+      "risk_tolerance": "低",
+      "active_investor": false
+    },
+    "history_scores": [
+      76.89052316403333,
+      73.18000951694471,
+      null,
+      71.26584760612826,
+      70.22144490253653,
+      69.48828615169668,
+      68.67642499558033
+    ]
+  },
+  {
+    "profile_id": 54,
+    "stock_code": "60113846",
+    "company_name": "京东",
+    "preferences": {
+      "investment_focus": "科技创新",
+      "risk_tolerance": "高",
+      "active_investor": true
+    },
+    "history_scores": [
+      75.55700323263169,
+      72.91330146215009,
+      78.72064468256708,
+      76.77168721832179,
+      null,
+      77.34978958762137,
+      76.9708180924271
+    ]
+  },
+  {
+    "profile_id": 55,
+    "stock_code": "60051929",
+    "company_name": "中科曙光",
+    "preferences": {
+      "investment_focus": "智能制造",
+      "risk_tolerance": "中",
+      "active_investor": true
+    },
+    "history_scores": [
+      84.83840103447204,
+      82.88035178845448,
+      87.37856092899924,
+      94.6438290458146,
+      82.8887479062604,
+      94.10377032739227,
+      85.28773717490148
+    ]
+  },
+  {
+    "profile_id": 56,
+    "stock_code": "00241575",
+    "company_name": "百度",
+    "preferences": {
+      "investment_focus": "科技创新",
+      "risk_tolerance": "高",
+      "active_investor": true
+    },
+    "history_scores": [
+      63.68719598603167,
+      68.41416966885632,
+      63.45160517604816,
+      71.40363892640826,
+      64.76205985936863,
+      59.276031352375405,
+      64.35189543100657
+    ]
+  },
+  {
+    "profile_id": 57,
+    "stock_code": "00000238",
+    "company_name": "中芯国际",
+    "preferences": {
+      "investment_focus": "科技创新",
+      "risk_tolerance": "低",
+      "active_investor": false
+    },
+    "history_scores": [
+      83.02808232398564,
+      73.09568093888511,
+      74.83392500935015,
+      78.16805146571441,
+      75.93662487102876,
+      79.35344060333276,
+      null
+    ]
+  },
+  {
+    "profile_id": 58,
+    "stock_code": "00000200",
+    "company_name": "京东",
+    "preferences": {
+      "investment_focus": "科技创新",
+      "risk_tolerance": "低",
+      "active_investor": false
+    },
+    "history_scores": [
+      116.31205682538615,
+      110.18650499660693,
+      110.14765336033422,
+      112.5338121878242,
+      116.14060445280543,
+      113.13317387007248,
+      111.81707882701386
+    ]
+  },
+  {
+    "profile_id": 59,
+    "stock_code": "60003693",
+    "company_name": "中兴",
+    "preferences": {
+      "investment_focus": "半导体",
+      "risk_tolerance": "低",
+      "active_investor": false
+    },
+    "history_scores": [
+      63.95642724786726,
+      62.77784868520642,
+      62.2774141058626,
+      null,
+      65.8339694673354,
+      54.896348498340956,
+      60.144058687354786
+    ]
+  },
+  {
+    "profile_id": 60,
+    "stock_code": "60051945",
+    "company_name": "华为",
+    "preferences": {
+      "investment_focus": "科技创新",
+      "risk_tolerance": "低",
+      "active_investor": false
+    },
+    "history_scores": [
+      84.94184405339402,
+      84.50679431231453,
+      86.05582923084641,
+      84.42485066852181,
+      88.3713469914248,
+      83.7572380090431,
+      null
+    ]
+  },
+  {
+    "profile_id": 61,
+    "stock_code": "30005959",
+    "company_name": "科大讯飞",
+    "preferences": {
+      "investment_focus": "智能制造",
+      "risk_tolerance": "低",
+      "active_investor": true
+    },
+    "history_scores": [
+      62.294703357896964,
+      null,
+      55.653362318481925,
+      61.610776559526734,
+      58.39775669250756,
+      60.847849712143585,
+      57.99004449382789
+    ]
+  },
+  {
+    "profile_id": 62,
+    "stock_code": "00241597",
+    "company_name": "美的",
+    "preferences": {
+      "investment_focus": "科技创新",
+      "risk_tolerance": "中",
+      "active_investor": false
+    },
+    "history_scores": [
+      72.52119164112277,
+      74.0789929103021,
+      76.05293092525507,
+      78.155010064291,
+      74.28368791309008,
+      80.56571385301251,
+      77.32541648431213
+    ]
+  },
+  {
+    "profile_id": 63,
+    "stock_code": "00241587",
+    "company_name": "网易",
+    "preferences": {
+      "investment_focus": "科技创新",
+      "risk_tolerance": "高",
+      "active_investor": true
+    },
+    "history_scores": [
+      79.9542277336096,
+      80.26074976744475,
+      null,
+      76.83094918404908,
+      83.0991091142239,
+      78.63329602775237,
+      80.54014316133092
+    ]
+  },
+  {
+    "profile_id": 64,
+    "stock_code": "60113859",
+    "company_name": "深信服",
+    "preferences": {
+      "investment_focus": "新能源",
+      "risk_tolerance": "低",
+      "active_investor": true
+    },
+    "history_scores": [
+      77.47988843012685,
+      81.34811392571712,
+      81.41045646887781,
+      76.71878676299451,
+      76.5945637349806,
+      86.67866569821733,
+      83.86988645309768
+    ]
+  },
+  {
+    "profile_id": 65,
+    "stock_code": "60051961",
+    "company_name": "华为",
+    "preferences": {
+      "investment_focus": "科技创新",
+      "risk_tolerance": "高",
+      "active_investor": true
+    },
+    "history_scores": [
+      99.56753511041458,
+      96.68756723231817,
+      97.29928130074946,
+      98.01209195074073,
+      100.02376891127672,
+      98.04351894799592,
+      94.31494056318995
+    ]
+  },
+  {
+    "profile_id": 66,
+    "stock_code": "60113869",
+    "company_name": "海康威视",
+    "preferences": {
+      "investment_focus": "科技创新",
+      "risk_tolerance": "高",
+      "active_investor": true
+    },
+    "history_scores": [
+      62.090537203631534,
+      62.217346481043144,
+      64.49545399210464,
+      64.2469082946629,
+      67.02425690930356,
+      61.17494431201729,
+      60.60033948098931
+    ]
+  },
+  {
+    "profile_id": 67,
+    "stock_code": "60051993",
+    "company_name": "中兴",
+    "preferences": {
+      "investment_focus": "科技创新",
+      "risk_tolerance": "中",
+      "active_investor": false
+    },
+    "history_scores": [
+      71.18983904628467,
+      73.13182599156141,
+      73.43192492297403,
+      74.7512300398013,
+      74.11454144690916,
+      74.0611313804181,
+      75.75710807192905
+    ]
+  },
+  {
+    "profile_id": 68,
+    "stock_code": "00000218",
+    "company_name": "华为",
+    "preferences": {
+      "investment_focus": "科技创新",
+      "risk_tolerance": "低",
+      "active_investor": true
+    },
+    "history_scores": [
+      90.06666253144789,
+      94.31968653777636,
+      93.09711326357058,
+      88.20667094360476,
+      88.4855572187321,
+      95.89453865333934,
+      89.72045489126954
+    ]
+  },
+  {
+    "profile_id": 69,
+    "stock_code": "00000221",
+    "company_name": "中科曙光",
+    "preferences": {
+      "investment_focus": "半导体",
+      "risk_tolerance": "低",
+      "active_investor": true
+    },
+    "history_scores": [
+      79.05616660351413,
+      70.28369495870935,
+      76.23802880610289,
+      73.78582414887353,
+      77.0403494740905,
+      80.88389819972492,
+      74.88461273043512
+    ]
+  },
+  {
+    "profile_id": 70,
+    "stock_code": "30001547",
+    "company_name": "百度",
+    "preferences": {
+      "investment_focus": "新能源",
+      "risk_tolerance": "低",
+      "active_investor": true
+    },
+    "history_scores": [
+      79.00553125620466,
+      78.95097402032161,
+      78.93345243714126,
+      77.35577212711489,
+      83.55077244112692,
+      82.39949892581542,
+      81.64740941683712
+    ]
+  },
+  {
+    "profile_id": 71,
+    "stock_code": "60131854",
+    "company_name": "中科曙光",
+    "preferences": {
+      "investment_focus": "半导体",
+      "risk_tolerance": "低",
+      "active_investor": false
+    },
+    "history_scores": [
+      77.95437216431037,
+      83.0884160760935,
+      79.15593662387954,
+      81.30817947509756,
+      null,
+      80.51892422847904,
+      80.23256398590064
+    ]
+  },
+  {
+    "profile_id": 72,
+    "stock_code": "30005985",
+    "company_name": "百度",
+    "preferences": {
+      "investment_focus": "智能制造",
+      "risk_tolerance": "低",
+      "active_investor": true
+    },
+    "history_scores": [
+      null,
+      83.21222809393706,
+      82.94965374771927,
+      null,
+      84.57722634026997,
+      82.32928710350814,
+      84.92356516041197
+    ]
+  },
+  {
+    "profile_id": 73,
+    "stock_code": "00000203",
+    "company_name": "中芯国际",
+    "preferences": {
+      "investment_focus": "半导体",
+      "risk_tolerance": "中",
+      "active_investor": true
+    },
+    "history_scores": [
+      83.92871280115081,
+      79.20338042926844,
+      80.42846427077511,
+      82.11499155764754,
+      80.46026489604091,
+      80.94354062405604,
+      83.32564379266319
+    ]
+  },
+  {
+    "profile_id": 74,
+    "stock_code": "00006320",
+    "company_name": "联想",
+    "preferences": {
+      "investment_focus": "科技创新",
+      "risk_tolerance": "中",
+      "active_investor": true
+    },
+    "history_scores": [
+      105.291325010669,
+      106.77421859896391,
+      102.58092779263183,
+      103.82758472485293,
+      106.21158204142424,
+      102.14912210788508,
+      104.34759551753801
+    ]
+  },
+  {
+    "profile_id": 75,
+    "stock_code": "00000296",
+    "company_name": "中电科",
+    "preferences": {
+      "investment_focus": "新能源",
+      "risk_tolerance": "高",
+      "active_investor": true
+    },
+    "history_scores": [
+      71.84593887293151,
+      71.15584503600608,
+      69.11624347687119,
+      null,
+      76.96204381795425,
+      78.37190234723738,
+      78.60652625669884
+    ]
+  },
+  {
+    "profile_id": 76,
+    "stock_code": "30001572",
+    "company_name": "联想",
+    "preferences": {
+      "investment_focus": "智能制造",
+      "risk_tolerance": "中",
+      "active_investor": true
+    },
+    "history_scores": [
+      70.00791879750834,
+      76.4481950154756,
+      68.11342223056144,
+      73.71844083889401,
+      75.93251562951566,
+      71.9635604335784,
+      72.9717154061623
+    ]
+  },
+  {
+    "profile_id": 77,
+    "stock_code": "00241500",
+    "company_name": "中芯国际",
+    "preferences": {
+      "investment_focus": "智能制造",
+      "risk_tolerance": "中",
+      "active_investor": true
+    },
+    "history_scores": [
+      98.30786866775196,
+      99.94864370765895,
+      97.95365893670808,
+      92.75658611061216,
+      97.268550064214,
+      96.35890379414148,
+      99.77241762148324
+    ]
+  },
+  {
+    "profile_id": 78,
+    "stock_code": "60113877",
+    "company_name": "科大讯飞",
+    "preferences": {
+      "investment_focus": "科技创新",
+      "risk_tolerance": "中",
+      "active_investor": false
+    },
+    "history_scores": [
+      69.1230331978175,
+      75.02293074001638,
+      75.53737242299644,
+      73.75239960134553,
+      70.61526439668724,
+      77.12156815253753,
+      73.35944577237507
+    ]
+  },
+  {
+    "profile_id": 79,
+    "stock_code": "30005910",
+    "company_name": "比亚迪",
+    "preferences": {
+      "investment_focus": "半导体",
+      "risk_tolerance": "高",
+      "active_investor": true
+    },
+    "history_scores": [
+      null,
+      74.77109177490654,
+      70.70818218883377,
+      70.95224737609247,
+      76.72346181575834,
+      72.38557362953941,
+      null
+    ]
+  },
+  {
+    "profile_id": 80,
+    "stock_code": "60131812",
+    "company_name": "美的",
+    "preferences": {
+      "investment_focus": "智能制造",
+      "risk_tolerance": "低",
+      "active_investor": true
+    },
+    "history_scores": [
+      89.67865885564208,
+      null,
+      83.1206587741985,
+      null,
+      78.83889938594723,
+      84.04320494799678,
+      86.68055585209834
+    ]
+  },
+  {
+    "profile_id": 81,
+    "stock_code": "60113879",
+    "company_name": "美的",
+    "preferences": {
+      "investment_focus": "科技创新",
+      "risk_tolerance": "中",
+      "active_investor": true
+    },
+    "history_scores": [
+      72.23428381841887,
+      79.49337799478582,
+      78.46280937784495,
+      79.72245248932353,
+      80.42918892474485,
+      null,
+      76.37238566979752
+    ]
+  },
+  {
+    "profile_id": 82,
+    "stock_code": "00000263",
+    "company_name": "京东",
+    "preferences": {
+      "investment_focus": "科技创新",
+      "risk_tolerance": "低",
+      "active_investor": true
+    },
+    "history_scores": [
+      85.27355783306731,
+      81.79725966151982,
+      null,
+      79.74536084054186,
+      79.70053846570659,
+      80.73832326258474,
+      75.61994205084983
+    ]
+  },
+  {
+    "profile_id": 83,
+    "stock_code": "00241555",
+    "company_name": "中兴",
+    "preferences": {
+      "investment_focus": "半导体",
+      "risk_tolerance": "高",
+      "active_investor": false
+    },
+    "history_scores": [
+      75.32286741317455,
+      null,
+      75.07043808504629,
+      null,
+      82.26265225057296,
+      74.58628160708847,
+      77.09644667195892
+    ]
+  },
+  {
+    "profile_id": 84,
+    "stock_code": "60051947",
+    "company_name": "中芯国际",
+    "preferences": {
+      "investment_focus": "新能源",
+      "risk_tolerance": "中",
+      "active_investor": false
+    },
+    "history_scores": [
+      80.93528463809612,
+      78.61403389561346,
+      76.59784650897163,
+      81.27488959616993,
+      79.35413064575103,
+      73.00965229549907,
+      79.89931191065946
+    ]
+  },
+  {
+    "profile_id": 85,
+    "stock_code": "60003608",
+    "company_name": "深信服",
+    "preferences": {
+      "investment_focus": "智能制造",
+      "risk_tolerance": "低",
+      "active_investor": true
+    },
+    "history_scores": [
+      null,
+      79.41413628689254,
+      75.15391579390683,
+      84.52854760678936,
+      81.46769132028581,
+      77.94736343045213,
+      null
+    ]
+  },
+  {
+    "profile_id": 86,
+    "stock_code": "30005928",
+    "company_name": "华为",
+    "preferences": {
+      "investment_focus": "科技创新",
+      "risk_tolerance": "中",
+      "active_investor": true
+    },
+    "history_scores": [
+      74.23361349375362,
+      73.55790985789655,
+      77.25163290933013,
+      68.74037718406416,
+      73.414909001389,
+      69.49841701520569,
+      76.91198085904138
+    ]
+  },
+  {
+    "profile_id": 87,
+    "stock_code": "00000244",
+    "company_name": "阿里巴巴",
+    "preferences": {
+      "investment_focus": "智能制造",
+      "risk_tolerance": "中",
+      "active_investor": true
+    },
+    "history_scores": [
+      96.65318180215291,
+      99.01930721416711,
+      101.59515342388765,
+      102.15093514858343,
+      96.73290263472325,
+      101.15915864415133,
+      100.89964971687102
+    ]
+  },
+  {
+    "profile_id": 88,
+    "stock_code": "00033308",
+    "company_name": "大华股份",
+    "preferences": {
+      "investment_focus": "科技创新",
+      "risk_tolerance": "中",
+      "active_investor": true
+    },
+    "history_scores": [
+      81.61962361598371,
+      88.75291964165545,
+      87.83123980925926,
+      null,
+      85.17861660611325,
+      82.60654594389499,
+      null
+    ]
+  },
+  {
+    "profile_id": 89,
+    "stock_code": "00006367",
+    "company_name": "美的",
+    "preferences": {
+      "investment_focus": "科技创新",
+      "risk_tolerance": "高",
+      "active_investor": true
+    },
+    "history_scores": [
+      83.01039824663016,
+      87.66275836103195,
+      79.71547180259033,
+      null,
+      84.6380071854774,
+      89.60991623795532,
+      90.75007664285017
+    ]
+  },
+  {
+    "profile_id": 90,
+    "stock_code": "00033354",
+    "company_name": "中芯国际",
+    "preferences": {
+      "investment_focus": "智能制造",
+      "risk_tolerance": "高",
+      "active_investor": false
+    },
+    "history_scores": [
+      71.82674330761387,
+      83.77669149813953,
+      74.19779608599484,
+      78.16320518636772,
+      78.70898604968602,
+      71.62409910750696,
+      null
+    ]
+  },
+  {
+    "profile_id": 91,
+    "stock_code": "60003653",
+    "company_name": "海尔",
+    "preferences": {
+      "investment_focus": "科技创新",
+      "risk_tolerance": "低",
+      "active_investor": true
+    },
+    "history_scores": [
+      84.47720304916324,
+      79.42274589282101,
+      75.96857868567564,
+      77.24279538313513,
+      79.46905960854907,
+      79.34261363818523,
+      79.44223342831408
+    ]
+  },
+  {
+    "profile_id": 92,
+    "stock_code": "00000255",
+    "company_name": "联想",
+    "preferences": {
+      "investment_focus": "科技创新",
+      "risk_tolerance": "中",
+      "active_investor": false
+    },
+    "history_scores": [
+      51.60109960932188,
+      55.61397089859458,
+      53.34845269817091,
+      55.65274973079388,
+      59.47731043858892,
+      52.49915903011814,
+      54.9126775134643
+    ]
+  },
+  {
+    "profile_id": 93,
+    "stock_code": "60051950",
+    "company_name": "华为",
+    "preferences": {
+      "investment_focus": "半导体",
+      "risk_tolerance": "高",
+      "active_investor": true
+    },
+    "history_scores": [
+      95.29123794881032,
+      96.69311162261964,
+      96.04202151017243,
+      97.38408108195225,
+      95.72703623535611,
+      96.18903778598133,
+      95.72547426071704
+    ]
+  },
+  {
+    "profile_id": 94,
+    "stock_code": "00000118",
+    "company_name": "中芯国际",
+    "preferences": {
+      "investment_focus": "新能源",
+      "risk_tolerance": "低",
+      "active_investor": true
+    },
+    "history_scores": [
+      77.00434586133117,
+      72.50548888690645,
+      null,
+      72.4665660558063,
+      73.52601099772178,
+      67.55879835170934,
+      68.49169858719411
+    ]
+  },
+  {
+    "profile_id": 95,
+    "stock_code": "00033339",
+    "company_name": "阿里巴巴",
+    "preferences": {
+      "investment_focus": "智能制造",
+      "risk_tolerance": "低",
+      "active_investor": true
+    },
+    "history_scores": [
+      80.3412487482712,
+      84.1117737915978,
+      78.9742837922668,
+      76.39566778137986,
+      78.4437216338082,
+      78.49685498409944,
+      75.92665615812038
+    ]
+  },
+  {
+    "profile_id": 96,
+    "stock_code": "00000274",
+    "company_name": "京东",
+    "preferences": {
+      "investment_focus": "智能制造",
+      "risk_tolerance": "低",
+      "active_investor": false
+    },
+    "history_scores": [
+      null,
+      122.21390938512934,
+      122.06535950037106,
+      113.37534492138452,
+      113.53890616862287,
+      111.83919031755181,
+      117.95580232962112
+    ]
+  },
+  {
+    "profile_id": 97,
+    "stock_code": "30001533",
+    "company_name": "网易",
+    "preferences": {
+      "investment_focus": "科技创新",
+      "risk_tolerance": "高",
+      "active_investor": true
+    },
+    "history_scores": [
+      null,
+      74.56280191623898,
+      null,
+      72.15851359772319,
+      78.91068567727115,
+      74.33325968378473,
+      73.98235038324077
+    ]
+  },
+  {
+    "profile_id": 98,
+    "stock_code": "60003625",
+    "company_name": "腾讯",
+    "preferences": {
+      "investment_focus": "科技创新",
+      "risk_tolerance": "低",
+      "active_investor": false
+    },
+    "history_scores": [
+      79.39477975721216,
+      73.25034628207285,
+      76.69146676018686,
+      76.99433064699934,
+      70.87374156121001,
+      73.93728839601215,
+      null
+    ]
+  },
+  {
+    "profile_id": 99,
+    "stock_code": "60113819",
+    "company_name": "中科曙光",
+    "preferences": {
+      "investment_focus": "智能制造",
+      "risk_tolerance": "中",
+      "active_investor": false
+    },
+    "history_scores": [
+      79.30718746981962,
+      null,
+      null,
+      75.58227129448083,
+      71.99034242417862,
+      75.24499642721999,
+      null
+    ]
+  },
+  {
+    "profile_id": 100,
+    "stock_code": "60113892",
+    "company_name": "海尔",
+    "preferences": {
+      "investment_focus": "智能制造",
+      "risk_tolerance": "低",
+      "active_investor": false
+    },
+    "history_scores": [
+      81.43581865887482,
+      78.27524568364478,
+      82.36336449550512,
+      85.48716679456417,
+      84.3368775389506,
+      86.12590482850551,
+      85.58747917110098
+    ]
+  }
+]

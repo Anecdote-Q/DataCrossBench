@@ -1,0 +1,20 @@
+{
+    "goal": "比较2021年与2023年、2024年风险投资退出总值的差异及其影响因素。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: AI在医疗技术行业的影响正在重塑医疗服务的交付方式，导致更好的结果和更可及的护理。",
+        "Comparison: 在风险投资退出方面，2021年的退出总值显著高于2023年和2024年的预期退出值，显示出市场的波动性。",
+        "Extreme: AI驱动的创新在生物技术、医疗技术和健康技术领域的商业化面临挑战，尤其是在监管批准和技术整合方面。",
+        "Attribution: AI的推动使得生物技术公司在药物发现和开发方面加速，但仍面临商业化障碍和监管壁垒。"
+    ],
+    "summary": "本报告探讨了AI在医疗健康与生命科学领域的投资机会与面临的挑战，强调了市场动态和技术整合的复杂性。",
+    "flag_id": "flag-29",
+    "classifier": "AI Healthcare",
+    "classifier_cn": "AI 医疗健康",
+    "input_files": [
+        "output/ai_medical_events.png",
+        "output/medical_background.txt",
+        "output/medical_dimensions.db",
+        "output/user_profiles.json"
+    ]
+}

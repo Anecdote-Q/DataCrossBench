@@ -1,0 +1,20 @@
+{
+    "goal": "探讨俄乌战争对华商基金投资策略及业绩的具体影响。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 华商鑫安近一年累计收益率为83.18%，显示出其长期投资策略的有效性。",
+        "Comparison: 华商双驱优选在同类灵活配置型基金中的排名为376/2301，显示出其相对竞争力。",
+        "Extreme: 华商鑫安的年化波动率为24.34%，表明其在收益波动方面的风险水平。",
+        "Attribution: 由于俄乌战争导致的铝供应收缩，基金经理调整了重仓个股的赔率，从而影响了投资表现。"
+    ],
+    "summary": "本报告深入分析了华商基金及其基金经理陈恒的投资理念、业绩表现及市场环境的影响，揭示了其在多元成长投资中的独特策略和风险管理能力。",
+    "flag_id": "flag-81",
+    "classifier": "Fund Analysis",
+    "classifier_cn": "基金分析",
+    "input_files": [
+        "output/background.txt",
+        "output/fund_manager.db",
+        "output/fund_performance.csv",
+        "output/manager_profiles.json"
+    ]
+}

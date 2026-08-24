@@ -1,0 +1,17 @@
+{
+    "goal": "探讨中药材价格回落对中药企业盈利能力的具体影响及未来趋势。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 2022年以来急重症领域需求持续扩大，静丙需求量提升，院内静丙短缺态势难以逆转。"
+    ],
+    "summary": "本报告分析了医药行业的市场动态，特别关注AI医疗、创新药研发及中医药行业的投资机会，同时指出了行业面临的风险和未来趋势。",
+    "flag_id": "flag-66",
+    "classifier": "AI Healthcare",
+    "classifier_cn": "AI 医疗健康",
+    "input_files": [
+        "output/background.txt",
+        "output/dimension_data.db",
+        "output/market_analysis.csv",
+        "output/market_tech_profiles.json"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "goal": "比较稳健组合与科创板组合的表现差异，探讨其背后的原因及未来投资策略。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 2024年度投资策略聚焦于医药结构性行情，聚焦“创新+出海、复苏后半程、中特估”三条主线。",
+        "Comparison: 稳健组合与科创板组合的表现差异，前者下跌3.0%，后者小幅上涨0.3%。",
+        "Extreme: 医药生物指数涨幅为-2.13%，显示出行业整体的低迷状态。",
+        "Attribution: 由于AI促进医疗器械创新，降本增效成果显著，未来将成为重点发展领域。"
+    ],
+    "summary": "尽管医药行业面临下行压力，但AI医疗和创新药物的投资热情为行业带来了新的机遇。未来的投资策略应聚焦于结构性机会和创新产品。",
+    "flag_id": "flag-60",
+    "classifier": "Fund Analysis",
+    "classifier_cn": "基金分析",
+    "input_files": [
+        "output/business_background.txt",
+        "output/expected_return_distribution.png",
+        "output/index_change_by_industry.png",
+        "output/industry_analysis.json",
+        "output/investment_dimension.db",
+        "output/key_insights_count.png",
+        "output/performance_comparison.csv",
+        "output/performance_comparison.png"
+    ]
+}

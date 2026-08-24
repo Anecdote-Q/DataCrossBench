@@ -1,0 +1,24 @@
+{
+    "goal": "评估政策变化对短剧行业投资风险的影响。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 短剧行业的CAGR达23.0%，表明行业整体增长势头强劲。",
+        "Comparison: 抖音和快手短剧的用户重合率为33.2%，显示出两者在短剧市场的竞争关系。",
+        "Extreme: 短剧制作周期为2-3个月，显示出短剧行业的快速反应能力和市场适应性。",
+        "Attribution: 由于短剧小程序的去中心化特征，尚未纳入广电部门的监管，导致市场竞争加剧，投资者需关注政策变化带来的风险。"
+    ],
+    "summary": "短剧行业的快速发展为投资者提供了丰富的机会，但同时也伴随着政策风险和市场竞争的挑战。短剧APP的兴起和小程序的转型是未来发展的关键。",
+    "flag_id": "flag-40",
+    "classifier": "Short-form Drama",
+    "classifier_cn": "短剧/微短剧内容",
+    "input_files": [
+        "output/CAGR_vs_User_Overlap_Rate.png",
+        "output/Production_Cycle_Distribution.png",
+        "output/Team_Size_vs_Investment_Amount.png",
+        "output/User_Watch_Hours_Boxplot.png",
+        "output/business_background.txt",
+        "output/short_drama_dimension.db",
+        "output/short_drama_fact.csv",
+        "output/user_watch_logs.json"
+    ]
+}

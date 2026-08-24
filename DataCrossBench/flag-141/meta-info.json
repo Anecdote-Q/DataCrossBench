@@ -1,0 +1,24 @@
+{
+    "goal": "分析美团未来三年NON-GAAP净利润增长的驱动因素。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 预计2024年NON-GAAP净利润将达到375亿元，2025年将增长至534亿元，2026年达到689亿元，显示出净利润的持续增长。",
+        "Comparison: 美团与阿里巴巴、拼多多等可比公司相比，PE估值较高，显示出市场对美团未来增长的信心。",
+        "Extreme: 2023年美团的总市值为634,989.44百万港元，显示出其在市场中的强劲地位。",
+        "Attribution: 美团的盈利增长与消费恢复不及预期、业务协同进展不及预期等风险因素密切相关，需关注宏观经济环境的变化。"
+    ],
+    "summary": "本报告深入分析了美团未来三年的盈利预测，预计营收和净利润将持续增长，并维持“买入”评级。",
+    "flag_id": "flag-141",
+    "classifier": "Internet Firms",
+    "classifier_cn": "互联网公司研究",
+    "input_files": [
+        "output/average_spending_per_user.png",
+        "output/business_background.txt",
+        "output/dimension_data.db",
+        "output/discounted_price_vs_total_price.png",
+        "output/order_facts.csv",
+        "output/order_status_distribution.png",
+        "output/quantity_vs_total_price.png",
+        "output/user_profiles.json"
+    ]
+}

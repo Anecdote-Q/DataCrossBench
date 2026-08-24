@@ -1,0 +1,3902 @@
+[
+  {
+    "user_id": 1643015,
+    "bank_id": 1,
+    "age": 47,
+    "income_bracket": "低收入",
+    "tech_affinity": 0.06,
+    "risk_aversion": 0.91,
+    "interests": [
+      "me",
+      "amount",
+      "PM"
+    ]
+  },
+  {
+    "user_id": 1632133,
+    "bank_id": 1,
+    "age": 27,
+    "income_bracket": "高收入",
+    "tech_affinity": 0.33,
+    "risk_aversion": 0.7,
+    "interests": [
+      "try",
+      "manage",
+      "focus"
+    ]
+  },
+  {
+    "user_id": 1380961,
+    "bank_id": 1,
+    "age": 32,
+    "income_bracket": "高收入",
+    "tech_affinity": 0.31,
+    "risk_aversion": 0.74,
+    "interests": [
+      "paper",
+      "less",
+      "tend"
+    ]
+  },
+  {
+    "user_id": 1103138,
+    "bank_id": 1,
+    "age": 57,
+    "income_bracket": "高收入",
+    "tech_affinity": 0.17,
+    "risk_aversion": 0.8,
+    "interests": [
+      "explain",
+      "be",
+      "sure"
+    ]
+  },
+  {
+    "user_id": 1898294,
+    "bank_id": 1,
+    "age": 47,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.7,
+    "risk_aversion": 0.79,
+    "interests": [
+      "a",
+      "yes",
+      "according"
+    ]
+  },
+  {
+    "user_id": 1609779,
+    "bank_id": 1,
+    "age": 39,
+    "income_bracket": "低收入",
+    "tech_affinity": 0.29,
+    "risk_aversion": 0.65,
+    "interests": [
+      "lot",
+      "face",
+      "according"
+    ]
+  },
+  {
+    "user_id": 1700570,
+    "bank_id": 1,
+    "age": 49,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.25,
+    "risk_aversion": 0.81,
+    "interests": [
+      "area",
+      "why",
+      "citizen"
+    ]
+  },
+  {
+    "user_id": 1407110,
+    "bank_id": 1,
+    "age": 42,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.1,
+    "risk_aversion": 0.94,
+    "interests": [
+      "hour",
+      "family",
+      "with"
+    ]
+  },
+  {
+    "user_id": 1558644,
+    "bank_id": 1,
+    "age": 45,
+    "income_bracket": "高收入",
+    "tech_affinity": 0.34,
+    "risk_aversion": 0.9,
+    "interests": [
+      "development",
+      "ok",
+      "reflect"
+    ]
+  },
+  {
+    "user_id": 1463390,
+    "bank_id": 1,
+    "age": 40,
+    "income_bracket": "低收入",
+    "tech_affinity": 0.4,
+    "risk_aversion": 0.51,
+    "interests": [
+      "management",
+      "green",
+      "skill"
+    ]
+  },
+  {
+    "user_id": 1833233,
+    "bank_id": 1,
+    "age": 49,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.25,
+    "risk_aversion": 0.69,
+    "interests": [
+      "brother",
+      "pay",
+      "you"
+    ]
+  },
+  {
+    "user_id": 1059092,
+    "bank_id": 1,
+    "age": 39,
+    "income_bracket": "高收入",
+    "tech_affinity": 0.53,
+    "risk_aversion": 0.3,
+    "interests": [
+      "condition",
+      "next",
+      "admit"
+    ]
+  },
+  {
+    "user_id": 1873121,
+    "bank_id": 1,
+    "age": 20,
+    "income_bracket": "高收入",
+    "tech_affinity": 0.38,
+    "risk_aversion": 0.61,
+    "interests": [
+      "food",
+      "over",
+      "eye"
+    ]
+  },
+  {
+    "user_id": 1299117,
+    "bank_id": 1,
+    "age": 41,
+    "income_bracket": "高收入",
+    "tech_affinity": 0.39,
+    "risk_aversion": 0.92,
+    "interests": [
+      "message",
+      "we",
+      "able"
+    ]
+  },
+  {
+    "user_id": 1281330,
+    "bank_id": 1,
+    "age": 58,
+    "income_bracket": "低收入",
+    "tech_affinity": 0.42,
+    "risk_aversion": 0.86,
+    "interests": [
+      "south",
+      "fill",
+      "most"
+    ]
+  },
+  {
+    "user_id": 1266689,
+    "bank_id": 1,
+    "age": 18,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.12,
+    "risk_aversion": 0.54,
+    "interests": [
+      "easy",
+      "well",
+      "pull"
+    ]
+  },
+  {
+    "user_id": 1135278,
+    "bank_id": 1,
+    "age": 29,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.4,
+    "risk_aversion": 0.95,
+    "interests": [
+      "social",
+      "if",
+      "field"
+    ]
+  },
+  {
+    "user_id": 1229010,
+    "bank_id": 1,
+    "age": 28,
+    "income_bracket": "高收入",
+    "tech_affinity": 0.36,
+    "risk_aversion": 0.53,
+    "interests": [
+      "standard",
+      "sign",
+      "manager"
+    ]
+  },
+  {
+    "user_id": 1416259,
+    "bank_id": 1,
+    "age": 31,
+    "income_bracket": "高收入",
+    "tech_affinity": 0.34,
+    "risk_aversion": 0.44,
+    "interests": [
+      "year",
+      "population",
+      "season"
+    ]
+  },
+  {
+    "user_id": 1491810,
+    "bank_id": 1,
+    "age": 37,
+    "income_bracket": "高收入",
+    "tech_affinity": 0.18,
+    "risk_aversion": 0.85,
+    "interests": [
+      "pay",
+      "much",
+      "do"
+    ]
+  },
+  {
+    "user_id": 1199983,
+    "bank_id": 1,
+    "age": 39,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.27,
+    "risk_aversion": 0.62,
+    "interests": [
+      "main",
+      "four",
+      "free"
+    ]
+  },
+  {
+    "user_id": 1360675,
+    "bank_id": 1,
+    "age": 32,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.11,
+    "risk_aversion": 0.33,
+    "interests": [
+      "out",
+      "focus",
+      "hard"
+    ]
+  },
+  {
+    "user_id": 1759929,
+    "bank_id": 1,
+    "age": 32,
+    "income_bracket": "高收入",
+    "tech_affinity": 0.08,
+    "risk_aversion": 0.58,
+    "interests": [
+      "age",
+      "national",
+      "yes"
+    ]
+  },
+  {
+    "user_id": 1280082,
+    "bank_id": 1,
+    "age": 29,
+    "income_bracket": "低收入",
+    "tech_affinity": 0.86,
+    "risk_aversion": 0.56,
+    "interests": [
+      "fear",
+      "road",
+      "PM"
+    ]
+  },
+  {
+    "user_id": 1563641,
+    "bank_id": 1,
+    "age": 41,
+    "income_bracket": "高收入",
+    "tech_affinity": 0.29,
+    "risk_aversion": 0.44,
+    "interests": [
+      "interest",
+      "black",
+      "sell"
+    ]
+  },
+  {
+    "user_id": 1414174,
+    "bank_id": 1,
+    "age": 50,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.5,
+    "risk_aversion": 0.84,
+    "interests": [
+      "eye",
+      "everything",
+      "woman"
+    ]
+  },
+  {
+    "user_id": 1306120,
+    "bank_id": 1,
+    "age": 40,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.34,
+    "risk_aversion": 0.48,
+    "interests": [
+      "central",
+      "easy",
+      "city"
+    ]
+  },
+  {
+    "user_id": 1159531,
+    "bank_id": 1,
+    "age": 45,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.69,
+    "risk_aversion": 0.42,
+    "interests": [
+      "season",
+      "able",
+      "already"
+    ]
+  },
+  {
+    "user_id": 1969959,
+    "bank_id": 1,
+    "age": 34,
+    "income_bracket": "高收入",
+    "tech_affinity": 0.42,
+    "risk_aversion": 0.5,
+    "interests": [
+      "compare",
+      "indicate",
+      "smile"
+    ]
+  },
+  {
+    "user_id": 1089896,
+    "bank_id": 1,
+    "age": 47,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.34,
+    "risk_aversion": 0.74,
+    "interests": [
+      "half",
+      "degree",
+      "responsibility"
+    ]
+  },
+  {
+    "user_id": 1998408,
+    "bank_id": 1,
+    "age": 31,
+    "income_bracket": "高收入",
+    "tech_affinity": 0.38,
+    "risk_aversion": 0.63,
+    "interests": [
+      "approach",
+      "cell",
+      "agency"
+    ]
+  },
+  {
+    "user_id": 1158454,
+    "bank_id": 1,
+    "age": 57,
+    "income_bracket": "低收入",
+    "tech_affinity": 0.17,
+    "risk_aversion": 0.64,
+    "interests": [
+      "health",
+      "best",
+      "step"
+    ]
+  },
+  {
+    "user_id": 1505588,
+    "bank_id": 1,
+    "age": 27,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.28,
+    "risk_aversion": 0.64,
+    "interests": [
+      "reach",
+      "heavy",
+      "conference"
+    ]
+  },
+  {
+    "user_id": 1331572,
+    "bank_id": 1,
+    "age": 32,
+    "income_bracket": "高收入",
+    "tech_affinity": 0.33,
+    "risk_aversion": 0.36,
+    "interests": [
+      "artist",
+      "for",
+      "ask"
+    ]
+  },
+  {
+    "user_id": 1320261,
+    "bank_id": 1,
+    "age": 50,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.6,
+    "risk_aversion": 0.66,
+    "interests": [
+      "responsibility",
+      "board",
+      "performance"
+    ]
+  },
+  {
+    "user_id": 1779124,
+    "bank_id": 1,
+    "age": 51,
+    "income_bracket": "高收入",
+    "tech_affinity": 0.18,
+    "risk_aversion": 0.71,
+    "interests": [
+      "approach",
+      "responsibility",
+      "administration"
+    ]
+  },
+  {
+    "user_id": 1525060,
+    "bank_id": 1,
+    "age": 37,
+    "income_bracket": "高收入",
+    "tech_affinity": 0.03,
+    "risk_aversion": 0.77,
+    "interests": [
+      "center",
+      "whatever",
+      "cost"
+    ]
+  },
+  {
+    "user_id": 1861259,
+    "bank_id": 1,
+    "age": 37,
+    "income_bracket": "高收入",
+    "tech_affinity": 0.27,
+    "risk_aversion": 0.61,
+    "interests": [
+      "current",
+      "agreement",
+      "development"
+    ]
+  },
+  {
+    "user_id": 1119674,
+    "bank_id": 1,
+    "age": 35,
+    "income_bracket": "高收入",
+    "tech_affinity": 0.1,
+    "risk_aversion": 0.96,
+    "interests": [
+      "me",
+      "commercial",
+      "court"
+    ]
+  },
+  {
+    "user_id": 1124313,
+    "bank_id": 1,
+    "age": 41,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.07,
+    "risk_aversion": 0.62,
+    "interests": [
+      "not",
+      "remain",
+      "range"
+    ]
+  },
+  {
+    "user_id": 1433005,
+    "bank_id": 1,
+    "age": 41,
+    "income_bracket": "低收入",
+    "tech_affinity": 0.14,
+    "risk_aversion": 0.8,
+    "interests": [
+      "series",
+      "usually",
+      "page"
+    ]
+  },
+  {
+    "user_id": 1153897,
+    "bank_id": 1,
+    "age": 28,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.67,
+    "risk_aversion": 0.7,
+    "interests": [
+      "bring",
+      "to",
+      "form"
+    ]
+  },
+  {
+    "user_id": 1887054,
+    "bank_id": 1,
+    "age": 37,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.41,
+    "risk_aversion": 0.91,
+    "interests": [
+      "response",
+      "finish",
+      "carry"
+    ]
+  },
+  {
+    "user_id": 1747969,
+    "bank_id": 1,
+    "age": 34,
+    "income_bracket": "低收入",
+    "tech_affinity": 0.26,
+    "risk_aversion": 0.72,
+    "interests": [
+      "something",
+      "war",
+      "read"
+    ]
+  },
+  {
+    "user_id": 1336425,
+    "bank_id": 1,
+    "age": 32,
+    "income_bracket": "高收入",
+    "tech_affinity": 0.04,
+    "risk_aversion": 0.62,
+    "interests": [
+      "person",
+      "return",
+      "now"
+    ]
+  },
+  {
+    "user_id": 1454999,
+    "bank_id": 1,
+    "age": 44,
+    "income_bracket": "低收入",
+    "tech_affinity": 0.49,
+    "risk_aversion": 0.81,
+    "interests": [
+      "movie",
+      "provide",
+      "everything"
+    ]
+  },
+  {
+    "user_id": 1769113,
+    "bank_id": 1,
+    "age": 45,
+    "income_bracket": "高收入",
+    "tech_affinity": 0.42,
+    "risk_aversion": 0.84,
+    "interests": [
+      "build",
+      "life",
+      "tend"
+    ]
+  },
+  {
+    "user_id": 1672592,
+    "bank_id": 1,
+    "age": 40,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.17,
+    "risk_aversion": 0.86,
+    "interests": [
+      "school",
+      "current",
+      "summer"
+    ]
+  },
+  {
+    "user_id": 1764930,
+    "bank_id": 1,
+    "age": 25,
+    "income_bracket": "高收入",
+    "tech_affinity": 0.24,
+    "risk_aversion": 0.59,
+    "interests": [
+      "quickly",
+      "environmental",
+      "once"
+    ]
+  },
+  {
+    "user_id": 1114437,
+    "bank_id": 1,
+    "age": 32,
+    "income_bracket": "低收入",
+    "tech_affinity": 0.47,
+    "risk_aversion": 0.84,
+    "interests": [
+      "nation",
+      "reason",
+      "year"
+    ]
+  },
+  {
+    "user_id": 1761746,
+    "bank_id": 2,
+    "age": 27,
+    "income_bracket": "高收入",
+    "tech_affinity": 0.42,
+    "risk_aversion": 0.62,
+    "interests": [
+      "pattern",
+      "system",
+      "bar"
+    ]
+  },
+  {
+    "user_id": 1758969,
+    "bank_id": 2,
+    "age": 32,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.11,
+    "risk_aversion": 0.89,
+    "interests": [
+      "it",
+      "college",
+      "event"
+    ]
+  },
+  {
+    "user_id": 1820632,
+    "bank_id": 2,
+    "age": 18,
+    "income_bracket": "高收入",
+    "tech_affinity": 0.29,
+    "risk_aversion": 0.86,
+    "interests": [
+      "hair",
+      "growth",
+      "road"
+    ]
+  },
+  {
+    "user_id": 1409752,
+    "bank_id": 2,
+    "age": 47,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.15,
+    "risk_aversion": 0.92,
+    "interests": [
+      "heart",
+      "explain",
+      "realize"
+    ]
+  },
+  {
+    "user_id": 1157391,
+    "bank_id": 2,
+    "age": 41,
+    "income_bracket": "低收入",
+    "tech_affinity": 0.12,
+    "risk_aversion": 0.47,
+    "interests": [
+      "somebody",
+      "later",
+      "drug"
+    ]
+  },
+  {
+    "user_id": 1350194,
+    "bank_id": 2,
+    "age": 36,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.12,
+    "risk_aversion": 0.73,
+    "interests": [
+      "window",
+      "special",
+      "since"
+    ]
+  },
+  {
+    "user_id": 1935407,
+    "bank_id": 2,
+    "age": 42,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.39,
+    "risk_aversion": 0.79,
+    "interests": [
+      "article",
+      "too",
+      "food"
+    ]
+  },
+  {
+    "user_id": 1548475,
+    "bank_id": 2,
+    "age": 33,
+    "income_bracket": "低收入",
+    "tech_affinity": 0.19,
+    "risk_aversion": 0.86,
+    "interests": [
+      "final",
+      "herself",
+      "bill"
+    ]
+  },
+  {
+    "user_id": 1126572,
+    "bank_id": 2,
+    "age": 37,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.06,
+    "risk_aversion": 0.67,
+    "interests": [
+      "race",
+      "dream",
+      "space"
+    ]
+  },
+  {
+    "user_id": 1291347,
+    "bank_id": 2,
+    "age": 42,
+    "income_bracket": "低收入",
+    "tech_affinity": 0.22,
+    "risk_aversion": 0.91,
+    "interests": [
+      "visit",
+      "leave",
+      "list"
+    ]
+  },
+  {
+    "user_id": 1790100,
+    "bank_id": 2,
+    "age": 38,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.38,
+    "risk_aversion": 0.84,
+    "interests": [
+      "recent",
+      "I",
+      "from"
+    ]
+  },
+  {
+    "user_id": 1797638,
+    "bank_id": 2,
+    "age": 40,
+    "income_bracket": "低收入",
+    "tech_affinity": 0.15,
+    "risk_aversion": 0.69,
+    "interests": [
+      "impact",
+      "mouth",
+      "Republican"
+    ]
+  },
+  {
+    "user_id": 1898378,
+    "bank_id": 2,
+    "age": 43,
+    "income_bracket": "高收入",
+    "tech_affinity": 0.22,
+    "risk_aversion": 0.83,
+    "interests": [
+      "whose",
+      "miss",
+      "baby"
+    ]
+  },
+  {
+    "user_id": 1141392,
+    "bank_id": 2,
+    "age": 38,
+    "income_bracket": "低收入",
+    "tech_affinity": 0.39,
+    "risk_aversion": 0.52,
+    "interests": [
+      "recognize",
+      "common",
+      "possible"
+    ]
+  },
+  {
+    "user_id": 1550755,
+    "bank_id": 2,
+    "age": 37,
+    "income_bracket": "高收入",
+    "tech_affinity": 0.1,
+    "risk_aversion": 0.7,
+    "interests": [
+      "personal",
+      "situation",
+      "between"
+    ]
+  },
+  {
+    "user_id": 1506098,
+    "bank_id": 2,
+    "age": 33,
+    "income_bracket": "高收入",
+    "tech_affinity": 0.1,
+    "risk_aversion": 0.62,
+    "interests": [
+      "especially",
+      "whether",
+      "shake"
+    ]
+  },
+  {
+    "user_id": 1868513,
+    "bank_id": 2,
+    "age": 38,
+    "income_bracket": "低收入",
+    "tech_affinity": 0.19,
+    "risk_aversion": 0.8,
+    "interests": [
+      "certainly",
+      "store",
+      "her"
+    ]
+  },
+  {
+    "user_id": 1448427,
+    "bank_id": 2,
+    "age": 23,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.05,
+    "risk_aversion": 0.88,
+    "interests": [
+      "hear",
+      "and",
+      "the"
+    ]
+  },
+  {
+    "user_id": 1533137,
+    "bank_id": 2,
+    "age": 31,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.21,
+    "risk_aversion": 0.88,
+    "interests": [
+      "condition",
+      "may",
+      "hour"
+    ]
+  },
+  {
+    "user_id": 1454489,
+    "bank_id": 2,
+    "age": 46,
+    "income_bracket": "高收入",
+    "tech_affinity": 0.31,
+    "risk_aversion": 0.8,
+    "interests": [
+      "run",
+      "skill",
+      "effect"
+    ]
+  },
+  {
+    "user_id": 1904253,
+    "bank_id": 2,
+    "age": 27,
+    "income_bracket": "低收入",
+    "tech_affinity": 0.6,
+    "risk_aversion": 0.6,
+    "interests": [
+      "turn",
+      "history",
+      "natural"
+    ]
+  },
+  {
+    "user_id": 1084207,
+    "bank_id": 2,
+    "age": 58,
+    "income_bracket": "低收入",
+    "tech_affinity": 0.33,
+    "risk_aversion": 0.6,
+    "interests": [
+      "make",
+      "throw",
+      "reach"
+    ]
+  },
+  {
+    "user_id": 1799242,
+    "bank_id": 2,
+    "age": 41,
+    "income_bracket": "低收入",
+    "tech_affinity": 0.11,
+    "risk_aversion": 0.78,
+    "interests": [
+      "once",
+      "realize",
+      "daughter"
+    ]
+  },
+  {
+    "user_id": 1596327,
+    "bank_id": 2,
+    "age": 41,
+    "income_bracket": "高收入",
+    "tech_affinity": 0.11,
+    "risk_aversion": 0.81,
+    "interests": [
+      "senior",
+      "state",
+      "citizen"
+    ]
+  },
+  {
+    "user_id": 1298526,
+    "bank_id": 2,
+    "age": 37,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.35,
+    "risk_aversion": 0.84,
+    "interests": [
+      "change",
+      "watch",
+      "discover"
+    ]
+  },
+  {
+    "user_id": 1689071,
+    "bank_id": 2,
+    "age": 34,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.38,
+    "risk_aversion": 0.79,
+    "interests": [
+      "benefit",
+      "through",
+      "audience"
+    ]
+  },
+  {
+    "user_id": 1620494,
+    "bank_id": 2,
+    "age": 34,
+    "income_bracket": "低收入",
+    "tech_affinity": 0.25,
+    "risk_aversion": 0.66,
+    "interests": [
+      "lay",
+      "wait",
+      "good"
+    ]
+  },
+  {
+    "user_id": 1536662,
+    "bank_id": 2,
+    "age": 29,
+    "income_bracket": "低收入",
+    "tech_affinity": 0.41,
+    "risk_aversion": 0.55,
+    "interests": [
+      "quite",
+      "car",
+      "radio"
+    ]
+  },
+  {
+    "user_id": 1906109,
+    "bank_id": 2,
+    "age": 33,
+    "income_bracket": "低收入",
+    "tech_affinity": 0.16,
+    "risk_aversion": 0.79,
+    "interests": [
+      "minute",
+      "doctor",
+      "guy"
+    ]
+  },
+  {
+    "user_id": 1571957,
+    "bank_id": 2,
+    "age": 40,
+    "income_bracket": "高收入",
+    "tech_affinity": 0.36,
+    "risk_aversion": 0.85,
+    "interests": [
+      "rate",
+      "source",
+      "wish"
+    ]
+  },
+  {
+    "user_id": 1847529,
+    "bank_id": 2,
+    "age": 29,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.13,
+    "risk_aversion": 0.72,
+    "interests": [
+      "beautiful",
+      "operation",
+      "place"
+    ]
+  },
+  {
+    "user_id": 1652690,
+    "bank_id": 2,
+    "age": 18,
+    "income_bracket": "高收入",
+    "tech_affinity": 0.46,
+    "risk_aversion": 0.59,
+    "interests": [
+      "total",
+      "dream",
+      "tend"
+    ]
+  },
+  {
+    "user_id": 1791189,
+    "bank_id": 2,
+    "age": 48,
+    "income_bracket": "高收入",
+    "tech_affinity": 0.24,
+    "risk_aversion": 0.66,
+    "interests": [
+      "student",
+      "him",
+      "car"
+    ]
+  },
+  {
+    "user_id": 1389359,
+    "bank_id": 2,
+    "age": 43,
+    "income_bracket": "高收入",
+    "tech_affinity": 0.43,
+    "risk_aversion": 0.81,
+    "interests": [
+      "visit",
+      "idea",
+      "money"
+    ]
+  },
+  {
+    "user_id": 1128978,
+    "bank_id": 2,
+    "age": 43,
+    "income_bracket": "低收入",
+    "tech_affinity": 0.07,
+    "risk_aversion": 0.81,
+    "interests": [
+      "player",
+      "rest",
+      "be"
+    ]
+  },
+  {
+    "user_id": 1885225,
+    "bank_id": 2,
+    "age": 46,
+    "income_bracket": "低收入",
+    "tech_affinity": 0.55,
+    "risk_aversion": 0.97,
+    "interests": [
+      "here",
+      "response",
+      "citizen"
+    ]
+  },
+  {
+    "user_id": 1914842,
+    "bank_id": 2,
+    "age": 59,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.31,
+    "risk_aversion": 0.56,
+    "interests": [
+      "program",
+      "future",
+      "lose"
+    ]
+  },
+  {
+    "user_id": 1418524,
+    "bank_id": 2,
+    "age": 40,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.32,
+    "risk_aversion": 0.97,
+    "interests": [
+      "safe",
+      "other",
+      "move"
+    ]
+  },
+  {
+    "user_id": 1841169,
+    "bank_id": 2,
+    "age": 41,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.25,
+    "risk_aversion": 0.55,
+    "interests": [
+      "price",
+      "sign",
+      "help"
+    ]
+  },
+  {
+    "user_id": 1873324,
+    "bank_id": 2,
+    "age": 32,
+    "income_bracket": "低收入",
+    "tech_affinity": 0.23,
+    "risk_aversion": 0.53,
+    "interests": [
+      "impact",
+      "truth",
+      "allow"
+    ]
+  },
+  {
+    "user_id": 1917960,
+    "bank_id": 2,
+    "age": 36,
+    "income_bracket": "低收入",
+    "tech_affinity": 0.11,
+    "risk_aversion": 0.74,
+    "interests": [
+      "pretty",
+      "security",
+      "sound"
+    ]
+  },
+  {
+    "user_id": 1644870,
+    "bank_id": 2,
+    "age": 33,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.18,
+    "risk_aversion": 0.61,
+    "interests": [
+      "establish",
+      "national",
+      "record"
+    ]
+  },
+  {
+    "user_id": 1488860,
+    "bank_id": 2,
+    "age": 36,
+    "income_bracket": "高收入",
+    "tech_affinity": 0.31,
+    "risk_aversion": 0.72,
+    "interests": [
+      "nearly",
+      "prove",
+      "human"
+    ]
+  },
+  {
+    "user_id": 1165301,
+    "bank_id": 2,
+    "age": 41,
+    "income_bracket": "高收入",
+    "tech_affinity": 0.09,
+    "risk_aversion": 0.7,
+    "interests": [
+      "which",
+      "gun",
+      "staff"
+    ]
+  },
+  {
+    "user_id": 1445204,
+    "bank_id": 2,
+    "age": 44,
+    "income_bracket": "低收入",
+    "tech_affinity": 0.23,
+    "risk_aversion": 0.82,
+    "interests": [
+      "early",
+      "up",
+      "actually"
+    ]
+  },
+  {
+    "user_id": 1819023,
+    "bank_id": 2,
+    "age": 56,
+    "income_bracket": "低收入",
+    "tech_affinity": 0.42,
+    "risk_aversion": 0.54,
+    "interests": [
+      "nation",
+      "rather",
+      "ahead"
+    ]
+  },
+  {
+    "user_id": 1077041,
+    "bank_id": 2,
+    "age": 38,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.69,
+    "risk_aversion": 0.57,
+    "interests": [
+      "soon",
+      "they",
+      "physical"
+    ]
+  },
+  {
+    "user_id": 1604280,
+    "bank_id": 2,
+    "age": 28,
+    "income_bracket": "高收入",
+    "tech_affinity": 0.06,
+    "risk_aversion": 0.59,
+    "interests": [
+      "someone",
+      "their",
+      "country"
+    ]
+  },
+  {
+    "user_id": 1911899,
+    "bank_id": 2,
+    "age": 34,
+    "income_bracket": "低收入",
+    "tech_affinity": 0.28,
+    "risk_aversion": 0.93,
+    "interests": [
+      "hair",
+      "identify",
+      "plant"
+    ]
+  },
+  {
+    "user_id": 1676181,
+    "bank_id": 2,
+    "age": 30,
+    "income_bracket": "低收入",
+    "tech_affinity": 0.7,
+    "risk_aversion": 0.86,
+    "interests": [
+      "player",
+      "picture",
+      "compare"
+    ]
+  },
+  {
+    "user_id": 1388925,
+    "bank_id": 3,
+    "age": 39,
+    "income_bracket": "高收入",
+    "tech_affinity": 0.37,
+    "risk_aversion": 0.76,
+    "interests": [
+      "kid",
+      "television",
+      "bag"
+    ]
+  },
+  {
+    "user_id": 1913501,
+    "bank_id": 3,
+    "age": 51,
+    "income_bracket": "高收入",
+    "tech_affinity": 0.46,
+    "risk_aversion": 0.92,
+    "interests": [
+      "next",
+      "real",
+      "open"
+    ]
+  },
+  {
+    "user_id": 1801500,
+    "bank_id": 3,
+    "age": 24,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.14,
+    "risk_aversion": 0.66,
+    "interests": [
+      "which",
+      "still",
+      "produce"
+    ]
+  },
+  {
+    "user_id": 1938228,
+    "bank_id": 3,
+    "age": 56,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.39,
+    "risk_aversion": 0.7,
+    "interests": [
+      "series",
+      "make",
+      "spring"
+    ]
+  },
+  {
+    "user_id": 1669374,
+    "bank_id": 3,
+    "age": 18,
+    "income_bracket": "低收入",
+    "tech_affinity": 0.33,
+    "risk_aversion": 0.59,
+    "interests": [
+      "business",
+      "detail",
+      "million"
+    ]
+  },
+  {
+    "user_id": 1696762,
+    "bank_id": 3,
+    "age": 32,
+    "income_bracket": "高收入",
+    "tech_affinity": 0.15,
+    "risk_aversion": 0.47,
+    "interests": [
+      "off",
+      "course",
+      "investment"
+    ]
+  },
+  {
+    "user_id": 1058890,
+    "bank_id": 3,
+    "age": 34,
+    "income_bracket": "低收入",
+    "tech_affinity": 0.29,
+    "risk_aversion": 0.75,
+    "interests": [
+      "anything",
+      "evidence",
+      "maintain"
+    ]
+  },
+  {
+    "user_id": 1998173,
+    "bank_id": 3,
+    "age": 39,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.15,
+    "risk_aversion": 0.53,
+    "interests": [
+      "truth",
+      "minute",
+      "plant"
+    ]
+  },
+  {
+    "user_id": 1907355,
+    "bank_id": 3,
+    "age": 54,
+    "income_bracket": "高收入",
+    "tech_affinity": 0.15,
+    "risk_aversion": 0.45,
+    "interests": [
+      "exactly",
+      "reach",
+      "prove"
+    ]
+  },
+  {
+    "user_id": 1980301,
+    "bank_id": 3,
+    "age": 32,
+    "income_bracket": "低收入",
+    "tech_affinity": 0.3,
+    "risk_aversion": 0.51,
+    "interests": [
+      "reality",
+      "who",
+      "building"
+    ]
+  },
+  {
+    "user_id": 1887545,
+    "bank_id": 3,
+    "age": 38,
+    "income_bracket": "高收入",
+    "tech_affinity": 0.25,
+    "risk_aversion": 0.69,
+    "interests": [
+      "three",
+      "could",
+      "subject"
+    ]
+  },
+  {
+    "user_id": 1491934,
+    "bank_id": 3,
+    "age": 67,
+    "income_bracket": "高收入",
+    "tech_affinity": 0.44,
+    "risk_aversion": 0.8,
+    "interests": [
+      "yeah",
+      "radio",
+      "during"
+    ]
+  },
+  {
+    "user_id": 1497540,
+    "bank_id": 3,
+    "age": 40,
+    "income_bracket": "高收入",
+    "tech_affinity": 0.25,
+    "risk_aversion": 0.74,
+    "interests": [
+      "serious",
+      "experience",
+      "best"
+    ]
+  },
+  {
+    "user_id": 1061781,
+    "bank_id": 3,
+    "age": 43,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.21,
+    "risk_aversion": 0.6,
+    "interests": [
+      "various",
+      "role",
+      "job"
+    ]
+  },
+  {
+    "user_id": 1283429,
+    "bank_id": 3,
+    "age": 34,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.47,
+    "risk_aversion": 0.34,
+    "interests": [
+      "provide",
+      "seat",
+      "total"
+    ]
+  },
+  {
+    "user_id": 1520124,
+    "bank_id": 3,
+    "age": 29,
+    "income_bracket": "低收入",
+    "tech_affinity": 0.58,
+    "risk_aversion": 0.44,
+    "interests": [
+      "less",
+      "miss",
+      "several"
+    ]
+  },
+  {
+    "user_id": 1808341,
+    "bank_id": 3,
+    "age": 52,
+    "income_bracket": "低收入",
+    "tech_affinity": 0.44,
+    "risk_aversion": 0.73,
+    "interests": [
+      "maybe",
+      "suffer",
+      "operation"
+    ]
+  },
+  {
+    "user_id": 1818924,
+    "bank_id": 3,
+    "age": 34,
+    "income_bracket": "低收入",
+    "tech_affinity": 0.2,
+    "risk_aversion": 0.77,
+    "interests": [
+      "performance",
+      "move",
+      "collection"
+    ]
+  },
+  {
+    "user_id": 1323902,
+    "bank_id": 3,
+    "age": 45,
+    "income_bracket": "低收入",
+    "tech_affinity": 0.23,
+    "risk_aversion": 0.66,
+    "interests": [
+      "girl",
+      "various",
+      "thousand"
+    ]
+  },
+  {
+    "user_id": 1151542,
+    "bank_id": 3,
+    "age": 42,
+    "income_bracket": "高收入",
+    "tech_affinity": 0.26,
+    "risk_aversion": 0.94,
+    "interests": [
+      "education",
+      "shoulder",
+      "she"
+    ]
+  },
+  {
+    "user_id": 1033835,
+    "bank_id": 3,
+    "age": 36,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.2,
+    "risk_aversion": 0.95,
+    "interests": [
+      "around",
+      "across",
+      "hair"
+    ]
+  },
+  {
+    "user_id": 1702254,
+    "bank_id": 3,
+    "age": 54,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.17,
+    "risk_aversion": 0.69,
+    "interests": [
+      "between",
+      "tough",
+      "concern"
+    ]
+  },
+  {
+    "user_id": 1077368,
+    "bank_id": 3,
+    "age": 46,
+    "income_bracket": "高收入",
+    "tech_affinity": 0.28,
+    "risk_aversion": 0.96,
+    "interests": [
+      "when",
+      "pay",
+      "among"
+    ]
+  },
+  {
+    "user_id": 1287150,
+    "bank_id": 3,
+    "age": 54,
+    "income_bracket": "高收入",
+    "tech_affinity": 0.04,
+    "risk_aversion": 0.66,
+    "interests": [
+      "onto",
+      "produce",
+      "door"
+    ]
+  },
+  {
+    "user_id": 1733489,
+    "bank_id": 3,
+    "age": 49,
+    "income_bracket": "低收入",
+    "tech_affinity": 0.55,
+    "risk_aversion": 0.62,
+    "interests": [
+      "listen",
+      "sort",
+      "American"
+    ]
+  },
+  {
+    "user_id": 1565829,
+    "bank_id": 3,
+    "age": 32,
+    "income_bracket": "高收入",
+    "tech_affinity": 0.3,
+    "risk_aversion": 0.41,
+    "interests": [
+      "region",
+      "treatment",
+      "course"
+    ]
+  },
+  {
+    "user_id": 1651427,
+    "bank_id": 3,
+    "age": 60,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.06,
+    "risk_aversion": 0.76,
+    "interests": [
+      "sure",
+      "foreign",
+      "four"
+    ]
+  },
+  {
+    "user_id": 1623682,
+    "bank_id": 3,
+    "age": 24,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.38,
+    "risk_aversion": 0.88,
+    "interests": [
+      "story",
+      "another",
+      "husband"
+    ]
+  },
+  {
+    "user_id": 1284598,
+    "bank_id": 3,
+    "age": 25,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.02,
+    "risk_aversion": 0.82,
+    "interests": [
+      "fire",
+      "force",
+      "how"
+    ]
+  },
+  {
+    "user_id": 1620558,
+    "bank_id": 3,
+    "age": 39,
+    "income_bracket": "高收入",
+    "tech_affinity": 0.07,
+    "risk_aversion": 0.57,
+    "interests": [
+      "charge",
+      "within",
+      "tell"
+    ]
+  },
+  {
+    "user_id": 1747473,
+    "bank_id": 3,
+    "age": 23,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.19,
+    "risk_aversion": 0.32,
+    "interests": [
+      "feeling",
+      "indeed",
+      "hotel"
+    ]
+  },
+  {
+    "user_id": 1823577,
+    "bank_id": 3,
+    "age": 29,
+    "income_bracket": "低收入",
+    "tech_affinity": 0.1,
+    "risk_aversion": 0.51,
+    "interests": [
+      "want",
+      "family",
+      "she"
+    ]
+  },
+  {
+    "user_id": 1840534,
+    "bank_id": 3,
+    "age": 37,
+    "income_bracket": "低收入",
+    "tech_affinity": 0.47,
+    "risk_aversion": 0.84,
+    "interests": [
+      "enough",
+      "home",
+      "board"
+    ]
+  },
+  {
+    "user_id": 1238063,
+    "bank_id": 3,
+    "age": 53,
+    "income_bracket": "低收入",
+    "tech_affinity": 0.21,
+    "risk_aversion": 0.6,
+    "interests": [
+      "lay",
+      "sure",
+      "price"
+    ]
+  },
+  {
+    "user_id": 1469088,
+    "bank_id": 3,
+    "age": 18,
+    "income_bracket": "高收入",
+    "tech_affinity": 0.25,
+    "risk_aversion": 0.75,
+    "interests": [
+      "career",
+      "again",
+      "board"
+    ]
+  },
+  {
+    "user_id": 1932494,
+    "bank_id": 3,
+    "age": 38,
+    "income_bracket": "高收入",
+    "tech_affinity": 0.08,
+    "risk_aversion": 0.64,
+    "interests": [
+      "energy",
+      "entire",
+      "move"
+    ]
+  },
+  {
+    "user_id": 1090801,
+    "bank_id": 3,
+    "age": 54,
+    "income_bracket": "低收入",
+    "tech_affinity": 0.1,
+    "risk_aversion": 0.9,
+    "interests": [
+      "hold",
+      "tend",
+      "dream"
+    ]
+  },
+  {
+    "user_id": 1916416,
+    "bank_id": 3,
+    "age": 36,
+    "income_bracket": "高收入",
+    "tech_affinity": 0.49,
+    "risk_aversion": 0.75,
+    "interests": [
+      "offer",
+      "answer",
+      "occur"
+    ]
+  },
+  {
+    "user_id": 1251043,
+    "bank_id": 3,
+    "age": 36,
+    "income_bracket": "低收入",
+    "tech_affinity": 0.05,
+    "risk_aversion": 0.93,
+    "interests": [
+      "mission",
+      "former",
+      "occur"
+    ]
+  },
+  {
+    "user_id": 1597018,
+    "bank_id": 3,
+    "age": 50,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.33,
+    "risk_aversion": 0.61,
+    "interests": [
+      "certainly",
+      "view",
+      "listen"
+    ]
+  },
+  {
+    "user_id": 1360662,
+    "bank_id": 3,
+    "age": 35,
+    "income_bracket": "高收入",
+    "tech_affinity": 0.25,
+    "risk_aversion": 0.66,
+    "interests": [
+      "since",
+      "level",
+      "believe"
+    ]
+  },
+  {
+    "user_id": 1528037,
+    "bank_id": 3,
+    "age": 53,
+    "income_bracket": "高收入",
+    "tech_affinity": 0.22,
+    "risk_aversion": 0.91,
+    "interests": [
+      "pull",
+      "production",
+      "PM"
+    ]
+  },
+  {
+    "user_id": 1918032,
+    "bank_id": 3,
+    "age": 32,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.06,
+    "risk_aversion": 0.87,
+    "interests": [
+      "around",
+      "exactly",
+      "sort"
+    ]
+  },
+  {
+    "user_id": 1516418,
+    "bank_id": 3,
+    "age": 20,
+    "income_bracket": "高收入",
+    "tech_affinity": 0.11,
+    "risk_aversion": 0.6,
+    "interests": [
+      "certain",
+      "born",
+      "institution"
+    ]
+  },
+  {
+    "user_id": 1736301,
+    "bank_id": 3,
+    "age": 45,
+    "income_bracket": "低收入",
+    "tech_affinity": 0.1,
+    "risk_aversion": 0.88,
+    "interests": [
+      "his",
+      "of",
+      "state"
+    ]
+  },
+  {
+    "user_id": 1519483,
+    "bank_id": 3,
+    "age": 48,
+    "income_bracket": "高收入",
+    "tech_affinity": 0.5,
+    "risk_aversion": 0.66,
+    "interests": [
+      "day",
+      "process",
+      "suffer"
+    ]
+  },
+  {
+    "user_id": 1807653,
+    "bank_id": 3,
+    "age": 26,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.05,
+    "risk_aversion": 0.45,
+    "interests": [
+      "growth",
+      "moment",
+      "ground"
+    ]
+  },
+  {
+    "user_id": 1220365,
+    "bank_id": 3,
+    "age": 47,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.25,
+    "risk_aversion": 0.97,
+    "interests": [
+      "two",
+      "establish",
+      "kind"
+    ]
+  },
+  {
+    "user_id": 1452146,
+    "bank_id": 3,
+    "age": 22,
+    "income_bracket": "高收入",
+    "tech_affinity": 0.35,
+    "risk_aversion": 0.91,
+    "interests": [
+      "various",
+      "assume",
+      "through"
+    ]
+  },
+  {
+    "user_id": 1738880,
+    "bank_id": 3,
+    "age": 34,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.28,
+    "risk_aversion": 0.75,
+    "interests": [
+      "deal",
+      "join",
+      "ok"
+    ]
+  },
+  {
+    "user_id": 1013260,
+    "bank_id": 4,
+    "age": 21,
+    "income_bracket": "低收入",
+    "tech_affinity": 0.13,
+    "risk_aversion": 0.51,
+    "interests": [
+      "home",
+      "perform",
+      "guy"
+    ]
+  },
+  {
+    "user_id": 1600741,
+    "bank_id": 4,
+    "age": 42,
+    "income_bracket": "高收入",
+    "tech_affinity": 0.04,
+    "risk_aversion": 0.57,
+    "interests": [
+      "glass",
+      "tell",
+      "partner"
+    ]
+  },
+  {
+    "user_id": 1748737,
+    "bank_id": 4,
+    "age": 18,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.36,
+    "risk_aversion": 0.74,
+    "interests": [
+      "east",
+      "until",
+      "benefit"
+    ]
+  },
+  {
+    "user_id": 1774034,
+    "bank_id": 4,
+    "age": 42,
+    "income_bracket": "低收入",
+    "tech_affinity": 0.2,
+    "risk_aversion": 0.69,
+    "interests": [
+      "final",
+      "fill",
+      "list"
+    ]
+  },
+  {
+    "user_id": 1546495,
+    "bank_id": 4,
+    "age": 40,
+    "income_bracket": "低收入",
+    "tech_affinity": 0.17,
+    "risk_aversion": 0.73,
+    "interests": [
+      "behavior",
+      "list",
+      "activity"
+    ]
+  },
+  {
+    "user_id": 1685039,
+    "bank_id": 4,
+    "age": 24,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.48,
+    "risk_aversion": 0.54,
+    "interests": [
+      "cut",
+      "word",
+      "nearly"
+    ]
+  },
+  {
+    "user_id": 1729433,
+    "bank_id": 4,
+    "age": 35,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.18,
+    "risk_aversion": 0.89,
+    "interests": [
+      "produce",
+      "prevent",
+      "art"
+    ]
+  },
+  {
+    "user_id": 1158680,
+    "bank_id": 4,
+    "age": 33,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.41,
+    "risk_aversion": 0.51,
+    "interests": [
+      "clearly",
+      "break",
+      "world"
+    ]
+  },
+  {
+    "user_id": 1015812,
+    "bank_id": 4,
+    "age": 39,
+    "income_bracket": "低收入",
+    "tech_affinity": 0.53,
+    "risk_aversion": 0.42,
+    "interests": [
+      "right",
+      "still",
+      "economic"
+    ]
+  },
+  {
+    "user_id": 1871393,
+    "bank_id": 4,
+    "age": 44,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.28,
+    "risk_aversion": 0.94,
+    "interests": [
+      "education",
+      "watch",
+      "that"
+    ]
+  },
+  {
+    "user_id": 1043618,
+    "bank_id": 4,
+    "age": 44,
+    "income_bracket": "低收入",
+    "tech_affinity": 0.31,
+    "risk_aversion": 0.67,
+    "interests": [
+      "your",
+      "probably",
+      "center"
+    ]
+  },
+  {
+    "user_id": 1791090,
+    "bank_id": 4,
+    "age": 46,
+    "income_bracket": "高收入",
+    "tech_affinity": 0.35,
+    "risk_aversion": 0.64,
+    "interests": [
+      "deep",
+      "go",
+      "reach"
+    ]
+  },
+  {
+    "user_id": 1816690,
+    "bank_id": 4,
+    "age": 34,
+    "income_bracket": "低收入",
+    "tech_affinity": 0.31,
+    "risk_aversion": 0.57,
+    "interests": [
+      "together",
+      "tough",
+      "store"
+    ]
+  },
+  {
+    "user_id": 1567563,
+    "bank_id": 4,
+    "age": 42,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.16,
+    "risk_aversion": 0.6,
+    "interests": [
+      "skill",
+      "movement",
+      "top"
+    ]
+  },
+  {
+    "user_id": 1120731,
+    "bank_id": 4,
+    "age": 38,
+    "income_bracket": "低收入",
+    "tech_affinity": 0.3,
+    "risk_aversion": 0.67,
+    "interests": [
+      "right",
+      "boy",
+      "surface"
+    ]
+  },
+  {
+    "user_id": 1843709,
+    "bank_id": 4,
+    "age": 41,
+    "income_bracket": "低收入",
+    "tech_affinity": 0.15,
+    "risk_aversion": 0.39,
+    "interests": [
+      "form",
+      "return",
+      "assume"
+    ]
+  },
+  {
+    "user_id": 1688924,
+    "bank_id": 4,
+    "age": 44,
+    "income_bracket": "高收入",
+    "tech_affinity": 0.04,
+    "risk_aversion": 0.92,
+    "interests": [
+      "baby",
+      "glass",
+      "couple"
+    ]
+  },
+  {
+    "user_id": 1676916,
+    "bank_id": 4,
+    "age": 56,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.28,
+    "risk_aversion": 0.88,
+    "interests": [
+      "learn",
+      "keep",
+      "old"
+    ]
+  },
+  {
+    "user_id": 1848925,
+    "bank_id": 4,
+    "age": 33,
+    "income_bracket": "高收入",
+    "tech_affinity": 0.33,
+    "risk_aversion": 0.92,
+    "interests": [
+      "marriage",
+      "soldier",
+      "alone"
+    ]
+  },
+  {
+    "user_id": 1399448,
+    "bank_id": 4,
+    "age": 24,
+    "income_bracket": "低收入",
+    "tech_affinity": 0.21,
+    "risk_aversion": 0.91,
+    "interests": [
+      "record",
+      "politics",
+      "ten"
+    ]
+  },
+  {
+    "user_id": 1064723,
+    "bank_id": 4,
+    "age": 60,
+    "income_bracket": "低收入",
+    "tech_affinity": 0.21,
+    "risk_aversion": 0.8,
+    "interests": [
+      "spring",
+      "science",
+      "throughout"
+    ]
+  },
+  {
+    "user_id": 1934406,
+    "bank_id": 4,
+    "age": 46,
+    "income_bracket": "低收入",
+    "tech_affinity": 0.29,
+    "risk_aversion": 0.95,
+    "interests": [
+      "statement",
+      "road",
+      "Mrs"
+    ]
+  },
+  {
+    "user_id": 1329293,
+    "bank_id": 4,
+    "age": 44,
+    "income_bracket": "高收入",
+    "tech_affinity": 0.22,
+    "risk_aversion": 0.95,
+    "interests": [
+      "both",
+      "whether",
+      "blue"
+    ]
+  },
+  {
+    "user_id": 1070418,
+    "bank_id": 4,
+    "age": 49,
+    "income_bracket": "低收入",
+    "tech_affinity": 0.5,
+    "risk_aversion": 0.55,
+    "interests": [
+      "near",
+      "cover",
+      "look"
+    ]
+  },
+  {
+    "user_id": 1810963,
+    "bank_id": 4,
+    "age": 23,
+    "income_bracket": "高收入",
+    "tech_affinity": 0.35,
+    "risk_aversion": 0.45,
+    "interests": [
+      "every",
+      "white",
+      "rate"
+    ]
+  },
+  {
+    "user_id": 1912212,
+    "bank_id": 4,
+    "age": 54,
+    "income_bracket": "高收入",
+    "tech_affinity": 0.25,
+    "risk_aversion": 0.93,
+    "interests": [
+      "practice",
+      "street",
+      "hair"
+    ]
+  },
+  {
+    "user_id": 1081686,
+    "bank_id": 4,
+    "age": 29,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.31,
+    "risk_aversion": 0.84,
+    "interests": [
+      "lawyer",
+      "probably",
+      "understand"
+    ]
+  },
+  {
+    "user_id": 1736246,
+    "bank_id": 4,
+    "age": 48,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.09,
+    "risk_aversion": 0.54,
+    "interests": [
+      "scene",
+      "prove",
+      "a"
+    ]
+  },
+  {
+    "user_id": 1395356,
+    "bank_id": 4,
+    "age": 39,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.48,
+    "risk_aversion": 0.44,
+    "interests": [
+      "fear",
+      "war",
+      "protect"
+    ]
+  },
+  {
+    "user_id": 1152935,
+    "bank_id": 4,
+    "age": 60,
+    "income_bracket": "低收入",
+    "tech_affinity": 0.27,
+    "risk_aversion": 0.33,
+    "interests": [
+      "environmental",
+      "significant",
+      "score"
+    ]
+  },
+  {
+    "user_id": 1223915,
+    "bank_id": 4,
+    "age": 24,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.32,
+    "risk_aversion": 0.67,
+    "interests": [
+      "soon",
+      "into",
+      "wind"
+    ]
+  },
+  {
+    "user_id": 1708853,
+    "bank_id": 4,
+    "age": 45,
+    "income_bracket": "低收入",
+    "tech_affinity": 0.34,
+    "risk_aversion": 0.91,
+    "interests": [
+      "own",
+      "goal",
+      "order"
+    ]
+  },
+  {
+    "user_id": 1243774,
+    "bank_id": 4,
+    "age": 66,
+    "income_bracket": "高收入",
+    "tech_affinity": 0.24,
+    "risk_aversion": 0.96,
+    "interests": [
+      "if",
+      "recently",
+      "single"
+    ]
+  },
+  {
+    "user_id": 1600679,
+    "bank_id": 4,
+    "age": 42,
+    "income_bracket": "高收入",
+    "tech_affinity": 0.16,
+    "risk_aversion": 0.67,
+    "interests": [
+      "project",
+      "but",
+      "media"
+    ]
+  },
+  {
+    "user_id": 1583940,
+    "bank_id": 4,
+    "age": 35,
+    "income_bracket": "高收入",
+    "tech_affinity": 0.17,
+    "risk_aversion": 0.93,
+    "interests": [
+      "at",
+      "reflect",
+      "night"
+    ]
+  },
+  {
+    "user_id": 1909673,
+    "bank_id": 4,
+    "age": 41,
+    "income_bracket": "低收入",
+    "tech_affinity": 0.34,
+    "risk_aversion": 0.43,
+    "interests": [
+      "remember",
+      "phone",
+      "protect"
+    ]
+  },
+  {
+    "user_id": 1884493,
+    "bank_id": 4,
+    "age": 46,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.2,
+    "risk_aversion": 0.5,
+    "interests": [
+      "today",
+      "perhaps",
+      "party"
+    ]
+  },
+  {
+    "user_id": 1184555,
+    "bank_id": 4,
+    "age": 44,
+    "income_bracket": "低收入",
+    "tech_affinity": 0.24,
+    "risk_aversion": 0.47,
+    "interests": [
+      "office",
+      "audience",
+      "window"
+    ]
+  },
+  {
+    "user_id": 1738292,
+    "bank_id": 4,
+    "age": 21,
+    "income_bracket": "低收入",
+    "tech_affinity": 0.26,
+    "risk_aversion": 0.68,
+    "interests": [
+      "arm",
+      "summer",
+      "until"
+    ]
+  },
+  {
+    "user_id": 1188388,
+    "bank_id": 4,
+    "age": 50,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.08,
+    "risk_aversion": 0.91,
+    "interests": [
+      "parent",
+      "officer",
+      "deal"
+    ]
+  },
+  {
+    "user_id": 1318826,
+    "bank_id": 4,
+    "age": 43,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.26,
+    "risk_aversion": 0.88,
+    "interests": [
+      "only",
+      "relate",
+      "behavior"
+    ]
+  },
+  {
+    "user_id": 1683830,
+    "bank_id": 4,
+    "age": 37,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.25,
+    "risk_aversion": 0.94,
+    "interests": [
+      "account",
+      "popular",
+      "certainly"
+    ]
+  },
+  {
+    "user_id": 1867459,
+    "bank_id": 4,
+    "age": 27,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.14,
+    "risk_aversion": 0.52,
+    "interests": [
+      "sound",
+      "inside",
+      "range"
+    ]
+  },
+  {
+    "user_id": 1102321,
+    "bank_id": 4,
+    "age": 35,
+    "income_bracket": "高收入",
+    "tech_affinity": 0.45,
+    "risk_aversion": 0.7,
+    "interests": [
+      "firm",
+      "community",
+      "certain"
+    ]
+  },
+  {
+    "user_id": 1568838,
+    "bank_id": 4,
+    "age": 33,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.51,
+    "risk_aversion": 0.75,
+    "interests": [
+      "with",
+      "yeah",
+      "tax"
+    ]
+  },
+  {
+    "user_id": 1728180,
+    "bank_id": 4,
+    "age": 60,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.15,
+    "risk_aversion": 0.84,
+    "interests": [
+      "talk",
+      "talk",
+      "democratic"
+    ]
+  },
+  {
+    "user_id": 1268362,
+    "bank_id": 4,
+    "age": 29,
+    "income_bracket": "高收入",
+    "tech_affinity": 0.34,
+    "risk_aversion": 0.26,
+    "interests": [
+      "one",
+      "economy",
+      "then"
+    ]
+  },
+  {
+    "user_id": 1172285,
+    "bank_id": 4,
+    "age": 18,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.2,
+    "risk_aversion": 0.82,
+    "interests": [
+      "west",
+      "everything",
+      "save"
+    ]
+  },
+  {
+    "user_id": 1429011,
+    "bank_id": 4,
+    "age": 48,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.48,
+    "risk_aversion": 0.82,
+    "interests": [
+      "just",
+      "have",
+      "without"
+    ]
+  },
+  {
+    "user_id": 1023991,
+    "bank_id": 4,
+    "age": 38,
+    "income_bracket": "低收入",
+    "tech_affinity": 0.06,
+    "risk_aversion": 0.77,
+    "interests": [
+      "mouth",
+      "opportunity",
+      "position"
+    ]
+  },
+  {
+    "user_id": 1715826,
+    "bank_id": 5,
+    "age": 27,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.07,
+    "risk_aversion": 0.45,
+    "interests": [
+      "soon",
+      "somebody",
+      "than"
+    ]
+  },
+  {
+    "user_id": 1740757,
+    "bank_id": 5,
+    "age": 25,
+    "income_bracket": "高收入",
+    "tech_affinity": 0.08,
+    "risk_aversion": 0.95,
+    "interests": [
+      "candidate",
+      "lawyer",
+      "charge"
+    ]
+  },
+  {
+    "user_id": 1256306,
+    "bank_id": 5,
+    "age": 40,
+    "income_bracket": "高收入",
+    "tech_affinity": 0.08,
+    "risk_aversion": 0.41,
+    "interests": [
+      "where",
+      "involve",
+      "begin"
+    ]
+  },
+  {
+    "user_id": 1518995,
+    "bank_id": 5,
+    "age": 44,
+    "income_bracket": "高收入",
+    "tech_affinity": 0.11,
+    "risk_aversion": 0.8,
+    "interests": [
+      "provide",
+      "follow",
+      "dark"
+    ]
+  },
+  {
+    "user_id": 1564026,
+    "bank_id": 5,
+    "age": 37,
+    "income_bracket": "高收入",
+    "tech_affinity": 0.23,
+    "risk_aversion": 0.39,
+    "interests": [
+      "cup",
+      "say",
+      "method"
+    ]
+  },
+  {
+    "user_id": 1032770,
+    "bank_id": 5,
+    "age": 48,
+    "income_bracket": "低收入",
+    "tech_affinity": 0.18,
+    "risk_aversion": 0.93,
+    "interests": [
+      "research",
+      "pattern",
+      "build"
+    ]
+  },
+  {
+    "user_id": 1966329,
+    "bank_id": 5,
+    "age": 33,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.19,
+    "risk_aversion": 0.61,
+    "interests": [
+      "dog",
+      "film",
+      "economy"
+    ]
+  },
+  {
+    "user_id": 1081601,
+    "bank_id": 5,
+    "age": 23,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.1,
+    "risk_aversion": 0.34,
+    "interests": [
+      "write",
+      "minute",
+      "then"
+    ]
+  },
+  {
+    "user_id": 1057095,
+    "bank_id": 5,
+    "age": 41,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.33,
+    "risk_aversion": 0.81,
+    "interests": [
+      "summer",
+      "between",
+      "necessary"
+    ]
+  },
+  {
+    "user_id": 1562754,
+    "bank_id": 5,
+    "age": 34,
+    "income_bracket": "高收入",
+    "tech_affinity": 0.15,
+    "risk_aversion": 0.58,
+    "interests": [
+      "continue",
+      "pattern",
+      "miss"
+    ]
+  },
+  {
+    "user_id": 1051915,
+    "bank_id": 5,
+    "age": 44,
+    "income_bracket": "高收入",
+    "tech_affinity": 0.52,
+    "risk_aversion": 0.69,
+    "interests": [
+      "degree",
+      "word",
+      "wall"
+    ]
+  },
+  {
+    "user_id": 1400701,
+    "bank_id": 5,
+    "age": 19,
+    "income_bracket": "高收入",
+    "tech_affinity": 0.38,
+    "risk_aversion": 0.72,
+    "interests": [
+      "reach",
+      "yes",
+      "job"
+    ]
+  },
+  {
+    "user_id": 1201987,
+    "bank_id": 5,
+    "age": 38,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.44,
+    "risk_aversion": 0.81,
+    "interests": [
+      "its",
+      "dinner",
+      "then"
+    ]
+  },
+  {
+    "user_id": 1849057,
+    "bank_id": 5,
+    "age": 38,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.35,
+    "risk_aversion": 0.85,
+    "interests": [
+      "group",
+      "wide",
+      "trip"
+    ]
+  },
+  {
+    "user_id": 1591961,
+    "bank_id": 5,
+    "age": 59,
+    "income_bracket": "低收入",
+    "tech_affinity": 0.08,
+    "risk_aversion": 0.91,
+    "interests": [
+      "all",
+      "about",
+      "control"
+    ]
+  },
+  {
+    "user_id": 1722774,
+    "bank_id": 5,
+    "age": 46,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.49,
+    "risk_aversion": 0.66,
+    "interests": [
+      "father",
+      "role",
+      "let"
+    ]
+  },
+  {
+    "user_id": 1334024,
+    "bank_id": 5,
+    "age": 34,
+    "income_bracket": "高收入",
+    "tech_affinity": 0.17,
+    "risk_aversion": 0.76,
+    "interests": [
+      "grow",
+      "around",
+      "oil"
+    ]
+  },
+  {
+    "user_id": 1404234,
+    "bank_id": 5,
+    "age": 49,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.43,
+    "risk_aversion": 0.89,
+    "interests": [
+      "want",
+      "always",
+      "street"
+    ]
+  },
+  {
+    "user_id": 1819999,
+    "bank_id": 5,
+    "age": 18,
+    "income_bracket": "高收入",
+    "tech_affinity": 0.1,
+    "risk_aversion": 0.8,
+    "interests": [
+      "though",
+      "court",
+      "make"
+    ]
+  },
+  {
+    "user_id": 1042895,
+    "bank_id": 5,
+    "age": 28,
+    "income_bracket": "低收入",
+    "tech_affinity": 0.53,
+    "risk_aversion": 0.65,
+    "interests": [
+      "image",
+      "politics",
+      "choice"
+    ]
+  },
+  {
+    "user_id": 1290813,
+    "bank_id": 5,
+    "age": 43,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.2,
+    "risk_aversion": 0.75,
+    "interests": [
+      "south",
+      "hospital",
+      "start"
+    ]
+  },
+  {
+    "user_id": 1919761,
+    "bank_id": 5,
+    "age": 36,
+    "income_bracket": "低收入",
+    "tech_affinity": 0.66,
+    "risk_aversion": 0.74,
+    "interests": [
+      "network",
+      "position",
+      "actually"
+    ]
+  },
+  {
+    "user_id": 1991310,
+    "bank_id": 5,
+    "age": 47,
+    "income_bracket": "低收入",
+    "tech_affinity": 0.11,
+    "risk_aversion": 0.63,
+    "interests": [
+      "compare",
+      "space",
+      "bag"
+    ]
+  },
+  {
+    "user_id": 1774130,
+    "bank_id": 5,
+    "age": 26,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.3,
+    "risk_aversion": 0.56,
+    "interests": [
+      "child",
+      "worry",
+      "event"
+    ]
+  },
+  {
+    "user_id": 1608150,
+    "bank_id": 5,
+    "age": 36,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.38,
+    "risk_aversion": 0.91,
+    "interests": [
+      "hand",
+      "yet",
+      "story"
+    ]
+  },
+  {
+    "user_id": 1167719,
+    "bank_id": 5,
+    "age": 47,
+    "income_bracket": "高收入",
+    "tech_affinity": 0.12,
+    "risk_aversion": 0.63,
+    "interests": [
+      "story",
+      "employee",
+      "avoid"
+    ]
+  },
+  {
+    "user_id": 1219576,
+    "bank_id": 5,
+    "age": 36,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.31,
+    "risk_aversion": 0.57,
+    "interests": [
+      "daughter",
+      "join",
+      "every"
+    ]
+  },
+  {
+    "user_id": 1439036,
+    "bank_id": 5,
+    "age": 29,
+    "income_bracket": "高收入",
+    "tech_affinity": 0.47,
+    "risk_aversion": 0.82,
+    "interests": [
+      "account",
+      "moment",
+      "member"
+    ]
+  },
+  {
+    "user_id": 1044003,
+    "bank_id": 5,
+    "age": 49,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.14,
+    "risk_aversion": 0.34,
+    "interests": [
+      "lay",
+      "house",
+      "popular"
+    ]
+  },
+  {
+    "user_id": 1297299,
+    "bank_id": 5,
+    "age": 35,
+    "income_bracket": "低收入",
+    "tech_affinity": 0.25,
+    "risk_aversion": 0.65,
+    "interests": [
+      "meeting",
+      "bit",
+      "ability"
+    ]
+  },
+  {
+    "user_id": 1943077,
+    "bank_id": 5,
+    "age": 41,
+    "income_bracket": "高收入",
+    "tech_affinity": 0.58,
+    "risk_aversion": 0.84,
+    "interests": [
+      "particular",
+      "four",
+      "class"
+    ]
+  },
+  {
+    "user_id": 1436550,
+    "bank_id": 5,
+    "age": 27,
+    "income_bracket": "低收入",
+    "tech_affinity": 0.32,
+    "risk_aversion": 0.92,
+    "interests": [
+      "price",
+      "win",
+      "energy"
+    ]
+  },
+  {
+    "user_id": 1904054,
+    "bank_id": 5,
+    "age": 31,
+    "income_bracket": "高收入",
+    "tech_affinity": 0.23,
+    "risk_aversion": 0.57,
+    "interests": [
+      "oil",
+      "director",
+      "lose"
+    ]
+  },
+  {
+    "user_id": 1269554,
+    "bank_id": 5,
+    "age": 59,
+    "income_bracket": "低收入",
+    "tech_affinity": 0.63,
+    "risk_aversion": 0.45,
+    "interests": [
+      "available",
+      "drop",
+      "peace"
+    ]
+  },
+  {
+    "user_id": 1356478,
+    "bank_id": 5,
+    "age": 34,
+    "income_bracket": "低收入",
+    "tech_affinity": 0.62,
+    "risk_aversion": 0.78,
+    "interests": [
+      "off",
+      "reduce",
+      "plant"
+    ]
+  },
+  {
+    "user_id": 1081926,
+    "bank_id": 5,
+    "age": 25,
+    "income_bracket": "低收入",
+    "tech_affinity": 0.24,
+    "risk_aversion": 0.83,
+    "interests": [
+      "cultural",
+      "everyone",
+      "mention"
+    ]
+  },
+  {
+    "user_id": 1847741,
+    "bank_id": 5,
+    "age": 27,
+    "income_bracket": "低收入",
+    "tech_affinity": 0.15,
+    "risk_aversion": 0.85,
+    "interests": [
+      "commercial",
+      "walk",
+      "Democrat"
+    ]
+  },
+  {
+    "user_id": 1428778,
+    "bank_id": 5,
+    "age": 23,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.81,
+    "risk_aversion": 0.9,
+    "interests": [
+      "never",
+      "continue",
+      "audience"
+    ]
+  },
+  {
+    "user_id": 1933814,
+    "bank_id": 5,
+    "age": 28,
+    "income_bracket": "高收入",
+    "tech_affinity": 0.44,
+    "risk_aversion": 0.5,
+    "interests": [
+      "can",
+      "third",
+      "thing"
+    ]
+  },
+  {
+    "user_id": 1863302,
+    "bank_id": 5,
+    "age": 34,
+    "income_bracket": "高收入",
+    "tech_affinity": 0.08,
+    "risk_aversion": 0.82,
+    "interests": [
+      "according",
+      "customer",
+      "ability"
+    ]
+  },
+  {
+    "user_id": 1867877,
+    "bank_id": 5,
+    "age": 30,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.57,
+    "risk_aversion": 0.83,
+    "interests": [
+      "cold",
+      "north",
+      "example"
+    ]
+  },
+  {
+    "user_id": 1570274,
+    "bank_id": 5,
+    "age": 36,
+    "income_bracket": "高收入",
+    "tech_affinity": 0.07,
+    "risk_aversion": 0.38,
+    "interests": [
+      "past",
+      "ball",
+      "friend"
+    ]
+  },
+  {
+    "user_id": 1360913,
+    "bank_id": 5,
+    "age": 61,
+    "income_bracket": "高收入",
+    "tech_affinity": 0.09,
+    "risk_aversion": 0.56,
+    "interests": [
+      "amount",
+      "ask",
+      "per"
+    ]
+  },
+  {
+    "user_id": 1526224,
+    "bank_id": 5,
+    "age": 46,
+    "income_bracket": "高收入",
+    "tech_affinity": 0.18,
+    "risk_aversion": 0.65,
+    "interests": [
+      "worker",
+      "pull",
+      "number"
+    ]
+  },
+  {
+    "user_id": 1141324,
+    "bank_id": 5,
+    "age": 45,
+    "income_bracket": "低收入",
+    "tech_affinity": 0.2,
+    "risk_aversion": 0.37,
+    "interests": [
+      "evening",
+      "successful",
+      "view"
+    ]
+  },
+  {
+    "user_id": 1071070,
+    "bank_id": 5,
+    "age": 25,
+    "income_bracket": "高收入",
+    "tech_affinity": 0.47,
+    "risk_aversion": 0.79,
+    "interests": [
+      "inside",
+      "sit",
+      "policy"
+    ]
+  },
+  {
+    "user_id": 1993478,
+    "bank_id": 5,
+    "age": 21,
+    "income_bracket": "低收入",
+    "tech_affinity": 0.19,
+    "risk_aversion": 0.79,
+    "interests": [
+      "assume",
+      "while",
+      "space"
+    ]
+  },
+  {
+    "user_id": 1640412,
+    "bank_id": 5,
+    "age": 34,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.1,
+    "risk_aversion": 0.77,
+    "interests": [
+      "day",
+      "prove",
+      "culture"
+    ]
+  },
+  {
+    "user_id": 1455947,
+    "bank_id": 5,
+    "age": 31,
+    "income_bracket": "高收入",
+    "tech_affinity": 0.33,
+    "risk_aversion": 0.69,
+    "interests": [
+      "price",
+      "could",
+      "price"
+    ]
+  },
+  {
+    "user_id": 1726254,
+    "bank_id": 5,
+    "age": 21,
+    "income_bracket": "低收入",
+    "tech_affinity": 0.53,
+    "risk_aversion": 0.89,
+    "interests": [
+      "somebody",
+      "safe",
+      "window"
+    ]
+  },
+  {
+    "user_id": 1228433,
+    "bank_id": 6,
+    "age": 29,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.11,
+    "risk_aversion": 0.93,
+    "interests": [
+      "second",
+      "practice",
+      "sell"
+    ]
+  },
+  {
+    "user_id": 1218907,
+    "bank_id": 6,
+    "age": 40,
+    "income_bracket": "高收入",
+    "tech_affinity": 0.17,
+    "risk_aversion": 0.79,
+    "interests": [
+      "because",
+      "road",
+      "case"
+    ]
+  },
+  {
+    "user_id": 1161431,
+    "bank_id": 6,
+    "age": 31,
+    "income_bracket": "高收入",
+    "tech_affinity": 0.14,
+    "risk_aversion": 0.67,
+    "interests": [
+      "gun",
+      "sit",
+      "street"
+    ]
+  },
+  {
+    "user_id": 1620039,
+    "bank_id": 6,
+    "age": 29,
+    "income_bracket": "高收入",
+    "tech_affinity": 0.4,
+    "risk_aversion": 0.76,
+    "interests": [
+      "standard",
+      "top",
+      "begin"
+    ]
+  },
+  {
+    "user_id": 1791248,
+    "bank_id": 6,
+    "age": 28,
+    "income_bracket": "高收入",
+    "tech_affinity": 0.3,
+    "risk_aversion": 0.69,
+    "interests": [
+      "kid",
+      "company",
+      "society"
+    ]
+  },
+  {
+    "user_id": 1566126,
+    "bank_id": 6,
+    "age": 33,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.57,
+    "risk_aversion": 0.79,
+    "interests": [
+      "former",
+      "these",
+      "card"
+    ]
+  },
+  {
+    "user_id": 1161835,
+    "bank_id": 6,
+    "age": 52,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.48,
+    "risk_aversion": 0.72,
+    "interests": [
+      "world",
+      "smile",
+      "recently"
+    ]
+  },
+  {
+    "user_id": 1082999,
+    "bank_id": 6,
+    "age": 39,
+    "income_bracket": "低收入",
+    "tech_affinity": 0.48,
+    "risk_aversion": 0.82,
+    "interests": [
+      "live",
+      "power",
+      "situation"
+    ]
+  },
+  {
+    "user_id": 1708674,
+    "bank_id": 6,
+    "age": 38,
+    "income_bracket": "低收入",
+    "tech_affinity": 0.06,
+    "risk_aversion": 0.81,
+    "interests": [
+      "report",
+      "back",
+      "hear"
+    ]
+  },
+  {
+    "user_id": 1089074,
+    "bank_id": 6,
+    "age": 45,
+    "income_bracket": "低收入",
+    "tech_affinity": 0.28,
+    "risk_aversion": 0.5,
+    "interests": [
+      "than",
+      "take",
+      "actually"
+    ]
+  },
+  {
+    "user_id": 1101479,
+    "bank_id": 6,
+    "age": 41,
+    "income_bracket": "低收入",
+    "tech_affinity": 0.35,
+    "risk_aversion": 0.44,
+    "interests": [
+      "move",
+      "leg",
+      "set"
+    ]
+  },
+  {
+    "user_id": 1881013,
+    "bank_id": 6,
+    "age": 48,
+    "income_bracket": "低收入",
+    "tech_affinity": 0.39,
+    "risk_aversion": 0.42,
+    "interests": [
+      "condition",
+      "show",
+      "respond"
+    ]
+  },
+  {
+    "user_id": 1254215,
+    "bank_id": 6,
+    "age": 39,
+    "income_bracket": "高收入",
+    "tech_affinity": 0.15,
+    "risk_aversion": 0.97,
+    "interests": [
+      "change",
+      "reflect",
+      "when"
+    ]
+  },
+  {
+    "user_id": 1042309,
+    "bank_id": 6,
+    "age": 49,
+    "income_bracket": "低收入",
+    "tech_affinity": 0.47,
+    "risk_aversion": 0.72,
+    "interests": [
+      "never",
+      "citizen",
+      "well"
+    ]
+  },
+  {
+    "user_id": 1339657,
+    "bank_id": 6,
+    "age": 58,
+    "income_bracket": "高收入",
+    "tech_affinity": 0.27,
+    "risk_aversion": 0.64,
+    "interests": [
+      "increase",
+      "single",
+      "approach"
+    ]
+  },
+  {
+    "user_id": 1909153,
+    "bank_id": 6,
+    "age": 53,
+    "income_bracket": "高收入",
+    "tech_affinity": 0.29,
+    "risk_aversion": 0.69,
+    "interests": [
+      "international",
+      "ball",
+      "quality"
+    ]
+  },
+  {
+    "user_id": 1719553,
+    "bank_id": 6,
+    "age": 53,
+    "income_bracket": "低收入",
+    "tech_affinity": 0.09,
+    "risk_aversion": 0.52,
+    "interests": [
+      "religious",
+      "opportunity",
+      "rise"
+    ]
+  },
+  {
+    "user_id": 1023759,
+    "bank_id": 6,
+    "age": 32,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.33,
+    "risk_aversion": 0.61,
+    "interests": [
+      "well",
+      "that",
+      "assume"
+    ]
+  },
+  {
+    "user_id": 1876565,
+    "bank_id": 6,
+    "age": 34,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.44,
+    "risk_aversion": 0.91,
+    "interests": [
+      "stuff",
+      "of",
+      "five"
+    ]
+  },
+  {
+    "user_id": 1075877,
+    "bank_id": 6,
+    "age": 40,
+    "income_bracket": "高收入",
+    "tech_affinity": 0.1,
+    "risk_aversion": 0.57,
+    "interests": [
+      "throughout",
+      "open",
+      "various"
+    ]
+  },
+  {
+    "user_id": 1292010,
+    "bank_id": 6,
+    "age": 26,
+    "income_bracket": "低收入",
+    "tech_affinity": 0.26,
+    "risk_aversion": 0.47,
+    "interests": [
+      "safe",
+      "something",
+      "among"
+    ]
+  },
+  {
+    "user_id": 1515604,
+    "bank_id": 6,
+    "age": 35,
+    "income_bracket": "低收入",
+    "tech_affinity": 0.34,
+    "risk_aversion": 0.83,
+    "interests": [
+      "heart",
+      "staff",
+      "war"
+    ]
+  },
+  {
+    "user_id": 1277307,
+    "bank_id": 6,
+    "age": 42,
+    "income_bracket": "高收入",
+    "tech_affinity": 0.27,
+    "risk_aversion": 0.9,
+    "interests": [
+      "believe",
+      "full",
+      "single"
+    ]
+  },
+  {
+    "user_id": 1062856,
+    "bank_id": 6,
+    "age": 33,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.56,
+    "risk_aversion": 0.5,
+    "interests": [
+      "measure",
+      "none",
+      "test"
+    ]
+  },
+  {
+    "user_id": 1045903,
+    "bank_id": 6,
+    "age": 40,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.41,
+    "risk_aversion": 0.78,
+    "interests": [
+      "phone",
+      "necessary",
+      "lay"
+    ]
+  },
+  {
+    "user_id": 1752119,
+    "bank_id": 6,
+    "age": 41,
+    "income_bracket": "高收入",
+    "tech_affinity": 0.06,
+    "risk_aversion": 0.64,
+    "interests": [
+      "push",
+      "author",
+      "final"
+    ]
+  },
+  {
+    "user_id": 1129405,
+    "bank_id": 6,
+    "age": 38,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.32,
+    "risk_aversion": 0.54,
+    "interests": [
+      "everyone",
+      "continue",
+      "against"
+    ]
+  },
+  {
+    "user_id": 1205009,
+    "bank_id": 6,
+    "age": 35,
+    "income_bracket": "高收入",
+    "tech_affinity": 0.26,
+    "risk_aversion": 0.49,
+    "interests": [
+      "could",
+      "ten",
+      "situation"
+    ]
+  },
+  {
+    "user_id": 1750895,
+    "bank_id": 6,
+    "age": 27,
+    "income_bracket": "低收入",
+    "tech_affinity": 0.22,
+    "risk_aversion": 0.86,
+    "interests": [
+      "able",
+      "health",
+      "for"
+    ]
+  },
+  {
+    "user_id": 1280048,
+    "bank_id": 6,
+    "age": 37,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.06,
+    "risk_aversion": 0.73,
+    "interests": [
+      "make",
+      "probably",
+      "example"
+    ]
+  },
+  {
+    "user_id": 1951541,
+    "bank_id": 6,
+    "age": 48,
+    "income_bracket": "低收入",
+    "tech_affinity": 0.3,
+    "risk_aversion": 0.61,
+    "interests": [
+      "yet",
+      "too",
+      "decision"
+    ]
+  },
+  {
+    "user_id": 1643373,
+    "bank_id": 6,
+    "age": 59,
+    "income_bracket": "低收入",
+    "tech_affinity": 0.35,
+    "risk_aversion": 0.58,
+    "interests": [
+      "former",
+      "soldier",
+      "against"
+    ]
+  },
+  {
+    "user_id": 1880388,
+    "bank_id": 6,
+    "age": 38,
+    "income_bracket": "低收入",
+    "tech_affinity": 0.56,
+    "risk_aversion": 0.55,
+    "interests": [
+      "head",
+      "reach",
+      "while"
+    ]
+  },
+  {
+    "user_id": 1503853,
+    "bank_id": 6,
+    "age": 32,
+    "income_bracket": "低收入",
+    "tech_affinity": 0.15,
+    "risk_aversion": 0.73,
+    "interests": [
+      "common",
+      "put",
+      "strategy"
+    ]
+  },
+  {
+    "user_id": 1212087,
+    "bank_id": 6,
+    "age": 32,
+    "income_bracket": "低收入",
+    "tech_affinity": 0.15,
+    "risk_aversion": 0.67,
+    "interests": [
+      "everybody",
+      "like",
+      "garden"
+    ]
+  },
+  {
+    "user_id": 1449691,
+    "bank_id": 6,
+    "age": 38,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.32,
+    "risk_aversion": 0.82,
+    "interests": [
+      "hour",
+      "through",
+      "spend"
+    ]
+  },
+  {
+    "user_id": 1620260,
+    "bank_id": 6,
+    "age": 47,
+    "income_bracket": "高收入",
+    "tech_affinity": 0.21,
+    "risk_aversion": 0.73,
+    "interests": [
+      "also",
+      "free",
+      "exactly"
+    ]
+  },
+  {
+    "user_id": 1631858,
+    "bank_id": 6,
+    "age": 40,
+    "income_bracket": "低收入",
+    "tech_affinity": 0.4,
+    "risk_aversion": 0.75,
+    "interests": [
+      "student",
+      "within",
+      "floor"
+    ]
+  },
+  {
+    "user_id": 1438412,
+    "bank_id": 6,
+    "age": 32,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.05,
+    "risk_aversion": 0.61,
+    "interests": [
+      "ability",
+      "sing",
+      "name"
+    ]
+  },
+  {
+    "user_id": 1020084,
+    "bank_id": 6,
+    "age": 55,
+    "income_bracket": "低收入",
+    "tech_affinity": 0.04,
+    "risk_aversion": 0.95,
+    "interests": [
+      "last",
+      "us",
+      "any"
+    ]
+  },
+  {
+    "user_id": 1705318,
+    "bank_id": 6,
+    "age": 18,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.09,
+    "risk_aversion": 0.53,
+    "interests": [
+      "attention",
+      "subject",
+      "meeting"
+    ]
+  },
+  {
+    "user_id": 1720960,
+    "bank_id": 6,
+    "age": 44,
+    "income_bracket": "低收入",
+    "tech_affinity": 0.39,
+    "risk_aversion": 0.96,
+    "interests": [
+      "vote",
+      "wear",
+      "join"
+    ]
+  },
+  {
+    "user_id": 1613884,
+    "bank_id": 6,
+    "age": 36,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.37,
+    "risk_aversion": 0.58,
+    "interests": [
+      "medical",
+      "or",
+      "face"
+    ]
+  },
+  {
+    "user_id": 1444911,
+    "bank_id": 6,
+    "age": 54,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.1,
+    "risk_aversion": 0.92,
+    "interests": [
+      "trial",
+      "summer",
+      "me"
+    ]
+  },
+  {
+    "user_id": 1474099,
+    "bank_id": 6,
+    "age": 36,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.53,
+    "risk_aversion": 0.47,
+    "interests": [
+      "discuss",
+      "everybody",
+      "few"
+    ]
+  },
+  {
+    "user_id": 1486237,
+    "bank_id": 6,
+    "age": 35,
+    "income_bracket": "高收入",
+    "tech_affinity": 0.11,
+    "risk_aversion": 0.86,
+    "interests": [
+      "audience",
+      "argue",
+      "bill"
+    ]
+  },
+  {
+    "user_id": 1499328,
+    "bank_id": 6,
+    "age": 55,
+    "income_bracket": "低收入",
+    "tech_affinity": 0.07,
+    "risk_aversion": 0.84,
+    "interests": [
+      "street",
+      "billion",
+      "feeling"
+    ]
+  },
+  {
+    "user_id": 1758024,
+    "bank_id": 6,
+    "age": 36,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.56,
+    "risk_aversion": 0.81,
+    "interests": [
+      "end",
+      "behind",
+      "cell"
+    ]
+  },
+  {
+    "user_id": 1858301,
+    "bank_id": 6,
+    "age": 40,
+    "income_bracket": "中等收入",
+    "tech_affinity": 0.46,
+    "risk_aversion": 0.64,
+    "interests": [
+      "program",
+      "again",
+      "important"
+    ]
+  },
+  {
+    "user_id": 1197581,
+    "bank_id": 6,
+    "age": 41,
+    "income_bracket": "低收入",
+    "tech_affinity": 0.2,
+    "risk_aversion": 0.92,
+    "interests": [
+      "total",
+      "bring",
+      "fire"
+    ]
+  }
+]

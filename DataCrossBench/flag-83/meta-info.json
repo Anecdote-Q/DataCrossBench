@@ -1,0 +1,20 @@
+{
+    "goal": "分析北证50指数强劲回升的驱动因素，特别是政策扶持和审核效率提升的影响。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 北证50指数自底部反弹以来涨幅达145%，显示出强劲的市场复苏趋势。",
+        "Comparison: 北交所的成交金额在2023年10月仅占三市总成交额的0.1%，但在流动性复苏后迅速修复至2%。",
+        "Extreme: 北交所的成交额在2024年达到峰值占比3.65%，显示出市场活跃度的显著提升。",
+        "Attribution: 北交所的强势回归与政策扶持力度加大、审核效率提升密切相关，形成了“北京—上海—深圳”三足鼎立的资本市场格局。"
+    ],
+    "summary": "本报告探讨了北交所的市场表现及其在多层次资本市场中的角色，强调了北证50指数的强势回归及其投资机会。",
+    "flag_id": "flag-83",
+    "classifier": "Fund Analysis",
+    "classifier_cn": "基金分析",
+    "input_files": [
+        "output/background.txt",
+        "output/dimension_data.db",
+        "output/transactions.png",
+        "output/user_profiles.json"
+    ]
+}

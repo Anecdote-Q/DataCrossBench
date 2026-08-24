@@ -1,0 +1,24 @@
+{
+    "goal": "评估Meta电商平台在社交互动与用户体验结合方面的市场定位与传统电商的竞争力。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: Meta的电商手续费率为2.90%，与Paypal的3.49%相比较具竞争力，显示出其在电商领域的定价策略。",
+        "Comparison: Meta的电商平台与传统电商相比，强调社交互动和用户体验的结合，形成了独特的市场定位。",
+        "Extreme: Meta的电商业务在2024年4月24日后将不再支持没有开通站内结账功能的Shop，显示出其对平台质量的严格把控。",
+        "Attribution: Meta的电商策略需要考虑广告流量与Shop流量之间的平衡，以实现盈利目标。"
+    ],
+    "summary": "本报告探讨了Meta在社交电商领域的进展及其与传统电商的不同之处，分析了未来发展的制约因素。",
+    "flag_id": "flag-24",
+    "classifier": "Internet Firms",
+    "classifier_cn": "互联网公司研究",
+    "input_files": [
+        "output/business_background.txt",
+        "output/dimensions.db",
+        "output/order_amount_by_gender.png",
+        "output/order_amount_vs_discount_rate.png",
+        "output/order_amount_vs_quantity.png",
+        "output/order_count_by_category.png",
+        "output/orders_fact.csv",
+        "output/user_profiles.json"
+    ]
+}

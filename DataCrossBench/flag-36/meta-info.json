@@ -1,0 +1,20 @@
+{
+    "goal": "分析2023年海外短剧内购收入增长至15亿美元的驱动因素。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 2023年海外短剧内购收入规模不到1亿美元，2024年预计内购收入将达15亿美元，2025年预计内购收入将达38亿美元，显示出市场的快速增长。",
+        "Comparison: 2024年海外电影票房规模为242亿美元，而短剧内购收入预计将达到15亿美元，显示出短剧市场的潜力。",
+        "Extreme: 第4页显示了海外短剧的买量成本约占收入的50%，这在行业中属于较高水平。",
+        "Attribution: 短剧的爆火是中国网文产业历经十年积累后的一次必然延伸与视频化升级，市场需求与供给侧的结构性问题之间的不平衡推动了短剧的快速发展。"
+    ],
+    "summary": "海外短剧市场正在经历爆发式增长，预计到2025年内购收入将达到38亿美元，短剧的商业模式和用户需求正在不断演变，市场竞争格局逐渐稳定。",
+    "flag_id": "flag-36",
+    "classifier": "Short-form Drama",
+    "classifier_cn": "短剧/微短剧内容",
+    "input_files": [
+        "output/business_background.txt",
+        "output/dimension_data.db",
+        "output/overseas_short_drama_revenue.csv",
+        "output/user_profiles.json"
+    ]
+}

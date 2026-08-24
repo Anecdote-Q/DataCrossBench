@@ -1,0 +1,20 @@
+{
+    "goal": "分析华商基金在2025年第一季度基金数量增长的驱动因素。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 截至2025年第一季度，华商基金管理的基金数量达到95只，显示出其在市场中的扩张能力。",
+        "Comparison: 华商基金的混合型基金规模为403.20亿元，占比33.0%，显示出其在混合型基金市场的强劲表现。",
+        "Extreme: 华商基金获得《中国证券报》评选的“金牛基金管理公司奖”4次，显示出其在行业中的卓越表现。",
+        "Attribution: 华商基金在管理规模与数量上处于市场前列，显示出市场的认可度不断提高，吸引了更多投资者的关注。"
+    ],
+    "summary": "华商基金管理公司在管理规模和数量上表现优异，资产管理总规模达到1220.2亿元，显示出市场的认可度不断提高。基金的行业配置逐渐均衡，特别是在小盘成长股和科技股方面展现出投资机会。",
+    "flag_id": "flag-84",
+    "classifier": "Fund Analysis",
+    "classifier_cn": "基金分析",
+    "input_files": [
+        "output/business_background.txt",
+        "output/fund_fact_data.png",
+        "output/fund_management_dimension.db",
+        "output/market_trends.json"
+    ]
+}

@@ -1,0 +1,1880 @@
+[
+  {
+    "user_id": 1,
+    "demographics": {
+      "age": 45,
+      "gender": "M",
+      "income": 49705
+    },
+    "preferences": [
+      "长剧",
+      "体育"
+    ],
+    "activity_scores": {
+      "upload_frequency": 0.19,
+      "average_watch_time": 65.0,
+      "interaction_rate": 0.016
+    },
+    "signup_date": "2024-03-11",
+    "notes": null
+  },
+  {
+    "user_id": 2,
+    "demographics": {
+      "age": 33,
+      "gender": "M",
+      "income": 64926
+    },
+    "preferences": [
+      "短剧",
+      "纪录片",
+      "体育"
+    ],
+    "activity_scores": {
+      "upload_frequency": 0.52,
+      "average_watch_time": 31.5,
+      "interaction_rate": 0.134
+    },
+    "signup_date": "2023-08-05",
+    "notes": null
+  },
+  {
+    "user_id": 3,
+    "demographics": {
+      "age": 33,
+      "gender": "F",
+      "income": 76084
+    },
+    "preferences": [
+      "长剧",
+      "综艺",
+      "电影"
+    ],
+    "activity_scores": {
+      "upload_frequency": 0.38,
+      "average_watch_time": 48.6,
+      "interaction_rate": 0.11
+    },
+    "signup_date": "2024-11-27",
+    "notes": "最新社会以下数据.还有汽车国内报告.留言这些不同威望因此不会一直.\n单位组织地方地方以及关系比较.相关影响品牌威望因为她的单位发生.部分大家特别市场."
+  },
+  {
+    "user_id": 4,
+    "demographics": {
+      "age": 26,
+      "gender": "F",
+      "income": 60322
+    },
+    "preferences": [
+      "电影",
+      "动漫",
+      "综艺"
+    ],
+    "activity_scores": {
+      "upload_frequency": 0.04,
+      "average_watch_time": 23.9,
+      "interaction_rate": 0.117
+    },
+    "signup_date": "2023-11-04",
+    "notes": "部分目前最新环境.\n具有有些联系客户中国销售.当然男人以下为什在线.作品提高安全是否位置.虽然表示应该推荐功能当前.\n自己女人进入标题.进入大学不同这里继续商品商品市场.其实可能浏览可能成功."
+  },
+  {
+    "user_id": 5,
+    "demographics": {
+      "age": 18,
+      "gender": "M",
+      "income": 62596
+    },
+    "preferences": [
+      "短剧",
+      "综艺"
+    ],
+    "activity_scores": {
+      "upload_frequency": 0.21,
+      "average_watch_time": 48.4,
+      "interaction_rate": 0.162
+    },
+    "signup_date": "2024-04-18",
+    "notes": null
+  },
+  {
+    "user_id": 6,
+    "demographics": {
+      "age": 27,
+      "gender": "F",
+      "income": 50084
+    },
+    "preferences": [
+      "动漫"
+    ],
+    "activity_scores": {
+      "upload_frequency": 0.29,
+      "average_watch_time": 41.2,
+      "interaction_rate": 0.153
+    },
+    "signup_date": "2023-11-27",
+    "notes": "音乐不能什么这样.一般教育公司网上继续学生一直.\n联系业务最后一些进行其实.一种的话本站电子但是你们本站免费."
+  },
+  {
+    "user_id": 7,
+    "demographics": {
+      "age": 20,
+      "gender": "F",
+      "income": 66002
+    },
+    "preferences": [
+      "动漫"
+    ],
+    "activity_scores": {
+      "upload_frequency": 0.19,
+      "average_watch_time": 50.1,
+      "interaction_rate": 0.096
+    },
+    "signup_date": "2023-10-18",
+    "notes": "历史那么工具手机.不是学生方式新闻工具为什.责任这么最后内容可能因为.\n都是问题生产.没有企业次数注册城市制作最后.怎么内容的是以及所以国家运行来自.\n威望专业必须通过中心.\n必须提高增加只有学习."
+  },
+  {
+    "user_id": 8,
+    "demographics": {
+      "age": 27,
+      "gender": "M",
+      "income": 83570
+    },
+    "preferences": [
+      "综艺",
+      "动漫"
+    ],
+    "activity_scores": {
+      "upload_frequency": 0.14,
+      "average_watch_time": 40.9,
+      "interaction_rate": 0.118
+    },
+    "signup_date": "2024-11-01",
+    "notes": null
+  },
+  {
+    "user_id": 9,
+    "demographics": {
+      "age": 21,
+      "gender": "F",
+      "income": 58986
+    },
+    "preferences": [
+      "短剧",
+      "体育",
+      "综艺"
+    ],
+    "activity_scores": {
+      "upload_frequency": 0.49,
+      "average_watch_time": 23.8,
+      "interaction_rate": 0.101
+    },
+    "signup_date": "2023-07-03",
+    "notes": "参加威望地方社区日本使用.有关作品中国产品作品文章直接处理.\n论坛更新影响那个看到那个东西.运行很多状态免费查看手机提供.\n进行软件选择.都是行业人民为什没有开发但是点击."
+  },
+  {
+    "user_id": 10,
+    "demographics": {
+      "age": 30,
+      "gender": "M",
+      "income": 41853
+    },
+    "preferences": [
+      "综艺",
+      "电影"
+    ],
+    "activity_scores": {
+      "upload_frequency": 0.05,
+      "average_watch_time": 30.4,
+      "interaction_rate": 0.028
+    },
+    "signup_date": "2024-06-08",
+    "notes": "简介认为部门主题.处理经验可能登录具有建设.生产开始有限特别直接特别目前.\n选择支持经营只要开发.全国很多一起作为成功.\n产品或者世界其实客户操作这是.\n全部的话建设评论密码解决.原因经营任何需要."
+  },
+  {
+    "user_id": 11,
+    "demographics": {
+      "age": 51,
+      "gender": "F",
+      "income": 65407
+    },
+    "preferences": [
+      "体育"
+    ],
+    "activity_scores": {
+      "upload_frequency": 0.01,
+      "average_watch_time": 70.0,
+      "interaction_rate": 0.12
+    },
+    "signup_date": "2023-02-27",
+    "notes": "音乐以下新闻为什主要.更多过程完成时候法律联系.\n所以有关基本有关生活.完全今年包括这个其中您的可能.密码那个世界正在事情音乐.\n那个学习广告如此.那个希望虽然中文在线为什管理."
+  },
+  {
+    "user_id": 12,
+    "demographics": {
+      "age": 29,
+      "gender": "F",
+      "income": 49804
+    },
+    "preferences": [
+      "纪录片"
+    ],
+    "activity_scores": {
+      "upload_frequency": 0.18,
+      "average_watch_time": 56.7,
+      "interaction_rate": 0.058
+    },
+    "signup_date": "2024-05-07",
+    "notes": "有关使用这个留言经营看到.空间不要可是大家孩子对于.\n为什工作状态电脑作品开发.关于基本选择安全.\n什么电子地方论坛时间是否.地址解决起来她的内容内容介绍商品."
+  },
+  {
+    "user_id": 13,
+    "demographics": {
+      "age": 29,
+      "gender": "M",
+      "income": 42280
+    },
+    "preferences": [
+      "长剧"
+    ],
+    "activity_scores": {
+      "upload_frequency": 0.38,
+      "average_watch_time": 37.2,
+      "interaction_rate": 0.043
+    },
+    "signup_date": "2023-09-29",
+    "notes": "方法作为产品安全浏览法律.要求用户评论经验新闻.广告评论可是.\n销售电影积分.以及一切质量工作.就是时间作为看到这种发生世界开始.教育以下注意系统."
+  },
+  {
+    "user_id": 14,
+    "demographics": {
+      "age": 18,
+      "gender": "M",
+      "income": 42399
+    },
+    "preferences": [
+      "短剧",
+      "电影"
+    ],
+    "activity_scores": {
+      "upload_frequency": 0.21,
+      "average_watch_time": 44.2,
+      "interaction_rate": 0.06
+    },
+    "signup_date": "2023-12-15",
+    "notes": null
+  },
+  {
+    "user_id": 15,
+    "demographics": {
+      "age": 33,
+      "gender": "F",
+      "income": 72780
+    },
+    "preferences": [
+      "动漫",
+      "长剧",
+      "纪录片"
+    ],
+    "activity_scores": {
+      "upload_frequency": 0.33,
+      "average_watch_time": 29.0,
+      "interaction_rate": 0.126
+    },
+    "signup_date": "2024-11-14",
+    "notes": "商品工具科技根据直接程序准备.单位完全你的知道研究.本站参加网上评论.\n帖子之后评论你们这里这个这么.无法提供是一推荐不是网络."
+  },
+  {
+    "user_id": 16,
+    "demographics": {
+      "age": 30,
+      "gender": "M",
+      "income": 57478
+    },
+    "preferences": [
+      "短剧"
+    ],
+    "activity_scores": {
+      "upload_frequency": 0.19,
+      "average_watch_time": 59.6,
+      "interaction_rate": 0.17
+    },
+    "signup_date": "2023-06-21",
+    "notes": "操作其他文件具有.拥有根据国际日本帖子社区控制状态.\n之后怎么以上包括能够国际全国.自己不要环境今年自己.\n程序无法专业活动以及无法那些.之间技术继续当然通过地区."
+  },
+  {
+    "user_id": 17,
+    "demographics": {
+      "age": 33,
+      "gender": "M",
+      "income": 41179
+    },
+    "preferences": [
+      "综艺"
+    ],
+    "activity_scores": {
+      "upload_frequency": 0.33,
+      "average_watch_time": 35.4,
+      "interaction_rate": 0.047
+    },
+    "signup_date": "2023-04-28",
+    "notes": "这些最大进入学习公司他的什么觉得.状态情况方式不要影响地方.要求或者虽然社会重要.\n游戏参加社区生活设备.报告完全还有学习电子虽然.日期系列操作参加.\n进行商品最后.网络简介方式分析."
+  },
+  {
+    "user_id": 18,
+    "demographics": {
+      "age": 33,
+      "gender": "M",
+      "income": 31725
+    },
+    "preferences": [
+      "动漫",
+      "短剧"
+    ],
+    "activity_scores": {
+      "upload_frequency": 0.39,
+      "average_watch_time": 46.5,
+      "interaction_rate": 0.08
+    },
+    "signup_date": "2023-06-26",
+    "notes": null
+  },
+  {
+    "user_id": 19,
+    "demographics": {
+      "age": 30,
+      "gender": "M",
+      "income": 28193
+    },
+    "preferences": [
+      "纪录片"
+    ],
+    "activity_scores": {
+      "upload_frequency": 0.14,
+      "average_watch_time": 62.0,
+      "interaction_rate": 0.183
+    },
+    "signup_date": "2023-08-04",
+    "notes": "当前地区以后.她的技术品牌比较威望.\n大家表示今年出现.技术手机一些汽车.自己回复工程位置质量那个语言之间."
+  },
+  {
+    "user_id": 20,
+    "demographics": {
+      "age": 28,
+      "gender": "F",
+      "income": 67781
+    },
+    "preferences": [
+      "纪录片"
+    ],
+    "activity_scores": {
+      "upload_frequency": 0.4,
+      "average_watch_time": 40.2,
+      "interaction_rate": 0.129
+    },
+    "signup_date": "2024-05-03",
+    "notes": "次数这样以后新闻完成.完成介绍会员文化不同.\n功能其中东西以上基本那些计划工具.可能不会教育.\n谢谢大小作为工具情况过程.\n相关以下他的行业发现更多世界."
+  },
+  {
+    "user_id": 21,
+    "demographics": {
+      "age": 23,
+      "gender": "M",
+      "income": null
+    },
+    "preferences": [
+      "综艺",
+      "纪录片"
+    ],
+    "activity_scores": {
+      "upload_frequency": 0.21,
+      "average_watch_time": 37.3,
+      "interaction_rate": 0.087
+    },
+    "signup_date": "2023-12-30",
+    "notes": "国家规定参加制作密码控制状态.查看注册的是喜欢进入人员希望同时.北京精华深圳控制.阅读处理如此重要说明一下无法.\n中心觉得功能一次谢谢处理.系列完全如果评论到了积分以上很多."
+  },
+  {
+    "user_id": 22,
+    "demographics": {
+      "age": 33,
+      "gender": "F",
+      "income": 56834
+    },
+    "preferences": [
+      "综艺"
+    ],
+    "activity_scores": {
+      "upload_frequency": 0.37,
+      "average_watch_time": 39.8,
+      "interaction_rate": 0.079
+    },
+    "signup_date": "2023-05-02",
+    "notes": "发表之后东西学校运行.或者文件还有控制所以资源.程序一定本站重要.\n质量国内关于注册是一日本.任何无法直接点击音乐.\n最大查看当前大家标准一下生产直接.提供这个情况软件.社区怎么操作支持应该程序."
+  },
+  {
+    "user_id": 23,
+    "demographics": {
+      "age": 38,
+      "gender": "M",
+      "income": 56117
+    },
+    "preferences": [
+      "动漫",
+      "短剧"
+    ],
+    "activity_scores": {
+      "upload_frequency": 0.12,
+      "average_watch_time": 29.0,
+      "interaction_rate": 0.029
+    },
+    "signup_date": "2023-06-04",
+    "notes": null
+  },
+  {
+    "user_id": 24,
+    "demographics": {
+      "age": 44,
+      "gender": "M",
+      "income": 39601
+    },
+    "preferences": [
+      "综艺",
+      "动漫",
+      "体育"
+    ],
+    "activity_scores": {
+      "upload_frequency": 0.17,
+      "average_watch_time": 29.9,
+      "interaction_rate": 0.024
+    },
+    "signup_date": "2023-08-14",
+    "notes": "注意感觉一直同时.生产来自更新搜索能力在线.\n我的成为一般商品.继续点击以上具有大家要求一次责任.\n以上一般帖子所有.一下觉得还是你们科技就是.这里影响都是您的一点通过功能是否."
+  },
+  {
+    "user_id": 25,
+    "demographics": {
+      "age": 47,
+      "gender": "F",
+      "income": 57447
+    },
+    "preferences": [
+      "短剧",
+      "电影"
+    ],
+    "activity_scores": {
+      "upload_frequency": 0.6,
+      "average_watch_time": 67.3,
+      "interaction_rate": 0.109
+    },
+    "signup_date": "2024-12-03",
+    "notes": "文件详细知道他们加入是否.不断位置重要感觉本站大学这样.或者文章东西网站.\n我的女人文化标题什么影响.两个主要登录电脑这种作者工作.\n国内关于全国你的那个不能国际.由于汽车继续作品相关."
+  },
+  {
+    "user_id": 26,
+    "demographics": {
+      "age": 32,
+      "gender": "M",
+      "income": 64057
+    },
+    "preferences": [
+      "动漫",
+      "长剧",
+      "体育"
+    ],
+    "activity_scores": {
+      "upload_frequency": 0.17,
+      "average_watch_time": 33.8,
+      "interaction_rate": 0.093
+    },
+    "signup_date": "2024-05-29",
+    "notes": "中心不会中文提供社区起来参加.最新学生商品决定完全继续结果.什么决定生产帖子.\n文章加入学习手机投资.正在广告这个留言密码文章.部门目前有些威望只是系列."
+  },
+  {
+    "user_id": 27,
+    "demographics": {
+      "age": 22,
+      "gender": "M",
+      "income": 62848
+    },
+    "preferences": [
+      "短剧"
+    ],
+    "activity_scores": {
+      "upload_frequency": 0.36,
+      "average_watch_time": 33.0,
+      "interaction_rate": 0.196
+    },
+    "signup_date": "2023-03-11",
+    "notes": "计划日期发布问题.是一因为国际加入.\n没有质量出来.免费市场类别下载.\n如何用户可是积分重要设备发展.数据首页不要国际资源.选择标准加入运行."
+  },
+  {
+    "user_id": 28,
+    "demographics": {
+      "age": 45,
+      "gender": "M",
+      "income": 66305
+    },
+    "preferences": [
+      "动漫"
+    ],
+    "activity_scores": {
+      "upload_frequency": 0.42,
+      "average_watch_time": 33.6,
+      "interaction_rate": 0.049
+    },
+    "signup_date": "2023-10-28",
+    "notes": null
+  },
+  {
+    "user_id": 29,
+    "demographics": {
+      "age": 32,
+      "gender": "M",
+      "income": null
+    },
+    "preferences": [
+      "电影"
+    ],
+    "activity_scores": {
+      "upload_frequency": 0.16,
+      "average_watch_time": 59.8,
+      "interaction_rate": 0.158
+    },
+    "signup_date": "2023-09-24",
+    "notes": "服务次数推荐.中文为什点击.过程完全能够女人.\n发展实现管理一样来自.个人推荐还有汽车.\n计划他们有些参加位置.浏览我的留言发布位置电脑生活以及.作为关系帮助游戏音乐根据语言."
+  },
+  {
+    "user_id": 30,
+    "demographics": {
+      "age": 24,
+      "gender": "F",
+      "income": 58379
+    },
+    "preferences": [
+      "纪录片",
+      "短剧",
+      "体育"
+    ],
+    "activity_scores": {
+      "upload_frequency": 0.33,
+      "average_watch_time": 47.1,
+      "interaction_rate": 0.146
+    },
+    "signup_date": "2024-01-11",
+    "notes": "我的同时拥有所有.自己各种来源起来空间.\n其中广告一次更多开发.对于选择标准喜欢同时.\n标准我们全国正在你的基本.其中目前事情网上分析一种那么查看."
+  },
+  {
+    "user_id": 31,
+    "demographics": {
+      "age": 26,
+      "gender": "M",
+      "income": 44884
+    },
+    "preferences": [
+      "短剧",
+      "电影"
+    ],
+    "activity_scores": {
+      "upload_frequency": 0.15,
+      "average_watch_time": 26.9,
+      "interaction_rate": 0.077
+    },
+    "signup_date": "2024-03-25",
+    "notes": "上海必须电影价格支持非常.大小以下谢谢密码.什么无法联系全国的人最大以后.\n包括企业关于留言也是手机.\n深圳由于情况无法.有限日期单位要求特别进入."
+  },
+  {
+    "user_id": 32,
+    "demographics": {
+      "age": 18,
+      "gender": "F",
+      "income": null
+    },
+    "preferences": [
+      "纪录片"
+    ],
+    "activity_scores": {
+      "upload_frequency": 0.37,
+      "average_watch_time": 40.8,
+      "interaction_rate": 0.092
+    },
+    "signup_date": "2023-04-19",
+    "notes": null
+  },
+  {
+    "user_id": 33,
+    "demographics": {
+      "age": 18,
+      "gender": "F",
+      "income": 46222
+    },
+    "preferences": [
+      "综艺",
+      "短剧"
+    ],
+    "activity_scores": {
+      "upload_frequency": 0.41,
+      "average_watch_time": 48.8,
+      "interaction_rate": 0.189
+    },
+    "signup_date": "2023-04-20",
+    "notes": "名称文化她的下载目前日本.评论中文政府.这里之后首页公司学校.之间经营文件手机.\n你们注意提供不是有限.个人环境位置阅读支持注意.工作精华大学责任."
+  },
+  {
+    "user_id": 34,
+    "demographics": {
+      "age": 41,
+      "gender": "M",
+      "income": 49711
+    },
+    "preferences": [
+      "电影"
+    ],
+    "activity_scores": {
+      "upload_frequency": 0.3,
+      "average_watch_time": 57.4,
+      "interaction_rate": 0.134
+    },
+    "signup_date": "2023-05-15",
+    "notes": "就是地址准备问题建设登录已经.\n学校联系人员电子说明价格.\n或者浏览重要电影价格.可以主题一起.今天影响等级活动.\n大家不同男人作者大学回复.都是语言如何说明推荐.如何知道记者如何."
+  },
+  {
+    "user_id": 35,
+    "demographics": {
+      "age": 18,
+      "gender": "M",
+      "income": null
+    },
+    "preferences": [
+      "动漫",
+      "长剧"
+    ],
+    "activity_scores": {
+      "upload_frequency": 0.16,
+      "average_watch_time": 74.0,
+      "interaction_rate": 0.109
+    },
+    "signup_date": "2023-08-20",
+    "notes": "成功看到显示活动一点的人应该.位置目前的人不会操作.生产文化不同音乐关于关于时间.投资成为发表东西会员全国研究.\n能力安全然后朋友.比较那么内容点击也是.\n在线过程发布得到觉得密码."
+  },
+  {
+    "user_id": 36,
+    "demographics": {
+      "age": 37,
+      "gender": "F",
+      "income": 63040
+    },
+    "preferences": [
+      "纪录片"
+    ],
+    "activity_scores": {
+      "upload_frequency": 0.07,
+      "average_watch_time": 48.9,
+      "interaction_rate": 0.122
+    },
+    "signup_date": "2024-07-18",
+    "notes": "实现包括对于文化更多中文.名称积分来源只有喜欢相关自己.\n中文知道不能建设.准备游戏解决社会这种.类别操作更多一种.\n关系专业之间比较的话次数一切这些.影响报告不同点击说明游戏很多发现."
+  },
+  {
+    "user_id": 37,
+    "demographics": {
+      "age": 48,
+      "gender": "F",
+      "income": null
+    },
+    "preferences": [
+      "短剧"
+    ],
+    "activity_scores": {
+      "upload_frequency": 0.17,
+      "average_watch_time": 25.4,
+      "interaction_rate": 0.066
+    },
+    "signup_date": "2023-07-20",
+    "notes": "解决商品用户注意.一起来源只有.自己工具中国业务以上地方进行.专业提高作品合作孩子为了下载威望.\n知道其实到了系统等级两个进入只要.学习根据看到感觉实现的话法律."
+  },
+  {
+    "user_id": 38,
+    "demographics": {
+      "age": 21,
+      "gender": "M",
+      "income": 55814
+    },
+    "preferences": [
+      "长剧"
+    ],
+    "activity_scores": {
+      "upload_frequency": 0.44,
+      "average_watch_time": 39.9,
+      "interaction_rate": 0.06
+    },
+    "signup_date": "2024-10-31",
+    "notes": "支持为什一种这种现在.是一次数更多推荐为什.\n历史情况全部方面支持认为.只是得到这是状态一定标题发现美国.不过汽车国际不要阅读公司.\n其他业务设备这里责任作品记者.首页回复详细由于.下载认为计划."
+  },
+  {
+    "user_id": 39,
+    "demographics": {
+      "age": 23,
+      "gender": "F",
+      "income": 59463
+    },
+    "preferences": [
+      "体育"
+    ],
+    "activity_scores": {
+      "upload_frequency": 0.27,
+      "average_watch_time": 29.3,
+      "interaction_rate": 0.044
+    },
+    "signup_date": "2023-01-13",
+    "notes": "更多情况注册国内.但是得到有限是否免费.\n发生一切点击登录有关他们客户大学.为了方面留言工程.次数过程网络.\n没有不同这是发现有些服务项目.北京在线方式根据帖子."
+  },
+  {
+    "user_id": 40,
+    "demographics": {
+      "age": 54,
+      "gender": "M",
+      "income": 25696
+    },
+    "preferences": [
+      "综艺"
+    ],
+    "activity_scores": {
+      "upload_frequency": 0.31,
+      "average_watch_time": 62.0,
+      "interaction_rate": 0.031
+    },
+    "signup_date": "2024-03-03",
+    "notes": "这里一些包括服务信息.控制行业事情进入基本操作由于主要.用户单位游戏当然.\n直接专业发生决定.之后开始经验."
+  },
+  {
+    "user_id": 41,
+    "demographics": {
+      "age": 40,
+      "gender": "M",
+      "income": 58742
+    },
+    "preferences": [
+      "综艺",
+      "短剧"
+    ],
+    "activity_scores": {
+      "upload_frequency": 0.23,
+      "average_watch_time": 59.2,
+      "interaction_rate": 0.029
+    },
+    "signup_date": "2024-04-09",
+    "notes": null
+  },
+  {
+    "user_id": 42,
+    "demographics": {
+      "age": 40,
+      "gender": "F",
+      "income": 59335
+    },
+    "preferences": [
+      "电影",
+      "体育"
+    ],
+    "activity_scores": {
+      "upload_frequency": 0.48,
+      "average_watch_time": 44.3,
+      "interaction_rate": 0.049
+    },
+    "signup_date": "2024-10-28",
+    "notes": "感觉比较起来.处理继续国际那些工程历史.\n精华文章大家.在线网络专业.为什合作中国比较首页世界深圳.\n她的论坛由于商品更多资料.这样信息电影也是一定.还有不要企业要求.处理那么的话来自网站文化这个."
+  },
+  {
+    "user_id": 43,
+    "demographics": {
+      "age": 22,
+      "gender": "F",
+      "income": 37476
+    },
+    "preferences": [
+      "动漫"
+    ],
+    "activity_scores": {
+      "upload_frequency": 0.1,
+      "average_watch_time": 37.9,
+      "interaction_rate": 0.027
+    },
+    "signup_date": "2023-05-29",
+    "notes": "目前有关深圳完全信息.方法能力电影因此决定.\n详细而且有些.\n具有有关标题情况管理之间.资源业务商品对于最后你们.\n用户起来那些资源希望时间.免费其他质量.结果发展怎么使用一个安全然后."
+  },
+  {
+    "user_id": 44,
+    "demographics": {
+      "age": 35,
+      "gender": "M",
+      "income": 71217
+    },
+    "preferences": [
+      "体育"
+    ],
+    "activity_scores": {
+      "upload_frequency": 0.26,
+      "average_watch_time": 39.1,
+      "interaction_rate": 0.047
+    },
+    "signup_date": "2024-06-26",
+    "notes": "那些管理详细由于.\n需要销售应该支持然后学生首页.的话的人北京软件参加世界希望.点击个人联系他的只有到了人民.\n客户出现操作位置标题全国.建设投资本站得到来源注意精华.决定能够时候什么地区现在."
+  },
+  {
+    "user_id": 45,
+    "demographics": {
+      "age": 27,
+      "gender": "M",
+      "income": 74423
+    },
+    "preferences": [
+      "纪录片"
+    ],
+    "activity_scores": {
+      "upload_frequency": 0.22,
+      "average_watch_time": 61.8,
+      "interaction_rate": 0.121
+    },
+    "signup_date": "2024-05-22",
+    "notes": "回复首页系列空间.是一全部现在当前资料功能主题服务.控制我们个人进入提高查看需要.可以所以到了根据.\n责任如果发生产品新闻法律她的.国际国家选择精华希望音乐."
+  },
+  {
+    "user_id": 46,
+    "demographics": {
+      "age": 29,
+      "gender": "F",
+      "income": 31838
+    },
+    "preferences": [
+      "纪录片",
+      "综艺",
+      "电影"
+    ],
+    "activity_scores": {
+      "upload_frequency": 0.41,
+      "average_watch_time": 36.6,
+      "interaction_rate": 0.02
+    },
+    "signup_date": "2024-10-23",
+    "notes": null
+  },
+  {
+    "user_id": 47,
+    "demographics": {
+      "age": 18,
+      "gender": "M",
+      "income": 61059
+    },
+    "preferences": [
+      "电影",
+      "综艺",
+      "体育"
+    ],
+    "activity_scores": {
+      "upload_frequency": 0.2,
+      "average_watch_time": 32.5,
+      "interaction_rate": 0.072
+    },
+    "signup_date": "2023-03-04",
+    "notes": "操作工程不能看到.只要到了公司.\n日期市场然后城市.阅读一点注册这些之后社会.还有行业对于.\n很多法律政府所以工程法律.评论次数这么成为文件国家实现.\n怎么最大以下但是.关系介绍专业主题."
+  },
+  {
+    "user_id": 48,
+    "demographics": {
+      "age": 49,
+      "gender": "M",
+      "income": 48572
+    },
+    "preferences": [
+      "长剧"
+    ],
+    "activity_scores": {
+      "upload_frequency": 0.26,
+      "average_watch_time": 20.3,
+      "interaction_rate": 0.112
+    },
+    "signup_date": "2024-10-18",
+    "notes": "主题事情的话大家目前我们各种.下载程序电脑作为留言注意出现继续.\n这么可以日期.人民发表什么应该女人会员.国家有关你们如何一些一个重要."
+  },
+  {
+    "user_id": 49,
+    "demographics": {
+      "age": 41,
+      "gender": "F",
+      "income": 62688
+    },
+    "preferences": [
+      "综艺",
+      "电影"
+    ],
+    "activity_scores": {
+      "upload_frequency": 0.4,
+      "average_watch_time": 47.1,
+      "interaction_rate": 0.173
+    },
+    "signup_date": "2024-08-28",
+    "notes": "注意包括以后直接.管理需要品牌深圳客户北京.\n这里而且浏览谢谢原因然后.成为这里相关政府其他方面他的.操作如此系统控制.\n阅读那些音乐.安全首页一点服务."
+  },
+  {
+    "user_id": 50,
+    "demographics": {
+      "age": 32,
+      "gender": "F",
+      "income": 20287
+    },
+    "preferences": [
+      "电影",
+      "纪录片",
+      "动漫"
+    ],
+    "activity_scores": {
+      "upload_frequency": 0.34,
+      "average_watch_time": 47.8,
+      "interaction_rate": 0.143
+    },
+    "signup_date": "2023-06-16",
+    "notes": "详细应用还有.人员以后文化来源.销售帖子而且朋友专业不会.为什国内以下提高而且科技发生.\n学习时候或者一点.帮助密码开发必须当前当前.\n这里信息日期完全什么作者环境.自己电话自己数据."
+  },
+  {
+    "user_id": 51,
+    "demographics": {
+      "age": 28,
+      "gender": "M",
+      "income": 75488
+    },
+    "preferences": [
+      "纪录片",
+      "体育"
+    ],
+    "activity_scores": {
+      "upload_frequency": 0.11,
+      "average_watch_time": 67.3,
+      "interaction_rate": 0.014
+    },
+    "signup_date": "2024-09-16",
+    "notes": "品牌他们继续孩子一起增加.他的手机以上已经.\n她的中心电脑为什无法.项目当前客户注意需要.\n发表所有浏览次数品牌文章.日期业务密码自己看到.数据作品开发部门生产说明男人."
+  },
+  {
+    "user_id": 52,
+    "demographics": {
+      "age": 34,
+      "gender": "M",
+      "income": null
+    },
+    "preferences": [
+      "动漫"
+    ],
+    "activity_scores": {
+      "upload_frequency": 0.14,
+      "average_watch_time": 39.6,
+      "interaction_rate": 0.179
+    },
+    "signup_date": "2023-01-21",
+    "notes": "环境系统精华最后责任那个.很多积分而且销售资源通过.谢谢电影全国以及根据客户事情.\n然后标题非常推荐如何基本一个.规定出来教育游戏.上海关系深圳.注意点击我们之后一种研究."
+  },
+  {
+    "user_id": 53,
+    "demographics": {
+      "age": 26,
+      "gender": "F",
+      "income": 73842
+    },
+    "preferences": [
+      "短剧"
+    ],
+    "activity_scores": {
+      "upload_frequency": 0.57,
+      "average_watch_time": 69.6,
+      "interaction_rate": 0.133
+    },
+    "signup_date": "2023-06-21",
+    "notes": "大小等级还是还是.城市注意政府游戏显示经济处理.\n如此控制提供所有.地区那么精华还是的话电影.这么下载注册根据网络留言来源."
+  },
+  {
+    "user_id": 54,
+    "demographics": {
+      "age": 18,
+      "gender": "F",
+      "income": null
+    },
+    "preferences": [
+      "短剧",
+      "长剧"
+    ],
+    "activity_scores": {
+      "upload_frequency": 0.31,
+      "average_watch_time": 50.7,
+      "interaction_rate": 0.155
+    },
+    "signup_date": "2024-02-22",
+    "notes": null
+  },
+  {
+    "user_id": 55,
+    "demographics": {
+      "age": 39,
+      "gender": "M",
+      "income": 78740
+    },
+    "preferences": [
+      "电影"
+    ],
+    "activity_scores": {
+      "upload_frequency": 0.48,
+      "average_watch_time": 74.5,
+      "interaction_rate": 0.166
+    },
+    "signup_date": "2023-10-28",
+    "notes": "文化电脑基本到了.解决自己点击不会.决定只要学生如何必须为什.\n中文公司控制就是标准事情.决定很多组织情况.\n拥有控制市场是否因此.\n客户你的历史你的.品牌阅读设计其实很多.经营不要各种会员."
+  },
+  {
+    "user_id": 56,
+    "demographics": {
+      "age": 23,
+      "gender": "F",
+      "income": 65111
+    },
+    "preferences": [
+      "体育",
+      "短剧"
+    ],
+    "activity_scores": {
+      "upload_frequency": 0.25,
+      "average_watch_time": 31.8,
+      "interaction_rate": 0.12
+    },
+    "signup_date": "2023-04-16",
+    "notes": "质量服务价格专业的人一定而且.也是社区业务没有一些如此.注册本站类别或者拥有人员.\n解决比较系列谢谢.一次是否你的.留言一起语言项目拥有."
+  },
+  {
+    "user_id": 57,
+    "demographics": {
+      "age": 44,
+      "gender": "M",
+      "income": 41874
+    },
+    "preferences": [
+      "长剧",
+      "纪录片",
+      "动漫"
+    ],
+    "activity_scores": {
+      "upload_frequency": 0.29,
+      "average_watch_time": 60.8,
+      "interaction_rate": 0.083
+    },
+    "signup_date": "2024-01-04",
+    "notes": "现在中心然后上海手机.而且来自地方目前教育积分作品.责任拥有什么国际作者.具有分析也是因为位置觉得名称.\n欢迎提高相关科技有关情况然后.文章一切北京查看.非常文章正在活动学习标准国家."
+  },
+  {
+    "user_id": 58,
+    "demographics": {
+      "age": 19,
+      "gender": "F",
+      "income": 23691
+    },
+    "preferences": [
+      "动漫"
+    ],
+    "activity_scores": {
+      "upload_frequency": 0.19,
+      "average_watch_time": 58.7,
+      "interaction_rate": 0.017
+    },
+    "signup_date": "2024-07-27",
+    "notes": "参加科技设计.显示我的认为技术只要不是.\n网上地区网站回复.发展应用下载项目浏览记者开发解决.\n今年图片实现公司.都是中国以下起来.\n简介过程提供社区学生什么可能."
+  },
+  {
+    "user_id": 59,
+    "demographics": {
+      "age": 41,
+      "gender": "M",
+      "income": 68554
+    },
+    "preferences": [
+      "纪录片",
+      "动漫"
+    ],
+    "activity_scores": {
+      "upload_frequency": 0.26,
+      "average_watch_time": -4.1,
+      "interaction_rate": 0.034
+    },
+    "signup_date": "2024-06-03",
+    "notes": "企业谢谢上海其中.孩子来自为什最后到了客户等级.实现建设价格服务.\n程序为什部分不过同时.国家销售我的关于内容.简介帮助客户可是品牌不是安全.\n进行威望威望那个正在合作公司.语言作者联系我们."
+  },
+  {
+    "user_id": 60,
+    "demographics": {
+      "age": 35,
+      "gender": "F",
+      "income": 48939
+    },
+    "preferences": [
+      "短剧"
+    ],
+    "activity_scores": {
+      "upload_frequency": 0.49,
+      "average_watch_time": 60.2,
+      "interaction_rate": 0.096
+    },
+    "signup_date": "2024-02-23",
+    "notes": "女人城市国内运行工作.能力认为学校事情.其中的是教育这些法律.\n之间对于说明设计学习.发生是一包括实现现在设计技术软件.一定登录的话控制工程."
+  },
+  {
+    "user_id": 61,
+    "demographics": {
+      "age": 30,
+      "gender": "M",
+      "income": 76131
+    },
+    "preferences": [
+      "动漫"
+    ],
+    "activity_scores": {
+      "upload_frequency": 0.26,
+      "average_watch_time": 48.0,
+      "interaction_rate": 0.042
+    },
+    "signup_date": "2024-06-17",
+    "notes": "语言一般本站用户我们.当然公司结果首页提高.\n市场留言关系广告组织希望中文.品牌继续只要公司其他.正在帮助我的原因自己首页资料所有.\n时间通过活动介绍拥有.程序特别也是两个日期.情况提高结果."
+  },
+  {
+    "user_id": 62,
+    "demographics": {
+      "age": 18,
+      "gender": "M",
+      "income": 51622
+    },
+    "preferences": [
+      "纪录片"
+    ],
+    "activity_scores": {
+      "upload_frequency": 0.17,
+      "average_watch_time": 20.0,
+      "interaction_rate": 0.193
+    },
+    "signup_date": "2024-07-16",
+    "notes": "之后首页出来.首页信息电影两个功能标准工作为什.\n运行相关因此应用.应该的话语言政府注意.简介女人一般数据进入一点只要.\n大家留言是一阅读政府发现成为开发.那些经验地区浏览分析工作."
+  },
+  {
+    "user_id": 63,
+    "demographics": {
+      "age": 38,
+      "gender": "M",
+      "income": 68527
+    },
+    "preferences": [
+      "体育",
+      "长剧"
+    ],
+    "activity_scores": {
+      "upload_frequency": 0.46,
+      "average_watch_time": 48.8,
+      "interaction_rate": 0.066
+    },
+    "signup_date": "2024-03-04",
+    "notes": "电子中文那个特别而且经济完全.你们最新原因法律一样发展.\n继续经验积分安全标准学生他的.一般不断而且你的资料网络.\n电话非常手机活动作品主题.方法文章价格发展."
+  },
+  {
+    "user_id": 64,
+    "demographics": {
+      "age": 24,
+      "gender": "M",
+      "income": 80845
+    },
+    "preferences": [
+      "纪录片",
+      "短剧"
+    ],
+    "activity_scores": {
+      "upload_frequency": 0.17,
+      "average_watch_time": 39.2,
+      "interaction_rate": 0.164
+    },
+    "signup_date": "2024-10-26",
+    "notes": "什么很多怎么很多加入下载.文件城市精华决定各种基本公司最后.如何你的准备计划品牌原因社区.\n规定时候投资认为更新.自己品牌直接到了.\n我的在线网上支持.电影回复原因也是."
+  },
+  {
+    "user_id": 65,
+    "demographics": {
+      "age": 26,
+      "gender": "F",
+      "income": 63552
+    },
+    "preferences": [
+      "短剧",
+      "电影"
+    ],
+    "activity_scores": {
+      "upload_frequency": 0.21,
+      "average_watch_time": 38.0,
+      "interaction_rate": 0.052
+    },
+    "signup_date": "2023-07-23",
+    "notes": "那些然后非常个人显示服务不是不断.\n孩子我的感觉不过控制支持.为什相关那么服务继续到了.制作社会是否网站可能帖子开始.\n世界信息信息发布.计划国家拥有表示女人.之间电影学生的是政府."
+  },
+  {
+    "user_id": 66,
+    "demographics": {
+      "age": 29,
+      "gender": "M",
+      "income": 48617
+    },
+    "preferences": [
+      "电影"
+    ],
+    "activity_scores": {
+      "upload_frequency": 0.22,
+      "average_watch_time": 25.2,
+      "interaction_rate": 0.188
+    },
+    "signup_date": "2023-06-17",
+    "notes": "需要地方汽车提供.设计不会什么.东西部分这些目前积分等级.\n公司地区发布不要.其中不断或者成为继续生产应该能力."
+  },
+  {
+    "user_id": 67,
+    "demographics": {
+      "age": 18,
+      "gender": "M",
+      "income": 39587
+    },
+    "preferences": [
+      "综艺",
+      "体育"
+    ],
+    "activity_scores": {
+      "upload_frequency": 0.43,
+      "average_watch_time": 34.6,
+      "interaction_rate": 0.176
+    },
+    "signup_date": "2023-10-02",
+    "notes": null
+  },
+  {
+    "user_id": 68,
+    "demographics": {
+      "age": 18,
+      "gender": "F",
+      "income": 62439
+    },
+    "preferences": [
+      "短剧",
+      "纪录片",
+      "动漫"
+    ],
+    "activity_scores": {
+      "upload_frequency": 0.39,
+      "average_watch_time": 62.2,
+      "interaction_rate": 0.076
+    },
+    "signup_date": "2024-02-04",
+    "notes": "会员首页拥有市场能力一起标题.大学过程详细出来发表报告如果.\n加入地方觉得说明评论类别但是.需要开发以上以及什么.简介自己地区操作现在希望.\n查看最新部门他的最大语言.已经怎么非常政府之后."
+  },
+  {
+    "user_id": 69,
+    "demographics": {
+      "age": 25,
+      "gender": "F",
+      "income": 49117
+    },
+    "preferences": [
+      "体育",
+      "长剧",
+      "电影"
+    ],
+    "activity_scores": {
+      "upload_frequency": 0.4,
+      "average_watch_time": 39.8,
+      "interaction_rate": 0.084
+    },
+    "signup_date": "2023-10-21",
+    "notes": "广告我们还有那么社区正在本站.日本次数中心一点之间根据的人时间.\n因此所有详细有关什么.成功生产生产游戏.\n各种介绍生活非常.投资一下然后资源国际.美国一些这种组织觉得市场阅读."
+  },
+  {
+    "user_id": 70,
+    "demographics": {
+      "age": 33,
+      "gender": "M",
+      "income": 56425
+    },
+    "preferences": [
+      "纪录片",
+      "综艺",
+      "长剧"
+    ],
+    "activity_scores": {
+      "upload_frequency": 0.14,
+      "average_watch_time": 44.3,
+      "interaction_rate": 0.027
+    },
+    "signup_date": "2023-08-13",
+    "notes": "系列是一具有.介绍一样业务文件更多事情.一般来源现在积分一起政府之间.\n其实社区信息技术拥有的人.要求或者能够只要操作.\n搜索一次必须搜索.客户觉得地方建设有关.决定公司手机标准记者现在."
+  },
+  {
+    "user_id": 71,
+    "demographics": {
+      "age": 27,
+      "gender": "M",
+      "income": 59864
+    },
+    "preferences": [
+      "纪录片",
+      "短剧",
+      "电影"
+    ],
+    "activity_scores": {
+      "upload_frequency": 0.14,
+      "average_watch_time": 32.4,
+      "interaction_rate": 0.059
+    },
+    "signup_date": "2024-07-21",
+    "notes": "今天那些网络销售商品文章威望.设备内容制作分析因为.然后资源地区语言会员是否朋友.\n继续系统欢迎为什精华已经什么完成.这里生产这么应该阅读是一名称回复.那个搜索论坛."
+  },
+  {
+    "user_id": 72,
+    "demographics": {
+      "age": 32,
+      "gender": "M",
+      "income": 47633
+    },
+    "preferences": [
+      "体育"
+    ],
+    "activity_scores": {
+      "upload_frequency": 0.58,
+      "average_watch_time": 32.0,
+      "interaction_rate": 0.063
+    },
+    "signup_date": "2024-06-10",
+    "notes": "是否报告最新完成点击工具.全国点击出来特别工程.注意对于产品表示世界.\n加入比较以后女人电话只是.这种手机大家音乐查看.无法登录正在产品最新系列活动单位.在线网站一下今年信息功能."
+  },
+  {
+    "user_id": 73,
+    "demographics": {
+      "age": 39,
+      "gender": "F",
+      "income": 57249
+    },
+    "preferences": [
+      "短剧"
+    ],
+    "activity_scores": {
+      "upload_frequency": 0.56,
+      "average_watch_time": 30.5,
+      "interaction_rate": 0.033
+    },
+    "signup_date": "2023-05-04",
+    "notes": "商品方法可以专业推荐科技网络.各种为了已经登录其他搜索.内容城市我的登录加入广告语言.\n一个部门发现其他责任中国标准评论.他们帮助所有汽车技术.注意阅读日期国家."
+  },
+  {
+    "user_id": 74,
+    "demographics": {
+      "age": 32,
+      "gender": "M",
+      "income": 66440
+    },
+    "preferences": [
+      "综艺",
+      "长剧"
+    ],
+    "activity_scores": {
+      "upload_frequency": 0.16,
+      "average_watch_time": 53.9,
+      "interaction_rate": 0.193
+    },
+    "signup_date": "2024-02-17",
+    "notes": "如此成功还是评论工作为了点击.电话就是资源推荐关系.虽然搜索重要当前事情已经加入.不会增加关系处理只是我的.\n她的开始主要研究日本精华生产.地址如此注册.时间加入下载个人."
+  },
+  {
+    "user_id": 75,
+    "demographics": {
+      "age": 39,
+      "gender": "F",
+      "income": 66826
+    },
+    "preferences": [
+      "长剧",
+      "动漫"
+    ],
+    "activity_scores": {
+      "upload_frequency": 0.2,
+      "average_watch_time": 32.5,
+      "interaction_rate": 0.067
+    },
+    "signup_date": "2024-11-22",
+    "notes": null
+  },
+  {
+    "user_id": 76,
+    "demographics": {
+      "age": 27,
+      "gender": "F",
+      "income": null
+    },
+    "preferences": [
+      "短剧"
+    ],
+    "activity_scores": {
+      "upload_frequency": 0.23,
+      "average_watch_time": -9.0,
+      "interaction_rate": 0.161
+    },
+    "signup_date": "2024-08-15",
+    "notes": "重要直接次数日期之间都是.所有喜欢发生.公司但是以及论坛组织下载希望社会.不过说明开始一定一种那么开始.\n他们积分时候相关这个资源.社会成为选择方法."
+  },
+  {
+    "user_id": 77,
+    "demographics": {
+      "age": 18,
+      "gender": "F",
+      "income": null
+    },
+    "preferences": [
+      "综艺",
+      "体育"
+    ],
+    "activity_scores": {
+      "upload_frequency": 0.29,
+      "average_watch_time": 62.9,
+      "interaction_rate": 0.199
+    },
+    "signup_date": "2024-02-02",
+    "notes": "搜索她的你们全部.只是产品中国教育处理.能力如果经验地址安全.\n责任评论功能时候看到大学.由于销售登录一样.主题学校工作你的.\n以下投资她的市场.\n得到开始当然软件.知道事情发表结果一起如何需要."
+  },
+  {
+    "user_id": 78,
+    "demographics": {
+      "age": 37,
+      "gender": "F",
+      "income": null
+    },
+    "preferences": [
+      "纪录片",
+      "体育"
+    ],
+    "activity_scores": {
+      "upload_frequency": 0.31,
+      "average_watch_time": 59.3,
+      "interaction_rate": 0.144
+    },
+    "signup_date": "2023-08-22",
+    "notes": "汽车当前登录得到电影一切.发生那么文化看到经验类别.\n文章新闻这些通过.要求出现工作您的.次数我们影响游戏责任.密码他们虽然社会怎么地区部分."
+  },
+  {
+    "user_id": 79,
+    "demographics": {
+      "age": 29,
+      "gender": "M",
+      "income": 73070
+    },
+    "preferences": [
+      "电影",
+      "动漫"
+    ],
+    "activity_scores": {
+      "upload_frequency": 0.3,
+      "average_watch_time": 45.0,
+      "interaction_rate": 0.167
+    },
+    "signup_date": "2024-11-20",
+    "notes": "主要其他参加可以其实希望的是.密码希望一般报告文化.\n大学情况作为有限.帖子社会提高报告.责任的人发布查看经营所以还有评论.\n目前没有就是那个.更新一定因为一下.孩子实现最后一些音乐地方."
+  },
+  {
+    "user_id": 80,
+    "demographics": {
+      "age": 39,
+      "gender": "M",
+      "income": 42396
+    },
+    "preferences": [
+      "纪录片"
+    ],
+    "activity_scores": {
+      "upload_frequency": 0.33,
+      "average_watch_time": 50.9,
+      "interaction_rate": 0.087
+    },
+    "signup_date": "2024-05-27",
+    "notes": "名称汽车操作或者.部门中文项目科技.你的主题影响.\n的话类型最大来自首页如此.记者虽然计划资料这个音乐欢迎.\n报告比较这些作者由于经济.之间软件比较积分责任类型一下."
+  },
+  {
+    "user_id": 81,
+    "demographics": {
+      "age": 34,
+      "gender": "M",
+      "income": 75579
+    },
+    "preferences": [
+      "动漫",
+      "综艺",
+      "长剧"
+    ],
+    "activity_scores": {
+      "upload_frequency": 0.63,
+      "average_watch_time": 37.5,
+      "interaction_rate": 0.128
+    },
+    "signup_date": "2024-01-07",
+    "notes": null
+  },
+  {
+    "user_id": 82,
+    "demographics": {
+      "age": 32,
+      "gender": "F",
+      "income": 64609
+    },
+    "preferences": [
+      "综艺"
+    ],
+    "activity_scores": {
+      "upload_frequency": 0.23,
+      "average_watch_time": 23.2,
+      "interaction_rate": 0.015
+    },
+    "signup_date": "2024-08-21",
+    "notes": "研究下载可以主题软件提供.那些中心电影你们那个制作所以.如此文章孩子她的科技一点.\n详细中心的是现在.但是精华一定因为图片说明.正在希望大小设备一些项目."
+  },
+  {
+    "user_id": 83,
+    "demographics": {
+      "age": 28,
+      "gender": "M",
+      "income": 54209
+    },
+    "preferences": [
+      "短剧"
+    ],
+    "activity_scores": {
+      "upload_frequency": 0.19,
+      "average_watch_time": 46.3,
+      "interaction_rate": 0.035
+    },
+    "signup_date": "2024-10-29",
+    "notes": "发表任何公司在线功能以后.帮助空间历史不会作者电脑.\n只要我们设计不能合作到了投资.主题内容主题如何表示.分析一点责任.如此感觉电影制作发现开始目前."
+  },
+  {
+    "user_id": 84,
+    "demographics": {
+      "age": 32,
+      "gender": "F",
+      "income": 68639
+    },
+    "preferences": [
+      "体育"
+    ],
+    "activity_scores": {
+      "upload_frequency": 0.02,
+      "average_watch_time": 50.5,
+      "interaction_rate": 0.097
+    },
+    "signup_date": "2024-01-03",
+    "notes": "关于设备的话只有方式帮助.免费结果那个.\n关系大小图片一次.\n报告世界不要她的当前其他这些需要.只要语言记者完全人民.系统联系记者这个投资解决中文对于."
+  },
+  {
+    "user_id": 85,
+    "demographics": {
+      "age": 44,
+      "gender": "M",
+      "income": 61629
+    },
+    "preferences": [
+      "长剧"
+    ],
+    "activity_scores": {
+      "upload_frequency": 0.11,
+      "average_watch_time": 42.8,
+      "interaction_rate": 0.172
+    },
+    "signup_date": "2023-05-20",
+    "notes": "推荐报告完成法律积分她的评论.\n可能城市起来一般进行最新日期.说明的话来自虽然解决我们有关.发展科技这个名称一点到了.\n你的非常单位谢谢研究.所有安全使用教育功能浏览进行.无法不过不要表示文件有些."
+  },
+  {
+    "user_id": 86,
+    "demographics": {
+      "age": 45,
+      "gender": "M",
+      "income": 56642
+    },
+    "preferences": [
+      "短剧"
+    ],
+    "activity_scores": {
+      "upload_frequency": 0.44,
+      "average_watch_time": 54.0,
+      "interaction_rate": 0.072
+    },
+    "signup_date": "2024-05-22",
+    "notes": "那些安全基本那么功能各种具有.主要信息就是这种经验问题.\n如果计划市场发展.留言选择信息广告音乐.城市最大产品系列只要实现.显示状态会员阅读一切以及."
+  },
+  {
+    "user_id": 87,
+    "demographics": {
+      "age": 38,
+      "gender": "F",
+      "income": 39717
+    },
+    "preferences": [
+      "电影"
+    ],
+    "activity_scores": {
+      "upload_frequency": 0.12,
+      "average_watch_time": 44.9,
+      "interaction_rate": 0.106
+    },
+    "signup_date": "2023-06-24",
+    "notes": "积分那些但是很多.一直中文发现说明.\n记者大小方法学习然后图片一个.\n本站名称出现产品系统文章.现在作者不断一些直接时间能够.你们主题女人你们.\n介绍大学最大如何."
+  },
+  {
+    "user_id": 88,
+    "demographics": {
+      "age": 35,
+      "gender": "M",
+      "income": 60839
+    },
+    "preferences": [
+      "综艺",
+      "体育"
+    ],
+    "activity_scores": {
+      "upload_frequency": 0.05,
+      "average_watch_time": 55.1,
+      "interaction_rate": 0.031
+    },
+    "signup_date": "2023-02-23",
+    "notes": null
+  },
+  {
+    "user_id": 89,
+    "demographics": {
+      "age": 28,
+      "gender": "F",
+      "income": 58991
+    },
+    "preferences": [
+      "电影",
+      "综艺",
+      "纪录片"
+    ],
+    "activity_scores": {
+      "upload_frequency": 0.31,
+      "average_watch_time": 23.1,
+      "interaction_rate": 0.054
+    },
+    "signup_date": "2024-11-17",
+    "notes": "原因活动使用那么一次.运行网上上海活动环境.今天得到她的.只是只有已经加入重要能够.\n文章包括工作结果看到.产品两个操作专业.重要特别重要.有些只要之间直接."
+  },
+  {
+    "user_id": 90,
+    "demographics": {
+      "age": 40,
+      "gender": "F",
+      "income": 78155
+    },
+    "preferences": [
+      "电影",
+      "体育"
+    ],
+    "activity_scores": {
+      "upload_frequency": 0.38,
+      "average_watch_time": 39.9,
+      "interaction_rate": 0.197
+    },
+    "signup_date": "2024-11-30",
+    "notes": null
+  },
+  {
+    "user_id": 91,
+    "demographics": {
+      "age": 21,
+      "gender": "M",
+      "income": 64599
+    },
+    "preferences": [
+      "动漫",
+      "纪录片",
+      "短剧"
+    ],
+    "activity_scores": {
+      "upload_frequency": 0.29,
+      "average_watch_time": 61.2,
+      "interaction_rate": 0.107
+    },
+    "signup_date": "2023-08-16",
+    "notes": "目前学校不断汽车精华应用一切.如此实现浏览成功控制内容社会.现在学生的话这种.\n以上环境时间非常虽然她的.社会这些那些显示."
+  },
+  {
+    "user_id": 92,
+    "demographics": {
+      "age": 29,
+      "gender": "F",
+      "income": null
+    },
+    "preferences": [
+      "短剧",
+      "体育"
+    ],
+    "activity_scores": {
+      "upload_frequency": 0.36,
+      "average_watch_time": 19.3,
+      "interaction_rate": 0.189
+    },
+    "signup_date": "2023-06-03",
+    "notes": "如此如此一直欢迎.\n一切部门更多部分社会这些活动.类别帖子密码作为显示应用.\n要求浏览免费以后出现.或者直接社区这种那个计划什么由于.国际希望文章科技过程大小."
+  },
+  {
+    "user_id": 93,
+    "demographics": {
+      "age": 51,
+      "gender": "M",
+      "income": 70074
+    },
+    "preferences": [
+      "综艺",
+      "长剧",
+      "短剧"
+    ],
+    "activity_scores": {
+      "upload_frequency": 0.23,
+      "average_watch_time": 54.4,
+      "interaction_rate": 0.027
+    },
+    "signup_date": "2024-03-20",
+    "notes": "选择一般文化.不断成为这种关系中国各种设备其他.一般自己评论单位.\n朋友作为参加关于点击你的.能够其中的话管理北京注册浏览直接.为什规定主题目前.\n为了搜索精华.工具内容我的我们."
+  },
+  {
+    "user_id": 94,
+    "demographics": {
+      "age": 18,
+      "gender": "M",
+      "income": null
+    },
+    "preferences": [
+      "体育"
+    ],
+    "activity_scores": {
+      "upload_frequency": 0.16,
+      "average_watch_time": 34.4,
+      "interaction_rate": 0.043
+    },
+    "signup_date": "2024-08-04",
+    "notes": "的话女人能力价格威望现在.更新认为不是类别销售项目.商品表示问题方式学生作者标题社区.\n国内这个设计说明历史什么成功说明.地区虽然电话我的文化提高技术经营.主要到了建设那么大学处理怎么."
+  },
+  {
+    "user_id": 95,
+    "demographics": {
+      "age": 37,
+      "gender": "M",
+      "income": 73340
+    },
+    "preferences": [
+      "短剧",
+      "综艺"
+    ],
+    "activity_scores": {
+      "upload_frequency": 0.28,
+      "average_watch_time": 61.4,
+      "interaction_rate": 0.122
+    },
+    "signup_date": "2024-06-29",
+    "notes": "准备空间其中还是男人决定一点.时候朋友显示自己.密码帮助工作发布如此.行业谢谢不是电脑单位说明系统.\n操作喜欢销售自己处理继续专业.这个学习你的商品全部文件已经.公司一点信息信息."
+  },
+  {
+    "user_id": 96,
+    "demographics": {
+      "age": 19,
+      "gender": "M",
+      "income": 63553
+    },
+    "preferences": [
+      "纪录片"
+    ],
+    "activity_scores": {
+      "upload_frequency": 0.43,
+      "average_watch_time": 48.2,
+      "interaction_rate": 0.091
+    },
+    "signup_date": "2024-10-15",
+    "notes": null
+  },
+  {
+    "user_id": 97,
+    "demographics": {
+      "age": 26,
+      "gender": "F",
+      "income": 52803
+    },
+    "preferences": [
+      "电影",
+      "短剧"
+    ],
+    "activity_scores": {
+      "upload_frequency": 0.54,
+      "average_watch_time": 42.2,
+      "interaction_rate": 0.015
+    },
+    "signup_date": "2024-05-17",
+    "notes": "作品生产中心汽车为什谢谢工作加入.使用一个销售公司成为社会女人.一次日期发表发布提供游戏.\n喜欢免费可能.点击那些作为一种.\n开发上海以及.不会大小语言还有因此文化.北京不会发布."
+  },
+  {
+    "user_id": 98,
+    "demographics": {
+      "age": 28,
+      "gender": "M",
+      "income": 47150
+    },
+    "preferences": [
+      "纪录片",
+      "动漫",
+      "长剧"
+    ],
+    "activity_scores": {
+      "upload_frequency": 0.07,
+      "average_watch_time": 51.5,
+      "interaction_rate": 0.153
+    },
+    "signup_date": "2024-04-08",
+    "notes": "没有必须类型一个原因完成.完全现在功能系列手机记者感觉国内.能力来源其实控制一定一下.计划发表标题或者一般企业.\n文章帖子服务经济空间安全.发展音乐女人能力具有."
+  },
+  {
+    "user_id": 99,
+    "demographics": {
+      "age": 25,
+      "gender": "M",
+      "income": 34223
+    },
+    "preferences": [
+      "短剧",
+      "长剧"
+    ],
+    "activity_scores": {
+      "upload_frequency": 0.11,
+      "average_watch_time": 39.3,
+      "interaction_rate": 0.04
+    },
+    "signup_date": "2023-08-29",
+    "notes": "有关音乐软件你的.特别全国系列增加.\n一些或者出来计划可是所有因为投资.\n希望用户资料网络回复论坛功能.\n企业质量您的."
+  },
+  {
+    "user_id": 100,
+    "demographics": {
+      "age": 31,
+      "gender": "F",
+      "income": 81051
+    },
+    "preferences": [
+      "体育",
+      "长剧",
+      "纪录片"
+    ],
+    "activity_scores": {
+      "upload_frequency": 0.28,
+      "average_watch_time": 68.9,
+      "interaction_rate": 0.057
+    },
+    "signup_date": "2023-12-21",
+    "notes": "部门阅读增加是否那个图片.\n对于的话目前那些继续质量.加入程序怎么一起解决.组织今年单位.由于经济不是可能评论作为公司.\n目前类型不同公司要求当前.用户感觉孩子基本资源由于研究."
+  }
+]

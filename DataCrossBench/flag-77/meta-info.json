@@ -1,0 +1,20 @@
+{
+    "goal": "比较上海金ETF基金与传统黄金投资的优势，特别是在管理费率和交易便捷性方面的差异。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 全球黄金储备在过去一年增长16.45%，中国黄金储备增长率高达224.73%。",
+        "Comparison: 与传统黄金投资相比，上海金ETF基金的管理费率和交易费率更低，交易更加便捷。",
+        "Extreme: 中国黄金储备的增长率224.73%是全球最高，显示出中国在黄金市场中的重要地位。",
+        "Attribution: 由于地缘政治的不确定性加大，黄金的避险需求显著上升，尤其是在中美摩擦和英国脱欧的背景下。"
+    ],
+    "summary": "本报告分析了黄金在不确定经济环境中的配置价值，强调了上海金ETF基金作为投资工具的重要性，并探讨了黄金价格的历史表现及其与经济政策的关系。",
+    "flag_id": "flag-77",
+    "classifier": "Fund Analysis",
+    "classifier_cn": "基金分析",
+    "input_files": [
+        "output/background.txt",
+        "output/dimension_data.db",
+        "output/trades.csv",
+        "output/user_profiles.json"
+    ]
+}

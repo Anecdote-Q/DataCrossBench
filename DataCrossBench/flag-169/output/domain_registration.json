@@ -1,0 +1,602 @@
+[
+  {
+    "registration_id": 1,
+    "region": "河北",
+    "registration_count": 1256,
+    "record_date": "2021-01-01",
+    "sources": [
+      {
+        "source_type": "其他",
+        "count": 553
+      }
+    ]
+  },
+  {
+    "registration_id": 2,
+    "region": "浙江",
+    "registration_count": 1865,
+    "record_date": "2021-04-01",
+    "sources": [
+      {
+        "source_type": "企业",
+        "count": 773
+      }
+    ]
+  },
+  {
+    "registration_id": 3,
+    "region": "No",
+    "registration_count": 2008,
+    "record_date": "2021-07-01",
+    "sources": [
+      {
+        "source_type": "其他",
+        "count": 302
+      },
+      {
+        "source_type": "其他",
+        "count": 866
+      },
+      {
+        "source_type": "企业",
+        "count": 890
+      }
+    ]
+  },
+  {
+    "registration_id": 4,
+    "region": "湖北",
+    "registration_count": 916,
+    "record_date": "2021-10-01",
+    "sources": [
+      {
+        "source_type": "教育",
+        "count": 408
+      },
+      {
+        "source_type": "其他",
+        "count": 152
+      },
+      {
+        "source_type": "其他",
+        "count": 381
+      }
+    ]
+  },
+  {
+    "registration_id": 5,
+    "region": "山东",
+    "registration_count": 1469,
+    "record_date": "2022-01-01",
+    "sources": [
+      {
+        "source_type": "企业",
+        "count": 397
+      },
+      {
+        "source_type": "企业",
+        "count": 498
+      }
+    ]
+  },
+  {
+    "registration_id": 6,
+    "region": "河南",
+    "registration_count": 1587,
+    "record_date": "2022-04-01",
+    "sources": [
+      {
+        "source_type": "个人",
+        "count": 734
+      }
+    ]
+  },
+  {
+    "registration_id": 7,
+    "region": "上海",
+    "registration_count": 1420,
+    "record_date": "2022-07-01",
+    "sources": [
+      {
+        "source_type": "政府",
+        "count": 507
+      },
+      {
+        "source_type": "教育",
+        "count": 465
+      },
+      {
+        "source_type": "个人",
+        "count": 653
+      }
+    ]
+  },
+  {
+    "registration_id": 8,
+    "region": "山东",
+    "registration_count": 1126,
+    "record_date": "2022-10-01",
+    "sources": [
+      {
+        "source_type": "教育",
+        "count": 127
+      },
+      {
+        "source_type": "政府",
+        "count": 357
+      }
+    ]
+  },
+  {
+    "registration_id": 9,
+    "region": "浙江",
+    "registration_count": 1235,
+    "record_date": "2023-01-01",
+    "sources": [
+      {
+        "source_type": "个人",
+        "count": 213
+      }
+    ]
+  },
+  {
+    "registration_id": 10,
+    "region": "河北",
+    "registration_count": 945,
+    "record_date": "2023-04-01",
+    "sources": [
+      {
+        "source_type": "政府",
+        "count": 172
+      },
+      {
+        "source_type": "政府",
+        "count": 291
+      }
+    ]
+  },
+  {
+    "registration_id": 11,
+    "region": "浙江",
+    "registration_count": 1786,
+    "record_date": "2023-07-01",
+    "sources": [
+      {
+        "source_type": "政府",
+        "count": 591
+      },
+      {
+        "source_type": "其他",
+        "count": 244
+      },
+      {
+        "source_type": "其他",
+        "count": 648
+      }
+    ]
+  },
+  {
+    "registration_id": 12,
+    "region": "河南",
+    "registration_count": 1912,
+    "record_date": "2023-10-01",
+    "sources": [
+      {
+        "source_type": "政府",
+        "count": 266
+      },
+      {
+        "source_type": "政府",
+        "count": 329
+      }
+    ]
+  },
+  {
+    "registration_id": 13,
+    "region": "江苏",
+    "registration_count": 1907,
+    "record_date": "2024-01-01",
+    "sources": [
+      {
+        "source_type": "教育",
+        "count": 762
+      }
+    ]
+  },
+  {
+    "registration_id": 14,
+    "region": "上海",
+    "registration_count": 1491,
+    "record_date": "2024-04-01",
+    "sources": [
+      {
+        "source_type": "其他",
+        "count": 555
+      },
+      {
+        "source_type": "教育",
+        "count": 600
+      }
+    ]
+  },
+  {
+    "registration_id": 15,
+    "region": "广东",
+    "registration_count": 1581,
+    "record_date": "2024-07-01",
+    "sources": [
+      {
+        "source_type": "政府",
+        "count": 511
+      }
+    ]
+  },
+  {
+    "registration_id": 16,
+    "region": "湖北",
+    "registration_count": 1820,
+    "record_date": "2024-10-01",
+    "sources": [
+      {
+        "source_type": "企业",
+        "count": 756
+      },
+      {
+        "source_type": "政府",
+        "count": 637
+      },
+      {
+        "source_type": "其他",
+        "count": 251
+      }
+    ]
+  },
+  {
+    "registration_id": 17,
+    "region": "江苏",
+    "registration_count": 1430,
+    "record_date": "2025-01-01",
+    "sources": [
+      {
+        "source_type": "教育",
+        "count": 558
+      },
+      {
+        "source_type": "其他",
+        "count": 342
+      },
+      {
+        "source_type": "政府",
+        "count": 565
+      }
+    ]
+  },
+  {
+    "registration_id": 18,
+    "region": "广东",
+    "registration_count": 1215,
+    "record_date": "2025-04-01",
+    "sources": [
+      {
+        "source_type": "政府",
+        "count": 399
+      },
+      {
+        "source_type": "政府",
+        "count": 202
+      },
+      {
+        "source_type": "其他",
+        "count": 241
+      }
+    ]
+  },
+  {
+    "registration_id": 19,
+    "region": "河南",
+    "registration_count": 1328,
+    "record_date": "2025-07-01",
+    "sources": [
+      {
+        "source_type": "企业",
+        "count": 622
+      },
+      {
+        "source_type": "企业",
+        "count": 538
+      },
+      {
+        "source_type": "教育",
+        "count": 235
+      }
+    ]
+  },
+  {
+    "registration_id": 20,
+    "region": "浙江",
+    "registration_count": 1552,
+    "record_date": "2025-10-01",
+    "sources": [
+      {
+        "source_type": "教育",
+        "count": 364
+      },
+      {
+        "source_type": "教育",
+        "count": 265
+      },
+      {
+        "source_type": "教育",
+        "count": 441
+      }
+    ]
+  },
+  {
+    "registration_id": 21,
+    "region": "广东",
+    "registration_count": 1285,
+    "record_date": "2026-01-01",
+    "sources": [
+      {
+        "source_type": "教育",
+        "count": 373
+      },
+      {
+        "source_type": "政府",
+        "count": 420
+      },
+      {
+        "source_type": "政府",
+        "count": 533
+      }
+    ]
+  },
+  {
+    "registration_id": 22,
+    "region": "广东",
+    "registration_count": 1641,
+    "record_date": "2026-04-01",
+    "sources": [
+      {
+        "source_type": "个人",
+        "count": 301
+      },
+      {
+        "source_type": "政府",
+        "count": 222
+      }
+    ]
+  },
+  {
+    "registration_id": 23,
+    "region": "湖南",
+    "registration_count": 1093,
+    "record_date": "2026-07-01",
+    "sources": [
+      {
+        "source_type": "其他",
+        "count": 141
+      },
+      {
+        "source_type": "政府",
+        "count": 205
+      }
+    ]
+  },
+  {
+    "registration_id": 24,
+    "region": "湖南",
+    "registration_count": 1427,
+    "record_date": "2026-10-01",
+    "sources": [
+      {
+        "source_type": "个人",
+        "count": 690
+      },
+      {
+        "source_type": "其他",
+        "count": 599
+      },
+      {
+        "source_type": "企业",
+        "count": 389
+      }
+    ]
+  },
+  {
+    "registration_id": 25,
+    "region": "浙江",
+    "registration_count": 1621,
+    "record_date": "2027-01-01",
+    "sources": [
+      {
+        "source_type": "企业",
+        "count": 286
+      },
+      {
+        "source_type": "其他",
+        "count": 555
+      }
+    ]
+  },
+  {
+    "registration_id": 26,
+    "region": "No",
+    "registration_count": 1539,
+    "record_date": "2027-04-01",
+    "sources": [
+      {
+        "source_type": "教育",
+        "count": 676
+      },
+      {
+        "source_type": "个人",
+        "count": 377
+      },
+      {
+        "source_type": "个人",
+        "count": 174
+      }
+    ]
+  },
+  {
+    "registration_id": 27,
+    "region": "No",
+    "registration_count": 1279,
+    "record_date": "2027-07-01",
+    "sources": [
+      {
+        "source_type": "个人",
+        "count": 242
+      }
+    ]
+  },
+  {
+    "registration_id": 28,
+    "region": "浙江",
+    "registration_count": 1720,
+    "record_date": "2027-10-01",
+    "sources": [
+      {
+        "source_type": "政府",
+        "count": 383
+      }
+    ]
+  },
+  {
+    "registration_id": 29,
+    "region": "江苏",
+    "registration_count": 1578,
+    "record_date": "2028-01-01",
+    "sources": [
+      {
+        "source_type": "政府",
+        "count": 336
+      }
+    ]
+  },
+  {
+    "registration_id": 30,
+    "region": "山东",
+    "registration_count": 873,
+    "record_date": "2028-04-01",
+    "sources": [
+      {
+        "source_type": "企业",
+        "count": 231
+      },
+      {
+        "source_type": "政府",
+        "count": 261
+      },
+      {
+        "source_type": "企业",
+        "count": 352
+      }
+    ]
+  },
+  {
+    "registration_id": 31,
+    "region": "湖北",
+    "registration_count": 1636,
+    "record_date": "2028-07-01",
+    "sources": [
+      {
+        "source_type": "其他",
+        "count": 558
+      },
+      {
+        "source_type": "个人",
+        "count": 165
+      }
+    ]
+  },
+  {
+    "registration_id": 32,
+    "region": "山东",
+    "registration_count": 1373,
+    "record_date": "2028-10-01",
+    "sources": [
+      {
+        "source_type": "其他",
+        "count": 659
+      },
+      {
+        "source_type": "个人",
+        "count": 576
+      },
+      {
+        "source_type": "教育",
+        "count": 564
+      }
+    ]
+  },
+  {
+    "registration_id": 33,
+    "region": "No",
+    "registration_count": 4539,
+    "record_date": "2029-01-01",
+    "sources": [
+      {
+        "source_type": "教育",
+        "count": 1732
+      },
+      {
+        "source_type": "个人",
+        "count": 1020
+      }
+    ]
+  },
+  {
+    "registration_id": 34,
+    "region": "河南",
+    "registration_count": 1251,
+    "record_date": "2029-04-01",
+    "sources": [
+      {
+        "source_type": "其他",
+        "count": 410
+      },
+      {
+        "source_type": "个人",
+        "count": 296
+      },
+      {
+        "source_type": "教育",
+        "count": 237
+      }
+    ]
+  },
+  {
+    "registration_id": 35,
+    "region": "上海",
+    "registration_count": 1199,
+    "record_date": "2029-07-01",
+    "sources": [
+      {
+        "source_type": "个人",
+        "count": 302
+      },
+      {
+        "source_type": "其他",
+        "count": 570
+      },
+      {
+        "source_type": "教育",
+        "count": 341
+      }
+    ]
+  },
+  {
+    "registration_id": 36,
+    "region": "江苏",
+    "registration_count": 1561,
+    "record_date": "2029-10-01",
+    "sources": [
+      {
+        "source_type": "教育",
+        "count": 438
+      }
+    ]
+  }
+]

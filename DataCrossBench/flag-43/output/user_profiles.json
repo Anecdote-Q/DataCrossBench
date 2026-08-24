@@ -1,0 +1,6962 @@
+[
+  {
+    "user_id": "user_1",
+    "age": 33,
+    "gender": "男",
+    "frequently_used_channel": "渠道_18",
+    "interests": [
+      "综艺",
+      "电影",
+      "新闻"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "2.2.3"
+    }
+  },
+  {
+    "user_id": "user_2",
+    "age": 19,
+    "gender": "女",
+    "frequently_used_channel": "渠道_4",
+    "interests": [
+      "综艺",
+      "游戏"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "3.8.3"
+    }
+  },
+  {
+    "user_id": "user_3",
+    "age": 56,
+    "gender": "女",
+    "frequently_used_channel": "渠道_2",
+    "interests": [
+      "新闻",
+      "电影"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "2.3.0"
+    }
+  },
+  {
+    "user_id": "user_4",
+    "age": 32,
+    "gender": "女",
+    "frequently_used_channel": "渠道_18",
+    "interests": [
+      "短剧",
+      "电影"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "1.7.5"
+    }
+  },
+  {
+    "user_id": "user_5",
+    "age": 32,
+    "gender": "男",
+    "frequently_used_channel": "渠道_13",
+    "interests": [
+      "综艺",
+      "电影"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "1.2.7"
+    }
+  },
+  {
+    "user_id": "user_6",
+    "age": 40,
+    "gender": "男",
+    "frequently_used_channel": "渠道_3",
+    "interests": [
+      "短剧"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "4.6.1"
+    }
+  },
+  {
+    "user_id": "user_7",
+    "age": 54,
+    "gender": "女",
+    "frequently_used_channel": "渠道_9",
+    "interests": [
+      "新闻"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "3.6.0"
+    }
+  },
+  {
+    "user_id": "user_8",
+    "age": 25,
+    "gender": "男",
+    "frequently_used_channel": "渠道_15",
+    "interests": [
+      "综艺"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "2.4.3"
+    }
+  },
+  {
+    "user_id": "user_9",
+    "age": 57,
+    "gender": "女",
+    "frequently_used_channel": "渠道_17",
+    "interests": [
+      "综艺",
+      "新闻"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "3.9.7"
+    }
+  },
+  {
+    "user_id": "user_10",
+    "age": 49,
+    "gender": "男",
+    "frequently_used_channel": "渠道_7",
+    "interests": [
+      "综艺",
+      "电影",
+      "新闻"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "3.4.1"
+    }
+  },
+  {
+    "user_id": "user_11",
+    "age": 41,
+    "gender": "男",
+    "frequently_used_channel": "渠道_11",
+    "interests": [
+      "综艺",
+      "电影"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "2.7.9"
+    }
+  },
+  {
+    "user_id": "user_12",
+    "age": 49,
+    "gender": "女",
+    "frequently_used_channel": "渠道_4",
+    "interests": [
+      "新闻"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "3.3.5"
+    }
+  },
+  {
+    "user_id": "user_13",
+    "age": 48,
+    "gender": "男",
+    "frequently_used_channel": "渠道_20",
+    "interests": [
+      "综艺"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "2.4.2"
+    }
+  },
+  {
+    "user_id": "user_14",
+    "age": 37,
+    "gender": "女",
+    "frequently_used_channel": "渠道_16",
+    "interests": [
+      "新闻"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "1.5.6"
+    }
+  },
+  {
+    "user_id": "user_15",
+    "age": 22,
+    "gender": "男",
+    "frequently_used_channel": "渠道_18",
+    "interests": [
+      "综艺",
+      "游戏"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "1.2.9"
+    }
+  },
+  {
+    "user_id": "user_16",
+    "age": 24,
+    "gender": "女",
+    "frequently_used_channel": "渠道_12",
+    "interests": [
+      "短剧",
+      "游戏"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "2.0.1"
+    }
+  },
+  {
+    "user_id": "user_17",
+    "age": 23,
+    "gender": "女",
+    "frequently_used_channel": "渠道_7",
+    "interests": [
+      "综艺",
+      "短剧",
+      "游戏"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "4.0.9"
+    }
+  },
+  {
+    "user_id": "user_18",
+    "age": 24,
+    "gender": "女",
+    "frequently_used_channel": "渠道_12",
+    "interests": [
+      "短剧"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "4.2.9"
+    }
+  },
+  {
+    "user_id": "user_19",
+    "age": 31,
+    "gender": "女",
+    "frequently_used_channel": "渠道_5",
+    "interests": [
+      "新闻"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "3.2.0"
+    }
+  },
+  {
+    "user_id": "user_20",
+    "age": 42,
+    "gender": "男",
+    "frequently_used_channel": "渠道_13",
+    "interests": [
+      "短剧",
+      "游戏",
+      "电影"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "4.8.3"
+    }
+  },
+  {
+    "user_id": "user_21",
+    "age": 28,
+    "gender": "男",
+    "frequently_used_channel": "渠道_14",
+    "interests": [
+      "短剧",
+      "游戏"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "4.6.7"
+    }
+  },
+  {
+    "user_id": "user_22",
+    "age": 44,
+    "gender": "男",
+    "frequently_used_channel": "渠道_2",
+    "interests": [
+      "游戏"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "1.5.7"
+    }
+  },
+  {
+    "user_id": "user_23",
+    "age": 39,
+    "gender": "男",
+    "frequently_used_channel": "渠道_14",
+    "interests": [
+      "游戏",
+      "综艺"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "3.4.8"
+    }
+  },
+  {
+    "user_id": "user_24",
+    "age": 18,
+    "gender": "男",
+    "frequently_used_channel": "渠道_7",
+    "interests": [
+      "短剧",
+      "综艺",
+      "新闻"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "1.1.4"
+    }
+  },
+  {
+    "user_id": "user_25",
+    "age": 26,
+    "gender": "女",
+    "frequently_used_channel": "渠道_5",
+    "interests": [
+      "新闻",
+      "游戏"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "1.0.6"
+    }
+  },
+  {
+    "user_id": "user_26",
+    "age": 31,
+    "gender": "男",
+    "frequently_used_channel": "渠道_1",
+    "interests": [
+      "电影",
+      "短剧"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "4.9.0"
+    }
+  },
+  {
+    "user_id": "user_27",
+    "age": 40,
+    "gender": "女",
+    "frequently_used_channel": "渠道_16",
+    "interests": [
+      "新闻",
+      "电影",
+      "短剧"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "3.8.5"
+    }
+  },
+  {
+    "user_id": "user_28",
+    "age": 28,
+    "gender": "女",
+    "frequently_used_channel": "渠道_11",
+    "interests": [
+      "新闻",
+      "电影",
+      "综艺"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "1.1.0"
+    }
+  },
+  {
+    "user_id": "user_29",
+    "age": 53,
+    "gender": "女",
+    "frequently_used_channel": "渠道_14",
+    "interests": [
+      "综艺",
+      "游戏",
+      "短剧"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "1.3.7"
+    }
+  },
+  {
+    "user_id": "user_30",
+    "age": 24,
+    "gender": "女",
+    "frequently_used_channel": "渠道_17",
+    "interests": [
+      "游戏",
+      "综艺"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "3.1.4"
+    }
+  },
+  {
+    "user_id": "user_31",
+    "age": 32,
+    "gender": "女",
+    "frequently_used_channel": "渠道_17",
+    "interests": [
+      "短剧",
+      "电影",
+      "新闻"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "3.5.4"
+    }
+  },
+  {
+    "user_id": "user_32",
+    "age": 56,
+    "gender": "男",
+    "frequently_used_channel": "渠道_11",
+    "interests": [
+      "短剧",
+      "游戏",
+      "新闻"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "3.3.6"
+    }
+  },
+  {
+    "user_id": "user_33",
+    "age": 21,
+    "gender": "女",
+    "frequently_used_channel": "渠道_6",
+    "interests": [
+      "综艺",
+      "短剧",
+      "游戏"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "3.2.6"
+    }
+  },
+  {
+    "user_id": "user_34",
+    "age": 32,
+    "gender": "女",
+    "frequently_used_channel": "渠道_6",
+    "interests": [
+      "短剧"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "1.7.5"
+    }
+  },
+  {
+    "user_id": "user_35",
+    "age": 33,
+    "gender": "男",
+    "frequently_used_channel": "渠道_13",
+    "interests": [
+      "游戏",
+      "新闻",
+      "综艺"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "4.8.3"
+    }
+  },
+  {
+    "user_id": "user_36",
+    "age": 54,
+    "gender": "男",
+    "frequently_used_channel": "渠道_1",
+    "interests": [
+      "综艺",
+      "短剧"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "4.1.3"
+    }
+  },
+  {
+    "user_id": "user_37",
+    "age": 23,
+    "gender": "男",
+    "frequently_used_channel": "渠道_7",
+    "interests": [
+      "游戏",
+      "电影",
+      "短剧"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "3.2.0"
+    }
+  },
+  {
+    "user_id": "user_38",
+    "age": 41,
+    "gender": "女",
+    "frequently_used_channel": "渠道_7",
+    "interests": [
+      "综艺",
+      "游戏"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "3.4.4"
+    }
+  },
+  {
+    "user_id": "user_39",
+    "age": 46,
+    "gender": "女",
+    "frequently_used_channel": "渠道_9",
+    "interests": [
+      "游戏",
+      "综艺",
+      "电影"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "2.8.6"
+    }
+  },
+  {
+    "user_id": "user_40",
+    "age": 50,
+    "gender": "男",
+    "frequently_used_channel": "渠道_9",
+    "interests": [
+      "新闻",
+      "电影",
+      "游戏"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "3.3.8"
+    }
+  },
+  {
+    "user_id": "user_41",
+    "age": 37,
+    "gender": "男",
+    "frequently_used_channel": "渠道_4",
+    "interests": [
+      "综艺",
+      "电影"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "3.8.5"
+    }
+  },
+  {
+    "user_id": "user_42",
+    "age": 36,
+    "gender": "男",
+    "frequently_used_channel": "渠道_14",
+    "interests": [
+      "电影",
+      "新闻"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "2.3.5"
+    }
+  },
+  {
+    "user_id": "user_43",
+    "age": 44,
+    "gender": "女",
+    "frequently_used_channel": "渠道_8",
+    "interests": [
+      "电影"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "2.5.8"
+    }
+  },
+  {
+    "user_id": "user_44",
+    "age": 47,
+    "gender": "女",
+    "frequently_used_channel": "渠道_15",
+    "interests": [
+      "电影",
+      "综艺",
+      "新闻"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "3.9.8"
+    }
+  },
+  {
+    "user_id": "user_45",
+    "age": 50,
+    "gender": "女",
+    "frequently_used_channel": "渠道_8",
+    "interests": [
+      "综艺"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "4.6.6"
+    }
+  },
+  {
+    "user_id": "user_46",
+    "age": 37,
+    "gender": "男",
+    "frequently_used_channel": "渠道_11",
+    "interests": [
+      "新闻"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "1.9.7"
+    }
+  },
+  {
+    "user_id": "user_47",
+    "age": 22,
+    "gender": "男",
+    "frequently_used_channel": "渠道_10",
+    "interests": [
+      "短剧",
+      "游戏",
+      "综艺"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "4.2.6"
+    }
+  },
+  {
+    "user_id": "user_48",
+    "age": 46,
+    "gender": "男",
+    "frequently_used_channel": "渠道_17",
+    "interests": [
+      "综艺"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "3.0.7"
+    }
+  },
+  {
+    "user_id": "user_49",
+    "age": 26,
+    "gender": "女",
+    "frequently_used_channel": "渠道_16",
+    "interests": [
+      "新闻",
+      "综艺"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "4.9.0"
+    }
+  },
+  {
+    "user_id": "user_50",
+    "age": 33,
+    "gender": "女",
+    "frequently_used_channel": "渠道_3",
+    "interests": [
+      "短剧"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "3.1.9"
+    }
+  },
+  {
+    "user_id": "user_51",
+    "age": 22,
+    "gender": "男",
+    "frequently_used_channel": "渠道_4",
+    "interests": [
+      "电影",
+      "游戏",
+      "新闻"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "2.8.4"
+    }
+  },
+  {
+    "user_id": "user_52",
+    "age": 47,
+    "gender": "男",
+    "frequently_used_channel": "渠道_2",
+    "interests": [
+      "新闻",
+      "游戏",
+      "电影"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "4.0.8"
+    }
+  },
+  {
+    "user_id": "user_53",
+    "age": 54,
+    "gender": "男",
+    "frequently_used_channel": "渠道_3",
+    "interests": [
+      "电影",
+      "综艺",
+      "游戏"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "4.1.1"
+    }
+  },
+  {
+    "user_id": "user_54",
+    "age": 58,
+    "gender": "女",
+    "frequently_used_channel": "渠道_17",
+    "interests": [
+      "游戏"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "2.8.9"
+    }
+  },
+  {
+    "user_id": "user_55",
+    "age": 34,
+    "gender": "男",
+    "frequently_used_channel": "渠道_16",
+    "interests": [
+      "电影",
+      "游戏",
+      "综艺"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "4.7.0"
+    }
+  },
+  {
+    "user_id": "user_56",
+    "age": 29,
+    "gender": "男",
+    "frequently_used_channel": "渠道_12",
+    "interests": [
+      "综艺",
+      "新闻",
+      "游戏"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "1.9.9"
+    }
+  },
+  {
+    "user_id": "user_57",
+    "age": 30,
+    "gender": "男",
+    "frequently_used_channel": "渠道_1",
+    "interests": [
+      "新闻"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "3.9.1"
+    }
+  },
+  {
+    "user_id": "user_58",
+    "age": 39,
+    "gender": "男",
+    "frequently_used_channel": "渠道_14",
+    "interests": [
+      "新闻",
+      "电影",
+      "短剧"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "2.5.4"
+    }
+  },
+  {
+    "user_id": "user_59",
+    "age": 26,
+    "gender": "男",
+    "frequently_used_channel": "渠道_17",
+    "interests": [
+      "综艺",
+      "电影"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "4.9.2"
+    }
+  },
+  {
+    "user_id": "user_60",
+    "age": 58,
+    "gender": "女",
+    "frequently_used_channel": "渠道_7",
+    "interests": [
+      "短剧",
+      "综艺"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "1.0.9"
+    }
+  },
+  {
+    "user_id": "user_61",
+    "age": 24,
+    "gender": "女",
+    "frequently_used_channel": "渠道_5",
+    "interests": [
+      "新闻",
+      "电影"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "1.7.5"
+    }
+  },
+  {
+    "user_id": "user_62",
+    "age": 51,
+    "gender": "男",
+    "frequently_used_channel": "渠道_14",
+    "interests": [
+      "电影",
+      "短剧",
+      "游戏"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "3.1.8"
+    }
+  },
+  {
+    "user_id": "user_63",
+    "age": 23,
+    "gender": "女",
+    "frequently_used_channel": "渠道_1",
+    "interests": [
+      "新闻",
+      "综艺",
+      "游戏"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "1.8.4"
+    }
+  },
+  {
+    "user_id": "user_64",
+    "age": 30,
+    "gender": "男",
+    "frequently_used_channel": "渠道_7",
+    "interests": [
+      "新闻",
+      "短剧"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "4.3.9"
+    }
+  },
+  {
+    "user_id": "user_65",
+    "age": 18,
+    "gender": "女",
+    "frequently_used_channel": "渠道_13",
+    "interests": [
+      "综艺",
+      "游戏",
+      "新闻"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "1.1.3"
+    }
+  },
+  {
+    "user_id": "user_66",
+    "age": 48,
+    "gender": "男",
+    "frequently_used_channel": "渠道_5",
+    "interests": [
+      "新闻"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "3.8.2"
+    }
+  },
+  {
+    "user_id": "user_67",
+    "age": 49,
+    "gender": "男",
+    "frequently_used_channel": "渠道_2",
+    "interests": [
+      "游戏"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "4.1.8"
+    }
+  },
+  {
+    "user_id": "user_68",
+    "age": 18,
+    "gender": "男",
+    "frequently_used_channel": "渠道_2",
+    "interests": [
+      "短剧"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "2.2.6"
+    }
+  },
+  {
+    "user_id": "user_69",
+    "age": 53,
+    "gender": "女",
+    "frequently_used_channel": "渠道_12",
+    "interests": [
+      "游戏",
+      "综艺",
+      "短剧"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "1.7.6"
+    }
+  },
+  {
+    "user_id": "user_70",
+    "age": 59,
+    "gender": "女",
+    "frequently_used_channel": "渠道_8",
+    "interests": [
+      "游戏",
+      "综艺"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "3.8.5"
+    }
+  },
+  {
+    "user_id": "user_71",
+    "age": 53,
+    "gender": "女",
+    "frequently_used_channel": "渠道_17",
+    "interests": [
+      "游戏"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "2.3.2"
+    }
+  },
+  {
+    "user_id": "user_72",
+    "age": 32,
+    "gender": "女",
+    "frequently_used_channel": "渠道_8",
+    "interests": [
+      "电影"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "4.3.1"
+    }
+  },
+  {
+    "user_id": "user_73",
+    "age": 33,
+    "gender": "女",
+    "frequently_used_channel": "渠道_9",
+    "interests": [
+      "新闻",
+      "电影"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "4.7.2"
+    }
+  },
+  {
+    "user_id": "user_74",
+    "age": 36,
+    "gender": "男",
+    "frequently_used_channel": "渠道_8",
+    "interests": [
+      "新闻",
+      "短剧"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "2.6.9"
+    }
+  },
+  {
+    "user_id": "user_75",
+    "age": 28,
+    "gender": "女",
+    "frequently_used_channel": "渠道_7",
+    "interests": [
+      "游戏"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "3.5.5"
+    }
+  },
+  {
+    "user_id": "user_76",
+    "age": 53,
+    "gender": "男",
+    "frequently_used_channel": "渠道_15",
+    "interests": [
+      "短剧"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "4.8.2"
+    }
+  },
+  {
+    "user_id": "user_77",
+    "age": 51,
+    "gender": "男",
+    "frequently_used_channel": "渠道_2",
+    "interests": [
+      "新闻",
+      "游戏",
+      "短剧"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "1.3.0"
+    }
+  },
+  {
+    "user_id": "user_78",
+    "age": 37,
+    "gender": "女",
+    "frequently_used_channel": "渠道_20",
+    "interests": [
+      "短剧",
+      "综艺"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "1.9.7"
+    }
+  },
+  {
+    "user_id": "user_79",
+    "age": 41,
+    "gender": "女",
+    "frequently_used_channel": "渠道_6",
+    "interests": [
+      "综艺",
+      "电影"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "3.7.3"
+    }
+  },
+  {
+    "user_id": "user_80",
+    "age": 55,
+    "gender": "女",
+    "frequently_used_channel": "渠道_14",
+    "interests": [
+      "短剧"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "4.8.8"
+    }
+  },
+  {
+    "user_id": "user_81",
+    "age": 54,
+    "gender": "女",
+    "frequently_used_channel": "渠道_16",
+    "interests": [
+      "短剧",
+      "电影",
+      "新闻"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "4.7.4"
+    }
+  },
+  {
+    "user_id": "user_82",
+    "age": 48,
+    "gender": "女",
+    "frequently_used_channel": "渠道_11",
+    "interests": [
+      "电影"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "4.2.4"
+    }
+  },
+  {
+    "user_id": "user_83",
+    "age": 19,
+    "gender": "女",
+    "frequently_used_channel": "渠道_8",
+    "interests": [
+      "短剧"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "2.8.3"
+    }
+  },
+  {
+    "user_id": "user_84",
+    "age": 25,
+    "gender": "男",
+    "frequently_used_channel": "渠道_6",
+    "interests": [
+      "短剧",
+      "电影"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "3.7.4"
+    }
+  },
+  {
+    "user_id": "user_85",
+    "age": 43,
+    "gender": "女",
+    "frequently_used_channel": "渠道_7",
+    "interests": [
+      "电影",
+      "综艺"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "4.4.8"
+    }
+  },
+  {
+    "user_id": "user_86",
+    "age": 46,
+    "gender": "男",
+    "frequently_used_channel": "渠道_2",
+    "interests": [
+      "短剧"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "4.4.1"
+    }
+  },
+  {
+    "user_id": "user_87",
+    "age": 40,
+    "gender": "女",
+    "frequently_used_channel": "渠道_17",
+    "interests": [
+      "游戏",
+      "短剧",
+      "综艺"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "2.2.9"
+    }
+  },
+  {
+    "user_id": "user_88",
+    "age": 24,
+    "gender": "女",
+    "frequently_used_channel": "渠道_3",
+    "interests": [
+      "游戏",
+      "综艺",
+      "新闻"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "3.9.4"
+    }
+  },
+  {
+    "user_id": "user_89",
+    "age": 49,
+    "gender": "女",
+    "frequently_used_channel": "渠道_6",
+    "interests": [
+      "短剧"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "2.2.5"
+    }
+  },
+  {
+    "user_id": "user_90",
+    "age": 35,
+    "gender": "女",
+    "frequently_used_channel": "渠道_5",
+    "interests": [
+      "新闻",
+      "游戏"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "2.3.0"
+    }
+  },
+  {
+    "user_id": "user_91",
+    "age": 47,
+    "gender": "女",
+    "frequently_used_channel": "渠道_1",
+    "interests": [
+      "综艺"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "2.2.7"
+    }
+  },
+  {
+    "user_id": "user_92",
+    "age": 44,
+    "gender": "未知",
+    "frequently_used_channel": "渠道_4",
+    "interests": [
+      "新闻"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "3.8.7"
+    }
+  },
+  {
+    "user_id": "user_93",
+    "age": 47,
+    "gender": "男",
+    "frequently_used_channel": "渠道_19",
+    "interests": [
+      "新闻",
+      "短剧"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "2.8.6"
+    }
+  },
+  {
+    "user_id": "user_94",
+    "age": 31,
+    "gender": "女",
+    "frequently_used_channel": "渠道_11",
+    "interests": [
+      "综艺",
+      "电影"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "1.3.6"
+    }
+  },
+  {
+    "user_id": "user_95",
+    "age": 24,
+    "gender": "女",
+    "frequently_used_channel": "渠道_18",
+    "interests": [
+      "短剧"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "1.3.9"
+    }
+  },
+  {
+    "user_id": "user_96",
+    "age": 58,
+    "gender": "男",
+    "frequently_used_channel": "渠道_14",
+    "interests": [
+      "电影",
+      "新闻",
+      "短剧"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "1.5.6"
+    }
+  },
+  {
+    "user_id": "user_97",
+    "age": 52,
+    "gender": "男",
+    "frequently_used_channel": "渠道_17",
+    "interests": [
+      "电影"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "1.4.7"
+    }
+  },
+  {
+    "user_id": "user_98",
+    "age": 25,
+    "gender": "女",
+    "frequently_used_channel": "渠道_10",
+    "interests": [
+      "电影"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "3.0.1"
+    }
+  },
+  {
+    "user_id": "user_99",
+    "age": 49,
+    "gender": "女",
+    "frequently_used_channel": "渠道_14",
+    "interests": [
+      "游戏"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "1.4.9"
+    }
+  },
+  {
+    "user_id": "user_100",
+    "age": 19,
+    "gender": "未知",
+    "frequently_used_channel": "渠道_15",
+    "interests": [
+      "短剧",
+      "新闻",
+      "游戏"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "2.6.7"
+    }
+  },
+  {
+    "user_id": "user_101",
+    "age": 43,
+    "gender": "女",
+    "frequently_used_channel": "渠道_7",
+    "interests": [
+      "新闻",
+      "短剧",
+      "综艺"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "4.1.1"
+    }
+  },
+  {
+    "user_id": "user_102",
+    "age": 40,
+    "gender": "女",
+    "frequently_used_channel": "渠道_11",
+    "interests": [
+      "综艺"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "2.2.0"
+    }
+  },
+  {
+    "user_id": "user_103",
+    "age": 39,
+    "gender": "女",
+    "frequently_used_channel": "渠道_17",
+    "interests": [
+      "综艺",
+      "游戏",
+      "电影"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "2.1.2"
+    }
+  },
+  {
+    "user_id": "user_104",
+    "age": 20,
+    "gender": "女",
+    "frequently_used_channel": "渠道_5",
+    "interests": [
+      "新闻",
+      "电影",
+      "短剧"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "4.8.0"
+    }
+  },
+  {
+    "user_id": "user_105",
+    "age": 34,
+    "gender": "女",
+    "frequently_used_channel": "渠道_9",
+    "interests": [
+      "游戏"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "1.4.3"
+    }
+  },
+  {
+    "user_id": "user_106",
+    "age": 22,
+    "gender": "男",
+    "frequently_used_channel": "渠道_18",
+    "interests": [
+      "新闻"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "3.5.1"
+    }
+  },
+  {
+    "user_id": "user_107",
+    "age": 23,
+    "gender": "男",
+    "frequently_used_channel": "渠道_5",
+    "interests": [
+      "电影",
+      "新闻"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "4.5.3"
+    }
+  },
+  {
+    "user_id": "user_108",
+    "age": 31,
+    "gender": "男",
+    "frequently_used_channel": "渠道_4",
+    "interests": [
+      "新闻"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "4.4.2"
+    }
+  },
+  {
+    "user_id": "user_109",
+    "age": 25,
+    "gender": "女",
+    "frequently_used_channel": "渠道_7",
+    "interests": [
+      "新闻",
+      "短剧",
+      "电影"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "1.3.1"
+    }
+  },
+  {
+    "user_id": "user_110",
+    "age": 36,
+    "gender": "男",
+    "frequently_used_channel": "渠道_13",
+    "interests": [
+      "综艺",
+      "新闻"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "3.2.0"
+    }
+  },
+  {
+    "user_id": "user_111",
+    "age": 58,
+    "gender": "男",
+    "frequently_used_channel": "渠道_2",
+    "interests": [
+      "短剧",
+      "游戏",
+      "综艺"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "2.6.4"
+    }
+  },
+  {
+    "user_id": "user_112",
+    "age": 59,
+    "gender": "女",
+    "frequently_used_channel": "渠道_1",
+    "interests": [
+      "短剧"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "3.6.8"
+    }
+  },
+  {
+    "user_id": "user_113",
+    "age": 23,
+    "gender": "男",
+    "frequently_used_channel": "渠道_15",
+    "interests": [
+      "短剧",
+      "综艺"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "3.8.2"
+    }
+  },
+  {
+    "user_id": "user_114",
+    "age": 51,
+    "gender": "女",
+    "frequently_used_channel": "渠道_18",
+    "interests": [
+      "综艺",
+      "新闻",
+      "游戏"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "2.6.2"
+    }
+  },
+  {
+    "user_id": "user_115",
+    "age": 30,
+    "gender": "女",
+    "frequently_used_channel": "渠道_4",
+    "interests": [
+      "游戏",
+      "新闻"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "3.7.4"
+    }
+  },
+  {
+    "user_id": "user_116",
+    "age": 45,
+    "gender": "女",
+    "frequently_used_channel": "渠道_1",
+    "interests": [
+      "新闻",
+      "短剧",
+      "综艺"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "3.7.9"
+    }
+  },
+  {
+    "user_id": "user_117",
+    "age": 29,
+    "gender": "女",
+    "frequently_used_channel": "渠道_3",
+    "interests": [
+      "电影",
+      "新闻",
+      "短剧"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "4.0.1"
+    }
+  },
+  {
+    "user_id": "user_118",
+    "age": 53,
+    "gender": "男",
+    "frequently_used_channel": "渠道_11",
+    "interests": [
+      "电影",
+      "游戏"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "3.6.1"
+    }
+  },
+  {
+    "user_id": "user_119",
+    "age": 36,
+    "gender": "男",
+    "frequently_used_channel": "渠道_20",
+    "interests": [
+      "新闻"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "3.6.0"
+    }
+  },
+  {
+    "user_id": "user_120",
+    "age": 20,
+    "gender": "女",
+    "frequently_used_channel": "渠道_6",
+    "interests": [
+      "游戏",
+      "短剧",
+      "综艺"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "2.5.9"
+    }
+  },
+  {
+    "user_id": "user_121",
+    "age": 44,
+    "gender": "女",
+    "frequently_used_channel": "渠道_19",
+    "interests": [
+      "短剧",
+      "电影",
+      "游戏"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "1.3.3"
+    }
+  },
+  {
+    "user_id": "user_122",
+    "age": 21,
+    "gender": "女",
+    "frequently_used_channel": "渠道_12",
+    "interests": [
+      "电影",
+      "新闻"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "2.0.0"
+    }
+  },
+  {
+    "user_id": "user_123",
+    "age": 29,
+    "gender": "女",
+    "frequently_used_channel": "渠道_13",
+    "interests": [
+      "新闻",
+      "电影",
+      "短剧"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "3.5.5"
+    }
+  },
+  {
+    "user_id": "user_124",
+    "age": 37,
+    "gender": "男",
+    "frequently_used_channel": "渠道_19",
+    "interests": [
+      "新闻",
+      "综艺",
+      "短剧"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "4.3.2"
+    }
+  },
+  {
+    "user_id": "user_125",
+    "age": 45,
+    "gender": "女",
+    "frequently_used_channel": "渠道_7",
+    "interests": [
+      "电影",
+      "新闻",
+      "短剧"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "4.9.3"
+    }
+  },
+  {
+    "user_id": "user_126",
+    "age": 29,
+    "gender": "男",
+    "frequently_used_channel": "渠道_9",
+    "interests": [
+      "综艺",
+      "游戏"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "4.3.5"
+    }
+  },
+  {
+    "user_id": "user_127",
+    "age": 54,
+    "gender": "女",
+    "frequently_used_channel": "渠道_17",
+    "interests": [
+      "电影"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "1.4.0"
+    }
+  },
+  {
+    "user_id": "user_128",
+    "age": 39,
+    "gender": "男",
+    "frequently_used_channel": "渠道_14",
+    "interests": [
+      "短剧",
+      "游戏",
+      "综艺"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "1.6.5"
+    }
+  },
+  {
+    "user_id": "user_129",
+    "age": 42,
+    "gender": "女",
+    "frequently_used_channel": "渠道_17",
+    "interests": [
+      "电影",
+      "新闻"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "2.2.2"
+    }
+  },
+  {
+    "user_id": "user_130",
+    "age": 58,
+    "gender": "女",
+    "frequently_used_channel": "渠道_11",
+    "interests": [
+      "综艺",
+      "新闻",
+      "游戏"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "1.6.1"
+    }
+  },
+  {
+    "user_id": "user_131",
+    "age": 31,
+    "gender": "女",
+    "frequently_used_channel": "渠道_19",
+    "interests": [
+      "游戏",
+      "综艺"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "3.7.6"
+    }
+  },
+  {
+    "user_id": "user_132",
+    "age": 39,
+    "gender": "男",
+    "frequently_used_channel": "渠道_2",
+    "interests": [
+      "电影"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "4.2.5"
+    }
+  },
+  {
+    "user_id": "user_133",
+    "age": 31,
+    "gender": "男",
+    "frequently_used_channel": "渠道_1",
+    "interests": [
+      "短剧"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "3.1.8"
+    }
+  },
+  {
+    "user_id": "user_134",
+    "age": 39,
+    "gender": "男",
+    "frequently_used_channel": "渠道_9",
+    "interests": [
+      "电影"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "4.9.0"
+    }
+  },
+  {
+    "user_id": "user_135",
+    "age": 37,
+    "gender": "女",
+    "frequently_used_channel": "渠道_3",
+    "interests": [
+      "电影"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "3.1.7"
+    }
+  },
+  {
+    "user_id": "user_136",
+    "age": 45,
+    "gender": "女",
+    "frequently_used_channel": "渠道_16",
+    "interests": [
+      "电影"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "3.1.5"
+    }
+  },
+  {
+    "user_id": "user_137",
+    "age": 36,
+    "gender": "男",
+    "frequently_used_channel": "渠道_3",
+    "interests": [
+      "电影",
+      "游戏"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "2.0.4"
+    }
+  },
+  {
+    "user_id": "user_138",
+    "age": 24,
+    "gender": "女",
+    "frequently_used_channel": "渠道_15",
+    "interests": [
+      "游戏",
+      "新闻",
+      "短剧"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "3.9.6"
+    }
+  },
+  {
+    "user_id": "user_139",
+    "age": 21,
+    "gender": "女",
+    "frequently_used_channel": "渠道_2",
+    "interests": [
+      "新闻",
+      "短剧"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "1.0.7"
+    }
+  },
+  {
+    "user_id": "user_140",
+    "age": 35,
+    "gender": "女",
+    "frequently_used_channel": "渠道_18",
+    "interests": [
+      "综艺",
+      "游戏"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "1.3.8"
+    }
+  },
+  {
+    "user_id": "user_141",
+    "age": 47,
+    "gender": "男",
+    "frequently_used_channel": "渠道_11",
+    "interests": [
+      "短剧"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "1.3.7"
+    }
+  },
+  {
+    "user_id": "user_142",
+    "age": 52,
+    "gender": "女",
+    "frequently_used_channel": "渠道_8",
+    "interests": [
+      "综艺",
+      "游戏",
+      "短剧"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "4.7.5"
+    }
+  },
+  {
+    "user_id": "user_143",
+    "age": 22,
+    "gender": "女",
+    "frequently_used_channel": "渠道_5",
+    "interests": [
+      "电影",
+      "短剧",
+      "新闻"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "4.8.2"
+    }
+  },
+  {
+    "user_id": "user_144",
+    "age": 48,
+    "gender": "男",
+    "frequently_used_channel": "渠道_5",
+    "interests": [
+      "游戏",
+      "电影"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "4.4.4"
+    }
+  },
+  {
+    "user_id": "user_145",
+    "age": 40,
+    "gender": "女",
+    "frequently_used_channel": "渠道_5",
+    "interests": [
+      "综艺"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "4.1.9"
+    }
+  },
+  {
+    "user_id": "user_146",
+    "age": 32,
+    "gender": "男",
+    "frequently_used_channel": "渠道_19",
+    "interests": [
+      "电影",
+      "新闻"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "2.5.4"
+    }
+  },
+  {
+    "user_id": "user_147",
+    "age": 44,
+    "gender": "男",
+    "frequently_used_channel": "渠道_10",
+    "interests": [
+      "电影",
+      "新闻"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "1.1.1"
+    }
+  },
+  {
+    "user_id": "user_148",
+    "age": 48,
+    "gender": "女",
+    "frequently_used_channel": "渠道_15",
+    "interests": [
+      "综艺"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "3.6.2"
+    }
+  },
+  {
+    "user_id": "user_149",
+    "age": 19,
+    "gender": "男",
+    "frequently_used_channel": "渠道_8",
+    "interests": [
+      "新闻",
+      "游戏",
+      "短剧"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "4.1.9"
+    }
+  },
+  {
+    "user_id": "user_150",
+    "age": 20,
+    "gender": "男",
+    "frequently_used_channel": "渠道_13",
+    "interests": [
+      "电影"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "1.4.7"
+    }
+  },
+  {
+    "user_id": "user_151",
+    "age": 24,
+    "gender": "女",
+    "frequently_used_channel": "渠道_18",
+    "interests": [
+      "综艺",
+      "电影"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "3.2.5"
+    }
+  },
+  {
+    "user_id": "user_152",
+    "age": 29,
+    "gender": "男",
+    "frequently_used_channel": "渠道_3",
+    "interests": [
+      "综艺"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "3.6.4"
+    }
+  },
+  {
+    "user_id": "user_153",
+    "age": 51,
+    "gender": "男",
+    "frequently_used_channel": "渠道_7",
+    "interests": [
+      "电影",
+      "短剧"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "2.6.5"
+    }
+  },
+  {
+    "user_id": "user_154",
+    "age": 37,
+    "gender": "未知",
+    "frequently_used_channel": "渠道_8",
+    "interests": [
+      "短剧"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "4.3.7"
+    }
+  },
+  {
+    "user_id": "user_155",
+    "age": 29,
+    "gender": "男",
+    "frequently_used_channel": "渠道_19",
+    "interests": [
+      "电影"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "3.9.2"
+    }
+  },
+  {
+    "user_id": "user_156",
+    "age": 43,
+    "gender": "男",
+    "frequently_used_channel": "渠道_11",
+    "interests": [
+      "短剧",
+      "电影"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "4.9.9"
+    }
+  },
+  {
+    "user_id": "user_157",
+    "age": 39,
+    "gender": "女",
+    "frequently_used_channel": "渠道_2",
+    "interests": [
+      "电影"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "2.4.7"
+    }
+  },
+  {
+    "user_id": "user_158",
+    "age": 42,
+    "gender": "男",
+    "frequently_used_channel": "渠道_20",
+    "interests": [
+      "电影"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "2.2.4"
+    }
+  },
+  {
+    "user_id": "user_159",
+    "age": 54,
+    "gender": "女",
+    "frequently_used_channel": "渠道_18",
+    "interests": [
+      "电影",
+      "综艺"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "4.1.8"
+    }
+  },
+  {
+    "user_id": "user_160",
+    "age": 59,
+    "gender": "男",
+    "frequently_used_channel": "渠道_4",
+    "interests": [
+      "短剧",
+      "游戏",
+      "新闻"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "4.4.2"
+    }
+  },
+  {
+    "user_id": "user_161",
+    "age": 38,
+    "gender": "女",
+    "frequently_used_channel": "渠道_15",
+    "interests": [
+      "游戏",
+      "新闻"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "3.0.8"
+    }
+  },
+  {
+    "user_id": "user_162",
+    "age": 58,
+    "gender": "男",
+    "frequently_used_channel": "渠道_20",
+    "interests": [
+      "电影"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "4.1.3"
+    }
+  },
+  {
+    "user_id": "user_163",
+    "age": 41,
+    "gender": "男",
+    "frequently_used_channel": "渠道_5",
+    "interests": [
+      "短剧",
+      "电影"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "3.4.8"
+    }
+  },
+  {
+    "user_id": "user_164",
+    "age": 37,
+    "gender": "男",
+    "frequently_used_channel": "渠道_3",
+    "interests": [
+      "综艺"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "4.1.1"
+    }
+  },
+  {
+    "user_id": "user_165",
+    "age": 45,
+    "gender": "女",
+    "frequently_used_channel": "渠道_19",
+    "interests": [
+      "电影",
+      "综艺",
+      "新闻"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "3.5.6"
+    }
+  },
+  {
+    "user_id": "user_166",
+    "age": 26,
+    "gender": "女",
+    "frequently_used_channel": "渠道_6",
+    "interests": [
+      "新闻",
+      "电影",
+      "游戏"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "1.0.4"
+    }
+  },
+  {
+    "user_id": "user_167",
+    "age": 48,
+    "gender": "男",
+    "frequently_used_channel": "渠道_19",
+    "interests": [
+      "新闻",
+      "综艺",
+      "游戏"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "1.2.6"
+    }
+  },
+  {
+    "user_id": "user_168",
+    "age": 50,
+    "gender": "未知",
+    "frequently_used_channel": "渠道_18",
+    "interests": [
+      "综艺",
+      "游戏"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "4.6.1"
+    }
+  },
+  {
+    "user_id": "user_169",
+    "age": 42,
+    "gender": "男",
+    "frequently_used_channel": "渠道_14",
+    "interests": [
+      "短剧",
+      "新闻"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "4.4.5"
+    }
+  },
+  {
+    "user_id": "user_170",
+    "age": 34,
+    "gender": "女",
+    "frequently_used_channel": "渠道_8",
+    "interests": [
+      "综艺",
+      "游戏"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "4.5.5"
+    }
+  },
+  {
+    "user_id": "user_171",
+    "age": 21,
+    "gender": "未知",
+    "frequently_used_channel": "渠道_5",
+    "interests": [
+      "电影",
+      "综艺"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "2.9.5"
+    }
+  },
+  {
+    "user_id": "user_172",
+    "age": 47,
+    "gender": "男",
+    "frequently_used_channel": "渠道_3",
+    "interests": [
+      "综艺",
+      "新闻",
+      "电影"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "2.6.6"
+    }
+  },
+  {
+    "user_id": "user_173",
+    "age": 53,
+    "gender": "男",
+    "frequently_used_channel": "渠道_18",
+    "interests": [
+      "短剧",
+      "综艺",
+      "游戏"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "4.9.8"
+    }
+  },
+  {
+    "user_id": "user_174",
+    "age": 27,
+    "gender": "男",
+    "frequently_used_channel": "渠道_7",
+    "interests": [
+      "电影",
+      "新闻",
+      "综艺"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "3.5.3"
+    }
+  },
+  {
+    "user_id": "user_175",
+    "age": 25,
+    "gender": "男",
+    "frequently_used_channel": "渠道_14",
+    "interests": [
+      "电影",
+      "短剧",
+      "游戏"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "1.4.9"
+    }
+  },
+  {
+    "user_id": "user_176",
+    "age": 34,
+    "gender": "女",
+    "frequently_used_channel": "渠道_8",
+    "interests": [
+      "游戏",
+      "综艺"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "1.9.2"
+    }
+  },
+  {
+    "user_id": "user_177",
+    "age": 40,
+    "gender": "男",
+    "frequently_used_channel": "渠道_14",
+    "interests": [
+      "短剧"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "3.7.7"
+    }
+  },
+  {
+    "user_id": "user_178",
+    "age": 56,
+    "gender": "男",
+    "frequently_used_channel": "渠道_12",
+    "interests": [
+      "新闻",
+      "游戏"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "3.5.7"
+    }
+  },
+  {
+    "user_id": "user_179",
+    "age": 50,
+    "gender": "男",
+    "frequently_used_channel": "渠道_16",
+    "interests": [
+      "电影",
+      "综艺"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "1.9.7"
+    }
+  },
+  {
+    "user_id": "user_180",
+    "age": 55,
+    "gender": "男",
+    "frequently_used_channel": "渠道_20",
+    "interests": [
+      "游戏",
+      "电影"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "4.6.2"
+    }
+  },
+  {
+    "user_id": "user_181",
+    "age": 57,
+    "gender": "男",
+    "frequently_used_channel": "渠道_11",
+    "interests": [
+      "电影",
+      "游戏"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "2.3.1"
+    }
+  },
+  {
+    "user_id": "user_182",
+    "age": 33,
+    "gender": "男",
+    "frequently_used_channel": "渠道_2",
+    "interests": [
+      "综艺",
+      "短剧",
+      "游戏"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "2.4.8"
+    }
+  },
+  {
+    "user_id": "user_183",
+    "age": 22,
+    "gender": "男",
+    "frequently_used_channel": "渠道_16",
+    "interests": [
+      "综艺",
+      "游戏"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "1.4.4"
+    }
+  },
+  {
+    "user_id": "user_184",
+    "age": 37,
+    "gender": "女",
+    "frequently_used_channel": "渠道_5",
+    "interests": [
+      "新闻"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "1.5.5"
+    }
+  },
+  {
+    "user_id": "user_185",
+    "age": 50,
+    "gender": "男",
+    "frequently_used_channel": "渠道_4",
+    "interests": [
+      "游戏",
+      "新闻"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "3.6.9"
+    }
+  },
+  {
+    "user_id": "user_186",
+    "age": 27,
+    "gender": "男",
+    "frequently_used_channel": "渠道_2",
+    "interests": [
+      "短剧",
+      "游戏",
+      "综艺"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "1.5.1"
+    }
+  },
+  {
+    "user_id": "user_187",
+    "age": 40,
+    "gender": "男",
+    "frequently_used_channel": "渠道_14",
+    "interests": [
+      "新闻",
+      "综艺",
+      "游戏"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "1.0.8"
+    }
+  },
+  {
+    "user_id": "user_188",
+    "age": 23,
+    "gender": "男",
+    "frequently_used_channel": "渠道_10",
+    "interests": [
+      "游戏"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "4.1.1"
+    }
+  },
+  {
+    "user_id": "user_189",
+    "age": 40,
+    "gender": "男",
+    "frequently_used_channel": "渠道_12",
+    "interests": [
+      "游戏"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "4.9.8"
+    }
+  },
+  {
+    "user_id": "user_190",
+    "age": 19,
+    "gender": "男",
+    "frequently_used_channel": "渠道_19",
+    "interests": [
+      "短剧",
+      "电影",
+      "综艺"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "1.6.7"
+    }
+  },
+  {
+    "user_id": "user_191",
+    "age": 42,
+    "gender": "女",
+    "frequently_used_channel": "渠道_4",
+    "interests": [
+      "新闻",
+      "电影"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "4.1.4"
+    }
+  },
+  {
+    "user_id": "user_192",
+    "age": 55,
+    "gender": "男",
+    "frequently_used_channel": "渠道_15",
+    "interests": [
+      "电影",
+      "新闻"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "1.0.7"
+    }
+  },
+  {
+    "user_id": "user_193",
+    "age": 33,
+    "gender": "女",
+    "frequently_used_channel": "渠道_11",
+    "interests": [
+      "电影",
+      "短剧",
+      "综艺"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "2.0.9"
+    }
+  },
+  {
+    "user_id": "user_194",
+    "age": 24,
+    "gender": "男",
+    "frequently_used_channel": "渠道_2",
+    "interests": [
+      "新闻",
+      "电影"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "4.3.8"
+    }
+  },
+  {
+    "user_id": "user_195",
+    "age": 31,
+    "gender": "未知",
+    "frequently_used_channel": "渠道_15",
+    "interests": [
+      "游戏",
+      "短剧"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "4.6.8"
+    }
+  },
+  {
+    "user_id": "user_196",
+    "age": 49,
+    "gender": "男",
+    "frequently_used_channel": "渠道_1",
+    "interests": [
+      "短剧"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "3.8.3"
+    }
+  },
+  {
+    "user_id": "user_197",
+    "age": 19,
+    "gender": "女",
+    "frequently_used_channel": "渠道_9",
+    "interests": [
+      "游戏",
+      "电影",
+      "短剧"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "3.1.8"
+    }
+  },
+  {
+    "user_id": "user_198",
+    "age": 49,
+    "gender": "女",
+    "frequently_used_channel": "渠道_10",
+    "interests": [
+      "电影"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "1.6.6"
+    }
+  },
+  {
+    "user_id": "user_199",
+    "age": 51,
+    "gender": "女",
+    "frequently_used_channel": "渠道_18",
+    "interests": [
+      "电影",
+      "游戏"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "1.4.5"
+    }
+  },
+  {
+    "user_id": "user_200",
+    "age": 21,
+    "gender": "女",
+    "frequently_used_channel": "渠道_17",
+    "interests": [
+      "游戏"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "3.2.7"
+    }
+  },
+  {
+    "user_id": "user_201",
+    "age": 55,
+    "gender": "女",
+    "frequently_used_channel": "渠道_5",
+    "interests": [
+      "游戏",
+      "短剧"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "4.0.0"
+    }
+  },
+  {
+    "user_id": "user_202",
+    "age": 26,
+    "gender": "男",
+    "frequently_used_channel": "渠道_5",
+    "interests": [
+      "短剧",
+      "综艺"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "4.3.9"
+    }
+  },
+  {
+    "user_id": "user_203",
+    "age": 43,
+    "gender": "女",
+    "frequently_used_channel": "渠道_17",
+    "interests": [
+      "电影",
+      "新闻",
+      "短剧"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "1.4.2"
+    }
+  },
+  {
+    "user_id": "user_204",
+    "age": 28,
+    "gender": "女",
+    "frequently_used_channel": "渠道_18",
+    "interests": [
+      "游戏",
+      "电影",
+      "新闻"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "1.3.3"
+    }
+  },
+  {
+    "user_id": "user_205",
+    "age": 30,
+    "gender": "男",
+    "frequently_used_channel": "渠道_9",
+    "interests": [
+      "新闻",
+      "短剧"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "3.5.2"
+    }
+  },
+  {
+    "user_id": "user_206",
+    "age": 46,
+    "gender": "女",
+    "frequently_used_channel": "渠道_2",
+    "interests": [
+      "综艺"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "3.1.0"
+    }
+  },
+  {
+    "user_id": "user_207",
+    "age": 26,
+    "gender": "男",
+    "frequently_used_channel": "渠道_9",
+    "interests": [
+      "新闻",
+      "综艺"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "3.8.0"
+    }
+  },
+  {
+    "user_id": "user_208",
+    "age": 39,
+    "gender": "女",
+    "frequently_used_channel": "渠道_4",
+    "interests": [
+      "短剧",
+      "电影"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "4.9.6"
+    }
+  },
+  {
+    "user_id": "user_209",
+    "age": 49,
+    "gender": "男",
+    "frequently_used_channel": "渠道_1",
+    "interests": [
+      "新闻"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "1.7.1"
+    }
+  },
+  {
+    "user_id": "user_210",
+    "age": 58,
+    "gender": "男",
+    "frequently_used_channel": "渠道_11",
+    "interests": [
+      "综艺"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "2.0.1"
+    }
+  },
+  {
+    "user_id": "user_211",
+    "age": 21,
+    "gender": "男",
+    "frequently_used_channel": "渠道_20",
+    "interests": [
+      "短剧",
+      "电影"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "2.3.5"
+    }
+  },
+  {
+    "user_id": "user_212",
+    "age": 42,
+    "gender": "女",
+    "frequently_used_channel": "渠道_7",
+    "interests": [
+      "综艺"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "2.6.2"
+    }
+  },
+  {
+    "user_id": "user_213",
+    "age": 55,
+    "gender": "女",
+    "frequently_used_channel": "渠道_13",
+    "interests": [
+      "新闻"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "1.7.7"
+    }
+  },
+  {
+    "user_id": "user_214",
+    "age": 24,
+    "gender": "女",
+    "frequently_used_channel": "渠道_7",
+    "interests": [
+      "游戏",
+      "短剧",
+      "综艺"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "2.2.9"
+    }
+  },
+  {
+    "user_id": "user_215",
+    "age": 56,
+    "gender": "男",
+    "frequently_used_channel": "渠道_2",
+    "interests": [
+      "新闻"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "2.3.5"
+    }
+  },
+  {
+    "user_id": "user_216",
+    "age": 37,
+    "gender": "女",
+    "frequently_used_channel": "渠道_6",
+    "interests": [
+      "电影"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "2.5.4"
+    }
+  },
+  {
+    "user_id": "user_217",
+    "age": 41,
+    "gender": "女",
+    "frequently_used_channel": "渠道_19",
+    "interests": [
+      "新闻"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "2.8.0"
+    }
+  },
+  {
+    "user_id": "user_218",
+    "age": 30,
+    "gender": "女",
+    "frequently_used_channel": "渠道_19",
+    "interests": [
+      "电影"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "2.3.5"
+    }
+  },
+  {
+    "user_id": "user_219",
+    "age": 18,
+    "gender": "男",
+    "frequently_used_channel": "渠道_4",
+    "interests": [
+      "综艺"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "4.2.1"
+    }
+  },
+  {
+    "user_id": "user_220",
+    "age": 54,
+    "gender": "女",
+    "frequently_used_channel": "渠道_1",
+    "interests": [
+      "综艺",
+      "短剧",
+      "游戏"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "4.9.3"
+    }
+  },
+  {
+    "user_id": "user_221",
+    "age": 43,
+    "gender": "女",
+    "frequently_used_channel": "渠道_8",
+    "interests": [
+      "电影"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "4.8.3"
+    }
+  },
+  {
+    "user_id": "user_222",
+    "age": 25,
+    "gender": "女",
+    "frequently_used_channel": "渠道_18",
+    "interests": [
+      "电影",
+      "游戏"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "3.2.1"
+    }
+  },
+  {
+    "user_id": "user_223",
+    "age": 39,
+    "gender": "女",
+    "frequently_used_channel": "渠道_7",
+    "interests": [
+      "电影"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "1.3.5"
+    }
+  },
+  {
+    "user_id": "user_224",
+    "age": 35,
+    "gender": "男",
+    "frequently_used_channel": "渠道_5",
+    "interests": [
+      "短剧",
+      "新闻"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "4.0.3"
+    }
+  },
+  {
+    "user_id": "user_225",
+    "age": 35,
+    "gender": "男",
+    "frequently_used_channel": "渠道_6",
+    "interests": [
+      "综艺",
+      "游戏",
+      "电影"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "4.7.5"
+    }
+  },
+  {
+    "user_id": "user_226",
+    "age": 19,
+    "gender": "女",
+    "frequently_used_channel": "渠道_10",
+    "interests": [
+      "短剧"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "4.0.5"
+    }
+  },
+  {
+    "user_id": "user_227",
+    "age": 44,
+    "gender": "女",
+    "frequently_used_channel": "渠道_10",
+    "interests": [
+      "综艺",
+      "游戏"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "4.2.0"
+    }
+  },
+  {
+    "user_id": "user_228",
+    "age": 59,
+    "gender": "女",
+    "frequently_used_channel": "渠道_19",
+    "interests": [
+      "综艺"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "3.4.4"
+    }
+  },
+  {
+    "user_id": "user_229",
+    "age": 51,
+    "gender": "女",
+    "frequently_used_channel": "渠道_18",
+    "interests": [
+      "新闻",
+      "游戏",
+      "电影"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "1.3.8"
+    }
+  },
+  {
+    "user_id": "user_230",
+    "age": 48,
+    "gender": "男",
+    "frequently_used_channel": "渠道_1",
+    "interests": [
+      "电影",
+      "综艺",
+      "游戏"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "2.9.3"
+    }
+  },
+  {
+    "user_id": "user_231",
+    "age": 24,
+    "gender": "男",
+    "frequently_used_channel": "渠道_1",
+    "interests": [
+      "游戏",
+      "综艺"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "4.0.2"
+    }
+  },
+  {
+    "user_id": "user_232",
+    "age": 55,
+    "gender": "女",
+    "frequently_used_channel": "渠道_17",
+    "interests": [
+      "游戏",
+      "短剧",
+      "电影"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "1.7.1"
+    }
+  },
+  {
+    "user_id": "user_233",
+    "age": 36,
+    "gender": "男",
+    "frequently_used_channel": "渠道_4",
+    "interests": [
+      "综艺"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "1.7.5"
+    }
+  },
+  {
+    "user_id": "user_234",
+    "age": 18,
+    "gender": "女",
+    "frequently_used_channel": "渠道_4",
+    "interests": [
+      "短剧"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "2.3.6"
+    }
+  },
+  {
+    "user_id": "user_235",
+    "age": 34,
+    "gender": "男",
+    "frequently_used_channel": "渠道_15",
+    "interests": [
+      "综艺",
+      "新闻"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "2.6.8"
+    }
+  },
+  {
+    "user_id": "user_236",
+    "age": 48,
+    "gender": "女",
+    "frequently_used_channel": "渠道_9",
+    "interests": [
+      "综艺",
+      "游戏"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "4.2.2"
+    }
+  },
+  {
+    "user_id": "user_237",
+    "age": 54,
+    "gender": "女",
+    "frequently_used_channel": "渠道_10",
+    "interests": [
+      "电影",
+      "游戏",
+      "综艺"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "3.3.1"
+    }
+  },
+  {
+    "user_id": "user_238",
+    "age": 54,
+    "gender": "女",
+    "frequently_used_channel": "渠道_14",
+    "interests": [
+      "短剧"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "4.6.0"
+    }
+  },
+  {
+    "user_id": "user_239",
+    "age": 32,
+    "gender": "男",
+    "frequently_used_channel": "渠道_8",
+    "interests": [
+      "新闻"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "2.8.5"
+    }
+  },
+  {
+    "user_id": "user_240",
+    "age": 33,
+    "gender": "男",
+    "frequently_used_channel": "渠道_11",
+    "interests": [
+      "电影"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "3.6.4"
+    }
+  },
+  {
+    "user_id": "user_241",
+    "age": 20,
+    "gender": "女",
+    "frequently_used_channel": "渠道_14",
+    "interests": [
+      "短剧",
+      "游戏"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "2.0.0"
+    }
+  },
+  {
+    "user_id": "user_242",
+    "age": 27,
+    "gender": "未知",
+    "frequently_used_channel": "渠道_12",
+    "interests": [
+      "综艺",
+      "新闻"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "1.0.8"
+    }
+  },
+  {
+    "user_id": "user_243",
+    "age": 50,
+    "gender": "男",
+    "frequently_used_channel": "渠道_7",
+    "interests": [
+      "游戏"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "1.5.9"
+    }
+  },
+  {
+    "user_id": "user_244",
+    "age": 59,
+    "gender": "男",
+    "frequently_used_channel": "渠道_12",
+    "interests": [
+      "新闻",
+      "电影",
+      "综艺"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "2.5.7"
+    }
+  },
+  {
+    "user_id": "user_245",
+    "age": 46,
+    "gender": "男",
+    "frequently_used_channel": "渠道_5",
+    "interests": [
+      "电影"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "1.8.5"
+    }
+  },
+  {
+    "user_id": "user_246",
+    "age": 57,
+    "gender": "女",
+    "frequently_used_channel": "渠道_5",
+    "interests": [
+      "游戏"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "2.3.4"
+    }
+  },
+  {
+    "user_id": "user_247",
+    "age": 40,
+    "gender": "男",
+    "frequently_used_channel": "渠道_11",
+    "interests": [
+      "短剧"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "4.3.3"
+    }
+  },
+  {
+    "user_id": "user_248",
+    "age": 22,
+    "gender": "男",
+    "frequently_used_channel": "渠道_19",
+    "interests": [
+      "短剧"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "1.1.7"
+    }
+  },
+  {
+    "user_id": "user_249",
+    "age": 58,
+    "gender": "女",
+    "frequently_used_channel": "渠道_14",
+    "interests": [
+      "综艺"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "2.7.8"
+    }
+  },
+  {
+    "user_id": "user_250",
+    "age": 23,
+    "gender": "未知",
+    "frequently_used_channel": "渠道_6",
+    "interests": [
+      "短剧"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "4.5.4"
+    }
+  },
+  {
+    "user_id": "user_251",
+    "age": 24,
+    "gender": "男",
+    "frequently_used_channel": "渠道_16",
+    "interests": [
+      "新闻"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "4.8.1"
+    }
+  },
+  {
+    "user_id": "user_252",
+    "age": 22,
+    "gender": "未知",
+    "frequently_used_channel": "渠道_17",
+    "interests": [
+      "新闻",
+      "综艺",
+      "游戏"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "4.2.5"
+    }
+  },
+  {
+    "user_id": "user_253",
+    "age": 59,
+    "gender": "男",
+    "frequently_used_channel": "渠道_7",
+    "interests": [
+      "游戏",
+      "综艺",
+      "新闻"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "3.5.6"
+    }
+  },
+  {
+    "user_id": "user_254",
+    "age": 32,
+    "gender": "女",
+    "frequently_used_channel": "渠道_8",
+    "interests": [
+      "电影",
+      "综艺",
+      "短剧"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "4.0.9"
+    }
+  },
+  {
+    "user_id": "user_255",
+    "age": 30,
+    "gender": "女",
+    "frequently_used_channel": "渠道_10",
+    "interests": [
+      "新闻"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "3.8.4"
+    }
+  },
+  {
+    "user_id": "user_256",
+    "age": 38,
+    "gender": "男",
+    "frequently_used_channel": "渠道_8",
+    "interests": [
+      "游戏"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "1.0.8"
+    }
+  },
+  {
+    "user_id": "user_257",
+    "age": 30,
+    "gender": "男",
+    "frequently_used_channel": "渠道_10",
+    "interests": [
+      "电影"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "3.2.7"
+    }
+  },
+  {
+    "user_id": "user_258",
+    "age": 34,
+    "gender": "女",
+    "frequently_used_channel": "渠道_16",
+    "interests": [
+      "游戏",
+      "电影",
+      "新闻"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "4.4.2"
+    }
+  },
+  {
+    "user_id": "user_259",
+    "age": 34,
+    "gender": "男",
+    "frequently_used_channel": "渠道_12",
+    "interests": [
+      "短剧",
+      "游戏",
+      "综艺"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "3.7.1"
+    }
+  },
+  {
+    "user_id": "user_260",
+    "age": 43,
+    "gender": "女",
+    "frequently_used_channel": "渠道_5",
+    "interests": [
+      "游戏",
+      "电影",
+      "短剧"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "3.4.8"
+    }
+  },
+  {
+    "user_id": "user_261",
+    "age": 49,
+    "gender": "女",
+    "frequently_used_channel": "渠道_5",
+    "interests": [
+      "电影",
+      "游戏",
+      "综艺"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "4.4.5"
+    }
+  },
+  {
+    "user_id": "user_262",
+    "age": 24,
+    "gender": "男",
+    "frequently_used_channel": "渠道_17",
+    "interests": [
+      "新闻",
+      "短剧",
+      "综艺"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "2.1.5"
+    }
+  },
+  {
+    "user_id": "user_263",
+    "age": 37,
+    "gender": "男",
+    "frequently_used_channel": "渠道_11",
+    "interests": [
+      "电影"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "4.6.1"
+    }
+  },
+  {
+    "user_id": "user_264",
+    "age": 21,
+    "gender": "男",
+    "frequently_used_channel": "渠道_6",
+    "interests": [
+      "综艺",
+      "短剧"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "1.0.1"
+    }
+  },
+  {
+    "user_id": "user_265",
+    "age": 47,
+    "gender": "女",
+    "frequently_used_channel": "渠道_9",
+    "interests": [
+      "电影",
+      "短剧",
+      "新闻"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "3.4.6"
+    }
+  },
+  {
+    "user_id": "user_266",
+    "age": 37,
+    "gender": "女",
+    "frequently_used_channel": "渠道_17",
+    "interests": [
+      "短剧",
+      "综艺",
+      "电影"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "1.7.8"
+    }
+  },
+  {
+    "user_id": "user_267",
+    "age": 18,
+    "gender": "男",
+    "frequently_used_channel": "渠道_15",
+    "interests": [
+      "电影",
+      "新闻",
+      "短剧"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "1.1.3"
+    }
+  },
+  {
+    "user_id": "user_268",
+    "age": 26,
+    "gender": "女",
+    "frequently_used_channel": "渠道_18",
+    "interests": [
+      "综艺"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "4.3.1"
+    }
+  },
+  {
+    "user_id": "user_269",
+    "age": 57,
+    "gender": "男",
+    "frequently_used_channel": "渠道_20",
+    "interests": [
+      "综艺"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "3.1.7"
+    }
+  },
+  {
+    "user_id": "user_270",
+    "age": 29,
+    "gender": "男",
+    "frequently_used_channel": "渠道_2",
+    "interests": [
+      "短剧"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "1.8.5"
+    }
+  },
+  {
+    "user_id": "user_271",
+    "age": 38,
+    "gender": "女",
+    "frequently_used_channel": "渠道_7",
+    "interests": [
+      "电影",
+      "综艺"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "3.1.0"
+    }
+  },
+  {
+    "user_id": "user_272",
+    "age": 55,
+    "gender": "男",
+    "frequently_used_channel": "渠道_13",
+    "interests": [
+      "电影"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "3.8.7"
+    }
+  },
+  {
+    "user_id": "user_273",
+    "age": 43,
+    "gender": "女",
+    "frequently_used_channel": "渠道_16",
+    "interests": [
+      "短剧"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "3.8.2"
+    }
+  },
+  {
+    "user_id": "user_274",
+    "age": 47,
+    "gender": "女",
+    "frequently_used_channel": "渠道_18",
+    "interests": [
+      "综艺",
+      "游戏"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "4.0.8"
+    }
+  },
+  {
+    "user_id": "user_275",
+    "age": 31,
+    "gender": "男",
+    "frequently_used_channel": "渠道_16",
+    "interests": [
+      "短剧",
+      "游戏",
+      "综艺"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "4.1.3"
+    }
+  },
+  {
+    "user_id": "user_276",
+    "age": 56,
+    "gender": "女",
+    "frequently_used_channel": "渠道_14",
+    "interests": [
+      "电影",
+      "游戏",
+      "综艺"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "1.9.6"
+    }
+  },
+  {
+    "user_id": "user_277",
+    "age": 28,
+    "gender": "男",
+    "frequently_used_channel": "渠道_17",
+    "interests": [
+      "游戏",
+      "短剧"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "1.7.8"
+    }
+  },
+  {
+    "user_id": "user_278",
+    "age": 33,
+    "gender": "男",
+    "frequently_used_channel": "渠道_9",
+    "interests": [
+      "新闻",
+      "游戏",
+      "综艺"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "4.1.9"
+    }
+  },
+  {
+    "user_id": "user_279",
+    "age": 52,
+    "gender": "男",
+    "frequently_used_channel": "渠道_7",
+    "interests": [
+      "电影",
+      "综艺",
+      "游戏"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "4.1.7"
+    }
+  },
+  {
+    "user_id": "user_280",
+    "age": 39,
+    "gender": "男",
+    "frequently_used_channel": "渠道_1",
+    "interests": [
+      "短剧"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "3.1.2"
+    }
+  },
+  {
+    "user_id": "user_281",
+    "age": 54,
+    "gender": "女",
+    "frequently_used_channel": "渠道_19",
+    "interests": [
+      "游戏"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "4.2.0"
+    }
+  },
+  {
+    "user_id": "user_282",
+    "age": 47,
+    "gender": "女",
+    "frequently_used_channel": "渠道_17",
+    "interests": [
+      "综艺"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "2.7.5"
+    }
+  },
+  {
+    "user_id": "user_283",
+    "age": 36,
+    "gender": "男",
+    "frequently_used_channel": "渠道_3",
+    "interests": [
+      "短剧",
+      "游戏",
+      "新闻"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "1.3.3"
+    }
+  },
+  {
+    "user_id": "user_284",
+    "age": 43,
+    "gender": "女",
+    "frequently_used_channel": "渠道_4",
+    "interests": [
+      "短剧"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "1.7.9"
+    }
+  },
+  {
+    "user_id": "user_285",
+    "age": 25,
+    "gender": "女",
+    "frequently_used_channel": "渠道_18",
+    "interests": [
+      "综艺"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "1.4.3"
+    }
+  },
+  {
+    "user_id": "user_286",
+    "age": 46,
+    "gender": "女",
+    "frequently_used_channel": "渠道_15",
+    "interests": [
+      "电影"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "4.3.9"
+    }
+  },
+  {
+    "user_id": "user_287",
+    "age": 46,
+    "gender": "女",
+    "frequently_used_channel": "渠道_5",
+    "interests": [
+      "新闻"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "3.7.2"
+    }
+  },
+  {
+    "user_id": "user_288",
+    "age": 54,
+    "gender": "男",
+    "frequently_used_channel": "渠道_4",
+    "interests": [
+      "游戏",
+      "电影"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "4.6.9"
+    }
+  },
+  {
+    "user_id": "user_289",
+    "age": 24,
+    "gender": "女",
+    "frequently_used_channel": "渠道_4",
+    "interests": [
+      "游戏",
+      "电影"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "3.4.9"
+    }
+  },
+  {
+    "user_id": "user_290",
+    "age": 43,
+    "gender": "男",
+    "frequently_used_channel": "渠道_3",
+    "interests": [
+      "短剧"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "4.8.1"
+    }
+  },
+  {
+    "user_id": "user_291",
+    "age": 55,
+    "gender": "未知",
+    "frequently_used_channel": "渠道_10",
+    "interests": [
+      "新闻"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "2.8.2"
+    }
+  },
+  {
+    "user_id": "user_292",
+    "age": 27,
+    "gender": "女",
+    "frequently_used_channel": "渠道_9",
+    "interests": [
+      "短剧"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "2.6.3"
+    }
+  },
+  {
+    "user_id": "user_293",
+    "age": 39,
+    "gender": "女",
+    "frequently_used_channel": "渠道_13",
+    "interests": [
+      "综艺",
+      "电影"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "2.4.9"
+    }
+  },
+  {
+    "user_id": "user_294",
+    "age": 38,
+    "gender": "女",
+    "frequently_used_channel": "渠道_7",
+    "interests": [
+      "短剧"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "1.6.6"
+    }
+  },
+  {
+    "user_id": "user_295",
+    "age": 47,
+    "gender": "未知",
+    "frequently_used_channel": "渠道_10",
+    "interests": [
+      "电影"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "1.0.2"
+    }
+  },
+  {
+    "user_id": "user_296",
+    "age": 51,
+    "gender": "女",
+    "frequently_used_channel": "渠道_13",
+    "interests": [
+      "短剧",
+      "电影"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "1.5.0"
+    }
+  },
+  {
+    "user_id": "user_297",
+    "age": 21,
+    "gender": "女",
+    "frequently_used_channel": "渠道_9",
+    "interests": [
+      "电影",
+      "游戏",
+      "综艺"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "1.6.0"
+    }
+  },
+  {
+    "user_id": "user_298",
+    "age": 38,
+    "gender": "女",
+    "frequently_used_channel": "渠道_6",
+    "interests": [
+      "新闻",
+      "游戏",
+      "短剧"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "3.3.5"
+    }
+  },
+  {
+    "user_id": "user_299",
+    "age": 19,
+    "gender": "男",
+    "frequently_used_channel": "渠道_19",
+    "interests": [
+      "短剧",
+      "电影",
+      "新闻"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "2.9.6"
+    }
+  },
+  {
+    "user_id": "user_300",
+    "age": 42,
+    "gender": "女",
+    "frequently_used_channel": "渠道_5",
+    "interests": [
+      "新闻",
+      "游戏"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "2.7.1"
+    }
+  },
+  {
+    "user_id": "user_301",
+    "age": 32,
+    "gender": "男",
+    "frequently_used_channel": "渠道_13",
+    "interests": [
+      "短剧",
+      "电影"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "3.3.4"
+    }
+  },
+  {
+    "user_id": "user_302",
+    "age": 31,
+    "gender": "男",
+    "frequently_used_channel": "渠道_17",
+    "interests": [
+      "游戏",
+      "新闻",
+      "电影"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "1.6.4"
+    }
+  },
+  {
+    "user_id": "user_303",
+    "age": 19,
+    "gender": "女",
+    "frequently_used_channel": "渠道_10",
+    "interests": [
+      "短剧"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "2.3.8"
+    }
+  },
+  {
+    "user_id": "user_304",
+    "age": 57,
+    "gender": "女",
+    "frequently_used_channel": "渠道_13",
+    "interests": [
+      "新闻",
+      "综艺"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "2.9.9"
+    }
+  },
+  {
+    "user_id": "user_305",
+    "age": 41,
+    "gender": "男",
+    "frequently_used_channel": "渠道_16",
+    "interests": [
+      "游戏"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "1.5.4"
+    }
+  },
+  {
+    "user_id": "user_306",
+    "age": 53,
+    "gender": "男",
+    "frequently_used_channel": "渠道_9",
+    "interests": [
+      "游戏",
+      "短剧",
+      "综艺"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "2.0.3"
+    }
+  },
+  {
+    "user_id": "user_307",
+    "age": 57,
+    "gender": "男",
+    "frequently_used_channel": "渠道_5",
+    "interests": [
+      "电影",
+      "新闻",
+      "综艺"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "1.1.7"
+    }
+  },
+  {
+    "user_id": "user_308",
+    "age": 50,
+    "gender": "女",
+    "frequently_used_channel": "渠道_9",
+    "interests": [
+      "新闻",
+      "短剧"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "3.9.2"
+    }
+  },
+  {
+    "user_id": "user_309",
+    "age": 48,
+    "gender": "男",
+    "frequently_used_channel": "渠道_10",
+    "interests": [
+      "电影"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "4.4.4"
+    }
+  },
+  {
+    "user_id": "user_310",
+    "age": 38,
+    "gender": "未知",
+    "frequently_used_channel": "渠道_5",
+    "interests": [
+      "短剧",
+      "新闻"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "3.5.2"
+    }
+  },
+  {
+    "user_id": "user_311",
+    "age": 34,
+    "gender": "女",
+    "frequently_used_channel": "渠道_5",
+    "interests": [
+      "电影",
+      "新闻"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "2.4.6"
+    }
+  },
+  {
+    "user_id": "user_312",
+    "age": 36,
+    "gender": "男",
+    "frequently_used_channel": "渠道_1",
+    "interests": [
+      "短剧",
+      "综艺",
+      "游戏"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "1.7.3"
+    }
+  },
+  {
+    "user_id": "user_313",
+    "age": 58,
+    "gender": "女",
+    "frequently_used_channel": "渠道_8",
+    "interests": [
+      "电影",
+      "新闻"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "4.4.5"
+    }
+  },
+  {
+    "user_id": "user_314",
+    "age": 51,
+    "gender": "男",
+    "frequently_used_channel": "渠道_4",
+    "interests": [
+      "电影"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "2.3.8"
+    }
+  },
+  {
+    "user_id": "user_315",
+    "age": 49,
+    "gender": "女",
+    "frequently_used_channel": "渠道_9",
+    "interests": [
+      "电影",
+      "新闻",
+      "综艺"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "1.1.5"
+    }
+  },
+  {
+    "user_id": "user_316",
+    "age": 31,
+    "gender": "男",
+    "frequently_used_channel": "渠道_17",
+    "interests": [
+      "电影",
+      "短剧",
+      "游戏"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "4.7.7"
+    }
+  },
+  {
+    "user_id": "user_317",
+    "age": 33,
+    "gender": "女",
+    "frequently_used_channel": "渠道_16",
+    "interests": [
+      "综艺",
+      "游戏"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "3.5.2"
+    }
+  },
+  {
+    "user_id": "user_318",
+    "age": 35,
+    "gender": "女",
+    "frequently_used_channel": "渠道_8",
+    "interests": [
+      "综艺",
+      "电影"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "2.0.1"
+    }
+  },
+  {
+    "user_id": "user_319",
+    "age": 33,
+    "gender": "女",
+    "frequently_used_channel": "渠道_3",
+    "interests": [
+      "综艺",
+      "新闻"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "2.6.9"
+    }
+  },
+  {
+    "user_id": "user_320",
+    "age": 54,
+    "gender": "男",
+    "frequently_used_channel": "渠道_6",
+    "interests": [
+      "综艺",
+      "游戏"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "1.4.6"
+    }
+  },
+  {
+    "user_id": "user_321",
+    "age": 42,
+    "gender": "男",
+    "frequently_used_channel": "渠道_17",
+    "interests": [
+      "短剧"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "2.2.6"
+    }
+  },
+  {
+    "user_id": "user_322",
+    "age": 25,
+    "gender": "男",
+    "frequently_used_channel": "渠道_9",
+    "interests": [
+      "新闻"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "3.9.9"
+    }
+  },
+  {
+    "user_id": "user_323",
+    "age": 27,
+    "gender": "女",
+    "frequently_used_channel": "渠道_6",
+    "interests": [
+      "综艺"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "2.8.2"
+    }
+  },
+  {
+    "user_id": "user_324",
+    "age": 53,
+    "gender": "男",
+    "frequently_used_channel": "渠道_6",
+    "interests": [
+      "电影",
+      "新闻"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "1.9.4"
+    }
+  },
+  {
+    "user_id": "user_325",
+    "age": 36,
+    "gender": "女",
+    "frequently_used_channel": "渠道_5",
+    "interests": [
+      "短剧",
+      "综艺",
+      "新闻"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "4.0.3"
+    }
+  },
+  {
+    "user_id": "user_326",
+    "age": 31,
+    "gender": "女",
+    "frequently_used_channel": "渠道_16",
+    "interests": [
+      "新闻",
+      "电影"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "4.9.7"
+    }
+  },
+  {
+    "user_id": "user_327",
+    "age": 42,
+    "gender": "女",
+    "frequently_used_channel": "渠道_10",
+    "interests": [
+      "新闻",
+      "游戏"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "1.0.2"
+    }
+  },
+  {
+    "user_id": "user_328",
+    "age": 32,
+    "gender": "女",
+    "frequently_used_channel": "渠道_20",
+    "interests": [
+      "电影"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "4.6.7"
+    }
+  },
+  {
+    "user_id": "user_329",
+    "age": 30,
+    "gender": "女",
+    "frequently_used_channel": "渠道_14",
+    "interests": [
+      "综艺",
+      "游戏"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "2.7.0"
+    }
+  },
+  {
+    "user_id": "user_330",
+    "age": 56,
+    "gender": "女",
+    "frequently_used_channel": "渠道_13",
+    "interests": [
+      "电影",
+      "游戏",
+      "新闻"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "4.4.6"
+    }
+  },
+  {
+    "user_id": "user_331",
+    "age": 59,
+    "gender": "女",
+    "frequently_used_channel": "渠道_3",
+    "interests": [
+      "游戏",
+      "新闻"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "4.9.3"
+    }
+  },
+  {
+    "user_id": "user_332",
+    "age": 42,
+    "gender": "女",
+    "frequently_used_channel": "渠道_12",
+    "interests": [
+      "新闻"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "2.8.4"
+    }
+  },
+  {
+    "user_id": "user_333",
+    "age": 25,
+    "gender": "男",
+    "frequently_used_channel": "渠道_12",
+    "interests": [
+      "电影"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "1.7.4"
+    }
+  },
+  {
+    "user_id": "user_334",
+    "age": 42,
+    "gender": "男",
+    "frequently_used_channel": "渠道_9",
+    "interests": [
+      "游戏"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "2.2.2"
+    }
+  },
+  {
+    "user_id": "user_335",
+    "age": 21,
+    "gender": "女",
+    "frequently_used_channel": "渠道_1",
+    "interests": [
+      "电影",
+      "综艺",
+      "短剧"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "2.7.3"
+    }
+  },
+  {
+    "user_id": "user_336",
+    "age": 26,
+    "gender": "男",
+    "frequently_used_channel": "渠道_14",
+    "interests": [
+      "游戏",
+      "短剧",
+      "新闻"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "2.0.3"
+    }
+  },
+  {
+    "user_id": "user_337",
+    "age": 58,
+    "gender": "男",
+    "frequently_used_channel": "渠道_6",
+    "interests": [
+      "新闻",
+      "电影"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "2.8.2"
+    }
+  },
+  {
+    "user_id": "user_338",
+    "age": 22,
+    "gender": "男",
+    "frequently_used_channel": "渠道_18",
+    "interests": [
+      "游戏",
+      "电影",
+      "新闻"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "1.0.4"
+    }
+  },
+  {
+    "user_id": "user_339",
+    "age": 40,
+    "gender": "女",
+    "frequently_used_channel": "渠道_17",
+    "interests": [
+      "新闻"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "2.0.3"
+    }
+  },
+  {
+    "user_id": "user_340",
+    "age": 48,
+    "gender": "未知",
+    "frequently_used_channel": "渠道_12",
+    "interests": [
+      "新闻",
+      "游戏"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "4.5.4"
+    }
+  },
+  {
+    "user_id": "user_341",
+    "age": 30,
+    "gender": "女",
+    "frequently_used_channel": "渠道_9",
+    "interests": [
+      "游戏",
+      "电影"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "3.7.4"
+    }
+  },
+  {
+    "user_id": "user_342",
+    "age": 43,
+    "gender": "未知",
+    "frequently_used_channel": "渠道_3",
+    "interests": [
+      "综艺"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "2.3.6"
+    }
+  },
+  {
+    "user_id": "user_343",
+    "age": 52,
+    "gender": "男",
+    "frequently_used_channel": "渠道_1",
+    "interests": [
+      "综艺",
+      "短剧",
+      "电影"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "3.3.4"
+    }
+  },
+  {
+    "user_id": "user_344",
+    "age": 39,
+    "gender": "女",
+    "frequently_used_channel": "渠道_6",
+    "interests": [
+      "电影"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "1.1.0"
+    }
+  },
+  {
+    "user_id": "user_345",
+    "age": 42,
+    "gender": "男",
+    "frequently_used_channel": "渠道_2",
+    "interests": [
+      "电影",
+      "短剧"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "2.3.6"
+    }
+  },
+  {
+    "user_id": "user_346",
+    "age": 44,
+    "gender": "女",
+    "frequently_used_channel": "渠道_5",
+    "interests": [
+      "短剧",
+      "游戏",
+      "综艺"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "4.3.1"
+    }
+  },
+  {
+    "user_id": "user_347",
+    "age": 42,
+    "gender": "女",
+    "frequently_used_channel": "渠道_10",
+    "interests": [
+      "电影"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "1.3.3"
+    }
+  },
+  {
+    "user_id": "user_348",
+    "age": 37,
+    "gender": "男",
+    "frequently_used_channel": "渠道_3",
+    "interests": [
+      "短剧",
+      "新闻"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "3.2.1"
+    }
+  },
+  {
+    "user_id": "user_349",
+    "age": 37,
+    "gender": "女",
+    "frequently_used_channel": "渠道_19",
+    "interests": [
+      "游戏"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "4.4.3"
+    }
+  },
+  {
+    "user_id": "user_350",
+    "age": 56,
+    "gender": "男",
+    "frequently_used_channel": "渠道_4",
+    "interests": [
+      "短剧",
+      "电影"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "4.7.0"
+    }
+  },
+  {
+    "user_id": "user_351",
+    "age": 20,
+    "gender": "女",
+    "frequently_used_channel": "渠道_2",
+    "interests": [
+      "新闻",
+      "电影"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "2.8.6"
+    }
+  },
+  {
+    "user_id": "user_352",
+    "age": 23,
+    "gender": "女",
+    "frequently_used_channel": "渠道_18",
+    "interests": [
+      "电影",
+      "游戏"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "3.9.7"
+    }
+  },
+  {
+    "user_id": "user_353",
+    "age": 54,
+    "gender": "女",
+    "frequently_used_channel": "渠道_12",
+    "interests": [
+      "新闻"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "4.0.0"
+    }
+  },
+  {
+    "user_id": "user_354",
+    "age": 32,
+    "gender": "未知",
+    "frequently_used_channel": "渠道_17",
+    "interests": [
+      "短剧",
+      "电影"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "4.0.7"
+    }
+  },
+  {
+    "user_id": "user_355",
+    "age": 46,
+    "gender": "女",
+    "frequently_used_channel": "渠道_3",
+    "interests": [
+      "电影",
+      "新闻",
+      "短剧"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "4.9.6"
+    }
+  },
+  {
+    "user_id": "user_356",
+    "age": 56,
+    "gender": "女",
+    "frequently_used_channel": "渠道_20",
+    "interests": [
+      "新闻",
+      "游戏",
+      "电影"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "4.6.6"
+    }
+  },
+  {
+    "user_id": "user_357",
+    "age": 58,
+    "gender": "女",
+    "frequently_used_channel": "渠道_4",
+    "interests": [
+      "综艺"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "3.7.7"
+    }
+  },
+  {
+    "user_id": "user_358",
+    "age": 35,
+    "gender": "男",
+    "frequently_used_channel": "渠道_16",
+    "interests": [
+      "电影",
+      "游戏",
+      "综艺"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "1.2.6"
+    }
+  },
+  {
+    "user_id": "user_359",
+    "age": 49,
+    "gender": "男",
+    "frequently_used_channel": "渠道_1",
+    "interests": [
+      "电影",
+      "新闻"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "4.6.6"
+    }
+  },
+  {
+    "user_id": "user_360",
+    "age": 49,
+    "gender": "女",
+    "frequently_used_channel": "渠道_19",
+    "interests": [
+      "新闻",
+      "短剧"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "1.0.2"
+    }
+  },
+  {
+    "user_id": "user_361",
+    "age": 32,
+    "gender": "女",
+    "frequently_used_channel": "渠道_15",
+    "interests": [
+      "新闻"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "2.4.5"
+    }
+  },
+  {
+    "user_id": "user_362",
+    "age": 30,
+    "gender": "男",
+    "frequently_used_channel": "渠道_17",
+    "interests": [
+      "游戏",
+      "电影",
+      "短剧"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "2.5.5"
+    }
+  },
+  {
+    "user_id": "user_363",
+    "age": 57,
+    "gender": "女",
+    "frequently_used_channel": "渠道_1",
+    "interests": [
+      "综艺"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "2.0.9"
+    }
+  },
+  {
+    "user_id": "user_364",
+    "age": 35,
+    "gender": "女",
+    "frequently_used_channel": "渠道_14",
+    "interests": [
+      "综艺"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "4.6.1"
+    }
+  },
+  {
+    "user_id": "user_365",
+    "age": 56,
+    "gender": "女",
+    "frequently_used_channel": "渠道_13",
+    "interests": [
+      "综艺",
+      "游戏",
+      "短剧"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "1.7.0"
+    }
+  },
+  {
+    "user_id": "user_366",
+    "age": 43,
+    "gender": "男",
+    "frequently_used_channel": "渠道_10",
+    "interests": [
+      "短剧"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "1.2.7"
+    }
+  },
+  {
+    "user_id": "user_367",
+    "age": 29,
+    "gender": "女",
+    "frequently_used_channel": "渠道_14",
+    "interests": [
+      "电影",
+      "综艺",
+      "游戏"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "3.0.6"
+    }
+  },
+  {
+    "user_id": "user_368",
+    "age": 46,
+    "gender": "男",
+    "frequently_used_channel": "渠道_17",
+    "interests": [
+      "综艺",
+      "短剧",
+      "游戏"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "4.2.5"
+    }
+  },
+  {
+    "user_id": "user_369",
+    "age": 59,
+    "gender": "男",
+    "frequently_used_channel": "渠道_15",
+    "interests": [
+      "新闻",
+      "短剧"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "1.8.3"
+    }
+  },
+  {
+    "user_id": "user_370",
+    "age": 19,
+    "gender": "女",
+    "frequently_used_channel": "渠道_19",
+    "interests": [
+      "电影"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "1.3.8"
+    }
+  },
+  {
+    "user_id": "user_371",
+    "age": 38,
+    "gender": "女",
+    "frequently_used_channel": "渠道_16",
+    "interests": [
+      "电影",
+      "综艺"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "3.8.6"
+    }
+  },
+  {
+    "user_id": "user_372",
+    "age": 55,
+    "gender": "女",
+    "frequently_used_channel": "渠道_7",
+    "interests": [
+      "综艺",
+      "新闻",
+      "电影"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "1.8.3"
+    }
+  },
+  {
+    "user_id": "user_373",
+    "age": 43,
+    "gender": "女",
+    "frequently_used_channel": "渠道_17",
+    "interests": [
+      "游戏",
+      "综艺"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "3.0.1"
+    }
+  },
+  {
+    "user_id": "user_374",
+    "age": 47,
+    "gender": "未知",
+    "frequently_used_channel": "渠道_2",
+    "interests": [
+      "综艺"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "4.1.0"
+    }
+  },
+  {
+    "user_id": "user_375",
+    "age": 45,
+    "gender": "女",
+    "frequently_used_channel": "渠道_7",
+    "interests": [
+      "游戏",
+      "综艺"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "2.0.4"
+    }
+  },
+  {
+    "user_id": "user_376",
+    "age": 23,
+    "gender": "男",
+    "frequently_used_channel": "渠道_17",
+    "interests": [
+      "综艺",
+      "游戏",
+      "电影"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "1.6.6"
+    }
+  },
+  {
+    "user_id": "user_377",
+    "age": 36,
+    "gender": "男",
+    "frequently_used_channel": "渠道_14",
+    "interests": [
+      "新闻",
+      "综艺"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "4.2.4"
+    }
+  },
+  {
+    "user_id": "user_378",
+    "age": 31,
+    "gender": "女",
+    "frequently_used_channel": "渠道_10",
+    "interests": [
+      "短剧"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "2.0.8"
+    }
+  },
+  {
+    "user_id": "user_379",
+    "age": 44,
+    "gender": "男",
+    "frequently_used_channel": "渠道_13",
+    "interests": [
+      "游戏"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "3.9.0"
+    }
+  },
+  {
+    "user_id": "user_380",
+    "age": 39,
+    "gender": "男",
+    "frequently_used_channel": "渠道_15",
+    "interests": [
+      "综艺",
+      "游戏",
+      "新闻"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "2.3.3"
+    }
+  },
+  {
+    "user_id": "user_381",
+    "age": 37,
+    "gender": "女",
+    "frequently_used_channel": "渠道_16",
+    "interests": [
+      "新闻",
+      "短剧",
+      "电影"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "3.2.7"
+    }
+  },
+  {
+    "user_id": "user_382",
+    "age": 41,
+    "gender": "女",
+    "frequently_used_channel": "渠道_13",
+    "interests": [
+      "游戏",
+      "短剧"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "2.0.1"
+    }
+  },
+  {
+    "user_id": "user_383",
+    "age": 43,
+    "gender": "男",
+    "frequently_used_channel": "渠道_17",
+    "interests": [
+      "综艺",
+      "游戏"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "1.4.6"
+    }
+  },
+  {
+    "user_id": "user_384",
+    "age": 26,
+    "gender": "女",
+    "frequently_used_channel": "渠道_9",
+    "interests": [
+      "短剧"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "3.9.5"
+    }
+  },
+  {
+    "user_id": "user_385",
+    "age": 26,
+    "gender": "男",
+    "frequently_used_channel": "渠道_6",
+    "interests": [
+      "短剧",
+      "综艺",
+      "游戏"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "2.6.9"
+    }
+  },
+  {
+    "user_id": "user_386",
+    "age": 49,
+    "gender": "女",
+    "frequently_used_channel": "渠道_8",
+    "interests": [
+      "综艺"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "1.6.8"
+    }
+  },
+  {
+    "user_id": "user_387",
+    "age": 19,
+    "gender": "女",
+    "frequently_used_channel": "渠道_14",
+    "interests": [
+      "电影",
+      "游戏"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "1.8.0"
+    }
+  },
+  {
+    "user_id": "user_388",
+    "age": 37,
+    "gender": "未知",
+    "frequently_used_channel": "渠道_3",
+    "interests": [
+      "电影",
+      "综艺"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "2.2.6"
+    }
+  },
+  {
+    "user_id": "user_389",
+    "age": 47,
+    "gender": "女",
+    "frequently_used_channel": "渠道_9",
+    "interests": [
+      "游戏"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "3.9.4"
+    }
+  },
+  {
+    "user_id": "user_390",
+    "age": 49,
+    "gender": "女",
+    "frequently_used_channel": "渠道_3",
+    "interests": [
+      "新闻",
+      "电影"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "1.9.1"
+    }
+  },
+  {
+    "user_id": "user_391",
+    "age": 27,
+    "gender": "男",
+    "frequently_used_channel": "渠道_1",
+    "interests": [
+      "游戏"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "1.0.9"
+    }
+  },
+  {
+    "user_id": "user_392",
+    "age": 38,
+    "gender": "女",
+    "frequently_used_channel": "渠道_7",
+    "interests": [
+      "游戏"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "1.7.9"
+    }
+  },
+  {
+    "user_id": "user_393",
+    "age": 59,
+    "gender": "男",
+    "frequently_used_channel": "渠道_3",
+    "interests": [
+      "游戏",
+      "电影",
+      "综艺"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "1.2.4"
+    }
+  },
+  {
+    "user_id": "user_394",
+    "age": 30,
+    "gender": "女",
+    "frequently_used_channel": "渠道_9",
+    "interests": [
+      "电影",
+      "短剧"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "4.4.3"
+    }
+  },
+  {
+    "user_id": "user_395",
+    "age": 22,
+    "gender": "男",
+    "frequently_used_channel": "渠道_19",
+    "interests": [
+      "电影",
+      "游戏",
+      "综艺"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "4.6.1"
+    }
+  },
+  {
+    "user_id": "user_396",
+    "age": 43,
+    "gender": "女",
+    "frequently_used_channel": "渠道_20",
+    "interests": [
+      "电影"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "3.5.3"
+    }
+  },
+  {
+    "user_id": "user_397",
+    "age": 41,
+    "gender": "女",
+    "frequently_used_channel": "渠道_8",
+    "interests": [
+      "电影",
+      "新闻",
+      "短剧"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "4.0.0"
+    }
+  },
+  {
+    "user_id": "user_398",
+    "age": 37,
+    "gender": "男",
+    "frequently_used_channel": "渠道_13",
+    "interests": [
+      "新闻",
+      "短剧"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "2.8.4"
+    }
+  },
+  {
+    "user_id": "user_399",
+    "age": 47,
+    "gender": "女",
+    "frequently_used_channel": "渠道_20",
+    "interests": [
+      "电影",
+      "综艺",
+      "新闻"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "1.4.4"
+    }
+  },
+  {
+    "user_id": "user_400",
+    "age": 49,
+    "gender": "女",
+    "frequently_used_channel": "渠道_5",
+    "interests": [
+      "综艺"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "1.4.5"
+    }
+  },
+  {
+    "user_id": "user_401",
+    "age": 30,
+    "gender": "男",
+    "frequently_used_channel": "渠道_17",
+    "interests": [
+      "游戏",
+      "电影",
+      "新闻"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "4.1.7"
+    }
+  },
+  {
+    "user_id": "user_402",
+    "age": 30,
+    "gender": "女",
+    "frequently_used_channel": "渠道_14",
+    "interests": [
+      "游戏"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "3.5.2"
+    }
+  },
+  {
+    "user_id": "user_403",
+    "age": 50,
+    "gender": "女",
+    "frequently_used_channel": "渠道_3",
+    "interests": [
+      "短剧",
+      "游戏"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "2.3.3"
+    }
+  },
+  {
+    "user_id": "user_404",
+    "age": 36,
+    "gender": "女",
+    "frequently_used_channel": "渠道_11",
+    "interests": [
+      "电影",
+      "短剧"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "2.0.4"
+    }
+  },
+  {
+    "user_id": "user_405",
+    "age": 41,
+    "gender": "男",
+    "frequently_used_channel": "渠道_6",
+    "interests": [
+      "游戏",
+      "短剧",
+      "电影"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "3.9.0"
+    }
+  },
+  {
+    "user_id": "user_406",
+    "age": 33,
+    "gender": "男",
+    "frequently_used_channel": "渠道_15",
+    "interests": [
+      "电影"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "3.3.9"
+    }
+  },
+  {
+    "user_id": "user_407",
+    "age": 39,
+    "gender": "女",
+    "frequently_used_channel": "渠道_11",
+    "interests": [
+      "综艺",
+      "电影"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "1.3.5"
+    }
+  },
+  {
+    "user_id": "user_408",
+    "age": 54,
+    "gender": "女",
+    "frequently_used_channel": "渠道_20",
+    "interests": [
+      "短剧",
+      "电影",
+      "新闻"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "1.4.9"
+    }
+  },
+  {
+    "user_id": "user_409",
+    "age": 50,
+    "gender": "女",
+    "frequently_used_channel": "渠道_20",
+    "interests": [
+      "短剧"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "1.4.5"
+    }
+  },
+  {
+    "user_id": "user_410",
+    "age": 51,
+    "gender": "女",
+    "frequently_used_channel": "渠道_11",
+    "interests": [
+      "短剧",
+      "综艺"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "4.8.9"
+    }
+  },
+  {
+    "user_id": "user_411",
+    "age": 38,
+    "gender": "女",
+    "frequently_used_channel": "渠道_8",
+    "interests": [
+      "新闻",
+      "综艺",
+      "游戏"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "2.0.8"
+    }
+  },
+  {
+    "user_id": "user_412",
+    "age": 35,
+    "gender": "女",
+    "frequently_used_channel": "渠道_17",
+    "interests": [
+      "新闻",
+      "综艺"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "1.6.5"
+    }
+  },
+  {
+    "user_id": "user_413",
+    "age": 50,
+    "gender": "男",
+    "frequently_used_channel": "渠道_16",
+    "interests": [
+      "短剧"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "3.7.3"
+    }
+  },
+  {
+    "user_id": "user_414",
+    "age": 36,
+    "gender": "女",
+    "frequently_used_channel": "渠道_19",
+    "interests": [
+      "电影",
+      "短剧",
+      "游戏"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "2.6.4"
+    }
+  },
+  {
+    "user_id": "user_415",
+    "age": 39,
+    "gender": "女",
+    "frequently_used_channel": "渠道_7",
+    "interests": [
+      "综艺"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "1.4.5"
+    }
+  },
+  {
+    "user_id": "user_416",
+    "age": 36,
+    "gender": "女",
+    "frequently_used_channel": "渠道_19",
+    "interests": [
+      "新闻"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "1.5.5"
+    }
+  },
+  {
+    "user_id": "user_417",
+    "age": 52,
+    "gender": "男",
+    "frequently_used_channel": "渠道_8",
+    "interests": [
+      "电影",
+      "综艺",
+      "新闻"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "1.2.4"
+    }
+  },
+  {
+    "user_id": "user_418",
+    "age": 37,
+    "gender": "男",
+    "frequently_used_channel": "渠道_7",
+    "interests": [
+      "短剧"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "4.1.5"
+    }
+  },
+  {
+    "user_id": "user_419",
+    "age": 46,
+    "gender": "女",
+    "frequently_used_channel": "渠道_4",
+    "interests": [
+      "电影",
+      "短剧",
+      "游戏"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "4.8.7"
+    }
+  },
+  {
+    "user_id": "user_420",
+    "age": 38,
+    "gender": "女",
+    "frequently_used_channel": "渠道_9",
+    "interests": [
+      "游戏"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "3.2.9"
+    }
+  },
+  {
+    "user_id": "user_421",
+    "age": 59,
+    "gender": "女",
+    "frequently_used_channel": "渠道_9",
+    "interests": [
+      "短剧",
+      "电影"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "1.0.7"
+    }
+  },
+  {
+    "user_id": "user_422",
+    "age": 37,
+    "gender": "男",
+    "frequently_used_channel": "渠道_6",
+    "interests": [
+      "电影",
+      "游戏"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "1.8.3"
+    }
+  },
+  {
+    "user_id": "user_423",
+    "age": 52,
+    "gender": "男",
+    "frequently_used_channel": "渠道_7",
+    "interests": [
+      "游戏"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "4.9.6"
+    }
+  },
+  {
+    "user_id": "user_424",
+    "age": 59,
+    "gender": "女",
+    "frequently_used_channel": "渠道_15",
+    "interests": [
+      "综艺",
+      "短剧"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "3.6.6"
+    }
+  },
+  {
+    "user_id": "user_425",
+    "age": 26,
+    "gender": "女",
+    "frequently_used_channel": "渠道_17",
+    "interests": [
+      "综艺",
+      "短剧",
+      "电影"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "2.4.4"
+    }
+  },
+  {
+    "user_id": "user_426",
+    "age": 32,
+    "gender": "男",
+    "frequently_used_channel": "渠道_15",
+    "interests": [
+      "电影",
+      "新闻",
+      "游戏"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "1.6.0"
+    }
+  },
+  {
+    "user_id": "user_427",
+    "age": 42,
+    "gender": "女",
+    "frequently_used_channel": "渠道_10",
+    "interests": [
+      "电影",
+      "短剧"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "1.6.4"
+    }
+  },
+  {
+    "user_id": "user_428",
+    "age": 55,
+    "gender": "女",
+    "frequently_used_channel": "渠道_8",
+    "interests": [
+      "新闻",
+      "综艺"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "4.5.6"
+    }
+  },
+  {
+    "user_id": "user_429",
+    "age": 20,
+    "gender": "女",
+    "frequently_used_channel": "渠道_6",
+    "interests": [
+      "综艺"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "1.8.3"
+    }
+  },
+  {
+    "user_id": "user_430",
+    "age": 31,
+    "gender": "男",
+    "frequently_used_channel": "渠道_18",
+    "interests": [
+      "新闻",
+      "综艺",
+      "电影"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "4.4.2"
+    }
+  },
+  {
+    "user_id": "user_431",
+    "age": 42,
+    "gender": "女",
+    "frequently_used_channel": "渠道_9",
+    "interests": [
+      "短剧",
+      "综艺"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "1.0.2"
+    }
+  },
+  {
+    "user_id": "user_432",
+    "age": 49,
+    "gender": "男",
+    "frequently_used_channel": "渠道_16",
+    "interests": [
+      "综艺",
+      "短剧"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "3.6.1"
+    }
+  },
+  {
+    "user_id": "user_433",
+    "age": 26,
+    "gender": "女",
+    "frequently_used_channel": "渠道_1",
+    "interests": [
+      "游戏",
+      "新闻",
+      "短剧"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "1.4.3"
+    }
+  },
+  {
+    "user_id": "user_434",
+    "age": 31,
+    "gender": "女",
+    "frequently_used_channel": "渠道_18",
+    "interests": [
+      "电影"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "2.6.6"
+    }
+  },
+  {
+    "user_id": "user_435",
+    "age": 39,
+    "gender": "女",
+    "frequently_used_channel": "渠道_17",
+    "interests": [
+      "游戏"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "4.4.2"
+    }
+  },
+  {
+    "user_id": "user_436",
+    "age": 40,
+    "gender": "男",
+    "frequently_used_channel": "渠道_8",
+    "interests": [
+      "综艺"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "2.4.3"
+    }
+  },
+  {
+    "user_id": "user_437",
+    "age": 29,
+    "gender": "男",
+    "frequently_used_channel": "渠道_5",
+    "interests": [
+      "综艺",
+      "游戏"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "1.5.4"
+    }
+  },
+  {
+    "user_id": "user_438",
+    "age": 38,
+    "gender": "男",
+    "frequently_used_channel": "渠道_20",
+    "interests": [
+      "电影",
+      "短剧"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "3.7.2"
+    }
+  },
+  {
+    "user_id": "user_439",
+    "age": 40,
+    "gender": "女",
+    "frequently_used_channel": "渠道_5",
+    "interests": [
+      "新闻"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "3.2.1"
+    }
+  },
+  {
+    "user_id": "user_440",
+    "age": 37,
+    "gender": "男",
+    "frequently_used_channel": "渠道_7",
+    "interests": [
+      "新闻"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "4.4.9"
+    }
+  },
+  {
+    "user_id": "user_441",
+    "age": 45,
+    "gender": "未知",
+    "frequently_used_channel": "渠道_18",
+    "interests": [
+      "新闻"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "3.1.9"
+    }
+  },
+  {
+    "user_id": "user_442",
+    "age": 43,
+    "gender": "女",
+    "frequently_used_channel": "渠道_12",
+    "interests": [
+      "电影",
+      "游戏"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "3.3.0"
+    }
+  },
+  {
+    "user_id": "user_443",
+    "age": 30,
+    "gender": "未知",
+    "frequently_used_channel": "渠道_2",
+    "interests": [
+      "短剧"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "2.4.0"
+    }
+  },
+  {
+    "user_id": "user_444",
+    "age": 20,
+    "gender": "女",
+    "frequently_used_channel": "渠道_15",
+    "interests": [
+      "短剧",
+      "电影"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "1.7.5"
+    }
+  },
+  {
+    "user_id": "user_445",
+    "age": 33,
+    "gender": "女",
+    "frequently_used_channel": "渠道_3",
+    "interests": [
+      "电影"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "4.9.2"
+    }
+  },
+  {
+    "user_id": "user_446",
+    "age": 57,
+    "gender": "未知",
+    "frequently_used_channel": "渠道_20",
+    "interests": [
+      "短剧",
+      "新闻",
+      "游戏"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "1.9.0"
+    }
+  },
+  {
+    "user_id": "user_447",
+    "age": 20,
+    "gender": "女",
+    "frequently_used_channel": "渠道_13",
+    "interests": [
+      "电影"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "1.9.4"
+    }
+  },
+  {
+    "user_id": "user_448",
+    "age": 40,
+    "gender": "男",
+    "frequently_used_channel": "渠道_10",
+    "interests": [
+      "新闻",
+      "短剧"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "3.1.0"
+    }
+  },
+  {
+    "user_id": "user_449",
+    "age": 48,
+    "gender": "男",
+    "frequently_used_channel": "渠道_10",
+    "interests": [
+      "电影"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "3.1.4"
+    }
+  },
+  {
+    "user_id": "user_450",
+    "age": 53,
+    "gender": "女",
+    "frequently_used_channel": "渠道_18",
+    "interests": [
+      "电影",
+      "新闻"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "4.2.0"
+    }
+  },
+  {
+    "user_id": "user_451",
+    "age": 56,
+    "gender": "女",
+    "frequently_used_channel": "渠道_6",
+    "interests": [
+      "电影",
+      "综艺",
+      "短剧"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "3.0.3"
+    }
+  },
+  {
+    "user_id": "user_452",
+    "age": 57,
+    "gender": "男",
+    "frequently_used_channel": "渠道_5",
+    "interests": [
+      "综艺",
+      "电影",
+      "新闻"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "4.1.5"
+    }
+  },
+  {
+    "user_id": "user_453",
+    "age": 18,
+    "gender": "女",
+    "frequently_used_channel": "渠道_10",
+    "interests": [
+      "游戏",
+      "短剧"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "4.8.0"
+    }
+  },
+  {
+    "user_id": "user_454",
+    "age": 49,
+    "gender": "女",
+    "frequently_used_channel": "渠道_5",
+    "interests": [
+      "短剧",
+      "综艺"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "3.3.8"
+    }
+  },
+  {
+    "user_id": "user_455",
+    "age": 33,
+    "gender": "女",
+    "frequently_used_channel": "渠道_7",
+    "interests": [
+      "综艺",
+      "新闻",
+      "电影"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "2.0.3"
+    }
+  },
+  {
+    "user_id": "user_456",
+    "age": 39,
+    "gender": "女",
+    "frequently_used_channel": "渠道_11",
+    "interests": [
+      "短剧"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "1.1.8"
+    }
+  },
+  {
+    "user_id": "user_457",
+    "age": 40,
+    "gender": "男",
+    "frequently_used_channel": "渠道_3",
+    "interests": [
+      "新闻",
+      "短剧",
+      "电影"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "1.9.7"
+    }
+  },
+  {
+    "user_id": "user_458",
+    "age": 57,
+    "gender": "男",
+    "frequently_used_channel": "渠道_10",
+    "interests": [
+      "游戏"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "1.9.6"
+    }
+  },
+  {
+    "user_id": "user_459",
+    "age": 55,
+    "gender": "男",
+    "frequently_used_channel": "渠道_5",
+    "interests": [
+      "游戏"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "3.6.3"
+    }
+  },
+  {
+    "user_id": "user_460",
+    "age": 22,
+    "gender": "女",
+    "frequently_used_channel": "渠道_12",
+    "interests": [
+      "综艺",
+      "游戏",
+      "短剧"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "4.8.6"
+    }
+  },
+  {
+    "user_id": "user_461",
+    "age": 28,
+    "gender": "女",
+    "frequently_used_channel": "渠道_18",
+    "interests": [
+      "游戏"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "3.5.1"
+    }
+  },
+  {
+    "user_id": "user_462",
+    "age": 38,
+    "gender": "未知",
+    "frequently_used_channel": "渠道_14",
+    "interests": [
+      "短剧"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "1.3.9"
+    }
+  },
+  {
+    "user_id": "user_463",
+    "age": 45,
+    "gender": "男",
+    "frequently_used_channel": "渠道_9",
+    "interests": [
+      "短剧"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "3.5.9"
+    }
+  },
+  {
+    "user_id": "user_464",
+    "age": 57,
+    "gender": "女",
+    "frequently_used_channel": "渠道_16",
+    "interests": [
+      "游戏",
+      "电影"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "2.0.0"
+    }
+  },
+  {
+    "user_id": "user_465",
+    "age": 45,
+    "gender": "女",
+    "frequently_used_channel": "渠道_6",
+    "interests": [
+      "综艺",
+      "电影",
+      "新闻"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "4.3.1"
+    }
+  },
+  {
+    "user_id": "user_466",
+    "age": 33,
+    "gender": "女",
+    "frequently_used_channel": "渠道_13",
+    "interests": [
+      "电影"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "4.2.4"
+    }
+  },
+  {
+    "user_id": "user_467",
+    "age": 21,
+    "gender": "男",
+    "frequently_used_channel": "渠道_7",
+    "interests": [
+      "电影",
+      "新闻",
+      "游戏"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "1.0.2"
+    }
+  },
+  {
+    "user_id": "user_468",
+    "age": 45,
+    "gender": "男",
+    "frequently_used_channel": "渠道_1",
+    "interests": [
+      "电影"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "2.8.8"
+    }
+  },
+  {
+    "user_id": "user_469",
+    "age": 21,
+    "gender": "女",
+    "frequently_used_channel": "渠道_15",
+    "interests": [
+      "电影"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "1.3.9"
+    }
+  },
+  {
+    "user_id": "user_470",
+    "age": 52,
+    "gender": "男",
+    "frequently_used_channel": "渠道_19",
+    "interests": [
+      "新闻"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "3.7.5"
+    }
+  },
+  {
+    "user_id": "user_471",
+    "age": 59,
+    "gender": "男",
+    "frequently_used_channel": "渠道_5",
+    "interests": [
+      "综艺",
+      "游戏"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "2.4.6"
+    }
+  },
+  {
+    "user_id": "user_472",
+    "age": 41,
+    "gender": "男",
+    "frequently_used_channel": "渠道_11",
+    "interests": [
+      "新闻",
+      "游戏",
+      "短剧"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "1.9.3"
+    }
+  },
+  {
+    "user_id": "user_473",
+    "age": 45,
+    "gender": "女",
+    "frequently_used_channel": "渠道_14",
+    "interests": [
+      "电影",
+      "新闻"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "1.7.1"
+    }
+  },
+  {
+    "user_id": "user_474",
+    "age": 59,
+    "gender": "男",
+    "frequently_used_channel": "渠道_1",
+    "interests": [
+      "短剧"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "2.1.5"
+    }
+  },
+  {
+    "user_id": "user_475",
+    "age": 20,
+    "gender": "男",
+    "frequently_used_channel": "渠道_13",
+    "interests": [
+      "电影"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "2.6.4"
+    }
+  },
+  {
+    "user_id": "user_476",
+    "age": 25,
+    "gender": "女",
+    "frequently_used_channel": "渠道_13",
+    "interests": [
+      "短剧",
+      "游戏"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "4.2.7"
+    }
+  },
+  {
+    "user_id": "user_477",
+    "age": 32,
+    "gender": "男",
+    "frequently_used_channel": "渠道_5",
+    "interests": [
+      "新闻",
+      "综艺",
+      "电影"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "4.6.0"
+    }
+  },
+  {
+    "user_id": "user_478",
+    "age": 23,
+    "gender": "男",
+    "frequently_used_channel": "渠道_20",
+    "interests": [
+      "游戏",
+      "短剧",
+      "电影"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "1.1.3"
+    }
+  },
+  {
+    "user_id": "user_479",
+    "age": 59,
+    "gender": "男",
+    "frequently_used_channel": "渠道_6",
+    "interests": [
+      "游戏",
+      "电影"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "2.3.5"
+    }
+  },
+  {
+    "user_id": "user_480",
+    "age": 30,
+    "gender": "女",
+    "frequently_used_channel": "渠道_10",
+    "interests": [
+      "电影"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "1.9.9"
+    }
+  },
+  {
+    "user_id": "user_481",
+    "age": 27,
+    "gender": "女",
+    "frequently_used_channel": "渠道_8",
+    "interests": [
+      "短剧"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "4.2.1"
+    }
+  },
+  {
+    "user_id": "user_482",
+    "age": 49,
+    "gender": "男",
+    "frequently_used_channel": "渠道_20",
+    "interests": [
+      "游戏",
+      "综艺"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "3.9.0"
+    }
+  },
+  {
+    "user_id": "user_483",
+    "age": 47,
+    "gender": "男",
+    "frequently_used_channel": "渠道_18",
+    "interests": [
+      "新闻",
+      "电影"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "1.0.6"
+    }
+  },
+  {
+    "user_id": "user_484",
+    "age": 59,
+    "gender": "女",
+    "frequently_used_channel": "渠道_16",
+    "interests": [
+      "电影",
+      "新闻"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "2.8.7"
+    }
+  },
+  {
+    "user_id": "user_485",
+    "age": 25,
+    "gender": "未知",
+    "frequently_used_channel": "渠道_13",
+    "interests": [
+      "游戏"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "1.0.5"
+    }
+  },
+  {
+    "user_id": "user_486",
+    "age": 56,
+    "gender": "女",
+    "frequently_used_channel": "渠道_6",
+    "interests": [
+      "电影"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "2.7.6"
+    }
+  },
+  {
+    "user_id": "user_487",
+    "age": 21,
+    "gender": "女",
+    "frequently_used_channel": "渠道_7",
+    "interests": [
+      "新闻",
+      "短剧"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "2.2.9"
+    }
+  },
+  {
+    "user_id": "user_488",
+    "age": 34,
+    "gender": "女",
+    "frequently_used_channel": "渠道_2",
+    "interests": [
+      "新闻"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "4.4.5"
+    }
+  },
+  {
+    "user_id": "user_489",
+    "age": 50,
+    "gender": "男",
+    "frequently_used_channel": "渠道_16",
+    "interests": [
+      "游戏",
+      "短剧",
+      "新闻"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "2.5.1"
+    }
+  },
+  {
+    "user_id": "user_490",
+    "age": 46,
+    "gender": "女",
+    "frequently_used_channel": "渠道_13",
+    "interests": [
+      "新闻"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "1.1.2"
+    }
+  },
+  {
+    "user_id": "user_491",
+    "age": 48,
+    "gender": "女",
+    "frequently_used_channel": "渠道_11",
+    "interests": [
+      "新闻",
+      "短剧",
+      "综艺"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "3.3.9"
+    }
+  },
+  {
+    "user_id": "user_492",
+    "age": 43,
+    "gender": "女",
+    "frequently_used_channel": "渠道_9",
+    "interests": [
+      "新闻"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "1.4.2"
+    }
+  },
+  {
+    "user_id": "user_493",
+    "age": 58,
+    "gender": "男",
+    "frequently_used_channel": "渠道_4",
+    "interests": [
+      "电影"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "1.8.8"
+    }
+  },
+  {
+    "user_id": "user_494",
+    "age": 48,
+    "gender": "女",
+    "frequently_used_channel": "渠道_6",
+    "interests": [
+      "电影"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "2.0.5"
+    }
+  },
+  {
+    "user_id": "user_495",
+    "age": 47,
+    "gender": "男",
+    "frequently_used_channel": "渠道_8",
+    "interests": [
+      "新闻",
+      "短剧"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "4.3.2"
+    }
+  },
+  {
+    "user_id": "user_496",
+    "age": 26,
+    "gender": "男",
+    "frequently_used_channel": "渠道_13",
+    "interests": [
+      "电影",
+      "新闻"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "4.7.2"
+    }
+  },
+  {
+    "user_id": "user_497",
+    "age": 27,
+    "gender": "男",
+    "frequently_used_channel": "渠道_6",
+    "interests": [
+      "综艺"
+    ],
+    "device": {
+      "os": "Android",
+      "app_version": "1.4.7"
+    }
+  },
+  {
+    "user_id": "user_498",
+    "age": 55,
+    "gender": "女",
+    "frequently_used_channel": "渠道_5",
+    "interests": [
+      "综艺"
+    ],
+    "device": {
+      "os": "MacOS",
+      "app_version": "3.7.8"
+    }
+  },
+  {
+    "user_id": "user_499",
+    "age": 55,
+    "gender": "男",
+    "frequently_used_channel": "渠道_2",
+    "interests": [
+      "游戏",
+      "短剧"
+    ],
+    "device": {
+      "os": "iOS",
+      "app_version": "4.8.3"
+    }
+  },
+  {
+    "user_id": "user_500",
+    "age": 53,
+    "gender": "男",
+    "frequently_used_channel": "渠道_18",
+    "interests": [
+      "游戏",
+      "短剧",
+      "新闻"
+    ],
+    "device": {
+      "os": "Windows",
+      "app_version": "3.7.0"
+    }
+  }
+]

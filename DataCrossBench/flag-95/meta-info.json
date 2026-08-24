@@ -1,0 +1,20 @@
+{
+    "goal": "比较华商计算机行业量化与华商电子行业量化在机构投资者比例上的变化及其市场认可度的差异。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 管理人员工持有华商计算机行业量化的份额在2023年Q2显著增加，反映出对基金表现的信心。",
+        "Comparison: 华商电子行业量化的机构投资者比例在同一时期上升幅度更大，从4%上升至45%。",
+        "Extreme: 在2022至2024年的熊市期间，华商计算机行业量化的表现相对稳定，显示出其风险控制能力。",
+        "Attribution: 管理人员工持有份额的增加反映了基金公司内部员工对基金的前景和表现有信心，表明了该基金经理的内部评价较高。"
+    ],
+    "summary": "华商计算机行业量化产品在市场波动中展现出良好的收益弹性和风险分散策略，管理人员持有情况的增加反映出对基金前景的信心。",
+    "flag_id": "flag-95",
+    "classifier": "Fund Analysis",
+    "classifier_cn": "基金分析",
+    "input_files": [
+        "output/background.txt",
+        "output/dimension_data.db",
+        "output/fund_profiles.json",
+        "output/market_analysis.csv"
+    ]
+}

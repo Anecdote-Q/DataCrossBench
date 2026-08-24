@@ -1,0 +1,20 @@
+{
+    "goal": "评估湘财证券与益盟股份合作对投资咨询业务收入增长的具体影响。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 2024年湘财证券的投行业务收入预计为0.85亿元，占比5%，显示出其业务多元化的趋势。",
+        "Comparison: 截至2024年，湘财证券的投资咨询业务收入实现显著增长，显示出与益盟股份合作的积极成效。",
+        "Extreme: 2022年湘财证券的自营业务收入为4.33亿元，占比26%，显示出其在自营业务上的强劲表现。",
+        "Attribution: 双方的合作有助于湘财证券在投顾服务领域建立领先品牌，进一步增强市场竞争力。"
+    ],
+    "summary": "湘财证券与益盟股份的战略合作旨在提升服务品质与业务能力，推动金融科技的创新与发展。",
+    "flag_id": "flag-120",
+    "classifier": "FinTech",
+    "classifier_cn": "金融科技",
+    "input_files": [
+        "output/business_background.txt",
+        "output/investment_revenue.csv",
+        "output/partnership.db",
+        "output/user_profiles.json"
+    ]
+}

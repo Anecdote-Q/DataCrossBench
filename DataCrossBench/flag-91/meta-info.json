@@ -1,0 +1,20 @@
+{
+    "goal": "评估2022年Q1市场大幅调整对华商策略精选基金表现的影响，并与业绩基准进行比较。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 2022年下半年，基金在新能源、智能电动车等符合中国经济中长期发展方向的产业中增加配置。",
+        "Comparison: 2022年Q1，市场在经济下行压力加大时，华商策略精选基金的表现显著优于业绩基准。",
+        "Extreme: 2023年3月中旬，市场受人工智能驱动开始反弹，标志着市场情绪的极端变化。",
+        "Attribution: 基金经理的调仓策略反映了对市场不确定性的应对，倾向于分散持股以控制回撤。"
+    ],
+    "summary": "本报告探讨了华商基金在不同经济环境下的行业配置策略及其对市场波动的应对，强调了基金经理王毅文的灵活调仓能力。",
+    "flag_id": "flag-91",
+    "classifier": "Fund Analysis",
+    "classifier_cn": "基金分析",
+    "input_files": [
+        "output/fund_dimension_data.db",
+        "output/fund_fact_table.png",
+        "output/manager_profiles.json",
+        "output/report_background.txt"
+    ]
+}

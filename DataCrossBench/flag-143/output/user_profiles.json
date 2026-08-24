@@ -1,0 +1,7213 @@
+[
+  {
+    "customer_id": 1000,
+    "name": "王丹",
+    "tags": [
+      "价值客户",
+      "新客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "01:24:33",
+        "01:28:09",
+        "07:47:46",
+        "17:30:33"
+      ],
+      "preferred_channels": [
+        "微信"
+      ],
+      "last_login": "2025-12-17"
+    },
+    "financial_scores": {
+      "risk_tolerance": 1,
+      "engagement_index": 0.91,
+      "tech_adoption": 0.46
+    }
+  },
+  {
+    "customer_id": 1001,
+    "name": "刘旭",
+    "tags": [
+      "高风险偏好",
+      "金融科技偏好",
+      "经纪业务重点"
+    ],
+    "preferences": {
+      "contact_times": [
+        "10:25:58",
+        "11:27:31",
+        "13:27:04"
+      ],
+      "preferred_channels": [
+        "微信",
+        "电话"
+      ],
+      "last_login": "2025-12-06"
+    },
+    "financial_scores": {
+      "risk_tolerance": 9,
+      "engagement_index": 0.51,
+      "tech_adoption": 0.56
+    }
+  },
+  {
+    "customer_id": 1002,
+    "name": "宋超",
+    "tags": [
+      "新客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "17:15:38"
+      ],
+      "preferred_channels": [
+        "微信"
+      ],
+      "last_login": "2025-11-25"
+    },
+    "financial_scores": {
+      "risk_tolerance": 1,
+      "engagement_index": 0.29,
+      "tech_adoption": 0.23
+    }
+  },
+  {
+    "customer_id": 1003,
+    "name": "李敏",
+    "tags": [
+      "经纪业务重点",
+      "价值客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "15:19:38"
+      ],
+      "preferred_channels": [
+        "微信"
+      ],
+      "last_login": "2025-11-28"
+    },
+    "financial_scores": {
+      "risk_tolerance": 7,
+      "engagement_index": 0.77,
+      "tech_adoption": 0.72
+    }
+  },
+  {
+    "customer_id": 1004,
+    "name": "郑婷婷",
+    "tags": [
+      "经纪业务重点"
+    ],
+    "preferences": {
+      "contact_times": [
+        "05:26:20",
+        "15:10:21"
+      ],
+      "preferred_channels": [
+        "电话"
+      ],
+      "last_login": "2025-12-15"
+    },
+    "financial_scores": {
+      "risk_tolerance": 3,
+      "engagement_index": 0.11,
+      "tech_adoption": 0.43
+    }
+  },
+  {
+    "customer_id": 1005,
+    "name": "徐萍",
+    "tags": [
+      "老客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "00:43:32",
+        "21:36:38",
+        "22:42:37"
+      ],
+      "preferred_channels": [
+        "APP",
+        "微信"
+      ],
+      "last_login": "2025-12-19"
+    },
+    "financial_scores": {
+      "risk_tolerance": 10,
+      "engagement_index": 0.95,
+      "tech_adoption": 0.35
+    }
+  },
+  {
+    "customer_id": 1006,
+    "name": "廖晨",
+    "tags": [
+      "金融科技偏好"
+    ],
+    "preferences": {
+      "contact_times": [
+        "22:58:59"
+      ],
+      "preferred_channels": [
+        "APP"
+      ],
+      "last_login": "2025-12-13"
+    },
+    "financial_scores": {
+      "risk_tolerance": 7,
+      "engagement_index": 0.09,
+      "tech_adoption": 0.24
+    }
+  },
+  {
+    "customer_id": 1007,
+    "name": "杨建军",
+    "tags": [
+      "低频操作",
+      "活跃用户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "06:32:28",
+        "15:36:30",
+        "15:57:57",
+        "16:23:03"
+      ],
+      "preferred_channels": [
+        "微信"
+      ],
+      "last_login": "2025-12-09"
+    },
+    "financial_scores": {
+      "risk_tolerance": 6,
+      "engagement_index": 0.21,
+      "tech_adoption": 0.18
+    }
+  },
+  {
+    "customer_id": 1008,
+    "name": "卓雪",
+    "tags": [
+      "投顾客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "09:39:46",
+        "23:37:38"
+      ],
+      "preferred_channels": [
+        "APP"
+      ],
+      "last_login": "2025-11-28"
+    },
+    "financial_scores": {
+      "risk_tolerance": 8,
+      "engagement_index": 0.71,
+      "tech_adoption": 0.72
+    }
+  },
+  {
+    "customer_id": 1009,
+    "name": "李帆",
+    "tags": [
+      "金融科技偏好"
+    ],
+    "preferences": {
+      "contact_times": [
+        "15:59:46"
+      ],
+      "preferred_channels": [
+        "邮件"
+      ],
+      "last_login": "2025-12-15"
+    },
+    "financial_scores": {
+      "risk_tolerance": 2,
+      "engagement_index": 0.08,
+      "tech_adoption": 0.01
+    }
+  },
+  {
+    "customer_id": 1010,
+    "name": "毛燕",
+    "tags": [
+      "金融科技偏好"
+    ],
+    "preferences": {
+      "contact_times": [
+        "15:25:03",
+        "20:48:17"
+      ],
+      "preferred_channels": [
+        "电话",
+        "APP"
+      ],
+      "last_login": "2025-12-10"
+    },
+    "financial_scores": {
+      "risk_tolerance": 10,
+      "engagement_index": 0.07,
+      "tech_adoption": 0.59
+    }
+  },
+  {
+    "customer_id": 1011,
+    "name": "姚佳",
+    "tags": [
+      "低频操作"
+    ],
+    "preferences": {
+      "contact_times": [
+        "01:10:36",
+        "03:12:19",
+        "12:38:36"
+      ],
+      "preferred_channels": [
+        "微信",
+        "APP"
+      ],
+      "last_login": "2025-12-13"
+    },
+    "financial_scores": {
+      "risk_tolerance": 3,
+      "engagement_index": 0.32,
+      "tech_adoption": 0.53
+    }
+  },
+  {
+    "customer_id": 1012,
+    "name": "李英",
+    "tags": [
+      "新客户",
+      "经纪业务重点"
+    ],
+    "preferences": {
+      "contact_times": [
+        "05:09:55",
+        "20:27:03"
+      ],
+      "preferred_channels": [
+        "电话"
+      ],
+      "last_login": "2025-12-17"
+    },
+    "financial_scores": {
+      "risk_tolerance": 2,
+      "engagement_index": 0.82,
+      "tech_adoption": 0.1
+    }
+  },
+  {
+    "customer_id": 1013,
+    "name": "梁波",
+    "tags": [
+      "价值客户",
+      "经纪业务重点",
+      "高风险偏好"
+    ],
+    "preferences": {
+      "contact_times": [
+        "00:31:12",
+        "01:09:16",
+        "16:03:06"
+      ],
+      "preferred_channels": [
+        "APP"
+      ],
+      "last_login": "2025-12-12"
+    },
+    "financial_scores": {
+      "risk_tolerance": 10,
+      "engagement_index": 0.27,
+      "tech_adoption": 0.34
+    }
+  },
+  {
+    "customer_id": 1014,
+    "name": "田桂兰",
+    "tags": [
+      "经纪业务重点"
+    ],
+    "preferences": {
+      "contact_times": [
+        "17:18:03"
+      ],
+      "preferred_channels": [
+        "微信"
+      ],
+      "last_login": "2025-12-22"
+    },
+    "financial_scores": {
+      "risk_tolerance": 1,
+      "engagement_index": 0.02,
+      "tech_adoption": 0.07
+    }
+  },
+  {
+    "customer_id": 1015,
+    "name": "万帅",
+    "tags": [
+      "投顾客户",
+      "低频操作",
+      "活跃用户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "10:43:21",
+        "13:05:27",
+        "21:58:30"
+      ],
+      "preferred_channels": [
+        "电话",
+        "APP"
+      ],
+      "last_login": "2025-12-02"
+    },
+    "financial_scores": {
+      "risk_tolerance": 6,
+      "engagement_index": 0.77,
+      "tech_adoption": 0.21
+    }
+  },
+  {
+    "customer_id": 1016,
+    "name": "陈云",
+    "tags": [
+      "金融科技偏好"
+    ],
+    "preferences": {
+      "contact_times": [
+        "00:01:56",
+        "00:43:29",
+        "07:36:27"
+      ],
+      "preferred_channels": [
+        "电话",
+        "微信"
+      ],
+      "last_login": "2025-12-08"
+    },
+    "financial_scores": {
+      "risk_tolerance": 5,
+      "engagement_index": 0.76,
+      "tech_adoption": 0.31
+    }
+  },
+  {
+    "customer_id": 1017,
+    "name": "黄利",
+    "tags": [
+      "投顾客户",
+      "高风险偏好",
+      "新客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "03:55:18",
+        "12:30:03",
+        "23:21:05"
+      ],
+      "preferred_channels": [
+        "邮件"
+      ],
+      "last_login": "2025-12-15"
+    },
+    "financial_scores": {
+      "risk_tolerance": 4,
+      "engagement_index": 0.61,
+      "tech_adoption": 0.3
+    }
+  },
+  {
+    "customer_id": 1018,
+    "name": "魏斌",
+    "tags": [
+      "投顾客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "16:29:08",
+        "16:29:38",
+        "17:36:48",
+        "19:35:50"
+      ],
+      "preferred_channels": [
+        "邮件",
+        "APP"
+      ],
+      "last_login": "2025-12-05"
+    },
+    "financial_scores": {
+      "risk_tolerance": 2,
+      "engagement_index": 0.4,
+      "tech_adoption": 0.9
+    }
+  },
+  {
+    "customer_id": 1019,
+    "name": "何丽",
+    "tags": [
+      "新客户",
+      "高风险偏好"
+    ],
+    "preferences": {
+      "contact_times": [
+        "15:35:40",
+        "16:52:51",
+        "17:55:55",
+        "19:30:27"
+      ],
+      "preferred_channels": [
+        "电话"
+      ],
+      "last_login": "2025-12-01"
+    },
+    "financial_scores": {
+      "risk_tolerance": 3,
+      "engagement_index": 0.73,
+      "tech_adoption": 0.16
+    }
+  },
+  {
+    "customer_id": 1020,
+    "name": "孙桂英",
+    "tags": [
+      "经纪业务重点"
+    ],
+    "preferences": {
+      "contact_times": [
+        "10:37:14"
+      ],
+      "preferred_channels": [
+        "电话",
+        "邮件"
+      ],
+      "last_login": "2025-12-02"
+    },
+    "financial_scores": {
+      "risk_tolerance": 1,
+      "engagement_index": 0.88,
+      "tech_adoption": 0.49
+    }
+  },
+  {
+    "customer_id": 1021,
+    "name": "叶华",
+    "tags": [
+      "活跃用户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "10:51:27"
+      ],
+      "preferred_channels": [
+        "APP"
+      ],
+      "last_login": "2025-12-12"
+    },
+    "financial_scores": {
+      "risk_tolerance": 3,
+      "engagement_index": 0.46,
+      "tech_adoption": 0.6
+    }
+  },
+  {
+    "customer_id": 1022,
+    "name": "阎玉梅",
+    "tags": [
+      "活跃用户",
+      "价值客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "05:09:25",
+        "08:36:16"
+      ],
+      "preferred_channels": [
+        "电话"
+      ],
+      "last_login": "2025-11-28"
+    },
+    "financial_scores": {
+      "risk_tolerance": 7,
+      "engagement_index": 0.61,
+      "tech_adoption": 0.85
+    }
+  },
+  {
+    "customer_id": 1023,
+    "name": "刘楠",
+    "tags": [
+      "价值客户",
+      "活跃用户",
+      "经纪业务重点"
+    ],
+    "preferences": {
+      "contact_times": [
+        "13:50:53",
+        "20:37:19"
+      ],
+      "preferred_channels": [
+        "电话",
+        "APP"
+      ],
+      "last_login": "2025-12-03"
+    },
+    "financial_scores": {
+      "risk_tolerance": 9,
+      "engagement_index": 0.84,
+      "tech_adoption": 0.53
+    }
+  },
+  {
+    "customer_id": 1024,
+    "name": "张瑜",
+    "tags": [
+      "投顾客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "00:39:58",
+        "05:33:14",
+        "16:46:57"
+      ],
+      "preferred_channels": [
+        "微信",
+        "邮件"
+      ],
+      "last_login": "2025-12-08"
+    },
+    "financial_scores": {
+      "risk_tolerance": 1,
+      "engagement_index": 0.08,
+      "tech_adoption": 0.65
+    }
+  },
+  {
+    "customer_id": 1025,
+    "name": "樊桂芳",
+    "tags": [
+      "高风险偏好"
+    ],
+    "preferences": {
+      "contact_times": [
+        "11:33:50",
+        "12:27:22",
+        "12:53:37",
+        "20:52:59"
+      ],
+      "preferred_channels": [
+        "电话"
+      ],
+      "last_login": "2025-12-23"
+    },
+    "financial_scores": {
+      "risk_tolerance": 3,
+      "engagement_index": 0.33,
+      "tech_adoption": 0.98
+    }
+  },
+  {
+    "customer_id": 1026,
+    "name": "刘艳",
+    "tags": [
+      "老客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "09:47:07",
+        "21:54:27"
+      ],
+      "preferred_channels": [
+        "邮件",
+        "微信"
+      ],
+      "last_login": "2025-11-25"
+    },
+    "financial_scores": {
+      "risk_tolerance": 5,
+      "engagement_index": 0.24,
+      "tech_adoption": 0.07
+    }
+  },
+  {
+    "customer_id": 1027,
+    "name": "姜琳",
+    "tags": [
+      "老客户",
+      "高风险偏好",
+      "经纪业务重点"
+    ],
+    "preferences": {
+      "contact_times": [
+        "05:07:21",
+        "14:23:44",
+        "18:25:37",
+        "18:31:24"
+      ],
+      "preferred_channels": [
+        "电话"
+      ],
+      "last_login": "2025-12-10"
+    },
+    "financial_scores": {
+      "risk_tolerance": 6,
+      "engagement_index": 0.79,
+      "tech_adoption": 0.61
+    }
+  },
+  {
+    "customer_id": 1028,
+    "name": "黄成",
+    "tags": [
+      "经纪业务重点",
+      "投顾客户",
+      "价值客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "13:28:44",
+        "20:47:37",
+        "21:20:34",
+        "23:26:35"
+      ],
+      "preferred_channels": [
+        "电话",
+        "邮件"
+      ],
+      "last_login": "2025-12-16"
+    },
+    "financial_scores": {
+      "risk_tolerance": 4,
+      "engagement_index": 0.74,
+      "tech_adoption": 0.21
+    }
+  },
+  {
+    "customer_id": 1029,
+    "name": "李辉",
+    "tags": [
+      "活跃用户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "01:46:41"
+      ],
+      "preferred_channels": [
+        "APP"
+      ],
+      "last_login": "2025-12-06"
+    },
+    "financial_scores": {
+      "risk_tolerance": 8,
+      "engagement_index": 0.45,
+      "tech_adoption": 0.91
+    }
+  },
+  {
+    "customer_id": 1030,
+    "name": "张晨",
+    "tags": [
+      "经纪业务重点",
+      "低频操作"
+    ],
+    "preferences": {
+      "contact_times": [
+        "03:56:01",
+        "23:39:15"
+      ],
+      "preferred_channels": [
+        "APP"
+      ],
+      "last_login": "2025-12-10"
+    },
+    "financial_scores": {
+      "risk_tolerance": 1,
+      "engagement_index": 0.28,
+      "tech_adoption": 0.49
+    }
+  },
+  {
+    "customer_id": 1031,
+    "name": "唐海燕",
+    "tags": [
+      "金融科技偏好"
+    ],
+    "preferences": {
+      "contact_times": [
+        "10:53:51"
+      ],
+      "preferred_channels": [
+        "电话",
+        "微信"
+      ],
+      "last_login": "2025-12-09"
+    },
+    "financial_scores": {
+      "risk_tolerance": 2,
+      "engagement_index": 0.51,
+      "tech_adoption": 0.89
+    }
+  },
+  {
+    "customer_id": 1032,
+    "name": "唐丹丹",
+    "tags": [
+      "活跃用户",
+      "金融科技偏好"
+    ],
+    "preferences": {
+      "contact_times": [
+        "06:07:17",
+        "06:14:17",
+        "06:28:52",
+        "15:38:37"
+      ],
+      "preferred_channels": [
+        "微信",
+        "邮件"
+      ],
+      "last_login": "2025-11-27"
+    },
+    "financial_scores": {
+      "risk_tolerance": 2,
+      "engagement_index": 0.45,
+      "tech_adoption": 0.01
+    }
+  },
+  {
+    "customer_id": 1033,
+    "name": "边磊",
+    "tags": [
+      "高风险偏好"
+    ],
+    "preferences": {
+      "contact_times": [
+        "20:38:48",
+        "21:12:04"
+      ],
+      "preferred_channels": [
+        "微信",
+        "邮件"
+      ],
+      "last_login": "2025-12-17"
+    },
+    "financial_scores": {
+      "risk_tolerance": 1,
+      "engagement_index": 0.5,
+      "tech_adoption": 0.52
+    }
+  },
+  {
+    "customer_id": 1034,
+    "name": "叶玲",
+    "tags": [
+      "价值客户",
+      "低频操作",
+      "投顾客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "01:08:40",
+        "01:09:32",
+        "06:19:16"
+      ],
+      "preferred_channels": [
+        "APP",
+        "邮件"
+      ],
+      "last_login": "2025-11-29"
+    },
+    "financial_scores": {
+      "risk_tolerance": 4,
+      "engagement_index": 0.97,
+      "tech_adoption": 0.94
+    }
+  },
+  {
+    "customer_id": 1035,
+    "name": "李淑兰",
+    "tags": [
+      "新客户",
+      "投顾客户",
+      "活跃用户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "06:53:23",
+        "16:25:40",
+        "18:07:47"
+      ],
+      "preferred_channels": [
+        "APP",
+        "邮件"
+      ],
+      "last_login": "2025-11-28"
+    },
+    "financial_scores": {
+      "risk_tolerance": 4,
+      "engagement_index": 0.51,
+      "tech_adoption": 0.26
+    }
+  },
+  {
+    "customer_id": 1036,
+    "name": "孙燕",
+    "tags": [
+      "低频操作",
+      "老客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "07:50:46",
+        "11:00:18",
+        "17:40:48"
+      ],
+      "preferred_channels": [
+        "APP",
+        "电话"
+      ],
+      "last_login": "2025-12-12"
+    },
+    "financial_scores": {
+      "risk_tolerance": 7,
+      "engagement_index": 0.94,
+      "tech_adoption": 0.82
+    }
+  },
+  {
+    "customer_id": 1037,
+    "name": "林宁",
+    "tags": [
+      "新客户",
+      "活跃用户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "04:44:50"
+      ],
+      "preferred_channels": [
+        "邮件",
+        "APP"
+      ],
+      "last_login": "2025-12-03"
+    },
+    "financial_scores": {
+      "risk_tolerance": 8,
+      "engagement_index": 0.65,
+      "tech_adoption": 0.86
+    }
+  },
+  {
+    "customer_id": 1038,
+    "name": "贺璐",
+    "tags": [
+      "低频操作",
+      "金融科技偏好"
+    ],
+    "preferences": {
+      "contact_times": [
+        "23:45:47"
+      ],
+      "preferred_channels": [
+        "邮件",
+        "电话"
+      ],
+      "last_login": "2025-11-28"
+    },
+    "financial_scores": {
+      "risk_tolerance": 1,
+      "engagement_index": 0.76,
+      "tech_adoption": 0.46
+    }
+  },
+  {
+    "customer_id": 1039,
+    "name": "张瑞",
+    "tags": [
+      "新客户",
+      "经纪业务重点"
+    ],
+    "preferences": {
+      "contact_times": [
+        "05:49:25",
+        "08:44:11",
+        "10:50:05"
+      ],
+      "preferred_channels": [
+        "邮件"
+      ],
+      "last_login": "2025-12-04"
+    },
+    "financial_scores": {
+      "risk_tolerance": 4,
+      "engagement_index": 0.89,
+      "tech_adoption": 0.58
+    }
+  },
+  {
+    "customer_id": 1040,
+    "name": "唐小红",
+    "tags": [
+      "低频操作"
+    ],
+    "preferences": {
+      "contact_times": [
+        "11:22:41"
+      ],
+      "preferred_channels": [
+        "APP",
+        "邮件"
+      ],
+      "last_login": "2025-12-09"
+    },
+    "financial_scores": {
+      "risk_tolerance": 6,
+      "engagement_index": 0.46,
+      "tech_adoption": 0.79
+    }
+  },
+  {
+    "customer_id": 1041,
+    "name": "李畅",
+    "tags": [
+      "老客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "02:59:18"
+      ],
+      "preferred_channels": [
+        "邮件",
+        "APP"
+      ],
+      "last_login": "2025-12-02"
+    },
+    "financial_scores": {
+      "risk_tolerance": 5,
+      "engagement_index": 0.63,
+      "tech_adoption": 0.54
+    }
+  },
+  {
+    "customer_id": 1042,
+    "name": "刘秀英",
+    "tags": [
+      "高风险偏好",
+      "经纪业务重点",
+      "老客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "01:34:51"
+      ],
+      "preferred_channels": [
+        "电话",
+        "邮件"
+      ],
+      "last_login": "2025-12-05"
+    },
+    "financial_scores": {
+      "risk_tolerance": 8,
+      "engagement_index": 0.05,
+      "tech_adoption": 0.5
+    }
+  },
+  {
+    "customer_id": 1043,
+    "name": "李桂芝",
+    "tags": [
+      "活跃用户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "07:31:47",
+        "13:31:50",
+        "20:44:59"
+      ],
+      "preferred_channels": [
+        "APP"
+      ],
+      "last_login": "2025-12-17"
+    },
+    "financial_scores": {
+      "risk_tolerance": 9,
+      "engagement_index": 0.46,
+      "tech_adoption": 0.33
+    }
+  },
+  {
+    "customer_id": 1044,
+    "name": "佘阳",
+    "tags": [
+      "投顾客户",
+      "低频操作",
+      "老客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "05:09:08",
+        "23:08:27"
+      ],
+      "preferred_channels": [
+        "邮件"
+      ],
+      "last_login": "2025-11-24"
+    },
+    "financial_scores": {
+      "risk_tolerance": 8,
+      "engagement_index": 0.0,
+      "tech_adoption": 0.43
+    }
+  },
+  {
+    "customer_id": 1045,
+    "name": "潘志强",
+    "tags": [
+      "低频操作",
+      "经纪业务重点"
+    ],
+    "preferences": {
+      "contact_times": [
+        "01:00:18",
+        "12:13:46",
+        "15:01:11",
+        "15:52:01"
+      ],
+      "preferred_channels": [
+        "邮件"
+      ],
+      "last_login": "2025-12-11"
+    },
+    "financial_scores": {
+      "risk_tolerance": 7,
+      "engagement_index": 0.42,
+      "tech_adoption": 0.15
+    }
+  },
+  {
+    "customer_id": 1046,
+    "name": "郭玉华",
+    "tags": [
+      "老客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "08:16:52",
+        "21:45:34",
+        "23:33:00"
+      ],
+      "preferred_channels": [
+        "电话",
+        "微信"
+      ],
+      "last_login": "2025-12-12"
+    },
+    "financial_scores": {
+      "risk_tolerance": 10,
+      "engagement_index": 0.48,
+      "tech_adoption": 0.85
+    }
+  },
+  {
+    "customer_id": 1047,
+    "name": "凌杨",
+    "tags": [
+      "投顾客户",
+      "金融科技偏好",
+      "高风险偏好"
+    ],
+    "preferences": {
+      "contact_times": [
+        "07:40:28",
+        "08:43:20",
+        "11:17:03",
+        "18:38:12"
+      ],
+      "preferred_channels": [
+        "微信"
+      ],
+      "last_login": "2025-11-24"
+    },
+    "financial_scores": {
+      "risk_tolerance": 10,
+      "engagement_index": 0.34,
+      "tech_adoption": 0.7
+    }
+  },
+  {
+    "customer_id": 1048,
+    "name": "赵柳",
+    "tags": [
+      "活跃用户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "07:28:09",
+        "23:01:46"
+      ],
+      "preferred_channels": [
+        "电话",
+        "APP"
+      ],
+      "last_login": "2025-11-24"
+    },
+    "financial_scores": {
+      "risk_tolerance": 4,
+      "engagement_index": 0.74,
+      "tech_adoption": 0.58
+    }
+  },
+  {
+    "customer_id": 1049,
+    "name": "庄欣",
+    "tags": [
+      "老客户",
+      "投顾客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "20:36:15"
+      ],
+      "preferred_channels": [
+        "电话"
+      ],
+      "last_login": "2025-11-28"
+    },
+    "financial_scores": {
+      "risk_tolerance": 1,
+      "engagement_index": 0.35,
+      "tech_adoption": 0.14
+    }
+  },
+  {
+    "customer_id": 1050,
+    "name": "刘鑫",
+    "tags": [
+      "经纪业务重点"
+    ],
+    "preferences": {
+      "contact_times": [
+        "04:37:41",
+        "08:03:20",
+        "17:02:18"
+      ],
+      "preferred_channels": [
+        "APP"
+      ],
+      "last_login": "2025-12-21"
+    },
+    "financial_scores": {
+      "risk_tolerance": 4,
+      "engagement_index": 0.64,
+      "tech_adoption": 0.39
+    }
+  },
+  {
+    "customer_id": 1051,
+    "name": "王娜",
+    "tags": [
+      "投顾客户",
+      "价值客户",
+      "老客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "04:02:03",
+        "06:42:20",
+        "10:09:43",
+        "21:57:06"
+      ],
+      "preferred_channels": [
+        "APP"
+      ],
+      "last_login": "2025-11-30"
+    },
+    "financial_scores": {
+      "risk_tolerance": 1,
+      "engagement_index": 0.54,
+      "tech_adoption": 0.66
+    }
+  },
+  {
+    "customer_id": 1052,
+    "name": "王飞",
+    "tags": [
+      "低频操作",
+      "金融科技偏好",
+      "价值客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "01:38:35",
+        "01:50:26",
+        "02:30:25"
+      ],
+      "preferred_channels": [
+        "电话"
+      ],
+      "last_login": "2025-12-03"
+    },
+    "financial_scores": {
+      "risk_tolerance": 4,
+      "engagement_index": 0.14,
+      "tech_adoption": 0.67
+    }
+  },
+  {
+    "customer_id": 1053,
+    "name": "王超",
+    "tags": [
+      "投顾客户",
+      "新客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "07:54:29",
+        "14:05:30",
+        "20:48:25",
+        "22:39:34"
+      ],
+      "preferred_channels": [
+        "APP"
+      ],
+      "last_login": "2025-12-17"
+    },
+    "financial_scores": {
+      "risk_tolerance": 6,
+      "engagement_index": 0.49,
+      "tech_adoption": 0.74
+    }
+  },
+  {
+    "customer_id": 1054,
+    "name": "王静",
+    "tags": [
+      "高风险偏好",
+      "价值客户",
+      "投顾客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "06:11:29",
+        "07:22:06"
+      ],
+      "preferred_channels": [
+        "邮件"
+      ],
+      "last_login": "2025-12-14"
+    },
+    "financial_scores": {
+      "risk_tolerance": 1,
+      "engagement_index": 0.38,
+      "tech_adoption": 0.66
+    }
+  },
+  {
+    "customer_id": 1055,
+    "name": "董楠",
+    "tags": [
+      "高风险偏好",
+      "经纪业务重点",
+      "价值客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "02:17:49",
+        "19:46:43"
+      ],
+      "preferred_channels": [
+        "APP"
+      ],
+      "last_login": "2025-12-01"
+    },
+    "financial_scores": {
+      "risk_tolerance": 8,
+      "engagement_index": 0.41,
+      "tech_adoption": 0.33
+    }
+  },
+  {
+    "customer_id": 1056,
+    "name": "沈淑华",
+    "tags": [
+      "投顾客户",
+      "活跃用户",
+      "价值客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "10:43:42",
+        "16:54:35",
+        "19:42:24"
+      ],
+      "preferred_channels": [
+        "APP"
+      ],
+      "last_login": "2025-12-02"
+    },
+    "financial_scores": {
+      "risk_tolerance": 2,
+      "engagement_index": 0.49,
+      "tech_adoption": 0.39
+    }
+  },
+  {
+    "customer_id": 1057,
+    "name": "贾桂荣",
+    "tags": [
+      "低频操作",
+      "活跃用户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "01:39:37",
+        "01:44:29"
+      ],
+      "preferred_channels": [
+        "微信"
+      ],
+      "last_login": "2025-12-15"
+    },
+    "financial_scores": {
+      "risk_tolerance": 5,
+      "engagement_index": 0.55,
+      "tech_adoption": 0.02
+    }
+  },
+  {
+    "customer_id": 1058,
+    "name": "李雪梅",
+    "tags": [
+      "金融科技偏好",
+      "高风险偏好",
+      "老客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "07:38:08"
+      ],
+      "preferred_channels": [
+        "邮件",
+        "APP"
+      ],
+      "last_login": "2025-12-04"
+    },
+    "financial_scores": {
+      "risk_tolerance": 7,
+      "engagement_index": 0.89,
+      "tech_adoption": 0.74
+    }
+  },
+  {
+    "customer_id": 1059,
+    "name": "周丹丹",
+    "tags": [
+      "投顾客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "02:47:47",
+        "04:50:27",
+        "17:47:40"
+      ],
+      "preferred_channels": [
+        "APP",
+        "电话"
+      ],
+      "last_login": "2025-11-27"
+    },
+    "financial_scores": {
+      "risk_tolerance": 6,
+      "engagement_index": 0.39,
+      "tech_adoption": 0.68
+    }
+  },
+  {
+    "customer_id": 1060,
+    "name": "袁帅",
+    "tags": [
+      "经纪业务重点",
+      "活跃用户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "08:25:06",
+        "10:31:20"
+      ],
+      "preferred_channels": [
+        "微信",
+        "电话"
+      ],
+      "last_login": "2025-12-23"
+    },
+    "financial_scores": {
+      "risk_tolerance": 8,
+      "engagement_index": 0.18,
+      "tech_adoption": 0.84
+    }
+  },
+  {
+    "customer_id": 1061,
+    "name": "赵雪",
+    "tags": [
+      "经纪业务重点"
+    ],
+    "preferences": {
+      "contact_times": [
+        "05:50:12",
+        "19:28:45"
+      ],
+      "preferred_channels": [
+        "邮件",
+        "电话"
+      ],
+      "last_login": "2025-12-18"
+    },
+    "financial_scores": {
+      "risk_tolerance": 10,
+      "engagement_index": 0.1,
+      "tech_adoption": 0.57
+    }
+  },
+  {
+    "customer_id": 1062,
+    "name": "刘坤",
+    "tags": [
+      "活跃用户",
+      "价值客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "13:33:32",
+        "16:32:40",
+        "20:39:52",
+        "23:36:13"
+      ],
+      "preferred_channels": [
+        "APP"
+      ],
+      "last_login": "2025-12-07"
+    },
+    "financial_scores": {
+      "risk_tolerance": 9,
+      "engagement_index": 0.26,
+      "tech_adoption": 0.18
+    }
+  },
+  {
+    "customer_id": 1063,
+    "name": "李博",
+    "tags": [
+      "高风险偏好",
+      "金融科技偏好"
+    ],
+    "preferences": {
+      "contact_times": [
+        "08:05:08",
+        "09:50:56",
+        "13:09:22"
+      ],
+      "preferred_channels": [
+        "邮件",
+        "APP"
+      ],
+      "last_login": "2025-12-10"
+    },
+    "financial_scores": {
+      "risk_tolerance": 7,
+      "engagement_index": 0.0,
+      "tech_adoption": 0.63
+    }
+  },
+  {
+    "customer_id": 1064,
+    "name": "孙宇",
+    "tags": [
+      "金融科技偏好"
+    ],
+    "preferences": {
+      "contact_times": [
+        "03:28:27",
+        "17:27:33",
+        "21:51:25"
+      ],
+      "preferred_channels": [
+        "微信"
+      ],
+      "last_login": "2025-12-12"
+    },
+    "financial_scores": {
+      "risk_tolerance": 6,
+      "engagement_index": 0.27,
+      "tech_adoption": 0.13
+    }
+  },
+  {
+    "customer_id": 1065,
+    "name": "孟帅",
+    "tags": [
+      "经纪业务重点",
+      "老客户",
+      "新客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "09:01:16",
+        "12:39:07",
+        "15:25:58"
+      ],
+      "preferred_channels": [
+        "微信"
+      ],
+      "last_login": "2025-12-09"
+    },
+    "financial_scores": {
+      "risk_tolerance": 1,
+      "engagement_index": 0.58,
+      "tech_adoption": 0.34
+    }
+  },
+  {
+    "customer_id": 1066,
+    "name": "蔡洋",
+    "tags": [
+      "金融科技偏好",
+      "高风险偏好",
+      "活跃用户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "06:00:20",
+        "11:51:31",
+        "14:55:55"
+      ],
+      "preferred_channels": [
+        "邮件",
+        "电话"
+      ],
+      "last_login": "2025-12-15"
+    },
+    "financial_scores": {
+      "risk_tolerance": 9,
+      "engagement_index": 0.02,
+      "tech_adoption": 0.3
+    }
+  },
+  {
+    "customer_id": 1067,
+    "name": "纪静",
+    "tags": [
+      "金融科技偏好",
+      "价值客户",
+      "投顾客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "18:34:17"
+      ],
+      "preferred_channels": [
+        "微信",
+        "邮件"
+      ],
+      "last_login": "2025-12-17"
+    },
+    "financial_scores": {
+      "risk_tolerance": 7,
+      "engagement_index": 0.5,
+      "tech_adoption": 0.05
+    }
+  },
+  {
+    "customer_id": 1068,
+    "name": "赵秀华",
+    "tags": [
+      "活跃用户",
+      "低频操作"
+    ],
+    "preferences": {
+      "contact_times": [
+        "22:35:48"
+      ],
+      "preferred_channels": [
+        "微信",
+        "APP"
+      ],
+      "last_login": "2025-12-10"
+    },
+    "financial_scores": {
+      "risk_tolerance": 5,
+      "engagement_index": 0.26,
+      "tech_adoption": 0.22
+    }
+  },
+  {
+    "customer_id": 1069,
+    "name": "洪飞",
+    "tags": [
+      "低频操作",
+      "老客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "16:10:46",
+        "18:17:21"
+      ],
+      "preferred_channels": [
+        "微信",
+        "电话"
+      ],
+      "last_login": "2025-12-22"
+    },
+    "financial_scores": {
+      "risk_tolerance": 9,
+      "engagement_index": 0.66,
+      "tech_adoption": 0.4
+    }
+  },
+  {
+    "customer_id": 1070,
+    "name": "吴冬梅",
+    "tags": [
+      "金融科技偏好",
+      "低频操作"
+    ],
+    "preferences": {
+      "contact_times": [
+        "01:03:44"
+      ],
+      "preferred_channels": [
+        "邮件"
+      ],
+      "last_login": "2025-12-08"
+    },
+    "financial_scores": {
+      "risk_tolerance": 5,
+      "engagement_index": 0.56,
+      "tech_adoption": 0.91
+    }
+  },
+  {
+    "customer_id": 1071,
+    "name": "纪淑英",
+    "tags": [
+      "高风险偏好",
+      "低频操作",
+      "老客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "03:24:03",
+        "11:59:46"
+      ],
+      "preferred_channels": [
+        "邮件",
+        "电话"
+      ],
+      "last_login": "2025-12-03"
+    },
+    "financial_scores": {
+      "risk_tolerance": 4,
+      "engagement_index": 0.35,
+      "tech_adoption": 0.17
+    }
+  },
+  {
+    "customer_id": 1072,
+    "name": "周桂芝",
+    "tags": [
+      "金融科技偏好",
+      "投顾客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "03:25:53",
+        "05:43:55",
+        "23:22:56"
+      ],
+      "preferred_channels": [
+        "邮件",
+        "微信"
+      ],
+      "last_login": "2025-12-11"
+    },
+    "financial_scores": {
+      "risk_tolerance": 1,
+      "engagement_index": 0.81,
+      "tech_adoption": 0.03
+    }
+  },
+  {
+    "customer_id": 1073,
+    "name": "张红霞",
+    "tags": [
+      "价值客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "02:22:47",
+        "10:43:13",
+        "21:32:19"
+      ],
+      "preferred_channels": [
+        "APP"
+      ],
+      "last_login": "2025-12-21"
+    },
+    "financial_scores": {
+      "risk_tolerance": 7,
+      "engagement_index": 0.16,
+      "tech_adoption": 0.9
+    }
+  },
+  {
+    "customer_id": 1074,
+    "name": "谢飞",
+    "tags": [
+      "低频操作",
+      "金融科技偏好",
+      "高风险偏好"
+    ],
+    "preferences": {
+      "contact_times": [
+        "10:21:06",
+        "16:01:18"
+      ],
+      "preferred_channels": [
+        "微信"
+      ],
+      "last_login": "2025-11-29"
+    },
+    "financial_scores": {
+      "risk_tolerance": 6,
+      "engagement_index": 0.28,
+      "tech_adoption": 0.23
+    }
+  },
+  {
+    "customer_id": 1075,
+    "name": "王荣",
+    "tags": [
+      "老客户",
+      "活跃用户",
+      "新客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "03:39:24",
+        "11:58:25"
+      ],
+      "preferred_channels": [
+        "邮件",
+        "电话"
+      ],
+      "last_login": "2025-12-05"
+    },
+    "financial_scores": {
+      "risk_tolerance": 9,
+      "engagement_index": 0.26,
+      "tech_adoption": 0.59
+    }
+  },
+  {
+    "customer_id": 1076,
+    "name": "王凤兰",
+    "tags": [
+      "低频操作",
+      "老客户",
+      "高风险偏好"
+    ],
+    "preferences": {
+      "contact_times": [
+        "01:13:28",
+        "04:57:58",
+        "18:43:32"
+      ],
+      "preferred_channels": [
+        "微信"
+      ],
+      "last_login": "2025-12-21"
+    },
+    "financial_scores": {
+      "risk_tolerance": 3,
+      "engagement_index": 0.5,
+      "tech_adoption": 0.43
+    }
+  },
+  {
+    "customer_id": 1077,
+    "name": "龚波",
+    "tags": [
+      "价值客户",
+      "金融科技偏好"
+    ],
+    "preferences": {
+      "contact_times": [
+        "04:13:15",
+        "11:30:32"
+      ],
+      "preferred_channels": [
+        "电话"
+      ],
+      "last_login": "2025-12-11"
+    },
+    "financial_scores": {
+      "risk_tolerance": 4,
+      "engagement_index": 0.79,
+      "tech_adoption": 0.58
+    }
+  },
+  {
+    "customer_id": 1078,
+    "name": "袁静",
+    "tags": [
+      "新客户",
+      "经纪业务重点",
+      "价值客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "14:42:13",
+        "21:42:55"
+      ],
+      "preferred_channels": [
+        "电话"
+      ],
+      "last_login": "2025-12-02"
+    },
+    "financial_scores": {
+      "risk_tolerance": 1,
+      "engagement_index": 0.56,
+      "tech_adoption": 0.68
+    }
+  },
+  {
+    "customer_id": 1079,
+    "name": "李艳",
+    "tags": [
+      "金融科技偏好",
+      "老客户",
+      "活跃用户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "02:42:58",
+        "10:47:04",
+        "11:57:36",
+        "16:39:16"
+      ],
+      "preferred_channels": [
+        "邮件"
+      ],
+      "last_login": "2025-12-19"
+    },
+    "financial_scores": {
+      "risk_tolerance": 1,
+      "engagement_index": 0.03,
+      "tech_adoption": 0.51
+    }
+  },
+  {
+    "customer_id": 1080,
+    "name": "冯婷婷",
+    "tags": [
+      "经纪业务重点",
+      "新客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "05:05:42",
+        "06:49:44",
+        "07:18:56"
+      ],
+      "preferred_channels": [
+        "APP",
+        "微信"
+      ],
+      "last_login": "2025-11-28"
+    },
+    "financial_scores": {
+      "risk_tolerance": 3,
+      "engagement_index": 0.68,
+      "tech_adoption": 0.26
+    }
+  },
+  {
+    "customer_id": 1081,
+    "name": "成文",
+    "tags": [
+      "高风险偏好",
+      "活跃用户",
+      "低频操作"
+    ],
+    "preferences": {
+      "contact_times": [
+        "02:44:51",
+        "02:54:47"
+      ],
+      "preferred_channels": [
+        "电话",
+        "微信"
+      ],
+      "last_login": "2025-11-29"
+    },
+    "financial_scores": {
+      "risk_tolerance": 2,
+      "engagement_index": 0.01,
+      "tech_adoption": 0.99
+    }
+  },
+  {
+    "customer_id": 1082,
+    "name": "刘桂珍",
+    "tags": [
+      "老客户",
+      "经纪业务重点"
+    ],
+    "preferences": {
+      "contact_times": [
+        "00:56:51",
+        "03:05:45",
+        "07:01:35",
+        "15:35:02"
+      ],
+      "preferred_channels": [
+        "电话",
+        "邮件"
+      ],
+      "last_login": "2025-11-29"
+    },
+    "financial_scores": {
+      "risk_tolerance": 6,
+      "engagement_index": 0.39,
+      "tech_adoption": 0.41
+    }
+  },
+  {
+    "customer_id": 1083,
+    "name": "袁梅",
+    "tags": [
+      "金融科技偏好"
+    ],
+    "preferences": {
+      "contact_times": [
+        "01:11:42",
+        "05:28:16",
+        "14:18:04",
+        "21:40:06"
+      ],
+      "preferred_channels": [
+        "APP",
+        "邮件"
+      ],
+      "last_login": "2025-11-26"
+    },
+    "financial_scores": {
+      "risk_tolerance": 6,
+      "engagement_index": 0.57,
+      "tech_adoption": 0.19
+    }
+  },
+  {
+    "customer_id": 1084,
+    "name": "陈斌",
+    "tags": [
+      "金融科技偏好",
+      "活跃用户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "02:18:58",
+        "19:44:48"
+      ],
+      "preferred_channels": [
+        "APP"
+      ],
+      "last_login": "2025-11-28"
+    },
+    "financial_scores": {
+      "risk_tolerance": 2,
+      "engagement_index": 0.4,
+      "tech_adoption": 0.36
+    }
+  },
+  {
+    "customer_id": 1085,
+    "name": "孙帅",
+    "tags": [
+      "金融科技偏好",
+      "低频操作",
+      "价值客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "02:24:48",
+        "11:09:32",
+        "15:37:54"
+      ],
+      "preferred_channels": [
+        "电话",
+        "邮件"
+      ],
+      "last_login": "2025-12-01"
+    },
+    "financial_scores": {
+      "risk_tolerance": 9,
+      "engagement_index": 0.38,
+      "tech_adoption": 0.24
+    }
+  },
+  {
+    "customer_id": 1086,
+    "name": "何璐",
+    "tags": [
+      "新客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "12:08:53",
+        "13:17:09",
+        "16:23:15"
+      ],
+      "preferred_channels": [
+        "邮件",
+        "微信"
+      ],
+      "last_login": "2025-12-15"
+    },
+    "financial_scores": {
+      "risk_tolerance": 3,
+      "engagement_index": 0.27,
+      "tech_adoption": 0.25
+    }
+  },
+  {
+    "customer_id": 1087,
+    "name": "李倩",
+    "tags": [
+      "价值客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "10:08:37",
+        "19:38:59"
+      ],
+      "preferred_channels": [
+        "邮件"
+      ],
+      "last_login": "2025-12-14"
+    },
+    "financial_scores": {
+      "risk_tolerance": 5,
+      "engagement_index": 0.07,
+      "tech_adoption": 0.69
+    }
+  },
+  {
+    "customer_id": 1088,
+    "name": "康洁",
+    "tags": [
+      "新客户",
+      "低频操作"
+    ],
+    "preferences": {
+      "contact_times": [
+        "01:29:36",
+        "05:08:34",
+        "06:19:41",
+        "06:43:02"
+      ],
+      "preferred_channels": [
+        "电话",
+        "邮件"
+      ],
+      "last_login": "2025-12-09"
+    },
+    "financial_scores": {
+      "risk_tolerance": 5,
+      "engagement_index": 0.18,
+      "tech_adoption": 0.39
+    }
+  },
+  {
+    "customer_id": 1089,
+    "name": "张莉",
+    "tags": [
+      "经纪业务重点",
+      "老客户",
+      "高风险偏好"
+    ],
+    "preferences": {
+      "contact_times": [
+        "03:44:29",
+        "08:32:59",
+        "21:08:58"
+      ],
+      "preferred_channels": [
+        "微信",
+        "电话"
+      ],
+      "last_login": "2025-11-27"
+    },
+    "financial_scores": {
+      "risk_tolerance": 8,
+      "engagement_index": 0.86,
+      "tech_adoption": 0.28
+    }
+  },
+  {
+    "customer_id": 1090,
+    "name": "董梅",
+    "tags": [
+      "价值客户",
+      "高风险偏好",
+      "金融科技偏好"
+    ],
+    "preferences": {
+      "contact_times": [
+        "08:59:27",
+        "10:25:58",
+        "11:59:37",
+        "19:57:43"
+      ],
+      "preferred_channels": [
+        "电话"
+      ],
+      "last_login": "2025-11-28"
+    },
+    "financial_scores": {
+      "risk_tolerance": 3,
+      "engagement_index": 0.64,
+      "tech_adoption": 0.77
+    }
+  },
+  {
+    "customer_id": 1091,
+    "name": "冉亮",
+    "tags": [
+      "经纪业务重点"
+    ],
+    "preferences": {
+      "contact_times": [
+        "01:57:52",
+        "03:15:05",
+        "10:18:37",
+        "12:21:06"
+      ],
+      "preferred_channels": [
+        "邮件",
+        "电话"
+      ],
+      "last_login": "2025-12-10"
+    },
+    "financial_scores": {
+      "risk_tolerance": 5,
+      "engagement_index": 0.84,
+      "tech_adoption": 0.06
+    }
+  },
+  {
+    "customer_id": 1092,
+    "name": "李宁",
+    "tags": [
+      "新客户",
+      "经纪业务重点"
+    ],
+    "preferences": {
+      "contact_times": [
+        "16:53:40"
+      ],
+      "preferred_channels": [
+        "APP",
+        "邮件"
+      ],
+      "last_login": "2025-12-10"
+    },
+    "financial_scores": {
+      "risk_tolerance": 10,
+      "engagement_index": 0.51,
+      "tech_adoption": 0.89
+    }
+  },
+  {
+    "customer_id": 1093,
+    "name": "陈利",
+    "tags": [
+      "金融科技偏好"
+    ],
+    "preferences": {
+      "contact_times": [
+        "06:58:47",
+        "17:09:40"
+      ],
+      "preferred_channels": [
+        "APP"
+      ],
+      "last_login": "2025-12-01"
+    },
+    "financial_scores": {
+      "risk_tolerance": 8,
+      "engagement_index": 0.56,
+      "tech_adoption": 0.99
+    }
+  },
+  {
+    "customer_id": 1094,
+    "name": "张燕",
+    "tags": [
+      "经纪业务重点",
+      "价值客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "15:36:19"
+      ],
+      "preferred_channels": [
+        "APP",
+        "邮件"
+      ],
+      "last_login": "2025-12-20"
+    },
+    "financial_scores": {
+      "risk_tolerance": 7,
+      "engagement_index": 0.89,
+      "tech_adoption": 0.63
+    }
+  },
+  {
+    "customer_id": 1095,
+    "name": "刘鹏",
+    "tags": [
+      "新客户",
+      "低频操作"
+    ],
+    "preferences": {
+      "contact_times": [
+        "08:30:20",
+        "10:20:39",
+        "22:43:32"
+      ],
+      "preferred_channels": [
+        "邮件",
+        "电话"
+      ],
+      "last_login": "2025-11-26"
+    },
+    "financial_scores": {
+      "risk_tolerance": 8,
+      "engagement_index": 0.99,
+      "tech_adoption": 0.19
+    }
+  },
+  {
+    "customer_id": 1096,
+    "name": "曾丹",
+    "tags": [
+      "经纪业务重点",
+      "老客户",
+      "价值客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "04:15:03",
+        "17:24:10"
+      ],
+      "preferred_channels": [
+        "电话",
+        "APP"
+      ],
+      "last_login": "2025-12-10"
+    },
+    "financial_scores": {
+      "risk_tolerance": 10,
+      "engagement_index": 0.82,
+      "tech_adoption": 0.79
+    }
+  },
+  {
+    "customer_id": 1097,
+    "name": "王建华",
+    "tags": [
+      "经纪业务重点",
+      "新客户",
+      "高风险偏好"
+    ],
+    "preferences": {
+      "contact_times": [
+        "08:27:53",
+        "15:28:16"
+      ],
+      "preferred_channels": [
+        "邮件"
+      ],
+      "last_login": "2025-11-28"
+    },
+    "financial_scores": {
+      "risk_tolerance": 5,
+      "engagement_index": 0.46,
+      "tech_adoption": 0.98
+    }
+  },
+  {
+    "customer_id": 1098,
+    "name": "张玉",
+    "tags": [
+      "新客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "01:44:09",
+        "19:11:51"
+      ],
+      "preferred_channels": [
+        "电话"
+      ],
+      "last_login": "2025-11-27"
+    },
+    "financial_scores": {
+      "risk_tolerance": 2,
+      "engagement_index": 0.35,
+      "tech_adoption": 0.58
+    }
+  },
+  {
+    "customer_id": 1099,
+    "name": "郑龙",
+    "tags": [
+      "价值客户",
+      "金融科技偏好"
+    ],
+    "preferences": {
+      "contact_times": [
+        "16:56:00"
+      ],
+      "preferred_channels": [
+        "APP"
+      ],
+      "last_login": "2025-12-11"
+    },
+    "financial_scores": {
+      "risk_tolerance": 4,
+      "engagement_index": 0.1,
+      "tech_adoption": 0.59
+    }
+  },
+  {
+    "customer_id": 1100,
+    "name": "管建国",
+    "tags": [
+      "价值客户",
+      "经纪业务重点",
+      "高风险偏好"
+    ],
+    "preferences": {
+      "contact_times": [
+        "10:08:18"
+      ],
+      "preferred_channels": [
+        "电话",
+        "APP"
+      ],
+      "last_login": "2025-12-09"
+    },
+    "financial_scores": {
+      "risk_tolerance": 3,
+      "engagement_index": 0.82,
+      "tech_adoption": 0.25
+    }
+  },
+  {
+    "customer_id": 1101,
+    "name": "黎峰",
+    "tags": [
+      "低频操作",
+      "经纪业务重点",
+      "投顾客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "00:34:54",
+        "00:46:28",
+        "18:45:01"
+      ],
+      "preferred_channels": [
+        "邮件"
+      ],
+      "last_login": "2025-12-07"
+    },
+    "financial_scores": {
+      "risk_tolerance": 10,
+      "engagement_index": 0.94,
+      "tech_adoption": 0.55
+    }
+  },
+  {
+    "customer_id": 1102,
+    "name": "李秀珍",
+    "tags": [
+      "老客户",
+      "投顾客户",
+      "活跃用户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "10:04:20",
+        "10:53:16",
+        "12:07:11",
+        "22:29:32"
+      ],
+      "preferred_channels": [
+        "微信"
+      ],
+      "last_login": "2025-12-05"
+    },
+    "financial_scores": {
+      "risk_tolerance": 3,
+      "engagement_index": 0.53,
+      "tech_adoption": 0.81
+    }
+  },
+  {
+    "customer_id": 1103,
+    "name": "倪刚",
+    "tags": [
+      "新客户",
+      "活跃用户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "00:14:26",
+        "08:09:49",
+        "11:14:05",
+        "23:03:45"
+      ],
+      "preferred_channels": [
+        "邮件",
+        "APP"
+      ],
+      "last_login": "2025-12-04"
+    },
+    "financial_scores": {
+      "risk_tolerance": 6,
+      "engagement_index": 0.69,
+      "tech_adoption": 0.48
+    }
+  },
+  {
+    "customer_id": 1104,
+    "name": "张艳",
+    "tags": [
+      "低频操作",
+      "金融科技偏好"
+    ],
+    "preferences": {
+      "contact_times": [
+        "04:12:51",
+        "15:44:29"
+      ],
+      "preferred_channels": [
+        "APP"
+      ],
+      "last_login": "2025-12-22"
+    },
+    "financial_scores": {
+      "risk_tolerance": 3,
+      "engagement_index": 0.6,
+      "tech_adoption": 0.95
+    }
+  },
+  {
+    "customer_id": 1105,
+    "name": "黄桂荣",
+    "tags": [
+      "金融科技偏好"
+    ],
+    "preferences": {
+      "contact_times": [
+        "04:30:34",
+        "06:41:24",
+        "20:40:32"
+      ],
+      "preferred_channels": [
+        "APP"
+      ],
+      "last_login": "2025-12-06"
+    },
+    "financial_scores": {
+      "risk_tolerance": 8,
+      "engagement_index": 0.21,
+      "tech_adoption": 0.59
+    }
+  },
+  {
+    "customer_id": 1106,
+    "name": "柯静",
+    "tags": [
+      "老客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "07:41:25",
+        "08:40:59",
+        "15:40:03",
+        "21:20:27"
+      ],
+      "preferred_channels": [
+        "邮件",
+        "APP"
+      ],
+      "last_login": "2025-12-06"
+    },
+    "financial_scores": {
+      "risk_tolerance": 10,
+      "engagement_index": 0.12,
+      "tech_adoption": 0.35
+    }
+  },
+  {
+    "customer_id": 1107,
+    "name": "甄东",
+    "tags": [
+      "投顾客户",
+      "经纪业务重点"
+    ],
+    "preferences": {
+      "contact_times": [
+        "06:27:06"
+      ],
+      "preferred_channels": [
+        "电话"
+      ],
+      "last_login": "2025-12-05"
+    },
+    "financial_scores": {
+      "risk_tolerance": 5,
+      "engagement_index": 0.64,
+      "tech_adoption": 0.98
+    }
+  },
+  {
+    "customer_id": 1108,
+    "name": "王颖",
+    "tags": [
+      "老客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "01:25:21",
+        "07:50:35",
+        "12:56:18",
+        "13:41:50"
+      ],
+      "preferred_channels": [
+        "邮件"
+      ],
+      "last_login": "2025-12-13"
+    },
+    "financial_scores": {
+      "risk_tolerance": 6,
+      "engagement_index": 0.93,
+      "tech_adoption": 0.94
+    }
+  },
+  {
+    "customer_id": 1109,
+    "name": "邹艳",
+    "tags": [
+      "经纪业务重点"
+    ],
+    "preferences": {
+      "contact_times": [
+        "08:53:45",
+        "14:47:18",
+        "17:00:18"
+      ],
+      "preferred_channels": [
+        "APP"
+      ],
+      "last_login": "2025-11-29"
+    },
+    "financial_scores": {
+      "risk_tolerance": 10,
+      "engagement_index": 0.52,
+      "tech_adoption": 0.12
+    }
+  },
+  {
+    "customer_id": 1110,
+    "name": "张宁",
+    "tags": [
+      "活跃用户",
+      "老客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "00:34:51",
+        "21:16:34",
+        "23:04:50"
+      ],
+      "preferred_channels": [
+        "APP",
+        "微信"
+      ],
+      "last_login": "2025-11-30"
+    },
+    "financial_scores": {
+      "risk_tolerance": 9,
+      "engagement_index": 0.8,
+      "tech_adoption": 0.53
+    }
+  },
+  {
+    "customer_id": 1111,
+    "name": "汤桂香",
+    "tags": [
+      "活跃用户",
+      "老客户",
+      "新客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "00:23:12",
+        "10:14:24",
+        "14:19:47",
+        "20:29:36"
+      ],
+      "preferred_channels": [
+        "邮件"
+      ],
+      "last_login": "2025-12-10"
+    },
+    "financial_scores": {
+      "risk_tolerance": 10,
+      "engagement_index": 0.09,
+      "tech_adoption": 0.97
+    }
+  },
+  {
+    "customer_id": 1112,
+    "name": "张桂芳",
+    "tags": [
+      "活跃用户",
+      "新客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "02:06:01",
+        "16:40:04",
+        "16:41:06",
+        "17:04:43"
+      ],
+      "preferred_channels": [
+        "APP",
+        "微信"
+      ],
+      "last_login": "2025-12-02"
+    },
+    "financial_scores": {
+      "risk_tolerance": 1,
+      "engagement_index": 0.51,
+      "tech_adoption": 0.54
+    }
+  },
+  {
+    "customer_id": 1113,
+    "name": "陈娜",
+    "tags": [
+      "金融科技偏好"
+    ],
+    "preferences": {
+      "contact_times": [
+        "14:19:43"
+      ],
+      "preferred_channels": [
+        "电话",
+        "邮件"
+      ],
+      "last_login": "2025-12-15"
+    },
+    "financial_scores": {
+      "risk_tolerance": 7,
+      "engagement_index": 0.27,
+      "tech_adoption": 0.77
+    }
+  },
+  {
+    "customer_id": 1114,
+    "name": "王想",
+    "tags": [
+      "活跃用户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "06:11:46",
+        "20:29:57",
+        "22:18:36"
+      ],
+      "preferred_channels": [
+        "邮件",
+        "微信"
+      ],
+      "last_login": "2025-12-16"
+    },
+    "financial_scores": {
+      "risk_tolerance": 7,
+      "engagement_index": 0.16,
+      "tech_adoption": 0.23
+    }
+  },
+  {
+    "customer_id": 1115,
+    "name": "杨波",
+    "tags": [
+      "低频操作"
+    ],
+    "preferences": {
+      "contact_times": [
+        "13:48:20",
+        "21:34:37"
+      ],
+      "preferred_channels": [
+        "微信"
+      ],
+      "last_login": "2025-11-30"
+    },
+    "financial_scores": {
+      "risk_tolerance": 5,
+      "engagement_index": 0.11,
+      "tech_adoption": 0.04
+    }
+  },
+  {
+    "customer_id": 1116,
+    "name": "黄凤兰",
+    "tags": [
+      "高风险偏好",
+      "投顾客户",
+      "新客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "23:12:28"
+      ],
+      "preferred_channels": [
+        "APP",
+        "微信"
+      ],
+      "last_login": "2025-11-25"
+    },
+    "financial_scores": {
+      "risk_tolerance": 5,
+      "engagement_index": 0.06,
+      "tech_adoption": 0.22
+    }
+  },
+  {
+    "customer_id": 1117,
+    "name": "余玉英",
+    "tags": [
+      "金融科技偏好",
+      "老客户",
+      "价值客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "06:02:43",
+        "12:06:16",
+        "14:52:20"
+      ],
+      "preferred_channels": [
+        "邮件"
+      ],
+      "last_login": "2025-12-16"
+    },
+    "financial_scores": {
+      "risk_tolerance": 2,
+      "engagement_index": 0.86,
+      "tech_adoption": 0.25
+    }
+  },
+  {
+    "customer_id": 1118,
+    "name": "李秀兰",
+    "tags": [
+      "经纪业务重点"
+    ],
+    "preferences": {
+      "contact_times": [
+        "09:02:59",
+        "20:21:20"
+      ],
+      "preferred_channels": [
+        "邮件"
+      ],
+      "last_login": "2025-11-30"
+    },
+    "financial_scores": {
+      "risk_tolerance": 3,
+      "engagement_index": 0.57,
+      "tech_adoption": 0.5
+    }
+  },
+  {
+    "customer_id": 1119,
+    "name": "谢燕",
+    "tags": [
+      "经纪业务重点",
+      "新客户",
+      "低频操作"
+    ],
+    "preferences": {
+      "contact_times": [
+        "01:45:15",
+        "02:37:29",
+        "08:59:23",
+        "19:38:26"
+      ],
+      "preferred_channels": [
+        "电话"
+      ],
+      "last_login": "2025-12-18"
+    },
+    "financial_scores": {
+      "risk_tolerance": 5,
+      "engagement_index": 0.81,
+      "tech_adoption": 0.44
+    }
+  },
+  {
+    "customer_id": 1120,
+    "name": "李淑兰",
+    "tags": [
+      "高风险偏好"
+    ],
+    "preferences": {
+      "contact_times": [
+        "05:15:36",
+        "09:48:28",
+        "19:20:31",
+        "20:15:47"
+      ],
+      "preferred_channels": [
+        "邮件"
+      ],
+      "last_login": "2025-12-03"
+    },
+    "financial_scores": {
+      "risk_tolerance": 9,
+      "engagement_index": 0.57,
+      "tech_adoption": 0.43
+    }
+  },
+  {
+    "customer_id": 1121,
+    "name": "姚玉梅",
+    "tags": [
+      "老客户",
+      "价值客户",
+      "活跃用户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "03:35:09",
+        "12:16:54",
+        "22:01:44",
+        "23:22:12"
+      ],
+      "preferred_channels": [
+        "电话"
+      ],
+      "last_login": "2025-12-03"
+    },
+    "financial_scores": {
+      "risk_tolerance": 9,
+      "engagement_index": 0.59,
+      "tech_adoption": 0.64
+    }
+  },
+  {
+    "customer_id": 1122,
+    "name": "许凤兰",
+    "tags": [
+      "投顾客户",
+      "活跃用户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "08:37:55"
+      ],
+      "preferred_channels": [
+        "微信"
+      ],
+      "last_login": "2025-12-22"
+    },
+    "financial_scores": {
+      "risk_tolerance": 4,
+      "engagement_index": 0.83,
+      "tech_adoption": 0.29
+    }
+  },
+  {
+    "customer_id": 1123,
+    "name": "吴坤",
+    "tags": [
+      "金融科技偏好",
+      "价值客户",
+      "低频操作"
+    ],
+    "preferences": {
+      "contact_times": [
+        "09:55:12",
+        "21:59:23"
+      ],
+      "preferred_channels": [
+        "电话"
+      ],
+      "last_login": "2025-12-12"
+    },
+    "financial_scores": {
+      "risk_tolerance": 6,
+      "engagement_index": 0.03,
+      "tech_adoption": 1.0
+    }
+  },
+  {
+    "customer_id": 1124,
+    "name": "王淑兰",
+    "tags": [
+      "金融科技偏好"
+    ],
+    "preferences": {
+      "contact_times": [
+        "16:22:05"
+      ],
+      "preferred_channels": [
+        "电话",
+        "APP"
+      ],
+      "last_login": "2025-12-08"
+    },
+    "financial_scores": {
+      "risk_tolerance": 3,
+      "engagement_index": 0.54,
+      "tech_adoption": 0.72
+    }
+  },
+  {
+    "customer_id": 1125,
+    "name": "郭岩",
+    "tags": [
+      "金融科技偏好",
+      "经纪业务重点",
+      "老客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "18:17:41"
+      ],
+      "preferred_channels": [
+        "邮件"
+      ],
+      "last_login": "2025-12-22"
+    },
+    "financial_scores": {
+      "risk_tolerance": 10,
+      "engagement_index": 0.75,
+      "tech_adoption": 0.56
+    }
+  },
+  {
+    "customer_id": 1126,
+    "name": "周玉英",
+    "tags": [
+      "老客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "11:42:03",
+        "19:35:25"
+      ],
+      "preferred_channels": [
+        "电话"
+      ],
+      "last_login": "2025-12-03"
+    },
+    "financial_scores": {
+      "risk_tolerance": 8,
+      "engagement_index": 0.02,
+      "tech_adoption": 0.27
+    }
+  },
+  {
+    "customer_id": 1127,
+    "name": "田佳",
+    "tags": [
+      "活跃用户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "07:24:41"
+      ],
+      "preferred_channels": [
+        "APP",
+        "微信"
+      ],
+      "last_login": "2025-11-28"
+    },
+    "financial_scores": {
+      "risk_tolerance": 9,
+      "engagement_index": 0.29,
+      "tech_adoption": 0.36
+    }
+  },
+  {
+    "customer_id": 1128,
+    "name": "林桂荣",
+    "tags": [
+      "低频操作",
+      "高风险偏好"
+    ],
+    "preferences": {
+      "contact_times": [
+        "00:53:00",
+        "05:27:28",
+        "17:16:27",
+        "21:37:13"
+      ],
+      "preferred_channels": [
+        "电话",
+        "微信"
+      ],
+      "last_login": "2025-12-03"
+    },
+    "financial_scores": {
+      "risk_tolerance": 4,
+      "engagement_index": 0.61,
+      "tech_adoption": 0.71
+    }
+  },
+  {
+    "customer_id": 1129,
+    "name": "赵英",
+    "tags": [
+      "投顾客户",
+      "价值客户",
+      "高风险偏好"
+    ],
+    "preferences": {
+      "contact_times": [
+        "03:52:21",
+        "08:17:10"
+      ],
+      "preferred_channels": [
+        "电话"
+      ],
+      "last_login": "2025-12-21"
+    },
+    "financial_scores": {
+      "risk_tolerance": 1,
+      "engagement_index": 0.6,
+      "tech_adoption": 0.68
+    }
+  },
+  {
+    "customer_id": 1130,
+    "name": "张春梅",
+    "tags": [
+      "经纪业务重点",
+      "投顾客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "16:06:20",
+        "17:25:24"
+      ],
+      "preferred_channels": [
+        "电话",
+        "邮件"
+      ],
+      "last_login": "2025-12-10"
+    },
+    "financial_scores": {
+      "risk_tolerance": 1,
+      "engagement_index": 0.13,
+      "tech_adoption": 0.61
+    }
+  },
+  {
+    "customer_id": 1131,
+    "name": "冯莉",
+    "tags": [
+      "活跃用户",
+      "新客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "11:44:05",
+        "13:32:25",
+        "16:53:44"
+      ],
+      "preferred_channels": [
+        "APP",
+        "邮件"
+      ],
+      "last_login": "2025-12-13"
+    },
+    "financial_scores": {
+      "risk_tolerance": 2,
+      "engagement_index": 0.85,
+      "tech_adoption": 0.09
+    }
+  },
+  {
+    "customer_id": 1132,
+    "name": "高伟",
+    "tags": [
+      "高风险偏好",
+      "活跃用户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "03:14:05"
+      ],
+      "preferred_channels": [
+        "APP",
+        "邮件"
+      ],
+      "last_login": "2025-12-19"
+    },
+    "financial_scores": {
+      "risk_tolerance": 9,
+      "engagement_index": 0.03,
+      "tech_adoption": 0.26
+    }
+  },
+  {
+    "customer_id": 1133,
+    "name": "陈雪梅",
+    "tags": [
+      "老客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "02:16:15",
+        "13:10:28",
+        "15:34:42"
+      ],
+      "preferred_channels": [
+        "邮件",
+        "微信"
+      ],
+      "last_login": "2025-12-02"
+    },
+    "financial_scores": {
+      "risk_tolerance": 5,
+      "engagement_index": 0.57,
+      "tech_adoption": 0.46
+    }
+  },
+  {
+    "customer_id": 1134,
+    "name": "孙玉",
+    "tags": [
+      "新客户",
+      "投顾客户",
+      "经纪业务重点"
+    ],
+    "preferences": {
+      "contact_times": [
+        "02:45:46",
+        "07:52:14",
+        "12:57:50"
+      ],
+      "preferred_channels": [
+        "微信"
+      ],
+      "last_login": "2025-11-29"
+    },
+    "financial_scores": {
+      "risk_tolerance": 10,
+      "engagement_index": 0.88,
+      "tech_adoption": 0.3
+    }
+  },
+  {
+    "customer_id": 1135,
+    "name": "林兵",
+    "tags": [
+      "金融科技偏好",
+      "活跃用户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "21:25:21"
+      ],
+      "preferred_channels": [
+        "电话",
+        "微信"
+      ],
+      "last_login": "2025-12-15"
+    },
+    "financial_scores": {
+      "risk_tolerance": 8,
+      "engagement_index": 0.13,
+      "tech_adoption": 0.75
+    }
+  },
+  {
+    "customer_id": 1136,
+    "name": "陈颖",
+    "tags": [
+      "金融科技偏好"
+    ],
+    "preferences": {
+      "contact_times": [
+        "10:31:30"
+      ],
+      "preferred_channels": [
+        "APP"
+      ],
+      "last_login": "2025-12-08"
+    },
+    "financial_scores": {
+      "risk_tolerance": 6,
+      "engagement_index": 0.28,
+      "tech_adoption": 0.11
+    }
+  },
+  {
+    "customer_id": 1137,
+    "name": "江静",
+    "tags": [
+      "经纪业务重点"
+    ],
+    "preferences": {
+      "contact_times": [
+        "12:25:50",
+        "12:53:33",
+        "13:04:53",
+        "21:31:02"
+      ],
+      "preferred_channels": [
+        "APP",
+        "邮件"
+      ],
+      "last_login": "2025-12-22"
+    },
+    "financial_scores": {
+      "risk_tolerance": 6,
+      "engagement_index": 0.06,
+      "tech_adoption": 0.48
+    }
+  },
+  {
+    "customer_id": 1138,
+    "name": "刘岩",
+    "tags": [
+      "价值客户",
+      "金融科技偏好"
+    ],
+    "preferences": {
+      "contact_times": [
+        "13:46:55",
+        "16:26:37",
+        "22:48:45"
+      ],
+      "preferred_channels": [
+        "邮件"
+      ],
+      "last_login": "2025-12-08"
+    },
+    "financial_scores": {
+      "risk_tolerance": 4,
+      "engagement_index": 0.08,
+      "tech_adoption": 0.34
+    }
+  },
+  {
+    "customer_id": 1139,
+    "name": "王丽",
+    "tags": [
+      "投顾客户",
+      "新客户",
+      "活跃用户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "03:20:15",
+        "13:00:47",
+        "18:58:00",
+        "23:21:18"
+      ],
+      "preferred_channels": [
+        "APP",
+        "邮件"
+      ],
+      "last_login": "2025-12-10"
+    },
+    "financial_scores": {
+      "risk_tolerance": 6,
+      "engagement_index": 0.86,
+      "tech_adoption": 0.32
+    }
+  },
+  {
+    "customer_id": 1140,
+    "name": "邓斌",
+    "tags": [
+      "金融科技偏好",
+      "高风险偏好",
+      "经纪业务重点"
+    ],
+    "preferences": {
+      "contact_times": [
+        "03:12:39",
+        "04:24:58",
+        "09:48:56",
+        "12:54:15"
+      ],
+      "preferred_channels": [
+        "APP"
+      ],
+      "last_login": "2025-12-01"
+    },
+    "financial_scores": {
+      "risk_tolerance": 7,
+      "engagement_index": 0.68,
+      "tech_adoption": 0.24
+    }
+  },
+  {
+    "customer_id": 1141,
+    "name": "赵想",
+    "tags": [
+      "经纪业务重点",
+      "金融科技偏好"
+    ],
+    "preferences": {
+      "contact_times": [
+        "05:07:44"
+      ],
+      "preferred_channels": [
+        "电话",
+        "邮件"
+      ],
+      "last_login": "2025-12-08"
+    },
+    "financial_scores": {
+      "risk_tolerance": 3,
+      "engagement_index": 0.32,
+      "tech_adoption": 0.78
+    }
+  },
+  {
+    "customer_id": 1142,
+    "name": "胡丽",
+    "tags": [
+      "投顾客户",
+      "老客户",
+      "低频操作"
+    ],
+    "preferences": {
+      "contact_times": [
+        "04:13:23"
+      ],
+      "preferred_channels": [
+        "邮件",
+        "电话"
+      ],
+      "last_login": "2025-12-23"
+    },
+    "financial_scores": {
+      "risk_tolerance": 5,
+      "engagement_index": 0.62,
+      "tech_adoption": 0.52
+    }
+  },
+  {
+    "customer_id": 1143,
+    "name": "潘强",
+    "tags": [
+      "经纪业务重点",
+      "金融科技偏好",
+      "低频操作"
+    ],
+    "preferences": {
+      "contact_times": [
+        "08:29:29",
+        "10:00:08"
+      ],
+      "preferred_channels": [
+        "微信"
+      ],
+      "last_login": "2025-12-21"
+    },
+    "financial_scores": {
+      "risk_tolerance": 1,
+      "engagement_index": 0.54,
+      "tech_adoption": 0.19
+    }
+  },
+  {
+    "customer_id": 1144,
+    "name": "石建平",
+    "tags": [
+      "投顾客户",
+      "经纪业务重点"
+    ],
+    "preferences": {
+      "contact_times": [
+        "08:25:13",
+        "13:16:49"
+      ],
+      "preferred_channels": [
+        "APP",
+        "微信"
+      ],
+      "last_login": "2025-12-10"
+    },
+    "financial_scores": {
+      "risk_tolerance": 9,
+      "engagement_index": 0.79,
+      "tech_adoption": 0.45
+    }
+  },
+  {
+    "customer_id": 1145,
+    "name": "邹丽华",
+    "tags": [
+      "投顾客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "05:48:42"
+      ],
+      "preferred_channels": [
+        "邮件",
+        "APP"
+      ],
+      "last_login": "2025-11-28"
+    },
+    "financial_scores": {
+      "risk_tolerance": 9,
+      "engagement_index": 0.52,
+      "tech_adoption": 0.81
+    }
+  },
+  {
+    "customer_id": 1146,
+    "name": "罗佳",
+    "tags": [
+      "价值客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "08:16:10",
+        "08:54:24",
+        "20:56:01"
+      ],
+      "preferred_channels": [
+        "APP"
+      ],
+      "last_login": "2025-12-06"
+    },
+    "financial_scores": {
+      "risk_tolerance": 1,
+      "engagement_index": 0.09,
+      "tech_adoption": 0.74
+    }
+  },
+  {
+    "customer_id": 1147,
+    "name": "李丽华",
+    "tags": [
+      "老客户",
+      "金融科技偏好"
+    ],
+    "preferences": {
+      "contact_times": [
+        "06:04:40",
+        "07:51:39",
+        "12:47:21"
+      ],
+      "preferred_channels": [
+        "邮件",
+        "APP"
+      ],
+      "last_login": "2025-12-19"
+    },
+    "financial_scores": {
+      "risk_tolerance": 9,
+      "engagement_index": 0.02,
+      "tech_adoption": 0.65
+    }
+  },
+  {
+    "customer_id": 1148,
+    "name": "房玉",
+    "tags": [
+      "低频操作"
+    ],
+    "preferences": {
+      "contact_times": [
+        "07:51:19",
+        "21:07:50"
+      ],
+      "preferred_channels": [
+        "邮件",
+        "电话"
+      ],
+      "last_login": "2025-12-14"
+    },
+    "financial_scores": {
+      "risk_tolerance": 1,
+      "engagement_index": 0.87,
+      "tech_adoption": 0.36
+    }
+  },
+  {
+    "customer_id": 1149,
+    "name": "雷秀芳",
+    "tags": [
+      "投顾客户",
+      "金融科技偏好"
+    ],
+    "preferences": {
+      "contact_times": [
+        "09:16:38",
+        "12:51:44",
+        "13:00:53"
+      ],
+      "preferred_channels": [
+        "邮件"
+      ],
+      "last_login": "2025-12-13"
+    },
+    "financial_scores": {
+      "risk_tolerance": 8,
+      "engagement_index": 0.08,
+      "tech_adoption": 0.66
+    }
+  },
+  {
+    "customer_id": 1150,
+    "name": "钟淑华",
+    "tags": [
+      "经纪业务重点",
+      "低频操作"
+    ],
+    "preferences": {
+      "contact_times": [
+        "18:14:08",
+        "21:02:34"
+      ],
+      "preferred_channels": [
+        "APP"
+      ],
+      "last_login": "2025-12-17"
+    },
+    "financial_scores": {
+      "risk_tolerance": 6,
+      "engagement_index": 0.88,
+      "tech_adoption": 0.92
+    }
+  },
+  {
+    "customer_id": 1151,
+    "name": "刘艳",
+    "tags": [
+      "新客户",
+      "金融科技偏好"
+    ],
+    "preferences": {
+      "contact_times": [
+        "18:21:05",
+        "20:40:55"
+      ],
+      "preferred_channels": [
+        "微信"
+      ],
+      "last_login": "2025-12-08"
+    },
+    "financial_scores": {
+      "risk_tolerance": 1,
+      "engagement_index": 0.06,
+      "tech_adoption": 0.57
+    }
+  },
+  {
+    "customer_id": 1152,
+    "name": "汪桂芝",
+    "tags": [
+      "金融科技偏好"
+    ],
+    "preferences": {
+      "contact_times": [
+        "05:21:10",
+        "16:57:14"
+      ],
+      "preferred_channels": [
+        "微信"
+      ],
+      "last_login": "2025-12-13"
+    },
+    "financial_scores": {
+      "risk_tolerance": 6,
+      "engagement_index": 0.77,
+      "tech_adoption": 0.26
+    }
+  },
+  {
+    "customer_id": 1153,
+    "name": "陈宇",
+    "tags": [
+      "投顾客户",
+      "高风险偏好",
+      "活跃用户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "13:43:00",
+        "14:57:45",
+        "20:23:59",
+        "20:30:39"
+      ],
+      "preferred_channels": [
+        "邮件"
+      ],
+      "last_login": "2025-12-14"
+    },
+    "financial_scores": {
+      "risk_tolerance": 5,
+      "engagement_index": 0.34,
+      "tech_adoption": 0.97
+    }
+  },
+  {
+    "customer_id": 1154,
+    "name": "刘颖",
+    "tags": [
+      "高风险偏好",
+      "投顾客户",
+      "经纪业务重点"
+    ],
+    "preferences": {
+      "contact_times": [
+        "21:43:52",
+        "22:05:32"
+      ],
+      "preferred_channels": [
+        "邮件"
+      ],
+      "last_login": "2025-12-19"
+    },
+    "financial_scores": {
+      "risk_tolerance": 2,
+      "engagement_index": 0.15,
+      "tech_adoption": 0.66
+    }
+  },
+  {
+    "customer_id": 1155,
+    "name": "乔浩",
+    "tags": [
+      "高风险偏好",
+      "金融科技偏好",
+      "活跃用户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "00:27:06",
+        "21:49:23",
+        "23:05:49"
+      ],
+      "preferred_channels": [
+        "APP"
+      ],
+      "last_login": "2025-12-09"
+    },
+    "financial_scores": {
+      "risk_tolerance": 9,
+      "engagement_index": 0.14,
+      "tech_adoption": 0.78
+    }
+  },
+  {
+    "customer_id": 1156,
+    "name": "张海燕",
+    "tags": [
+      "高风险偏好",
+      "活跃用户",
+      "金融科技偏好"
+    ],
+    "preferences": {
+      "contact_times": [
+        "11:02:33",
+        "13:19:38",
+        "13:59:05",
+        "16:24:56"
+      ],
+      "preferred_channels": [
+        "APP",
+        "电话"
+      ],
+      "last_login": "2025-12-08"
+    },
+    "financial_scores": {
+      "risk_tolerance": 7,
+      "engagement_index": 0.02,
+      "tech_adoption": 0.84
+    }
+  },
+  {
+    "customer_id": 1157,
+    "name": "程鑫",
+    "tags": [
+      "金融科技偏好",
+      "低频操作",
+      "投顾客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "19:54:16"
+      ],
+      "preferred_channels": [
+        "邮件"
+      ],
+      "last_login": "2025-11-24"
+    },
+    "financial_scores": {
+      "risk_tolerance": 4,
+      "engagement_index": 0.67,
+      "tech_adoption": 0.19
+    }
+  },
+  {
+    "customer_id": 1158,
+    "name": "赵丹丹",
+    "tags": [
+      "老客户",
+      "经纪业务重点"
+    ],
+    "preferences": {
+      "contact_times": [
+        "02:00:23",
+        "07:24:35"
+      ],
+      "preferred_channels": [
+        "电话"
+      ],
+      "last_login": "2025-12-09"
+    },
+    "financial_scores": {
+      "risk_tolerance": 5,
+      "engagement_index": 0.23,
+      "tech_adoption": 0.71
+    }
+  },
+  {
+    "customer_id": 1159,
+    "name": "王婷婷",
+    "tags": [
+      "金融科技偏好"
+    ],
+    "preferences": {
+      "contact_times": [
+        "10:31:21"
+      ],
+      "preferred_channels": [
+        "邮件",
+        "电话"
+      ],
+      "last_login": "2025-12-23"
+    },
+    "financial_scores": {
+      "risk_tolerance": 3,
+      "engagement_index": 0.24,
+      "tech_adoption": 0.12
+    }
+  },
+  {
+    "customer_id": 1160,
+    "name": "岳军",
+    "tags": [
+      "价值客户",
+      "金融科技偏好"
+    ],
+    "preferences": {
+      "contact_times": [
+        "01:50:46",
+        "12:04:29"
+      ],
+      "preferred_channels": [
+        "微信"
+      ],
+      "last_login": "2025-12-14"
+    },
+    "financial_scores": {
+      "risk_tolerance": 10,
+      "engagement_index": 0.68,
+      "tech_adoption": 0.8
+    }
+  },
+  {
+    "customer_id": 1161,
+    "name": "马琴",
+    "tags": [
+      "活跃用户",
+      "金融科技偏好",
+      "新客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "02:13:28",
+        "04:00:19",
+        "06:21:45",
+        "12:31:44"
+      ],
+      "preferred_channels": [
+        "邮件",
+        "微信"
+      ],
+      "last_login": "2025-11-28"
+    },
+    "financial_scores": {
+      "risk_tolerance": 6,
+      "engagement_index": 0.39,
+      "tech_adoption": 0.09
+    }
+  },
+  {
+    "customer_id": 1162,
+    "name": "谭婷婷",
+    "tags": [
+      "价值客户",
+      "活跃用户",
+      "新客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "02:09:57",
+        "03:19:25",
+        "07:19:32",
+        "19:24:12"
+      ],
+      "preferred_channels": [
+        "APP",
+        "电话"
+      ],
+      "last_login": "2025-12-05"
+    },
+    "financial_scores": {
+      "risk_tolerance": 5,
+      "engagement_index": 1.0,
+      "tech_adoption": 0.48
+    }
+  },
+  {
+    "customer_id": 1163,
+    "name": "朱桂英",
+    "tags": [
+      "投顾客户",
+      "低频操作",
+      "经纪业务重点"
+    ],
+    "preferences": {
+      "contact_times": [
+        "12:48:54"
+      ],
+      "preferred_channels": [
+        "微信"
+      ],
+      "last_login": "2025-12-06"
+    },
+    "financial_scores": {
+      "risk_tolerance": 2,
+      "engagement_index": 0.56,
+      "tech_adoption": 0.24
+    }
+  },
+  {
+    "customer_id": 1164,
+    "name": "朱冬梅",
+    "tags": [
+      "高风险偏好",
+      "活跃用户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "05:14:23"
+      ],
+      "preferred_channels": [
+        "APP"
+      ],
+      "last_login": "2025-12-23"
+    },
+    "financial_scores": {
+      "risk_tolerance": 3,
+      "engagement_index": 0.88,
+      "tech_adoption": 0.69
+    }
+  },
+  {
+    "customer_id": 1165,
+    "name": "董秀云",
+    "tags": [
+      "经纪业务重点",
+      "价值客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "03:17:58",
+        "11:50:01",
+        "18:23:40",
+        "22:49:11"
+      ],
+      "preferred_channels": [
+        "APP",
+        "微信"
+      ],
+      "last_login": "2025-12-19"
+    },
+    "financial_scores": {
+      "risk_tolerance": 3,
+      "engagement_index": 0.33,
+      "tech_adoption": 0.93
+    }
+  },
+  {
+    "customer_id": 1166,
+    "name": "陶阳",
+    "tags": [
+      "活跃用户",
+      "低频操作"
+    ],
+    "preferences": {
+      "contact_times": [
+        "13:19:56",
+        "17:07:12",
+        "17:44:32",
+        "17:48:05"
+      ],
+      "preferred_channels": [
+        "电话"
+      ],
+      "last_login": "2025-11-25"
+    },
+    "financial_scores": {
+      "risk_tolerance": 8,
+      "engagement_index": 0.17,
+      "tech_adoption": 0.6
+    }
+  },
+  {
+    "customer_id": 1167,
+    "name": "殷杰",
+    "tags": [
+      "金融科技偏好"
+    ],
+    "preferences": {
+      "contact_times": [
+        "03:56:35",
+        "05:18:40"
+      ],
+      "preferred_channels": [
+        "APP",
+        "邮件"
+      ],
+      "last_login": "2025-12-08"
+    },
+    "financial_scores": {
+      "risk_tolerance": 1,
+      "engagement_index": 0.44,
+      "tech_adoption": 0.93
+    }
+  },
+  {
+    "customer_id": 1168,
+    "name": "彭亮",
+    "tags": [
+      "低频操作",
+      "经纪业务重点",
+      "投顾客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "03:15:09",
+        "14:42:50",
+        "16:31:34",
+        "20:35:16"
+      ],
+      "preferred_channels": [
+        "电话",
+        "邮件"
+      ],
+      "last_login": "2025-11-26"
+    },
+    "financial_scores": {
+      "risk_tolerance": 3,
+      "engagement_index": 0.24,
+      "tech_adoption": 0.94
+    }
+  },
+  {
+    "customer_id": 1169,
+    "name": "张秀兰",
+    "tags": [
+      "价值客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "21:56:47"
+      ],
+      "preferred_channels": [
+        "APP"
+      ],
+      "last_login": "2025-11-25"
+    },
+    "financial_scores": {
+      "risk_tolerance": 8,
+      "engagement_index": 0.84,
+      "tech_adoption": 0.57
+    }
+  },
+  {
+    "customer_id": 1170,
+    "name": "杨淑英",
+    "tags": [
+      "新客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "05:22:28",
+        "16:50:41",
+        "19:12:17"
+      ],
+      "preferred_channels": [
+        "APP",
+        "微信"
+      ],
+      "last_login": "2025-12-08"
+    },
+    "financial_scores": {
+      "risk_tolerance": 4,
+      "engagement_index": 0.28,
+      "tech_adoption": 0.22
+    }
+  },
+  {
+    "customer_id": 1171,
+    "name": "杨春梅",
+    "tags": [
+      "活跃用户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "00:30:31",
+        "03:28:14"
+      ],
+      "preferred_channels": [
+        "APP",
+        "微信"
+      ],
+      "last_login": "2025-12-21"
+    },
+    "financial_scores": {
+      "risk_tolerance": 5,
+      "engagement_index": 0.17,
+      "tech_adoption": 0.84
+    }
+  },
+  {
+    "customer_id": 1172,
+    "name": "崔婷婷",
+    "tags": [
+      "价值客户",
+      "低频操作",
+      "活跃用户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "14:50:31"
+      ],
+      "preferred_channels": [
+        "微信"
+      ],
+      "last_login": "2025-12-10"
+    },
+    "financial_scores": {
+      "risk_tolerance": 7,
+      "engagement_index": 0.79,
+      "tech_adoption": 0.37
+    }
+  },
+  {
+    "customer_id": 1173,
+    "name": "黎桂香",
+    "tags": [
+      "老客户",
+      "价值客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "01:21:03",
+        "12:16:48",
+        "17:17:30",
+        "20:36:57"
+      ],
+      "preferred_channels": [
+        "微信"
+      ],
+      "last_login": "2025-12-11"
+    },
+    "financial_scores": {
+      "risk_tolerance": 3,
+      "engagement_index": 0.64,
+      "tech_adoption": 0.22
+    }
+  },
+  {
+    "customer_id": 1174,
+    "name": "崔鹏",
+    "tags": [
+      "高风险偏好"
+    ],
+    "preferences": {
+      "contact_times": [
+        "02:08:06",
+        "07:53:46",
+        "16:33:30",
+        "20:08:50"
+      ],
+      "preferred_channels": [
+        "微信",
+        "电话"
+      ],
+      "last_login": "2025-11-28"
+    },
+    "financial_scores": {
+      "risk_tolerance": 10,
+      "engagement_index": 0.52,
+      "tech_adoption": 0.78
+    }
+  },
+  {
+    "customer_id": 1175,
+    "name": "刘波",
+    "tags": [
+      "高风险偏好",
+      "低频操作",
+      "投顾客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "12:52:53",
+        "18:32:38",
+        "19:44:26"
+      ],
+      "preferred_channels": [
+        "微信"
+      ],
+      "last_login": "2025-12-20"
+    },
+    "financial_scores": {
+      "risk_tolerance": 4,
+      "engagement_index": 0.04,
+      "tech_adoption": 0.9
+    }
+  },
+  {
+    "customer_id": 1176,
+    "name": "谭艳",
+    "tags": [
+      "经纪业务重点",
+      "活跃用户",
+      "金融科技偏好"
+    ],
+    "preferences": {
+      "contact_times": [
+        "10:23:05",
+        "15:44:52"
+      ],
+      "preferred_channels": [
+        "电话",
+        "微信"
+      ],
+      "last_login": "2025-11-28"
+    },
+    "financial_scores": {
+      "risk_tolerance": 9,
+      "engagement_index": 0.07,
+      "tech_adoption": 0.56
+    }
+  },
+  {
+    "customer_id": 1177,
+    "name": "龙建军",
+    "tags": [
+      "价值客户",
+      "投顾客户",
+      "老客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "17:48:04"
+      ],
+      "preferred_channels": [
+        "邮件",
+        "微信"
+      ],
+      "last_login": "2025-12-15"
+    },
+    "financial_scores": {
+      "risk_tolerance": 7,
+      "engagement_index": 0.59,
+      "tech_adoption": 0.92
+    }
+  },
+  {
+    "customer_id": 1178,
+    "name": "李林",
+    "tags": [
+      "金融科技偏好",
+      "价值客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "08:57:47"
+      ],
+      "preferred_channels": [
+        "APP"
+      ],
+      "last_login": "2025-12-23"
+    },
+    "financial_scores": {
+      "risk_tolerance": 7,
+      "engagement_index": 0.14,
+      "tech_adoption": 0.93
+    }
+  },
+  {
+    "customer_id": 1179,
+    "name": "孙霞",
+    "tags": [
+      "低频操作",
+      "经纪业务重点",
+      "高风险偏好"
+    ],
+    "preferences": {
+      "contact_times": [
+        "20:21:53",
+        "21:28:22"
+      ],
+      "preferred_channels": [
+        "微信",
+        "电话"
+      ],
+      "last_login": "2025-12-19"
+    },
+    "financial_scores": {
+      "risk_tolerance": 1,
+      "engagement_index": 0.43,
+      "tech_adoption": 0.5
+    }
+  },
+  {
+    "customer_id": 1180,
+    "name": "张林",
+    "tags": [
+      "投顾客户",
+      "高风险偏好",
+      "经纪业务重点"
+    ],
+    "preferences": {
+      "contact_times": [
+        "08:09:03",
+        "20:52:50"
+      ],
+      "preferred_channels": [
+        "电话"
+      ],
+      "last_login": "2025-12-22"
+    },
+    "financial_scores": {
+      "risk_tolerance": 1,
+      "engagement_index": 0.48,
+      "tech_adoption": 0.12
+    }
+  },
+  {
+    "customer_id": 1181,
+    "name": "费宁",
+    "tags": [
+      "金融科技偏好",
+      "新客户",
+      "低频操作"
+    ],
+    "preferences": {
+      "contact_times": [
+        "02:52:07",
+        "08:31:40",
+        "17:39:37"
+      ],
+      "preferred_channels": [
+        "邮件"
+      ],
+      "last_login": "2025-12-02"
+    },
+    "financial_scores": {
+      "risk_tolerance": 10,
+      "engagement_index": 0.46,
+      "tech_adoption": 0.73
+    }
+  },
+  {
+    "customer_id": 1182,
+    "name": "凌淑珍",
+    "tags": [
+      "价值客户",
+      "低频操作",
+      "老客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "17:36:22"
+      ],
+      "preferred_channels": [
+        "邮件",
+        "微信"
+      ],
+      "last_login": "2025-12-08"
+    },
+    "financial_scores": {
+      "risk_tolerance": 4,
+      "engagement_index": 0.35,
+      "tech_adoption": 0.74
+    }
+  },
+  {
+    "customer_id": 1183,
+    "name": "路岩",
+    "tags": [
+      "新客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "00:45:16",
+        "16:53:04",
+        "21:54:09"
+      ],
+      "preferred_channels": [
+        "微信"
+      ],
+      "last_login": "2025-12-14"
+    },
+    "financial_scores": {
+      "risk_tolerance": 10,
+      "engagement_index": 0.23,
+      "tech_adoption": 0.42
+    }
+  },
+  {
+    "customer_id": 1184,
+    "name": "宋丽",
+    "tags": [
+      "金融科技偏好",
+      "新客户",
+      "低频操作"
+    ],
+    "preferences": {
+      "contact_times": [
+        "03:06:54",
+        "07:05:36",
+        "07:30:11",
+        "10:07:08"
+      ],
+      "preferred_channels": [
+        "微信"
+      ],
+      "last_login": "2025-12-15"
+    },
+    "financial_scores": {
+      "risk_tolerance": 1,
+      "engagement_index": 0.67,
+      "tech_adoption": 0.62
+    }
+  },
+  {
+    "customer_id": 1185,
+    "name": "苏莉",
+    "tags": [
+      "活跃用户",
+      "新客户",
+      "老客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "06:02:50",
+        "09:01:10"
+      ],
+      "preferred_channels": [
+        "微信",
+        "APP"
+      ],
+      "last_login": "2025-12-15"
+    },
+    "financial_scores": {
+      "risk_tolerance": 7,
+      "engagement_index": 0.1,
+      "tech_adoption": 0.89
+    }
+  },
+  {
+    "customer_id": 1186,
+    "name": "方刚",
+    "tags": [
+      "活跃用户",
+      "低频操作"
+    ],
+    "preferences": {
+      "contact_times": [
+        "05:34:50",
+        "21:44:40",
+        "22:38:41"
+      ],
+      "preferred_channels": [
+        "邮件"
+      ],
+      "last_login": "2025-11-27"
+    },
+    "financial_scores": {
+      "risk_tolerance": 6,
+      "engagement_index": 0.11,
+      "tech_adoption": 0.11
+    }
+  },
+  {
+    "customer_id": 1187,
+    "name": "何洁",
+    "tags": [
+      "经纪业务重点"
+    ],
+    "preferences": {
+      "contact_times": [
+        "05:21:24",
+        "17:34:40",
+        "22:28:43",
+        "23:45:51"
+      ],
+      "preferred_channels": [
+        "电话",
+        "APP"
+      ],
+      "last_login": "2025-11-27"
+    },
+    "financial_scores": {
+      "risk_tolerance": 7,
+      "engagement_index": 0.17,
+      "tech_adoption": 0.23
+    }
+  },
+  {
+    "customer_id": 1188,
+    "name": "林慧",
+    "tags": [
+      "高风险偏好"
+    ],
+    "preferences": {
+      "contact_times": [
+        "11:21:36"
+      ],
+      "preferred_channels": [
+        "邮件",
+        "微信"
+      ],
+      "last_login": "2025-12-07"
+    },
+    "financial_scores": {
+      "risk_tolerance": 10,
+      "engagement_index": 0.67,
+      "tech_adoption": 0.17
+    }
+  },
+  {
+    "customer_id": 1189,
+    "name": "郝小红",
+    "tags": [
+      "经纪业务重点",
+      "价值客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "00:05:34",
+        "09:27:57"
+      ],
+      "preferred_channels": [
+        "APP"
+      ],
+      "last_login": "2025-11-24"
+    },
+    "financial_scores": {
+      "risk_tolerance": 2,
+      "engagement_index": 0.18,
+      "tech_adoption": 0.36
+    }
+  },
+  {
+    "customer_id": 1190,
+    "name": "周畅",
+    "tags": [
+      "老客户",
+      "新客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "05:55:05",
+        "19:43:51"
+      ],
+      "preferred_channels": [
+        "APP"
+      ],
+      "last_login": "2025-12-11"
+    },
+    "financial_scores": {
+      "risk_tolerance": 1,
+      "engagement_index": 0.67,
+      "tech_adoption": 1.0
+    }
+  },
+  {
+    "customer_id": 1191,
+    "name": "程淑兰",
+    "tags": [
+      "投顾客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "01:49:16",
+        "04:56:24",
+        "09:47:33",
+        "16:47:35"
+      ],
+      "preferred_channels": [
+        "电话"
+      ],
+      "last_login": "2025-11-26"
+    },
+    "financial_scores": {
+      "risk_tolerance": 5,
+      "engagement_index": 0.32,
+      "tech_adoption": 0.95
+    }
+  },
+  {
+    "customer_id": 1192,
+    "name": "卢桂英",
+    "tags": [
+      "投顾客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "04:02:28",
+        "22:05:37"
+      ],
+      "preferred_channels": [
+        "邮件",
+        "APP"
+      ],
+      "last_login": "2025-12-23"
+    },
+    "financial_scores": {
+      "risk_tolerance": 10,
+      "engagement_index": 0.08,
+      "tech_adoption": 0.63
+    }
+  },
+  {
+    "customer_id": 1193,
+    "name": "孙玲",
+    "tags": [
+      "活跃用户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "11:44:03"
+      ],
+      "preferred_channels": [
+        "邮件"
+      ],
+      "last_login": "2025-11-29"
+    },
+    "financial_scores": {
+      "risk_tolerance": 6,
+      "engagement_index": 0.09,
+      "tech_adoption": 0.5
+    }
+  },
+  {
+    "customer_id": 1194,
+    "name": "龚健",
+    "tags": [
+      "价值客户",
+      "新客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "00:39:58",
+        "13:41:52",
+        "18:27:20"
+      ],
+      "preferred_channels": [
+        "电话",
+        "邮件"
+      ],
+      "last_login": "2025-12-08"
+    },
+    "financial_scores": {
+      "risk_tolerance": 7,
+      "engagement_index": 1.0,
+      "tech_adoption": 0.28
+    }
+  },
+  {
+    "customer_id": 1195,
+    "name": "文丽",
+    "tags": [
+      "价值客户",
+      "投顾客户",
+      "新客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "12:46:33",
+        "13:56:14",
+        "23:53:18"
+      ],
+      "preferred_channels": [
+        "邮件",
+        "电话"
+      ],
+      "last_login": "2025-12-08"
+    },
+    "financial_scores": {
+      "risk_tolerance": 8,
+      "engagement_index": 0.88,
+      "tech_adoption": 0.22
+    }
+  },
+  {
+    "customer_id": 1196,
+    "name": "梁春梅",
+    "tags": [
+      "投顾客户",
+      "低频操作"
+    ],
+    "preferences": {
+      "contact_times": [
+        "08:01:56",
+        "18:13:11"
+      ],
+      "preferred_channels": [
+        "邮件",
+        "APP"
+      ],
+      "last_login": "2025-12-01"
+    },
+    "financial_scores": {
+      "risk_tolerance": 4,
+      "engagement_index": 0.88,
+      "tech_adoption": 0.18
+    }
+  },
+  {
+    "customer_id": 1197,
+    "name": "王晶",
+    "tags": [
+      "投顾客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "03:48:30",
+        "15:24:29"
+      ],
+      "preferred_channels": [
+        "微信"
+      ],
+      "last_login": "2025-11-29"
+    },
+    "financial_scores": {
+      "risk_tolerance": 1,
+      "engagement_index": 0.49,
+      "tech_adoption": 0.69
+    }
+  },
+  {
+    "customer_id": 1198,
+    "name": "朱琴",
+    "tags": [
+      "投顾客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "03:16:28",
+        "04:36:12"
+      ],
+      "preferred_channels": [
+        "APP"
+      ],
+      "last_login": "2025-12-22"
+    },
+    "financial_scores": {
+      "risk_tolerance": 3,
+      "engagement_index": 0.87,
+      "tech_adoption": 0.13
+    }
+  },
+  {
+    "customer_id": 1199,
+    "name": "杨丹",
+    "tags": [
+      "价值客户",
+      "金融科技偏好",
+      "高风险偏好"
+    ],
+    "preferences": {
+      "contact_times": [
+        "09:48:38",
+        "14:54:31",
+        "15:37:36"
+      ],
+      "preferred_channels": [
+        "微信",
+        "APP"
+      ],
+      "last_login": "2025-12-03"
+    },
+    "financial_scores": {
+      "risk_tolerance": 5,
+      "engagement_index": 0.5,
+      "tech_adoption": 0.82
+    }
+  },
+  {
+    "customer_id": 1200,
+    "name": "郭坤",
+    "tags": [
+      "老客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "03:00:57",
+        "07:53:28",
+        "11:26:18",
+        "18:56:59"
+      ],
+      "preferred_channels": [
+        "微信",
+        "电话"
+      ],
+      "last_login": "2025-11-28"
+    },
+    "financial_scores": {
+      "risk_tolerance": 6,
+      "engagement_index": 0.28,
+      "tech_adoption": 0.58
+    }
+  },
+  {
+    "customer_id": 1201,
+    "name": "刘桂荣",
+    "tags": [
+      "经纪业务重点",
+      "活跃用户",
+      "新客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "08:56:53",
+        "10:10:35",
+        "16:11:46"
+      ],
+      "preferred_channels": [
+        "邮件"
+      ],
+      "last_login": "2025-12-03"
+    },
+    "financial_scores": {
+      "risk_tolerance": 2,
+      "engagement_index": 0.13,
+      "tech_adoption": 0.45
+    }
+  },
+  {
+    "customer_id": 1202,
+    "name": "罗秀英",
+    "tags": [
+      "低频操作",
+      "投顾客户",
+      "老客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "00:09:09",
+        "01:02:52",
+        "20:54:01"
+      ],
+      "preferred_channels": [
+        "邮件",
+        "电话"
+      ],
+      "last_login": "2025-12-14"
+    },
+    "financial_scores": {
+      "risk_tolerance": 9,
+      "engagement_index": 0.87,
+      "tech_adoption": 0.42
+    }
+  },
+  {
+    "customer_id": 1203,
+    "name": "萧小红",
+    "tags": [
+      "高风险偏好",
+      "投顾客户",
+      "价值客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "07:05:02",
+        "14:45:38",
+        "16:27:49"
+      ],
+      "preferred_channels": [
+        "APP",
+        "邮件"
+      ],
+      "last_login": "2025-12-05"
+    },
+    "financial_scores": {
+      "risk_tolerance": 10,
+      "engagement_index": 0.01,
+      "tech_adoption": 0.36
+    }
+  },
+  {
+    "customer_id": 1204,
+    "name": "邱俊",
+    "tags": [
+      "价值客户",
+      "活跃用户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "07:29:45"
+      ],
+      "preferred_channels": [
+        "APP"
+      ],
+      "last_login": "2025-12-05"
+    },
+    "financial_scores": {
+      "risk_tolerance": 10,
+      "engagement_index": 0.57,
+      "tech_adoption": 0.59
+    }
+  },
+  {
+    "customer_id": 1205,
+    "name": "刘丽",
+    "tags": [
+      "投顾客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "14:05:57",
+        "16:05:59"
+      ],
+      "preferred_channels": [
+        "电话",
+        "微信"
+      ],
+      "last_login": "2025-12-11"
+    },
+    "financial_scores": {
+      "risk_tolerance": 6,
+      "engagement_index": 0.64,
+      "tech_adoption": 1.0
+    }
+  },
+  {
+    "customer_id": 1206,
+    "name": "田洁",
+    "tags": [
+      "新客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "02:37:56"
+      ],
+      "preferred_channels": [
+        "APP"
+      ],
+      "last_login": "2025-12-14"
+    },
+    "financial_scores": {
+      "risk_tolerance": 1,
+      "engagement_index": 0.61,
+      "tech_adoption": 0.41
+    }
+  },
+  {
+    "customer_id": 1207,
+    "name": "罗红梅",
+    "tags": [
+      "投顾客户",
+      "老客户",
+      "高风险偏好"
+    ],
+    "preferences": {
+      "contact_times": [
+        "12:08:57"
+      ],
+      "preferred_channels": [
+        "电话",
+        "APP"
+      ],
+      "last_login": "2025-12-22"
+    },
+    "financial_scores": {
+      "risk_tolerance": 9,
+      "engagement_index": 0.84,
+      "tech_adoption": 0.46
+    }
+  },
+  {
+    "customer_id": 1208,
+    "name": "印玉英",
+    "tags": [
+      "投顾客户",
+      "老客户",
+      "价值客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "11:28:24",
+        "12:04:23",
+        "19:01:16"
+      ],
+      "preferred_channels": [
+        "电话",
+        "邮件"
+      ],
+      "last_login": "2025-12-02"
+    },
+    "financial_scores": {
+      "risk_tolerance": 8,
+      "engagement_index": 0.24,
+      "tech_adoption": 0.98
+    }
+  },
+  {
+    "customer_id": 1209,
+    "name": "魏桂英",
+    "tags": [
+      "金融科技偏好",
+      "低频操作"
+    ],
+    "preferences": {
+      "contact_times": [
+        "22:26:57"
+      ],
+      "preferred_channels": [
+        "邮件",
+        "APP"
+      ],
+      "last_login": "2025-12-18"
+    },
+    "financial_scores": {
+      "risk_tolerance": 9,
+      "engagement_index": 0.96,
+      "tech_adoption": 0.03
+    }
+  },
+  {
+    "customer_id": 1210,
+    "name": "刘欢",
+    "tags": [
+      "金融科技偏好",
+      "投顾客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "06:12:02",
+        "10:36:27",
+        "21:58:52"
+      ],
+      "preferred_channels": [
+        "APP",
+        "邮件"
+      ],
+      "last_login": "2025-12-13"
+    },
+    "financial_scores": {
+      "risk_tolerance": 10,
+      "engagement_index": 0.18,
+      "tech_adoption": 0.02
+    }
+  },
+  {
+    "customer_id": 1211,
+    "name": "陈彬",
+    "tags": [
+      "新客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "05:41:35",
+        "10:38:37"
+      ],
+      "preferred_channels": [
+        "电话",
+        "邮件"
+      ],
+      "last_login": "2025-12-15"
+    },
+    "financial_scores": {
+      "risk_tolerance": 3,
+      "engagement_index": 0.43,
+      "tech_adoption": 0.07
+    }
+  },
+  {
+    "customer_id": 1212,
+    "name": "张秀华",
+    "tags": [
+      "老客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "04:29:06",
+        "07:33:54",
+        "14:07:25",
+        "17:16:53"
+      ],
+      "preferred_channels": [
+        "邮件"
+      ],
+      "last_login": "2025-12-06"
+    },
+    "financial_scores": {
+      "risk_tolerance": 7,
+      "engagement_index": 0.57,
+      "tech_adoption": 0.16
+    }
+  },
+  {
+    "customer_id": 1213,
+    "name": "任红",
+    "tags": [
+      "老客户",
+      "低频操作"
+    ],
+    "preferences": {
+      "contact_times": [
+        "08:48:13"
+      ],
+      "preferred_channels": [
+        "微信"
+      ],
+      "last_login": "2025-12-21"
+    },
+    "financial_scores": {
+      "risk_tolerance": 8,
+      "engagement_index": 0.95,
+      "tech_adoption": 0.04
+    }
+  },
+  {
+    "customer_id": 1214,
+    "name": "雷英",
+    "tags": [
+      "活跃用户",
+      "新客户",
+      "金融科技偏好"
+    ],
+    "preferences": {
+      "contact_times": [
+        "13:07:05",
+        "21:42:17"
+      ],
+      "preferred_channels": [
+        "邮件"
+      ],
+      "last_login": "2025-12-17"
+    },
+    "financial_scores": {
+      "risk_tolerance": 4,
+      "engagement_index": 0.13,
+      "tech_adoption": 0.38
+    }
+  },
+  {
+    "customer_id": 1215,
+    "name": "黄莉",
+    "tags": [
+      "低频操作",
+      "活跃用户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "01:21:57"
+      ],
+      "preferred_channels": [
+        "微信"
+      ],
+      "last_login": "2025-12-20"
+    },
+    "financial_scores": {
+      "risk_tolerance": 3,
+      "engagement_index": 0.27,
+      "tech_adoption": 0.09
+    }
+  },
+  {
+    "customer_id": 1216,
+    "name": "程阳",
+    "tags": [
+      "活跃用户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "10:38:19",
+        "18:06:16"
+      ],
+      "preferred_channels": [
+        "邮件",
+        "APP"
+      ],
+      "last_login": "2025-11-26"
+    },
+    "financial_scores": {
+      "risk_tolerance": 3,
+      "engagement_index": 0.51,
+      "tech_adoption": 0.16
+    }
+  },
+  {
+    "customer_id": 1217,
+    "name": "王鹏",
+    "tags": [
+      "老客户",
+      "价值客户",
+      "新客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "06:49:39",
+        "12:53:19"
+      ],
+      "preferred_channels": [
+        "邮件"
+      ],
+      "last_login": "2025-12-04"
+    },
+    "financial_scores": {
+      "risk_tolerance": 5,
+      "engagement_index": 0.94,
+      "tech_adoption": 0.77
+    }
+  },
+  {
+    "customer_id": 1218,
+    "name": "苏阳",
+    "tags": [
+      "金融科技偏好"
+    ],
+    "preferences": {
+      "contact_times": [
+        "18:27:43"
+      ],
+      "preferred_channels": [
+        "电话",
+        "邮件"
+      ],
+      "last_login": "2025-11-25"
+    },
+    "financial_scores": {
+      "risk_tolerance": 2,
+      "engagement_index": 0.67,
+      "tech_adoption": 0.62
+    }
+  },
+  {
+    "customer_id": 1219,
+    "name": "李洋",
+    "tags": [
+      "低频操作",
+      "价值客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "04:09:23",
+        "17:08:41",
+        "19:27:20"
+      ],
+      "preferred_channels": [
+        "电话"
+      ],
+      "last_login": "2025-12-16"
+    },
+    "financial_scores": {
+      "risk_tolerance": 2,
+      "engagement_index": 0.19,
+      "tech_adoption": 1.0
+    }
+  },
+  {
+    "customer_id": 1220,
+    "name": "马丽丽",
+    "tags": [
+      "老客户",
+      "价值客户",
+      "新客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "05:36:58",
+        "08:37:17",
+        "15:54:59"
+      ],
+      "preferred_channels": [
+        "APP"
+      ],
+      "last_login": "2025-12-01"
+    },
+    "financial_scores": {
+      "risk_tolerance": 10,
+      "engagement_index": 0.44,
+      "tech_adoption": 0.88
+    }
+  },
+  {
+    "customer_id": 1221,
+    "name": "张鹏",
+    "tags": [
+      "活跃用户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "10:51:32"
+      ],
+      "preferred_channels": [
+        "邮件"
+      ],
+      "last_login": "2025-12-09"
+    },
+    "financial_scores": {
+      "risk_tolerance": 7,
+      "engagement_index": 0.64,
+      "tech_adoption": 0.65
+    }
+  },
+  {
+    "customer_id": 1222,
+    "name": "蓝荣",
+    "tags": [
+      "活跃用户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "10:47:58",
+        "11:10:46",
+        "12:47:48"
+      ],
+      "preferred_channels": [
+        "APP"
+      ],
+      "last_login": "2025-12-05"
+    },
+    "financial_scores": {
+      "risk_tolerance": 5,
+      "engagement_index": 0.66,
+      "tech_adoption": 0.46
+    }
+  },
+  {
+    "customer_id": 1223,
+    "name": "阎莹",
+    "tags": [
+      "价值客户",
+      "老客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "12:02:20",
+        "13:26:58"
+      ],
+      "preferred_channels": [
+        "电话",
+        "邮件"
+      ],
+      "last_login": "2025-12-09"
+    },
+    "financial_scores": {
+      "risk_tolerance": 10,
+      "engagement_index": 0.96,
+      "tech_adoption": 0.9
+    }
+  },
+  {
+    "customer_id": 1224,
+    "name": "王鹏",
+    "tags": [
+      "经纪业务重点",
+      "活跃用户",
+      "新客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "07:34:07"
+      ],
+      "preferred_channels": [
+        "APP"
+      ],
+      "last_login": "2025-11-24"
+    },
+    "financial_scores": {
+      "risk_tolerance": 4,
+      "engagement_index": 0.52,
+      "tech_adoption": 0.15
+    }
+  },
+  {
+    "customer_id": 1225,
+    "name": "张莉",
+    "tags": [
+      "投顾客户",
+      "金融科技偏好",
+      "高风险偏好"
+    ],
+    "preferences": {
+      "contact_times": [
+        "04:03:09",
+        "04:35:38",
+        "15:36:14",
+        "19:12:55"
+      ],
+      "preferred_channels": [
+        "电话"
+      ],
+      "last_login": "2025-12-22"
+    },
+    "financial_scores": {
+      "risk_tolerance": 10,
+      "engagement_index": 0.58,
+      "tech_adoption": 0.12
+    }
+  },
+  {
+    "customer_id": 1226,
+    "name": "都欢",
+    "tags": [
+      "高风险偏好",
+      "新客户",
+      "低频操作"
+    ],
+    "preferences": {
+      "contact_times": [
+        "00:16:23",
+        "16:14:19",
+        "17:40:53",
+        "21:05:54"
+      ],
+      "preferred_channels": [
+        "APP",
+        "邮件"
+      ],
+      "last_login": "2025-12-08"
+    },
+    "financial_scores": {
+      "risk_tolerance": 3,
+      "engagement_index": 0.41,
+      "tech_adoption": 0.44
+    }
+  },
+  {
+    "customer_id": 1227,
+    "name": "许芳",
+    "tags": [
+      "低频操作",
+      "价值客户",
+      "经纪业务重点"
+    ],
+    "preferences": {
+      "contact_times": [
+        "05:57:30",
+        "12:38:35",
+        "18:34:27",
+        "21:11:51"
+      ],
+      "preferred_channels": [
+        "微信"
+      ],
+      "last_login": "2025-12-03"
+    },
+    "financial_scores": {
+      "risk_tolerance": 6,
+      "engagement_index": 0.26,
+      "tech_adoption": 0.63
+    }
+  },
+  {
+    "customer_id": 1228,
+    "name": "徐玉",
+    "tags": [
+      "经纪业务重点",
+      "投顾客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "07:48:07"
+      ],
+      "preferred_channels": [
+        "APP",
+        "邮件"
+      ],
+      "last_login": "2025-11-27"
+    },
+    "financial_scores": {
+      "risk_tolerance": 2,
+      "engagement_index": 0.07,
+      "tech_adoption": 0.72
+    }
+  },
+  {
+    "customer_id": 1229,
+    "name": "赖琳",
+    "tags": [
+      "新客户",
+      "经纪业务重点",
+      "价值客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "14:39:11"
+      ],
+      "preferred_channels": [
+        "微信",
+        "APP"
+      ],
+      "last_login": "2025-12-13"
+    },
+    "financial_scores": {
+      "risk_tolerance": 2,
+      "engagement_index": 0.4,
+      "tech_adoption": 0.72
+    }
+  },
+  {
+    "customer_id": 1230,
+    "name": "郑飞",
+    "tags": [
+      "老客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "00:15:47"
+      ],
+      "preferred_channels": [
+        "APP"
+      ],
+      "last_login": "2025-11-28"
+    },
+    "financial_scores": {
+      "risk_tolerance": 2,
+      "engagement_index": 0.22,
+      "tech_adoption": 0.55
+    }
+  },
+  {
+    "customer_id": 1231,
+    "name": "华利",
+    "tags": [
+      "投顾客户",
+      "价值客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "03:34:27"
+      ],
+      "preferred_channels": [
+        "APP"
+      ],
+      "last_login": "2025-12-01"
+    },
+    "financial_scores": {
+      "risk_tolerance": 2,
+      "engagement_index": 0.9,
+      "tech_adoption": 0.03
+    }
+  },
+  {
+    "customer_id": 1232,
+    "name": "刘浩",
+    "tags": [
+      "价值客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "00:55:17",
+        "04:29:01",
+        "20:29:20",
+        "22:15:37"
+      ],
+      "preferred_channels": [
+        "邮件",
+        "APP"
+      ],
+      "last_login": "2025-11-30"
+    },
+    "financial_scores": {
+      "risk_tolerance": 2,
+      "engagement_index": 0.68,
+      "tech_adoption": 0.16
+    }
+  },
+  {
+    "customer_id": 1233,
+    "name": "刘宇",
+    "tags": [
+      "老客户",
+      "金融科技偏好",
+      "高风险偏好"
+    ],
+    "preferences": {
+      "contact_times": [
+        "08:39:47",
+        "17:33:28"
+      ],
+      "preferred_channels": [
+        "APP",
+        "电话"
+      ],
+      "last_login": "2025-12-13"
+    },
+    "financial_scores": {
+      "risk_tolerance": 5,
+      "engagement_index": 0.89,
+      "tech_adoption": 0.54
+    }
+  },
+  {
+    "customer_id": 1234,
+    "name": "王欣",
+    "tags": [
+      "价值客户",
+      "经纪业务重点",
+      "老客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "05:31:21",
+        "13:28:35",
+        "20:59:36"
+      ],
+      "preferred_channels": [
+        "邮件",
+        "电话"
+      ],
+      "last_login": "2025-11-29"
+    },
+    "financial_scores": {
+      "risk_tolerance": 6,
+      "engagement_index": 0.17,
+      "tech_adoption": 0.39
+    }
+  },
+  {
+    "customer_id": 1235,
+    "name": "陈敏",
+    "tags": [
+      "老客户",
+      "经纪业务重点",
+      "高风险偏好"
+    ],
+    "preferences": {
+      "contact_times": [
+        "09:04:47"
+      ],
+      "preferred_channels": [
+        "邮件",
+        "APP"
+      ],
+      "last_login": "2025-12-05"
+    },
+    "financial_scores": {
+      "risk_tolerance": 4,
+      "engagement_index": 0.48,
+      "tech_adoption": 0.31
+    }
+  },
+  {
+    "customer_id": 1236,
+    "name": "程淑英",
+    "tags": [
+      "高风险偏好",
+      "投顾客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "06:05:05",
+        "12:52:22"
+      ],
+      "preferred_channels": [
+        "电话",
+        "APP"
+      ],
+      "last_login": "2025-12-16"
+    },
+    "financial_scores": {
+      "risk_tolerance": 8,
+      "engagement_index": 0.67,
+      "tech_adoption": 0.97
+    }
+  },
+  {
+    "customer_id": 1237,
+    "name": "蒋燕",
+    "tags": [
+      "活跃用户",
+      "新客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "04:46:16",
+        "13:15:10"
+      ],
+      "preferred_channels": [
+        "微信",
+        "邮件"
+      ],
+      "last_login": "2025-11-27"
+    },
+    "financial_scores": {
+      "risk_tolerance": 9,
+      "engagement_index": 0.25,
+      "tech_adoption": 0.43
+    }
+  },
+  {
+    "customer_id": 1238,
+    "name": "周芳",
+    "tags": [
+      "价值客户",
+      "金融科技偏好",
+      "高风险偏好"
+    ],
+    "preferences": {
+      "contact_times": [
+        "04:38:37",
+        "05:23:34",
+        "15:23:53",
+        "18:32:58"
+      ],
+      "preferred_channels": [
+        "电话",
+        "微信"
+      ],
+      "last_login": "2025-12-01"
+    },
+    "financial_scores": {
+      "risk_tolerance": 3,
+      "engagement_index": 0.98,
+      "tech_adoption": 0.11
+    }
+  },
+  {
+    "customer_id": 1239,
+    "name": "詹建",
+    "tags": [
+      "经纪业务重点",
+      "金融科技偏好"
+    ],
+    "preferences": {
+      "contact_times": [
+        "10:07:35",
+        "17:56:08",
+        "19:59:20",
+        "20:37:55"
+      ],
+      "preferred_channels": [
+        "微信"
+      ],
+      "last_login": "2025-12-12"
+    },
+    "financial_scores": {
+      "risk_tolerance": 4,
+      "engagement_index": 0.48,
+      "tech_adoption": 0.14
+    }
+  },
+  {
+    "customer_id": 1240,
+    "name": "王秀珍",
+    "tags": [
+      "金融科技偏好",
+      "老客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "02:08:31"
+      ],
+      "preferred_channels": [
+        "电话"
+      ],
+      "last_login": "2025-12-04"
+    },
+    "financial_scores": {
+      "risk_tolerance": 6,
+      "engagement_index": 0.8,
+      "tech_adoption": 0.7
+    }
+  },
+  {
+    "customer_id": 1241,
+    "name": "徐丹丹",
+    "tags": [
+      "低频操作"
+    ],
+    "preferences": {
+      "contact_times": [
+        "17:33:56",
+        "19:09:13",
+        "20:49:18",
+        "22:57:58"
+      ],
+      "preferred_channels": [
+        "微信",
+        "电话"
+      ],
+      "last_login": "2025-12-02"
+    },
+    "financial_scores": {
+      "risk_tolerance": 4,
+      "engagement_index": 0.59,
+      "tech_adoption": 0.11
+    }
+  },
+  {
+    "customer_id": 1242,
+    "name": "苏桂英",
+    "tags": [
+      "低频操作",
+      "价值客户",
+      "老客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "20:47:28",
+        "22:48:17"
+      ],
+      "preferred_channels": [
+        "电话"
+      ],
+      "last_login": "2025-11-28"
+    },
+    "financial_scores": {
+      "risk_tolerance": 9,
+      "engagement_index": 0.55,
+      "tech_adoption": 0.81
+    }
+  },
+  {
+    "customer_id": 1243,
+    "name": "徐刚",
+    "tags": [
+      "老客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "20:06:14"
+      ],
+      "preferred_channels": [
+        "电话"
+      ],
+      "last_login": "2025-12-03"
+    },
+    "financial_scores": {
+      "risk_tolerance": 1,
+      "engagement_index": 0.64,
+      "tech_adoption": 0.5
+    }
+  },
+  {
+    "customer_id": 1244,
+    "name": "卢娟",
+    "tags": [
+      "高风险偏好",
+      "价值客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "05:29:45",
+        "10:51:57",
+        "11:47:34",
+        "14:06:20"
+      ],
+      "preferred_channels": [
+        "APP"
+      ],
+      "last_login": "2025-11-28"
+    },
+    "financial_scores": {
+      "risk_tolerance": 3,
+      "engagement_index": 0.21,
+      "tech_adoption": 0.66
+    }
+  },
+  {
+    "customer_id": 1245,
+    "name": "李军",
+    "tags": [
+      "价值客户",
+      "投顾客户",
+      "活跃用户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "03:43:18",
+        "11:00:28",
+        "16:09:24",
+        "23:31:57"
+      ],
+      "preferred_channels": [
+        "APP"
+      ],
+      "last_login": "2025-12-13"
+    },
+    "financial_scores": {
+      "risk_tolerance": 8,
+      "engagement_index": 0.97,
+      "tech_adoption": 0.44
+    }
+  },
+  {
+    "customer_id": 1246,
+    "name": "梁雷",
+    "tags": [
+      "经纪业务重点"
+    ],
+    "preferences": {
+      "contact_times": [
+        "06:30:45",
+        "09:07:17",
+        "22:09:02"
+      ],
+      "preferred_channels": [
+        "微信",
+        "邮件"
+      ],
+      "last_login": "2025-11-28"
+    },
+    "financial_scores": {
+      "risk_tolerance": 2,
+      "engagement_index": 0.57,
+      "tech_adoption": 0.52
+    }
+  },
+  {
+    "customer_id": 1247,
+    "name": "郭玉",
+    "tags": [
+      "经纪业务重点",
+      "投顾客户",
+      "金融科技偏好"
+    ],
+    "preferences": {
+      "contact_times": [
+        "00:07:34",
+        "03:40:45",
+        "07:29:58"
+      ],
+      "preferred_channels": [
+        "邮件"
+      ],
+      "last_login": "2025-12-04"
+    },
+    "financial_scores": {
+      "risk_tolerance": 7,
+      "engagement_index": 0.45,
+      "tech_adoption": 0.59
+    }
+  },
+  {
+    "customer_id": 1248,
+    "name": "张淑兰",
+    "tags": [
+      "高风险偏好",
+      "投顾客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "04:05:03",
+        "15:11:45",
+        "22:42:24"
+      ],
+      "preferred_channels": [
+        "APP",
+        "微信"
+      ],
+      "last_login": "2025-12-22"
+    },
+    "financial_scores": {
+      "risk_tolerance": 9,
+      "engagement_index": 0.89,
+      "tech_adoption": 0.9
+    }
+  },
+  {
+    "customer_id": 1249,
+    "name": "佟桂香",
+    "tags": [
+      "金融科技偏好"
+    ],
+    "preferences": {
+      "contact_times": [
+        "08:24:07"
+      ],
+      "preferred_channels": [
+        "电话"
+      ],
+      "last_login": "2025-12-08"
+    },
+    "financial_scores": {
+      "risk_tolerance": 2,
+      "engagement_index": 0.45,
+      "tech_adoption": 0.54
+    }
+  },
+  {
+    "customer_id": 1250,
+    "name": "赵凤英",
+    "tags": [
+      "新客户",
+      "低频操作",
+      "高风险偏好"
+    ],
+    "preferences": {
+      "contact_times": [
+        "02:45:37",
+        "12:44:16",
+        "16:49:14"
+      ],
+      "preferred_channels": [
+        "电话"
+      ],
+      "last_login": "2025-12-08"
+    },
+    "financial_scores": {
+      "risk_tolerance": 8,
+      "engagement_index": 0.33,
+      "tech_adoption": 0.86
+    }
+  },
+  {
+    "customer_id": 1251,
+    "name": "钱玉英",
+    "tags": [
+      "投顾客户",
+      "经纪业务重点",
+      "低频操作"
+    ],
+    "preferences": {
+      "contact_times": [
+        "03:57:58",
+        "07:27:06",
+        "19:27:56",
+        "23:42:45"
+      ],
+      "preferred_channels": [
+        "APP",
+        "微信"
+      ],
+      "last_login": "2025-12-02"
+    },
+    "financial_scores": {
+      "risk_tolerance": 2,
+      "engagement_index": 0.06,
+      "tech_adoption": 0.49
+    }
+  },
+  {
+    "customer_id": 1252,
+    "name": "杜玉兰",
+    "tags": [
+      "经纪业务重点",
+      "金融科技偏好",
+      "低频操作"
+    ],
+    "preferences": {
+      "contact_times": [
+        "02:53:40",
+        "06:07:50",
+        "13:00:09"
+      ],
+      "preferred_channels": [
+        "微信",
+        "邮件"
+      ],
+      "last_login": "2025-12-16"
+    },
+    "financial_scores": {
+      "risk_tolerance": 2,
+      "engagement_index": 0.42,
+      "tech_adoption": 0.13
+    }
+  },
+  {
+    "customer_id": 1253,
+    "name": "秦明",
+    "tags": [
+      "高风险偏好",
+      "投顾客户",
+      "低频操作"
+    ],
+    "preferences": {
+      "contact_times": [
+        "05:45:57",
+        "21:07:38"
+      ],
+      "preferred_channels": [
+        "电话"
+      ],
+      "last_login": "2025-11-27"
+    },
+    "financial_scores": {
+      "risk_tolerance": 2,
+      "engagement_index": 0.45,
+      "tech_adoption": 0.78
+    }
+  },
+  {
+    "customer_id": 1254,
+    "name": "李娟",
+    "tags": [
+      "新客户",
+      "经纪业务重点",
+      "投顾客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "02:33:06",
+        "02:35:28",
+        "05:06:42",
+        "23:24:06"
+      ],
+      "preferred_channels": [
+        "邮件"
+      ],
+      "last_login": "2025-12-18"
+    },
+    "financial_scores": {
+      "risk_tolerance": 7,
+      "engagement_index": 0.48,
+      "tech_adoption": 0.86
+    }
+  },
+  {
+    "customer_id": 1255,
+    "name": "李秀云",
+    "tags": [
+      "老客户",
+      "价值客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "06:37:56",
+        "12:05:26",
+        "18:46:27",
+        "22:00:02"
+      ],
+      "preferred_channels": [
+        "电话",
+        "邮件"
+      ],
+      "last_login": "2025-11-27"
+    },
+    "financial_scores": {
+      "risk_tolerance": 7,
+      "engagement_index": 0.68,
+      "tech_adoption": 0.98
+    }
+  },
+  {
+    "customer_id": 1256,
+    "name": "潘丽华",
+    "tags": [
+      "新客户",
+      "投顾客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "06:06:09",
+        "21:29:53"
+      ],
+      "preferred_channels": [
+        "微信"
+      ],
+      "last_login": "2025-12-02"
+    },
+    "financial_scores": {
+      "risk_tolerance": 1,
+      "engagement_index": 0.77,
+      "tech_adoption": 0.07
+    }
+  },
+  {
+    "customer_id": 1257,
+    "name": "王畅",
+    "tags": [
+      "投顾客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "06:31:19",
+        "08:58:08"
+      ],
+      "preferred_channels": [
+        "微信"
+      ],
+      "last_login": "2025-12-04"
+    },
+    "financial_scores": {
+      "risk_tolerance": 10,
+      "engagement_index": 0.44,
+      "tech_adoption": 0.02
+    }
+  },
+  {
+    "customer_id": 1258,
+    "name": "韩鹏",
+    "tags": [
+      "低频操作"
+    ],
+    "preferences": {
+      "contact_times": [
+        "02:21:24",
+        "08:47:02",
+        "18:46:03"
+      ],
+      "preferred_channels": [
+        "APP"
+      ],
+      "last_login": "2025-12-17"
+    },
+    "financial_scores": {
+      "risk_tolerance": 5,
+      "engagement_index": 0.17,
+      "tech_adoption": 0.81
+    }
+  },
+  {
+    "customer_id": 1259,
+    "name": "刘建华",
+    "tags": [
+      "活跃用户",
+      "低频操作"
+    ],
+    "preferences": {
+      "contact_times": [
+        "16:13:34",
+        "21:11:44",
+        "21:23:31"
+      ],
+      "preferred_channels": [
+        "电话"
+      ],
+      "last_login": "2025-12-04"
+    },
+    "financial_scores": {
+      "risk_tolerance": 7,
+      "engagement_index": 0.01,
+      "tech_adoption": 0.5
+    }
+  },
+  {
+    "customer_id": 1260,
+    "name": "徐桂芝",
+    "tags": [
+      "活跃用户",
+      "投顾客户",
+      "金融科技偏好"
+    ],
+    "preferences": {
+      "contact_times": [
+        "07:21:25",
+        "17:08:20",
+        "20:01:02",
+        "20:14:28"
+      ],
+      "preferred_channels": [
+        "APP"
+      ],
+      "last_login": "2025-11-30"
+    },
+    "financial_scores": {
+      "risk_tolerance": 4,
+      "engagement_index": 0.79,
+      "tech_adoption": 0.88
+    }
+  },
+  {
+    "customer_id": 1261,
+    "name": "王秀英",
+    "tags": [
+      "老客户",
+      "高风险偏好"
+    ],
+    "preferences": {
+      "contact_times": [
+        "03:44:11",
+        "05:14:08",
+        "15:35:22",
+        "21:17:46"
+      ],
+      "preferred_channels": [
+        "APP"
+      ],
+      "last_login": "2025-12-10"
+    },
+    "financial_scores": {
+      "risk_tolerance": 9,
+      "engagement_index": 0.55,
+      "tech_adoption": 0.4
+    }
+  },
+  {
+    "customer_id": 1262,
+    "name": "陈洋",
+    "tags": [
+      "经纪业务重点"
+    ],
+    "preferences": {
+      "contact_times": [
+        "04:23:53",
+        "07:29:27",
+        "12:38:58",
+        "19:14:15"
+      ],
+      "preferred_channels": [
+        "APP"
+      ],
+      "last_login": "2025-12-19"
+    },
+    "financial_scores": {
+      "risk_tolerance": 4,
+      "engagement_index": 0.3,
+      "tech_adoption": 0.1
+    }
+  },
+  {
+    "customer_id": 1263,
+    "name": "李林",
+    "tags": [
+      "高风险偏好",
+      "低频操作"
+    ],
+    "preferences": {
+      "contact_times": [
+        "04:11:32",
+        "14:44:31"
+      ],
+      "preferred_channels": [
+        "电话",
+        "邮件"
+      ],
+      "last_login": "2025-11-26"
+    },
+    "financial_scores": {
+      "risk_tolerance": 5,
+      "engagement_index": 0.36,
+      "tech_adoption": 0.73
+    }
+  },
+  {
+    "customer_id": 1264,
+    "name": "鲍建军",
+    "tags": [
+      "投顾客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "03:34:54",
+        "10:39:05",
+        "11:52:16"
+      ],
+      "preferred_channels": [
+        "微信"
+      ],
+      "last_login": "2025-12-23"
+    },
+    "financial_scores": {
+      "risk_tolerance": 8,
+      "engagement_index": 0.07,
+      "tech_adoption": 0.1
+    }
+  },
+  {
+    "customer_id": 1265,
+    "name": "裴桂兰",
+    "tags": [
+      "老客户",
+      "活跃用户",
+      "高风险偏好"
+    ],
+    "preferences": {
+      "contact_times": [
+        "03:05:14",
+        "09:31:19",
+        "22:29:12"
+      ],
+      "preferred_channels": [
+        "邮件"
+      ],
+      "last_login": "2025-12-01"
+    },
+    "financial_scores": {
+      "risk_tolerance": 8,
+      "engagement_index": 0.12,
+      "tech_adoption": 0.37
+    }
+  },
+  {
+    "customer_id": 1266,
+    "name": "赵秀华",
+    "tags": [
+      "低频操作"
+    ],
+    "preferences": {
+      "contact_times": [
+        "08:04:38",
+        "09:47:57",
+        "09:50:56"
+      ],
+      "preferred_channels": [
+        "邮件"
+      ],
+      "last_login": "2025-12-14"
+    },
+    "financial_scores": {
+      "risk_tolerance": 3,
+      "engagement_index": 0.06,
+      "tech_adoption": 0.46
+    }
+  },
+  {
+    "customer_id": 1267,
+    "name": "刘峰",
+    "tags": [
+      "高风险偏好",
+      "新客户",
+      "低频操作"
+    ],
+    "preferences": {
+      "contact_times": [
+        "05:31:21",
+        "15:10:26"
+      ],
+      "preferred_channels": [
+        "邮件"
+      ],
+      "last_login": "2025-12-02"
+    },
+    "financial_scores": {
+      "risk_tolerance": 1,
+      "engagement_index": 0.48,
+      "tech_adoption": 0.18
+    }
+  },
+  {
+    "customer_id": 1268,
+    "name": "张凤兰",
+    "tags": [
+      "活跃用户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "08:37:20",
+        "09:08:26",
+        "13:40:23"
+      ],
+      "preferred_channels": [
+        "微信",
+        "电话"
+      ],
+      "last_login": "2025-12-20"
+    },
+    "financial_scores": {
+      "risk_tolerance": 1,
+      "engagement_index": 0.6,
+      "tech_adoption": 0.19
+    }
+  },
+  {
+    "customer_id": 1269,
+    "name": "洪丹",
+    "tags": [
+      "投顾客户",
+      "经纪业务重点"
+    ],
+    "preferences": {
+      "contact_times": [
+        "09:37:00",
+        "10:42:33",
+        "15:10:59",
+        "16:37:44"
+      ],
+      "preferred_channels": [
+        "APP"
+      ],
+      "last_login": "2025-12-05"
+    },
+    "financial_scores": {
+      "risk_tolerance": 1,
+      "engagement_index": 0.5,
+      "tech_adoption": 0.73
+    }
+  },
+  {
+    "customer_id": 1270,
+    "name": "杨璐",
+    "tags": [
+      "经纪业务重点",
+      "价值客户",
+      "新客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "04:53:33",
+        "05:19:27",
+        "13:34:19",
+        "20:42:46"
+      ],
+      "preferred_channels": [
+        "电话",
+        "邮件"
+      ],
+      "last_login": "2025-12-15"
+    },
+    "financial_scores": {
+      "risk_tolerance": 4,
+      "engagement_index": 0.44,
+      "tech_adoption": 0.35
+    }
+  },
+  {
+    "customer_id": 1271,
+    "name": "阎红",
+    "tags": [
+      "低频操作",
+      "高风险偏好"
+    ],
+    "preferences": {
+      "contact_times": [
+        "07:12:43",
+        "14:27:41",
+        "20:55:44"
+      ],
+      "preferred_channels": [
+        "微信"
+      ],
+      "last_login": "2025-12-04"
+    },
+    "financial_scores": {
+      "risk_tolerance": 3,
+      "engagement_index": 0.46,
+      "tech_adoption": 0.18
+    }
+  },
+  {
+    "customer_id": 1272,
+    "name": "龙小红",
+    "tags": [
+      "投顾客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "00:23:33",
+        "14:56:26",
+        "19:43:12",
+        "21:06:54"
+      ],
+      "preferred_channels": [
+        "电话"
+      ],
+      "last_login": "2025-11-30"
+    },
+    "financial_scores": {
+      "risk_tolerance": 6,
+      "engagement_index": 0.22,
+      "tech_adoption": 0.7
+    }
+  },
+  {
+    "customer_id": 1273,
+    "name": "徐秀华",
+    "tags": [
+      "高风险偏好",
+      "新客户",
+      "低频操作"
+    ],
+    "preferences": {
+      "contact_times": [
+        "13:59:24",
+        "14:11:46",
+        "14:51:31",
+        "20:26:28"
+      ],
+      "preferred_channels": [
+        "微信",
+        "邮件"
+      ],
+      "last_login": "2025-12-10"
+    },
+    "financial_scores": {
+      "risk_tolerance": 2,
+      "engagement_index": 0.62,
+      "tech_adoption": 0.05
+    }
+  },
+  {
+    "customer_id": 1274,
+    "name": "杨淑珍",
+    "tags": [
+      "经纪业务重点",
+      "高风险偏好",
+      "金融科技偏好"
+    ],
+    "preferences": {
+      "contact_times": [
+        "09:02:17"
+      ],
+      "preferred_channels": [
+        "APP"
+      ],
+      "last_login": "2025-12-04"
+    },
+    "financial_scores": {
+      "risk_tolerance": 10,
+      "engagement_index": 0.28,
+      "tech_adoption": 0.79
+    }
+  },
+  {
+    "customer_id": 1275,
+    "name": "霍坤",
+    "tags": [
+      "新客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "15:57:31",
+        "16:17:11",
+        "18:59:45",
+        "22:30:04"
+      ],
+      "preferred_channels": [
+        "电话",
+        "邮件"
+      ],
+      "last_login": "2025-12-07"
+    },
+    "financial_scores": {
+      "risk_tolerance": 9,
+      "engagement_index": 0.34,
+      "tech_adoption": 0.59
+    }
+  },
+  {
+    "customer_id": 1276,
+    "name": "梁敏",
+    "tags": [
+      "高风险偏好"
+    ],
+    "preferences": {
+      "contact_times": [
+        "04:39:00",
+        "16:13:25",
+        "19:45:47"
+      ],
+      "preferred_channels": [
+        "邮件",
+        "微信"
+      ],
+      "last_login": "2025-11-24"
+    },
+    "financial_scores": {
+      "risk_tolerance": 7,
+      "engagement_index": 0.59,
+      "tech_adoption": 0.15
+    }
+  },
+  {
+    "customer_id": 1277,
+    "name": "王淑华",
+    "tags": [
+      "新客户",
+      "活跃用户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "03:18:32",
+        "04:09:50",
+        "05:29:49",
+        "15:55:54"
+      ],
+      "preferred_channels": [
+        "APP",
+        "微信"
+      ],
+      "last_login": "2025-12-13"
+    },
+    "financial_scores": {
+      "risk_tolerance": 5,
+      "engagement_index": 0.78,
+      "tech_adoption": 0.37
+    }
+  },
+  {
+    "customer_id": 1278,
+    "name": "吴建国",
+    "tags": [
+      "经纪业务重点"
+    ],
+    "preferences": {
+      "contact_times": [
+        "12:07:03"
+      ],
+      "preferred_channels": [
+        "邮件",
+        "APP"
+      ],
+      "last_login": "2025-12-21"
+    },
+    "financial_scores": {
+      "risk_tolerance": 2,
+      "engagement_index": 0.24,
+      "tech_adoption": 0.19
+    }
+  },
+  {
+    "customer_id": 1279,
+    "name": "费阳",
+    "tags": [
+      "价值客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "16:34:56"
+      ],
+      "preferred_channels": [
+        "APP"
+      ],
+      "last_login": "2025-12-13"
+    },
+    "financial_scores": {
+      "risk_tolerance": 1,
+      "engagement_index": 0.51,
+      "tech_adoption": 0.36
+    }
+  },
+  {
+    "customer_id": 1280,
+    "name": "孔丽丽",
+    "tags": [
+      "投顾客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "09:27:35",
+        "12:58:27",
+        "20:07:32"
+      ],
+      "preferred_channels": [
+        "电话",
+        "微信"
+      ],
+      "last_login": "2025-11-28"
+    },
+    "financial_scores": {
+      "risk_tolerance": 3,
+      "engagement_index": 0.96,
+      "tech_adoption": 0.65
+    }
+  },
+  {
+    "customer_id": 1281,
+    "name": "郭淑英",
+    "tags": [
+      "低频操作",
+      "高风险偏好",
+      "老客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "12:59:32",
+        "17:29:06"
+      ],
+      "preferred_channels": [
+        "电话",
+        "微信"
+      ],
+      "last_login": "2025-12-14"
+    },
+    "financial_scores": {
+      "risk_tolerance": 6,
+      "engagement_index": 0.18,
+      "tech_adoption": 0.55
+    }
+  },
+  {
+    "customer_id": 1282,
+    "name": "沈桂荣",
+    "tags": [
+      "新客户",
+      "投顾客户",
+      "金融科技偏好"
+    ],
+    "preferences": {
+      "contact_times": [
+        "00:56:02",
+        "05:03:43",
+        "06:20:18",
+        "09:08:48"
+      ],
+      "preferred_channels": [
+        "电话",
+        "邮件"
+      ],
+      "last_login": "2025-12-08"
+    },
+    "financial_scores": {
+      "risk_tolerance": 1,
+      "engagement_index": 0.02,
+      "tech_adoption": 0.78
+    }
+  },
+  {
+    "customer_id": 1283,
+    "name": "李燕",
+    "tags": [
+      "投顾客户",
+      "活跃用户",
+      "低频操作"
+    ],
+    "preferences": {
+      "contact_times": [
+        "03:32:57",
+        "05:21:15",
+        "18:31:31"
+      ],
+      "preferred_channels": [
+        "微信",
+        "邮件"
+      ],
+      "last_login": "2025-11-24"
+    },
+    "financial_scores": {
+      "risk_tolerance": 2,
+      "engagement_index": 0.98,
+      "tech_adoption": 0.33
+    }
+  },
+  {
+    "customer_id": 1284,
+    "name": "韩桂珍",
+    "tags": [
+      "投顾客户",
+      "高风险偏好",
+      "经纪业务重点"
+    ],
+    "preferences": {
+      "contact_times": [
+        "03:16:39",
+        "09:42:39",
+        "21:02:38"
+      ],
+      "preferred_channels": [
+        "微信",
+        "电话"
+      ],
+      "last_login": "2025-12-06"
+    },
+    "financial_scores": {
+      "risk_tolerance": 6,
+      "engagement_index": 0.08,
+      "tech_adoption": 0.77
+    }
+  },
+  {
+    "customer_id": 1285,
+    "name": "龚春梅",
+    "tags": [
+      "新客户",
+      "老客户",
+      "投顾客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "04:17:07",
+        "08:56:02",
+        "10:13:00",
+        "11:54:24"
+      ],
+      "preferred_channels": [
+        "电话",
+        "APP"
+      ],
+      "last_login": "2025-11-27"
+    },
+    "financial_scores": {
+      "risk_tolerance": 8,
+      "engagement_index": 0.74,
+      "tech_adoption": 0.31
+    }
+  },
+  {
+    "customer_id": 1286,
+    "name": "曹桂芝",
+    "tags": [
+      "高风险偏好"
+    ],
+    "preferences": {
+      "contact_times": [
+        "10:11:19",
+        "18:57:48",
+        "21:16:06",
+        "23:41:54"
+      ],
+      "preferred_channels": [
+        "微信"
+      ],
+      "last_login": "2025-12-16"
+    },
+    "financial_scores": {
+      "risk_tolerance": 5,
+      "engagement_index": 0.83,
+      "tech_adoption": 0.78
+    }
+  },
+  {
+    "customer_id": 1287,
+    "name": "冯静",
+    "tags": [
+      "高风险偏好"
+    ],
+    "preferences": {
+      "contact_times": [
+        "08:25:37",
+        "19:41:09",
+        "22:40:23",
+        "23:27:15"
+      ],
+      "preferred_channels": [
+        "电话",
+        "APP"
+      ],
+      "last_login": "2025-11-24"
+    },
+    "financial_scores": {
+      "risk_tolerance": 6,
+      "engagement_index": 0.89,
+      "tech_adoption": 0.56
+    }
+  },
+  {
+    "customer_id": 1288,
+    "name": "银俊",
+    "tags": [
+      "老客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "12:35:27"
+      ],
+      "preferred_channels": [
+        "微信"
+      ],
+      "last_login": "2025-12-07"
+    },
+    "financial_scores": {
+      "risk_tolerance": 1,
+      "engagement_index": 0.01,
+      "tech_adoption": 0.96
+    }
+  },
+  {
+    "customer_id": 1289,
+    "name": "池帅",
+    "tags": [
+      "经纪业务重点",
+      "低频操作"
+    ],
+    "preferences": {
+      "contact_times": [
+        "01:55:20",
+        "22:17:17"
+      ],
+      "preferred_channels": [
+        "邮件"
+      ],
+      "last_login": "2025-11-28"
+    },
+    "financial_scores": {
+      "risk_tolerance": 3,
+      "engagement_index": 0.49,
+      "tech_adoption": 0.17
+    }
+  },
+  {
+    "customer_id": 1290,
+    "name": "张梅",
+    "tags": [
+      "价值客户",
+      "投顾客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "22:54:16"
+      ],
+      "preferred_channels": [
+        "微信"
+      ],
+      "last_login": "2025-12-14"
+    },
+    "financial_scores": {
+      "risk_tolerance": 6,
+      "engagement_index": 0.47,
+      "tech_adoption": 0.47
+    }
+  },
+  {
+    "customer_id": 1291,
+    "name": "王华",
+    "tags": [
+      "经纪业务重点",
+      "低频操作",
+      "活跃用户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "01:45:40",
+        "10:50:28"
+      ],
+      "preferred_channels": [
+        "邮件",
+        "APP"
+      ],
+      "last_login": "2025-11-27"
+    },
+    "financial_scores": {
+      "risk_tolerance": 7,
+      "engagement_index": 0.12,
+      "tech_adoption": 0.8
+    }
+  },
+  {
+    "customer_id": 1292,
+    "name": "黄雪梅",
+    "tags": [
+      "老客户",
+      "投顾客户",
+      "价值客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "17:57:36"
+      ],
+      "preferred_channels": [
+        "电话",
+        "APP"
+      ],
+      "last_login": "2025-12-11"
+    },
+    "financial_scores": {
+      "risk_tolerance": 2,
+      "engagement_index": 0.85,
+      "tech_adoption": 0.6
+    }
+  },
+  {
+    "customer_id": 1293,
+    "name": "刘秀梅",
+    "tags": [
+      "新客户",
+      "老客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "00:59:26"
+      ],
+      "preferred_channels": [
+        "微信",
+        "邮件"
+      ],
+      "last_login": "2025-12-22"
+    },
+    "financial_scores": {
+      "risk_tolerance": 1,
+      "engagement_index": 0.73,
+      "tech_adoption": 0.16
+    }
+  },
+  {
+    "customer_id": 1294,
+    "name": "张浩",
+    "tags": [
+      "老客户",
+      "活跃用户",
+      "经纪业务重点"
+    ],
+    "preferences": {
+      "contact_times": [
+        "00:19:26",
+        "10:39:43",
+        "13:50:21",
+        "23:17:54"
+      ],
+      "preferred_channels": [
+        "APP",
+        "微信"
+      ],
+      "last_login": "2025-12-10"
+    },
+    "financial_scores": {
+      "risk_tolerance": 7,
+      "engagement_index": 0.31,
+      "tech_adoption": 0.25
+    }
+  },
+  {
+    "customer_id": 1295,
+    "name": "韩秀英",
+    "tags": [
+      "老客户",
+      "投顾客户",
+      "金融科技偏好"
+    ],
+    "preferences": {
+      "contact_times": [
+        "22:56:33"
+      ],
+      "preferred_channels": [
+        "电话",
+        "APP"
+      ],
+      "last_login": "2025-12-12"
+    },
+    "financial_scores": {
+      "risk_tolerance": 9,
+      "engagement_index": 0.92,
+      "tech_adoption": 0.31
+    }
+  },
+  {
+    "customer_id": 1296,
+    "name": "关建",
+    "tags": [
+      "投顾客户",
+      "活跃用户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "01:36:10",
+        "06:39:48",
+        "16:45:35",
+        "23:17:11"
+      ],
+      "preferred_channels": [
+        "邮件",
+        "APP"
+      ],
+      "last_login": "2025-12-03"
+    },
+    "financial_scores": {
+      "risk_tolerance": 1,
+      "engagement_index": 0.35,
+      "tech_adoption": 0.05
+    }
+  },
+  {
+    "customer_id": 1297,
+    "name": "孙霞",
+    "tags": [
+      "金融科技偏好"
+    ],
+    "preferences": {
+      "contact_times": [
+        "01:36:29",
+        "15:42:06",
+        "20:44:14"
+      ],
+      "preferred_channels": [
+        "电话"
+      ],
+      "last_login": "2025-12-02"
+    },
+    "financial_scores": {
+      "risk_tolerance": 5,
+      "engagement_index": 0.34,
+      "tech_adoption": 0.05
+    }
+  },
+  {
+    "customer_id": 1298,
+    "name": "刘磊",
+    "tags": [
+      "新客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "00:17:30",
+        "12:34:44",
+        "17:43:00"
+      ],
+      "preferred_channels": [
+        "微信",
+        "电话"
+      ],
+      "last_login": "2025-12-08"
+    },
+    "financial_scores": {
+      "risk_tolerance": 9,
+      "engagement_index": 0.6,
+      "tech_adoption": 0.53
+    }
+  },
+  {
+    "customer_id": 1299,
+    "name": "聂晨",
+    "tags": [
+      "低频操作",
+      "新客户"
+    ],
+    "preferences": {
+      "contact_times": [
+        "04:38:45",
+        "15:02:59",
+        "16:20:51"
+      ],
+      "preferred_channels": [
+        "APP",
+        "电话"
+      ],
+      "last_login": "2025-12-09"
+    },
+    "financial_scores": {
+      "risk_tolerance": 5,
+      "engagement_index": 0.97,
+      "tech_adoption": 0.01
+    }
+  }
+]

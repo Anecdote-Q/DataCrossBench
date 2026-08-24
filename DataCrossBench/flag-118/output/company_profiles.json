@@ -1,0 +1,3989 @@
+[
+  {
+    "company_id": 1,
+    "tags": [
+      "fast_growth",
+      "unicorn",
+      "early_stage"
+    ],
+    "key_products": [
+      "AI_Analytics",
+      "Digital Wallet"
+    ],
+    "last_funding_round": {
+      "amount": 49080508.78,
+      "date": "2024-08-29"
+    },
+    "partners": [
+      "Telecom C",
+      "Bank B"
+    ]
+  },
+  {
+    "company_id": 2,
+    "tags": [
+      "fintech_specialist",
+      "fast_growth",
+      "global"
+    ],
+    "key_products": [
+      "Digital Wallet",
+      "MobileApp"
+    ],
+    "last_funding_round": {
+      "amount": 29041400.54,
+      "date": "2023-12-31"
+    },
+    "partners": [
+      "Regulator D",
+      "Telecom C",
+      "Bank A"
+    ]
+  },
+  {
+    "company_id": 3,
+    "tags": [
+      "early_stage",
+      "leader",
+      "unicorn"
+    ],
+    "key_products": [
+      "MobileApp",
+      "AI_Analytics"
+    ],
+    "last_funding_round": {
+      "amount": 21237889.31,
+      "date": "2023-04-01"
+    },
+    "partners": [
+      "Bank B"
+    ]
+  },
+  {
+    "company_id": 4,
+    "tags": [
+      "unicorn",
+      "fintech_specialist",
+      "global"
+    ],
+    "key_products": [
+      "MobileApp",
+      "AI_Analytics"
+    ],
+    "last_funding_round": {
+      "amount": 50241147.53,
+      "date": "2024-09-10"
+    },
+    "partners": [
+      "Bank B"
+    ]
+  },
+  {
+    "company_id": 5,
+    "tags": [
+      "leader",
+      "early_stage",
+      "unicorn"
+    ],
+    "key_products": [
+      "Lending Engine",
+      "Blockchain Solution"
+    ],
+    "last_funding_round": {
+      "amount": 8135474.16,
+      "date": "2023-06-26"
+    },
+    "partners": [
+      "Bank A",
+      "Regulator D",
+      "VC Firm E"
+    ]
+  },
+  {
+    "company_id": 6,
+    "tags": [
+      "stable",
+      "fast_growth",
+      "leader"
+    ],
+    "key_products": [
+      "Blockchain Solution",
+      "Lending Engine"
+    ],
+    "last_funding_round": {
+      "amount": 43499144.34,
+      "date": "2024-10-06"
+    },
+    "partners": [
+      "Regulator D",
+      "Telecom C",
+      "Bank A"
+    ]
+  },
+  {
+    "company_id": 7,
+    "tags": [
+      "leader",
+      "innovative",
+      "global"
+    ],
+    "key_products": [
+      "API Platform",
+      "Lending Engine"
+    ],
+    "last_funding_round": {
+      "amount": 46549593.29,
+      "date": "2023-12-19"
+    },
+    "partners": [
+      "Bank A",
+      "Regulator D"
+    ]
+  },
+  {
+    "company_id": 8,
+    "tags": [
+      "fast_growth",
+      "early_stage",
+      "stable"
+    ],
+    "key_products": [
+      "Lending Engine",
+      "Digital Wallet"
+    ],
+    "last_funding_round": {
+      "amount": 52872291.76,
+      "date": "2024-10-15"
+    },
+    "partners": [
+      "Telecom C",
+      "Bank B"
+    ]
+  },
+  {
+    "company_id": 9,
+    "tags": [
+      "diverse",
+      "global",
+      "innovative"
+    ],
+    "key_products": [
+      "Lending Engine",
+      "MobileApp"
+    ],
+    "last_funding_round": {
+      "amount": 53529877.26,
+      "date": "2025-05-10"
+    },
+    "partners": [
+      "Telecom C",
+      "Bank B"
+    ]
+  },
+  {
+    "company_id": 10,
+    "tags": [
+      "early_stage",
+      "fast_growth",
+      "stable"
+    ],
+    "key_products": [
+      "Blockchain Solution",
+      "API Platform"
+    ],
+    "last_funding_round": {
+      "amount": 18176403.22,
+      "date": "2025-06-21"
+    },
+    "partners": [
+      "Bank A",
+      "Bank B",
+      "Telecom C"
+    ]
+  },
+  {
+    "company_id": 11,
+    "tags": [
+      "stable",
+      "fintech_specialist",
+      "leader"
+    ],
+    "key_products": [
+      "Lending Engine",
+      "AI_Analytics"
+    ],
+    "last_funding_round": {
+      "amount": 45441620.44,
+      "date": "2023-04-23"
+    },
+    "partners": [
+      "VC Firm E",
+      "Telecom C",
+      "Regulator D"
+    ]
+  },
+  {
+    "company_id": 12,
+    "tags": [
+      "diverse",
+      "global",
+      "early_stage"
+    ],
+    "key_products": [
+      "MobileApp",
+      "Digital Wallet"
+    ],
+    "last_funding_round": {
+      "amount": 44778598.32,
+      "date": "2025-01-18"
+    },
+    "partners": [
+      "VC Firm E",
+      "Bank A"
+    ]
+  },
+  {
+    "company_id": 13,
+    "tags": [
+      "diverse",
+      "fast_growth",
+      "global"
+    ],
+    "key_products": [
+      "Digital Wallet",
+      "AI_Analytics"
+    ],
+    "last_funding_round": {
+      "amount": 4723117.31,
+      "date": "2024-11-12"
+    },
+    "partners": [
+      "Bank A",
+      "VC Firm E"
+    ]
+  },
+  {
+    "company_id": 14,
+    "tags": [
+      "fintech_specialist",
+      "leader",
+      "early_stage"
+    ],
+    "key_products": [
+      "Lending Engine",
+      "AI_Analytics"
+    ],
+    "last_funding_round": {
+      "amount": 95468916.2,
+      "date": "2023-10-30"
+    },
+    "partners": [
+      "Regulator D"
+    ]
+  },
+  {
+    "company_id": 15,
+    "tags": [
+      "early_stage",
+      "diverse",
+      "unicorn"
+    ],
+    "key_products": [
+      "Digital Wallet",
+      "Lending Engine"
+    ],
+    "last_funding_round": {
+      "amount": 15935246.59,
+      "date": "2025-09-22"
+    },
+    "partners": [
+      "Bank A",
+      "Telecom C"
+    ]
+  },
+  {
+    "company_id": 16,
+    "tags": [
+      "fast_growth",
+      "global",
+      "innovative"
+    ],
+    "key_products": [
+      "API Platform",
+      "Digital Wallet"
+    ],
+    "last_funding_round": {
+      "amount": 99107616.24,
+      "date": "2024-06-06"
+    },
+    "partners": [
+      "VC Firm E",
+      "Bank B",
+      "Regulator D"
+    ]
+  },
+  {
+    "company_id": 17,
+    "tags": [
+      "diverse",
+      "unicorn",
+      "early_stage"
+    ],
+    "key_products": [
+      "Digital Wallet",
+      "Blockchain Solution"
+    ],
+    "last_funding_round": {
+      "amount": 68210874.34,
+      "date": "2025-10-02"
+    },
+    "partners": [
+      "Telecom C",
+      "Bank A",
+      "Bank B"
+    ]
+  },
+  {
+    "company_id": 18,
+    "tags": [
+      "fast_growth",
+      "leader",
+      "global"
+    ],
+    "key_products": [
+      "Blockchain Solution",
+      "Lending Engine"
+    ],
+    "last_funding_round": {
+      "amount": 87454686.54,
+      "date": "2024-12-18"
+    },
+    "partners": [
+      "VC Firm E"
+    ]
+  },
+  {
+    "company_id": 19,
+    "tags": [
+      "global",
+      "diverse",
+      "fintech_specialist"
+    ],
+    "key_products": [
+      "AI_Analytics",
+      "Digital Wallet"
+    ],
+    "last_funding_round": {
+      "amount": 13766214.17,
+      "date": "2023-11-30"
+    },
+    "partners": [
+      "Telecom C"
+    ]
+  },
+  {
+    "company_id": 20,
+    "tags": [
+      "fintech_specialist",
+      "leader",
+      "diverse"
+    ],
+    "key_products": [
+      "Blockchain Solution",
+      "API Platform"
+    ],
+    "last_funding_round": {
+      "amount": 67341523.6,
+      "date": "2023-07-30"
+    },
+    "partners": [
+      "VC Firm E",
+      "Bank A",
+      "Telecom C"
+    ]
+  },
+  {
+    "company_id": 21,
+    "tags": [
+      "leader",
+      "diverse",
+      "innovative"
+    ],
+    "key_products": [
+      "Blockchain Solution",
+      "AI_Analytics"
+    ],
+    "last_funding_round": {
+      "amount": 18846029.36,
+      "date": "2025-04-19"
+    },
+    "partners": [
+      "Regulator D",
+      "Bank B"
+    ]
+  },
+  {
+    "company_id": 22,
+    "tags": [
+      "early_stage",
+      "global",
+      "fast_growth"
+    ],
+    "key_products": [
+      "MobileApp",
+      "Blockchain Solution"
+    ],
+    "last_funding_round": {
+      "amount": 84598410.48,
+      "date": "2025-08-13"
+    },
+    "partners": [
+      "VC Firm E",
+      "Bank A",
+      "Telecom C"
+    ]
+  },
+  {
+    "company_id": 23,
+    "tags": [
+      "diverse",
+      "global",
+      "unicorn"
+    ],
+    "key_products": [
+      "Digital Wallet",
+      "API Platform"
+    ],
+    "last_funding_round": {
+      "amount": 17062474.0,
+      "date": "2023-07-27"
+    },
+    "partners": [
+      "VC Firm E",
+      "Bank B",
+      "Telecom C"
+    ]
+  },
+  {
+    "company_id": 24,
+    "tags": [
+      "stable",
+      "innovative",
+      "early_stage"
+    ],
+    "key_products": [
+      "Blockchain Solution",
+      "API Platform"
+    ],
+    "last_funding_round": {
+      "amount": 96989271.74,
+      "date": "2024-03-09"
+    },
+    "partners": [
+      "Regulator D",
+      "Bank B"
+    ]
+  },
+  {
+    "company_id": 25,
+    "tags": [
+      "fintech_specialist",
+      "early_stage",
+      "global"
+    ],
+    "key_products": [
+      "Digital Wallet",
+      "API Platform"
+    ],
+    "last_funding_round": {
+      "amount": 37416254.86,
+      "date": "2023-03-31"
+    },
+    "partners": [
+      "Regulator D",
+      "VC Firm E",
+      "Bank B"
+    ]
+  },
+  {
+    "company_id": 26,
+    "tags": [
+      "leader",
+      "fintech_specialist",
+      "fast_growth"
+    ],
+    "key_products": [
+      "API Platform",
+      "Lending Engine"
+    ],
+    "last_funding_round": {
+      "amount": 14701454.93,
+      "date": "2025-03-13"
+    },
+    "partners": [
+      "Regulator D"
+    ]
+  },
+  {
+    "company_id": 27,
+    "tags": [
+      "diverse",
+      "fast_growth",
+      "fintech_specialist"
+    ],
+    "key_products": [
+      "Lending Engine",
+      "MobileApp"
+    ],
+    "last_funding_round": {
+      "amount": 29221238.39,
+      "date": "2023-10-05"
+    },
+    "partners": [
+      "Telecom C"
+    ]
+  },
+  {
+    "company_id": 28,
+    "tags": [
+      "stable",
+      "global",
+      "leader"
+    ],
+    "key_products": [
+      "Digital Wallet",
+      "MobileApp"
+    ],
+    "last_funding_round": {
+      "amount": 94694913.04,
+      "date": "2025-04-11"
+    },
+    "partners": [
+      "Telecom C",
+      "Bank A"
+    ]
+  },
+  {
+    "company_id": 29,
+    "tags": [
+      "leader",
+      "innovative",
+      "early_stage"
+    ],
+    "key_products": [
+      "Lending Engine",
+      "Blockchain Solution"
+    ],
+    "last_funding_round": {
+      "amount": 24342029.31,
+      "date": "2025-09-02"
+    },
+    "partners": [
+      "Bank B",
+      "Bank A"
+    ]
+  },
+  {
+    "company_id": 30,
+    "tags": [
+      "diverse",
+      "fast_growth",
+      "leader"
+    ],
+    "key_products": [
+      "AI_Analytics",
+      "Blockchain Solution"
+    ],
+    "last_funding_round": {
+      "amount": 79346683.11,
+      "date": "2025-07-07"
+    },
+    "partners": [
+      "Telecom C"
+    ]
+  },
+  {
+    "company_id": 31,
+    "tags": [
+      "stable",
+      "global",
+      "leader"
+    ],
+    "key_products": [
+      "AI_Analytics",
+      "Digital Wallet"
+    ],
+    "last_funding_round": {
+      "amount": 45411545.92,
+      "date": "2025-11-19"
+    },
+    "partners": [
+      "Bank A"
+    ]
+  },
+  {
+    "company_id": 32,
+    "tags": [
+      "unicorn",
+      "early_stage",
+      "leader"
+    ],
+    "key_products": [
+      "API Platform",
+      "Lending Engine"
+    ],
+    "last_funding_round": {
+      "amount": 94082368.98,
+      "date": "2024-03-11"
+    },
+    "partners": [
+      "Regulator D",
+      "Bank A",
+      "Bank B"
+    ]
+  },
+  {
+    "company_id": 33,
+    "tags": [
+      "early_stage",
+      "unicorn",
+      "innovative"
+    ],
+    "key_products": [
+      "MobileApp",
+      "API Platform"
+    ],
+    "last_funding_round": {
+      "amount": 42562728.83,
+      "date": "2023-09-04"
+    },
+    "partners": [
+      "Regulator D",
+      "Bank A",
+      "VC Firm E"
+    ]
+  },
+  {
+    "company_id": 34,
+    "tags": [
+      "stable",
+      "innovative",
+      "diverse"
+    ],
+    "key_products": [
+      "Lending Engine",
+      "AI_Analytics"
+    ],
+    "last_funding_round": {
+      "amount": 24951875.31,
+      "date": "2025-06-30"
+    },
+    "partners": [
+      "Regulator D",
+      "Bank A"
+    ]
+  },
+  {
+    "company_id": 35,
+    "tags": [
+      "diverse",
+      "early_stage",
+      "unicorn"
+    ],
+    "key_products": [
+      "Digital Wallet",
+      "API Platform"
+    ],
+    "last_funding_round": {
+      "amount": 66772758.87,
+      "date": "2025-08-29"
+    },
+    "partners": [
+      "Telecom C",
+      "Bank A",
+      "VC Firm E"
+    ]
+  },
+  {
+    "company_id": 36,
+    "tags": [
+      "fintech_specialist",
+      "innovative",
+      "early_stage"
+    ],
+    "key_products": [
+      "Digital Wallet",
+      "MobileApp"
+    ],
+    "last_funding_round": {
+      "amount": 63931408.36,
+      "date": "2024-11-07"
+    },
+    "partners": [
+      "Bank A",
+      "Telecom C"
+    ]
+  },
+  {
+    "company_id": 37,
+    "tags": [
+      "fast_growth",
+      "diverse",
+      "fintech_specialist"
+    ],
+    "key_products": [
+      "AI_Analytics",
+      "MobileApp"
+    ],
+    "last_funding_round": {
+      "amount": 77378636.04,
+      "date": "2023-11-03"
+    },
+    "partners": [
+      "Bank B",
+      "Bank A"
+    ]
+  },
+  {
+    "company_id": 38,
+    "tags": [
+      "diverse",
+      "fintech_specialist",
+      "leader"
+    ],
+    "key_products": [
+      "AI_Analytics",
+      "API Platform"
+    ],
+    "last_funding_round": {
+      "amount": 83207982.02,
+      "date": "2023-12-24"
+    },
+    "partners": [
+      "Regulator D",
+      "Bank B"
+    ]
+  },
+  {
+    "company_id": 39,
+    "tags": [
+      "global",
+      "fast_growth",
+      "diverse"
+    ],
+    "key_products": [
+      "Digital Wallet",
+      "MobileApp"
+    ],
+    "last_funding_round": {
+      "amount": 30050814.55,
+      "date": "2025-10-11"
+    },
+    "partners": [
+      "Bank A"
+    ]
+  },
+  {
+    "company_id": 40,
+    "tags": [
+      "diverse",
+      "unicorn",
+      "stable"
+    ],
+    "key_products": [
+      "Digital Wallet",
+      "Lending Engine"
+    ],
+    "last_funding_round": {
+      "amount": 47866577.0,
+      "date": "2025-10-18"
+    },
+    "partners": [
+      "Bank B",
+      "Telecom C",
+      "VC Firm E"
+    ]
+  },
+  {
+    "company_id": 41,
+    "tags": [
+      "innovative",
+      "diverse",
+      "global"
+    ],
+    "key_products": [
+      "MobileApp",
+      "Blockchain Solution"
+    ],
+    "last_funding_round": {
+      "amount": 44258186.93,
+      "date": "2024-10-11"
+    },
+    "partners": [
+      "Regulator D",
+      "VC Firm E",
+      "Bank B"
+    ]
+  },
+  {
+    "company_id": 42,
+    "tags": [
+      "global",
+      "stable",
+      "diverse"
+    ],
+    "key_products": [
+      "Digital Wallet",
+      "Blockchain Solution"
+    ],
+    "last_funding_round": {
+      "amount": 92506736.2,
+      "date": "2024-06-11"
+    },
+    "partners": [
+      "Bank A",
+      "Regulator D"
+    ]
+  },
+  {
+    "company_id": 43,
+    "tags": [
+      "fast_growth",
+      "leader",
+      "unicorn"
+    ],
+    "key_products": [
+      "API Platform",
+      "Lending Engine"
+    ],
+    "last_funding_round": {
+      "amount": 30082875.48,
+      "date": "2025-08-11"
+    },
+    "partners": [
+      "Telecom C"
+    ]
+  },
+  {
+    "company_id": 44,
+    "tags": [
+      "unicorn",
+      "fintech_specialist",
+      "early_stage"
+    ],
+    "key_products": [
+      "Lending Engine",
+      "Digital Wallet"
+    ],
+    "last_funding_round": {
+      "amount": 17497832.43,
+      "date": "2024-08-27"
+    },
+    "partners": [
+      "Regulator D",
+      "Bank A"
+    ]
+  },
+  {
+    "company_id": 45,
+    "tags": [
+      "diverse",
+      "leader",
+      "global"
+    ],
+    "key_products": [
+      "AI_Analytics",
+      "MobileApp"
+    ],
+    "last_funding_round": {
+      "amount": 8429075.33,
+      "date": "2024-02-11"
+    },
+    "partners": [
+      "Telecom C",
+      "Bank B"
+    ]
+  },
+  {
+    "company_id": 46,
+    "tags": [
+      "innovative",
+      "global",
+      "leader"
+    ],
+    "key_products": [
+      "Lending Engine",
+      "Digital Wallet"
+    ],
+    "last_funding_round": {
+      "amount": 4445097.61,
+      "date": "2025-09-17"
+    },
+    "partners": [
+      "Telecom C"
+    ]
+  },
+  {
+    "company_id": 47,
+    "tags": [
+      "diverse",
+      "leader",
+      "unicorn"
+    ],
+    "key_products": [
+      "MobileApp",
+      "Lending Engine"
+    ],
+    "last_funding_round": {
+      "amount": 16190378.18,
+      "date": "2024-08-21"
+    },
+    "partners": [
+      "Telecom C",
+      "Regulator D"
+    ]
+  },
+  {
+    "company_id": 48,
+    "tags": [
+      "fast_growth",
+      "global",
+      "unicorn"
+    ],
+    "key_products": [
+      "Blockchain Solution",
+      "Digital Wallet"
+    ],
+    "last_funding_round": {
+      "amount": 32124158.69,
+      "date": "2025-02-12"
+    },
+    "partners": [
+      "Bank A"
+    ]
+  },
+  {
+    "company_id": 49,
+    "tags": [
+      "innovative",
+      "global",
+      "early_stage"
+    ],
+    "key_products": [
+      "Lending Engine",
+      "Digital Wallet"
+    ],
+    "last_funding_round": {
+      "amount": 91440708.08,
+      "date": "2025-07-27"
+    },
+    "partners": [
+      "Telecom C",
+      "Regulator D"
+    ]
+  },
+  {
+    "company_id": 50,
+    "tags": [
+      "early_stage",
+      "unicorn",
+      "diverse"
+    ],
+    "key_products": [
+      "Digital Wallet",
+      "API Platform"
+    ],
+    "last_funding_round": {
+      "amount": 13141104.77,
+      "date": "2023-07-05"
+    },
+    "partners": [
+      "Regulator D"
+    ]
+  },
+  {
+    "company_id": 51,
+    "tags": [
+      "global",
+      "stable",
+      "innovative"
+    ],
+    "key_products": [
+      "AI_Analytics",
+      "Blockchain Solution"
+    ],
+    "last_funding_round": {
+      "amount": 67116139.26,
+      "date": "2023-11-29"
+    },
+    "partners": [
+      "VC Firm E"
+    ]
+  },
+  {
+    "company_id": 52,
+    "tags": [
+      "fintech_specialist",
+      "unicorn",
+      "global"
+    ],
+    "key_products": [
+      "API Platform",
+      "AI_Analytics"
+    ],
+    "last_funding_round": {
+      "amount": 79575942.0,
+      "date": "2024-06-22"
+    },
+    "partners": [
+      "Bank A"
+    ]
+  },
+  {
+    "company_id": 53,
+    "tags": [
+      "early_stage",
+      "global",
+      "fast_growth"
+    ],
+    "key_products": [
+      "Digital Wallet",
+      "MobileApp"
+    ],
+    "last_funding_round": {
+      "amount": 36728755.92,
+      "date": "2024-04-17"
+    },
+    "partners": [
+      "Regulator D",
+      "Bank B"
+    ]
+  },
+  {
+    "company_id": 54,
+    "tags": [
+      "fast_growth",
+      "fintech_specialist",
+      "global"
+    ],
+    "key_products": [
+      "Digital Wallet",
+      "AI_Analytics"
+    ],
+    "last_funding_round": {
+      "amount": 53043869.83,
+      "date": "2023-09-29"
+    },
+    "partners": [
+      "VC Firm E",
+      "Bank A"
+    ]
+  },
+  {
+    "company_id": 55,
+    "tags": [
+      "global",
+      "diverse",
+      "stable"
+    ],
+    "key_products": [
+      "MobileApp",
+      "Digital Wallet"
+    ],
+    "last_funding_round": {
+      "amount": 47117486.76,
+      "date": "2024-06-13"
+    },
+    "partners": [
+      "Bank B",
+      "VC Firm E"
+    ]
+  },
+  {
+    "company_id": 56,
+    "tags": [
+      "global",
+      "leader",
+      "unicorn"
+    ],
+    "key_products": [
+      "MobileApp",
+      "AI_Analytics"
+    ],
+    "last_funding_round": {
+      "amount": 52292111.16,
+      "date": "2025-01-17"
+    },
+    "partners": [
+      "Bank B"
+    ]
+  },
+  {
+    "company_id": 57,
+    "tags": [
+      "diverse",
+      "early_stage",
+      "global"
+    ],
+    "key_products": [
+      "Lending Engine",
+      "Blockchain Solution"
+    ],
+    "last_funding_round": {
+      "amount": 84747436.91,
+      "date": "2025-03-13"
+    },
+    "partners": [
+      "VC Firm E"
+    ]
+  },
+  {
+    "company_id": 58,
+    "tags": [
+      "unicorn",
+      "global",
+      "diverse"
+    ],
+    "key_products": [
+      "Blockchain Solution",
+      "Lending Engine"
+    ],
+    "last_funding_round": {
+      "amount": 53814324.95,
+      "date": "2024-06-28"
+    },
+    "partners": [
+      "Bank B",
+      "VC Firm E",
+      "Bank A"
+    ]
+  },
+  {
+    "company_id": 59,
+    "tags": [
+      "diverse",
+      "innovative",
+      "leader"
+    ],
+    "key_products": [
+      "MobileApp",
+      "AI_Analytics"
+    ],
+    "last_funding_round": {
+      "amount": 5500718.53,
+      "date": "2024-02-07"
+    },
+    "partners": [
+      "Telecom C",
+      "Bank B",
+      "VC Firm E"
+    ]
+  },
+  {
+    "company_id": 60,
+    "tags": [
+      "leader",
+      "innovative",
+      "early_stage"
+    ],
+    "key_products": [
+      "AI_Analytics",
+      "Lending Engine"
+    ],
+    "last_funding_round": {
+      "amount": 29677494.02,
+      "date": "2025-01-19"
+    },
+    "partners": [
+      "Bank B",
+      "Regulator D"
+    ]
+  },
+  {
+    "company_id": 61,
+    "tags": [
+      "unicorn",
+      "stable",
+      "innovative"
+    ],
+    "key_products": [
+      "AI_Analytics",
+      "MobileApp"
+    ],
+    "last_funding_round": {
+      "amount": 16649964.25,
+      "date": "2024-09-25"
+    },
+    "partners": [
+      "Regulator D",
+      "Bank B"
+    ]
+  },
+  {
+    "company_id": 62,
+    "tags": [
+      "diverse",
+      "global",
+      "stable"
+    ],
+    "key_products": [
+      "AI_Analytics",
+      "Blockchain Solution"
+    ],
+    "last_funding_round": {
+      "amount": 73685775.73,
+      "date": "2023-06-27"
+    },
+    "partners": [
+      "Regulator D",
+      "Bank B"
+    ]
+  },
+  {
+    "company_id": 63,
+    "tags": [
+      "diverse",
+      "fast_growth",
+      "global"
+    ],
+    "key_products": [
+      "API Platform",
+      "Digital Wallet"
+    ],
+    "last_funding_round": {
+      "amount": 13129669.0,
+      "date": "2024-08-21"
+    },
+    "partners": [
+      "Bank B"
+    ]
+  },
+  {
+    "company_id": 64,
+    "tags": [
+      "fast_growth",
+      "innovative",
+      "global"
+    ],
+    "key_products": [
+      "Digital Wallet",
+      "Lending Engine"
+    ],
+    "last_funding_round": {
+      "amount": 42395339.59,
+      "date": "2023-06-22"
+    },
+    "partners": [
+      "Telecom C"
+    ]
+  },
+  {
+    "company_id": 65,
+    "tags": [
+      "diverse",
+      "early_stage",
+      "leader"
+    ],
+    "key_products": [
+      "API Platform",
+      "Digital Wallet"
+    ],
+    "last_funding_round": {
+      "amount": 99600971.7,
+      "date": "2024-08-03"
+    },
+    "partners": [
+      "Telecom C",
+      "Regulator D"
+    ]
+  },
+  {
+    "company_id": 66,
+    "tags": [
+      "innovative",
+      "fast_growth",
+      "early_stage"
+    ],
+    "key_products": [
+      "Lending Engine",
+      "Digital Wallet"
+    ],
+    "last_funding_round": {
+      "amount": 96701976.42,
+      "date": "2025-04-18"
+    },
+    "partners": [
+      "Telecom C",
+      "Bank A",
+      "Regulator D"
+    ]
+  },
+  {
+    "company_id": 67,
+    "tags": [
+      "unicorn",
+      "stable",
+      "fintech_specialist"
+    ],
+    "key_products": [
+      "AI_Analytics",
+      "Digital Wallet"
+    ],
+    "last_funding_round": {
+      "amount": 29289089.76,
+      "date": "2025-11-16"
+    },
+    "partners": [
+      "Regulator D"
+    ]
+  },
+  {
+    "company_id": 68,
+    "tags": [
+      "global",
+      "unicorn",
+      "diverse"
+    ],
+    "key_products": [
+      "Blockchain Solution",
+      "Digital Wallet"
+    ],
+    "last_funding_round": {
+      "amount": 37227797.9,
+      "date": "2024-10-10"
+    },
+    "partners": [
+      "VC Firm E"
+    ]
+  },
+  {
+    "company_id": 69,
+    "tags": [
+      "fintech_specialist",
+      "early_stage",
+      "global"
+    ],
+    "key_products": [
+      "Lending Engine",
+      "Blockchain Solution"
+    ],
+    "last_funding_round": {
+      "amount": 8279643.22,
+      "date": "2024-06-26"
+    },
+    "partners": [
+      "VC Firm E",
+      "Telecom C"
+    ]
+  },
+  {
+    "company_id": 70,
+    "tags": [
+      "fast_growth",
+      "global",
+      "innovative"
+    ],
+    "key_products": [
+      "Digital Wallet",
+      "Blockchain Solution"
+    ],
+    "last_funding_round": {
+      "amount": 79694825.61,
+      "date": "2024-12-12"
+    },
+    "partners": [
+      "Telecom C",
+      "Bank B",
+      "Bank A"
+    ]
+  },
+  {
+    "company_id": 71,
+    "tags": [
+      "fintech_specialist",
+      "leader",
+      "unicorn"
+    ],
+    "key_products": [
+      "MobileApp",
+      "AI_Analytics"
+    ],
+    "last_funding_round": {
+      "amount": 4852482.66,
+      "date": "2023-11-25"
+    },
+    "partners": [
+      "Regulator D",
+      "VC Firm E"
+    ]
+  },
+  {
+    "company_id": 72,
+    "tags": [
+      "global",
+      "fintech_specialist",
+      "stable"
+    ],
+    "key_products": [
+      "Lending Engine",
+      "Blockchain Solution"
+    ],
+    "last_funding_round": {
+      "amount": 17087702.54,
+      "date": "2024-03-03"
+    },
+    "partners": [
+      "Telecom C",
+      "VC Firm E",
+      "Regulator D"
+    ]
+  },
+  {
+    "company_id": 73,
+    "tags": [
+      "fintech_specialist",
+      "stable",
+      "diverse"
+    ],
+    "key_products": [
+      "Lending Engine",
+      "Blockchain Solution"
+    ],
+    "last_funding_round": {
+      "amount": 48014367.4,
+      "date": "2025-11-07"
+    },
+    "partners": [
+      "Telecom C",
+      "Bank A"
+    ]
+  },
+  {
+    "company_id": 74,
+    "tags": [
+      "leader",
+      "unicorn",
+      "fintech_specialist"
+    ],
+    "key_products": [
+      "AI_Analytics",
+      "MobileApp"
+    ],
+    "last_funding_round": {
+      "amount": 60094051.98,
+      "date": "2025-02-26"
+    },
+    "partners": [
+      "VC Firm E",
+      "Bank B",
+      "Telecom C"
+    ]
+  },
+  {
+    "company_id": 75,
+    "tags": [
+      "innovative",
+      "stable",
+      "fast_growth"
+    ],
+    "key_products": [
+      "Lending Engine",
+      "AI_Analytics"
+    ],
+    "last_funding_round": {
+      "amount": 77686006.85,
+      "date": "2024-10-31"
+    },
+    "partners": [
+      "Bank B"
+    ]
+  },
+  {
+    "company_id": 76,
+    "tags": [
+      "innovative",
+      "fast_growth",
+      "stable"
+    ],
+    "key_products": [
+      "MobileApp",
+      "Digital Wallet"
+    ],
+    "last_funding_round": {
+      "amount": 32055555.86,
+      "date": "2025-06-22"
+    },
+    "partners": [
+      "Bank B",
+      "Regulator D"
+    ]
+  },
+  {
+    "company_id": 77,
+    "tags": [
+      "fintech_specialist",
+      "stable",
+      "leader"
+    ],
+    "key_products": [
+      "AI_Analytics",
+      "MobileApp"
+    ],
+    "last_funding_round": {
+      "amount": 70871747.98,
+      "date": "2024-06-11"
+    },
+    "partners": [
+      "VC Firm E"
+    ]
+  },
+  {
+    "company_id": 78,
+    "tags": [
+      "diverse",
+      "stable",
+      "unicorn"
+    ],
+    "key_products": [
+      "Digital Wallet",
+      "Blockchain Solution"
+    ],
+    "last_funding_round": {
+      "amount": 95711863.73,
+      "date": "2024-08-11"
+    },
+    "partners": [
+      "Telecom C",
+      "VC Firm E",
+      "Regulator D"
+    ]
+  },
+  {
+    "company_id": 79,
+    "tags": [
+      "unicorn",
+      "stable",
+      "fast_growth"
+    ],
+    "key_products": [
+      "API Platform",
+      "Blockchain Solution"
+    ],
+    "last_funding_round": {
+      "amount": 56250578.43,
+      "date": "2025-04-08"
+    },
+    "partners": [
+      "Telecom C",
+      "Bank B"
+    ]
+  },
+  {
+    "company_id": 80,
+    "tags": [
+      "stable",
+      "diverse",
+      "early_stage"
+    ],
+    "key_products": [
+      "Blockchain Solution",
+      "Lending Engine"
+    ],
+    "last_funding_round": {
+      "amount": 93436337.1,
+      "date": "2023-09-02"
+    },
+    "partners": [
+      "Telecom C",
+      "VC Firm E",
+      "Bank A"
+    ]
+  },
+  {
+    "company_id": 81,
+    "tags": [
+      "fintech_specialist",
+      "leader",
+      "early_stage"
+    ],
+    "key_products": [
+      "Blockchain Solution",
+      "API Platform"
+    ],
+    "last_funding_round": {
+      "amount": 29754812.55,
+      "date": "2025-02-03"
+    },
+    "partners": [
+      "Bank A",
+      "Telecom C",
+      "Bank B"
+    ]
+  },
+  {
+    "company_id": 82,
+    "tags": [
+      "unicorn",
+      "stable",
+      "fast_growth"
+    ],
+    "key_products": [
+      "API Platform",
+      "Lending Engine"
+    ],
+    "last_funding_round": {
+      "amount": 27842139.48,
+      "date": "2024-04-28"
+    },
+    "partners": [
+      "Telecom C",
+      "Bank B",
+      "Bank A"
+    ]
+  },
+  {
+    "company_id": 83,
+    "tags": [
+      "early_stage",
+      "fintech_specialist",
+      "innovative"
+    ],
+    "key_products": [
+      "AI_Analytics",
+      "Lending Engine"
+    ],
+    "last_funding_round": {
+      "amount": 23341492.98,
+      "date": "2025-03-31"
+    },
+    "partners": [
+      "Bank A"
+    ]
+  },
+  {
+    "company_id": 84,
+    "tags": [
+      "leader",
+      "diverse",
+      "stable"
+    ],
+    "key_products": [
+      "Digital Wallet",
+      "MobileApp"
+    ],
+    "last_funding_round": {
+      "amount": 68438006.67,
+      "date": "2025-07-07"
+    },
+    "partners": [
+      "VC Firm E"
+    ]
+  },
+  {
+    "company_id": 85,
+    "tags": [
+      "global",
+      "leader",
+      "diverse"
+    ],
+    "key_products": [
+      "Digital Wallet",
+      "AI_Analytics"
+    ],
+    "last_funding_round": {
+      "amount": 65403330.5,
+      "date": "2023-10-12"
+    },
+    "partners": [
+      "Telecom C",
+      "VC Firm E"
+    ]
+  },
+  {
+    "company_id": 86,
+    "tags": [
+      "innovative",
+      "fast_growth",
+      "diverse"
+    ],
+    "key_products": [
+      "Lending Engine",
+      "API Platform"
+    ],
+    "last_funding_round": {
+      "amount": 53980075.41,
+      "date": "2023-11-15"
+    },
+    "partners": [
+      "Bank B"
+    ]
+  },
+  {
+    "company_id": 87,
+    "tags": [
+      "leader",
+      "global",
+      "innovative"
+    ],
+    "key_products": [
+      "Digital Wallet",
+      "AI_Analytics"
+    ],
+    "last_funding_round": {
+      "amount": 19444851.56,
+      "date": "2023-10-20"
+    },
+    "partners": [
+      "Bank A",
+      "VC Firm E"
+    ]
+  },
+  {
+    "company_id": 88,
+    "tags": [
+      "unicorn",
+      "fast_growth",
+      "global"
+    ],
+    "key_products": [
+      "Blockchain Solution",
+      "Digital Wallet"
+    ],
+    "last_funding_round": {
+      "amount": 98920847.54,
+      "date": "2024-05-17"
+    },
+    "partners": [
+      "Regulator D",
+      "Bank B",
+      "Telecom C"
+    ]
+  },
+  {
+    "company_id": 89,
+    "tags": [
+      "stable",
+      "unicorn",
+      "fast_growth"
+    ],
+    "key_products": [
+      "MobileApp",
+      "Blockchain Solution"
+    ],
+    "last_funding_round": {
+      "amount": 17086931.99,
+      "date": "2024-08-12"
+    },
+    "partners": [
+      "Telecom C",
+      "Bank B",
+      "Bank A"
+    ]
+  },
+  {
+    "company_id": 90,
+    "tags": [
+      "diverse",
+      "unicorn",
+      "stable"
+    ],
+    "key_products": [
+      "AI_Analytics",
+      "API Platform"
+    ],
+    "last_funding_round": {
+      "amount": 18373996.47,
+      "date": "2023-07-02"
+    },
+    "partners": [
+      "Regulator D",
+      "VC Firm E",
+      "Telecom C"
+    ]
+  },
+  {
+    "company_id": 91,
+    "tags": [
+      "diverse",
+      "fast_growth",
+      "early_stage"
+    ],
+    "key_products": [
+      "AI_Analytics",
+      "MobileApp"
+    ],
+    "last_funding_round": {
+      "amount": 19293338.9,
+      "date": "2025-07-04"
+    },
+    "partners": [
+      "Telecom C",
+      "Bank B"
+    ]
+  },
+  {
+    "company_id": 92,
+    "tags": [
+      "innovative",
+      "unicorn",
+      "early_stage"
+    ],
+    "key_products": [
+      "API Platform",
+      "Digital Wallet"
+    ],
+    "last_funding_round": {
+      "amount": 75621908.53,
+      "date": "2024-12-22"
+    },
+    "partners": [
+      "VC Firm E",
+      "Bank A"
+    ]
+  },
+  {
+    "company_id": 93,
+    "tags": [
+      "unicorn",
+      "diverse",
+      "stable"
+    ],
+    "key_products": [
+      "API Platform",
+      "MobileApp"
+    ],
+    "last_funding_round": {
+      "amount": 67110825.37,
+      "date": "2024-08-05"
+    },
+    "partners": [
+      "Bank B",
+      "Regulator D"
+    ]
+  },
+  {
+    "company_id": 94,
+    "tags": [
+      "fintech_specialist",
+      "unicorn",
+      "diverse"
+    ],
+    "key_products": [
+      "MobileApp",
+      "Blockchain Solution"
+    ],
+    "last_funding_round": {
+      "amount": 37386846.41,
+      "date": "2025-04-12"
+    },
+    "partners": [
+      "Bank B"
+    ]
+  },
+  {
+    "company_id": 95,
+    "tags": [
+      "stable",
+      "global",
+      "early_stage"
+    ],
+    "key_products": [
+      "AI_Analytics",
+      "Lending Engine"
+    ],
+    "last_funding_round": {
+      "amount": 37988859.36,
+      "date": "2023-12-07"
+    },
+    "partners": [
+      "Regulator D",
+      "Bank B",
+      "Bank A"
+    ]
+  },
+  {
+    "company_id": 96,
+    "tags": [
+      "fast_growth",
+      "stable",
+      "unicorn"
+    ],
+    "key_products": [
+      "AI_Analytics",
+      "Blockchain Solution"
+    ],
+    "last_funding_round": {
+      "amount": 8732169.49,
+      "date": "2024-04-26"
+    },
+    "partners": [
+      "Bank A"
+    ]
+  },
+  {
+    "company_id": 97,
+    "tags": [
+      "fintech_specialist",
+      "early_stage",
+      "unicorn"
+    ],
+    "key_products": [
+      "Lending Engine",
+      "API Platform"
+    ],
+    "last_funding_round": {
+      "amount": 17289178.5,
+      "date": "2023-07-04"
+    },
+    "partners": [
+      "Regulator D",
+      "Bank A",
+      "Telecom C"
+    ]
+  },
+  {
+    "company_id": 98,
+    "tags": [
+      "early_stage",
+      "stable",
+      "innovative"
+    ],
+    "key_products": [
+      "Lending Engine",
+      "Digital Wallet"
+    ],
+    "last_funding_round": {
+      "amount": 81060516.23,
+      "date": "2024-08-17"
+    },
+    "partners": [
+      "VC Firm E"
+    ]
+  },
+  {
+    "company_id": 99,
+    "tags": [
+      "leader",
+      "stable",
+      "unicorn"
+    ],
+    "key_products": [
+      "MobileApp",
+      "Lending Engine"
+    ],
+    "last_funding_round": {
+      "amount": 46775452.27,
+      "date": "2023-08-21"
+    },
+    "partners": [
+      "Bank A",
+      "Regulator D"
+    ]
+  },
+  {
+    "company_id": 100,
+    "tags": [
+      "unicorn",
+      "innovative",
+      "diverse"
+    ],
+    "key_products": [
+      "API Platform",
+      "Lending Engine"
+    ],
+    "last_funding_round": {
+      "amount": 8229923.07,
+      "date": "2024-09-17"
+    },
+    "partners": [
+      "Bank A",
+      "VC Firm E"
+    ]
+  },
+  {
+    "company_id": 101,
+    "tags": [
+      "fast_growth",
+      "stable",
+      "innovative"
+    ],
+    "key_products": [
+      "Blockchain Solution",
+      "Digital Wallet"
+    ],
+    "last_funding_round": {
+      "amount": 18818151.36,
+      "date": "2025-07-09"
+    },
+    "partners": [
+      "Regulator D",
+      "Telecom C",
+      "Bank B"
+    ]
+  },
+  {
+    "company_id": 102,
+    "tags": [
+      "stable",
+      "leader",
+      "early_stage"
+    ],
+    "key_products": [
+      "MobileApp",
+      "Lending Engine"
+    ],
+    "last_funding_round": {
+      "amount": 14165990.83,
+      "date": "2023-06-28"
+    },
+    "partners": [
+      "Bank A",
+      "Bank B"
+    ]
+  },
+  {
+    "company_id": 103,
+    "tags": [
+      "fintech_specialist",
+      "leader",
+      "unicorn"
+    ],
+    "key_products": [
+      "API Platform",
+      "AI_Analytics"
+    ],
+    "last_funding_round": {
+      "amount": 83647339.56,
+      "date": "2023-10-12"
+    },
+    "partners": [
+      "Telecom C"
+    ]
+  },
+  {
+    "company_id": 104,
+    "tags": [
+      "stable",
+      "leader",
+      "unicorn"
+    ],
+    "key_products": [
+      "Digital Wallet",
+      "API Platform"
+    ],
+    "last_funding_round": {
+      "amount": 25503691.81,
+      "date": "2024-12-05"
+    },
+    "partners": [
+      "Telecom C"
+    ]
+  },
+  {
+    "company_id": 105,
+    "tags": [
+      "early_stage",
+      "fast_growth",
+      "innovative"
+    ],
+    "key_products": [
+      "AI_Analytics",
+      "Digital Wallet"
+    ],
+    "last_funding_round": {
+      "amount": 61877397.51,
+      "date": "2023-04-11"
+    },
+    "partners": [
+      "Bank B"
+    ]
+  },
+  {
+    "company_id": 106,
+    "tags": [
+      "early_stage",
+      "fast_growth",
+      "innovative"
+    ],
+    "key_products": [
+      "Lending Engine",
+      "MobileApp"
+    ],
+    "last_funding_round": {
+      "amount": 45197665.56,
+      "date": "2024-01-06"
+    },
+    "partners": [
+      "Bank A",
+      "Bank B",
+      "Telecom C"
+    ]
+  },
+  {
+    "company_id": 107,
+    "tags": [
+      "innovative",
+      "leader",
+      "early_stage"
+    ],
+    "key_products": [
+      "API Platform",
+      "Lending Engine"
+    ],
+    "last_funding_round": {
+      "amount": 22509651.81,
+      "date": "2023-06-24"
+    },
+    "partners": [
+      "Bank B"
+    ]
+  },
+  {
+    "company_id": 108,
+    "tags": [
+      "fintech_specialist",
+      "unicorn",
+      "fast_growth"
+    ],
+    "key_products": [
+      "AI_Analytics",
+      "Lending Engine"
+    ],
+    "last_funding_round": {
+      "amount": 32571465.94,
+      "date": "2024-03-22"
+    },
+    "partners": [
+      "Telecom C",
+      "Bank B",
+      "Regulator D"
+    ]
+  },
+  {
+    "company_id": 109,
+    "tags": [
+      "global",
+      "early_stage",
+      "stable"
+    ],
+    "key_products": [
+      "Blockchain Solution",
+      "AI_Analytics"
+    ],
+    "last_funding_round": {
+      "amount": 7034806.07,
+      "date": "2024-03-29"
+    },
+    "partners": [
+      "Bank B",
+      "Regulator D",
+      "Telecom C"
+    ]
+  },
+  {
+    "company_id": 110,
+    "tags": [
+      "stable",
+      "innovative",
+      "global"
+    ],
+    "key_products": [
+      "AI_Analytics",
+      "Digital Wallet"
+    ],
+    "last_funding_round": {
+      "amount": 78794655.0,
+      "date": "2025-01-02"
+    },
+    "partners": [
+      "Regulator D",
+      "VC Firm E",
+      "Bank A"
+    ]
+  },
+  {
+    "company_id": 111,
+    "tags": [
+      "unicorn",
+      "leader",
+      "fast_growth"
+    ],
+    "key_products": [
+      "Lending Engine",
+      "Digital Wallet"
+    ],
+    "last_funding_round": {
+      "amount": 24855850.71,
+      "date": "2025-04-08"
+    },
+    "partners": [
+      "Bank B",
+      "Regulator D"
+    ]
+  },
+  {
+    "company_id": 112,
+    "tags": [
+      "innovative",
+      "leader",
+      "early_stage"
+    ],
+    "key_products": [
+      "Lending Engine",
+      "AI_Analytics"
+    ],
+    "last_funding_round": {
+      "amount": 14275182.35,
+      "date": "2025-03-21"
+    },
+    "partners": [
+      "Bank B",
+      "Telecom C"
+    ]
+  },
+  {
+    "company_id": 113,
+    "tags": [
+      "fast_growth",
+      "stable",
+      "leader"
+    ],
+    "key_products": [
+      "Blockchain Solution",
+      "MobileApp"
+    ],
+    "last_funding_round": {
+      "amount": 54027918.1,
+      "date": "2023-07-29"
+    },
+    "partners": [
+      "Bank A"
+    ]
+  },
+  {
+    "company_id": 114,
+    "tags": [
+      "unicorn",
+      "leader",
+      "diverse"
+    ],
+    "key_products": [
+      "Lending Engine",
+      "AI_Analytics"
+    ],
+    "last_funding_round": {
+      "amount": 4915207.87,
+      "date": "2025-09-11"
+    },
+    "partners": [
+      "VC Firm E"
+    ]
+  },
+  {
+    "company_id": 115,
+    "tags": [
+      "fintech_specialist",
+      "early_stage",
+      "stable"
+    ],
+    "key_products": [
+      "API Platform",
+      "Blockchain Solution"
+    ],
+    "last_funding_round": {
+      "amount": 31015614.54,
+      "date": "2023-05-09"
+    },
+    "partners": [
+      "Bank B"
+    ]
+  },
+  {
+    "company_id": 116,
+    "tags": [
+      "early_stage",
+      "fast_growth",
+      "diverse"
+    ],
+    "key_products": [
+      "Digital Wallet",
+      "API Platform"
+    ],
+    "last_funding_round": {
+      "amount": 69867002.28,
+      "date": "2023-12-05"
+    },
+    "partners": [
+      "Regulator D"
+    ]
+  },
+  {
+    "company_id": 117,
+    "tags": [
+      "early_stage",
+      "diverse",
+      "leader"
+    ],
+    "key_products": [
+      "Blockchain Solution",
+      "Digital Wallet"
+    ],
+    "last_funding_round": {
+      "amount": 47158795.62,
+      "date": "2024-01-30"
+    },
+    "partners": [
+      "Telecom C",
+      "VC Firm E"
+    ]
+  },
+  {
+    "company_id": 118,
+    "tags": [
+      "diverse",
+      "stable",
+      "early_stage"
+    ],
+    "key_products": [
+      "MobileApp",
+      "Digital Wallet"
+    ],
+    "last_funding_round": {
+      "amount": 76401267.96,
+      "date": "2025-01-01"
+    },
+    "partners": [
+      "Telecom C"
+    ]
+  },
+  {
+    "company_id": 119,
+    "tags": [
+      "diverse",
+      "leader",
+      "innovative"
+    ],
+    "key_products": [
+      "Lending Engine",
+      "API Platform"
+    ],
+    "last_funding_round": {
+      "amount": 74383985.49,
+      "date": "2025-11-08"
+    },
+    "partners": [
+      "VC Firm E",
+      "Regulator D"
+    ]
+  },
+  {
+    "company_id": 120,
+    "tags": [
+      "unicorn",
+      "global",
+      "fast_growth"
+    ],
+    "key_products": [
+      "Blockchain Solution",
+      "API Platform"
+    ],
+    "last_funding_round": {
+      "amount": 38604137.7,
+      "date": "2023-07-25"
+    },
+    "partners": [
+      "Regulator D"
+    ]
+  },
+  {
+    "company_id": 121,
+    "tags": [
+      "fintech_specialist",
+      "diverse",
+      "global"
+    ],
+    "key_products": [
+      "Digital Wallet",
+      "AI_Analytics"
+    ],
+    "last_funding_round": {
+      "amount": 46622070.85,
+      "date": "2023-11-05"
+    },
+    "partners": [
+      "Bank B",
+      "VC Firm E"
+    ]
+  },
+  {
+    "company_id": 122,
+    "tags": [
+      "fintech_specialist",
+      "stable",
+      "fast_growth"
+    ],
+    "key_products": [
+      "Lending Engine",
+      "MobileApp"
+    ],
+    "last_funding_round": {
+      "amount": 52870497.13,
+      "date": "2023-07-19"
+    },
+    "partners": [
+      "Bank A"
+    ]
+  },
+  {
+    "company_id": 123,
+    "tags": [
+      "innovative",
+      "leader",
+      "fast_growth"
+    ],
+    "key_products": [
+      "AI_Analytics",
+      "API Platform"
+    ],
+    "last_funding_round": {
+      "amount": 7728826.22,
+      "date": "2025-06-23"
+    },
+    "partners": [
+      "Bank B"
+    ]
+  },
+  {
+    "company_id": 124,
+    "tags": [
+      "fintech_specialist",
+      "stable",
+      "global"
+    ],
+    "key_products": [
+      "MobileApp",
+      "Lending Engine"
+    ],
+    "last_funding_round": {
+      "amount": 64135130.58,
+      "date": "2023-04-13"
+    },
+    "partners": [
+      "Regulator D",
+      "VC Firm E",
+      "Bank A"
+    ]
+  },
+  {
+    "company_id": 125,
+    "tags": [
+      "innovative",
+      "leader",
+      "fintech_specialist"
+    ],
+    "key_products": [
+      "MobileApp",
+      "Lending Engine"
+    ],
+    "last_funding_round": {
+      "amount": 72497079.44,
+      "date": "2024-05-25"
+    },
+    "partners": [
+      "Bank A",
+      "Regulator D"
+    ]
+  },
+  {
+    "company_id": 126,
+    "tags": [
+      "global",
+      "fast_growth",
+      "innovative"
+    ],
+    "key_products": [
+      "Lending Engine",
+      "API Platform"
+    ],
+    "last_funding_round": {
+      "amount": 24855914.4,
+      "date": "2024-02-29"
+    },
+    "partners": [
+      "Telecom C",
+      "VC Firm E",
+      "Bank B"
+    ]
+  },
+  {
+    "company_id": 127,
+    "tags": [
+      "leader",
+      "fast_growth",
+      "global"
+    ],
+    "key_products": [
+      "Digital Wallet",
+      "AI_Analytics"
+    ],
+    "last_funding_round": {
+      "amount": 56935216.06,
+      "date": "2023-12-12"
+    },
+    "partners": [
+      "Telecom C"
+    ]
+  },
+  {
+    "company_id": 128,
+    "tags": [
+      "fast_growth",
+      "innovative",
+      "stable"
+    ],
+    "key_products": [
+      "Digital Wallet",
+      "AI_Analytics"
+    ],
+    "last_funding_round": {
+      "amount": 38339787.28,
+      "date": "2024-07-25"
+    },
+    "partners": [
+      "Bank A"
+    ]
+  },
+  {
+    "company_id": 129,
+    "tags": [
+      "global",
+      "fast_growth",
+      "early_stage"
+    ],
+    "key_products": [
+      "Digital Wallet",
+      "Blockchain Solution"
+    ],
+    "last_funding_round": {
+      "amount": 57019806.17,
+      "date": "2023-06-30"
+    },
+    "partners": [
+      "VC Firm E"
+    ]
+  },
+  {
+    "company_id": 130,
+    "tags": [
+      "innovative",
+      "early_stage",
+      "fast_growth"
+    ],
+    "key_products": [
+      "AI_Analytics",
+      "Lending Engine"
+    ],
+    "last_funding_round": {
+      "amount": 48074528.48,
+      "date": "2025-10-08"
+    },
+    "partners": [
+      "Telecom C"
+    ]
+  },
+  {
+    "company_id": 131,
+    "tags": [
+      "fintech_specialist",
+      "innovative",
+      "fast_growth"
+    ],
+    "key_products": [
+      "Blockchain Solution",
+      "MobileApp"
+    ],
+    "last_funding_round": {
+      "amount": 96185449.8,
+      "date": "2024-04-02"
+    },
+    "partners": [
+      "Regulator D"
+    ]
+  },
+  {
+    "company_id": 132,
+    "tags": [
+      "fast_growth",
+      "unicorn",
+      "fintech_specialist"
+    ],
+    "key_products": [
+      "Lending Engine",
+      "API Platform"
+    ],
+    "last_funding_round": {
+      "amount": 57102896.07,
+      "date": "2023-07-09"
+    },
+    "partners": [
+      "VC Firm E",
+      "Telecom C"
+    ]
+  },
+  {
+    "company_id": 133,
+    "tags": [
+      "leader",
+      "global",
+      "fintech_specialist"
+    ],
+    "key_products": [
+      "AI_Analytics",
+      "MobileApp"
+    ],
+    "last_funding_round": {
+      "amount": 50578492.31,
+      "date": "2024-12-05"
+    },
+    "partners": [
+      "Bank A"
+    ]
+  },
+  {
+    "company_id": 134,
+    "tags": [
+      "leader",
+      "early_stage",
+      "fintech_specialist"
+    ],
+    "key_products": [
+      "MobileApp",
+      "Blockchain Solution"
+    ],
+    "last_funding_round": {
+      "amount": 60911705.58,
+      "date": "2024-03-06"
+    },
+    "partners": [
+      "Regulator D",
+      "Telecom C",
+      "Bank A"
+    ]
+  },
+  {
+    "company_id": 135,
+    "tags": [
+      "unicorn",
+      "stable",
+      "early_stage"
+    ],
+    "key_products": [
+      "API Platform",
+      "Blockchain Solution"
+    ],
+    "last_funding_round": {
+      "amount": 55750734.77,
+      "date": "2024-11-05"
+    },
+    "partners": [
+      "Bank B",
+      "Regulator D"
+    ]
+  },
+  {
+    "company_id": 136,
+    "tags": [
+      "fast_growth",
+      "unicorn",
+      "leader"
+    ],
+    "key_products": [
+      "API Platform",
+      "MobileApp"
+    ],
+    "last_funding_round": {
+      "amount": 9121762.96,
+      "date": "2025-06-20"
+    },
+    "partners": [
+      "Bank B",
+      "Regulator D"
+    ]
+  },
+  {
+    "company_id": 137,
+    "tags": [
+      "diverse",
+      "fintech_specialist",
+      "innovative"
+    ],
+    "key_products": [
+      "MobileApp",
+      "AI_Analytics"
+    ],
+    "last_funding_round": {
+      "amount": 94353062.51,
+      "date": "2024-08-26"
+    },
+    "partners": [
+      "Telecom C",
+      "Bank A"
+    ]
+  },
+  {
+    "company_id": 138,
+    "tags": [
+      "global",
+      "fast_growth",
+      "stable"
+    ],
+    "key_products": [
+      "Digital Wallet",
+      "AI_Analytics"
+    ],
+    "last_funding_round": {
+      "amount": 56141518.19,
+      "date": "2024-06-18"
+    },
+    "partners": [
+      "Bank A",
+      "VC Firm E"
+    ]
+  },
+  {
+    "company_id": 139,
+    "tags": [
+      "fast_growth",
+      "diverse",
+      "unicorn"
+    ],
+    "key_products": [
+      "MobileApp",
+      "Lending Engine"
+    ],
+    "last_funding_round": {
+      "amount": 60206335.98,
+      "date": "2024-12-27"
+    },
+    "partners": [
+      "Bank A",
+      "Telecom C"
+    ]
+  },
+  {
+    "company_id": 140,
+    "tags": [
+      "leader",
+      "fintech_specialist",
+      "stable"
+    ],
+    "key_products": [
+      "MobileApp",
+      "Lending Engine"
+    ],
+    "last_funding_round": {
+      "amount": 90615549.86,
+      "date": "2025-03-21"
+    },
+    "partners": [
+      "VC Firm E",
+      "Bank B",
+      "Telecom C"
+    ]
+  },
+  {
+    "company_id": 141,
+    "tags": [
+      "leader",
+      "global",
+      "fast_growth"
+    ],
+    "key_products": [
+      "Blockchain Solution",
+      "AI_Analytics"
+    ],
+    "last_funding_round": {
+      "amount": 27572272.92,
+      "date": "2025-06-28"
+    },
+    "partners": [
+      "Bank B"
+    ]
+  },
+  {
+    "company_id": 142,
+    "tags": [
+      "leader",
+      "unicorn",
+      "early_stage"
+    ],
+    "key_products": [
+      "Blockchain Solution",
+      "Digital Wallet"
+    ],
+    "last_funding_round": {
+      "amount": 78483995.79,
+      "date": "2024-11-20"
+    },
+    "partners": [
+      "Bank B",
+      "Regulator D"
+    ]
+  },
+  {
+    "company_id": 143,
+    "tags": [
+      "early_stage",
+      "stable",
+      "innovative"
+    ],
+    "key_products": [
+      "API Platform",
+      "Blockchain Solution"
+    ],
+    "last_funding_round": {
+      "amount": 1669969.57,
+      "date": "2024-10-15"
+    },
+    "partners": [
+      "VC Firm E",
+      "Regulator D"
+    ]
+  },
+  {
+    "company_id": 144,
+    "tags": [
+      "diverse",
+      "stable",
+      "global"
+    ],
+    "key_products": [
+      "Digital Wallet",
+      "Lending Engine"
+    ],
+    "last_funding_round": {
+      "amount": 14476322.69,
+      "date": "2024-12-31"
+    },
+    "partners": [
+      "Bank B",
+      "Regulator D",
+      "VC Firm E"
+    ]
+  },
+  {
+    "company_id": 145,
+    "tags": [
+      "global",
+      "leader",
+      "fintech_specialist"
+    ],
+    "key_products": [
+      "Blockchain Solution",
+      "Digital Wallet"
+    ],
+    "last_funding_round": {
+      "amount": 96808545.46,
+      "date": "2023-09-16"
+    },
+    "partners": [
+      "Telecom C"
+    ]
+  },
+  {
+    "company_id": 146,
+    "tags": [
+      "leader",
+      "unicorn",
+      "fintech_specialist"
+    ],
+    "key_products": [
+      "Digital Wallet",
+      "Blockchain Solution"
+    ],
+    "last_funding_round": {
+      "amount": 12274894.54,
+      "date": "2024-04-26"
+    },
+    "partners": [
+      "VC Firm E"
+    ]
+  },
+  {
+    "company_id": 147,
+    "tags": [
+      "fintech_specialist",
+      "global",
+      "diverse"
+    ],
+    "key_products": [
+      "Lending Engine",
+      "MobileApp"
+    ],
+    "last_funding_round": {
+      "amount": 95347456.54,
+      "date": "2024-08-09"
+    },
+    "partners": [
+      "Bank B",
+      "Regulator D",
+      "VC Firm E"
+    ]
+  },
+  {
+    "company_id": 148,
+    "tags": [
+      "fast_growth",
+      "leader",
+      "diverse"
+    ],
+    "key_products": [
+      "Digital Wallet",
+      "API Platform"
+    ],
+    "last_funding_round": {
+      "amount": 63700267.93,
+      "date": "2025-03-22"
+    },
+    "partners": [
+      "Bank B",
+      "Regulator D"
+    ]
+  },
+  {
+    "company_id": 149,
+    "tags": [
+      "leader",
+      "fast_growth",
+      "early_stage"
+    ],
+    "key_products": [
+      "Lending Engine",
+      "Digital Wallet"
+    ],
+    "last_funding_round": {
+      "amount": 58642157.9,
+      "date": "2024-05-26"
+    },
+    "partners": [
+      "Regulator D",
+      "Bank A",
+      "Bank B"
+    ]
+  },
+  {
+    "company_id": 150,
+    "tags": [
+      "fintech_specialist",
+      "fast_growth",
+      "innovative"
+    ],
+    "key_products": [
+      "API Platform",
+      "Blockchain Solution"
+    ],
+    "last_funding_round": {
+      "amount": 17467510.83,
+      "date": "2024-03-07"
+    },
+    "partners": [
+      "VC Firm E"
+    ]
+  },
+  {
+    "company_id": 151,
+    "tags": [
+      "leader",
+      "diverse",
+      "fintech_specialist"
+    ],
+    "key_products": [
+      "Digital Wallet",
+      "MobileApp"
+    ],
+    "last_funding_round": {
+      "amount": 2044229.51,
+      "date": "2025-03-05"
+    },
+    "partners": [
+      "VC Firm E"
+    ]
+  },
+  {
+    "company_id": 152,
+    "tags": [
+      "fintech_specialist",
+      "early_stage",
+      "stable"
+    ],
+    "key_products": [
+      "Blockchain Solution",
+      "Digital Wallet"
+    ],
+    "last_funding_round": {
+      "amount": 46843257.65,
+      "date": "2023-12-30"
+    },
+    "partners": [
+      "VC Firm E",
+      "Bank B",
+      "Regulator D"
+    ]
+  },
+  {
+    "company_id": 153,
+    "tags": [
+      "innovative",
+      "stable",
+      "fintech_specialist"
+    ],
+    "key_products": [
+      "Blockchain Solution",
+      "Digital Wallet"
+    ],
+    "last_funding_round": {
+      "amount": 92134206.92,
+      "date": "2025-08-29"
+    },
+    "partners": [
+      "Bank B"
+    ]
+  },
+  {
+    "company_id": 154,
+    "tags": [
+      "diverse",
+      "unicorn",
+      "global"
+    ],
+    "key_products": [
+      "Digital Wallet",
+      "API Platform"
+    ],
+    "last_funding_round": {
+      "amount": 52590368.15,
+      "date": "2024-12-03"
+    },
+    "partners": [
+      "Bank A",
+      "Regulator D"
+    ]
+  },
+  {
+    "company_id": 155,
+    "tags": [
+      "stable",
+      "diverse",
+      "innovative"
+    ],
+    "key_products": [
+      "Blockchain Solution",
+      "MobileApp"
+    ],
+    "last_funding_round": {
+      "amount": 81208407.75,
+      "date": "2025-07-30"
+    },
+    "partners": [
+      "Telecom C"
+    ]
+  },
+  {
+    "company_id": 156,
+    "tags": [
+      "fast_growth",
+      "global",
+      "diverse"
+    ],
+    "key_products": [
+      "API Platform",
+      "Lending Engine"
+    ],
+    "last_funding_round": {
+      "amount": 18270870.05,
+      "date": "2025-06-14"
+    },
+    "partners": [
+      "VC Firm E",
+      "Regulator D"
+    ]
+  },
+  {
+    "company_id": 157,
+    "tags": [
+      "stable",
+      "early_stage",
+      "leader"
+    ],
+    "key_products": [
+      "Digital Wallet",
+      "API Platform"
+    ],
+    "last_funding_round": {
+      "amount": 19452305.6,
+      "date": "2024-01-21"
+    },
+    "partners": [
+      "Regulator D",
+      "Bank A"
+    ]
+  },
+  {
+    "company_id": 158,
+    "tags": [
+      "early_stage",
+      "stable",
+      "unicorn"
+    ],
+    "key_products": [
+      "Digital Wallet",
+      "AI_Analytics"
+    ],
+    "last_funding_round": {
+      "amount": 1440554.29,
+      "date": "2025-04-19"
+    },
+    "partners": [
+      "Telecom C"
+    ]
+  },
+  {
+    "company_id": 159,
+    "tags": [
+      "fast_growth",
+      "fintech_specialist",
+      "leader"
+    ],
+    "key_products": [
+      "Lending Engine",
+      "API Platform"
+    ],
+    "last_funding_round": {
+      "amount": 37213509.91,
+      "date": "2025-05-07"
+    },
+    "partners": [
+      "Bank A",
+      "Telecom C"
+    ]
+  },
+  {
+    "company_id": 160,
+    "tags": [
+      "stable",
+      "diverse",
+      "unicorn"
+    ],
+    "key_products": [
+      "Digital Wallet",
+      "Lending Engine"
+    ],
+    "last_funding_round": {
+      "amount": 39861856.57,
+      "date": "2025-07-31"
+    },
+    "partners": [
+      "Telecom C",
+      "Regulator D"
+    ]
+  },
+  {
+    "company_id": 161,
+    "tags": [
+      "global",
+      "unicorn",
+      "stable"
+    ],
+    "key_products": [
+      "Lending Engine",
+      "MobileApp"
+    ],
+    "last_funding_round": {
+      "amount": 67538898.09,
+      "date": "2025-01-08"
+    },
+    "partners": [
+      "Bank B"
+    ]
+  },
+  {
+    "company_id": 162,
+    "tags": [
+      "unicorn",
+      "fast_growth",
+      "stable"
+    ],
+    "key_products": [
+      "Blockchain Solution",
+      "API Platform"
+    ],
+    "last_funding_round": {
+      "amount": 51571662.08,
+      "date": "2024-09-22"
+    },
+    "partners": [
+      "Bank B",
+      "Regulator D",
+      "VC Firm E"
+    ]
+  },
+  {
+    "company_id": 163,
+    "tags": [
+      "global",
+      "stable",
+      "diverse"
+    ],
+    "key_products": [
+      "Lending Engine",
+      "API Platform"
+    ],
+    "last_funding_round": {
+      "amount": 55936345.01,
+      "date": "2024-07-11"
+    },
+    "partners": [
+      "Bank B",
+      "VC Firm E"
+    ]
+  },
+  {
+    "company_id": 164,
+    "tags": [
+      "diverse",
+      "stable",
+      "unicorn"
+    ],
+    "key_products": [
+      "MobileApp",
+      "Blockchain Solution"
+    ],
+    "last_funding_round": {
+      "amount": 95232353.1,
+      "date": "2024-07-16"
+    },
+    "partners": [
+      "Bank B"
+    ]
+  },
+  {
+    "company_id": 165,
+    "tags": [
+      "leader",
+      "stable",
+      "early_stage"
+    ],
+    "key_products": [
+      "AI_Analytics",
+      "Digital Wallet"
+    ],
+    "last_funding_round": {
+      "amount": 42147413.09,
+      "date": "2023-07-18"
+    },
+    "partners": [
+      "Regulator D",
+      "Bank B"
+    ]
+  },
+  {
+    "company_id": 166,
+    "tags": [
+      "fast_growth",
+      "innovative",
+      "leader"
+    ],
+    "key_products": [
+      "API Platform",
+      "Blockchain Solution"
+    ],
+    "last_funding_round": {
+      "amount": 4236813.6,
+      "date": "2025-04-08"
+    },
+    "partners": [
+      "Telecom C",
+      "Bank B",
+      "Regulator D"
+    ]
+  },
+  {
+    "company_id": 167,
+    "tags": [
+      "stable",
+      "fast_growth",
+      "unicorn"
+    ],
+    "key_products": [
+      "MobileApp",
+      "Blockchain Solution"
+    ],
+    "last_funding_round": {
+      "amount": 77736189.76,
+      "date": "2023-08-04"
+    },
+    "partners": [
+      "VC Firm E",
+      "Bank A"
+    ]
+  },
+  {
+    "company_id": 168,
+    "tags": [
+      "stable",
+      "early_stage",
+      "fintech_specialist"
+    ],
+    "key_products": [
+      "MobileApp",
+      "API Platform"
+    ],
+    "last_funding_round": {
+      "amount": 30473184.58,
+      "date": "2025-10-22"
+    },
+    "partners": [
+      "Telecom C",
+      "VC Firm E"
+    ]
+  },
+  {
+    "company_id": 169,
+    "tags": [
+      "fast_growth",
+      "stable",
+      "leader"
+    ],
+    "key_products": [
+      "MobileApp",
+      "API Platform"
+    ],
+    "last_funding_round": {
+      "amount": 21777938.59,
+      "date": "2023-10-31"
+    },
+    "partners": [
+      "Telecom C",
+      "Regulator D",
+      "Bank A"
+    ]
+  },
+  {
+    "company_id": 170,
+    "tags": [
+      "global",
+      "early_stage",
+      "leader"
+    ],
+    "key_products": [
+      "API Platform",
+      "MobileApp"
+    ],
+    "last_funding_round": {
+      "amount": 57437360.14,
+      "date": "2024-05-28"
+    },
+    "partners": [
+      "VC Firm E",
+      "Bank B"
+    ]
+  },
+  {
+    "company_id": 171,
+    "tags": [
+      "diverse",
+      "unicorn",
+      "global"
+    ],
+    "key_products": [
+      "Lending Engine",
+      "Blockchain Solution"
+    ],
+    "last_funding_round": {
+      "amount": 95287337.2,
+      "date": "2024-06-16"
+    },
+    "partners": [
+      "Bank A",
+      "Bank B",
+      "Regulator D"
+    ]
+  },
+  {
+    "company_id": 172,
+    "tags": [
+      "innovative",
+      "unicorn",
+      "leader"
+    ],
+    "key_products": [
+      "AI_Analytics",
+      "API Platform"
+    ],
+    "last_funding_round": {
+      "amount": 70441226.21,
+      "date": "2025-07-12"
+    },
+    "partners": [
+      "Bank B"
+    ]
+  },
+  {
+    "company_id": 173,
+    "tags": [
+      "diverse",
+      "early_stage",
+      "leader"
+    ],
+    "key_products": [
+      "AI_Analytics",
+      "Digital Wallet"
+    ],
+    "last_funding_round": {
+      "amount": 49456413.87,
+      "date": "2024-04-12"
+    },
+    "partners": [
+      "Telecom C",
+      "Regulator D",
+      "Bank B"
+    ]
+  },
+  {
+    "company_id": 174,
+    "tags": [
+      "stable",
+      "fast_growth",
+      "diverse"
+    ],
+    "key_products": [
+      "MobileApp",
+      "Digital Wallet"
+    ],
+    "last_funding_round": {
+      "amount": 52045733.74,
+      "date": "2025-02-13"
+    },
+    "partners": [
+      "Telecom C",
+      "Regulator D",
+      "Bank B"
+    ]
+  },
+  {
+    "company_id": 175,
+    "tags": [
+      "diverse",
+      "innovative",
+      "leader"
+    ],
+    "key_products": [
+      "AI_Analytics",
+      "MobileApp"
+    ],
+    "last_funding_round": {
+      "amount": 73362261.81,
+      "date": "2024-08-12"
+    },
+    "partners": [
+      "Telecom C",
+      "Bank A",
+      "VC Firm E"
+    ]
+  },
+  {
+    "company_id": 176,
+    "tags": [
+      "leader",
+      "early_stage",
+      "stable"
+    ],
+    "key_products": [
+      "API Platform",
+      "Digital Wallet"
+    ],
+    "last_funding_round": {
+      "amount": 27585146.99,
+      "date": "2023-07-30"
+    },
+    "partners": [
+      "Telecom C",
+      "Bank B"
+    ]
+  },
+  {
+    "company_id": 177,
+    "tags": [
+      "stable",
+      "diverse",
+      "fintech_specialist"
+    ],
+    "key_products": [
+      "MobileApp",
+      "AI_Analytics"
+    ],
+    "last_funding_round": {
+      "amount": 10857899.45,
+      "date": "2023-09-14"
+    },
+    "partners": [
+      "Bank A",
+      "VC Firm E"
+    ]
+  },
+  {
+    "company_id": 178,
+    "tags": [
+      "global",
+      "stable",
+      "early_stage"
+    ],
+    "key_products": [
+      "MobileApp",
+      "Digital Wallet"
+    ],
+    "last_funding_round": {
+      "amount": 21029502.43,
+      "date": "2023-12-20"
+    },
+    "partners": [
+      "Telecom C"
+    ]
+  },
+  {
+    "company_id": 179,
+    "tags": [
+      "global",
+      "unicorn",
+      "innovative"
+    ],
+    "key_products": [
+      "AI_Analytics",
+      "Blockchain Solution"
+    ],
+    "last_funding_round": {
+      "amount": 25788538.58,
+      "date": "2024-11-09"
+    },
+    "partners": [
+      "Bank B",
+      "Bank A",
+      "VC Firm E"
+    ]
+  },
+  {
+    "company_id": 180,
+    "tags": [
+      "unicorn",
+      "early_stage",
+      "stable"
+    ],
+    "key_products": [
+      "AI_Analytics",
+      "MobileApp"
+    ],
+    "last_funding_round": {
+      "amount": 70666105.94,
+      "date": "2025-11-23"
+    },
+    "partners": [
+      "Regulator D"
+    ]
+  },
+  {
+    "company_id": 181,
+    "tags": [
+      "fast_growth",
+      "global",
+      "unicorn"
+    ],
+    "key_products": [
+      "API Platform",
+      "Lending Engine"
+    ],
+    "last_funding_round": {
+      "amount": 68318289.79,
+      "date": "2025-11-15"
+    },
+    "partners": [
+      "Telecom C"
+    ]
+  },
+  {
+    "company_id": 182,
+    "tags": [
+      "fast_growth",
+      "leader",
+      "diverse"
+    ],
+    "key_products": [
+      "API Platform",
+      "Digital Wallet"
+    ],
+    "last_funding_round": {
+      "amount": 8012002.23,
+      "date": "2024-10-28"
+    },
+    "partners": [
+      "Bank A"
+    ]
+  },
+  {
+    "company_id": 183,
+    "tags": [
+      "fast_growth",
+      "diverse",
+      "global"
+    ],
+    "key_products": [
+      "Blockchain Solution",
+      "API Platform"
+    ],
+    "last_funding_round": {
+      "amount": 38889383.94,
+      "date": "2023-08-15"
+    },
+    "partners": [
+      "Bank B"
+    ]
+  },
+  {
+    "company_id": 184,
+    "tags": [
+      "fast_growth",
+      "innovative",
+      "unicorn"
+    ],
+    "key_products": [
+      "AI_Analytics",
+      "API Platform"
+    ],
+    "last_funding_round": {
+      "amount": 44569842.66,
+      "date": "2023-11-16"
+    },
+    "partners": [
+      "Bank B"
+    ]
+  },
+  {
+    "company_id": 185,
+    "tags": [
+      "leader",
+      "stable",
+      "fintech_specialist"
+    ],
+    "key_products": [
+      "API Platform",
+      "MobileApp"
+    ],
+    "last_funding_round": {
+      "amount": 89762701.62,
+      "date": "2025-07-04"
+    },
+    "partners": [
+      "VC Firm E"
+    ]
+  },
+  {
+    "company_id": 186,
+    "tags": [
+      "leader",
+      "diverse",
+      "early_stage"
+    ],
+    "key_products": [
+      "Blockchain Solution",
+      "API Platform"
+    ],
+    "last_funding_round": {
+      "amount": 25530851.12,
+      "date": "2024-02-03"
+    },
+    "partners": [
+      "Bank B"
+    ]
+  },
+  {
+    "company_id": 187,
+    "tags": [
+      "fintech_specialist",
+      "unicorn",
+      "leader"
+    ],
+    "key_products": [
+      "AI_Analytics",
+      "MobileApp"
+    ],
+    "last_funding_round": {
+      "amount": 84941318.34,
+      "date": "2024-01-20"
+    },
+    "partners": [
+      "Bank B",
+      "VC Firm E"
+    ]
+  },
+  {
+    "company_id": 188,
+    "tags": [
+      "leader",
+      "unicorn",
+      "diverse"
+    ],
+    "key_products": [
+      "MobileApp",
+      "API Platform"
+    ],
+    "last_funding_round": {
+      "amount": 49993884.27,
+      "date": "2025-08-01"
+    },
+    "partners": [
+      "Regulator D"
+    ]
+  },
+  {
+    "company_id": 189,
+    "tags": [
+      "fast_growth",
+      "innovative",
+      "global"
+    ],
+    "key_products": [
+      "Blockchain Solution",
+      "API Platform"
+    ],
+    "last_funding_round": {
+      "amount": 39296986.63,
+      "date": "2023-07-19"
+    },
+    "partners": [
+      "Regulator D",
+      "Telecom C",
+      "VC Firm E"
+    ]
+  },
+  {
+    "company_id": 190,
+    "tags": [
+      "global",
+      "stable",
+      "leader"
+    ],
+    "key_products": [
+      "MobileApp",
+      "AI_Analytics"
+    ],
+    "last_funding_round": {
+      "amount": 59148986.2,
+      "date": "2025-11-10"
+    },
+    "partners": [
+      "Bank B",
+      "Bank A"
+    ]
+  },
+  {
+    "company_id": 191,
+    "tags": [
+      "innovative",
+      "leader",
+      "unicorn"
+    ],
+    "key_products": [
+      "Blockchain Solution",
+      "Lending Engine"
+    ],
+    "last_funding_round": {
+      "amount": 76943890.07,
+      "date": "2024-09-17"
+    },
+    "partners": [
+      "Regulator D",
+      "Bank A",
+      "Telecom C"
+    ]
+  },
+  {
+    "company_id": 192,
+    "tags": [
+      "fintech_specialist",
+      "global",
+      "stable"
+    ],
+    "key_products": [
+      "MobileApp",
+      "Blockchain Solution"
+    ],
+    "last_funding_round": {
+      "amount": 8823134.64,
+      "date": "2023-04-26"
+    },
+    "partners": [
+      "Bank B"
+    ]
+  },
+  {
+    "company_id": 193,
+    "tags": [
+      "fintech_specialist",
+      "diverse",
+      "early_stage"
+    ],
+    "key_products": [
+      "Lending Engine",
+      "MobileApp"
+    ],
+    "last_funding_round": {
+      "amount": 31706779.85,
+      "date": "2024-09-03"
+    },
+    "partners": [
+      "Bank B",
+      "Bank A",
+      "Regulator D"
+    ]
+  },
+  {
+    "company_id": 194,
+    "tags": [
+      "fast_growth",
+      "leader",
+      "innovative"
+    ],
+    "key_products": [
+      "Digital Wallet",
+      "Lending Engine"
+    ],
+    "last_funding_round": {
+      "amount": 61274408.04,
+      "date": "2025-01-12"
+    },
+    "partners": [
+      "Bank B",
+      "Bank A",
+      "Regulator D"
+    ]
+  },
+  {
+    "company_id": 195,
+    "tags": [
+      "global",
+      "innovative",
+      "fast_growth"
+    ],
+    "key_products": [
+      "Digital Wallet",
+      "Blockchain Solution"
+    ],
+    "last_funding_round": {
+      "amount": 52777530.91,
+      "date": "2023-09-15"
+    },
+    "partners": [
+      "Telecom C",
+      "Bank B",
+      "Regulator D"
+    ]
+  },
+  {
+    "company_id": 196,
+    "tags": [
+      "global",
+      "unicorn",
+      "diverse"
+    ],
+    "key_products": [
+      "MobileApp",
+      "AI_Analytics"
+    ],
+    "last_funding_round": {
+      "amount": 34166091.61,
+      "date": "2024-09-11"
+    },
+    "partners": [
+      "VC Firm E",
+      "Bank A"
+    ]
+  },
+  {
+    "company_id": 197,
+    "tags": [
+      "unicorn",
+      "fast_growth",
+      "early_stage"
+    ],
+    "key_products": [
+      "Digital Wallet",
+      "Lending Engine"
+    ],
+    "last_funding_round": {
+      "amount": 36652265.66,
+      "date": "2024-07-01"
+    },
+    "partners": [
+      "Bank B",
+      "Telecom C",
+      "Bank A"
+    ]
+  },
+  {
+    "company_id": 198,
+    "tags": [
+      "unicorn",
+      "fast_growth",
+      "fintech_specialist"
+    ],
+    "key_products": [
+      "AI_Analytics",
+      "MobileApp"
+    ],
+    "last_funding_round": {
+      "amount": 23612037.89,
+      "date": "2024-06-21"
+    },
+    "partners": [
+      "Bank A"
+    ]
+  },
+  {
+    "company_id": 199,
+    "tags": [
+      "innovative",
+      "early_stage",
+      "fintech_specialist"
+    ],
+    "key_products": [
+      "Digital Wallet",
+      "Blockchain Solution"
+    ],
+    "last_funding_round": {
+      "amount": 38914967.96,
+      "date": "2025-06-24"
+    },
+    "partners": [
+      "Bank A"
+    ]
+  },
+  {
+    "company_id": 200,
+    "tags": [
+      "fintech_specialist",
+      "leader",
+      "fast_growth"
+    ],
+    "key_products": [
+      "Blockchain Solution",
+      "API Platform"
+    ],
+    "last_funding_round": {
+      "amount": 42209403.25,
+      "date": "2023-11-18"
+    },
+    "partners": [
+      "Telecom C",
+      "Bank A"
+    ]
+  }
+]

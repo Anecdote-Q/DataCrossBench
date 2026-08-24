@@ -1,0 +1,20 @@
+{
+    "goal": "比较拉丁美洲和MENA地区在金融科技融资增长方面的驱动因素。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 拉丁美洲和加勒比地区（LAC）融资复合年增长率为37%，而中东和北非（MENA）为33%。",
+        "Comparison: 2023年，MENA地区的金融科技风险投资资金量从6亿美元增至19亿美元，显示出强劲的增长潜力。",
+        "Extreme: 2023年支付子领域融资总额为56亿美元，成为融资的主要方向。",
+        "Attribution: 金融科技公司的成功和发展取决于其获得所需资金以进行创新、扩张和发展业务的能力。"
+    ],
+    "summary": "本报告探讨了金融科技行业的创新驱动因素及其融资缺口，分析了不同地区的融资趋势和风险投资的影响。",
+    "flag_id": "flag-115",
+    "classifier": "FinTech",
+    "classifier_cn": "金融科技",
+    "input_files": [
+        "output/business_background.txt",
+        "output/fintech_dimensions.db",
+        "output/fintech_funding_fact.csv",
+        "output/funding_profiles.json"
+    ]
+}

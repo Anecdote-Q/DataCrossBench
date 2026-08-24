@@ -1,0 +1,21 @@
+{
+    "goal": "分析腾讯营收和净利润预期增长的主要驱动因素。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 腾讯的营收预期从2024年的6613亿元逐年增长至2026年的7649亿元，显示出稳定的增长趋势。",
+        "Comparison: 腾讯的市值增长近500倍，成为中国经济数字化转型的重要推动力量，显示出其在行业中的领先地位。",
+        "Extreme: 腾讯在2023年推出的混元大模型，标志着其在AI领域的重大突破，预计将推动未来的业务增长。",
+        "Attribution: 腾讯的战略升级与移动互联网人口红利消退密切相关，促使其加速向产业互联网转型。"
+    ],
+    "summary": "腾讯在过去二十年中经历了多轮科技浪潮，成功转型为全球科技巨头，未来营收和净利润预期持续增长，展现出强大的市场竞争力。",
+    "flag_id": "flag-103",
+    "classifier": "Internet Firms",
+    "classifier_cn": "互联网公司研究",
+    "input_files": [
+        "output/business_background.txt",
+        "output/dimension_data.db",
+        "output/order_facts.csv",
+        "output/revenue_forecast.csv",
+        "output/strategic_shift.json"
+    ]
+}

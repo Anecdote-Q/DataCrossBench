@@ -1,0 +1,274 @@
+[
+  {
+    "jurisdiction": "Brazil",
+    "reports": [
+      {
+        "report_id": "6ee6372c-1539-4bbe-96ba-deacb50164ea",
+        "date": "2025-06-19",
+        "issues_found": [
+          "abuse",
+          "market sharing"
+        ],
+        "recommended_actions": [
+          "training"
+        ],
+        "investigator": "Jamie Payne"
+      }
+    ]
+  },
+  {
+    "jurisdiction": "Mexico",
+    "reports": [
+      {
+        "report_id": "fc3fc73c-0775-4380-a77a-20a7a2957691",
+        "date": "2022-08-04",
+        "issues_found": [
+          "abuse"
+        ],
+        "recommended_actions": [
+          "investigations",
+          "investigations"
+        ],
+        "investigator": "Amanda Hoffman"
+      },
+      {
+        "report_id": "a39de37d-0617-4fd3-992e-94c56a009862",
+        "date": "2024-02-28",
+        "issues_found": [
+          "price fixing",
+          "market sharing",
+          "price fixing"
+        ],
+        "recommended_actions": [
+          "warnings",
+          "fines"
+        ],
+        "investigator": "Victor Brown"
+      },
+      {
+        "report_id": "5f42937f-24dc-45a5-add6-5955dea61187",
+        "date": "2024-04-27",
+        "issues_found": [
+          "collusion",
+          "market sharing",
+          "market sharing"
+        ],
+        "recommended_actions": [
+          "fines",
+          "warnings"
+        ],
+        "investigator": "Samantha Burton"
+      }
+    ]
+  },
+  {
+    "jurisdiction": "Argentina",
+    "reports": [
+      {
+        "report_id": "899bfbfc-6320-4a15-84c9-44fcc210698f",
+        "date": "2022-07-05",
+        "issues_found": [
+          "price fixing"
+        ],
+        "recommended_actions": [
+          "investigations",
+          "warnings"
+        ],
+        "investigator": "Patricia Carter"
+      },
+      {
+        "report_id": "206055c1-5e55-4dff-a3a6-7ed1d5eec912",
+        "date": "2023-08-27",
+        "issues_found": [
+          "price fixing"
+        ],
+        "recommended_actions": [
+          "fines",
+          "warnings"
+        ],
+        "investigator": "Bryan Jackson"
+      },
+      {
+        "report_id": "0fe2e2e7-6ea3-4f12-a2e1-074596dc0a90",
+        "date": "2024-09-07",
+        "issues_found": [
+          "abuse"
+        ],
+        "recommended_actions": [
+          "investigations"
+        ],
+        "investigator": "Alex Cole"
+      },
+      {
+        "report_id": "fafe0f4e-b85a-4b29-bd7b-6bd9bd0abba0",
+        "date": "2024-07-14",
+        "issues_found": [
+          "market sharing",
+          "price fixing"
+        ],
+        "recommended_actions": [
+          "investigations"
+        ],
+        "investigator": "Jeffrey Schroeder"
+      }
+    ]
+  },
+  {
+    "jurisdiction": "Chile",
+    "reports": [
+      {
+        "report_id": "df13b884-5329-488e-8586-f91e2898878d",
+        "date": "2023-07-25",
+        "issues_found": [
+          "market sharing"
+        ],
+        "recommended_actions": [
+          "warnings",
+          "warnings"
+        ],
+        "investigator": "Gwendolyn Garcia"
+      },
+      {
+        "report_id": "e4b80fdf-3993-439e-9e76-d1e0b9f082f1",
+        "date": "2023-10-30",
+        "issues_found": [
+          "collusion"
+        ],
+        "recommended_actions": [
+          "fines"
+        ],
+        "investigator": "Timothy Sanchez"
+      }
+    ]
+  },
+  {
+    "jurisdiction": "Colombia",
+    "reports": [
+      {
+        "report_id": "65ee7b24-43b9-44fc-9272-57aee2f150a9",
+        "date": "2021-03-11",
+        "issues_found": [
+          "abuse",
+          "abuse",
+          "abuse"
+        ],
+        "recommended_actions": [
+          "investigations"
+        ],
+        "investigator": "Tina Wagner"
+      },
+      {
+        "report_id": "e40c0a13-e41c-4352-bec9-b017c213d54d",
+        "date": "2021-01-23",
+        "issues_found": [
+          "abuse",
+          "collusion",
+          "abuse"
+        ],
+        "recommended_actions": [
+          "training"
+        ],
+        "investigator": "David Greene"
+      },
+      {
+        "report_id": "89a58715-8df5-4c8e-9755-3ab415700b61",
+        "date": "2021-08-23",
+        "issues_found": [
+          "collusion",
+          "price fixing"
+        ],
+        "recommended_actions": [
+          "fines",
+          "warnings"
+        ],
+        "investigator": "Taylor Taylor"
+      }
+    ]
+  },
+  {
+    "jurisdiction": "Peru",
+    "reports": [
+      {
+        "report_id": "bb060061-7e06-4446-bbe4-bd5ee6e273cf",
+        "date": "2022-12-20",
+        "issues_found": [
+          "market sharing"
+        ],
+        "recommended_actions": [
+          "warnings",
+          "fines"
+        ],
+        "investigator": "Miguel Clayton"
+      },
+      {
+        "report_id": "65540577-572c-4eda-bc72-5b86ddfda704",
+        "date": "2025-07-20",
+        "issues_found": [
+          "market sharing",
+          "market sharing",
+          "abuse"
+        ],
+        "recommended_actions": [
+          "warnings"
+        ],
+        "investigator": "Tammy Lynch"
+      },
+      {
+        "report_id": "ca5fe9fb-cb35-4e2f-a5f4-e87f0186a2cf",
+        "date": "2023-12-26",
+        "issues_found": [
+          "price fixing"
+        ],
+        "recommended_actions": [
+          "training"
+        ],
+        "investigator": "Gwendolyn Richards"
+      },
+      {
+        "report_id": "dc94e704-5c53-46fa-8d6c-6796b0f70c3a",
+        "date": "2023-04-13",
+        "issues_found": [
+          "price fixing",
+          "collusion"
+        ],
+        "recommended_actions": [
+          "training",
+          "warnings"
+        ],
+        "investigator": "Savannah Stewart"
+      }
+    ]
+  },
+  {
+    "jurisdiction": "Venezuela",
+    "reports": [
+      {
+        "report_id": "57d10761-72f4-4bff-8531-76183772b9f8",
+        "date": "2025-01-13",
+        "issues_found": [
+          "market sharing",
+          "price fixing",
+          "price fixing"
+        ],
+        "recommended_actions": [
+          "warnings",
+          "investigations"
+        ],
+        "investigator": "Zachary Reyes"
+      },
+      {
+        "report_id": "6a2b9275-d774-43ee-8ffc-361ace5bcdc1",
+        "date": "2022-11-08",
+        "issues_found": [
+          "price fixing",
+          "abuse"
+        ],
+        "recommended_actions": [
+          "warnings",
+          "training"
+        ],
+        "investigator": "Tim Gates"
+      }
+    ]
+  }
+]

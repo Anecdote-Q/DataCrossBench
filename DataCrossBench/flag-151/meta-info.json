@@ -1,0 +1,24 @@
+{
+    "goal": "探讨拼多多在下沉市场的成功渗透对其用户增长的贡献。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 拼多多2017-2023年收入CAGR达128%，表明其收入增长速度远超行业平均水平。",
+        "Comparison: 截至2023年，拼多多的Non-GAAP净利率为27.4%，高于行业平均水平，显示出其盈利能力的优势。",
+        "Extreme: Temu截至2023年12月独立用户数量已达4.67亿，显示出其在国际市场的快速扩张。",
+        "Attribution: 由于高税收，销售额下降的现象在行业竞争激烈的背景下愈发明显，影响了拼多多的广告收入增速。"
+    ],
+    "summary": "本报告深入分析了拼多多自2015年成立以来的快速成长历程，探讨了其低价优势、组织效率及出海策略，并提供了对未来发展的投资建议和风险提示。",
+    "flag_id": "flag-151",
+    "classifier": "Internet Firms",
+    "classifier_cn": "互联网公司研究",
+    "input_files": [
+        "output/business_background.txt",
+        "output/coupon_vs_ad_click.png",
+        "output/dimension_data.db",
+        "output/order_quantity_vs_age.png",
+        "output/orders_fact.csv",
+        "output/total_amount_by_product.png",
+        "output/user_profiles.json",
+        "output/user_type_vs_order_status.png"
+    ]
+}

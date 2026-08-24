@@ -1,0 +1,4682 @@
+[
+  {
+    "record_id": 1,
+    "fund_id": 1,
+    "quarter": "2010-01-01",
+    "institutional_investment": {
+      "ratio": 0.9117384995355393,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.09345678110924875
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.08241605491885681
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.09764203908800224
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.08987953499845301
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.08751478880992065
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "收益 增长 增长 回报.",
+      "flag_positive": true
+    }
+  },
+  {
+    "record_id": 2,
+    "fund_id": 1,
+    "quarter": "2010-04-01",
+    "institutional_investment": {
+      "ratio": 0.939516074945901,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.10129467207544832
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.08902120166079078
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.08409237842004517
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.08305520327992277
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.09819367715400958
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "亏损 警示 亏损 风险 警示 亏损 亏损.",
+      "flag_positive": false
+    }
+  },
+  {
+    "record_id": 3,
+    "fund_id": 1,
+    "quarter": "2010-07-01",
+    "institutional_investment": {
+      "ratio": 0.9122669098833525,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.08226368552086126
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.1035102502622258
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.0766531851331492
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.10310188556636551
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.09270381325875357
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "警示 警示 风险 调整 低迷 亏损 警示.",
+      "flag_positive": false
+    }
+  },
+  {
+    "record_id": 4,
+    "fund_id": 1,
+    "quarter": "2010-10-01",
+    "institutional_investment": {
+      "ratio": 0.9,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.08932300821690725
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.08618556639233735
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.0927939528004645
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.08973655708302605
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.09772311317411565
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "亏损 调整 风险 亏损 亏损.",
+      "flag_positive": false
+    }
+  },
+  {
+    "record_id": 5,
+    "fund_id": 1,
+    "quarter": "2011-01-01",
+    "institutional_investment": {
+      "ratio": 0.9091804631884683,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.09171763985948111
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.09197015864907998
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.08837276083334986
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.09051942695279937
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.09307265870109126
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "低迷 调整 低迷 警示 调整 风险.",
+      "flag_positive": false
+    }
+  },
+  {
+    "record_id": 6,
+    "fund_id": 1,
+    "quarter": "2011-04-01",
+    "institutional_investment": {
+      "ratio": 0.9391805206506779,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.08194687331647141
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.0844807541103278
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.0991209007232268
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.09511411013196339
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.09263016871059904
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "增长 回报 投资 增长 收益 收益 回报.",
+      "flag_positive": true
+    }
+  },
+  {
+    "record_id": 7,
+    "fund_id": 1,
+    "quarter": "2011-07-01",
+    "institutional_investment": {
+      "ratio": 0.915527244854276,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.09168176201688534
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.09398579642295929
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.08777440672326206
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.0861045914076114
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.09292364127111136
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "投资 投资 投资 增长 稳健.",
+      "flag_positive": true
+    }
+  },
+  {
+    "record_id": 8,
+    "fund_id": 1,
+    "quarter": "2011-10-01",
+    "institutional_investment": {
+      "ratio": 0.9,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.08315139055669477
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.0928577692900013
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.07808191477033512
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.09720408946127951
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.0933081823768913
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "亏损 风险 低迷 低迷 低迷 亏损.",
+      "flag_positive": false
+    }
+  },
+  {
+    "record_id": 9,
+    "fund_id": 1,
+    "quarter": "2012-01-01",
+    "institutional_investment": {
+      "ratio": 0.9083568396492276,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.0926278921051199
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.09771452085254137
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.1024940050761608
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.09793627442004968
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.07794956434560125
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "稳健 增长 稳健 增长.",
+      "flag_positive": true
+    }
+  },
+  {
+    "record_id": 10,
+    "fund_id": 1,
+    "quarter": "2012-04-01",
+    "institutional_investment": {
+      "ratio": 0.9418989601525509,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.08523285724810518
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.08981616597138535
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.09437253336673093
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.09781350915853895
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.08910968932318084
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "增长 增长 回报 收益 投资 投资 稳健.",
+      "flag_positive": true
+    }
+  },
+  {
+    "record_id": 11,
+    "fund_id": 1,
+    "quarter": "2012-07-01",
+    "institutional_investment": {
+      "ratio": 0.9083780380751564,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.09214517115885518
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.08555012328104238
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.08655717918657199
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.08099117612957807
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.0843751710847393
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "增长 投资 投资 增长.",
+      "flag_positive": true
+    }
+  },
+  {
+    "record_id": 12,
+    "fund_id": 1,
+    "quarter": "2012-10-01",
+    "institutional_investment": {
+      "ratio": 0.9,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.08053820776068565
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.08316888722915866
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.09737549257625487
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.0833542077781764
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.10842667445386173
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "风险 调整 警示 风险 风险 警示 风险.",
+      "flag_positive": false
+    }
+  },
+  {
+    "record_id": 13,
+    "fund_id": 1,
+    "quarter": "2013-01-01",
+    "institutional_investment": {
+      "ratio": 0.9108468679504812,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.09453791210121434
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.09237853966091224
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.08507618233377963
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.09598685595091107
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.0870552220113837
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "警示 警示 风险 调整 亏损 警示 低迷 调整.",
+      "flag_positive": false
+    }
+  },
+  {
+    "record_id": 14,
+    "fund_id": 1,
+    "quarter": "2013-04-01",
+    "institutional_investment": {
+      "ratio": 0.9333035191436978,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.09418442061688731
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.11125094368225134
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.09265793261629723
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.10137526519836951
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.08840811693848857
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "回报 回报 稳健 收益.",
+      "flag_positive": true
+    }
+  },
+  {
+    "record_id": 15,
+    "fund_id": 1,
+    "quarter": "2013-07-01",
+    "institutional_investment": {
+      "ratio": 0.9039627875862044,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.0901513593251417
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.10279188320806901
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.08600750935410607
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.10308341866459894
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.09535054230680877
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "警示 警示 风险 警示 调整 低迷.",
+      "flag_positive": false
+    }
+  },
+  {
+    "record_id": 16,
+    "fund_id": 1,
+    "quarter": "2013-10-01",
+    "institutional_investment": {
+      "ratio": 0.9,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.08606273256874013
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.09442685417338864
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.0968078811473871
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.09435266973552037
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.0790084269607668
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "回报 稳健 增长 回报.",
+      "flag_positive": true
+    }
+  },
+  {
+    "record_id": 17,
+    "fund_id": 1,
+    "quarter": "2014-01-01",
+    "institutional_investment": {
+      "ratio": 0.9064550910788296,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.08555554887710888
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.08891287865902243
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.09012447510418264
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.09499021379073772
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.09188941611441574
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "风险 亏损 亏损 低迷.",
+      "flag_positive": false
+    }
+  },
+  {
+    "record_id": 18,
+    "fund_id": 1,
+    "quarter": "2014-04-01",
+    "institutional_investment": {
+      "ratio": 0.9410998656640835,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.08476257605543765
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.0967713715234501
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.09838408678339512
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.09802851970192564
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.10167545164529071
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "投资 回报 稳健 收益 回报.",
+      "flag_positive": true
+    }
+  },
+  {
+    "record_id": 19,
+    "fund_id": 1,
+    "quarter": "2014-07-01",
+    "institutional_investment": {
+      "ratio": 0.9068219157356758,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.09651964665540991
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.09389645212816664
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.09019103159335705
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.07905546503895564
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.09368951910749568
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "低迷 亏损 低迷 警示 低迷 警示 亏损.",
+      "flag_positive": false
+    }
+  },
+  {
+    "record_id": 20,
+    "fund_id": 1,
+    "quarter": "2014-10-01",
+    "institutional_investment": {
+      "ratio": 0.9,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.09145381381014177
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.09190105186036761
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.08106275996925782
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.08243260421714216
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.09737206997333032
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "稳健 收益 增长 投资 投资 增长.",
+      "flag_positive": true
+    }
+  },
+  {
+    "record_id": 21,
+    "fund_id": 1,
+    "quarter": "2015-01-01",
+    "institutional_investment": {
+      "ratio": 0.9151297706912255,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.09123609099212597
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.09628348195073091
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.09171120570203578
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.09172127004559277
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.09808096371095454
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "调整 调整 亏损 警示 亏损.",
+      "flag_positive": false
+    }
+  },
+  {
+    "record_id": 22,
+    "fund_id": 1,
+    "quarter": "2015-04-01",
+    "institutional_investment": {
+      "ratio": 0.9392097829482972,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.0903086651973081
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.0945938237334166
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.09068505127389442
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.09087950470280351
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.09175677343054925
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "回报 收益 稳健 稳健 增长 投资 稳健.",
+      "flag_positive": true
+    }
+  },
+  {
+    "record_id": 23,
+    "fund_id": 1,
+    "quarter": "2015-07-01",
+    "institutional_investment": {
+      "ratio": 0.9102363487164078,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.09257857127307677
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.08767239451999644
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.09981392775065542
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.08476138375610426
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.08971553336251127
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "投资 回报 回报 回报 增长.",
+      "flag_positive": true
+    }
+  },
+  {
+    "record_id": 24,
+    "fund_id": 1,
+    "quarter": "2015-10-01",
+    "institutional_investment": {
+      "ratio": 0.9,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.08692188259208078
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.10012884519047613
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.09137588343558102
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.09722291177628044
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.0796010773887412
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "稳健 稳健 收益 增长 增长 稳健.",
+      "flag_positive": true
+    }
+  },
+  {
+    "record_id": 25,
+    "fund_id": 1,
+    "quarter": "2016-01-01",
+    "institutional_investment": {
+      "ratio": 0.9080946604641619,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.09267881790750099
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.09703688161578024
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.09138545397134415
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.09826782867187364
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.08718844689571358
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "警示 亏损 低迷 亏损 亏损.",
+      "flag_positive": false
+    }
+  },
+  {
+    "record_id": 26,
+    "fund_id": 1,
+    "quarter": "2016-04-01",
+    "institutional_investment": {
+      "ratio": 0.9403882290639846,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.10390425498769751
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.11013110977173321
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.09149895298332084
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.09092030525659305
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.10421251424622235
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "调整 亏损 风险.",
+      "flag_positive": false
+    }
+  },
+  {
+    "record_id": 27,
+    "fund_id": 1,
+    "quarter": "2016-07-01",
+    "institutional_investment": {
+      "ratio": 0.905971522479022,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.10165415726801719
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.08693713205782932
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.08765584452823119
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.08862465998587865
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.08118599867066226
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "增长 收益 投资 稳健 稳健 回报 投资.",
+      "flag_positive": true
+    }
+  },
+  {
+    "record_id": 28,
+    "fund_id": 1,
+    "quarter": "2016-10-01",
+    "institutional_investment": {
+      "ratio": 0.9,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.0835694363746106
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.08297101463273553
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.0846254170442711
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.08975720578829254
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.09163950312775564
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "亏损 低迷 风险 警示 调整.",
+      "flag_positive": false
+    }
+  },
+  {
+    "record_id": 29,
+    "fund_id": 1,
+    "quarter": "2017-01-01",
+    "institutional_investment": {
+      "ratio": 0.9078977645852843,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.10164327990822697
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.0838012981733569
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.0976800332478645
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.08929185454894986
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.09044353049096139
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "低迷 调整 亏损.",
+      "flag_positive": false
+    }
+  },
+  {
+    "record_id": 30,
+    "fund_id": 1,
+    "quarter": "2017-04-01",
+    "institutional_investment": {
+      "ratio": 0.9389790718757236,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.09862164363273859
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.08603885303663628
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.09657477541086072
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.09506307264506375
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.09734506603562941
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "回报 投资 收益 收益 稳健 收益.",
+      "flag_positive": true
+    }
+  },
+  {
+    "record_id": 31,
+    "fund_id": 1,
+    "quarter": "2017-07-01",
+    "institutional_investment": {
+      "ratio": 0.9078940268571971,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.09281358319307444
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.10797650366509597
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.0863252227959605
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.08707242400070699
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.08642741900074635
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "风险 风险 调整 警示.",
+      "flag_positive": false
+    }
+  },
+  {
+    "record_id": 32,
+    "fund_id": 1,
+    "quarter": "2017-10-01",
+    "institutional_investment": {
+      "ratio": 0.9,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.08611166016587822
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.08553829010885437
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.09832311571775286
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.09994352973592899
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.08600477594375366
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "收益 回报 稳健 收益 收益 回报 增长.",
+      "flag_positive": true
+    }
+  },
+  {
+    "record_id": 33,
+    "fund_id": 1,
+    "quarter": "2018-01-01",
+    "institutional_investment": {
+      "ratio": 0.9099527597134173,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.08516878695961214
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.09429518486604656
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.08712971466137492
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.09542579869563031
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.09241573711730083
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "警示 风险 警示 亏损 风险 调整.",
+      "flag_positive": false
+    }
+  },
+  {
+    "record_id": 34,
+    "fund_id": 1,
+    "quarter": "2018-04-01",
+    "institutional_investment": {
+      "ratio": 0.9362980117486545,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.08301959236988482
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.10446233758417588
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.10620094488653409
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.08934028034147473
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.09091589025531355
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "调整 低迷 风险 低迷 低迷.",
+      "flag_positive": false
+    }
+  },
+  {
+    "record_id": 35,
+    "fund_id": 1,
+    "quarter": "2018-07-01",
+    "institutional_investment": {
+      "ratio": 0.9128789071923612,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.09328894845431046
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.0936290882491453
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.09589770062794593
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.10535932249060058
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.09004926012677777
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "低迷 警示 亏损 风险 亏损 低迷 亏损.",
+      "flag_positive": false
+    }
+  },
+  {
+    "record_id": 36,
+    "fund_id": 1,
+    "quarter": "2018-10-01",
+    "institutional_investment": {
+      "ratio": 0.9,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.08441191928823082
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.0803447654038983
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.08488348972040656
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.08976811118988341
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.10256190504462451
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "亏损 警示 警示 调整 亏损 调整.",
+      "flag_positive": false
+    }
+  },
+  {
+    "record_id": 37,
+    "fund_id": 1,
+    "quarter": "2019-01-01",
+    "institutional_investment": {
+      "ratio": 0.9107310225825167,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.08744982316499847
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.09263961791972396
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.09095814198574241
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.09939185517238826
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.10876162923936702
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "调整 亏损 亏损 调整.",
+      "flag_positive": false
+    }
+  },
+  {
+    "record_id": 38,
+    "fund_id": 1,
+    "quarter": "2019-04-01",
+    "institutional_investment": {
+      "ratio": 0.9331411545664209,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.08959803404619984
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.08988803935901453
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.1006232415961256
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.09808735588402627
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.10624106673679433
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "收益 投资 增长 稳健 回报 稳健.",
+      "flag_positive": true
+    }
+  },
+  {
+    "record_id": 39,
+    "fund_id": 1,
+    "quarter": "2019-07-01",
+    "institutional_investment": {
+      "ratio": 0.9053513488288555,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.0946226321801673
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.08802009024737613
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.0946697186977317
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.0982960599469659
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.0962785101512671
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "警示 风险 风险 低迷 风险 风险 亏损 低迷.",
+      "flag_positive": false
+    }
+  },
+  {
+    "record_id": 40,
+    "fund_id": 1,
+    "quarter": "2019-10-01",
+    "institutional_investment": {
+      "ratio": 0.9,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.09355091821775108
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.09746672282712407
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.09818506913311971
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.0996751129372627
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.09454096921312749
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "风险 低迷 亏损 警示 调整 调整 亏损.",
+      "flag_positive": false
+    }
+  },
+  {
+    "record_id": 41,
+    "fund_id": 1,
+    "quarter": "2020-01-01",
+    "institutional_investment": {
+      "ratio": 0.9125846330299839,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.09008863674078041
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.09228545910803165
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.09970402606855688
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.08553991360608773
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.0938391764651087
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "警示 亏损 风险 亏损 风险.",
+      "flag_positive": false
+    }
+  },
+  {
+    "record_id": 42,
+    "fund_id": 1,
+    "quarter": "2020-04-01",
+    "institutional_investment": {
+      "ratio": 0.940599788984165,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.09130660721212497
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.09426119265896021
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.10300914193666759
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.09539767237455582
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.09438503473550953
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "收益 投资 回报 回报 投资.",
+      "flag_positive": true
+    }
+  },
+  {
+    "record_id": 43,
+    "fund_id": 1,
+    "quarter": "2020-07-01",
+    "institutional_investment": {
+      "ratio": 0.9595952310116411,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.08644053011430468
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.10118329806335466
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.10047791236915164
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.11110230616430233
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.09380507545649311
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "收益 投资 增长 回报 投资 收益 收益.",
+      "flag_positive": true
+    }
+  },
+  {
+    "record_id": 44,
+    "fund_id": 1,
+    "quarter": "2020-10-01",
+    "institutional_investment": {
+      "ratio": 0.9497153678346681,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.09650558907711439
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.0967172225694421
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.10601370974181114
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.09430446805675816
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.09692468746385918
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "回报 收益 增长 增长.",
+      "flag_positive": true
+    }
+  },
+  {
+    "record_id": 45,
+    "fund_id": 1,
+    "quarter": "2021-01-01",
+    "institutional_investment": {
+      "ratio": 0.9563636345721754,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.09989163902523332
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.09694262731931205
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.09251132815536385
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.0969949934075057
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.10315178570623595
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "增长 回报 增长 稳健 投资 投资.",
+      "flag_positive": true
+    }
+  },
+  {
+    "record_id": 46,
+    "fund_id": 1,
+    "quarter": "2021-04-01",
+    "institutional_investment": {
+      "ratio": 0.9697882375783108,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.08979321666195365
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.09790961147685921
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.09207797805325688
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.10534415016030498
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.08631651542434465
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "低迷 调整 亏损 风险.",
+      "flag_positive": false
+    }
+  },
+  {
+    "record_id": 47,
+    "fund_id": 1,
+    "quarter": "2021-07-01",
+    "institutional_investment": {
+      "ratio": 0.9614646873785638,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.09223401580695527
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.09878695186330803
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.10710513694249676
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.09568621691034547
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.09226007205100399
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "低迷 风险 低迷 警示.",
+      "flag_positive": false
+    }
+  },
+  {
+    "record_id": 48,
+    "fund_id": 1,
+    "quarter": "2021-10-01",
+    "institutional_investment": {
+      "ratio": 0.95754608163792,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.10892270764987613
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.0856185108608783
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.08036296646745142
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.09883470931416533
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.09224022859332372
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "警示 亏损 调整 低迷 亏损 亏损.",
+      "flag_positive": false
+    }
+  },
+  {
+    "record_id": 49,
+    "fund_id": 1,
+    "quarter": "2022-01-01",
+    "institutional_investment": {
+      "ratio": 0.9658180486288741,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.08943317514297242
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.10154029999398288
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.0982884098592858
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.09263325444773031
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.08761967407219115
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "稳健 收益 收益 增长 投资 回报.",
+      "flag_positive": true
+    }
+  },
+  {
+    "record_id": 50,
+    "fund_id": 1,
+    "quarter": "2022-04-01",
+    "institutional_investment": {
+      "ratio": 0.9692139748408458,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.1030285987820456
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.10147280572979521
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.09622716643762891
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.10984785645641824
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.08943080411980152
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "投资 增长 增长.",
+      "flag_positive": true
+    }
+  },
+  {
+    "record_id": 51,
+    "fund_id": 1,
+    "quarter": "2022-07-01",
+    "institutional_investment": {
+      "ratio": 0.9672881400467279,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.08605013780819962
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.09188545751550407
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.0964097118901843
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.09843219014993163
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.09504016159967847
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "增长 稳健 投资 投资.",
+      "flag_positive": true
+    }
+  },
+  {
+    "record_id": 52,
+    "fund_id": 1,
+    "quarter": "2022-10-01",
+    "institutional_investment": {
+      "ratio": 0.9555752889416198,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.09802191666976207
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.08679675292482887
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.1056638811226748
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.094982470645414
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.10337859971527888
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "投资 增长 收益 回报.",
+      "flag_positive": true
+    }
+  },
+  {
+    "record_id": 53,
+    "fund_id": 1,
+    "quarter": "2023-01-01",
+    "institutional_investment": {
+      "ratio": 0.9653230806912367,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.0989313854937676
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.09972958060320017
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.1005206790307491
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.09966626798924488
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.10103136738819649
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "调整 亏损 低迷 风险.",
+      "flag_positive": false
+    }
+  },
+  {
+    "record_id": 54,
+    "fund_id": 1,
+    "quarter": "2023-04-01",
+    "institutional_investment": {
+      "ratio": 0.9806024054724815,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.10736430825817517
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.09943588873515843
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.10302326685036772
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.09743209068723756
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.10814106105539445
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "投资 投资 投资 增长 回报 收益.",
+      "flag_positive": true
+    }
+  },
+  {
+    "record_id": 55,
+    "fund_id": 1,
+    "quarter": "2023-07-01",
+    "institutional_investment": {
+      "ratio": 0.972839267559505,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.09254918064153561
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.10989050978632621
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.0970028211014401
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.08726850104112417
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.09818065766032603
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "调整 风险 调整.",
+      "flag_positive": false
+    }
+  },
+  {
+    "record_id": 56,
+    "fund_id": 1,
+    "quarter": "2023-10-01",
+    "institutional_investment": {
+      "ratio": 0.9632594804169067,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.09155858643936651
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.10221045288461174
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.09175758018657394
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.09320266400918721
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.08309916292507195
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "增长 投资 投资 增长 回报 增长 增长.",
+      "flag_positive": true
+    }
+  },
+  {
+    "record_id": 57,
+    "fund_id": 1,
+    "quarter": "2024-01-01",
+    "institutional_investment": {
+      "ratio": 0.9678319694379515,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.0936170527090516
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.07981604165739245
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.08569587717939507
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.10210609953680522
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.10228379805435096
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "投资 增长 回报 增长.",
+      "flag_positive": true
+    }
+  },
+  {
+    "record_id": 58,
+    "fund_id": 1,
+    "quarter": "2024-04-01",
+    "institutional_investment": {
+      "ratio": 0.9804562182229822,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.10102382475479298
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.09127678882039374
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.09771164232930438
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.09802040404866424
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.08993706899795043
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "增长 收益 投资 增长 稳健 投资 收益.",
+      "flag_positive": true
+    }
+  },
+  {
+    "record_id": 59,
+    "fund_id": 1,
+    "quarter": "2024-07-01",
+    "institutional_investment": {
+      "ratio": 0.9734671143176048,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.10787049954413053
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.10348824746579018
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.09579996221495284
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.0975349123047222
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.09880539108739335
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "稳健 回报 增长 回报 稳健 增长 稳健 增长.",
+      "flag_positive": true
+    }
+  },
+  {
+    "record_id": 60,
+    "fund_id": 1,
+    "quarter": "2024-10-01",
+    "institutional_investment": {
+      "ratio": 0.9664913310218514,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.0823569890232151
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.09491889142454095
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.09187524336620054
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.08963779303292073
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.09468143105198346
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "亏损 调整 警示 低迷 低迷 低迷.",
+      "flag_positive": false
+    }
+  },
+  {
+    "record_id": 61,
+    "fund_id": 1,
+    "quarter": "2025-01-01",
+    "institutional_investment": {
+      "ratio": 0.9721690440136953,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.10980071008931619
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.1017028044302386
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.09321865147288995
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.10122498387086264
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.10701239245747154
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "警示 调整 调整 低迷 低迷 亏损.",
+      "flag_positive": false
+    }
+  },
+  {
+    "record_id": 62,
+    "fund_id": 1,
+    "quarter": "2025-04-01",
+    "institutional_investment": {
+      "ratio": 0.9839655781970612,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.1048689936000955
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.09881397040914734
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.0938680003757671
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.10328412101500124
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.10115095551765836
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "警示 低迷 风险 低迷 警示.",
+      "flag_positive": false
+    }
+  },
+  {
+    "record_id": 63,
+    "fund_id": 1,
+    "quarter": "2025-07-01",
+    "institutional_investment": {
+      "ratio": 0.9715124429755942,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.10341759683775355
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.1015974469093332
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.10449811330479476
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.09340459781663545
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.10637300275699971
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "警示 调整 低迷 调整 低迷.",
+      "flag_positive": false
+    }
+  },
+  {
+    "record_id": 64,
+    "fund_id": 1,
+    "quarter": "2025-10-01",
+    "institutional_investment": {
+      "ratio": 0.9619671229695638,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.09757990952980318
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.11072353840533324
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.0913723975703294
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.10834845891911313
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.09758208778119491
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "稳健 投资 增长 增长 回报.",
+      "flag_positive": true
+    }
+  },
+  {
+    "record_id": 65,
+    "fund_id": 1,
+    "quarter": "2026-01-01",
+    "institutional_investment": {
+      "ratio": 0.9797669173014566,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.09341676570484451
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.09458949089176541
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.09573426057278542
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.10094585335495908
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.10163654014639416
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "回报 稳健 稳健 增长 稳健 投资 回报 收益.",
+      "flag_positive": true
+    }
+  },
+  {
+    "record_id": 66,
+    "fund_id": 1,
+    "quarter": "2026-04-01",
+    "institutional_investment": {
+      "ratio": 0.9924391477923056,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.09522801475166051
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.09907343263340368
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.1142398072895136
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.11133671696993554
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.10229818046694879
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "增长 回报 回报 收益.",
+      "flag_positive": true
+    }
+  },
+  {
+    "record_id": 67,
+    "fund_id": 1,
+    "quarter": "2026-07-01",
+    "institutional_investment": {
+      "ratio": 0.9782095030360072,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.09808697465077812
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.09866116959062855
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.10211557611271363
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.09066140234721187
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.0960193145416373
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "回报 增长 收益 收益 增长.",
+      "flag_positive": true
+    }
+  },
+  {
+    "record_id": 68,
+    "fund_id": 1,
+    "quarter": "2026-10-01",
+    "institutional_investment": {
+      "ratio": 0.9727431343733913,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.08559422492019601
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.10006887529557609
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.10180468501525833
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.09389200820124352
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.10829222078036937
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "回报 回报 稳健 投资 稳健 回报 增长.",
+      "flag_positive": true
+    }
+  },
+  {
+    "record_id": 69,
+    "fund_id": 1,
+    "quarter": "2027-01-01",
+    "institutional_investment": {
+      "ratio": 0.9812657260876667,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.08954621296775028
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.08787594844729793
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.09969773533868648
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.10545626072705175
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.10991406644897175
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "增长 回报 收益 回报 回报 收益.",
+      "flag_positive": true
+    }
+  },
+  {
+    "record_id": 70,
+    "fund_id": 1,
+    "quarter": "2027-04-01",
+    "institutional_investment": {
+      "ratio": 0.9885113116281128,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.0956389413227287
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.10640189699683034
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.09858157187630633
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.09764274006322554
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.10503675072521798
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "增长 投资 回报 稳健 稳健 投资.",
+      "flag_positive": true
+    }
+  },
+  {
+    "record_id": 71,
+    "fund_id": 1,
+    "quarter": "2027-07-01",
+    "institutional_investment": {
+      "ratio": 0.9828033461577409,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.10284659476466804
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.08724558951688435
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.10861611706385536
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.10794097409480626
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.09390139570520739
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "警示 调整 低迷 调整.",
+      "flag_positive": false
+    }
+  },
+  {
+    "record_id": 72,
+    "fund_id": 1,
+    "quarter": "2027-10-01",
+    "institutional_investment": {
+      "ratio": 0.9776908202903232,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.10053970676309418
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.10122729333301149
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.09959379838979966
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.09391694595211438
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.09306771845346595
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "增长 回报 稳健 投资 投资 稳健 投资 稳健.",
+      "flag_positive": true
+    }
+  },
+  {
+    "record_id": 73,
+    "fund_id": 1,
+    "quarter": "2028-01-01",
+    "institutional_investment": {
+      "ratio": 0.9829515319400383,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.0981162746970637
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.10650425632881938
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.10210035427616485
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.09570085286940108
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.10369704416854224
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "回报 稳健 增长 增长.",
+      "flag_positive": true
+    }
+  },
+  {
+    "record_id": 74,
+    "fund_id": 1,
+    "quarter": "2028-04-01",
+    "institutional_investment": {
+      "ratio": 0.9993224066415028,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.07999244231973976
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.10797360056675501
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.08775424421270359
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.09739515407432836
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.09209455140176727
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "回报 稳健 回报 增长 收益.",
+      "flag_positive": true
+    }
+  },
+  {
+    "record_id": 75,
+    "fund_id": 1,
+    "quarter": "2028-07-01",
+    "institutional_investment": {
+      "ratio": 0.9754462767510704,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.08848185734506071
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.10567041518675668
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.09427071926592381
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.09997015484722206
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.09721618362295276
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "增长 增长 投资 收益 收益.",
+      "flag_positive": true
+    }
+  },
+  {
+    "record_id": 76,
+    "fund_id": 1,
+    "quarter": "2028-10-01",
+    "institutional_investment": {
+      "ratio": 0.9782612741499286,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.10116541320555471
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.09836388065241465
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.08884518184567287
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.10479999515112284
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.09436983133286367
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "回报 回报 收益 稳健 稳健 稳健.",
+      "flag_positive": true
+    }
+  },
+  {
+    "record_id": 77,
+    "fund_id": 1,
+    "quarter": "2029-01-01",
+    "institutional_investment": {
+      "ratio": 0.9864585108926798,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.08774977779864972
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.09564904496250659
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.10915116962370815
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.10459740328406242
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.09620528614841296
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "投资 增长 回报 投资 收益.",
+      "flag_positive": true
+    }
+  },
+  {
+    "record_id": 78,
+    "fund_id": 1,
+    "quarter": "2029-04-01",
+    "institutional_investment": {
+      "ratio": 0.9958765511964464,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.09714285118941564
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.09733620976112296
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.11412489100457053
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.10226120328526551
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.10259794664998212
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "增长 收益 增长 回报 投资 投资 稳健.",
+      "flag_positive": true
+    }
+  },
+  {
+    "record_id": 79,
+    "fund_id": 1,
+    "quarter": "2029-07-01",
+    "institutional_investment": {
+      "ratio": 0.988013470410182,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.1060133312192411
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.1004728711542038
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.09698805202027327
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.09742689809742336
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.09830013822511975
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "回报 投资 稳健 增长 稳健 增长 回报.",
+      "flag_positive": true
+    }
+  },
+  {
+    "record_id": 80,
+    "fund_id": 1,
+    "quarter": "2029-10-01",
+    "institutional_investment": {
+      "ratio": 0.9715050472604353,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.09688994907047464
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.10224391153150239
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.09751412592669463
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.10227898526655259
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.09658548866528345
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "回报 投资 投资 投资 稳健 投资.",
+      "flag_positive": true
+    }
+  },
+  {
+    "record_id": 81,
+    "fund_id": 1,
+    "quarter": "2030-01-01",
+    "institutional_investment": {
+      "ratio": 0.9884619176233379,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.09939663809454642
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.08485878697060904
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.10526048548525116
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.10127161109361975
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.10583226253135136
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "稳健 收益 回报 收益 稳健 收益 增长 增长.",
+      "flag_positive": true
+    }
+  },
+  {
+    "record_id": 82,
+    "fund_id": 1,
+    "quarter": "2030-04-01",
+    "institutional_investment": {
+      "ratio": 1.0,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.07972621235264418
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.1146186229334651
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.09902287260291379
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.10775727971716262
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.09272065851012129
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "增长 投资 增长 投资 稳健 投资.",
+      "flag_positive": true
+    }
+  },
+  {
+    "record_id": 83,
+    "fund_id": 1,
+    "quarter": "2030-07-01",
+    "institutional_investment": {
+      "ratio": 0.9959418599258261,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.10388360332802059
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.092220277050367
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.09522780326771196
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.1129924054696501
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.09825940918723917
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "收益 稳健 投资 增长 回报 回报 回报.",
+      "flag_positive": true
+    }
+  },
+  {
+    "record_id": 84,
+    "fund_id": 1,
+    "quarter": "2030-10-01",
+    "institutional_investment": {
+      "ratio": 0.9797245157745037,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.09949448168970842
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.10406292569227164
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.1014422247932586
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.0990253839134554
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.10052717859471394
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "调整 亏损 亏损.",
+      "flag_positive": false
+    }
+  },
+  {
+    "record_id": 85,
+    "fund_id": 1,
+    "quarter": "2031-01-01",
+    "institutional_investment": {
+      "ratio": 0.9894779646975661,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.11577170556642453
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.09854446489052152
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.10035548979676139
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.1063023772418099
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.1066864780004625
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "风险 警示 亏损 调整.",
+      "flag_positive": false
+    }
+  },
+  {
+    "record_id": 86,
+    "fund_id": 1,
+    "quarter": "2031-04-01",
+    "institutional_investment": {
+      "ratio": 1.0,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.10830921213892267
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.1044711115542043
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.09199896561088662
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.11143402072610768
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.09197558224886919
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "回报 回报 收益 回报 回报 收益 投资.",
+      "flag_positive": true
+    }
+  },
+  {
+    "record_id": 87,
+    "fund_id": 1,
+    "quarter": "2031-07-01",
+    "institutional_investment": {
+      "ratio": 0.9970500612581111,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.10182345438248434
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.09442507517567561
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.09925603769966017
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.10200634299793547
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.10195450663396302
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "收益 收益 增长 回报 投资.",
+      "flag_positive": true
+    }
+  },
+  {
+    "record_id": 88,
+    "fund_id": 1,
+    "quarter": "2031-10-01",
+    "institutional_investment": {
+      "ratio": 0.9857660134991935,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.10153004662956634
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.10987258023332987
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.1017513414605172
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.0968675049028848
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.10532521152793785
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "调整 亏损 警示 调整 风险 低迷.",
+      "flag_positive": false
+    }
+  },
+  {
+    "record_id": 89,
+    "fund_id": 1,
+    "quarter": "2032-01-01",
+    "institutional_investment": {
+      "ratio": 0.9935304546714306,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.10767933888961555
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.09075979076118411
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.10353484595609207
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.10426125466331936
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.09727010094362312
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "投资 回报 收益 投资 回报.",
+      "flag_positive": true
+    }
+  },
+  {
+    "record_id": 90,
+    "fund_id": 1,
+    "quarter": "2032-04-01",
+    "institutional_investment": {
+      "ratio": 1.0,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.10962994769318134
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.09894961089077232
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.1008790351743008
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.09878849723001291
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.10010905333307028
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "稳健 回报 收益 回报 收益 稳健.",
+      "flag_positive": true
+    }
+  },
+  {
+    "record_id": 91,
+    "fund_id": 1,
+    "quarter": "2032-07-01",
+    "institutional_investment": {
+      "ratio": 0.997262848345795,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.0920523592263131
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.08964592865641945
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.11088782027715431
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.0937975553963512
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.09278653838838535
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "亏损 调整 低迷 调整 低迷 警示 低迷.",
+      "flag_positive": false
+    }
+  },
+  {
+    "record_id": 92,
+    "fund_id": 1,
+    "quarter": "2032-10-01",
+    "institutional_investment": {
+      "ratio": 0.9910825651591728,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.08403452572069128
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.09463552428209077
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.0898466279620648
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.11060236263687187
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.10617697614131573
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "回报 投资 回报 稳健 投资.",
+      "flag_positive": true
+    }
+  },
+  {
+    "record_id": 93,
+    "fund_id": 1,
+    "quarter": "2033-01-01",
+    "institutional_investment": {
+      "ratio": 0.9960043526329677,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.0947833828470527
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.11536748590070693
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.10647279367223793
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.09732661557873641
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.08210459525918176
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "增长 投资 投资 收益 投资 增长 稳健 回报.",
+      "flag_positive": true
+    }
+  },
+  {
+    "record_id": 94,
+    "fund_id": 1,
+    "quarter": "2033-04-01",
+    "institutional_investment": {
+      "ratio": 1.0,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.1160365980081352
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.09027299273265484
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.08848220877130177
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.10715799302406749
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.11707826684437492
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "增长 稳健 增长 稳健 增长 增长.",
+      "flag_positive": true
+    }
+  },
+  {
+    "record_id": 95,
+    "fund_id": 1,
+    "quarter": "2033-07-01",
+    "institutional_investment": {
+      "ratio": 0.9986276214640375,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.10955267187597736
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.10381012598677027
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.10402604253806075
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.1058366710578659
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.1051752622749111
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "投资 回报 增长 收益 投资.",
+      "flag_positive": true
+    }
+  },
+  {
+    "record_id": 96,
+    "fund_id": 1,
+    "quarter": "2033-10-01",
+    "institutional_investment": {
+      "ratio": 0.9856469284507682,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.10053303281286245
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.09929410057273996
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.09812654094978017
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.0932869407230101
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.0965999673070094
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "增长 稳健 稳健 增长.",
+      "flag_positive": true
+    }
+  },
+  {
+    "record_id": 97,
+    "fund_id": 1,
+    "quarter": "2034-01-01",
+    "institutional_investment": {
+      "ratio": 1.0,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.08814930230063231
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.09931162261243676
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.09307986224994358
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.0922748747794896
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.10125925905807436
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "回报 稳健 回报 收益 增长 回报 增长.",
+      "flag_positive": true
+    }
+  },
+  {
+    "record_id": 98,
+    "fund_id": 1,
+    "quarter": "2034-04-01",
+    "institutional_investment": {
+      "ratio": 1.0,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.1097440160044122
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.10642821624201619
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.08900649577463776
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.09307260304400765
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.10658539831591751
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "增长 稳健 增长 投资 稳健 增长 稳健 增长.",
+      "flag_positive": true
+    }
+  },
+  {
+    "record_id": 99,
+    "fund_id": 1,
+    "quarter": "2034-07-01",
+    "institutional_investment": {
+      "ratio": 1.0,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.09312258824523184
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.09842756795002083
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.10385036469317187
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.09322158881595456
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.10073762854302172
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "亏损 亏损 亏损 警示 低迷.",
+      "flag_positive": false
+    }
+  },
+  {
+    "record_id": 100,
+    "fund_id": 1,
+    "quarter": "2034-10-01",
+    "institutional_investment": {
+      "ratio": 0.9930250988793408,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.08996433142350664
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.09509293638027558
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.10154098342693182
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.08815155375321239
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.10238583305365687
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "收益 回报 增长 稳健.",
+      "flag_positive": true
+    }
+  },
+  {
+    "record_id": 101,
+    "fund_id": 1,
+    "quarter": "2035-01-01",
+    "institutional_investment": {
+      "ratio": 0.9996615870182083,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.09982869410933405
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.10383358838274086
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.10153355764027346
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.10951514171163773
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.10084273022035617
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "稳健 投资 投资 增长 增长 增长 回报.",
+      "flag_positive": true
+    }
+  },
+  {
+    "record_id": 102,
+    "fund_id": 1,
+    "quarter": "2035-04-01",
+    "institutional_investment": {
+      "ratio": 1.0,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.09699416121212323
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.10085608252122599
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.10380308620325472
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.10034202049227993
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.10028414183842718
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "增长 投资 稳健 回报.",
+      "flag_positive": true
+    }
+  },
+  {
+    "record_id": 103,
+    "fund_id": 1,
+    "quarter": "2035-07-01",
+    "institutional_investment": {
+      "ratio": 1.0,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.09508605818535272
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.09535969357714337
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.09018176309740215
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.11224703720230858
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.091292957352261
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "回报 回报 收益 收益.",
+      "flag_positive": true
+    }
+  },
+  {
+    "record_id": 104,
+    "fund_id": 1,
+    "quarter": "2035-10-01",
+    "institutional_investment": {
+      "ratio": 0.9941151064808011,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.09456117426350875
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.09438265978909573
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.1056759812866912
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.09734686290003591
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.10814570515679625
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "稳健 稳健 收益 收益 投资.",
+      "flag_positive": true
+    }
+  },
+  {
+    "record_id": 105,
+    "fund_id": 1,
+    "quarter": "2036-01-01",
+    "institutional_investment": {
+      "ratio": 1.0,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.09528556563029293
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.10195295913556662
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.0941525706271817
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.11501604389441372
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.09168681106679341
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "收益 收益 稳健 稳健 回报 收益 投资.",
+      "flag_positive": true
+    }
+  },
+  {
+    "record_id": 106,
+    "fund_id": 1,
+    "quarter": "2036-04-01",
+    "institutional_investment": {
+      "ratio": 1.0,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.1021687449715892
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.10443643816652469
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.10289659368216049
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.09870298638785605
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.09909125510186602
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "收益 增长 稳健 稳健 稳健.",
+      "flag_positive": true
+    }
+  },
+  {
+    "record_id": 107,
+    "fund_id": 1,
+    "quarter": "2036-07-01",
+    "institutional_investment": {
+      "ratio": 1.0,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.10030668030385377
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.09897098598860059
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.10674715381756437
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.11547366101113947
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.09609755750494517
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "增长 稳健 稳健 稳健 投资 投资 增长 回报.",
+      "flag_positive": true
+    }
+  },
+  {
+    "record_id": 108,
+    "fund_id": 1,
+    "quarter": "2036-10-01",
+    "institutional_investment": {
+      "ratio": 1.0,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.09041137914294646
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.09938202566154122
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.11805796536358024
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.09437427802421189
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.11147381763810849
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "投资 收益 回报 回报 增长 收益 增长 稳健.",
+      "flag_positive": true
+    }
+  },
+  {
+    "record_id": 109,
+    "fund_id": 1,
+    "quarter": "2037-01-01",
+    "institutional_investment": {
+      "ratio": 1.0,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.1117439056985351
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.09612488230804404
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.10398288155429693
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.11139877636189977
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.0973461058130876
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "收益 稳健 稳健 增长.",
+      "flag_positive": true
+    }
+  },
+  {
+    "record_id": 110,
+    "fund_id": 1,
+    "quarter": "2037-04-01",
+    "institutional_investment": {
+      "ratio": 1.0,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.09857493747928348
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.0959282336023595
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.09289670288514994
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.09545505718453795
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.09143241813266421
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "增长 增长 投资 收益 增长.",
+      "flag_positive": true
+    }
+  },
+  {
+    "record_id": 111,
+    "fund_id": 1,
+    "quarter": "2037-07-01",
+    "institutional_investment": {
+      "ratio": 1.0,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.10023858427781458
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.09461018738258951
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.10163650138253524
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.08910873047657461
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.10231616162550121
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "回报 回报 回报 投资 稳健.",
+      "flag_positive": true
+    }
+  },
+  {
+    "record_id": 112,
+    "fund_id": 1,
+    "quarter": "2037-10-01",
+    "institutional_investment": {
+      "ratio": 1.0,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.10583470273126248
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.08604385050199982
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.102618395988933
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.10859368294731306
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.09153251286916157
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "增长 收益 增长 收益 收益 回报 稳健.",
+      "flag_positive": true
+    }
+  },
+  {
+    "record_id": 113,
+    "fund_id": 1,
+    "quarter": "2038-01-01",
+    "institutional_investment": {
+      "ratio": 1.0,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.11170800670786393
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.10293313306556232
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.09506491700969115
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.09960961645639606
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.10390828838765206
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "投资 稳健 稳健 增长 稳健 增长 稳健.",
+      "flag_positive": true
+    }
+  },
+  {
+    "record_id": 114,
+    "fund_id": 1,
+    "quarter": "2038-04-01",
+    "institutional_investment": {
+      "ratio": 1.0,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.10053203773988689
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.10377129194712459
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.09355528484844444
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.10118552576825256
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.09010399852166515
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "收益 收益 稳健 增长 增长 收益.",
+      "flag_positive": true
+    }
+  },
+  {
+    "record_id": 115,
+    "fund_id": 1,
+    "quarter": "2038-07-01",
+    "institutional_investment": {
+      "ratio": 1.0,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.0992214175705591
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.09367264650974648
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.09485129040187164
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.10865265222647306
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.10763917084415989
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "警示 亏损 低迷 调整 警示 低迷 亏损.",
+      "flag_positive": false
+    }
+  },
+  {
+    "record_id": 116,
+    "fund_id": 1,
+    "quarter": "2038-10-01",
+    "institutional_investment": {
+      "ratio": 1.0,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.10426396684635024
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.09235381064729195
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.0977851408521364
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.1084916838998543
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.10099201839547933
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "低迷 调整 亏损 警示 低迷 警示 亏损.",
+      "flag_positive": false
+    }
+  },
+  {
+    "record_id": 117,
+    "fund_id": 1,
+    "quarter": "2039-01-01",
+    "institutional_investment": {
+      "ratio": 1.0,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.11623530677987187
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.10275322487576061
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.10134434381543023
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.09783618475058249
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.10093478633347598
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "稳健 增长 收益 收益 稳健 稳健.",
+      "flag_positive": true
+    }
+  },
+  {
+    "record_id": 118,
+    "fund_id": 1,
+    "quarter": "2039-04-01",
+    "institutional_investment": {
+      "ratio": 1.0,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.0989327111453362
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.10495676073682014
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.1066969162175621
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.09449807377644436
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.09068136932509556
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "投资 稳健 稳健 增长 增长 投资.",
+      "flag_positive": true
+    }
+  },
+  {
+    "record_id": 119,
+    "fund_id": 1,
+    "quarter": "2039-07-01",
+    "institutional_investment": {
+      "ratio": 1.0,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.08714656238827694
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.10355593928838781
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.09227643375678289
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.08492976584933262
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.10272005023171675
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "投资 投资 收益 投资 稳健 收益.",
+      "flag_positive": true
+    }
+  },
+  {
+    "record_id": 120,
+    "fund_id": 1,
+    "quarter": "2039-10-01",
+    "institutional_investment": {
+      "ratio": 1.0,
+      "investors": [
+        {
+          "investor_id": 1,
+          "type": "个人",
+          "holding_ratio": 0.11745099662202954
+        },
+        {
+          "investor_id": 2,
+          "type": "机构",
+          "holding_ratio": 0.09995750361922075
+        },
+        {
+          "investor_id": 3,
+          "type": "个人",
+          "holding_ratio": 0.10586943542116149
+        },
+        {
+          "investor_id": 4,
+          "type": "机构",
+          "holding_ratio": 0.10057280550983295
+        },
+        {
+          "investor_id": 5,
+          "type": "个人",
+          "holding_ratio": 0.099307772427662
+        }
+      ]
+    },
+    "metadata": {
+      "comments": "增长 回报 回报 回报 增长 稳健 投资.",
+      "flag_positive": true
+    }
+  }
+]

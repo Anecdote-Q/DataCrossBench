@@ -1,0 +1,20 @@
+{
+    "goal": "比较中国银行和工商银行在金融科技领域的专利申请数量对市场竞争力的影响。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 绿色金融自2016年起成为国际核心议题，2016年绿色金融专利申请量持续增长，2021年之后呈现快速增长趋势。",
+        "Comparison: 北京、深圳和上海在金融科技专利申请量上具有显著优势，广州、杭州、南京、成都等新一线城市与前三者相比差距明显。",
+        "Extreme: 中国平安保险在养老金融领域的专利申请量达到2681件，显示出其在该领域的领先地位。",
+        "Attribution: 由于政策推动，普惠金融市场规模逐步扩大，养老金融发展驶入‘快车道’。"
+    ],
+    "summary": "本报告分析了中国金融科技领域的专利技术发展现状，揭示了行业内的技术创新、市场竞争及政策支持对未来发展的重要影响。",
+    "flag_id": "flag-2",
+    "classifier": "FinTech",
+    "classifier_cn": "金融科技",
+    "input_files": [
+        "output/company_profiles.json",
+        "output/dimensions.db",
+        "output/financial_patent_facts.png",
+        "output/industry_background.txt"
+    ]
+}

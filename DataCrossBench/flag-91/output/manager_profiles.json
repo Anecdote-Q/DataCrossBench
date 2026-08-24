@@ -1,0 +1,1002 @@
+[
+  {
+    "manager_id": 1,
+    "name": "Tommy Walter",
+    "experience": 19,
+    "specialty": "新能源",
+    "region": "东北",
+    "past_funds_managed": 5,
+    "investment_style": "成长投资",
+    "comments": "Own set pretty concern significant management senior service large."
+  },
+  {
+    "manager_id": 2,
+    "name": "John Pierce",
+    "experience": 13,
+    "specialty": "互联网金融",
+    "region": "华北",
+    "past_funds_managed": 6,
+    "investment_style": "成长投资",
+    "comments": "Poor worry follow wife firm key light place someone option goal avoid left also hard."
+  },
+  {
+    "manager_id": 3,
+    "name": "Sherry Decker",
+    "experience": 3,
+    "specialty": "新能源",
+    "region": "西南",
+    "past_funds_managed": 2,
+    "investment_style": "成长投资",
+    "comments": "Baby ten talk past medical leg never social time last special."
+  },
+  {
+    "manager_id": 4,
+    "name": "Monica Herrera",
+    "experience": 11,
+    "specialty": "新能源",
+    "region": "华南",
+    "past_funds_managed": 2,
+    "investment_style": "周期投资",
+    "comments": "Focus little character artist billion tonight gas research mean common."
+  },
+  {
+    "manager_id": 5,
+    "name": "Megan Young",
+    "experience": 11,
+    "specialty": "传统制造",
+    "region": "华北",
+    "past_funds_managed": 1,
+    "investment_style": "成长投资",
+    "comments": "Remain yard model particular hair truth hold simple quickly appear."
+  },
+  {
+    "manager_id": 6,
+    "name": "Victoria Garcia",
+    "experience": 6,
+    "specialty": "新能源",
+    "region": "华东",
+    "past_funds_managed": 10,
+    "investment_style": "量化投资",
+    "comments": "Positive at behind question exist rich prevent trade their four old center glass whose recognize hot."
+  },
+  {
+    "manager_id": 7,
+    "name": "Abigail Shaffer",
+    "experience": 5,
+    "specialty": "传统制造",
+    "region": "华东",
+    "past_funds_managed": 7,
+    "investment_style": "周期投资",
+    "comments": "Remember be next poor foreign campaign reflect water young treatment behavior provide meet adult final week."
+  },
+  {
+    "manager_id": 8,
+    "name": "Kelly Donovan",
+    "experience": 12,
+    "specialty": "互联网金融",
+    "region": "华南",
+    "past_funds_managed": 6,
+    "investment_style": "量化投资",
+    "comments": "Way main difficult case baby such big side strong this also from."
+  },
+  {
+    "manager_id": 9,
+    "name": "Elizabeth Fowler",
+    "experience": 18,
+    "specialty": "医疗健康",
+    "region": "西北",
+    "past_funds_managed": 2,
+    "investment_style": "成长投资",
+    "comments": "Capital heavy class story side speak close join improve put down know expect security large move."
+  },
+  {
+    "manager_id": 10,
+    "name": "Lisa Hensley",
+    "experience": 18,
+    "specialty": "互联网金融",
+    "region": "华北",
+    "past_funds_managed": 3,
+    "investment_style": "价值投资",
+    "comments": "Whole six tough create question now key show sing me industry."
+  },
+  {
+    "manager_id": 11,
+    "name": "Gerald Hensley",
+    "experience": 9,
+    "specialty": "智能电动车",
+    "region": "华北",
+    "past_funds_managed": 7,
+    "investment_style": "周期投资",
+    "comments": "Stage soon catch economic political them never bill suffer."
+  },
+  {
+    "manager_id": 12,
+    "name": "Justin Baker",
+    "experience": 11,
+    "specialty": "传统制造",
+    "region": "东北",
+    "past_funds_managed": 10,
+    "investment_style": "价值投资",
+    "comments": "Expect several evening town challenge join watch develop later."
+  },
+  {
+    "manager_id": 13,
+    "name": "Shirley Suarez",
+    "experience": 7,
+    "specialty": "互联网金融",
+    "region": "华东",
+    "past_funds_managed": 5,
+    "investment_style": "量化投资",
+    "comments": "Us increase how hear history bank different five between research friend certainly."
+  },
+  {
+    "manager_id": 14,
+    "name": "Connor West",
+    "experience": 3,
+    "specialty": "医疗健康",
+    "region": "华东",
+    "past_funds_managed": 2,
+    "investment_style": "量化投资",
+    "comments": "Expert stop receive catch relationship large accept."
+  },
+  {
+    "manager_id": 15,
+    "name": "Carol Tucker",
+    "experience": 19,
+    "specialty": "智能电动车",
+    "region": "华东",
+    "past_funds_managed": 3,
+    "investment_style": "价值投资",
+    "comments": "Affect democratic change vote participant institution simply down."
+  },
+  {
+    "manager_id": 16,
+    "name": "Gina Moore",
+    "experience": 19,
+    "specialty": "医疗健康",
+    "region": "东北",
+    "past_funds_managed": 1,
+    "investment_style": "价值投资",
+    "comments": "Answer information soldier lead book toward others administration middle."
+  },
+  {
+    "manager_id": 17,
+    "name": "Anthony Humphrey",
+    "experience": 16,
+    "specialty": "新能源",
+    "region": "东北",
+    "past_funds_managed": 4,
+    "investment_style": "价值投资",
+    "comments": "Responsibility fact ability good number cost property model guess well."
+  },
+  {
+    "manager_id": 18,
+    "name": "Patty Perez",
+    "experience": 6,
+    "specialty": "医疗健康",
+    "region": "华南",
+    "past_funds_managed": 6,
+    "investment_style": "成长投资",
+    "comments": "Medical write never hospital like player wonder effect administration small general run pick sign same."
+  },
+  {
+    "manager_id": 19,
+    "name": "Michael Evans",
+    "experience": 7,
+    "specialty": "智能电动车",
+    "region": "西北",
+    "past_funds_managed": 2,
+    "investment_style": "量化投资",
+    "comments": "Card good full poor store range wonder long consider care respond want."
+  },
+  {
+    "manager_id": 20,
+    "name": "Noah Rhodes",
+    "experience": 10,
+    "specialty": "互联网金融",
+    "region": "华北",
+    "past_funds_managed": 9,
+    "investment_style": "成长投资",
+    "comments": "Fall analysis current among value middle writer."
+  },
+  {
+    "manager_id": 21,
+    "name": "William Baker",
+    "experience": 17,
+    "specialty": "智能电动车",
+    "region": "华北",
+    "past_funds_managed": 5,
+    "investment_style": "成长投资",
+    "comments": "List already positive experience television answer pretty event son join hundred keep what fund cost."
+  },
+  {
+    "manager_id": 22,
+    "name": "Sherri Baker",
+    "experience": 9,
+    "specialty": "医疗健康",
+    "region": "东北",
+    "past_funds_managed": 5,
+    "investment_style": "价值投资",
+    "comments": "Happen something entire bar interesting issue yet Congress family bill foreign fast knowledge response."
+  },
+  {
+    "manager_id": 23,
+    "name": "Fred Smith",
+    "experience": 12,
+    "specialty": "智能电动车",
+    "region": "东北",
+    "past_funds_managed": 3,
+    "investment_style": "量化投资",
+    "comments": "Ready goal amount thank good your ever woman way."
+  },
+  {
+    "manager_id": 24,
+    "name": "Amy Silva",
+    "experience": 5,
+    "specialty": "互联网金融",
+    "region": "华东",
+    "past_funds_managed": 3,
+    "investment_style": "周期投资",
+    "comments": "Provide image message seek civil all support question."
+  },
+  {
+    "manager_id": 25,
+    "name": "Stephen Mckee",
+    "experience": 5,
+    "specialty": "互联网金融",
+    "region": "华北",
+    "past_funds_managed": 2,
+    "investment_style": "成长投资",
+    "comments": "Alone attack sing hand him note painting quickly we head several off morning."
+  },
+  {
+    "manager_id": 26,
+    "name": "Michael Lewis",
+    "experience": 18,
+    "specialty": "智能电动车",
+    "region": "华东",
+    "past_funds_managed": 1,
+    "investment_style": "成长投资",
+    "comments": "Fire everything whether ago control military trial brother simple region Democrat partner really."
+  },
+  {
+    "manager_id": 27,
+    "name": "Denise Jacobs",
+    "experience": 9,
+    "specialty": "传统制造",
+    "region": "华北",
+    "past_funds_managed": 4,
+    "investment_style": "量化投资",
+    "comments": "Customer career available common require young specific whose worry property remember nearly face feel."
+  },
+  {
+    "manager_id": 28,
+    "name": "Brian Rodriguez",
+    "experience": 17,
+    "specialty": "智能电动车",
+    "region": "华北",
+    "past_funds_managed": 4,
+    "investment_style": "周期投资",
+    "comments": "Republican until point soldier meeting building cut catch so."
+  },
+  {
+    "manager_id": 29,
+    "name": "Brittney Phillips",
+    "experience": 15,
+    "specialty": "互联网金融",
+    "region": "华东",
+    "past_funds_managed": 1,
+    "investment_style": "周期投资",
+    "comments": "Guess occur level work candidate this assume."
+  },
+  {
+    "manager_id": 30,
+    "name": "Nathan Maldonado",
+    "experience": 5,
+    "specialty": "互联网金融",
+    "region": "西南",
+    "past_funds_managed": 7,
+    "investment_style": "价值投资",
+    "comments": "Yourself rest moment shoulder statement available win politics last quite general there sister."
+  },
+  {
+    "manager_id": 31,
+    "name": "Gabrielle Davis",
+    "experience": 12,
+    "specialty": "传统制造",
+    "region": "西北",
+    "past_funds_managed": 3,
+    "investment_style": "成长投资",
+    "comments": "Consider whom item treat area buy check clearly follow remember generation wait thus suffer economy play."
+  },
+  {
+    "manager_id": 32,
+    "name": "Cassandra Gaines",
+    "experience": 8,
+    "specialty": "医疗健康",
+    "region": "西南",
+    "past_funds_managed": 9,
+    "investment_style": "周期投资",
+    "comments": "Ever person pass behavior political option oil commercial person top front under American tell ball."
+  },
+  {
+    "manager_id": 33,
+    "name": "Daniel Wagner",
+    "experience": 8,
+    "specialty": "互联网金融",
+    "region": "华北",
+    "past_funds_managed": 7,
+    "investment_style": "周期投资",
+    "comments": "Enough decision occur peace air threat nation politics few each southern image law read citizen."
+  },
+  {
+    "manager_id": 34,
+    "name": "Aaron Wise",
+    "experience": 13,
+    "specialty": "传统制造",
+    "region": "华北",
+    "past_funds_managed": 1,
+    "investment_style": "周期投资",
+    "comments": "Machine daughter parent fine responsibility safe team wish candidate have no five letter."
+  },
+  {
+    "manager_id": 35,
+    "name": "Lisa Archer",
+    "experience": 12,
+    "specialty": "互联网金融",
+    "region": "西南",
+    "past_funds_managed": 3,
+    "investment_style": "价值投资",
+    "comments": "Last cell anything war ten industry while total spend value return."
+  },
+  {
+    "manager_id": 36,
+    "name": "Jessica Holmes",
+    "experience": 8,
+    "specialty": "新能源",
+    "region": "华东",
+    "past_funds_managed": 8,
+    "investment_style": "量化投资",
+    "comments": "Several marriage method material final age war measure whom Democrat."
+  },
+  {
+    "manager_id": 37,
+    "name": "Mike Allen",
+    "experience": 8,
+    "specialty": "智能电动车",
+    "region": "华东",
+    "past_funds_managed": 5,
+    "investment_style": "价值投资",
+    "comments": "Any example our successful pull experience account blue care enough hand idea."
+  },
+  {
+    "manager_id": 38,
+    "name": "Shannon Jones",
+    "experience": 10,
+    "specialty": "新能源",
+    "region": "华北",
+    "past_funds_managed": 4,
+    "investment_style": "成长投资",
+    "comments": "Hundred now crime network available mean share."
+  },
+  {
+    "manager_id": 39,
+    "name": "Whitney Peters",
+    "experience": 11,
+    "specialty": "新能源",
+    "region": "西南",
+    "past_funds_managed": 6,
+    "investment_style": "价值投资",
+    "comments": "Stay perhaps particularly campaign benefit health would newspaper hand certain own."
+  },
+  {
+    "manager_id": 40,
+    "name": "Jessica Callahan",
+    "experience": 8,
+    "specialty": "新能源",
+    "region": "华南",
+    "past_funds_managed": 10,
+    "investment_style": "周期投资",
+    "comments": "Matter and case four listen lead paper middle foreign party class wrong school."
+  },
+  {
+    "manager_id": 41,
+    "name": "Amber Kidd",
+    "experience": 10,
+    "specialty": "智能电动车",
+    "region": "东北",
+    "past_funds_managed": 5,
+    "investment_style": "周期投资",
+    "comments": "Order medical meeting majority none little admit former body indicate film."
+  },
+  {
+    "manager_id": 42,
+    "name": "Ryan Munoz",
+    "experience": 12,
+    "specialty": "智能电动车",
+    "region": "华东",
+    "past_funds_managed": 6,
+    "investment_style": "量化投资",
+    "comments": "Ago listen whose situation simply officer return on color pick people subject challenge quite all way."
+  },
+  {
+    "manager_id": 43,
+    "name": "Jordan Henderson",
+    "experience": 18,
+    "specialty": "智能电动车",
+    "region": "华东",
+    "past_funds_managed": 7,
+    "investment_style": "量化投资",
+    "comments": "Course kid industry include data maybe particularly likely."
+  },
+  {
+    "manager_id": 44,
+    "name": "Zachary Ferrell",
+    "experience": 17,
+    "specialty": "传统制造",
+    "region": "华南",
+    "past_funds_managed": 2,
+    "investment_style": "周期投资",
+    "comments": "Relationship million night your long heavy what least."
+  },
+  {
+    "manager_id": 45,
+    "name": "Dylan Miller",
+    "experience": 12,
+    "specialty": "医疗健康",
+    "region": "华南",
+    "past_funds_managed": 10,
+    "investment_style": "成长投资",
+    "comments": "Garden great sign return poor really particular court east newspaper different win father eye debate."
+  },
+  {
+    "manager_id": 46,
+    "name": "Joshua Blair",
+    "experience": 11,
+    "specialty": "医疗健康",
+    "region": "西南",
+    "past_funds_managed": 3,
+    "investment_style": "周期投资",
+    "comments": "First give value somebody event business quality here woman stand west source fact explain."
+  },
+  {
+    "manager_id": 47,
+    "name": "Daniel Baker",
+    "experience": 15,
+    "specialty": "互联网金融",
+    "region": "华东",
+    "past_funds_managed": 4,
+    "investment_style": "量化投资",
+    "comments": "Get kind either look dark Mrs usually receive."
+  },
+  {
+    "manager_id": 48,
+    "name": "Paul Jones",
+    "experience": 13,
+    "specialty": "智能电动车",
+    "region": "华北",
+    "past_funds_managed": 4,
+    "investment_style": "价值投资",
+    "comments": "Body scientist dream anything toward difficult do beyond form."
+  },
+  {
+    "manager_id": 49,
+    "name": "Deborah Figueroa",
+    "experience": 18,
+    "specialty": "医疗健康",
+    "region": "西北",
+    "past_funds_managed": 3,
+    "investment_style": "成长投资",
+    "comments": "Beyond side accept nearly upon imagine various there local current white fly position traditional."
+  },
+  {
+    "manager_id": 50,
+    "name": "Lisa Jackson",
+    "experience": 4,
+    "specialty": "互联网金融",
+    "region": "西北",
+    "past_funds_managed": 4,
+    "investment_style": "成长投资",
+    "comments": "Present discussion school sure also TV individual study."
+  },
+  {
+    "manager_id": 51,
+    "name": "Angelica Tucker",
+    "experience": 4,
+    "specialty": "互联网金融",
+    "region": "西南",
+    "past_funds_managed": 9,
+    "investment_style": "周期投资",
+    "comments": "Young however many view while unit theory."
+  },
+  {
+    "manager_id": 52,
+    "name": "Lauren Daniels",
+    "experience": 4,
+    "specialty": "医疗健康",
+    "region": "华南",
+    "past_funds_managed": 1,
+    "investment_style": "周期投资",
+    "comments": "Fear owner up friend lawyer political modern."
+  },
+  {
+    "manager_id": 53,
+    "name": "Sarah Moore",
+    "experience": 19,
+    "specialty": "新能源",
+    "region": "华东",
+    "past_funds_managed": 5,
+    "investment_style": "成长投资",
+    "comments": "Surface life cover both class learn either control say."
+  },
+  {
+    "manager_id": 54,
+    "name": "John Daniel",
+    "experience": 4,
+    "specialty": "智能电动车",
+    "region": "西南",
+    "past_funds_managed": 6,
+    "investment_style": "周期投资",
+    "comments": "Nothing serious compare task today still middle beautiful protect continue cell."
+  },
+  {
+    "manager_id": 55,
+    "name": "Philip Cannon",
+    "experience": 14,
+    "specialty": "智能电动车",
+    "region": "华东",
+    "past_funds_managed": 2,
+    "investment_style": "量化投资",
+    "comments": "Very according himself land environment form old of end growth door property."
+  },
+  {
+    "manager_id": 56,
+    "name": "Timothy Duncan",
+    "experience": 15,
+    "specialty": "医疗健康",
+    "region": "华南",
+    "past_funds_managed": 4,
+    "investment_style": "价值投资",
+    "comments": "Fill if maybe time region financial brother trouble far pass despite card check security."
+  },
+  {
+    "manager_id": 57,
+    "name": "Paula Moreno",
+    "experience": 13,
+    "specialty": "新能源",
+    "region": "华南",
+    "past_funds_managed": 7,
+    "investment_style": "成长投资",
+    "comments": "Health reduce tree serious soon stay seven quite other skin moment month gun true born stock."
+  },
+  {
+    "manager_id": 58,
+    "name": "John Whitehead",
+    "experience": 5,
+    "specialty": "新能源",
+    "region": "华北",
+    "past_funds_managed": 4,
+    "investment_style": "量化投资",
+    "comments": "Dark Mr clearly take kind quite response major together knowledge argue car indeed nor."
+  },
+  {
+    "manager_id": 59,
+    "name": "Stephanie Ross",
+    "experience": 5,
+    "specialty": "智能电动车",
+    "region": "西北",
+    "past_funds_managed": 5,
+    "investment_style": "周期投资",
+    "comments": "Left southern rich how staff second official and general as yes various attorney value all."
+  },
+  {
+    "manager_id": 60,
+    "name": "Debra Davidson",
+    "experience": 8,
+    "specialty": "新能源",
+    "region": "华东",
+    "past_funds_managed": 6,
+    "investment_style": "价值投资",
+    "comments": "Conference career political role white hear through large true help bag who themselves."
+  },
+  {
+    "manager_id": 61,
+    "name": "Danny Morgan",
+    "experience": 8,
+    "specialty": "互联网金融",
+    "region": "华南",
+    "past_funds_managed": 1,
+    "investment_style": "周期投资",
+    "comments": "President girl condition Mr more road development about age."
+  },
+  {
+    "manager_id": 62,
+    "name": "Zachary Hicks",
+    "experience": 12,
+    "specialty": "互联网金融",
+    "region": "西北",
+    "past_funds_managed": 6,
+    "investment_style": "价值投资",
+    "comments": "Leg rest interest here discover leave choice country themselves she allow."
+  },
+  {
+    "manager_id": 63,
+    "name": "Allison Hill",
+    "experience": 6,
+    "specialty": "医疗健康",
+    "region": "西南",
+    "past_funds_managed": 9,
+    "investment_style": "量化投资",
+    "comments": "Past view threat drive attack order land public the each analysis keep music."
+  },
+  {
+    "manager_id": 64,
+    "name": "Cristian Santos",
+    "experience": 13,
+    "specialty": "医疗健康",
+    "region": "西南",
+    "past_funds_managed": 5,
+    "investment_style": "周期投资",
+    "comments": "Cell year doctor trouble office officer significant stand."
+  },
+  {
+    "manager_id": 65,
+    "name": "Brent Jordan",
+    "experience": 5,
+    "specialty": "智能电动车",
+    "region": "西南",
+    "past_funds_managed": 6,
+    "investment_style": "周期投资",
+    "comments": "Few century produce determine feel article we they treatment personal."
+  },
+  {
+    "manager_id": 66,
+    "name": "Angie Henderson",
+    "experience": 19,
+    "specialty": "互联网金融",
+    "region": "华东",
+    "past_funds_managed": 9,
+    "investment_style": "周期投资",
+    "comments": "New another general poor high modern recent impact feel contain Mrs drive different."
+  },
+  {
+    "manager_id": 67,
+    "name": "Judy Baker",
+    "experience": 13,
+    "specialty": "互联网金融",
+    "region": "西南",
+    "past_funds_managed": 3,
+    "investment_style": "价值投资",
+    "comments": "South trip none whose newspaper care drug data position."
+  },
+  {
+    "manager_id": 68,
+    "name": "Tricia Valencia",
+    "experience": 11,
+    "specialty": "智能电动车",
+    "region": "西北",
+    "past_funds_managed": 9,
+    "investment_style": "价值投资",
+    "comments": "Suggest begin right couple environmental purpose owner them could seven right next look thank."
+  },
+  {
+    "manager_id": 69,
+    "name": "Carla Gray",
+    "experience": 5,
+    "specialty": "传统制造",
+    "region": "东北",
+    "past_funds_managed": 10,
+    "investment_style": "量化投资",
+    "comments": "Field training deep couple scientist section senior trial receive region however dream."
+  },
+  {
+    "manager_id": 70,
+    "name": "Christopher Bass",
+    "experience": 13,
+    "specialty": "新能源",
+    "region": "华北",
+    "past_funds_managed": 10,
+    "investment_style": "量化投资",
+    "comments": "Simply herself move grow end mention market better wonder light style trial."
+  },
+  {
+    "manager_id": 71,
+    "name": "Anthony Rodriguez",
+    "experience": 6,
+    "specialty": "医疗健康",
+    "region": "华南",
+    "past_funds_managed": 5,
+    "investment_style": "量化投资",
+    "comments": "Fine animal ten scientist administration network once result far cultural discover now."
+  },
+  {
+    "manager_id": 72,
+    "name": "Tracy House",
+    "experience": 9,
+    "specialty": "传统制造",
+    "region": "西北",
+    "past_funds_managed": 3,
+    "investment_style": "成长投资",
+    "comments": "Material pressure range either start whom politics make collection some."
+  },
+  {
+    "manager_id": 73,
+    "name": "Matthew Foster",
+    "experience": 9,
+    "specialty": "传统制造",
+    "region": "西南",
+    "past_funds_managed": 10,
+    "investment_style": "量化投资",
+    "comments": "Cause national contain threat wrong whatever model stuff avoid."
+  },
+  {
+    "manager_id": 74,
+    "name": "Matthew Mcmillan",
+    "experience": 15,
+    "specialty": "传统制造",
+    "region": "华北",
+    "past_funds_managed": 2,
+    "investment_style": "成长投资",
+    "comments": "Share include successful discuss religious across media."
+  },
+  {
+    "manager_id": 75,
+    "name": "Eric Carney",
+    "experience": 3,
+    "specialty": "智能电动车",
+    "region": "华南",
+    "past_funds_managed": 1,
+    "investment_style": "量化投资",
+    "comments": "Art point value tree process administration mother in admit reveal movie expert."
+  },
+  {
+    "manager_id": 76,
+    "name": "Angela Lopez",
+    "experience": 19,
+    "specialty": "医疗健康",
+    "region": "华北",
+    "past_funds_managed": 2,
+    "investment_style": "量化投资",
+    "comments": "Spend purpose south travel blood benefit chance court money spring environment however health image."
+  },
+  {
+    "manager_id": 77,
+    "name": "Mark Perez",
+    "experience": 5,
+    "specialty": "传统制造",
+    "region": "华北",
+    "past_funds_managed": 2,
+    "investment_style": "周期投资",
+    "comments": "During recently feel stock ball yard practice all if help live PM reflect bar suddenly."
+  },
+  {
+    "manager_id": 78,
+    "name": "Aimee Montoya",
+    "experience": 16,
+    "specialty": "智能电动车",
+    "region": "西北",
+    "past_funds_managed": 6,
+    "investment_style": "价值投资",
+    "comments": "Not teach believe month amount deep test thought little another avoid understand."
+  },
+  {
+    "manager_id": 79,
+    "name": "Holly Wood",
+    "experience": 13,
+    "specialty": "新能源",
+    "region": "东北",
+    "past_funds_managed": 1,
+    "investment_style": "周期投资",
+    "comments": "Nor allow up fire which onto sell require huge baby class drive strong home to."
+  },
+  {
+    "manager_id": 80,
+    "name": "Margaret Hawkins DDS",
+    "experience": 6,
+    "specialty": "互联网金融",
+    "region": "西南",
+    "past_funds_managed": 5,
+    "investment_style": "量化投资",
+    "comments": "Himself science so ready bad seat generation best discussion away painting pass."
+  },
+  {
+    "manager_id": 81,
+    "name": "Brian Ramirez",
+    "experience": 6,
+    "specialty": "新能源",
+    "region": "西北",
+    "past_funds_managed": 4,
+    "investment_style": "周期投资",
+    "comments": "However similar ahead event yeah make green wait it quickly produce beat peace something require bank."
+  },
+  {
+    "manager_id": 82,
+    "name": "Shane Henderson",
+    "experience": 14,
+    "specialty": "智能电动车",
+    "region": "西北",
+    "past_funds_managed": 7,
+    "investment_style": "量化投资",
+    "comments": "Here six child hope guess before wall know seven."
+  },
+  {
+    "manager_id": 83,
+    "name": "Lisa Barnes",
+    "experience": 18,
+    "specialty": "医疗健康",
+    "region": "东北",
+    "past_funds_managed": 1,
+    "investment_style": "量化投资",
+    "comments": "Car cost large never impact ago government behavior."
+  },
+  {
+    "manager_id": 84,
+    "name": "Anna Henderson",
+    "experience": 8,
+    "specialty": "新能源",
+    "region": "东北",
+    "past_funds_managed": 5,
+    "investment_style": "价值投资",
+    "comments": "Six tell activity including single right nice yeah drug minute rate college especially environmental certainly cold."
+  },
+  {
+    "manager_id": 85,
+    "name": "Ethan Adams",
+    "experience": 4,
+    "specialty": "互联网金融",
+    "region": "西北",
+    "past_funds_managed": 4,
+    "investment_style": "周期投资",
+    "comments": "Inside machine baby edge east person order crime blood fight we."
+  },
+  {
+    "manager_id": 86,
+    "name": "Donald Wright",
+    "experience": 13,
+    "specialty": "智能电动车",
+    "region": "华南",
+    "past_funds_managed": 3,
+    "investment_style": "成长投资",
+    "comments": "Success here television key issue statement prepare organization feel owner receive look."
+  },
+  {
+    "manager_id": 87,
+    "name": "Michele Williams",
+    "experience": 12,
+    "specialty": "传统制造",
+    "region": "东北",
+    "past_funds_managed": 3,
+    "investment_style": "周期投资",
+    "comments": "Who why fact reason make office drug heavy staff."
+  },
+  {
+    "manager_id": 88,
+    "name": "James Ferrell",
+    "experience": 8,
+    "specialty": "互联网金融",
+    "region": "华南",
+    "past_funds_managed": 9,
+    "investment_style": "周期投资",
+    "comments": "Half usually customer young conference should agree road wall decide something story attorney."
+  },
+  {
+    "manager_id": 89,
+    "name": "Connie Lawrence",
+    "experience": 5,
+    "specialty": "新能源",
+    "region": "东北",
+    "past_funds_managed": 4,
+    "investment_style": "成长投资",
+    "comments": "Pull cause field education child institution help last our old move type thank."
+  },
+  {
+    "manager_id": 90,
+    "name": "Steve Sanchez",
+    "experience": 6,
+    "specialty": "智能电动车",
+    "region": "西北",
+    "past_funds_managed": 9,
+    "investment_style": "价值投资",
+    "comments": "Myself so growth time Mr point be shoulder price great positive and worker."
+  },
+  {
+    "manager_id": 91,
+    "name": "Crystal Robinson",
+    "experience": 6,
+    "specialty": "智能电动车",
+    "region": "西北",
+    "past_funds_managed": 9,
+    "investment_style": "价值投资",
+    "comments": "Whom former someone black better develop section newspaper reach determine hear leg quickly."
+  },
+  {
+    "manager_id": 92,
+    "name": "Christina Walters",
+    "experience": 12,
+    "specialty": "互联网金融",
+    "region": "华南",
+    "past_funds_managed": 2,
+    "investment_style": "成长投资",
+    "comments": "Character young lot far turn beat story role give gas six miss give best."
+  },
+  {
+    "manager_id": 93,
+    "name": "Richard Aguirre",
+    "experience": 11,
+    "specialty": "传统制造",
+    "region": "东北",
+    "past_funds_managed": 5,
+    "investment_style": "周期投资",
+    "comments": "Five feel special boy support possible quality clearly worker during company civil nice when."
+  },
+  {
+    "manager_id": 94,
+    "name": "Derek Zuniga",
+    "experience": 6,
+    "specialty": "传统制造",
+    "region": "华北",
+    "past_funds_managed": 3,
+    "investment_style": "价值投资",
+    "comments": "Something picture control price how scene third last involve above."
+  },
+  {
+    "manager_id": 95,
+    "name": "Jessica Smith",
+    "experience": 6,
+    "specialty": "新能源",
+    "region": "华北",
+    "past_funds_managed": 3,
+    "investment_style": "周期投资",
+    "comments": "Day sell speak artist big the cost for leader energy."
+  },
+  {
+    "manager_id": 96,
+    "name": "Jeffrey Chavez",
+    "experience": 3,
+    "specialty": "传统制造",
+    "region": "华东",
+    "past_funds_managed": 10,
+    "investment_style": "周期投资",
+    "comments": "Month police others particularly only girl suddenly pay sport relationship father pass be care."
+  },
+  {
+    "manager_id": 97,
+    "name": "Brittany Farmer",
+    "experience": 9,
+    "specialty": "智能电动车",
+    "region": "东北",
+    "past_funds_managed": 8,
+    "investment_style": "成长投资",
+    "comments": "Draw bring health center home others offer institution main."
+  },
+  {
+    "manager_id": 98,
+    "name": "James Brown",
+    "experience": 14,
+    "specialty": "新能源",
+    "region": "西北",
+    "past_funds_managed": 2,
+    "investment_style": "量化投资",
+    "comments": "Really population yourself never majority cell fire late approach grow act carry spring white measure."
+  },
+  {
+    "manager_id": 99,
+    "name": "Jamie Arnold",
+    "experience": 15,
+    "specialty": "医疗健康",
+    "region": "东北",
+    "past_funds_managed": 4,
+    "investment_style": "成长投资",
+    "comments": "Important man report kitchen cold not somebody determine allow different eye sit not significant."
+  },
+  {
+    "manager_id": 100,
+    "name": "Rebecca Henderson",
+    "experience": 9,
+    "specialty": "新能源",
+    "region": "东北",
+    "past_funds_managed": 1,
+    "investment_style": "周期投资",
+    "comments": "Near both box simple statement happen state among rest national wrong bill stop seem."
+  }
+]

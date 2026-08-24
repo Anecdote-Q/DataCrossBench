@@ -1,0 +1,24 @@
+{
+    "goal": "探讨全面注册制实施对券商差异化发展格局的影响。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 2023年上半年，市场交投活跃度回暖，日均股基成交额预计稳定在万亿水平，反映出市场情绪的改善。",
+        "Comparison: 2023H1上市券商合计实现营业收入1,377亿元，同比增长37%，显示出券商在市场回暖中的表现优于整体市场。",
+        "Extreme: 2023H1 IPO募资规模同比下降16%，显示出市场在新股发行方面的低迷。",
+        "Attribution: 市场交投情绪升温将支撑券商23H1业绩同比改善，尽管2023Q2自营业务收入可能出现环比下滑。"
+    ],
+    "summary": "本报告分析了科技金融及券商行业的中期策略，强调业绩修复的确定性和行业变革的引领作用，结合政策变化与市场动态，展望未来发展趋势。",
+    "flag_id": "flag-158",
+    "classifier": "Fund Analysis",
+    "classifier_cn": "基金分析",
+    "input_files": [
+        "output/average_daily_trading_volume_vs_broker_revenue.png",
+        "output/background.txt",
+        "output/broker_performance.db",
+        "output/broker_performance_growth_rate_distribution.png",
+        "output/broker_profiles.json",
+        "output/market_activity.csv",
+        "output/market_sentiment_vs_average_daily_trading_volume.png",
+        "output/mean_broker_revenue_over_time.png"
+    ]
+}

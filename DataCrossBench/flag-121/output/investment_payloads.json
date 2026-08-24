@@ -1,0 +1,1982 @@
+[
+  {
+    "record_id": 1,
+    "company_id": 10,
+    "year": 2023,
+    "total_investment": 630074.43,
+    "investment_areas": [
+      {
+        "area": "移动端",
+        "amount": 630074.43,
+        "duration_months": 6,
+        "outsourced": false
+      }
+    ],
+    "remark": "自动生成的投资记录，时间: 2025-12-24 07:27:46, 备注ID: 7087"
+  },
+  {
+    "record_id": 2,
+    "company_id": 16,
+    "year": 2023,
+    "total_investment": 550191.85,
+    "investment_areas": [
+      {
+        "area": "大数据",
+        "amount": 259181.57,
+        "duration_months": 7,
+        "outsourced": true
+      },
+      {
+        "area": "区块链",
+        "amount": 291010.28,
+        "duration_months": 14,
+        "outsourced": true
+      }
+    ],
+    "remark": "自动生成的投资记录，时间: 2025-12-24 07:27:46, 备注ID: 9038"
+  },
+  {
+    "record_id": 3,
+    "company_id": 22,
+    "year": 2023,
+    "total_investment": 230033.16,
+    "investment_areas": [
+      {
+        "area": "云计算",
+        "amount": 126321.03,
+        "duration_months": 13,
+        "outsourced": false
+      },
+      {
+        "area": "人工智能",
+        "amount": 27564.81,
+        "duration_months": 11,
+        "outsourced": true
+      },
+      {
+        "area": "区块链",
+        "amount": 76147.32,
+        "duration_months": 8,
+        "outsourced": true
+      }
+    ],
+    "remark": "自动生成的投资记录，时间: 2025-12-24 07:27:46, 备注ID: 1403"
+  },
+  {
+    "record_id": 4,
+    "company_id": 13,
+    "year": 2023,
+    "total_investment": 575139.98,
+    "investment_areas": [
+      {
+        "area": "移动端",
+        "amount": 575139.98,
+        "duration_months": 7,
+        "outsourced": false
+      }
+    ],
+    "remark": "自动生成的投资记录，时间: 2025-12-24 07:27:46, 备注ID: 5720"
+  },
+  {
+    "record_id": 5,
+    "company_id": 21,
+    "year": 2023,
+    "total_investment": 377848.33,
+    "investment_areas": [
+      {
+        "area": "区块链",
+        "amount": 144613.09,
+        "duration_months": 22,
+        "outsourced": true
+      },
+      {
+        "area": "移动端",
+        "amount": 231759.81,
+        "duration_months": 23,
+        "outsourced": true
+      },
+      {
+        "area": "云计算",
+        "amount": 1475.43,
+        "duration_months": 13,
+        "outsourced": false
+      }
+    ],
+    "remark": "自动生成的投资记录，时间: 2025-12-24 07:27:46, 备注ID: 2173"
+  },
+  {
+    "record_id": 6,
+    "company_id": 4,
+    "year": 2023,
+    "total_investment": 489516.63,
+    "investment_areas": [
+      {
+        "area": "大数据",
+        "amount": 489516.63,
+        "duration_months": 8,
+        "outsourced": true
+      }
+    ],
+    "remark": "自动生成的投资记录，时间: 2025-12-24 07:27:46, 备注ID: 1541"
+  },
+  {
+    "record_id": 7,
+    "company_id": 26,
+    "year": 2023,
+    "total_investment": 464026.37,
+    "investment_areas": [
+      {
+        "area": "移动端",
+        "amount": 49914.82,
+        "duration_months": 9,
+        "outsourced": false
+      },
+      {
+        "area": "云计算",
+        "amount": 414111.55,
+        "duration_months": 22,
+        "outsourced": true
+      }
+    ],
+    "remark": "自动生成的投资记录，时间: 2025-12-24 07:27:46, 备注ID: 8861"
+  },
+  {
+    "record_id": 8,
+    "company_id": 25,
+    "year": 2023,
+    "total_investment": 426733.98,
+    "investment_areas": [
+      {
+        "area": "网络安全",
+        "amount": 38888.71,
+        "duration_months": 18,
+        "outsourced": false
+      },
+      {
+        "area": "云计算",
+        "amount": 387845.27,
+        "duration_months": 22,
+        "outsourced": true
+      }
+    ],
+    "remark": "自动生成的投资记录，时间: 2025-12-24 07:27:46, 备注ID: 4099"
+  },
+  {
+    "record_id": 9,
+    "company_id": 12,
+    "year": 2023,
+    "total_investment": 456526.77,
+    "investment_areas": [
+      {
+        "area": "人工智能",
+        "amount": 217752.27,
+        "duration_months": 24,
+        "outsourced": true
+      },
+      {
+        "area": "网络安全",
+        "amount": 238774.5,
+        "duration_months": 12,
+        "outsourced": true
+      }
+    ],
+    "remark": "自动生成的投资记录，时间: 2025-12-24 07:27:46, 备注ID: 1783"
+  },
+  {
+    "record_id": 10,
+    "company_id": 11,
+    "year": 2023,
+    "total_investment": 369780.94,
+    "investment_areas": [
+      {
+        "area": "大数据",
+        "amount": 369780.94,
+        "duration_months": 18,
+        "outsourced": true
+      }
+    ],
+    "remark": "自动生成的投资记录，时间: 2025-12-24 07:27:46, 备注ID: 8285"
+  },
+  {
+    "record_id": 11,
+    "company_id": 17,
+    "year": 2023,
+    "total_investment": 580588.27,
+    "investment_areas": [
+      {
+        "area": "云计算",
+        "amount": 580588.27,
+        "duration_months": 24,
+        "outsourced": false
+      }
+    ],
+    "remark": "自动生成的投资记录，时间: 2025-12-24 07:27:46, 备注ID: 1896"
+  },
+  {
+    "record_id": 12,
+    "company_id": 20,
+    "year": 2023,
+    "total_investment": 399183.89,
+    "investment_areas": [
+      {
+        "area": "云计算",
+        "amount": 119004.72,
+        "duration_months": 10,
+        "outsourced": false
+      },
+      {
+        "area": "大数据",
+        "amount": 20564.2,
+        "duration_months": 12,
+        "outsourced": false
+      },
+      {
+        "area": "区块链",
+        "amount": 259614.98,
+        "duration_months": 6,
+        "outsourced": true
+      }
+    ],
+    "remark": "自动生成的投资记录，时间: 2025-12-24 07:27:46, 备注ID: 5901"
+  },
+  {
+    "record_id": 13,
+    "company_id": 5,
+    "year": 2023,
+    "total_investment": 567742.53,
+    "investment_areas": [
+      {
+        "area": "区块链",
+        "amount": 259264.97,
+        "duration_months": 18,
+        "outsourced": false
+      },
+      {
+        "area": "人工智能",
+        "amount": 308477.56,
+        "duration_months": 12,
+        "outsourced": false
+      }
+    ],
+    "remark": "自动生成的投资记录，时间: 2025-12-24 07:27:46, 备注ID: 4420"
+  },
+  {
+    "record_id": 14,
+    "company_id": 2,
+    "year": 2023,
+    "total_investment": 571964.68,
+    "investment_areas": [
+      {
+        "area": "人工智能",
+        "amount": 178960.67,
+        "duration_months": 6,
+        "outsourced": true
+      },
+      {
+        "area": "网络安全",
+        "amount": 234190.61,
+        "duration_months": 18,
+        "outsourced": true
+      },
+      {
+        "area": "云计算",
+        "amount": 158813.4,
+        "duration_months": 6,
+        "outsourced": false
+      }
+    ],
+    "remark": "自动生成的投资记录，时间: 2025-12-24 07:27:46, 备注ID: 4953"
+  },
+  {
+    "record_id": 15,
+    "company_id": 1,
+    "year": 2023,
+    "total_investment": 477423.86,
+    "investment_areas": [
+      {
+        "area": "网络安全",
+        "amount": 477423.86,
+        "duration_months": 21,
+        "outsourced": false
+      }
+    ],
+    "remark": "自动生成的投资记录，时间: 2025-12-24 07:27:46, 备注ID: 5213"
+  },
+  {
+    "record_id": 16,
+    "company_id": 23,
+    "year": 2023,
+    "total_investment": 531643.63,
+    "investment_areas": [
+      {
+        "area": "移动端",
+        "amount": 531643.63,
+        "duration_months": 20,
+        "outsourced": true
+      }
+    ],
+    "remark": "自动生成的投资记录，时间: 2025-12-24 07:27:46, 备注ID: 3793"
+  },
+  {
+    "record_id": 17,
+    "company_id": 3,
+    "year": 2023,
+    "total_investment": 318994.13,
+    "investment_areas": [
+      {
+        "area": "区块链",
+        "amount": 112845.06,
+        "duration_months": 17,
+        "outsourced": true
+      },
+      {
+        "area": "网络安全",
+        "amount": 206149.07,
+        "duration_months": 21,
+        "outsourced": false
+      }
+    ],
+    "remark": "自动生成的投资记录，时间: 2025-12-24 07:27:46, 备注ID: 4287"
+  },
+  {
+    "record_id": 18,
+    "company_id": 27,
+    "year": 2023,
+    "total_investment": 1850736.11,
+    "investment_areas": [
+      {
+        "area": "云计算",
+        "amount": 874769.53,
+        "duration_months": 16,
+        "outsourced": true
+      },
+      {
+        "area": "网络安全",
+        "amount": 975966.58,
+        "duration_months": 16,
+        "outsourced": false
+      }
+    ],
+    "remark": "自动生成的投资记录，时间: 2025-12-24 07:27:46, 备注ID: 7979"
+  },
+  {
+    "record_id": 19,
+    "company_id": 30,
+    "year": 2023,
+    "total_investment": 530824.16,
+    "investment_areas": [
+      {
+        "area": "大数据",
+        "amount": 137073.06,
+        "duration_months": 15,
+        "outsourced": false
+      },
+      {
+        "area": "网络安全",
+        "amount": 216838.21,
+        "duration_months": 8,
+        "outsourced": false
+      },
+      {
+        "area": "云计算",
+        "amount": 176912.89,
+        "duration_months": 19,
+        "outsourced": false
+      }
+    ],
+    "remark": "自动生成的投资记录，时间: 2025-12-24 07:27:46, 备注ID: 2511"
+  },
+  {
+    "record_id": 20,
+    "company_id": 15,
+    "year": 2023,
+    "total_investment": 2645952.56,
+    "investment_areas": [
+      {
+        "area": "移动端",
+        "amount": 2645952.56,
+        "duration_months": 20,
+        "outsourced": false
+      }
+    ],
+    "remark": "自动生成的投资记录，时间: 2025-12-24 07:27:46, 备注ID: 7648"
+  },
+  {
+    "record_id": 21,
+    "company_id": 6,
+    "year": 2023,
+    "total_investment": 506795.69,
+    "investment_areas": [
+      {
+        "area": "云计算",
+        "amount": 506795.69,
+        "duration_months": 20,
+        "outsourced": false
+      }
+    ],
+    "remark": "自动生成的投资记录，时间: 2025-12-24 07:27:46, 备注ID: 8867"
+  },
+  {
+    "record_id": 22,
+    "company_id": 28,
+    "year": 2023,
+    "total_investment": 441845.97,
+    "investment_areas": [
+      {
+        "area": "云计算",
+        "amount": 77548.12,
+        "duration_months": 8,
+        "outsourced": true
+      },
+      {
+        "area": "移动端",
+        "amount": 364297.85,
+        "duration_months": 7,
+        "outsourced": false
+      }
+    ],
+    "remark": "自动生成的投资记录，时间: 2025-12-24 07:27:46, 备注ID: 6497"
+  },
+  {
+    "record_id": 23,
+    "company_id": 7,
+    "year": 2023,
+    "total_investment": 354549.21,
+    "investment_areas": [
+      {
+        "area": "移动端",
+        "amount": 215405.87,
+        "duration_months": 9,
+        "outsourced": true
+      },
+      {
+        "area": "人工智能",
+        "amount": 139143.34,
+        "duration_months": 6,
+        "outsourced": true
+      }
+    ],
+    "remark": "自动生成的投资记录，时间: 2025-12-24 07:27:46, 备注ID: 2176"
+  },
+  {
+    "record_id": 24,
+    "company_id": 29,
+    "year": 2023,
+    "total_investment": 374293.3,
+    "investment_areas": [
+      {
+        "area": "大数据",
+        "amount": 374293.3,
+        "duration_months": 6,
+        "outsourced": true
+      }
+    ],
+    "remark": "自动生成的投资记录，时间: 2025-12-24 07:27:46, 备注ID: 4120"
+  },
+  {
+    "record_id": 25,
+    "company_id": 9,
+    "year": 2023,
+    "total_investment": 446541.78,
+    "investment_areas": [
+      {
+        "area": "大数据",
+        "amount": 114050.77,
+        "duration_months": 19,
+        "outsourced": false
+      },
+      {
+        "area": "云计算",
+        "amount": 332491.01,
+        "duration_months": 9,
+        "outsourced": false
+      }
+    ],
+    "remark": "自动生成的投资记录，时间: 2025-12-24 07:27:46, 备注ID: 8705"
+  },
+  {
+    "record_id": 26,
+    "company_id": 14,
+    "year": 2023,
+    "total_investment": 668780.69,
+    "investment_areas": [
+      {
+        "area": "大数据",
+        "amount": 668780.69,
+        "duration_months": 13,
+        "outsourced": false
+      }
+    ],
+    "remark": "自动生成的投资记录，时间: 2025-12-24 07:27:46, 备注ID: 7762"
+  },
+  {
+    "record_id": 27,
+    "company_id": 19,
+    "year": 2023,
+    "total_investment": 1721383.95,
+    "investment_areas": [
+      {
+        "area": "云计算",
+        "amount": 1676885.27,
+        "duration_months": 8,
+        "outsourced": true
+      },
+      {
+        "area": "网络安全",
+        "amount": 44498.68,
+        "duration_months": 21,
+        "outsourced": true
+      }
+    ],
+    "remark": "自动生成的投资记录，时间: 2025-12-24 07:27:46, 备注ID: 8170"
+  },
+  {
+    "record_id": 28,
+    "company_id": 24,
+    "year": 2023,
+    "total_investment": 459527.43,
+    "investment_areas": [
+      {
+        "area": "人工智能",
+        "amount": 459527.43,
+        "duration_months": 11,
+        "outsourced": true
+      }
+    ],
+    "remark": "自动生成的投资记录，时间: 2025-12-24 07:27:46, 备注ID: 4130"
+  },
+  {
+    "record_id": 29,
+    "company_id": 18,
+    "year": 2023,
+    "total_investment": 478653.22,
+    "investment_areas": [
+      {
+        "area": "云计算",
+        "amount": 478653.22,
+        "duration_months": 13,
+        "outsourced": false
+      }
+    ],
+    "remark": "自动生成的投资记录，时间: 2025-12-24 07:27:46, 备注ID: 1031"
+  },
+  {
+    "record_id": 30,
+    "company_id": 8,
+    "year": 2023,
+    "total_investment": 430676.85,
+    "investment_areas": [
+      {
+        "area": "云计算",
+        "amount": 274386.27,
+        "duration_months": 18,
+        "outsourced": true
+      },
+      {
+        "area": "网络安全",
+        "amount": 103769.25,
+        "duration_months": 17,
+        "outsourced": false
+      },
+      {
+        "area": "移动端",
+        "amount": 52521.33,
+        "duration_months": 19,
+        "outsourced": false
+      }
+    ],
+    "remark": "自动生成的投资记录，时间: 2025-12-24 07:27:46, 备注ID: 7089"
+  },
+  {
+    "record_id": 31,
+    "company_id": 10,
+    "year": 2024,
+    "total_investment": 835757.39,
+    "investment_areas": [
+      {
+        "area": "网络安全",
+        "amount": 589735.79,
+        "duration_months": 10,
+        "outsourced": true
+      },
+      {
+        "area": "移动端",
+        "amount": 246021.6,
+        "duration_months": 10,
+        "outsourced": false
+      }
+    ],
+    "remark": "自动生成的投资记录，时间: 2025-12-24 07:27:46, 备注ID: 9470"
+  },
+  {
+    "record_id": 32,
+    "company_id": 16,
+    "year": 2024,
+    "total_investment": 768305.15,
+    "investment_areas": [
+      {
+        "area": "大数据",
+        "amount": 768305.15,
+        "duration_months": 20,
+        "outsourced": false
+      }
+    ],
+    "remark": "自动生成的投资记录，时间: 2025-12-24 07:27:46, 备注ID: 9460"
+  },
+  {
+    "record_id": 33,
+    "company_id": 22,
+    "year": 2024,
+    "total_investment": 416957.2,
+    "investment_areas": [
+      {
+        "area": "大数据",
+        "amount": 246438.92,
+        "duration_months": 11,
+        "outsourced": true
+      },
+      {
+        "area": "人工智能",
+        "amount": 170518.28,
+        "duration_months": 22,
+        "outsourced": false
+      }
+    ],
+    "remark": "自动生成的投资记录，时间: 2025-12-24 07:27:46, 备注ID: 1447"
+  },
+  {
+    "record_id": 34,
+    "company_id": 13,
+    "year": 2024,
+    "total_investment": 581142.62,
+    "investment_areas": [
+      {
+        "area": "区块链",
+        "amount": 267276.27,
+        "duration_months": 9,
+        "outsourced": false
+      },
+      {
+        "area": "网络安全",
+        "amount": 169742.33,
+        "duration_months": 20,
+        "outsourced": true
+      },
+      {
+        "area": "云计算",
+        "amount": 144124.01,
+        "duration_months": 18,
+        "outsourced": false
+      }
+    ],
+    "remark": "自动生成的投资记录，时间: 2025-12-24 07:27:46, 备注ID: 6270"
+  },
+  {
+    "record_id": 35,
+    "company_id": 21,
+    "year": 2024,
+    "total_investment": 686706.92,
+    "investment_areas": [
+      {
+        "area": "人工智能",
+        "amount": 210589.07,
+        "duration_months": 9,
+        "outsourced": true
+      },
+      {
+        "area": "云计算",
+        "amount": 82936.77,
+        "duration_months": 20,
+        "outsourced": true
+      },
+      {
+        "area": "大数据",
+        "amount": 393181.09,
+        "duration_months": 16,
+        "outsourced": false
+      }
+    ],
+    "remark": "自动生成的投资记录，时间: 2025-12-24 07:27:46, 备注ID: 8344"
+  },
+  {
+    "record_id": 36,
+    "company_id": 4,
+    "year": 2024,
+    "total_investment": 1688420.93,
+    "investment_areas": [
+      {
+        "area": "大数据",
+        "amount": 1344118.34,
+        "duration_months": 18,
+        "outsourced": false
+      },
+      {
+        "area": "网络安全",
+        "amount": 344302.59,
+        "duration_months": 20,
+        "outsourced": false
+      }
+    ],
+    "remark": "自动生成的投资记录，时间: 2025-12-24 07:27:46, 备注ID: 2929"
+  },
+  {
+    "record_id": 37,
+    "company_id": 26,
+    "year": 2024,
+    "total_investment": 605122.98,
+    "investment_areas": [
+      {
+        "area": "网络安全",
+        "amount": 504383.89,
+        "duration_months": 17,
+        "outsourced": true
+      },
+      {
+        "area": "人工智能",
+        "amount": 100739.09,
+        "duration_months": 13,
+        "outsourced": false
+      }
+    ],
+    "remark": "自动生成的投资记录，时间: 2025-12-24 07:27:46, 备注ID: 7026"
+  },
+  {
+    "record_id": 38,
+    "company_id": 25,
+    "year": 2024,
+    "total_investment": 573240.0,
+    "investment_areas": [
+      {
+        "area": "人工智能",
+        "amount": 443650.84,
+        "duration_months": 11,
+        "outsourced": false
+      },
+      {
+        "area": "区块链",
+        "amount": 129589.16,
+        "duration_months": 13,
+        "outsourced": false
+      }
+    ],
+    "remark": "自动生成的投资记录，时间: 2025-12-24 07:27:46, 备注ID: 7113"
+  },
+  {
+    "record_id": 39,
+    "company_id": 12,
+    "year": 2024,
+    "total_investment": 514576.9,
+    "investment_areas": [
+      {
+        "area": "移动端",
+        "amount": 514576.9,
+        "duration_months": 6,
+        "outsourced": false
+      }
+    ],
+    "remark": "自动生成的投资记录，时间: 2025-12-24 07:27:46, 备注ID: 4474"
+  },
+  {
+    "record_id": 40,
+    "company_id": 11,
+    "year": 2024,
+    "total_investment": 477450.6,
+    "investment_areas": [
+      {
+        "area": "大数据",
+        "amount": 173751.57,
+        "duration_months": 19,
+        "outsourced": false
+      },
+      {
+        "area": "人工智能",
+        "amount": 67821.74,
+        "duration_months": 16,
+        "outsourced": true
+      },
+      {
+        "area": "区块链",
+        "amount": 235877.29,
+        "duration_months": 20,
+        "outsourced": false
+      }
+    ],
+    "remark": "自动生成的投资记录，时间: 2025-12-24 07:27:46, 备注ID: 9980"
+  },
+  {
+    "record_id": 41,
+    "company_id": 17,
+    "year": 2024,
+    "total_investment": 710702.49,
+    "investment_areas": [
+      {
+        "area": "网络安全",
+        "amount": 358734.44,
+        "duration_months": 10,
+        "outsourced": true
+      },
+      {
+        "area": "移动端",
+        "amount": 130033.32,
+        "duration_months": 6,
+        "outsourced": false
+      },
+      {
+        "area": "云计算",
+        "amount": 221934.73,
+        "duration_months": 17,
+        "outsourced": true
+      }
+    ],
+    "remark": "自动生成的投资记录，时间: 2025-12-24 07:27:46, 备注ID: 6094"
+  },
+  {
+    "record_id": 42,
+    "company_id": 20,
+    "year": 2024,
+    "total_investment": 441473.16,
+    "investment_areas": [
+      {
+        "area": "大数据",
+        "amount": 441473.16,
+        "duration_months": 15,
+        "outsourced": false
+      }
+    ],
+    "remark": "自动生成的投资记录，时间: 2025-12-24 07:27:46, 备注ID: 3808"
+  },
+  {
+    "record_id": 43,
+    "company_id": 5,
+    "year": 2024,
+    "total_investment": 643005.51,
+    "investment_areas": [
+      {
+        "area": "大数据",
+        "amount": 643005.51,
+        "duration_months": 12,
+        "outsourced": true
+      }
+    ],
+    "remark": "自动生成的投资记录，时间: 2025-12-24 07:27:46, 备注ID: 8681"
+  },
+  {
+    "record_id": 44,
+    "company_id": 2,
+    "year": 2024,
+    "total_investment": 619997.97,
+    "investment_areas": [
+      {
+        "area": "区块链",
+        "amount": 280960.02,
+        "duration_months": 8,
+        "outsourced": true
+      },
+      {
+        "area": "云计算",
+        "amount": 339037.95,
+        "duration_months": 8,
+        "outsourced": true
+      }
+    ],
+    "remark": "自动生成的投资记录，时间: 2025-12-24 07:27:46, 备注ID: 6951"
+  },
+  {
+    "record_id": 45,
+    "company_id": 1,
+    "year": 2024,
+    "total_investment": 432087.6,
+    "investment_areas": [
+      {
+        "area": "网络安全",
+        "amount": 16958.6,
+        "duration_months": 9,
+        "outsourced": false
+      },
+      {
+        "area": "移动端",
+        "amount": 415129.0,
+        "duration_months": 15,
+        "outsourced": true
+      }
+    ],
+    "remark": "自动生成的投资记录，时间: 2025-12-24 07:27:46, 备注ID: 8141"
+  },
+  {
+    "record_id": 46,
+    "company_id": 23,
+    "year": 2024,
+    "total_investment": 743703.91,
+    "investment_areas": [
+      {
+        "area": "区块链",
+        "amount": 392411.46,
+        "duration_months": 22,
+        "outsourced": true
+      },
+      {
+        "area": "云计算",
+        "amount": 71445.34,
+        "duration_months": 24,
+        "outsourced": false
+      },
+      {
+        "area": "人工智能",
+        "amount": 279847.11,
+        "duration_months": 23,
+        "outsourced": false
+      }
+    ],
+    "remark": "自动生成的投资记录，时间: 2025-12-24 07:27:46, 备注ID: 1404"
+  },
+  {
+    "record_id": 47,
+    "company_id": 3,
+    "year": 2024,
+    "total_investment": 481719.57,
+    "investment_areas": [
+      {
+        "area": "移动端",
+        "amount": 481719.57,
+        "duration_months": 9,
+        "outsourced": true
+      }
+    ],
+    "remark": "自动生成的投资记录，时间: 2025-12-24 07:27:46, 备注ID: 4054"
+  },
+  {
+    "record_id": 48,
+    "company_id": 27,
+    "year": 2024,
+    "total_investment": 551716.52,
+    "investment_areas": [
+      {
+        "area": "区块链",
+        "amount": 438520.42,
+        "duration_months": 15,
+        "outsourced": true
+      },
+      {
+        "area": "网络安全",
+        "amount": 113196.1,
+        "duration_months": 9,
+        "outsourced": false
+      }
+    ],
+    "remark": "自动生成的投资记录，时间: 2025-12-24 07:27:46, 备注ID: 2334"
+  },
+  {
+    "record_id": 49,
+    "company_id": 30,
+    "year": 2024,
+    "total_investment": 409149.97,
+    "investment_areas": [
+      {
+        "area": "移动端",
+        "amount": 409149.97,
+        "duration_months": 16,
+        "outsourced": false
+      }
+    ],
+    "remark": "自动生成的投资记录，时间: 2025-12-24 07:27:46, 备注ID: 2223"
+  },
+  {
+    "record_id": 50,
+    "company_id": 15,
+    "year": 2024,
+    "total_investment": 594211.86,
+    "investment_areas": [
+      {
+        "area": "云计算",
+        "amount": 445196.05,
+        "duration_months": 9,
+        "outsourced": true
+      },
+      {
+        "area": "区块链",
+        "amount": 149015.81,
+        "duration_months": 15,
+        "outsourced": true
+      }
+    ],
+    "remark": "自动生成的投资记录，时间: 2025-12-24 07:27:46, 备注ID: 3171"
+  },
+  {
+    "record_id": 51,
+    "company_id": 6,
+    "year": 2024,
+    "total_investment": 660681.18,
+    "investment_areas": [
+      {
+        "area": "网络安全",
+        "amount": 660681.18,
+        "duration_months": 21,
+        "outsourced": true
+      }
+    ],
+    "remark": "自动生成的投资记录，时间: 2025-12-24 07:27:46, 备注ID: 9318"
+  },
+  {
+    "record_id": 52,
+    "company_id": 28,
+    "year": 2024,
+    "total_investment": 633640.38,
+    "investment_areas": [
+      {
+        "area": "大数据",
+        "amount": 633640.38,
+        "duration_months": 6,
+        "outsourced": true
+      }
+    ],
+    "remark": "自动生成的投资记录，时间: 2025-12-24 07:27:46, 备注ID: 3485"
+  },
+  {
+    "record_id": 53,
+    "company_id": 7,
+    "year": 2024,
+    "total_investment": 631072.7,
+    "investment_areas": [
+      {
+        "area": "云计算",
+        "amount": 631072.7,
+        "duration_months": 15,
+        "outsourced": false
+      }
+    ],
+    "remark": "自动生成的投资记录，时间: 2025-12-24 07:27:46, 备注ID: 7197"
+  },
+  {
+    "record_id": 54,
+    "company_id": 29,
+    "year": 2024,
+    "total_investment": 271846.17,
+    "investment_areas": [
+      {
+        "area": "区块链",
+        "amount": 82575.45,
+        "duration_months": 8,
+        "outsourced": true
+      },
+      {
+        "area": "大数据",
+        "amount": 189270.72,
+        "duration_months": 16,
+        "outsourced": true
+      }
+    ],
+    "remark": "自动生成的投资记录，时间: 2025-12-24 07:27:46, 备注ID: 2237"
+  },
+  {
+    "record_id": 55,
+    "company_id": 9,
+    "year": 2024,
+    "total_investment": 534292.49,
+    "investment_areas": [
+      {
+        "area": "区块链",
+        "amount": 347775.23,
+        "duration_months": 20,
+        "outsourced": true
+      },
+      {
+        "area": "云计算",
+        "amount": 186517.26,
+        "duration_months": 22,
+        "outsourced": false
+      }
+    ],
+    "remark": "自动生成的投资记录，时间: 2025-12-24 07:27:46, 备注ID: 5823"
+  },
+  {
+    "record_id": 56,
+    "company_id": 14,
+    "year": 2024,
+    "total_investment": 237715.26,
+    "investment_areas": [
+      {
+        "area": "人工智能",
+        "amount": 179535.02,
+        "duration_months": 7,
+        "outsourced": false
+      },
+      {
+        "area": "区块链",
+        "amount": 58180.24,
+        "duration_months": 7,
+        "outsourced": false
+      }
+    ],
+    "remark": "自动生成的投资记录，时间: 2025-12-24 07:27:46, 备注ID: 5327"
+  },
+  {
+    "record_id": 57,
+    "company_id": 19,
+    "year": 2024,
+    "total_investment": 578467.0,
+    "investment_areas": [
+      {
+        "area": "人工智能",
+        "amount": 121199.84,
+        "duration_months": 17,
+        "outsourced": false
+      },
+      {
+        "area": "区块链",
+        "amount": 457267.16,
+        "duration_months": 7,
+        "outsourced": true
+      }
+    ],
+    "remark": "自动生成的投资记录，时间: 2025-12-24 07:27:46, 备注ID: 6022"
+  },
+  {
+    "record_id": 58,
+    "company_id": 24,
+    "year": 2024,
+    "total_investment": 576336.52,
+    "investment_areas": [
+      {
+        "area": "云计算",
+        "amount": 561488.99,
+        "duration_months": 21,
+        "outsourced": true
+      },
+      {
+        "area": "区块链",
+        "amount": 14847.53,
+        "duration_months": 19,
+        "outsourced": false
+      }
+    ],
+    "remark": "自动生成的投资记录，时间: 2025-12-24 07:27:46, 备注ID: 8511"
+  },
+  {
+    "record_id": 59,
+    "company_id": 18,
+    "year": 2024,
+    "total_investment": 564026.36,
+    "investment_areas": [
+      {
+        "area": "网络安全",
+        "amount": 276964.15,
+        "duration_months": 22,
+        "outsourced": true
+      },
+      {
+        "area": "人工智能",
+        "amount": 287062.21,
+        "duration_months": 16,
+        "outsourced": false
+      }
+    ],
+    "remark": "自动生成的投资记录，时间: 2025-12-24 07:27:46, 备注ID: 1663"
+  },
+  {
+    "record_id": 60,
+    "company_id": 8,
+    "year": 2024,
+    "total_investment": 417918.82,
+    "investment_areas": [
+      {
+        "area": "云计算",
+        "amount": 417918.82,
+        "duration_months": 12,
+        "outsourced": false
+      }
+    ],
+    "remark": "自动生成的投资记录，时间: 2025-12-24 07:27:46, 备注ID: 7094"
+  },
+  {
+    "record_id": 61,
+    "company_id": 1,
+    "year": 2024,
+    "total_investment": 432087.6,
+    "investment_areas": [
+      {
+        "area": "移动端",
+        "amount": 26145.75,
+        "duration_months": 6,
+        "outsourced": true
+      },
+      {
+        "area": "云计算",
+        "amount": 405941.85,
+        "duration_months": 18,
+        "outsourced": false
+      }
+    ],
+    "remark": "自动生成的投资记录，时间: 2025-12-24 07:27:46, 备注ID: 6681"
+  },
+  {
+    "record_id": 62,
+    "company_id": 28,
+    "year": 2024,
+    "total_investment": 633640.38,
+    "investment_areas": [
+      {
+        "area": "人工智能",
+        "amount": 78751.96,
+        "duration_months": 12,
+        "outsourced": false
+      },
+      {
+        "area": "移动端",
+        "amount": 510587.76,
+        "duration_months": 6,
+        "outsourced": false
+      },
+      {
+        "area": "大数据",
+        "amount": 44300.66,
+        "duration_months": 10,
+        "outsourced": true
+      }
+    ],
+    "remark": "自动生成的投资记录，时间: 2025-12-24 07:27:46, 备注ID: 4763"
+  },
+  {
+    "record_id": 63,
+    "company_id": 11,
+    "year": 2024,
+    "total_investment": 477450.6,
+    "investment_areas": [
+      {
+        "area": "云计算",
+        "amount": 160251.39,
+        "duration_months": 13,
+        "outsourced": false
+      },
+      {
+        "area": "区块链",
+        "amount": 103533.42,
+        "duration_months": 11,
+        "outsourced": false
+      },
+      {
+        "area": "人工智能",
+        "amount": 213665.78,
+        "duration_months": 9,
+        "outsourced": false
+      }
+    ],
+    "remark": "自动生成的投资记录，时间: 2025-12-24 07:27:46, 备注ID: 6179"
+  },
+  {
+    "record_id": 64,
+    "company_id": 19,
+    "year": 2024,
+    "total_investment": 578467.0,
+    "investment_areas": [
+      {
+        "area": "大数据",
+        "amount": 578467.0,
+        "duration_months": 12,
+        "outsourced": true
+      }
+    ],
+    "remark": "自动生成的投资记录，时间: 2025-12-24 07:27:46, 备注ID: 8726"
+  },
+  {
+    "record_id": 65,
+    "company_id": 5,
+    "year": 2024,
+    "total_investment": 643005.51,
+    "investment_areas": [
+      {
+        "area": "区块链",
+        "amount": 435473.95,
+        "duration_months": 22,
+        "outsourced": false
+      },
+      {
+        "area": "人工智能",
+        "amount": 152622.13,
+        "duration_months": 14,
+        "outsourced": true
+      },
+      {
+        "area": "移动端",
+        "amount": 54909.43,
+        "duration_months": 8,
+        "outsourced": true
+      }
+    ],
+    "remark": "自动生成的投资记录，时间: 2025-12-24 07:27:46, 备注ID: 8566"
+  },
+  {
+    "record_id": 66,
+    "company_id": 28,
+    "year": 2024,
+    "total_investment": 633640.38,
+    "investment_areas": [
+      {
+        "area": "网络安全",
+        "amount": 633640.38,
+        "duration_months": 23,
+        "outsourced": false
+      }
+    ],
+    "remark": "自动生成的投资记录，时间: 2025-12-24 07:27:46, 备注ID: 3767"
+  },
+  {
+    "record_id": 67,
+    "company_id": 25,
+    "year": 2024,
+    "total_investment": 573240.0,
+    "investment_areas": [
+      {
+        "area": "云计算",
+        "amount": 573240.0,
+        "duration_months": 18,
+        "outsourced": true
+      }
+    ],
+    "remark": "自动生成的投资记录，时间: 2025-12-24 07:27:46, 备注ID: 3367"
+  },
+  {
+    "record_id": 68,
+    "company_id": 25,
+    "year": 2024,
+    "total_investment": 573240.0,
+    "investment_areas": [
+      {
+        "area": "大数据",
+        "amount": 573240.0,
+        "duration_months": 13,
+        "outsourced": false
+      }
+    ],
+    "remark": "自动生成的投资记录，时间: 2025-12-24 07:27:46, 备注ID: 6138"
+  },
+  {
+    "record_id": 69,
+    "company_id": 9,
+    "year": 2024,
+    "total_investment": 534292.49,
+    "investment_areas": [
+      {
+        "area": "大数据",
+        "amount": 534292.49,
+        "duration_months": 23,
+        "outsourced": true
+      }
+    ],
+    "remark": "自动生成的投资记录，时间: 2025-12-24 07:27:46, 备注ID: 6573"
+  },
+  {
+    "record_id": 70,
+    "company_id": 1,
+    "year": 2024,
+    "total_investment": 432087.6,
+    "investment_areas": [
+      {
+        "area": "人工智能",
+        "amount": 177510.79,
+        "duration_months": 6,
+        "outsourced": false
+      },
+      {
+        "area": "移动端",
+        "amount": 81184.66,
+        "duration_months": 13,
+        "outsourced": false
+      },
+      {
+        "area": "网络安全",
+        "amount": 173392.15,
+        "duration_months": 14,
+        "outsourced": true
+      }
+    ],
+    "remark": "自动生成的投资记录，时间: 2025-12-24 07:27:46, 备注ID: 9128"
+  },
+  {
+    "record_id": 71,
+    "company_id": 5,
+    "year": 2024,
+    "total_investment": 643005.51,
+    "investment_areas": [
+      {
+        "area": "大数据",
+        "amount": 643005.51,
+        "duration_months": 7,
+        "outsourced": true
+      }
+    ],
+    "remark": "自动生成的投资记录，时间: 2025-12-24 07:27:46, 备注ID: 9975"
+  },
+  {
+    "record_id": 72,
+    "company_id": 28,
+    "year": 2024,
+    "total_investment": 633640.38,
+    "investment_areas": [
+      {
+        "area": "移动端",
+        "amount": 368474.9,
+        "duration_months": 9,
+        "outsourced": true
+      },
+      {
+        "area": "云计算",
+        "amount": 265165.48,
+        "duration_months": 11,
+        "outsourced": true
+      }
+    ],
+    "remark": "自动生成的投资记录，时间: 2025-12-24 07:27:46, 备注ID: 1243"
+  },
+  {
+    "record_id": 73,
+    "company_id": 18,
+    "year": 2024,
+    "total_investment": 564026.36,
+    "investment_areas": [
+      {
+        "area": "人工智能",
+        "amount": 165624.78,
+        "duration_months": 9,
+        "outsourced": true
+      },
+      {
+        "area": "网络安全",
+        "amount": 398401.58,
+        "duration_months": 24,
+        "outsourced": false
+      }
+    ],
+    "remark": "自动生成的投资记录，时间: 2025-12-24 07:27:46, 备注ID: 1086"
+  },
+  {
+    "record_id": 74,
+    "company_id": 11,
+    "year": 2024,
+    "total_investment": 477450.6,
+    "investment_areas": [
+      {
+        "area": "移动端",
+        "amount": 297414.74,
+        "duration_months": 17,
+        "outsourced": false
+      },
+      {
+        "area": "大数据",
+        "amount": 180035.86,
+        "duration_months": 22,
+        "outsourced": true
+      }
+    ],
+    "remark": "自动生成的投资记录，时间: 2025-12-24 07:27:46, 备注ID: 9817"
+  },
+  {
+    "record_id": 75,
+    "company_id": 28,
+    "year": 2024,
+    "total_investment": 633640.38,
+    "investment_areas": [
+      {
+        "area": "大数据",
+        "amount": 633640.38,
+        "duration_months": 9,
+        "outsourced": false
+      }
+    ],
+    "remark": "自动生成的投资记录，时间: 2025-12-24 07:27:46, 备注ID: 9154"
+  },
+  {
+    "record_id": 76,
+    "company_id": 23,
+    "year": 2024,
+    "total_investment": 743703.91,
+    "investment_areas": [
+      {
+        "area": "区块链",
+        "amount": 743703.91,
+        "duration_months": 23,
+        "outsourced": false
+      }
+    ],
+    "remark": "自动生成的投资记录，时间: 2025-12-24 07:27:46, 备注ID: 2851"
+  },
+  {
+    "record_id": 77,
+    "company_id": 28,
+    "year": 2024,
+    "total_investment": 633640.38,
+    "investment_areas": [
+      {
+        "area": "移动端",
+        "amount": 112740.68,
+        "duration_months": 23,
+        "outsourced": false
+      },
+      {
+        "area": "区块链",
+        "amount": 520899.7,
+        "duration_months": 20,
+        "outsourced": false
+      }
+    ],
+    "remark": "自动生成的投资记录，时间: 2025-12-24 07:27:46, 备注ID: 1117"
+  },
+  {
+    "record_id": 78,
+    "company_id": 8,
+    "year": 2024,
+    "total_investment": 1160895.81,
+    "investment_areas": [
+      {
+        "area": "云计算",
+        "amount": 785065.11,
+        "duration_months": 13,
+        "outsourced": true
+      },
+      {
+        "area": "人工智能",
+        "amount": 357312.74,
+        "duration_months": 7,
+        "outsourced": false
+      },
+      {
+        "area": "区块链",
+        "amount": 18517.96,
+        "duration_months": 9,
+        "outsourced": true
+      }
+    ],
+    "remark": "自动生成的投资记录，时间: 2025-12-24 07:27:46, 备注ID: 7364"
+  },
+  {
+    "record_id": 79,
+    "company_id": 26,
+    "year": 2024,
+    "total_investment": 605122.98,
+    "investment_areas": [
+      {
+        "area": "移动端",
+        "amount": 605122.98,
+        "duration_months": 11,
+        "outsourced": false
+      }
+    ],
+    "remark": "自动生成的投资记录，时间: 2025-12-24 07:27:46, 备注ID: 7069"
+  },
+  {
+    "record_id": 80,
+    "company_id": 7,
+    "year": 2024,
+    "total_investment": 631072.7,
+    "investment_areas": [
+      {
+        "area": "区块链",
+        "amount": 495163.92,
+        "duration_months": 21,
+        "outsourced": true
+      },
+      {
+        "area": "移动端",
+        "amount": 135908.78,
+        "duration_months": 10,
+        "outsourced": true
+      }
+    ],
+    "remark": "自动生成的投资记录，时间: 2025-12-24 07:27:46, 备注ID: 9964"
+  },
+  {
+    "record_id": 81,
+    "company_id": 1,
+    "year": 2024,
+    "total_investment": 432087.6,
+    "investment_areas": [
+      {
+        "area": "人工智能",
+        "amount": 138525.09,
+        "duration_months": 6,
+        "outsourced": false
+      },
+      {
+        "area": "移动端",
+        "amount": 215286.7,
+        "duration_months": 20,
+        "outsourced": false
+      },
+      {
+        "area": "云计算",
+        "amount": 78275.81,
+        "duration_months": 18,
+        "outsourced": false
+      }
+    ],
+    "remark": "自动生成的投资记录，时间: 2025-12-24 07:27:46, 备注ID: 2292"
+  },
+  {
+    "record_id": 82,
+    "company_id": 28,
+    "year": 2024,
+    "total_investment": 633640.38,
+    "investment_areas": [
+      {
+        "area": "网络安全",
+        "amount": 227971.96,
+        "duration_months": 9,
+        "outsourced": true
+      },
+      {
+        "area": "区块链",
+        "amount": 273861.09,
+        "duration_months": 22,
+        "outsourced": false
+      },
+      {
+        "area": "移动端",
+        "amount": 131807.33,
+        "duration_months": 10,
+        "outsourced": false
+      }
+    ],
+    "remark": "自动生成的投资记录，时间: 2025-12-24 07:27:46, 备注ID: 2654"
+  },
+  {
+    "record_id": 83,
+    "company_id": 19,
+    "year": 2024,
+    "total_investment": 578467.0,
+    "investment_areas": [
+      {
+        "area": "区块链",
+        "amount": 46292.44,
+        "duration_months": 6,
+        "outsourced": true
+      },
+      {
+        "area": "移动端",
+        "amount": 532174.56,
+        "duration_months": 23,
+        "outsourced": true
+      }
+    ],
+    "remark": "自动生成的投资记录，时间: 2025-12-24 07:27:46, 备注ID: 8417"
+  },
+  {
+    "record_id": 84,
+    "company_id": 21,
+    "year": 2024,
+    "total_investment": 686706.92,
+    "investment_areas": [
+      {
+        "area": "云计算",
+        "amount": 97974.58,
+        "duration_months": 23,
+        "outsourced": true
+      },
+      {
+        "area": "区块链",
+        "amount": 306207.54,
+        "duration_months": 6,
+        "outsourced": true
+      },
+      {
+        "area": "移动端",
+        "amount": 282524.79,
+        "duration_months": 11,
+        "outsourced": false
+      }
+    ],
+    "remark": "自动生成的投资记录，时间: 2025-12-24 07:27:46, 备注ID: 5705"
+  },
+  {
+    "record_id": 85,
+    "company_id": 26,
+    "year": 2024,
+    "total_investment": 605122.98,
+    "investment_areas": [
+      {
+        "area": "大数据",
+        "amount": 46481.77,
+        "duration_months": 13,
+        "outsourced": true
+      },
+      {
+        "area": "移动端",
+        "amount": 558641.21,
+        "duration_months": 8,
+        "outsourced": true
+      }
+    ],
+    "remark": "自动生成的投资记录，时间: 2025-12-24 07:27:46, 备注ID: 7780"
+  },
+  {
+    "record_id": 86,
+    "company_id": 5,
+    "year": 2024,
+    "total_investment": 643005.51,
+    "investment_areas": [
+      {
+        "area": "区块链",
+        "amount": 643005.51,
+        "duration_months": 6,
+        "outsourced": false
+      }
+    ],
+    "remark": "自动生成的投资记录，时间: 2025-12-24 07:27:46, 备注ID: 7855"
+  },
+  {
+    "record_id": 87,
+    "company_id": 16,
+    "year": 2024,
+    "total_investment": 768305.15,
+    "investment_areas": [
+      {
+        "area": "云计算",
+        "amount": 768305.15,
+        "duration_months": 7,
+        "outsourced": false
+      }
+    ],
+    "remark": "自动生成的投资记录，时间: 2025-12-24 07:27:46, 备注ID: 2870"
+  },
+  {
+    "record_id": 88,
+    "company_id": 17,
+    "year": 2024,
+    "total_investment": 710702.49,
+    "investment_areas": [
+      {
+        "area": "网络安全",
+        "amount": 710702.49,
+        "duration_months": 15,
+        "outsourced": true
+      }
+    ],
+    "remark": "自动生成的投资记录，时间: 2025-12-24 07:27:46, 备注ID: 5822"
+  },
+  {
+    "record_id": 89,
+    "company_id": 5,
+    "year": 2024,
+    "total_investment": 643005.51,
+    "investment_areas": [
+      {
+        "area": "移动端",
+        "amount": 643005.51,
+        "duration_months": 24,
+        "outsourced": true
+      }
+    ],
+    "remark": "自动生成的投资记录，时间: 2025-12-24 07:27:46, 备注ID: 6564"
+  },
+  {
+    "record_id": 90,
+    "company_id": 13,
+    "year": 2024,
+    "total_investment": 581142.62,
+    "investment_areas": [
+      {
+        "area": "移动端",
+        "amount": 581142.62,
+        "duration_months": 19,
+        "outsourced": true
+      }
+    ],
+    "remark": "自动生成的投资记录，时间: 2025-12-24 07:27:46, 备注ID: 8820"
+  },
+  {
+    "record_id": 91,
+    "company_id": 7,
+    "year": 2024,
+    "total_investment": 631072.7,
+    "investment_areas": [
+      {
+        "area": "云计算",
+        "amount": 631072.7,
+        "duration_months": 19,
+        "outsourced": false
+      }
+    ],
+    "remark": "自动生成的投资记录，时间: 2025-12-24 07:27:46, 备注ID: 2905"
+  },
+  {
+    "record_id": 92,
+    "company_id": 7,
+    "year": 2024,
+    "total_investment": 631072.7,
+    "investment_areas": [
+      {
+        "area": "区块链",
+        "amount": 288193.81,
+        "duration_months": 22,
+        "outsourced": false
+      },
+      {
+        "area": "人工智能",
+        "amount": 342878.89,
+        "duration_months": 20,
+        "outsourced": true
+      }
+    ],
+    "remark": "自动生成的投资记录，时间: 2025-12-24 07:27:46, 备注ID: 5287"
+  },
+  {
+    "record_id": 93,
+    "company_id": 20,
+    "year": 2024,
+    "total_investment": 441473.16,
+    "investment_areas": [
+      {
+        "area": "云计算",
+        "amount": 62768.32,
+        "duration_months": 24,
+        "outsourced": true
+      },
+      {
+        "area": "网络安全",
+        "amount": 208326.72,
+        "duration_months": 11,
+        "outsourced": true
+      },
+      {
+        "area": "区块链",
+        "amount": 170378.12,
+        "duration_months": 19,
+        "outsourced": false
+      }
+    ],
+    "remark": "自动生成的投资记录，时间: 2025-12-24 07:27:46, 备注ID: 2640"
+  },
+  {
+    "record_id": 94,
+    "company_id": 17,
+    "year": 2024,
+    "total_investment": 710702.49,
+    "investment_areas": [
+      {
+        "area": "云计算",
+        "amount": 710702.49,
+        "duration_months": 11,
+        "outsourced": false
+      }
+    ],
+    "remark": "自动生成的投资记录，时间: 2025-12-24 07:27:46, 备注ID: 7204"
+  },
+  {
+    "record_id": 95,
+    "company_id": 26,
+    "year": 2024,
+    "total_investment": 605122.98,
+    "investment_areas": [
+      {
+        "area": "大数据",
+        "amount": 252403.67,
+        "duration_months": 21,
+        "outsourced": true
+      },
+      {
+        "area": "人工智能",
+        "amount": 317166.08,
+        "duration_months": 24,
+        "outsourced": false
+      },
+      {
+        "area": "云计算",
+        "amount": 35553.23,
+        "duration_months": 13,
+        "outsourced": true
+      }
+    ],
+    "remark": "自动生成的投资记录，时间: 2025-12-24 07:27:46, 备注ID: 5065"
+  },
+  {
+    "record_id": 96,
+    "company_id": 5,
+    "year": 2024,
+    "total_investment": 643005.51,
+    "investment_areas": [
+      {
+        "area": "云计算",
+        "amount": 43153.81,
+        "duration_months": 20,
+        "outsourced": false
+      },
+      {
+        "area": "区块链",
+        "amount": 599851.7,
+        "duration_months": 7,
+        "outsourced": false
+      }
+    ],
+    "remark": "自动生成的投资记录，时间: 2025-12-24 07:27:46, 备注ID: 8577"
+  },
+  {
+    "record_id": 97,
+    "company_id": 11,
+    "year": 2024,
+    "total_investment": 477450.6,
+    "investment_areas": [
+      {
+        "area": "云计算",
+        "amount": 163587.63,
+        "duration_months": 13,
+        "outsourced": true
+      },
+      {
+        "area": "大数据",
+        "amount": 313862.97,
+        "duration_months": 22,
+        "outsourced": true
+      }
+    ],
+    "remark": "自动生成的投资记录，时间: 2025-12-24 07:27:46, 备注ID: 2193"
+  },
+  {
+    "record_id": 98,
+    "company_id": 26,
+    "year": 2024,
+    "total_investment": 605122.98,
+    "investment_areas": [
+      {
+        "area": "区块链",
+        "amount": 605122.98,
+        "duration_months": 20,
+        "outsourced": true
+      }
+    ],
+    "remark": "自动生成的投资记录，时间: 2025-12-24 07:27:46, 备注ID: 5481"
+  },
+  {
+    "record_id": 99,
+    "company_id": 19,
+    "year": 2024,
+    "total_investment": 578467.0,
+    "investment_areas": [
+      {
+        "area": "大数据",
+        "amount": 578467.0,
+        "duration_months": 12,
+        "outsourced": true
+      }
+    ],
+    "remark": "自动生成的投资记录，时间: 2025-12-24 07:27:46, 备注ID: 6259"
+  },
+  {
+    "record_id": 100,
+    "company_id": 26,
+    "year": 2024,
+    "total_investment": 605122.98,
+    "investment_areas": [
+      {
+        "area": "云计算",
+        "amount": 234127.46,
+        "duration_months": 16,
+        "outsourced": false
+      },
+      {
+        "area": "网络安全",
+        "amount": 370995.52,
+        "duration_months": 10,
+        "outsourced": false
+      }
+    ],
+    "remark": "自动生成的投资记录，时间: 2025-12-24 07:27:46, 备注ID: 7590"
+  }
+]

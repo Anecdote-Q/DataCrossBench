@@ -1,0 +1,20 @@
+{
+    "goal": "比较迈瑞医疗和联影医疗的技术优势，探讨其在市场中的表现差异。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 行业政策变动可能影响未来的业绩表现，需密切关注。",
+        "Comparison: 与其他企业相比，科伦药业和恩华药业在市场中的表现更为稳定。",
+        "Extreme: 行业政策变动可能导致部分企业面临业绩风险，需谨慎投资。",
+        "Attribution: 行业政策变动直接影响了市场情绪和投资者信心。"
+    ],
+    "summary": "本周推荐的股票组合包括多家医药企业，同时提示了行业政策变动和业绩风险。",
+    "flag_id": "flag-72",
+    "classifier": "Fund Analysis",
+    "classifier_cn": "基金分析",
+    "input_files": [
+        "output/business_background.txt",
+        "output/company_device_data.json",
+        "output/market_analysis_fact.csv",
+        "output/pharmaceutical_companies.db"
+    ]
+}

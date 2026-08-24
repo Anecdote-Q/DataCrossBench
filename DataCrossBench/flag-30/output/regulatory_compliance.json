@@ -1,0 +1,3602 @@
+[
+  {
+    "compliance_id": 1,
+    "company_id": 483,
+    "penalty_amount": null,
+    "incident_description": "涉嫌欺骗性产品承诺",
+    "incident_date": "2022-11-21",
+    "penalty_detail": {
+      "罚款金额": null,
+      "事件描述": "涉嫌欺骗性产品承诺",
+      "事件日期": "2022-11-21"
+    }
+  },
+  {
+    "compliance_id": 2,
+    "company_id": 430,
+    "penalty_amount": 295475.0,
+    "incident_description": "业务合规备案缺失",
+    "incident_date": "2020-07-01",
+    "penalty_detail": {
+      "罚款金额": 295475.0,
+      "事件描述": "业务合规备案缺失",
+      "事件日期": "2020-07-01"
+    }
+  },
+  {
+    "compliance_id": 3,
+    "company_id": 22,
+    "penalty_amount": 811023.11,
+    "incident_description": "未按规定披露信息",
+    "incident_date": "2019-03-01",
+    "penalty_detail": {
+      "罚款金额": 811023.11,
+      "事件描述": "未按规定披露信息",
+      "事件日期": "2019-03-01"
+    }
+  },
+  {
+    "compliance_id": 4,
+    "company_id": 343,
+    "penalty_amount": 522525.09,
+    "incident_description": "非法资金流动",
+    "incident_date": "2020-01-05",
+    "penalty_detail": {
+      "罚款金额": 522525.09,
+      "事件描述": "非法资金流动",
+      "事件日期": "2020-01-05"
+    }
+  },
+  {
+    "compliance_id": 5,
+    "company_id": 40,
+    "penalty_amount": 254655.48,
+    "incident_description": "业务合规备案缺失",
+    "incident_date": null,
+    "penalty_detail": {
+      "罚款金额": 254655.48,
+      "事件描述": "业务合规备案缺失",
+      "事件日期": null
+    }
+  },
+  {
+    "compliance_id": 6,
+    "company_id": 173,
+    "penalty_amount": 516284.49,
+    "incident_description": "未按规定披露信息",
+    "incident_date": "2020-07-13",
+    "penalty_detail": {
+      "罚款金额": 516284.49,
+      "事件描述": "未按规定披露信息",
+      "事件日期": "2020-07-13"
+    }
+  },
+  {
+    "compliance_id": 7,
+    "company_id": 439,
+    "penalty_amount": 1548714.0,
+    "incident_description": null,
+    "incident_date": "2022-12-10",
+    "penalty_detail": {
+      "罚款金额": 1548714.0,
+      "事件描述": null,
+      "事件日期": "2022-12-10"
+    }
+  },
+  {
+    "compliance_id": 8,
+    "company_id": 179,
+    "penalty_amount": 451610.72,
+    "incident_description": "涉嫌欺骗性产品承诺",
+    "incident_date": null,
+    "penalty_detail": {
+      "罚款金额": 451610.72,
+      "事件描述": "涉嫌欺骗性产品承诺",
+      "事件日期": null
+    }
+  },
+  {
+    "compliance_id": 9,
+    "company_id": 598,
+    "penalty_amount": 615251.96,
+    "incident_description": "客户资金未妥善管理",
+    "incident_date": "2023-04-11",
+    "penalty_detail": {
+      "罚款金额": 615251.96,
+      "事件描述": "客户资金未妥善管理",
+      "事件日期": "2023-04-11"
+    }
+  },
+  {
+    "compliance_id": 10,
+    "company_id": 133,
+    "penalty_amount": 460092.1,
+    "incident_description": null,
+    "incident_date": null,
+    "penalty_detail": {
+      "罚款金额": 460092.1,
+      "事件描述": null,
+      "事件日期": null
+    }
+  },
+  {
+    "compliance_id": 11,
+    "company_id": 351,
+    "penalty_amount": 438900.19,
+    "incident_description": null,
+    "incident_date": "2020-09-24",
+    "penalty_detail": {
+      "罚款金额": 438900.19,
+      "事件描述": null,
+      "事件日期": "2020-09-24"
+    }
+  },
+  {
+    "compliance_id": 12,
+    "company_id": 525,
+    "penalty_amount": 772480.95,
+    "incident_description": "未按规定披露信息",
+    "incident_date": "2020-11-26",
+    "penalty_detail": {
+      "罚款金额": 772480.95,
+      "事件描述": "未按规定披露信息",
+      "事件日期": "2020-11-26"
+    }
+  },
+  {
+    "compliance_id": 13,
+    "company_id": 540,
+    "penalty_amount": 152086.6,
+    "incident_description": null,
+    "incident_date": "2020-12-19",
+    "penalty_detail": {
+      "罚款金额": 152086.6,
+      "事件描述": null,
+      "事件日期": "2020-12-19"
+    }
+  },
+  {
+    "compliance_id": 14,
+    "company_id": 506,
+    "penalty_amount": 489723.54,
+    "incident_description": null,
+    "incident_date": "2019-01-13",
+    "penalty_detail": {
+      "罚款金额": 489723.54,
+      "事件描述": null,
+      "事件日期": "2019-01-13"
+    }
+  },
+  {
+    "compliance_id": 15,
+    "company_id": 84,
+    "penalty_amount": 1711982.92,
+    "incident_description": "数据隐私违规",
+    "incident_date": null,
+    "penalty_detail": {
+      "罚款金额": 1711982.92,
+      "事件描述": "数据隐私违规",
+      "事件日期": null
+    }
+  },
+  {
+    "compliance_id": 16,
+    "company_id": 993,
+    "penalty_amount": 625386.49,
+    "incident_description": null,
+    "incident_date": "2020-01-07",
+    "penalty_detail": {
+      "罚款金额": 625386.49,
+      "事件描述": null,
+      "事件日期": "2020-01-07"
+    }
+  },
+  {
+    "compliance_id": 17,
+    "company_id": 464,
+    "penalty_amount": null,
+    "incident_description": "涉嫌欺骗性产品承诺",
+    "incident_date": null,
+    "penalty_detail": {
+      "罚款金额": null,
+      "事件描述": "涉嫌欺骗性产品承诺",
+      "事件日期": null
+    }
+  },
+  {
+    "compliance_id": 18,
+    "company_id": 830,
+    "penalty_amount": 904314.38,
+    "incident_description": "安全漏洞导致用户数据泄露",
+    "incident_date": "2019-10-21",
+    "penalty_detail": {
+      "罚款金额": 904314.38,
+      "事件描述": "安全漏洞导致用户数据泄露",
+      "事件日期": "2019-10-21"
+    }
+  },
+  {
+    "compliance_id": 19,
+    "company_id": 861,
+    "penalty_amount": 839790.35,
+    "incident_description": "安全漏洞导致用户数据泄露",
+    "incident_date": "2022-03-05",
+    "penalty_detail": {
+      "罚款金额": 839790.35,
+      "事件描述": "安全漏洞导致用户数据泄露",
+      "事件日期": "2022-03-05"
+    }
+  },
+  {
+    "compliance_id": 20,
+    "company_id": 343,
+    "penalty_amount": null,
+    "incident_description": "客户资金未妥善管理",
+    "incident_date": "2022-09-08",
+    "penalty_detail": {
+      "罚款金额": null,
+      "事件描述": "客户资金未妥善管理",
+      "事件日期": "2022-09-08"
+    }
+  },
+  {
+    "compliance_id": 21,
+    "company_id": 280,
+    "penalty_amount": 177859.32,
+    "incident_description": "涉嫌欺骗性产品承诺",
+    "incident_date": "2021-03-31",
+    "penalty_detail": {
+      "罚款金额": 177859.32,
+      "事件描述": "涉嫌欺骗性产品承诺",
+      "事件日期": "2021-03-31"
+    }
+  },
+  {
+    "compliance_id": 22,
+    "company_id": 866,
+    "penalty_amount": 565370.48,
+    "incident_description": "业务合规备案缺失",
+    "incident_date": "2019-05-23",
+    "penalty_detail": {
+      "罚款金额": 565370.48,
+      "事件描述": "业务合规备案缺失",
+      "事件日期": "2019-05-23"
+    }
+  },
+  {
+    "compliance_id": 23,
+    "company_id": 263,
+    "penalty_amount": 229176.46,
+    "incident_description": "数据隐私违规",
+    "incident_date": "2019-10-18",
+    "penalty_detail": {
+      "罚款金额": 229176.46,
+      "事件描述": "数据隐私违规",
+      "事件日期": "2019-10-18"
+    }
+  },
+  {
+    "compliance_id": 24,
+    "company_id": 166,
+    "penalty_amount": 114706.14,
+    "incident_description": "业务合规备案缺失",
+    "incident_date": "2023-02-26",
+    "penalty_detail": {
+      "罚款金额": 114706.14,
+      "事件描述": "业务合规备案缺失",
+      "事件日期": "2023-02-26"
+    }
+  },
+  {
+    "compliance_id": 25,
+    "company_id": 293,
+    "penalty_amount": null,
+    "incident_description": "业务合规备案缺失",
+    "incident_date": null,
+    "penalty_detail": {
+      "罚款金额": null,
+      "事件描述": "业务合规备案缺失",
+      "事件日期": null
+    }
+  },
+  {
+    "compliance_id": 26,
+    "company_id": 509,
+    "penalty_amount": 613409.07,
+    "incident_description": "非法资金流动",
+    "incident_date": "2022-07-20",
+    "penalty_detail": {
+      "罚款金额": 613409.07,
+      "事件描述": "非法资金流动",
+      "事件日期": "2022-07-20"
+    }
+  },
+  {
+    "compliance_id": 27,
+    "company_id": 580,
+    "penalty_amount": 842228.13,
+    "incident_description": "涉嫌欺骗性产品承诺",
+    "incident_date": null,
+    "penalty_detail": {
+      "罚款金额": 842228.13,
+      "事件描述": "涉嫌欺骗性产品承诺",
+      "事件日期": null
+    }
+  },
+  {
+    "compliance_id": 28,
+    "company_id": 226,
+    "penalty_amount": 653686.21,
+    "incident_description": "涉嫌欺骗性产品承诺",
+    "incident_date": null,
+    "penalty_detail": {
+      "罚款金额": 653686.21,
+      "事件描述": "涉嫌欺骗性产品承诺",
+      "事件日期": null
+    }
+  },
+  {
+    "compliance_id": 29,
+    "company_id": 170,
+    "penalty_amount": 883912.02,
+    "incident_description": "安全漏洞导致用户数据泄露",
+    "incident_date": null,
+    "penalty_detail": {
+      "罚款金额": 883912.02,
+      "事件描述": "安全漏洞导致用户数据泄露",
+      "事件日期": null
+    }
+  },
+  {
+    "compliance_id": 30,
+    "company_id": 598,
+    "penalty_amount": 571110.84,
+    "incident_description": "未按规定披露信息",
+    "incident_date": "2019-03-04",
+    "penalty_detail": {
+      "罚款金额": 571110.84,
+      "事件描述": "未按规定披露信息",
+      "事件日期": "2019-03-04"
+    }
+  },
+  {
+    "compliance_id": 31,
+    "company_id": 645,
+    "penalty_amount": 1393789.41,
+    "incident_description": "数据隐私违规",
+    "incident_date": "2019-07-07",
+    "penalty_detail": {
+      "罚款金额": 1393789.41,
+      "事件描述": "数据隐私违规",
+      "事件日期": "2019-07-07"
+    }
+  },
+  {
+    "compliance_id": 32,
+    "company_id": 448,
+    "penalty_amount": 664437.41,
+    "incident_description": "数据隐私违规",
+    "incident_date": "2023-03-09",
+    "penalty_detail": {
+      "罚款金额": 664437.41,
+      "事件描述": "数据隐私违规",
+      "事件日期": "2023-03-09"
+    }
+  },
+  {
+    "compliance_id": 33,
+    "company_id": 690,
+    "penalty_amount": 766862.62,
+    "incident_description": null,
+    "incident_date": "2021-12-22",
+    "penalty_detail": {
+      "罚款金额": 766862.62,
+      "事件描述": null,
+      "事件日期": "2021-12-22"
+    }
+  },
+  {
+    "compliance_id": 34,
+    "company_id": 855,
+    "penalty_amount": 578216.88,
+    "incident_description": "安全漏洞导致用户数据泄露",
+    "incident_date": null,
+    "penalty_detail": {
+      "罚款金额": 578216.88,
+      "事件描述": "安全漏洞导致用户数据泄露",
+      "事件日期": null
+    }
+  },
+  {
+    "compliance_id": 35,
+    "company_id": 502,
+    "penalty_amount": 790110.09,
+    "incident_description": "非法资金流动",
+    "incident_date": "2020-03-16",
+    "penalty_detail": {
+      "罚款金额": 790110.09,
+      "事件描述": "非法资金流动",
+      "事件日期": "2020-03-16"
+    }
+  },
+  {
+    "compliance_id": 36,
+    "company_id": 764,
+    "penalty_amount": 475349.86,
+    "incident_description": "数据隐私违规",
+    "incident_date": "2021-02-09",
+    "penalty_detail": {
+      "罚款金额": 475349.86,
+      "事件描述": "数据隐私违规",
+      "事件日期": "2021-02-09"
+    }
+  },
+  {
+    "compliance_id": 37,
+    "company_id": 527,
+    "penalty_amount": null,
+    "incident_description": null,
+    "incident_date": null,
+    "penalty_detail": {
+      "罚款金额": null,
+      "事件描述": null,
+      "事件日期": null
+    }
+  },
+  {
+    "compliance_id": 38,
+    "company_id": 735,
+    "penalty_amount": 465133.58,
+    "incident_description": "涉嫌欺骗性产品承诺",
+    "incident_date": "2021-05-09",
+    "penalty_detail": {
+      "罚款金额": 465133.58,
+      "事件描述": "涉嫌欺骗性产品承诺",
+      "事件日期": "2021-05-09"
+    }
+  },
+  {
+    "compliance_id": 39,
+    "company_id": 379,
+    "penalty_amount": 975808.72,
+    "incident_description": "安全漏洞导致用户数据泄露",
+    "incident_date": "2021-07-18",
+    "penalty_detail": {
+      "罚款金额": 975808.72,
+      "事件描述": "安全漏洞导致用户数据泄露",
+      "事件日期": "2021-07-18"
+    }
+  },
+  {
+    "compliance_id": 40,
+    "company_id": 201,
+    "penalty_amount": 668252.14,
+    "incident_description": "安全漏洞导致用户数据泄露",
+    "incident_date": "2020-11-29",
+    "penalty_detail": {
+      "罚款金额": 668252.14,
+      "事件描述": "安全漏洞导致用户数据泄露",
+      "事件日期": "2020-11-29"
+    }
+  },
+  {
+    "compliance_id": 41,
+    "company_id": 619,
+    "penalty_amount": 276658.97,
+    "incident_description": "非法资金流动",
+    "incident_date": "2019-11-19",
+    "penalty_detail": {
+      "罚款金额": 276658.97,
+      "事件描述": "非法资金流动",
+      "事件日期": "2019-11-19"
+    }
+  },
+  {
+    "compliance_id": 42,
+    "company_id": 250,
+    "penalty_amount": 870519.49,
+    "incident_description": "数据隐私违规",
+    "incident_date": "2021-01-27",
+    "penalty_detail": {
+      "罚款金额": 870519.49,
+      "事件描述": "数据隐私违规",
+      "事件日期": "2021-01-27"
+    }
+  },
+  {
+    "compliance_id": 43,
+    "company_id": 949,
+    "penalty_amount": null,
+    "incident_description": "非法资金流动",
+    "incident_date": "2020-09-30",
+    "penalty_detail": {
+      "罚款金额": null,
+      "事件描述": "非法资金流动",
+      "事件日期": "2020-09-30"
+    }
+  },
+  {
+    "compliance_id": 44,
+    "company_id": 409,
+    "penalty_amount": 502739.19,
+    "incident_description": "数据隐私违规",
+    "incident_date": null,
+    "penalty_detail": {
+      "罚款金额": 502739.19,
+      "事件描述": "数据隐私违规",
+      "事件日期": null
+    }
+  },
+  {
+    "compliance_id": 45,
+    "company_id": 601,
+    "penalty_amount": 593660.16,
+    "incident_description": "安全漏洞导致用户数据泄露",
+    "incident_date": "2023-01-17",
+    "penalty_detail": {
+      "罚款金额": 593660.16,
+      "事件描述": "安全漏洞导致用户数据泄露",
+      "事件日期": "2023-01-17"
+    }
+  },
+  {
+    "compliance_id": 46,
+    "company_id": 125,
+    "penalty_amount": null,
+    "incident_description": "安全漏洞导致用户数据泄露",
+    "incident_date": null,
+    "penalty_detail": {
+      "罚款金额": null,
+      "事件描述": "安全漏洞导致用户数据泄露",
+      "事件日期": null
+    }
+  },
+  {
+    "compliance_id": 47,
+    "company_id": 113,
+    "penalty_amount": 596744.44,
+    "incident_description": "数据隐私违规",
+    "incident_date": "2020-10-26",
+    "penalty_detail": {
+      "罚款金额": 596744.44,
+      "事件描述": "数据隐私违规",
+      "事件日期": "2020-10-26"
+    }
+  },
+  {
+    "compliance_id": 48,
+    "company_id": 981,
+    "penalty_amount": 273390.9,
+    "incident_description": "未按规定披露信息",
+    "incident_date": "2023-05-10",
+    "penalty_detail": {
+      "罚款金额": 273390.9,
+      "事件描述": "未按规定披露信息",
+      "事件日期": "2023-05-10"
+    }
+  },
+  {
+    "compliance_id": 49,
+    "company_id": 137,
+    "penalty_amount": null,
+    "incident_description": null,
+    "incident_date": "2022-03-08",
+    "penalty_detail": {
+      "罚款金额": null,
+      "事件描述": null,
+      "事件日期": "2022-03-08"
+    }
+  },
+  {
+    "compliance_id": 50,
+    "company_id": 759,
+    "penalty_amount": 720129.19,
+    "incident_description": "安全漏洞导致用户数据泄露",
+    "incident_date": "2022-05-06",
+    "penalty_detail": {
+      "罚款金额": 720129.19,
+      "事件描述": "安全漏洞导致用户数据泄露",
+      "事件日期": "2022-05-06"
+    }
+  },
+  {
+    "compliance_id": 51,
+    "company_id": 496,
+    "penalty_amount": 714372.81,
+    "incident_description": "数据隐私违规",
+    "incident_date": "2019-06-23",
+    "penalty_detail": {
+      "罚款金额": 714372.81,
+      "事件描述": "数据隐私违规",
+      "事件日期": "2019-06-23"
+    }
+  },
+  {
+    "compliance_id": 52,
+    "company_id": 678,
+    "penalty_amount": 239637.48,
+    "incident_description": "安全漏洞导致用户数据泄露",
+    "incident_date": "2019-04-18",
+    "penalty_detail": {
+      "罚款金额": 239637.48,
+      "事件描述": "安全漏洞导致用户数据泄露",
+      "事件日期": "2019-04-18"
+    }
+  },
+  {
+    "compliance_id": 53,
+    "company_id": 150,
+    "penalty_amount": 1206434.19,
+    "incident_description": "非法资金流动",
+    "incident_date": "2019-11-15",
+    "penalty_detail": {
+      "罚款金额": 1206434.19,
+      "事件描述": "非法资金流动",
+      "事件日期": "2019-11-15"
+    }
+  },
+  {
+    "compliance_id": 54,
+    "company_id": 875,
+    "penalty_amount": 291095.67,
+    "incident_description": "涉嫌欺骗性产品承诺",
+    "incident_date": "2019-11-19",
+    "penalty_detail": {
+      "罚款金额": 291095.67,
+      "事件描述": "涉嫌欺骗性产品承诺",
+      "事件日期": "2019-11-19"
+    }
+  },
+  {
+    "compliance_id": 55,
+    "company_id": 343,
+    "penalty_amount": 567962.6,
+    "incident_description": null,
+    "incident_date": "2023-03-26",
+    "penalty_detail": {
+      "罚款金额": 567962.6,
+      "事件描述": null,
+      "事件日期": "2023-03-26"
+    }
+  },
+  {
+    "compliance_id": 56,
+    "company_id": 945,
+    "penalty_amount": null,
+    "incident_description": "未按规定披露信息",
+    "incident_date": null,
+    "penalty_detail": {
+      "罚款金额": null,
+      "事件描述": "未按规定披露信息",
+      "事件日期": null
+    }
+  },
+  {
+    "compliance_id": 57,
+    "company_id": 580,
+    "penalty_amount": 275451.45,
+    "incident_description": "涉嫌提供欺骗性产品承诺",
+    "incident_date": "2022-05-15",
+    "penalty_detail": {
+      "罚款金额": 275451.45,
+      "事件描述": "涉嫌提供欺骗性产品承诺",
+      "事件日期": "2022-05-15"
+    }
+  },
+  {
+    "compliance_id": 58,
+    "company_id": 733,
+    "penalty_amount": 366973.0,
+    "incident_description": "数据隐私违规",
+    "incident_date": "2019-04-12",
+    "penalty_detail": {
+      "罚款金额": 366973.0,
+      "事件描述": "数据隐私违规",
+      "事件日期": "2019-04-12"
+    }
+  },
+  {
+    "compliance_id": 59,
+    "company_id": 783,
+    "penalty_amount": null,
+    "incident_description": null,
+    "incident_date": null,
+    "penalty_detail": {
+      "罚款金额": null,
+      "事件描述": null,
+      "事件日期": null
+    }
+  },
+  {
+    "compliance_id": 60,
+    "company_id": 321,
+    "penalty_amount": 494440.18,
+    "incident_description": "数据隐私违规",
+    "incident_date": "2022-10-12",
+    "penalty_detail": {
+      "罚款金额": 494440.18,
+      "事件描述": "数据隐私违规",
+      "事件日期": "2022-10-12"
+    }
+  },
+  {
+    "compliance_id": 61,
+    "company_id": 822,
+    "penalty_amount": 78700.95,
+    "incident_description": "非法资金流动",
+    "incident_date": "2019-06-17",
+    "penalty_detail": {
+      "罚款金额": 78700.95,
+      "事件描述": "非法资金流动",
+      "事件日期": "2019-06-17"
+    }
+  },
+  {
+    "compliance_id": 62,
+    "company_id": 926,
+    "penalty_amount": 597068.95,
+    "incident_description": "未按规定披露信息",
+    "incident_date": "2020-07-11",
+    "penalty_detail": {
+      "罚款金额": 597068.95,
+      "事件描述": "未按规定披露信息",
+      "事件日期": "2020-07-11"
+    }
+  },
+  {
+    "compliance_id": 63,
+    "company_id": 861,
+    "penalty_amount": null,
+    "incident_description": "安全漏洞导致用户数据泄露",
+    "incident_date": "2021-06-26",
+    "penalty_detail": {
+      "罚款金额": null,
+      "事件描述": "安全漏洞导致用户数据泄露",
+      "事件日期": "2021-06-26"
+    }
+  },
+  {
+    "compliance_id": 64,
+    "company_id": 532,
+    "penalty_amount": 375203.36,
+    "incident_description": "数据隐私违规",
+    "incident_date": "2022-09-17",
+    "penalty_detail": {
+      "罚款金额": 375203.36,
+      "事件描述": "数据隐私违规",
+      "事件日期": "2022-09-17"
+    }
+  },
+  {
+    "compliance_id": 65,
+    "company_id": 289,
+    "penalty_amount": 407850.28,
+    "incident_description": null,
+    "incident_date": "2021-05-18",
+    "penalty_detail": {
+      "罚款金额": 407850.28,
+      "事件描述": null,
+      "事件日期": "2021-05-18"
+    }
+  },
+  {
+    "compliance_id": 66,
+    "company_id": 489,
+    "penalty_amount": 487922.78,
+    "incident_description": "涉嫌欺骗性产品承诺",
+    "incident_date": "2021-09-21",
+    "penalty_detail": {
+      "罚款金额": 487922.78,
+      "事件描述": "涉嫌欺骗性产品承诺",
+      "事件日期": "2021-09-21"
+    }
+  },
+  {
+    "compliance_id": 67,
+    "company_id": 492,
+    "penalty_amount": 618573.24,
+    "incident_description": "业务合规备案缺失",
+    "incident_date": null,
+    "penalty_detail": {
+      "罚款金额": 618573.24,
+      "事件描述": "业务合规备案缺失",
+      "事件日期": null
+    }
+  },
+  {
+    "compliance_id": 68,
+    "company_id": 612,
+    "penalty_amount": 763419.45,
+    "incident_description": null,
+    "incident_date": null,
+    "penalty_detail": {
+      "罚款金额": 763419.45,
+      "事件描述": null,
+      "事件日期": null
+    }
+  },
+  {
+    "compliance_id": 69,
+    "company_id": 252,
+    "penalty_amount": 702781.16,
+    "incident_description": "安全漏洞导致用户数据泄露",
+    "incident_date": "2022-05-28",
+    "penalty_detail": {
+      "罚款金额": 702781.16,
+      "事件描述": "安全漏洞导致用户数据泄露",
+      "事件日期": "2022-05-28"
+    }
+  },
+  {
+    "compliance_id": 70,
+    "company_id": 982,
+    "penalty_amount": null,
+    "incident_description": "涉嫌欺骗性产品承诺",
+    "incident_date": "2021-06-24",
+    "penalty_detail": {
+      "罚款金额": null,
+      "事件描述": "涉嫌欺骗性产品承诺",
+      "事件日期": "2021-06-24"
+    }
+  },
+  {
+    "compliance_id": 71,
+    "company_id": 77,
+    "penalty_amount": 635059.44,
+    "incident_description": null,
+    "incident_date": null,
+    "penalty_detail": {
+      "罚款金额": 635059.44,
+      "事件描述": null,
+      "事件日期": null
+    }
+  },
+  {
+    "compliance_id": 72,
+    "company_id": 647,
+    "penalty_amount": 528063.02,
+    "incident_description": "数据隐私违规",
+    "incident_date": "2021-04-28",
+    "penalty_detail": {
+      "罚款金额": 528063.02,
+      "事件描述": "数据隐私违规",
+      "事件日期": "2021-04-28"
+    }
+  },
+  {
+    "compliance_id": 73,
+    "company_id": 392,
+    "penalty_amount": 408593.64,
+    "incident_description": "涉嫌欺骗性产品承诺",
+    "incident_date": null,
+    "penalty_detail": {
+      "罚款金额": 408593.64,
+      "事件描述": "涉嫌欺骗性产品承诺",
+      "事件日期": null
+    }
+  },
+  {
+    "compliance_id": 74,
+    "company_id": 412,
+    "penalty_amount": 415240.21,
+    "incident_description": "未按规定披露信息",
+    "incident_date": "2020-07-13",
+    "penalty_detail": {
+      "罚款金额": 415240.21,
+      "事件描述": "未按规定披露信息",
+      "事件日期": "2020-07-13"
+    }
+  },
+  {
+    "compliance_id": 75,
+    "company_id": 173,
+    "penalty_amount": 607807.61,
+    "incident_description": "安全漏洞导致用户数据泄露",
+    "incident_date": null,
+    "penalty_detail": {
+      "罚款金额": 607807.61,
+      "事件描述": "安全漏洞导致用户数据泄露",
+      "事件日期": null
+    }
+  },
+  {
+    "compliance_id": 76,
+    "company_id": 875,
+    "penalty_amount": 300111.17,
+    "incident_description": "安全漏洞导致用户数据泄露",
+    "incident_date": null,
+    "penalty_detail": {
+      "罚款金额": 300111.17,
+      "事件描述": "安全漏洞导致用户数据泄露",
+      "事件日期": null
+    }
+  },
+  {
+    "compliance_id": 77,
+    "company_id": 201,
+    "penalty_amount": 545795.23,
+    "incident_description": "数据隐私违规",
+    "incident_date": null,
+    "penalty_detail": {
+      "罚款金额": 545795.23,
+      "事件描述": "数据隐私违规",
+      "事件日期": null
+    }
+  },
+  {
+    "compliance_id": 78,
+    "company_id": 217,
+    "penalty_amount": 496227.02,
+    "incident_description": null,
+    "incident_date": "2020-03-17",
+    "penalty_detail": {
+      "罚款金额": 496227.02,
+      "事件描述": null,
+      "事件日期": "2020-03-17"
+    }
+  },
+  {
+    "compliance_id": 79,
+    "company_id": 376,
+    "penalty_amount": 354380.59,
+    "incident_description": "非法资金流动",
+    "incident_date": "2023-03-27",
+    "penalty_detail": {
+      "罚款金额": 354380.59,
+      "事件描述": "非法资金流动",
+      "事件日期": "2023-03-27"
+    }
+  },
+  {
+    "compliance_id": 80,
+    "company_id": 720,
+    "penalty_amount": null,
+    "incident_description": "未按规定披露信息",
+    "incident_date": null,
+    "penalty_detail": {
+      "罚款金额": null,
+      "事件描述": "未按规定披露信息",
+      "事件日期": null
+    }
+  },
+  {
+    "compliance_id": 81,
+    "company_id": 586,
+    "penalty_amount": 1004943.5,
+    "incident_description": "涉嫌欺骗性产品承诺",
+    "incident_date": "2021-11-15",
+    "penalty_detail": {
+      "罚款金额": 1004943.5,
+      "事件描述": "涉嫌欺骗性产品承诺",
+      "事件日期": "2021-11-15"
+    }
+  },
+  {
+    "compliance_id": 82,
+    "company_id": 11,
+    "penalty_amount": 220685.77,
+    "incident_description": "数据隐私违规",
+    "incident_date": null,
+    "penalty_detail": {
+      "罚款金额": 220685.77,
+      "事件描述": "数据隐私违规",
+      "事件日期": null
+    }
+  },
+  {
+    "compliance_id": 83,
+    "company_id": 799,
+    "penalty_amount": 486448.29,
+    "incident_description": null,
+    "incident_date": "2019-08-22",
+    "penalty_detail": {
+      "罚款金额": 486448.29,
+      "事件描述": null,
+      "事件日期": "2019-08-22"
+    }
+  },
+  {
+    "compliance_id": 84,
+    "company_id": 768,
+    "penalty_amount": 744516.76,
+    "incident_description": "未按规定披露信息",
+    "incident_date": "2020-12-07",
+    "penalty_detail": {
+      "罚款金额": 744516.76,
+      "事件描述": "未按规定披露信息",
+      "事件日期": "2020-12-07"
+    }
+  },
+  {
+    "compliance_id": 85,
+    "company_id": 12,
+    "penalty_amount": 605811.37,
+    "incident_description": "涉嫌欺骗性产品承诺",
+    "incident_date": "2021-05-30",
+    "penalty_detail": {
+      "罚款金额": 605811.37,
+      "事件描述": "涉嫌欺骗性产品承诺",
+      "事件日期": "2021-05-30"
+    }
+  },
+  {
+    "compliance_id": 86,
+    "company_id": 892,
+    "penalty_amount": 405292.89,
+    "incident_description": "数据隐私违规",
+    "incident_date": "2019-08-16",
+    "penalty_detail": {
+      "罚款金额": 405292.89,
+      "事件描述": "数据隐私违规",
+      "事件日期": "2019-08-16"
+    }
+  },
+  {
+    "compliance_id": 87,
+    "company_id": 991,
+    "penalty_amount": 261570.57,
+    "incident_description": "业务合规备案缺失",
+    "incident_date": null,
+    "penalty_detail": {
+      "罚款金额": 261570.57,
+      "事件描述": "业务合规备案缺失",
+      "事件日期": null
+    }
+  },
+  {
+    "compliance_id": 88,
+    "company_id": 590,
+    "penalty_amount": 525957.29,
+    "incident_description": "客户资金未妥善管理",
+    "incident_date": "2020-08-03",
+    "penalty_detail": {
+      "罚款金额": 525957.29,
+      "事件描述": "客户资金未妥善管理",
+      "事件日期": "2020-08-03"
+    }
+  },
+  {
+    "compliance_id": 89,
+    "company_id": 435,
+    "penalty_amount": 0.0,
+    "incident_description": "非法资金流动",
+    "incident_date": "2022-10-20",
+    "penalty_detail": {
+      "罚款金额": 0.0,
+      "事件描述": "非法资金流动",
+      "事件日期": "2022-10-20"
+    }
+  },
+  {
+    "compliance_id": 90,
+    "company_id": 684,
+    "penalty_amount": null,
+    "incident_description": "涉嫌欺骗性产品承诺",
+    "incident_date": "2022-10-21",
+    "penalty_detail": {
+      "罚款金额": null,
+      "事件描述": "涉嫌欺骗性产品承诺",
+      "事件日期": "2022-10-21"
+    }
+  },
+  {
+    "compliance_id": 91,
+    "company_id": 608,
+    "penalty_amount": 506965.32,
+    "incident_description": "业务合规备案缺失",
+    "incident_date": null,
+    "penalty_detail": {
+      "罚款金额": 506965.32,
+      "事件描述": "业务合规备案缺失",
+      "事件日期": null
+    }
+  },
+  {
+    "compliance_id": 92,
+    "company_id": 818,
+    "penalty_amount": 714024.39,
+    "incident_description": "涉嫌欺骗性产品承诺",
+    "incident_date": "2022-04-29",
+    "penalty_detail": {
+      "罚款金额": 714024.39,
+      "事件描述": "涉嫌欺骗性产品承诺",
+      "事件日期": "2022-04-29"
+    }
+  },
+  {
+    "compliance_id": 93,
+    "company_id": 373,
+    "penalty_amount": 271332.05,
+    "incident_description": null,
+    "incident_date": "2021-09-23",
+    "penalty_detail": {
+      "罚款金额": 271332.05,
+      "事件描述": null,
+      "事件日期": "2021-09-23"
+    }
+  },
+  {
+    "compliance_id": 94,
+    "company_id": 273,
+    "penalty_amount": 435305.72,
+    "incident_description": null,
+    "incident_date": "2021-12-15",
+    "penalty_detail": {
+      "罚款金额": 435305.72,
+      "事件描述": null,
+      "事件日期": "2021-12-15"
+    }
+  },
+  {
+    "compliance_id": 95,
+    "company_id": 931,
+    "penalty_amount": null,
+    "incident_description": "客户资金未妥善管理",
+    "incident_date": null,
+    "penalty_detail": {
+      "罚款金额": null,
+      "事件描述": "客户资金未妥善管理",
+      "事件日期": null
+    }
+  },
+  {
+    "compliance_id": 96,
+    "company_id": 897,
+    "penalty_amount": null,
+    "incident_description": null,
+    "incident_date": "2022-09-28",
+    "penalty_detail": {
+      "罚款金额": null,
+      "事件描述": null,
+      "事件日期": "2022-09-28"
+    }
+  },
+  {
+    "compliance_id": 97,
+    "company_id": 925,
+    "penalty_amount": 231470.7,
+    "incident_description": "客户资金未妥善管理",
+    "incident_date": "2020-09-23",
+    "penalty_detail": {
+      "罚款金额": 231470.7,
+      "事件描述": "客户资金未妥善管理",
+      "事件日期": "2020-09-23"
+    }
+  },
+  {
+    "compliance_id": 98,
+    "company_id": 691,
+    "penalty_amount": 370499.65,
+    "incident_description": null,
+    "incident_date": "2019-04-04",
+    "penalty_detail": {
+      "罚款金额": 370499.65,
+      "事件描述": null,
+      "事件日期": "2019-04-04"
+    }
+  },
+  {
+    "compliance_id": 99,
+    "company_id": 576,
+    "penalty_amount": null,
+    "incident_description": null,
+    "incident_date": null,
+    "penalty_detail": {
+      "罚款金额": null,
+      "事件描述": null,
+      "事件日期": null
+    }
+  },
+  {
+    "compliance_id": 100,
+    "company_id": 509,
+    "penalty_amount": 551865.28,
+    "incident_description": "安全漏洞导致用户数据泄露",
+    "incident_date": "2020-03-27",
+    "penalty_detail": {
+      "罚款金额": 551865.28,
+      "事件描述": "安全漏洞导致用户数据泄露",
+      "事件日期": "2020-03-27"
+    }
+  },
+  {
+    "compliance_id": 101,
+    "company_id": 132,
+    "penalty_amount": 167176.77,
+    "incident_description": "未按规定披露信息",
+    "incident_date": "2021-03-20",
+    "penalty_detail": {
+      "罚款金额": 167176.77,
+      "事件描述": "未按规定披露信息",
+      "事件日期": "2021-03-20"
+    }
+  },
+  {
+    "compliance_id": 102,
+    "company_id": 855,
+    "penalty_amount": 676646.43,
+    "incident_description": "非法资金流动",
+    "incident_date": "2022-05-12",
+    "penalty_detail": {
+      "罚款金额": 676646.43,
+      "事件描述": "非法资金流动",
+      "事件日期": "2022-05-12"
+    }
+  },
+  {
+    "compliance_id": 103,
+    "company_id": 924,
+    "penalty_amount": 180147.05,
+    "incident_description": "非法资金流动",
+    "incident_date": null,
+    "penalty_detail": {
+      "罚款金额": 180147.05,
+      "事件描述": "非法资金流动",
+      "事件日期": null
+    }
+  },
+  {
+    "compliance_id": 104,
+    "company_id": 784,
+    "penalty_amount": 438595.9,
+    "incident_description": "涉嫌欺骗性产品承诺",
+    "incident_date": null,
+    "penalty_detail": {
+      "罚款金额": 438595.9,
+      "事件描述": "涉嫌欺骗性产品承诺",
+      "事件日期": null
+    }
+  },
+  {
+    "compliance_id": 105,
+    "company_id": 319,
+    "penalty_amount": 612655.31,
+    "incident_description": null,
+    "incident_date": "2019-04-23",
+    "penalty_detail": {
+      "罚款金额": 612655.31,
+      "事件描述": null,
+      "事件日期": "2019-04-23"
+    }
+  },
+  {
+    "compliance_id": 106,
+    "company_id": 844,
+    "penalty_amount": 742741.18,
+    "incident_description": "客户资金未妥善管理",
+    "incident_date": "2019-01-16",
+    "penalty_detail": {
+      "罚款金额": 742741.18,
+      "事件描述": "客户资金未妥善管理",
+      "事件日期": "2019-01-16"
+    }
+  },
+  {
+    "compliance_id": 107,
+    "company_id": 949,
+    "penalty_amount": 32415.15,
+    "incident_description": "非法资金流动",
+    "incident_date": "2020-02-23",
+    "penalty_detail": {
+      "罚款金额": 32415.15,
+      "事件描述": "非法资金流动",
+      "事件日期": "2020-02-23"
+    }
+  },
+  {
+    "compliance_id": 108,
+    "company_id": 853,
+    "penalty_amount": null,
+    "incident_description": "数据隐私违规",
+    "incident_date": null,
+    "penalty_detail": {
+      "罚款金额": null,
+      "事件描述": "数据隐私违规",
+      "事件日期": null
+    }
+  },
+  {
+    "compliance_id": 109,
+    "company_id": 621,
+    "penalty_amount": 672344.93,
+    "incident_description": "非法资金流动",
+    "incident_date": "2020-09-09",
+    "penalty_detail": {
+      "罚款金额": 672344.93,
+      "事件描述": "非法资金流动",
+      "事件日期": "2020-09-09"
+    }
+  },
+  {
+    "compliance_id": 110,
+    "company_id": 785,
+    "penalty_amount": 388596.91,
+    "incident_description": "涉嫌欺骗性产品承诺",
+    "incident_date": "2020-03-08",
+    "penalty_detail": {
+      "罚款金额": 388596.91,
+      "事件描述": "涉嫌欺骗性产品承诺",
+      "事件日期": "2020-03-08"
+    }
+  },
+  {
+    "compliance_id": 111,
+    "company_id": 168,
+    "penalty_amount": 1587869.42,
+    "incident_description": null,
+    "incident_date": "2023-04-21",
+    "penalty_detail": {
+      "罚款金额": 1587869.42,
+      "事件描述": null,
+      "事件日期": "2023-04-21"
+    }
+  },
+  {
+    "compliance_id": 112,
+    "company_id": 397,
+    "penalty_amount": 0.0,
+    "incident_description": null,
+    "incident_date": "2019-10-09",
+    "penalty_detail": {
+      "罚款金额": 0.0,
+      "事件描述": null,
+      "事件日期": "2019-10-09"
+    }
+  },
+  {
+    "compliance_id": 113,
+    "company_id": 180,
+    "penalty_amount": 0.0,
+    "incident_description": "业务合规备案缺失",
+    "incident_date": "2023-04-15",
+    "penalty_detail": {
+      "罚款金额": 0.0,
+      "事件描述": "业务合规备案缺失",
+      "事件日期": "2023-04-15"
+    }
+  },
+  {
+    "compliance_id": 114,
+    "company_id": 58,
+    "penalty_amount": 721706.54,
+    "incident_description": "安全漏洞导致用户数据泄露",
+    "incident_date": "2020-06-07",
+    "penalty_detail": {
+      "罚款金额": 721706.54,
+      "事件描述": "安全漏洞导致用户数据泄露",
+      "事件日期": "2020-06-07"
+    }
+  },
+  {
+    "compliance_id": 115,
+    "company_id": 480,
+    "penalty_amount": 392220.95,
+    "incident_description": null,
+    "incident_date": "2020-08-15",
+    "penalty_detail": {
+      "罚款金额": 392220.95,
+      "事件描述": null,
+      "事件日期": "2020-08-15"
+    }
+  },
+  {
+    "compliance_id": 116,
+    "company_id": 933,
+    "penalty_amount": 430757.55,
+    "incident_description": "安全漏洞导致用户数据泄露",
+    "incident_date": null,
+    "penalty_detail": {
+      "罚款金额": 430757.55,
+      "事件描述": "安全漏洞导致用户数据泄露",
+      "事件日期": null
+    }
+  },
+  {
+    "compliance_id": 117,
+    "company_id": 591,
+    "penalty_amount": null,
+    "incident_description": null,
+    "incident_date": null,
+    "penalty_detail": {
+      "罚款金额": null,
+      "事件描述": null,
+      "事件日期": null
+    }
+  },
+  {
+    "compliance_id": 118,
+    "company_id": 460,
+    "penalty_amount": 1043318.11,
+    "incident_description": "业务合规备案缺失",
+    "incident_date": "2020-11-02",
+    "penalty_detail": {
+      "罚款金额": 1043318.11,
+      "事件描述": "业务合规备案缺失",
+      "事件日期": "2020-11-02"
+    }
+  },
+  {
+    "compliance_id": 119,
+    "company_id": 61,
+    "penalty_amount": 408261.57,
+    "incident_description": "非法资金流动",
+    "incident_date": "2019-09-03",
+    "penalty_detail": {
+      "罚款金额": 408261.57,
+      "事件描述": "非法资金流动",
+      "事件日期": "2019-09-03"
+    }
+  },
+  {
+    "compliance_id": 120,
+    "company_id": 369,
+    "penalty_amount": 578897.81,
+    "incident_description": "未按规定披露信息",
+    "incident_date": null,
+    "penalty_detail": {
+      "罚款金额": 578897.81,
+      "事件描述": "未按规定披露信息",
+      "事件日期": null
+    }
+  },
+  {
+    "compliance_id": 121,
+    "company_id": 121,
+    "penalty_amount": null,
+    "incident_description": "客户资金未妥善管理",
+    "incident_date": null,
+    "penalty_detail": {
+      "罚款金额": null,
+      "事件描述": "客户资金未妥善管理",
+      "事件日期": null
+    }
+  },
+  {
+    "compliance_id": 122,
+    "company_id": 719,
+    "penalty_amount": 731983.53,
+    "incident_description": "业务合规备案缺失",
+    "incident_date": "2019-01-16",
+    "penalty_detail": {
+      "罚款金额": 731983.53,
+      "事件描述": "业务合规备案缺失",
+      "事件日期": "2019-01-16"
+    }
+  },
+  {
+    "compliance_id": 123,
+    "company_id": 546,
+    "penalty_amount": null,
+    "incident_description": "涉嫌欺骗性产品承诺",
+    "incident_date": "2021-10-15",
+    "penalty_detail": {
+      "罚款金额": null,
+      "事件描述": "涉嫌欺骗性产品承诺",
+      "事件日期": "2021-10-15"
+    }
+  },
+  {
+    "compliance_id": 124,
+    "company_id": 582,
+    "penalty_amount": null,
+    "incident_description": null,
+    "incident_date": "2023-03-10",
+    "penalty_detail": {
+      "罚款金额": null,
+      "事件描述": null,
+      "事件日期": "2023-03-10"
+    }
+  },
+  {
+    "compliance_id": 125,
+    "company_id": 17,
+    "penalty_amount": null,
+    "incident_description": "涉嫌欺骗性产品承诺",
+    "incident_date": "2021-05-31",
+    "penalty_detail": {
+      "罚款金额": null,
+      "事件描述": "涉嫌欺骗性产品承诺",
+      "事件日期": "2021-05-31"
+    }
+  },
+  {
+    "compliance_id": 126,
+    "company_id": 496,
+    "penalty_amount": 508530.38,
+    "incident_description": null,
+    "incident_date": "2019-12-26",
+    "penalty_detail": {
+      "罚款金额": 508530.38,
+      "事件描述": null,
+      "事件日期": "2019-12-26"
+    }
+  },
+  {
+    "compliance_id": 127,
+    "company_id": 497,
+    "penalty_amount": 438728.46,
+    "incident_description": "客户资金未妥善管理",
+    "incident_date": "2019-09-22",
+    "penalty_detail": {
+      "罚款金额": 438728.46,
+      "事件描述": "客户资金未妥善管理",
+      "事件日期": "2019-09-22"
+    }
+  },
+  {
+    "compliance_id": 128,
+    "company_id": 505,
+    "penalty_amount": 190231.99,
+    "incident_description": "安全漏洞导致用户数据泄露",
+    "incident_date": null,
+    "penalty_detail": {
+      "罚款金额": 190231.99,
+      "事件描述": "安全漏洞导致用户数据泄露",
+      "事件日期": null
+    }
+  },
+  {
+    "compliance_id": 129,
+    "company_id": 532,
+    "penalty_amount": 1190507.57,
+    "incident_description": "客户资金未妥善管理",
+    "incident_date": "2021-02-17",
+    "penalty_detail": {
+      "罚款金额": 1190507.57,
+      "事件描述": "客户资金未妥善管理",
+      "事件日期": "2021-02-17"
+    }
+  },
+  {
+    "compliance_id": 130,
+    "company_id": 969,
+    "penalty_amount": 338160.2,
+    "incident_description": "客户资金未妥善管理",
+    "incident_date": "2021-12-26",
+    "penalty_detail": {
+      "罚款金额": 338160.2,
+      "事件描述": "客户资金未妥善管理",
+      "事件日期": "2021-12-26"
+    }
+  },
+  {
+    "compliance_id": 131,
+    "company_id": 315,
+    "penalty_amount": 752371.31,
+    "incident_description": null,
+    "incident_date": null,
+    "penalty_detail": {
+      "罚款金额": 752371.31,
+      "事件描述": null,
+      "事件日期": null
+    }
+  },
+  {
+    "compliance_id": 132,
+    "company_id": 69,
+    "penalty_amount": 526090.48,
+    "incident_description": "业务合规备案缺失",
+    "incident_date": "2022-12-12",
+    "penalty_detail": {
+      "罚款金额": 526090.48,
+      "事件描述": "业务合规备案缺失",
+      "事件日期": "2022-12-12"
+    }
+  },
+  {
+    "compliance_id": 133,
+    "company_id": 727,
+    "penalty_amount": 2032065.36,
+    "incident_description": "涉嫌欺骗性产品承诺",
+    "incident_date": "2020-04-16",
+    "penalty_detail": {
+      "罚款金额": 2032065.36,
+      "事件描述": "涉嫌欺骗性产品承诺",
+      "事件日期": "2020-04-16"
+    }
+  },
+  {
+    "compliance_id": 134,
+    "company_id": 161,
+    "penalty_amount": 358005.16,
+    "incident_description": "客户资金未妥善管理",
+    "incident_date": "2021-10-21",
+    "penalty_detail": {
+      "罚款金额": 358005.16,
+      "事件描述": "客户资金未妥善管理",
+      "事件日期": "2021-10-21"
+    }
+  },
+  {
+    "compliance_id": 135,
+    "company_id": 614,
+    "penalty_amount": 1466159.74,
+    "incident_description": null,
+    "incident_date": "2022-02-18",
+    "penalty_detail": {
+      "罚款金额": 1466159.74,
+      "事件描述": null,
+      "事件日期": "2022-02-18"
+    }
+  },
+  {
+    "compliance_id": 136,
+    "company_id": 888,
+    "penalty_amount": 577310.65,
+    "incident_description": "业务合规备案缺失",
+    "incident_date": "2022-09-30",
+    "penalty_detail": {
+      "罚款金额": 577310.65,
+      "事件描述": "业务合规备案缺失",
+      "事件日期": "2022-09-30"
+    }
+  },
+  {
+    "compliance_id": 137,
+    "company_id": 718,
+    "penalty_amount": 620826.52,
+    "incident_description": "客户资金未妥善管理",
+    "incident_date": "2020-12-26",
+    "penalty_detail": {
+      "罚款金额": 620826.52,
+      "事件描述": "客户资金未妥善管理",
+      "事件日期": "2020-12-26"
+    }
+  },
+  {
+    "compliance_id": 138,
+    "company_id": 145,
+    "penalty_amount": null,
+    "incident_description": "涉嫌欺骗性产品承诺",
+    "incident_date": "2019-05-28",
+    "penalty_detail": {
+      "罚款金额": null,
+      "事件描述": "涉嫌欺骗性产品承诺",
+      "事件日期": "2019-05-28"
+    }
+  },
+  {
+    "compliance_id": 139,
+    "company_id": 569,
+    "penalty_amount": null,
+    "incident_description": "涉嫌欺骗性产品承诺",
+    "incident_date": null,
+    "penalty_detail": {
+      "罚款金额": null,
+      "事件描述": "涉嫌欺骗性产品承诺",
+      "事件日期": null
+    }
+  },
+  {
+    "compliance_id": 140,
+    "company_id": 595,
+    "penalty_amount": 328064.17,
+    "incident_description": "未按规定披露信息",
+    "incident_date": "2021-03-24",
+    "penalty_detail": {
+      "罚款金额": 328064.17,
+      "事件描述": "未按规定披露信息",
+      "事件日期": "2021-03-24"
+    }
+  },
+  {
+    "compliance_id": 141,
+    "company_id": 993,
+    "penalty_amount": 428915.95,
+    "incident_description": null,
+    "incident_date": "2023-02-28",
+    "penalty_detail": {
+      "罚款金额": 428915.95,
+      "事件描述": null,
+      "事件日期": "2023-02-28"
+    }
+  },
+  {
+    "compliance_id": 142,
+    "company_id": 385,
+    "penalty_amount": 796181.37,
+    "incident_description": null,
+    "incident_date": null,
+    "penalty_detail": {
+      "罚款金额": 796181.37,
+      "事件描述": null,
+      "事件日期": null
+    }
+  },
+  {
+    "compliance_id": 143,
+    "company_id": 269,
+    "penalty_amount": 299863.36,
+    "incident_description": "非法资金流动",
+    "incident_date": null,
+    "penalty_detail": {
+      "罚款金额": 299863.36,
+      "事件描述": "非法资金流动",
+      "事件日期": null
+    }
+  },
+  {
+    "compliance_id": 144,
+    "company_id": 923,
+    "penalty_amount": null,
+    "incident_description": null,
+    "incident_date": "2019-03-28",
+    "penalty_detail": {
+      "罚款金额": null,
+      "事件描述": null,
+      "事件日期": "2019-03-28"
+    }
+  },
+  {
+    "compliance_id": 145,
+    "company_id": 454,
+    "penalty_amount": 645971.58,
+    "incident_description": "数据隐私违规",
+    "incident_date": "2021-06-12",
+    "penalty_detail": {
+      "罚款金额": 645971.58,
+      "事件描述": "数据隐私违规",
+      "事件日期": "2021-06-12"
+    }
+  },
+  {
+    "compliance_id": 146,
+    "company_id": 699,
+    "penalty_amount": 635270.85,
+    "incident_description": "涉嫌欺骗性产品承诺",
+    "incident_date": null,
+    "penalty_detail": {
+      "罚款金额": 635270.85,
+      "事件描述": "涉嫌欺骗性产品承诺",
+      "事件日期": null
+    }
+  },
+  {
+    "compliance_id": 147,
+    "company_id": 518,
+    "penalty_amount": 611083.67,
+    "incident_description": "数据隐私违规",
+    "incident_date": null,
+    "penalty_detail": {
+      "罚款金额": 611083.67,
+      "事件描述": "数据隐私违规",
+      "事件日期": null
+    }
+  },
+  {
+    "compliance_id": 148,
+    "company_id": 865,
+    "penalty_amount": 516168.72,
+    "incident_description": null,
+    "incident_date": "2019-02-08",
+    "penalty_detail": {
+      "罚款金额": 516168.72,
+      "事件描述": null,
+      "事件日期": "2019-02-08"
+    }
+  },
+  {
+    "compliance_id": 149,
+    "company_id": 350,
+    "penalty_amount": 286973.28,
+    "incident_description": "未按规定披露信息",
+    "incident_date": null,
+    "penalty_detail": {
+      "罚款金额": 286973.28,
+      "事件描述": "未按规定披露信息",
+      "事件日期": null
+    }
+  },
+  {
+    "compliance_id": 150,
+    "company_id": 110,
+    "penalty_amount": null,
+    "incident_description": null,
+    "incident_date": "2021-07-30",
+    "penalty_detail": {
+      "罚款金额": null,
+      "事件描述": null,
+      "事件日期": "2021-07-30"
+    }
+  },
+  {
+    "compliance_id": 151,
+    "company_id": 483,
+    "penalty_amount": 725298.04,
+    "incident_description": "非法资金流动",
+    "incident_date": "2019-06-09",
+    "penalty_detail": {
+      "罚款金额": 725298.04,
+      "事件描述": "非法资金流动",
+      "事件日期": "2019-06-09"
+    }
+  },
+  {
+    "compliance_id": 152,
+    "company_id": 407,
+    "penalty_amount": 654727.47,
+    "incident_description": "业务合规备案缺失",
+    "incident_date": "2020-10-03",
+    "penalty_detail": {
+      "罚款金额": 654727.47,
+      "事件描述": "业务合规备案缺失",
+      "事件日期": "2020-10-03"
+    }
+  },
+  {
+    "compliance_id": 153,
+    "company_id": 650,
+    "penalty_amount": null,
+    "incident_description": "非法资金流动",
+    "incident_date": "2022-03-25",
+    "penalty_detail": {
+      "罚款金额": null,
+      "事件描述": "非法资金流动",
+      "事件日期": "2022-03-25"
+    }
+  },
+  {
+    "compliance_id": 154,
+    "company_id": 51,
+    "penalty_amount": 673891.53,
+    "incident_description": "非法资金流动",
+    "incident_date": null,
+    "penalty_detail": {
+      "罚款金额": 673891.53,
+      "事件描述": "非法资金流动",
+      "事件日期": null
+    }
+  },
+  {
+    "compliance_id": 155,
+    "company_id": 403,
+    "penalty_amount": null,
+    "incident_description": null,
+    "incident_date": "2021-05-29",
+    "penalty_detail": {
+      "罚款金额": null,
+      "事件描述": null,
+      "事件日期": "2021-05-29"
+    }
+  },
+  {
+    "compliance_id": 156,
+    "company_id": 563,
+    "penalty_amount": 510766.16,
+    "incident_description": "业务合规备案缺失",
+    "incident_date": null,
+    "penalty_detail": {
+      "罚款金额": 510766.16,
+      "事件描述": "业务合规备案缺失",
+      "事件日期": null
+    }
+  },
+  {
+    "compliance_id": 157,
+    "company_id": 476,
+    "penalty_amount": 1459428.49,
+    "incident_description": null,
+    "incident_date": "2022-03-20",
+    "penalty_detail": {
+      "罚款金额": 1459428.49,
+      "事件描述": null,
+      "事件日期": "2022-03-20"
+    }
+  },
+  {
+    "compliance_id": 158,
+    "company_id": 87,
+    "penalty_amount": 1884748.03,
+    "incident_description": null,
+    "incident_date": "2021-04-08",
+    "penalty_detail": {
+      "罚款金额": 1884748.03,
+      "事件描述": null,
+      "事件日期": "2021-04-08"
+    }
+  },
+  {
+    "compliance_id": 159,
+    "company_id": 68,
+    "penalty_amount": 360856.72,
+    "incident_description": "未按规定披露信息",
+    "incident_date": null,
+    "penalty_detail": {
+      "罚款金额": 360856.72,
+      "事件描述": "未按规定披露信息",
+      "事件日期": null
+    }
+  },
+  {
+    "compliance_id": 160,
+    "company_id": 596,
+    "penalty_amount": null,
+    "incident_description": "客户资金未妥善管理",
+    "incident_date": "2022-12-24",
+    "penalty_detail": {
+      "罚款金额": null,
+      "事件描述": "客户资金未妥善管理",
+      "事件日期": "2022-12-24"
+    }
+  },
+  {
+    "compliance_id": 161,
+    "company_id": 979,
+    "penalty_amount": 744615.6,
+    "incident_description": "非法资金流动",
+    "incident_date": "2022-08-04",
+    "penalty_detail": {
+      "罚款金额": 744615.6,
+      "事件描述": "非法资金流动",
+      "事件日期": "2022-08-04"
+    }
+  },
+  {
+    "compliance_id": 162,
+    "company_id": 42,
+    "penalty_amount": null,
+    "incident_description": "非法资金流动",
+    "incident_date": "2021-05-05",
+    "penalty_detail": {
+      "罚款金额": null,
+      "事件描述": "非法资金流动",
+      "事件日期": "2021-05-05"
+    }
+  },
+  {
+    "compliance_id": 163,
+    "company_id": 731,
+    "penalty_amount": 493098.43,
+    "incident_description": "未按规定披露信息",
+    "incident_date": "2020-08-15",
+    "penalty_detail": {
+      "罚款金额": 493098.43,
+      "事件描述": "未按规定披露信息",
+      "事件日期": "2020-08-15"
+    }
+  },
+  {
+    "compliance_id": 164,
+    "company_id": 57,
+    "penalty_amount": 598955.49,
+    "incident_description": "客户资金未妥善管理",
+    "incident_date": "2019-08-24",
+    "penalty_detail": {
+      "罚款金额": 598955.49,
+      "事件描述": "客户资金未妥善管理",
+      "事件日期": "2019-08-24"
+    }
+  },
+  {
+    "compliance_id": 165,
+    "company_id": 738,
+    "penalty_amount": 187943.5,
+    "incident_description": "非法资金流动",
+    "incident_date": "2021-04-09",
+    "penalty_detail": {
+      "罚款金额": 187943.5,
+      "事件描述": "非法资金流动",
+      "事件日期": "2021-04-09"
+    }
+  },
+  {
+    "compliance_id": 166,
+    "company_id": 196,
+    "penalty_amount": 916417.55,
+    "incident_description": null,
+    "incident_date": "2019-02-12",
+    "penalty_detail": {
+      "罚款金额": 916417.55,
+      "事件描述": null,
+      "事件日期": "2019-02-12"
+    }
+  },
+  {
+    "compliance_id": 167,
+    "company_id": 760,
+    "penalty_amount": 725778.31,
+    "incident_description": "非法资金流动",
+    "incident_date": "2020-10-27",
+    "penalty_detail": {
+      "罚款金额": 725778.31,
+      "事件描述": "非法资金流动",
+      "事件日期": "2020-10-27"
+    }
+  },
+  {
+    "compliance_id": 168,
+    "company_id": 678,
+    "penalty_amount": 792802.72,
+    "incident_description": null,
+    "incident_date": "2019-12-18",
+    "penalty_detail": {
+      "罚款金额": 792802.72,
+      "事件描述": null,
+      "事件日期": "2019-12-18"
+    }
+  },
+  {
+    "compliance_id": 169,
+    "company_id": 62,
+    "penalty_amount": 506151.43,
+    "incident_description": "客户资金未妥善管理",
+    "incident_date": null,
+    "penalty_detail": {
+      "罚款金额": 506151.43,
+      "事件描述": "客户资金未妥善管理",
+      "事件日期": null
+    }
+  },
+  {
+    "compliance_id": 170,
+    "company_id": 263,
+    "penalty_amount": 427942.16,
+    "incident_description": "涉嫌欺骗性产品承诺",
+    "incident_date": "2023-06-30",
+    "penalty_detail": {
+      "罚款金额": 427942.16,
+      "事件描述": "涉嫌欺骗性产品承诺",
+      "事件日期": "2023-06-30"
+    }
+  },
+  {
+    "compliance_id": 171,
+    "company_id": 112,
+    "penalty_amount": 365138.56,
+    "incident_description": "安全漏洞导致用户数据泄露",
+    "incident_date": "2022-06-19",
+    "penalty_detail": {
+      "罚款金额": 365138.56,
+      "事件描述": "安全漏洞导致用户数据泄露",
+      "事件日期": "2022-06-19"
+    }
+  },
+  {
+    "compliance_id": 172,
+    "company_id": 765,
+    "penalty_amount": 662714.92,
+    "incident_description": "业务合规备案缺失",
+    "incident_date": "2021-07-31",
+    "penalty_detail": {
+      "罚款金额": 662714.92,
+      "事件描述": "业务合规备案缺失",
+      "事件日期": "2021-07-31"
+    }
+  },
+  {
+    "compliance_id": 173,
+    "company_id": 711,
+    "penalty_amount": 397490.58,
+    "incident_description": null,
+    "incident_date": "2022-11-13",
+    "penalty_detail": {
+      "罚款金额": 397490.58,
+      "事件描述": null,
+      "事件日期": "2022-11-13"
+    }
+  },
+  {
+    "compliance_id": 174,
+    "company_id": 178,
+    "penalty_amount": null,
+    "incident_description": "涉嫌欺骗性产品承诺",
+    "incident_date": "2021-01-11",
+    "penalty_detail": {
+      "罚款金额": null,
+      "事件描述": "涉嫌欺骗性产品承诺",
+      "事件日期": "2021-01-11"
+    }
+  },
+  {
+    "compliance_id": 175,
+    "company_id": 948,
+    "penalty_amount": 609279.83,
+    "incident_description": "安全漏洞导致用户数据泄露",
+    "incident_date": "2019-06-30",
+    "penalty_detail": {
+      "罚款金额": 609279.83,
+      "事件描述": "安全漏洞导致用户数据泄露",
+      "事件日期": "2019-06-30"
+    }
+  },
+  {
+    "compliance_id": 176,
+    "company_id": 26,
+    "penalty_amount": 1479133.6,
+    "incident_description": "业务合规备案缺失",
+    "incident_date": "2021-06-13",
+    "penalty_detail": {
+      "罚款金额": 1479133.6,
+      "事件描述": "业务合规备案缺失",
+      "事件日期": "2021-06-13"
+    }
+  },
+  {
+    "compliance_id": 177,
+    "company_id": 410,
+    "penalty_amount": 708789.35,
+    "incident_description": "业务合规备案缺失",
+    "incident_date": null,
+    "penalty_detail": {
+      "罚款金额": 708789.35,
+      "事件描述": "业务合规备案缺失",
+      "事件日期": null
+    }
+  },
+  {
+    "compliance_id": 178,
+    "company_id": 758,
+    "penalty_amount": 496451.78,
+    "incident_description": "安全漏洞导致用户数据泄露",
+    "incident_date": null,
+    "penalty_detail": {
+      "罚款金额": 496451.78,
+      "事件描述": "安全漏洞导致用户数据泄露",
+      "事件日期": null
+    }
+  },
+  {
+    "compliance_id": 179,
+    "company_id": 531,
+    "penalty_amount": 198376.14,
+    "incident_description": "非法资金流动",
+    "incident_date": "2019-08-05",
+    "penalty_detail": {
+      "罚款金额": 198376.14,
+      "事件描述": "非法资金流动",
+      "事件日期": "2019-08-05"
+    }
+  },
+  {
+    "compliance_id": 180,
+    "company_id": 777,
+    "penalty_amount": 365999.46,
+    "incident_description": "业务合规备案缺失",
+    "incident_date": "2020-05-13",
+    "penalty_detail": {
+      "罚款金额": 365999.46,
+      "事件描述": "业务合规备案缺失",
+      "事件日期": "2020-05-13"
+    }
+  },
+  {
+    "compliance_id": 181,
+    "company_id": 317,
+    "penalty_amount": 761637.09,
+    "incident_description": null,
+    "incident_date": "2021-06-11",
+    "penalty_detail": {
+      "罚款金额": 761637.09,
+      "事件描述": null,
+      "事件日期": "2021-06-11"
+    }
+  },
+  {
+    "compliance_id": 182,
+    "company_id": 532,
+    "penalty_amount": 312599.5,
+    "incident_description": null,
+    "incident_date": null,
+    "penalty_detail": {
+      "罚款金额": 312599.5,
+      "事件描述": null,
+      "事件日期": null
+    }
+  },
+  {
+    "compliance_id": 183,
+    "company_id": 106,
+    "penalty_amount": 678815.5,
+    "incident_description": "安全漏洞导致用户数据泄露",
+    "incident_date": null,
+    "penalty_detail": {
+      "罚款金额": 678815.5,
+      "事件描述": "安全漏洞导致用户数据泄露",
+      "事件日期": null
+    }
+  },
+  {
+    "compliance_id": 184,
+    "company_id": 749,
+    "penalty_amount": 524334.69,
+    "incident_description": null,
+    "incident_date": null,
+    "penalty_detail": {
+      "罚款金额": 524334.69,
+      "事件描述": null,
+      "事件日期": null
+    }
+  },
+  {
+    "compliance_id": 185,
+    "company_id": 818,
+    "penalty_amount": 465659.94,
+    "incident_description": "数据隐私违规",
+    "incident_date": "2022-04-21",
+    "penalty_detail": {
+      "罚款金额": 465659.94,
+      "事件描述": "数据隐私违规",
+      "事件日期": "2022-04-21"
+    }
+  },
+  {
+    "compliance_id": 186,
+    "company_id": 464,
+    "penalty_amount": 1002518.83,
+    "incident_description": "客户资金未妥善管理",
+    "incident_date": "2021-03-31",
+    "penalty_detail": {
+      "罚款金额": 1002518.83,
+      "事件描述": "客户资金未妥善管理",
+      "事件日期": "2021-03-31"
+    }
+  },
+  {
+    "compliance_id": 187,
+    "company_id": 246,
+    "penalty_amount": 243156.75,
+    "incident_description": "客户资金未妥善管理",
+    "incident_date": null,
+    "penalty_detail": {
+      "罚款金额": 243156.75,
+      "事件描述": "客户资金未妥善管理",
+      "事件日期": null
+    }
+  },
+  {
+    "compliance_id": 188,
+    "company_id": 81,
+    "penalty_amount": 1282392.83,
+    "incident_description": "数据隐私违规",
+    "incident_date": "2021-12-09",
+    "penalty_detail": {
+      "罚款金额": 1282392.83,
+      "事件描述": "数据隐私违规",
+      "事件日期": "2021-12-09"
+    }
+  },
+  {
+    "compliance_id": 189,
+    "company_id": 662,
+    "penalty_amount": 495313.99,
+    "incident_description": null,
+    "incident_date": "2019-06-11",
+    "penalty_detail": {
+      "罚款金额": 495313.99,
+      "事件描述": null,
+      "事件日期": "2019-06-11"
+    }
+  },
+  {
+    "compliance_id": 190,
+    "company_id": 909,
+    "penalty_amount": 983149.88,
+    "incident_description": "客户资金未妥善管理",
+    "incident_date": null,
+    "penalty_detail": {
+      "罚款金额": 983149.88,
+      "事件描述": "客户资金未妥善管理",
+      "事件日期": null
+    }
+  },
+  {
+    "compliance_id": 191,
+    "company_id": 396,
+    "penalty_amount": null,
+    "incident_description": "未按规定披露信息",
+    "incident_date": "2021-03-21",
+    "penalty_detail": {
+      "罚款金额": null,
+      "事件描述": "未按规定披露信息",
+      "事件日期": "2021-03-21"
+    }
+  },
+  {
+    "compliance_id": 192,
+    "company_id": 522,
+    "penalty_amount": 554850.59,
+    "incident_description": "安全漏洞导致用户数据泄露",
+    "incident_date": "2020-09-27",
+    "penalty_detail": {
+      "罚款金额": 554850.59,
+      "事件描述": "安全漏洞导致用户数据泄露",
+      "事件日期": "2020-09-27"
+    }
+  },
+  {
+    "compliance_id": 193,
+    "company_id": 833,
+    "penalty_amount": 432832.9,
+    "incident_description": null,
+    "incident_date": null,
+    "penalty_detail": {
+      "罚款金额": 432832.9,
+      "事件描述": null,
+      "事件日期": null
+    }
+  },
+  {
+    "compliance_id": 194,
+    "company_id": 736,
+    "penalty_amount": null,
+    "incident_description": "客户资金未妥善管理",
+    "incident_date": null,
+    "penalty_detail": {
+      "罚款金额": null,
+      "事件描述": "客户资金未妥善管理",
+      "事件日期": null
+    }
+  },
+  {
+    "compliance_id": 195,
+    "company_id": 926,
+    "penalty_amount": 445236.52,
+    "incident_description": null,
+    "incident_date": "2023-03-08",
+    "penalty_detail": {
+      "罚款金额": 445236.52,
+      "事件描述": null,
+      "事件日期": "2023-03-08"
+    }
+  },
+  {
+    "compliance_id": 196,
+    "company_id": 264,
+    "penalty_amount": 639064.52,
+    "incident_description": "客户资金未妥善管理",
+    "incident_date": "2020-11-26",
+    "penalty_detail": {
+      "罚款金额": 639064.52,
+      "事件描述": "客户资金未妥善管理",
+      "事件日期": "2020-11-26"
+    }
+  },
+  {
+    "compliance_id": 197,
+    "company_id": 661,
+    "penalty_amount": 654837.47,
+    "incident_description": null,
+    "incident_date": "2020-03-29",
+    "penalty_detail": {
+      "罚款金额": 654837.47,
+      "事件描述": null,
+      "事件日期": "2020-03-29"
+    }
+  },
+  {
+    "compliance_id": 198,
+    "company_id": 790,
+    "penalty_amount": 453178.97,
+    "incident_description": "客户资金未妥善管理",
+    "incident_date": "2020-11-13",
+    "penalty_detail": {
+      "罚款金额": 453178.97,
+      "事件描述": "客户资金未妥善管理",
+      "事件日期": "2020-11-13"
+    }
+  },
+  {
+    "compliance_id": 199,
+    "company_id": 274,
+    "penalty_amount": 274903.99,
+    "incident_description": "业务合规备案缺失",
+    "incident_date": null,
+    "penalty_detail": {
+      "罚款金额": 274903.99,
+      "事件描述": "业务合规备案缺失",
+      "事件日期": null
+    }
+  },
+  {
+    "compliance_id": 200,
+    "company_id": 706,
+    "penalty_amount": null,
+    "incident_description": null,
+    "incident_date": "2023-05-15",
+    "penalty_detail": {
+      "罚款金额": null,
+      "事件描述": null,
+      "事件日期": "2023-05-15"
+    }
+  },
+  {
+    "compliance_id": 201,
+    "company_id": 944,
+    "penalty_amount": null,
+    "incident_description": null,
+    "incident_date": "2019-12-11",
+    "penalty_detail": {
+      "罚款金额": null,
+      "事件描述": null,
+      "事件日期": "2019-12-11"
+    }
+  },
+  {
+    "compliance_id": 202,
+    "company_id": 172,
+    "penalty_amount": 334667.88,
+    "incident_description": "涉嫌欺骗性产品承诺",
+    "incident_date": "2019-06-06",
+    "penalty_detail": {
+      "罚款金额": 334667.88,
+      "事件描述": "涉嫌欺骗性产品承诺",
+      "事件日期": "2019-06-06"
+    }
+  },
+  {
+    "compliance_id": 203,
+    "company_id": 265,
+    "penalty_amount": 1446988.7,
+    "incident_description": null,
+    "incident_date": "2021-11-11",
+    "penalty_detail": {
+      "罚款金额": 1446988.7,
+      "事件描述": null,
+      "事件日期": "2021-11-11"
+    }
+  },
+  {
+    "compliance_id": 204,
+    "company_id": 963,
+    "penalty_amount": 258851.91,
+    "incident_description": "未按规定披露信息",
+    "incident_date": "2022-07-20",
+    "penalty_detail": {
+      "罚款金额": 258851.91,
+      "事件描述": "未按规定披露信息",
+      "事件日期": "2022-07-20"
+    }
+  },
+  {
+    "compliance_id": 205,
+    "company_id": 822,
+    "penalty_amount": 292038.53,
+    "incident_description": "客户资金未妥善管理",
+    "incident_date": "2019-08-22",
+    "penalty_detail": {
+      "罚款金额": 292038.53,
+      "事件描述": "客户资金未妥善管理",
+      "事件日期": "2019-08-22"
+    }
+  },
+  {
+    "compliance_id": 206,
+    "company_id": 26,
+    "penalty_amount": null,
+    "incident_description": "未按规定披露信息",
+    "incident_date": "2021-12-22",
+    "penalty_detail": {
+      "罚款金额": null,
+      "事件描述": "未按规定披露信息",
+      "事件日期": "2021-12-22"
+    }
+  },
+  {
+    "compliance_id": 207,
+    "company_id": 469,
+    "penalty_amount": 638306.68,
+    "incident_description": "业务合规备案缺失",
+    "incident_date": "2021-11-10",
+    "penalty_detail": {
+      "罚款金额": 638306.68,
+      "事件描述": "业务合规备案缺失",
+      "事件日期": "2021-11-10"
+    }
+  },
+  {
+    "compliance_id": 208,
+    "company_id": 862,
+    "penalty_amount": 569793.03,
+    "incident_description": null,
+    "incident_date": null,
+    "penalty_detail": {
+      "罚款金额": 569793.03,
+      "事件描述": null,
+      "事件日期": null
+    }
+  },
+  {
+    "compliance_id": 209,
+    "company_id": 476,
+    "penalty_amount": 35645.35,
+    "incident_description": "未按规定披露信息",
+    "incident_date": "2020-02-02",
+    "penalty_detail": {
+      "罚款金额": 35645.35,
+      "事件描述": "未按规定披露信息",
+      "事件日期": "2020-02-02"
+    }
+  },
+  {
+    "compliance_id": 210,
+    "company_id": 356,
+    "penalty_amount": null,
+    "incident_description": null,
+    "incident_date": "2023-05-09",
+    "penalty_detail": {
+      "罚款金额": null,
+      "事件描述": null,
+      "事件日期": "2023-05-09"
+    }
+  },
+  {
+    "compliance_id": 211,
+    "company_id": 26,
+    "penalty_amount": 621362.8,
+    "incident_description": "未按规定披露信息",
+    "incident_date": "2020-12-16",
+    "penalty_detail": {
+      "罚款金额": 621362.8,
+      "事件描述": "未按规定披露信息",
+      "事件日期": "2020-12-16"
+    }
+  },
+  {
+    "compliance_id": 212,
+    "company_id": 34,
+    "penalty_amount": null,
+    "incident_description": "数据隐私违规",
+    "incident_date": "2020-12-20",
+    "penalty_detail": {
+      "罚款金额": null,
+      "事件描述": "数据隐私违规",
+      "事件日期": "2020-12-20"
+    }
+  },
+  {
+    "compliance_id": 213,
+    "company_id": 264,
+    "penalty_amount": 429222.92,
+    "incident_description": "业务合规备案缺失",
+    "incident_date": null,
+    "penalty_detail": {
+      "罚款金额": 429222.92,
+      "事件描述": "业务合规备案缺失",
+      "事件日期": null
+    }
+  },
+  {
+    "compliance_id": 214,
+    "company_id": 138,
+    "penalty_amount": null,
+    "incident_description": null,
+    "incident_date": null,
+    "penalty_detail": {
+      "罚款金额": null,
+      "事件描述": null,
+      "事件日期": null
+    }
+  },
+  {
+    "compliance_id": 215,
+    "company_id": 816,
+    "penalty_amount": null,
+    "incident_description": "客户资金未妥善管理",
+    "incident_date": null,
+    "penalty_detail": {
+      "罚款金额": null,
+      "事件描述": "客户资金未妥善管理",
+      "事件日期": null
+    }
+  },
+  {
+    "compliance_id": 216,
+    "company_id": 695,
+    "penalty_amount": 164142.68,
+    "incident_description": "涉嫌欺骗性产品承诺",
+    "incident_date": "2023-01-29",
+    "penalty_detail": {
+      "罚款金额": 164142.68,
+      "事件描述": "涉嫌欺骗性产品承诺",
+      "事件日期": "2023-01-29"
+    }
+  },
+  {
+    "compliance_id": 217,
+    "company_id": 875,
+    "penalty_amount": null,
+    "incident_description": "涉嫌欺骗性产品承诺",
+    "incident_date": "2022-08-14",
+    "penalty_detail": {
+      "罚款金额": null,
+      "事件描述": "涉嫌欺骗性产品承诺",
+      "事件日期": "2022-08-14"
+    }
+  },
+  {
+    "compliance_id": 218,
+    "company_id": 754,
+    "penalty_amount": 566897.04,
+    "incident_description": "安全漏洞导致用户数据泄露",
+    "incident_date": null,
+    "penalty_detail": {
+      "罚款金额": 566897.04,
+      "事件描述": "安全漏洞导致用户数据泄露",
+      "事件日期": null
+    }
+  },
+  {
+    "compliance_id": 219,
+    "company_id": 566,
+    "penalty_amount": 388600.29,
+    "incident_description": "涉嫌欺骗性产品承诺",
+    "incident_date": null,
+    "penalty_detail": {
+      "罚款金额": 388600.29,
+      "事件描述": "涉嫌欺骗性产品承诺",
+      "事件日期": null
+    }
+  },
+  {
+    "compliance_id": 220,
+    "company_id": 462,
+    "penalty_amount": 675609.73,
+    "incident_description": null,
+    "incident_date": "2019-10-30",
+    "penalty_detail": {
+      "罚款金额": 675609.73,
+      "事件描述": null,
+      "事件日期": "2019-10-30"
+    }
+  },
+  {
+    "compliance_id": 221,
+    "company_id": 168,
+    "penalty_amount": 524203.68,
+    "incident_description": "涉嫌欺骗性产品承诺",
+    "incident_date": null,
+    "penalty_detail": {
+      "罚款金额": 524203.68,
+      "事件描述": "涉嫌欺骗性产品承诺",
+      "事件日期": null
+    }
+  },
+  {
+    "compliance_id": 222,
+    "company_id": 631,
+    "penalty_amount": 876106.94,
+    "incident_description": "客户资金未妥善管理",
+    "incident_date": "2020-04-28",
+    "penalty_detail": {
+      "罚款金额": 876106.94,
+      "事件描述": "客户资金未妥善管理",
+      "事件日期": "2020-04-28"
+    }
+  },
+  {
+    "compliance_id": 223,
+    "company_id": 655,
+    "penalty_amount": 252503.56,
+    "incident_description": "涉嫌欺骗性产品承诺",
+    "incident_date": "2019-07-30",
+    "penalty_detail": {
+      "罚款金额": 252503.56,
+      "事件描述": "涉嫌欺骗性产品承诺",
+      "事件日期": "2019-07-30"
+    }
+  },
+  {
+    "compliance_id": 224,
+    "company_id": 81,
+    "penalty_amount": 566354.34,
+    "incident_description": "业务合规备案缺失",
+    "incident_date": null,
+    "penalty_detail": {
+      "罚款金额": 566354.34,
+      "事件描述": "业务合规备案缺失",
+      "事件日期": null
+    }
+  },
+  {
+    "compliance_id": 225,
+    "company_id": 757,
+    "penalty_amount": 340957.05,
+    "incident_description": null,
+    "incident_date": null,
+    "penalty_detail": {
+      "罚款金额": 340957.05,
+      "事件描述": null,
+      "事件日期": null
+    }
+  },
+  {
+    "compliance_id": 226,
+    "company_id": 914,
+    "penalty_amount": 620042.54,
+    "incident_description": "业务合规备案缺失",
+    "incident_date": null,
+    "penalty_detail": {
+      "罚款金额": 620042.54,
+      "事件描述": "业务合规备案缺失",
+      "事件日期": null
+    }
+  },
+  {
+    "compliance_id": 227,
+    "company_id": 864,
+    "penalty_amount": 523987.18,
+    "incident_description": "未按规定披露信息",
+    "incident_date": "2019-10-27",
+    "penalty_detail": {
+      "罚款金额": 523987.18,
+      "事件描述": "未按规定披露信息",
+      "事件日期": "2019-10-27"
+    }
+  },
+  {
+    "compliance_id": 228,
+    "company_id": 870,
+    "penalty_amount": 1738323.78,
+    "incident_description": null,
+    "incident_date": null,
+    "penalty_detail": {
+      "罚款金额": 1738323.78,
+      "事件描述": null,
+      "事件日期": null
+    }
+  },
+  {
+    "compliance_id": 229,
+    "company_id": 407,
+    "penalty_amount": 468569.55,
+    "incident_description": "安全漏洞导致用户数据泄露",
+    "incident_date": "2020-06-08",
+    "penalty_detail": {
+      "罚款金额": 468569.55,
+      "事件描述": "安全漏洞导致用户数据泄露",
+      "事件日期": "2020-06-08"
+    }
+  },
+  {
+    "compliance_id": 230,
+    "company_id": 574,
+    "penalty_amount": 514619.62,
+    "incident_description": "数据隐私违规",
+    "incident_date": "2020-02-09",
+    "penalty_detail": {
+      "罚款金额": 514619.62,
+      "事件描述": "数据隐私违规",
+      "事件日期": "2020-02-09"
+    }
+  },
+  {
+    "compliance_id": 231,
+    "company_id": 46,
+    "penalty_amount": 380138.21,
+    "incident_description": "非法资金流动",
+    "incident_date": null,
+    "penalty_detail": {
+      "罚款金额": 380138.21,
+      "事件描述": "非法资金流动",
+      "事件日期": null
+    }
+  },
+  {
+    "compliance_id": 232,
+    "company_id": 599,
+    "penalty_amount": null,
+    "incident_description": "涉嫌欺骗性产品承诺",
+    "incident_date": null,
+    "penalty_detail": {
+      "罚款金额": null,
+      "事件描述": "涉嫌欺骗性产品承诺",
+      "事件日期": null
+    }
+  },
+  {
+    "compliance_id": 233,
+    "company_id": 611,
+    "penalty_amount": 293781.48,
+    "incident_description": "非法资金流动",
+    "incident_date": "2019-12-22",
+    "penalty_detail": {
+      "罚款金额": 293781.48,
+      "事件描述": "非法资金流动",
+      "事件日期": "2019-12-22"
+    }
+  },
+  {
+    "compliance_id": 234,
+    "company_id": 807,
+    "penalty_amount": 918201.71,
+    "incident_description": null,
+    "incident_date": "2022-05-18",
+    "penalty_detail": {
+      "罚款金额": 918201.71,
+      "事件描述": null,
+      "事件日期": "2022-05-18"
+    }
+  },
+  {
+    "compliance_id": 235,
+    "company_id": 911,
+    "penalty_amount": 690738.06,
+    "incident_description": "非法资金流动",
+    "incident_date": "2019-11-10",
+    "penalty_detail": {
+      "罚款金额": 690738.06,
+      "事件描述": "非法资金流动",
+      "事件日期": "2019-11-10"
+    }
+  },
+  {
+    "compliance_id": 236,
+    "company_id": 53,
+    "penalty_amount": 569748.22,
+    "incident_description": "非法资金流动",
+    "incident_date": null,
+    "penalty_detail": {
+      "罚款金额": 569748.22,
+      "事件描述": "非法资金流动",
+      "事件日期": null
+    }
+  },
+  {
+    "compliance_id": 237,
+    "company_id": 984,
+    "penalty_amount": 1069062.85,
+    "incident_description": "未按规定披露信息",
+    "incident_date": null,
+    "penalty_detail": {
+      "罚款金额": 1069062.85,
+      "事件描述": "未按规定披露信息",
+      "事件日期": null
+    }
+  },
+  {
+    "compliance_id": 238,
+    "company_id": 704,
+    "penalty_amount": 438140.23,
+    "incident_description": "业务合规备案缺失",
+    "incident_date": null,
+    "penalty_detail": {
+      "罚款金额": 438140.23,
+      "事件描述": "业务合规备案缺失",
+      "事件日期": null
+    }
+  },
+  {
+    "compliance_id": 239,
+    "company_id": 959,
+    "penalty_amount": 622275.17,
+    "incident_description": "涉嫌欺骗性产品承诺",
+    "incident_date": "2023-04-06",
+    "penalty_detail": {
+      "罚款金额": 622275.17,
+      "事件描述": "涉嫌欺骗性产品承诺",
+      "事件日期": "2023-04-06"
+    }
+  },
+  {
+    "compliance_id": 240,
+    "company_id": 476,
+    "penalty_amount": 544536.09,
+    "incident_description": null,
+    "incident_date": "2023-04-04",
+    "penalty_detail": {
+      "罚款金额": 544536.09,
+      "事件描述": null,
+      "事件日期": "2023-04-04"
+    }
+  },
+  {
+    "compliance_id": 241,
+    "company_id": 592,
+    "penalty_amount": 659493.54,
+    "incident_description": null,
+    "incident_date": "2022-09-04",
+    "penalty_detail": {
+      "罚款金额": 659493.54,
+      "事件描述": null,
+      "事件日期": "2022-09-04"
+    }
+  },
+  {
+    "compliance_id": 242,
+    "company_id": 16,
+    "penalty_amount": 1732303.63,
+    "incident_description": "客户资金未妥善管理",
+    "incident_date": "2019-06-04",
+    "penalty_detail": {
+      "罚款金额": 1732303.63,
+      "事件描述": "客户资金未妥善管理",
+      "事件日期": "2019-06-04"
+    }
+  },
+  {
+    "compliance_id": 243,
+    "company_id": 360,
+    "penalty_amount": 609789.88,
+    "incident_description": "未按规定披露信息",
+    "incident_date": null,
+    "penalty_detail": {
+      "罚款金额": 609789.88,
+      "事件描述": "未按规定披露信息",
+      "事件日期": null
+    }
+  },
+  {
+    "compliance_id": 244,
+    "company_id": 487,
+    "penalty_amount": null,
+    "incident_description": "安全漏洞导致用户数据泄露",
+    "incident_date": "2019-12-29",
+    "penalty_detail": {
+      "罚款金额": null,
+      "事件描述": "安全漏洞导致用户数据泄露",
+      "事件日期": "2019-12-29"
+    }
+  },
+  {
+    "compliance_id": 245,
+    "company_id": 838,
+    "penalty_amount": 389922.4,
+    "incident_description": "业务合规备案缺失",
+    "incident_date": "2023-05-02",
+    "penalty_detail": {
+      "罚款金额": 389922.4,
+      "事件描述": "业务合规备案缺失",
+      "事件日期": "2023-05-02"
+    }
+  },
+  {
+    "compliance_id": 246,
+    "company_id": 706,
+    "penalty_amount": 1428897.13,
+    "incident_description": "安全漏洞导致用户数据泄露",
+    "incident_date": "2022-07-10",
+    "penalty_detail": {
+      "罚款金额": 1428897.13,
+      "事件描述": "安全漏洞导致用户数据泄露",
+      "事件日期": "2022-07-10"
+    }
+  },
+  {
+    "compliance_id": 247,
+    "company_id": 502,
+    "penalty_amount": 827657.51,
+    "incident_description": "客户资金未妥善管理",
+    "incident_date": "2021-10-08",
+    "penalty_detail": {
+      "罚款金额": 827657.51,
+      "事件描述": "客户资金未妥善管理",
+      "事件日期": "2021-10-08"
+    }
+  },
+  {
+    "compliance_id": 248,
+    "company_id": 141,
+    "penalty_amount": 619371.23,
+    "incident_description": "安全漏洞导致用户数据泄露",
+    "incident_date": "2021-08-08",
+    "penalty_detail": {
+      "罚款金额": 619371.23,
+      "事件描述": "安全漏洞导致用户数据泄露",
+      "事件日期": "2021-08-08"
+    }
+  },
+  {
+    "compliance_id": 249,
+    "company_id": 620,
+    "penalty_amount": 549664.73,
+    "incident_description": "业务合规备案缺失",
+    "incident_date": "2023-03-26",
+    "penalty_detail": {
+      "罚款金额": 549664.73,
+      "事件描述": "业务合规备案缺失",
+      "事件日期": "2023-03-26"
+    }
+  },
+  {
+    "compliance_id": 250,
+    "company_id": 815,
+    "penalty_amount": 349351.16,
+    "incident_description": "涉嫌欺骗性产品承诺",
+    "incident_date": "2022-02-28",
+    "penalty_detail": {
+      "罚款金额": 349351.16,
+      "事件描述": "涉嫌欺骗性产品承诺",
+      "事件日期": "2022-02-28"
+    }
+  },
+  {
+    "compliance_id": 251,
+    "company_id": 777,
+    "penalty_amount": 1815158.81,
+    "incident_description": "未按规定披露信息",
+    "incident_date": null,
+    "penalty_detail": {
+      "罚款金额": 1815158.81,
+      "事件描述": "未按规定披露信息",
+      "事件日期": null
+    }
+  },
+  {
+    "compliance_id": 252,
+    "company_id": 447,
+    "penalty_amount": null,
+    "incident_description": null,
+    "incident_date": "2023-04-06",
+    "penalty_detail": {
+      "罚款金额": null,
+      "事件描述": null,
+      "事件日期": "2023-04-06"
+    }
+  },
+  {
+    "compliance_id": 253,
+    "company_id": 290,
+    "penalty_amount": null,
+    "incident_description": "非法资金流动",
+    "incident_date": null,
+    "penalty_detail": {
+      "罚款金额": null,
+      "事件描述": "非法资金流动",
+      "事件日期": null
+    }
+  },
+  {
+    "compliance_id": 254,
+    "company_id": 209,
+    "penalty_amount": 522985.15,
+    "incident_description": "未按规定披露信息",
+    "incident_date": "2022-04-01",
+    "penalty_detail": {
+      "罚款金额": 522985.15,
+      "事件描述": "未按规定披露信息",
+      "事件日期": "2022-04-01"
+    }
+  },
+  {
+    "compliance_id": 255,
+    "company_id": 475,
+    "penalty_amount": 19501.49,
+    "incident_description": null,
+    "incident_date": null,
+    "penalty_detail": {
+      "罚款金额": 19501.49,
+      "事件描述": null,
+      "事件日期": null
+    }
+  },
+  {
+    "compliance_id": 256,
+    "company_id": 413,
+    "penalty_amount": null,
+    "incident_description": null,
+    "incident_date": "2021-07-08",
+    "penalty_detail": {
+      "罚款金额": null,
+      "事件描述": null,
+      "事件日期": "2021-07-08"
+    }
+  },
+  {
+    "compliance_id": 257,
+    "company_id": 677,
+    "penalty_amount": 575388.84,
+    "incident_description": null,
+    "incident_date": "2022-10-26",
+    "penalty_detail": {
+      "罚款金额": 575388.84,
+      "事件描述": null,
+      "事件日期": "2022-10-26"
+    }
+  },
+  {
+    "compliance_id": 258,
+    "company_id": 427,
+    "penalty_amount": 429439.29,
+    "incident_description": "未按规定披露信息",
+    "incident_date": "2022-03-02",
+    "penalty_detail": {
+      "罚款金额": 429439.29,
+      "事件描述": "未按规定披露信息",
+      "事件日期": "2022-03-02"
+    }
+  },
+  {
+    "compliance_id": 259,
+    "company_id": 854,
+    "penalty_amount": null,
+    "incident_description": null,
+    "incident_date": null,
+    "penalty_detail": {
+      "罚款金额": null,
+      "事件描述": null,
+      "事件日期": null
+    }
+  },
+  {
+    "compliance_id": 260,
+    "company_id": 371,
+    "penalty_amount": null,
+    "incident_description": null,
+    "incident_date": null,
+    "penalty_detail": {
+      "罚款金额": null,
+      "事件描述": null,
+      "事件日期": null
+    }
+  },
+  {
+    "compliance_id": 261,
+    "company_id": 832,
+    "penalty_amount": 342174.52,
+    "incident_description": "涉嫌欺骗性产品承诺",
+    "incident_date": "2022-08-09",
+    "penalty_detail": {
+      "罚款金额": 342174.52,
+      "事件描述": "涉嫌欺骗性产品承诺",
+      "事件日期": "2022-08-09"
+    }
+  },
+  {
+    "compliance_id": 262,
+    "company_id": 664,
+    "penalty_amount": 536914.53,
+    "incident_description": "非法资金流动",
+    "incident_date": "2022-07-25",
+    "penalty_detail": {
+      "罚款金额": 536914.53,
+      "事件描述": "非法资金流动",
+      "事件日期": "2022-07-25"
+    }
+  },
+  {
+    "compliance_id": 263,
+    "company_id": 967,
+    "penalty_amount": 1184975.33,
+    "incident_description": null,
+    "incident_date": "2022-07-03",
+    "penalty_detail": {
+      "罚款金额": 1184975.33,
+      "事件描述": null,
+      "事件日期": "2022-07-03"
+    }
+  },
+  {
+    "compliance_id": 264,
+    "company_id": 290,
+    "penalty_amount": null,
+    "incident_description": "非法资金流动",
+    "incident_date": "2020-10-23",
+    "penalty_detail": {
+      "罚款金额": null,
+      "事件描述": "非法资金流动",
+      "事件日期": "2020-10-23"
+    }
+  },
+  {
+    "compliance_id": 265,
+    "company_id": 432,
+    "penalty_amount": 468854.28,
+    "incident_description": "数据隐私违规",
+    "incident_date": "2022-07-08",
+    "penalty_detail": {
+      "罚款金额": 468854.28,
+      "事件描述": "数据隐私违规",
+      "事件日期": "2022-07-08"
+    }
+  },
+  {
+    "compliance_id": 266,
+    "company_id": 268,
+    "penalty_amount": 429494.27,
+    "incident_description": "数据隐私违规",
+    "incident_date": "2020-10-09",
+    "penalty_detail": {
+      "罚款金额": 429494.27,
+      "事件描述": "数据隐私违规",
+      "事件日期": "2020-10-09"
+    }
+  },
+  {
+    "compliance_id": 267,
+    "company_id": 151,
+    "penalty_amount": null,
+    "incident_description": "业务合规备案缺失",
+    "incident_date": "2019-11-06",
+    "penalty_detail": {
+      "罚款金额": null,
+      "事件描述": "业务合规备案缺失",
+      "事件日期": "2019-11-06"
+    }
+  },
+  {
+    "compliance_id": 268,
+    "company_id": 719,
+    "penalty_amount": 656219.97,
+    "incident_description": null,
+    "incident_date": "2021-06-19",
+    "penalty_detail": {
+      "罚款金额": 656219.97,
+      "事件描述": null,
+      "事件日期": "2021-06-19"
+    }
+  },
+  {
+    "compliance_id": 269,
+    "company_id": 255,
+    "penalty_amount": null,
+    "incident_description": "客户资金未妥善管理",
+    "incident_date": "2019-05-20",
+    "penalty_detail": {
+      "罚款金额": null,
+      "事件描述": "客户资金未妥善管理",
+      "事件日期": "2019-05-20"
+    }
+  },
+  {
+    "compliance_id": 270,
+    "company_id": 353,
+    "penalty_amount": null,
+    "incident_description": "数据隐私违规",
+    "incident_date": null,
+    "penalty_detail": {
+      "罚款金额": null,
+      "事件描述": "数据隐私违规",
+      "事件日期": null
+    }
+  },
+  {
+    "compliance_id": 271,
+    "company_id": 377,
+    "penalty_amount": 603886.08,
+    "incident_description": null,
+    "incident_date": null,
+    "penalty_detail": {
+      "罚款金额": 603886.08,
+      "事件描述": null,
+      "事件日期": null
+    }
+  },
+  {
+    "compliance_id": 272,
+    "company_id": 653,
+    "penalty_amount": 243227.22,
+    "incident_description": "安全漏洞导致用户数据泄露",
+    "incident_date": "2021-08-18",
+    "penalty_detail": {
+      "罚款金额": 243227.22,
+      "事件描述": "安全漏洞导致用户数据泄露",
+      "事件日期": "2021-08-18"
+    }
+  },
+  {
+    "compliance_id": 273,
+    "company_id": 855,
+    "penalty_amount": 695308.9,
+    "incident_description": "涉嫌欺骗性产品承诺",
+    "incident_date": null,
+    "penalty_detail": {
+      "罚款金额": 695308.9,
+      "事件描述": "涉嫌欺骗性产品承诺",
+      "事件日期": null
+    }
+  },
+  {
+    "compliance_id": 274,
+    "company_id": 358,
+    "penalty_amount": null,
+    "incident_description": "未按规定披露信息",
+    "incident_date": "2021-06-24",
+    "penalty_detail": {
+      "罚款金额": null,
+      "事件描述": "未按规定披露信息",
+      "事件日期": "2021-06-24"
+    }
+  },
+  {
+    "compliance_id": 275,
+    "company_id": 608,
+    "penalty_amount": 1649849.89,
+    "incident_description": "安全漏洞导致用户数据泄露",
+    "incident_date": "2022-07-17",
+    "penalty_detail": {
+      "罚款金额": 1649849.89,
+      "事件描述": "安全漏洞导致用户数据泄露",
+      "事件日期": "2022-07-17"
+    }
+  },
+  {
+    "compliance_id": 276,
+    "company_id": 941,
+    "penalty_amount": null,
+    "incident_description": "非法资金流动",
+    "incident_date": "2020-09-12",
+    "penalty_detail": {
+      "罚款金额": null,
+      "事件描述": "非法资金流动",
+      "事件日期": "2020-09-12"
+    }
+  },
+  {
+    "compliance_id": 277,
+    "company_id": 370,
+    "penalty_amount": null,
+    "incident_description": "未按规定披露信息",
+    "incident_date": "2023-06-19",
+    "penalty_detail": {
+      "罚款金额": null,
+      "事件描述": "未按规定披露信息",
+      "事件日期": "2023-06-19"
+    }
+  },
+  {
+    "compliance_id": 278,
+    "company_id": 227,
+    "penalty_amount": 624121.15,
+    "incident_description": "涉嫌欺骗性产品承诺",
+    "incident_date": null,
+    "penalty_detail": {
+      "罚款金额": 624121.15,
+      "事件描述": "涉嫌欺骗性产品承诺",
+      "事件日期": null
+    }
+  },
+  {
+    "compliance_id": 279,
+    "company_id": 705,
+    "penalty_amount": 602155.71,
+    "incident_description": "安全漏洞导致用户数据泄露",
+    "incident_date": null,
+    "penalty_detail": {
+      "罚款金额": 602155.71,
+      "事件描述": "安全漏洞导致用户数据泄露",
+      "事件日期": null
+    }
+  },
+  {
+    "compliance_id": 280,
+    "company_id": 303,
+    "penalty_amount": 181867.76,
+    "incident_description": "未按规定披露信息",
+    "incident_date": "2020-07-16",
+    "penalty_detail": {
+      "罚款金额": 181867.76,
+      "事件描述": "未按规定披露信息",
+      "事件日期": "2020-07-16"
+    }
+  },
+  {
+    "compliance_id": 281,
+    "company_id": 826,
+    "penalty_amount": 1779829.0,
+    "incident_description": "非法资金流动",
+    "incident_date": null,
+    "penalty_detail": {
+      "罚款金额": 1779829.0,
+      "事件描述": "非法资金流动",
+      "事件日期": null
+    }
+  },
+  {
+    "compliance_id": 282,
+    "company_id": 389,
+    "penalty_amount": 601462.57,
+    "incident_description": "数据隐私违规",
+    "incident_date": "2022-04-26",
+    "penalty_detail": {
+      "罚款金额": 601462.57,
+      "事件描述": "数据隐私违规",
+      "事件日期": "2022-04-26"
+    }
+  },
+  {
+    "compliance_id": 283,
+    "company_id": 377,
+    "penalty_amount": 470995.65,
+    "incident_description": "安全漏洞导致用户数据泄露",
+    "incident_date": "2019-04-26",
+    "penalty_detail": {
+      "罚款金额": 470995.65,
+      "事件描述": "安全漏洞导致用户数据泄露",
+      "事件日期": "2019-04-26"
+    }
+  },
+  {
+    "compliance_id": 284,
+    "company_id": 973,
+    "penalty_amount": 266776.42,
+    "incident_description": "客户资金未妥善管理",
+    "incident_date": "2020-12-21",
+    "penalty_detail": {
+      "罚款金额": 266776.42,
+      "事件描述": "客户资金未妥善管理",
+      "事件日期": "2020-12-21"
+    }
+  },
+  {
+    "compliance_id": 285,
+    "company_id": 118,
+    "penalty_amount": 800052.04,
+    "incident_description": "安全漏洞导致用户数据泄露",
+    "incident_date": "2021-11-05",
+    "penalty_detail": {
+      "罚款金额": 800052.04,
+      "事件描述": "安全漏洞导致用户数据泄露",
+      "事件日期": "2021-11-05"
+    }
+  },
+  {
+    "compliance_id": 286,
+    "company_id": 5,
+    "penalty_amount": null,
+    "incident_description": "非法资金流动",
+    "incident_date": "2019-06-01",
+    "penalty_detail": {
+      "罚款金额": null,
+      "事件描述": "非法资金流动",
+      "事件日期": "2019-06-01"
+    }
+  },
+  {
+    "compliance_id": 287,
+    "company_id": 444,
+    "penalty_amount": 507155.42,
+    "incident_description": null,
+    "incident_date": "2020-09-27",
+    "penalty_detail": {
+      "罚款金额": 507155.42,
+      "事件描述": null,
+      "事件日期": "2020-09-27"
+    }
+  },
+  {
+    "compliance_id": 288,
+    "company_id": 352,
+    "penalty_amount": 465696.18,
+    "incident_description": "安全漏洞导致用户数据泄露",
+    "incident_date": null,
+    "penalty_detail": {
+      "罚款金额": 465696.18,
+      "事件描述": "安全漏洞导致用户数据泄露",
+      "事件日期": null
+    }
+  },
+  {
+    "compliance_id": 289,
+    "company_id": 755,
+    "penalty_amount": 284262.24,
+    "incident_description": null,
+    "incident_date": "2021-08-03",
+    "penalty_detail": {
+      "罚款金额": 284262.24,
+      "事件描述": null,
+      "事件日期": "2021-08-03"
+    }
+  },
+  {
+    "compliance_id": 290,
+    "company_id": 533,
+    "penalty_amount": 536990.96,
+    "incident_description": null,
+    "incident_date": "2021-07-14",
+    "penalty_detail": {
+      "罚款金额": 536990.96,
+      "事件描述": null,
+      "事件日期": "2021-07-14"
+    }
+  },
+  {
+    "compliance_id": 291,
+    "company_id": 664,
+    "penalty_amount": 1995335.13,
+    "incident_description": null,
+    "incident_date": "2019-03-19",
+    "penalty_detail": {
+      "罚款金额": 1995335.13,
+      "事件描述": null,
+      "事件日期": "2019-03-19"
+    }
+  },
+  {
+    "compliance_id": 292,
+    "company_id": 640,
+    "penalty_amount": 406464.79,
+    "incident_description": "安全漏洞导致用户数据泄露",
+    "incident_date": null,
+    "penalty_detail": {
+      "罚款金额": 406464.79,
+      "事件描述": "安全漏洞导致用户数据泄露",
+      "事件日期": null
+    }
+  },
+  {
+    "compliance_id": 293,
+    "company_id": 124,
+    "penalty_amount": 432761.55,
+    "incident_description": "非法资金流动",
+    "incident_date": null,
+    "penalty_detail": {
+      "罚款金额": 432761.55,
+      "事件描述": "非法资金流动",
+      "事件日期": null
+    }
+  },
+  {
+    "compliance_id": 294,
+    "company_id": 658,
+    "penalty_amount": 620097.41,
+    "incident_description": "非法资金流动",
+    "incident_date": "2019-04-27",
+    "penalty_detail": {
+      "罚款金额": 620097.41,
+      "事件描述": "非法资金流动",
+      "事件日期": "2019-04-27"
+    }
+  },
+  {
+    "compliance_id": 295,
+    "company_id": 277,
+    "penalty_amount": 1572108.2,
+    "incident_description": "业务合规备案缺失",
+    "incident_date": "2021-01-25",
+    "penalty_detail": {
+      "罚款金额": 1572108.2,
+      "事件描述": "业务合规备案缺失",
+      "事件日期": "2021-01-25"
+    }
+  },
+  {
+    "compliance_id": 296,
+    "company_id": 822,
+    "penalty_amount": 330999.23,
+    "incident_description": "业务合规备案缺失",
+    "incident_date": "2020-08-10",
+    "penalty_detail": {
+      "罚款金额": 330999.23,
+      "事件描述": "业务合规备案缺失",
+      "事件日期": "2020-08-10"
+    }
+  },
+  {
+    "compliance_id": 297,
+    "company_id": 394,
+    "penalty_amount": null,
+    "incident_description": "非法资金流动",
+    "incident_date": "2019-06-07",
+    "penalty_detail": {
+      "罚款金额": null,
+      "事件描述": "非法资金流动",
+      "事件日期": "2019-06-07"
+    }
+  },
+  {
+    "compliance_id": 298,
+    "company_id": 664,
+    "penalty_amount": null,
+    "incident_description": "涉嫌欺骗性产品承诺",
+    "incident_date": "2022-08-13",
+    "penalty_detail": {
+      "罚款金额": null,
+      "事件描述": "涉嫌欺骗性产品承诺",
+      "事件日期": "2022-08-13"
+    }
+  },
+  {
+    "compliance_id": 299,
+    "company_id": 360,
+    "penalty_amount": 391794.19,
+    "incident_description": "非法资金流动",
+    "incident_date": null,
+    "penalty_detail": {
+      "罚款金额": 391794.19,
+      "事件描述": "非法资金流动",
+      "事件日期": null
+    }
+  },
+  {
+    "compliance_id": 300,
+    "company_id": 623,
+    "penalty_amount": null,
+    "incident_description": "业务合规备案缺失",
+    "incident_date": "2019-07-04",
+    "penalty_detail": {
+      "罚款金额": null,
+      "事件描述": "业务合规备案缺失",
+      "事件日期": "2019-07-04"
+    }
+  }
+]

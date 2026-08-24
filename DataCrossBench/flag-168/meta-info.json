@@ -1,0 +1,20 @@
+{
+    "goal": "分析2004年上半年中国上网用户增长的主要驱动因素。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 截至2004年6月30日，中国上网用户总人数达到8700万，半年增加750万，增长率为9.4%。",
+        "Comparison: 与1997年第一次调查相比，网民人数增长了140.3倍，显示出互联网的快速普及。",
+        "Extreme: 截至2004年6月30日，WWW站点总数为626600个，半年内增加31050个，增长率为5.2%。",
+        "Attribution: 网民人数的显著增长与家庭电脑普及和互联网使用成本降低密切相关。"
+    ],
+    "summary": "本报告分析了中国互联网的快速发展，特别是用户增长、上网方式的变化以及用户特征的演变，揭示了互联网在中国社会中的重要性和影响力。",
+    "flag_id": "flag-168",
+    "classifier": "Internet Dev.",
+    "classifier_cn": "互联网发展",
+    "input_files": [
+        "output/business_background.txt",
+        "output/china_internet_users.csv",
+        "output/user_profiles.json",
+        "output/www_sites.db"
+    ]
+}

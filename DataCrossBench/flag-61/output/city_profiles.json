@@ -1,0 +1,4537 @@
+[
+  {
+    "city_id": 1,
+    "city_name": "北京",
+    "location": {
+      "latitude": 26.99834742364857,
+      "longitude": 112.36050761756454
+    },
+    "political_cultural_center": true,
+    "resource_talent_reserve": "Begin interest everybody.",
+    "industry_profile": {
+      "year": 2025,
+      "quarter": "Q1",
+      "comprehensive_score": 91.7,
+      "production_strength": 91.7,
+      "overseas_market_share": 51.0,
+      "government_support": true,
+      "active_platform_count": 12,
+      "micro_drama_tags": [
+        "创新",
+        "影视"
+      ],
+      "overseas_ability_level": "中高",
+      "comprehensive_ranking": 12,
+      "annual_growth_rate": 0.0716,
+      "high_growth": true,
+      "main_investors": [
+        "字节跳动"
+      ]
+    },
+    "extra_info": {
+      "key_events": [
+        "monetize plug-and-play methodologies",
+        "drive cutting-edge users",
+        "synergize bleeding-edge action-items"
+      ],
+      "partners": {
+        "media_companies": [
+          "欢瑞世纪"
+        ],
+        "tech_support": "百度云"
+      }
+    }
+  },
+  {
+    "city_id": 2,
+    "city_name": "郑州",
+    "location": {
+      "latitude": 43.87163201657985,
+      "longitude": 101.43896900041611
+    },
+    "political_cultural_center": false,
+    "resource_talent_reserve": "Four capital woman.",
+    "industry_profile": {
+      "year": 2025,
+      "quarter": "Q4",
+      "comprehensive_score": 86.9,
+      "production_strength": 91.7,
+      "overseas_market_share": 48.0,
+      "government_support": false,
+      "active_platform_count": 9,
+      "micro_drama_tags": [
+        "短视频",
+        "互动",
+        "引流",
+        "影视"
+      ],
+      "overseas_ability_level": "中高",
+      "comprehensive_ranking": 30,
+      "annual_growth_rate": 0.0492,
+      "high_growth": false,
+      "main_investors": [
+        "腾讯",
+        "欢瑞世纪"
+      ]
+    },
+    "extra_info": {
+      "key_events": [
+        "target cross-media eyeballs",
+        "empower dynamic initiatives"
+      ],
+      "partners": {
+        "media_companies": [
+          "华策",
+          "欢瑞世纪",
+          "腾讯视频"
+        ],
+        "tech_support": "腾讯云"
+      }
+    }
+  },
+  {
+    "city_id": 3,
+    "city_name": "西安",
+    "location": {
+      "latitude": 38.44742291739421,
+      "longitude": 113.73822205809338
+    },
+    "political_cultural_center": false,
+    "resource_talent_reserve": "Scientist necessary into act.",
+    "industry_profile": {
+      "year": 2025,
+      "quarter": "Q1",
+      "comprehensive_score": 86.6,
+      "production_strength": 91.7,
+      "overseas_market_share": 49.0,
+      "government_support": false,
+      "active_platform_count": 13,
+      "micro_drama_tags": [
+        "IP",
+        "影视"
+      ],
+      "overseas_ability_level": "中高",
+      "comprehensive_ranking": 31,
+      "annual_growth_rate": 0.0465,
+      "high_growth": false,
+      "main_investors": [
+        "阿里巴巴",
+        "华策"
+      ]
+    },
+    "extra_info": {
+      "key_events": [
+        "integrate next-generation e-business",
+        "revolutionize vertical action-items"
+      ],
+      "partners": {
+        "media_companies": [
+          "优酷"
+        ],
+        "tech_support": "阿里云"
+      }
+    }
+  },
+  {
+    "city_id": 4,
+    "city_name": "深圳",
+    "location": {
+      "latitude": 33.85885131278502,
+      "longitude": 111.03826253433442
+    },
+    "political_cultural_center": false,
+    "resource_talent_reserve": null,
+    "industry_profile": {
+      "year": 2025,
+      "quarter": "Q1",
+      "comprehensive_score": 83.0,
+      "production_strength": 83.0,
+      "overseas_market_share": 30.0,
+      "government_support": false,
+      "active_platform_count": 4,
+      "micro_drama_tags": [
+        "产业升级",
+        "文化"
+      ],
+      "overseas_ability_level": "中低",
+      "comprehensive_ranking": 59,
+      "annual_growth_rate": 0.0677,
+      "high_growth": true,
+      "main_investors": [
+        "字节跳动"
+      ]
+    },
+    "extra_info": {
+      "key_events": [
+        "architect innovative platforms"
+      ],
+      "partners": {
+        "media_companies": [
+          "华策",
+          "优酷"
+        ],
+        "tech_support": "腾讯云"
+      }
+    }
+  },
+  {
+    "city_id": 5,
+    "city_name": "杭州",
+    "location": {
+      "latitude": 35.2930186558588,
+      "longitude": 122.19260456895749
+    },
+    "political_cultural_center": false,
+    "resource_talent_reserve": "War real chance along.",
+    "industry_profile": {
+      "year": 2025,
+      "quarter": "Q2",
+      "comprehensive_score": 82.0,
+      "production_strength": 82.0,
+      "overseas_market_share": 20.0,
+      "government_support": true,
+      "active_platform_count": 1,
+      "micro_drama_tags": [
+        "创新",
+        "原创"
+      ],
+      "overseas_ability_level": "低",
+      "comprehensive_ranking": 65,
+      "annual_growth_rate": 0.063,
+      "high_growth": true,
+      "main_investors": [
+        "字节跳动",
+        "腾讯",
+        "欢瑞世纪"
+      ]
+    },
+    "extra_info": {
+      "key_events": [
+        "expedite robust systems",
+        "expedite scalable action-items",
+        "extend revolutionary interfaces"
+      ],
+      "partners": {
+        "media_companies": [
+          "腾讯视频",
+          "优酷",
+          "芒果TV"
+        ],
+        "tech_support": "百度云"
+      }
+    }
+  },
+  {
+    "city_id": 6,
+    "city_name": "North Judithbury",
+    "location": {
+      "latitude": 30.490001560694747,
+      "longitude": 108.77287531380196
+    },
+    "political_cultural_center": false,
+    "resource_talent_reserve": null,
+    "industry_profile": {
+      "year": 2025,
+      "quarter": "Q3",
+      "comprehensive_score": 84.2,
+      "production_strength": 84.23,
+      "overseas_market_share": 49.65,
+      "government_support": false,
+      "active_platform_count": 9,
+      "micro_drama_tags": [
+        "短视频",
+        "出海",
+        "产业升级"
+      ],
+      "overseas_ability_level": "中高",
+      "comprehensive_ranking": 53,
+      "annual_growth_rate": 0.0185,
+      "high_growth": false,
+      "main_investors": [
+        "阿里巴巴"
+      ]
+    },
+    "extra_info": {
+      "key_events": [
+        "grow bleeding-edge users"
+      ],
+      "partners": {
+        "media_companies": [
+          "欢瑞世纪",
+          "华策",
+          "芒果TV"
+        ],
+        "tech_support": "腾讯云"
+      }
+    }
+  },
+  {
+    "city_id": 7,
+    "city_name": "East Jill",
+    "location": {
+      "latitude": 26.193274737528938,
+      "longitude": 102.92667541069015
+    },
+    "political_cultural_center": false,
+    "resource_talent_reserve": "Old challenge camera final together someone.",
+    "industry_profile": {
+      "year": 2025,
+      "quarter": "Q1",
+      "comprehensive_score": 80.99,
+      "production_strength": 83.38,
+      "overseas_market_share": 38.23,
+      "government_support": false,
+      "active_platform_count": 8,
+      "micro_drama_tags": [
+        "出海",
+        "短视频"
+      ],
+      "overseas_ability_level": "中低",
+      "comprehensive_ranking": 74,
+      "annual_growth_rate": 0.0795,
+      "high_growth": true,
+      "main_investors": [
+        "腾讯",
+        "华策",
+        "字节跳动"
+      ]
+    },
+    "extra_info": {
+      "key_events": [
+        "architect leading-edge channels",
+        "deliver distributed e-services",
+        "transition turn-key networks"
+      ],
+      "partners": {
+        "media_companies": [
+          "华策",
+          "优酷",
+          "欢瑞世纪"
+        ],
+        "tech_support": "华为云"
+      }
+    }
+  },
+  {
+    "city_id": 8,
+    "city_name": "New Roberttown",
+    "location": {
+      "latitude": 28.89931696628154,
+      "longitude": 103.5747920513209
+    },
+    "political_cultural_center": false,
+    "resource_talent_reserve": "Together decide economic.",
+    "industry_profile": {
+      "year": 2025,
+      "quarter": "Q3",
+      "comprehensive_score": 81.19,
+      "production_strength": 80.69,
+      "overseas_market_share": 64.38,
+      "government_support": true,
+      "active_platform_count": 13,
+      "micro_drama_tags": [
+        "短视频",
+        "多元",
+        "产业升级",
+        "网络剧",
+        "创新"
+      ],
+      "overseas_ability_level": "高",
+      "comprehensive_ranking": 71,
+      "annual_growth_rate": 0.0776,
+      "high_growth": true,
+      "main_investors": [
+        "阿里巴巴",
+        "字节跳动",
+        "腾讯"
+      ]
+    },
+    "extra_info": {
+      "key_events": [
+        "expedite world-class action-items",
+        "monetize B2B web services",
+        "mesh magnetic e-markets"
+      ],
+      "partners": {
+        "media_companies": [
+          "华策",
+          "芒果TV"
+        ],
+        "tech_support": "阿里云"
+      }
+    }
+  },
+  {
+    "city_id": 9,
+    "city_name": "East Jessetown",
+    "location": {
+      "latitude": 38.94615276160923,
+      "longitude": 119.03776579293681
+    },
+    "political_cultural_center": false,
+    "resource_talent_reserve": "Government nice themselves wind.",
+    "industry_profile": {
+      "year": 2025,
+      "quarter": "Q1",
+      "comprehensive_score": 85.67,
+      "production_strength": 87.47,
+      "overseas_market_share": 42.86,
+      "government_support": false,
+      "active_platform_count": 8,
+      "micro_drama_tags": [
+        "影视",
+        "文化",
+        "年轻"
+      ],
+      "overseas_ability_level": "中高",
+      "comprehensive_ranking": 42,
+      "annual_growth_rate": 0.0375,
+      "high_growth": false,
+      "main_investors": [
+        "华策"
+      ]
+    },
+    "extra_info": {
+      "key_events": [
+        "monetize efficient markets",
+        "engage virtual functionalities"
+      ],
+      "partners": {
+        "media_companies": [
+          "华策",
+          "腾讯视频"
+        ],
+        "tech_support": "腾讯云"
+      }
+    }
+  },
+  {
+    "city_id": 10,
+    "city_name": "Lake Debra",
+    "location": {
+      "latitude": 20.359837215743898,
+      "longitude": 115.45545158290653
+    },
+    "political_cultural_center": false,
+    "resource_talent_reserve": "Understand door class son.",
+    "industry_profile": {
+      "year": 2025,
+      "quarter": "Q1",
+      "comprehensive_score": 89.12,
+      "production_strength": 85.54,
+      "overseas_market_share": 38.38,
+      "government_support": false,
+      "active_platform_count": 8,
+      "micro_drama_tags": [
+        "引流",
+        "短视频",
+        "技术",
+        "年轻"
+      ],
+      "overseas_ability_level": "中低",
+      "comprehensive_ranking": 18,
+      "annual_growth_rate": 0.0579,
+      "high_growth": false,
+      "main_investors": [
+        "腾讯",
+        "华策"
+      ]
+    },
+    "extra_info": {
+      "key_events": [
+        "innovate cutting-edge schemas",
+        "synthesize scalable convergence",
+        "visualize enterprise deliverables"
+      ],
+      "partners": {
+        "media_companies": [
+          "欢瑞世纪",
+          "腾讯视频"
+        ],
+        "tech_support": "百度云"
+      }
+    }
+  },
+  {
+    "city_id": 11,
+    "city_name": "Robinsonshire",
+    "location": {
+      "latitude": 22.901816012672906,
+      "longitude": 102.52806690306976
+    },
+    "political_cultural_center": false,
+    "resource_talent_reserve": "Thing agent say forward.",
+    "industry_profile": {
+      "year": 2025,
+      "quarter": "Q4",
+      "comprehensive_score": 85.32,
+      "production_strength": 86.37,
+      "overseas_market_share": 44.89,
+      "government_support": true,
+      "active_platform_count": 6,
+      "micro_drama_tags": [
+        "原创",
+        "文化"
+      ],
+      "overseas_ability_level": "中高",
+      "comprehensive_ranking": 45,
+      "annual_growth_rate": 0.0599,
+      "high_growth": false,
+      "main_investors": [
+        "阿里巴巴"
+      ]
+    },
+    "extra_info": {
+      "key_events": [
+        "harness next-generation e-markets",
+        "orchestrate seamless architectures",
+        "reinvent collaborative action-items"
+      ],
+      "partners": {
+        "media_companies": [
+          "芒果TV",
+          "腾讯视频",
+          "欢瑞世纪"
+        ],
+        "tech_support": "华为云"
+      }
+    }
+  },
+  {
+    "city_id": 12,
+    "city_name": "Lisatown",
+    "location": {
+      "latitude": 21.15006605054382,
+      "longitude": 102.10267015287494
+    },
+    "political_cultural_center": false,
+    "resource_talent_reserve": "Soon ten specific environment skin blue.",
+    "industry_profile": {
+      "year": 2025,
+      "quarter": "Q4",
+      "comprehensive_score": 94.4,
+      "production_strength": 95.05,
+      "overseas_market_share": 66.9,
+      "government_support": true,
+      "active_platform_count": 16,
+      "micro_drama_tags": [
+        "年轻",
+        "资本"
+      ],
+      "overseas_ability_level": "高",
+      "comprehensive_ranking": 6,
+      "annual_growth_rate": 0.0552,
+      "high_growth": false,
+      "main_investors": [
+        "腾讯",
+        "华策",
+        "字节跳动"
+      ]
+    },
+    "extra_info": {
+      "key_events": [
+        "iterate magnetic content",
+        "iterate B2B bandwidth",
+        "redefine leading-edge schemas"
+      ],
+      "partners": {
+        "media_companies": [
+          "芒果TV",
+          "优酷",
+          "华策"
+        ],
+        "tech_support": "阿里云"
+      }
+    }
+  },
+  {
+    "city_id": 13,
+    "city_name": "Lake Roberto",
+    "location": {
+      "latitude": 21.018220057974254,
+      "longitude": 117.524228286478
+    },
+    "political_cultural_center": false,
+    "resource_talent_reserve": "Teach develop staff.",
+    "industry_profile": {
+      "year": 2025,
+      "quarter": "Q4",
+      "comprehensive_score": 122.52,
+      "production_strength": -6.16,
+      "overseas_market_share": 110.49,
+      "government_support": false,
+      "active_platform_count": 22,
+      "micro_drama_tags": [
+        "产业升级",
+        "网络剧",
+        "技术",
+        "创新"
+      ],
+      "overseas_ability_level": "高",
+      "comprehensive_ranking": 1,
+      "annual_growth_rate": 0.039,
+      "high_growth": false,
+      "main_investors": [
+        "欢瑞世纪",
+        "阿里巴巴"
+      ]
+    },
+    "extra_info": {
+      "key_events": [
+        "deploy next-generation schemas",
+        "mesh global architectures"
+      ],
+      "partners": {
+        "media_companies": [
+          "欢瑞世纪",
+          "腾讯视频"
+        ],
+        "tech_support": "华为云"
+      }
+    }
+  },
+  {
+    "city_id": 14,
+    "city_name": "Ericmouth",
+    "location": {
+      "latitude": 41.38651460027518,
+      "longitude": 101.81907515910484
+    },
+    "political_cultural_center": false,
+    "resource_talent_reserve": "Glass star the development process huge everything.",
+    "industry_profile": {
+      "year": 2025,
+      "quarter": "Q3",
+      "comprehensive_score": 81.49,
+      "production_strength": 78.05,
+      "overseas_market_share": 73.39,
+      "government_support": true,
+      "active_platform_count": 17,
+      "micro_drama_tags": [
+        "出海",
+        "原创",
+        "文化",
+        "资本",
+        "互动"
+      ],
+      "overseas_ability_level": "高",
+      "comprehensive_ranking": 68,
+      "annual_growth_rate": 0.0366,
+      "high_growth": false,
+      "main_investors": [
+        "阿里巴巴"
+      ]
+    },
+    "extra_info": {
+      "key_events": [
+        "incentivize dot-com e-tailers",
+        "facilitate strategic systems"
+      ],
+      "partners": {
+        "media_companies": [
+          "腾讯视频"
+        ],
+        "tech_support": "腾讯云"
+      }
+    }
+  },
+  {
+    "city_id": 15,
+    "city_name": "North Noahstad",
+    "location": {
+      "latitude": 37.591446484500594,
+      "longitude": 120.5465014822589
+    },
+    "political_cultural_center": false,
+    "resource_talent_reserve": null,
+    "industry_profile": {
+      "year": 2025,
+      "quarter": "Q2",
+      "comprehensive_score": 75.95,
+      "production_strength": 79.33,
+      "overseas_market_share": 46.62,
+      "government_support": false,
+      "active_platform_count": 10,
+      "micro_drama_tags": [
+        "资本",
+        "IP",
+        "产业升级",
+        "年轻"
+      ],
+      "overseas_ability_level": "中高",
+      "comprehensive_ranking": 92,
+      "annual_growth_rate": 0.0495,
+      "high_growth": false,
+      "main_investors": [
+        "字节跳动"
+      ]
+    },
+    "extra_info": {
+      "key_events": [
+        "iterate out-of-the-box infrastructures"
+      ],
+      "partners": {
+        "media_companies": [
+          "欢瑞世纪",
+          "芒果TV"
+        ],
+        "tech_support": "腾讯云"
+      }
+    }
+  },
+  {
+    "city_id": 16,
+    "city_name": "Cassandraton",
+    "location": {
+      "latitude": 31.85434572718313,
+      "longitude": 117.65605567891241
+    },
+    "political_cultural_center": true,
+    "resource_talent_reserve": "Whom evidence political hundred.",
+    "industry_profile": {
+      "year": 2025,
+      "quarter": "Q1",
+      "comprehensive_score": 85.1,
+      "production_strength": 83.7,
+      "overseas_market_share": 17.96,
+      "government_support": true,
+      "active_platform_count": 5,
+      "micro_drama_tags": [
+        "影视",
+        "原创",
+        "创新"
+      ],
+      "overseas_ability_level": "低",
+      "comprehensive_ranking": 47,
+      "annual_growth_rate": 0.0735,
+      "high_growth": true,
+      "main_investors": [
+        "阿里巴巴"
+      ]
+    },
+    "extra_info": {
+      "key_events": [
+        "incubate dynamic markets",
+        "empower enterprise methodologies"
+      ],
+      "partners": {
+        "media_companies": [
+          "优酷",
+          "芒果TV"
+        ],
+        "tech_support": "阿里云"
+      }
+    }
+  },
+  {
+    "city_id": 17,
+    "city_name": "Herrerafurt",
+    "location": {
+      "latitude": 22.445854016275035,
+      "longitude": 102.0337195160475
+    },
+    "political_cultural_center": false,
+    "resource_talent_reserve": "Former agree theory end oil worker although.",
+    "industry_profile": {
+      "year": 2025,
+      "quarter": "Q1",
+      "comprehensive_score": 81.38,
+      "production_strength": 81.08,
+      "overseas_market_share": 47.91,
+      "government_support": false,
+      "active_platform_count": 11,
+      "micro_drama_tags": [
+        "技术",
+        "网络剧",
+        "原创"
+      ],
+      "overseas_ability_level": "中高",
+      "comprehensive_ranking": 69,
+      "annual_growth_rate": 0.0609,
+      "high_growth": true,
+      "main_investors": [
+        "华策",
+        "字节跳动",
+        "欢瑞世纪"
+      ]
+    },
+    "extra_info": {
+      "key_events": [
+        "expedite revolutionary partnerships",
+        "aggregate killer info-mediaries",
+        "architect open-source content"
+      ],
+      "partners": {
+        "media_companies": [
+          "华策"
+        ],
+        "tech_support": "百度云"
+      }
+    }
+  },
+  {
+    "city_id": 18,
+    "city_name": "New Kellystad",
+    "location": {
+      "latitude": 32.29039687792081,
+      "longitude": 102.1209428521298
+    },
+    "political_cultural_center": false,
+    "resource_talent_reserve": "Its rock finish paper memory history office effort.",
+    "industry_profile": {
+      "year": 2025,
+      "quarter": "Q1",
+      "comprehensive_score": 89.1,
+      "production_strength": 87.59,
+      "overseas_market_share": 75.19,
+      "government_support": false,
+      "active_platform_count": 16,
+      "micro_drama_tags": [
+        "资本",
+        "原创",
+        "文化"
+      ],
+      "overseas_ability_level": "高",
+      "comprehensive_ranking": 19,
+      "annual_growth_rate": 0.0426,
+      "high_growth": false,
+      "main_investors": [
+        "阿里巴巴",
+        "华策",
+        "腾讯"
+      ]
+    },
+    "extra_info": {
+      "key_events": [
+        "redefine value-added e-tailers",
+        "re-contextualize dynamic initiatives",
+        "extend compelling action-items"
+      ],
+      "partners": {
+        "media_companies": [
+          "腾讯视频",
+          "欢瑞世纪"
+        ],
+        "tech_support": "华为云"
+      }
+    }
+  },
+  {
+    "city_id": 19,
+    "city_name": "Lake Chad",
+    "location": {
+      "latitude": 31.836794269514144,
+      "longitude": 124.66598946252938
+    },
+    "political_cultural_center": false,
+    "resource_talent_reserve": "Ability understand Mrs rest score provide.",
+    "industry_profile": {
+      "year": 2025,
+      "quarter": "Q3",
+      "comprehensive_score": 92.37,
+      "production_strength": 95.42,
+      "overseas_market_share": 49.66,
+      "government_support": false,
+      "active_platform_count": 11,
+      "micro_drama_tags": [
+        "多元",
+        "IP",
+        "年轻",
+        "引流"
+      ],
+      "overseas_ability_level": "中高",
+      "comprehensive_ranking": 9,
+      "annual_growth_rate": 0.0654,
+      "high_growth": true,
+      "main_investors": [
+        "腾讯",
+        "字节跳动",
+        "欢瑞世纪"
+      ]
+    },
+    "extra_info": {
+      "key_events": [
+        "scale best-of-breed interfaces",
+        "redefine web-enabled schemas",
+        "harness front-end architectures"
+      ],
+      "partners": {
+        "media_companies": [
+          "腾讯视频",
+          "优酷",
+          "华策"
+        ],
+        "tech_support": "阿里云"
+      }
+    }
+  },
+  {
+    "city_id": 20,
+    "city_name": "Port Keith",
+    "location": {
+      "latitude": 24.33004674775038,
+      "longitude": 109.356769893903
+    },
+    "political_cultural_center": false,
+    "resource_talent_reserve": "Issue we TV perhaps professional by.",
+    "industry_profile": {
+      "year": 2025,
+      "quarter": "Q4",
+      "comprehensive_score": 78.48,
+      "production_strength": 77.54,
+      "overseas_market_share": 50.57,
+      "government_support": false,
+      "active_platform_count": 13,
+      "micro_drama_tags": [
+        "年轻",
+        "短视频",
+        "IP",
+        "网络剧"
+      ],
+      "overseas_ability_level": "中高",
+      "comprehensive_ranking": 87,
+      "annual_growth_rate": -0.007,
+      "high_growth": false,
+      "main_investors": [
+        "阿里巴巴",
+        "欢瑞世纪"
+      ]
+    },
+    "extra_info": {
+      "key_events": [
+        "target synergistic content",
+        "morph bricks-and-clicks mindshare"
+      ],
+      "partners": {
+        "media_companies": [
+          "腾讯视频"
+        ],
+        "tech_support": "百度云"
+      }
+    }
+  },
+  {
+    "city_id": 21,
+    "city_name": "Port Jesseville",
+    "location": {
+      "latitude": 30.846291230949326,
+      "longitude": 109.26605367667227
+    },
+    "political_cultural_center": false,
+    "resource_talent_reserve": "Medical project for recent never.",
+    "industry_profile": {
+      "year": 2025,
+      "quarter": "Q2",
+      "comprehensive_score": 82.69,
+      "production_strength": 77.93,
+      "overseas_market_share": 42.69,
+      "government_support": false,
+      "active_platform_count": 9,
+      "micro_drama_tags": [
+        "产业升级",
+        "IP"
+      ],
+      "overseas_ability_level": "中高",
+      "comprehensive_ranking": 62,
+      "annual_growth_rate": 0.073,
+      "high_growth": true,
+      "main_investors": [
+        "华策",
+        "欢瑞世纪"
+      ]
+    },
+    "extra_info": {
+      "key_events": [
+        "matrix rich bandwidth",
+        "transform collaborative vortals"
+      ],
+      "partners": {
+        "media_companies": [
+          "优酷",
+          "芒果TV",
+          "欢瑞世纪"
+        ],
+        "tech_support": "腾讯云"
+      }
+    }
+  },
+  {
+    "city_id": 22,
+    "city_name": "Ramirezstad",
+    "location": {
+      "latitude": 29.962618359934336,
+      "longitude": 120.31998918143756
+    },
+    "political_cultural_center": false,
+    "resource_talent_reserve": "Inside wait quality total past.",
+    "industry_profile": {
+      "year": 2025,
+      "quarter": "Q3",
+      "comprehensive_score": 76.96,
+      "production_strength": 79.7,
+      "overseas_market_share": 10.33,
+      "government_support": false,
+      "active_platform_count": 3,
+      "micro_drama_tags": [
+        "出海",
+        "影视",
+        "短视频"
+      ],
+      "overseas_ability_level": "低",
+      "comprehensive_ranking": 91,
+      "annual_growth_rate": 0.0152,
+      "high_growth": false,
+      "main_investors": [
+        "阿里巴巴"
+      ]
+    },
+    "extra_info": {
+      "key_events": [
+        "redefine best-of-breed relationships",
+        "harness transparent paradigms"
+      ],
+      "partners": {
+        "media_companies": [
+          "优酷",
+          "芒果TV",
+          "欢瑞世纪"
+        ],
+        "tech_support": "华为云"
+      }
+    }
+  },
+  {
+    "city_id": 23,
+    "city_name": "West Michael",
+    "location": {
+      "latitude": 35.396252451305415,
+      "longitude": 123.68121443459647
+    },
+    "political_cultural_center": false,
+    "resource_talent_reserve": "Image street fight decision size.",
+    "industry_profile": {
+      "year": 2025,
+      "quarter": "Q4",
+      "comprehensive_score": 83.04,
+      "production_strength": 88.63,
+      "overseas_market_share": 39.33,
+      "government_support": true,
+      "active_platform_count": 8,
+      "micro_drama_tags": [
+        "多元",
+        "文化",
+        "网络剧"
+      ],
+      "overseas_ability_level": "中低",
+      "comprehensive_ranking": 58,
+      "annual_growth_rate": 0.0428,
+      "high_growth": false,
+      "main_investors": [
+        "阿里巴巴"
+      ]
+    },
+    "extra_info": {
+      "key_events": [
+        "maximize magnetic eyeballs",
+        "utilize back-end schemas"
+      ],
+      "partners": {
+        "media_companies": [
+          "芒果TV",
+          "欢瑞世纪"
+        ],
+        "tech_support": "阿里云"
+      }
+    }
+  },
+  {
+    "city_id": 24,
+    "city_name": "Jacquelineland",
+    "location": {
+      "latitude": 35.877341271691094,
+      "longitude": 124.65002659557177
+    },
+    "political_cultural_center": false,
+    "resource_talent_reserve": "Pressure let kind degree list top somebody college.",
+    "industry_profile": {
+      "year": 2025,
+      "quarter": "Q3",
+      "comprehensive_score": 84.64,
+      "production_strength": 85.23,
+      "overseas_market_share": 45.72,
+      "government_support": false,
+      "active_platform_count": 12,
+      "micro_drama_tags": [
+        "IP",
+        "年轻",
+        "技术"
+      ],
+      "overseas_ability_level": "中高",
+      "comprehensive_ranking": 49,
+      "annual_growth_rate": 0.0276,
+      "high_growth": false,
+      "main_investors": [
+        "华策",
+        "欢瑞世纪"
+      ]
+    },
+    "extra_info": {
+      "key_events": [
+        "re-contextualize next-generation technologies",
+        "orchestrate 24/365 supply-chains",
+        "enhance enterprise networks"
+      ],
+      "partners": {
+        "media_companies": [
+          "芒果TV"
+        ],
+        "tech_support": "阿里云"
+      }
+    }
+  },
+  {
+    "city_id": 25,
+    "city_name": "New Jessica",
+    "location": {
+      "latitude": 21.132600244301113,
+      "longitude": 118.83445463147353
+    },
+    "political_cultural_center": false,
+    "resource_talent_reserve": "Exist professional people behavior.",
+    "industry_profile": {
+      "year": 2025,
+      "quarter": "Q2",
+      "comprehensive_score": 81.15,
+      "production_strength": 83.85,
+      "overseas_market_share": 38.67,
+      "government_support": false,
+      "active_platform_count": 6,
+      "micro_drama_tags": [
+        "短视频",
+        "资本"
+      ],
+      "overseas_ability_level": "中低",
+      "comprehensive_ranking": 72,
+      "annual_growth_rate": 0.0241,
+      "high_growth": false,
+      "main_investors": [
+        "华策"
+      ]
+    },
+    "extra_info": {
+      "key_events": [
+        "e-enable interactive models",
+        "engage cross-platform portals",
+        "engineer holistic experiences"
+      ],
+      "partners": {
+        "media_companies": [
+          "欢瑞世纪",
+          "优酷",
+          "华策"
+        ],
+        "tech_support": "华为云"
+      }
+    }
+  },
+  {
+    "city_id": 26,
+    "city_name": "South Noah",
+    "location": {
+      "latitude": 29.36531536566178,
+      "longitude": 109.40648963827289
+    },
+    "political_cultural_center": false,
+    "resource_talent_reserve": "Pull different current agency each.",
+    "industry_profile": {
+      "year": 2025,
+      "quarter": "Q4",
+      "comprehensive_score": 96.23,
+      "production_strength": 90.09,
+      "overseas_market_share": 73.85,
+      "government_support": false,
+      "active_platform_count": 18,
+      "micro_drama_tags": [
+        "技术",
+        "年轻"
+      ],
+      "overseas_ability_level": "高",
+      "comprehensive_ranking": 3,
+      "annual_growth_rate": 0.0732,
+      "high_growth": true,
+      "main_investors": [
+        "欢瑞世纪",
+        "字节跳动"
+      ]
+    },
+    "extra_info": {
+      "key_events": [
+        "extend holistic bandwidth",
+        "leverage synergistic communities"
+      ],
+      "partners": {
+        "media_companies": [
+          "优酷",
+          "芒果TV",
+          "华策"
+        ],
+        "tech_support": "百度云"
+      }
+    }
+  },
+  {
+    "city_id": 27,
+    "city_name": "Lake Mark",
+    "location": {
+      "latitude": 35.64649789285591,
+      "longitude": 102.08751791746671
+    },
+    "political_cultural_center": false,
+    "resource_talent_reserve": "Particularly shoulder lay though offer responsibility himself.",
+    "industry_profile": {
+      "year": 2025,
+      "quarter": "Q3",
+      "comprehensive_score": 70.61,
+      "production_strength": 72.31,
+      "overseas_market_share": 23.27,
+      "government_support": false,
+      "active_platform_count": 5,
+      "micro_drama_tags": [
+        "网络剧",
+        "原创",
+        "短视频",
+        "产业升级",
+        "年轻"
+      ],
+      "overseas_ability_level": "中低",
+      "comprehensive_ranking": 97,
+      "annual_growth_rate": 0.0406,
+      "high_growth": false,
+      "main_investors": [
+        "欢瑞世纪",
+        "华策",
+        "腾讯"
+      ]
+    },
+    "extra_info": {
+      "key_events": [
+        "enable holistic ROI",
+        "redefine leading-edge deliverables"
+      ],
+      "partners": {
+        "media_companies": [
+          "芒果TV"
+        ],
+        "tech_support": "百度云"
+      }
+    }
+  },
+  {
+    "city_id": 28,
+    "city_name": "East Lydiamouth",
+    "location": {
+      "latitude": 32.578406464502194,
+      "longitude": 119.42867289818592
+    },
+    "political_cultural_center": false,
+    "resource_talent_reserve": "During prevent accept seem show blood.",
+    "industry_profile": {
+      "year": 2025,
+      "quarter": "Q2",
+      "comprehensive_score": -3.51,
+      "production_strength": -4.02,
+      "overseas_market_share": 122.55,
+      "government_support": false,
+      "active_platform_count": 22,
+      "micro_drama_tags": [
+        "IP",
+        "多元",
+        "文化"
+      ],
+      "overseas_ability_level": "高",
+      "comprehensive_ranking": 99,
+      "annual_growth_rate": 0.0569,
+      "high_growth": false,
+      "main_investors": [
+        "华策"
+      ]
+    },
+    "extra_info": {
+      "key_events": [
+        "integrate intuitive web services",
+        "streamline clicks-and-mortar e-markets"
+      ],
+      "partners": {
+        "media_companies": [
+          "优酷"
+        ],
+        "tech_support": "百度云"
+      }
+    }
+  },
+  {
+    "city_id": 29,
+    "city_name": "Adamsborough",
+    "location": {
+      "latitude": 41.41224602970806,
+      "longitude": 113.96010624339513
+    },
+    "political_cultural_center": false,
+    "resource_talent_reserve": "Despite sound receive let newspaper true.",
+    "industry_profile": {
+      "year": 2025,
+      "quarter": "Q1",
+      "comprehensive_score": 84.54,
+      "production_strength": 85.57,
+      "overseas_market_share": 53.46,
+      "government_support": false,
+      "active_platform_count": 11,
+      "micro_drama_tags": [
+        "引流",
+        "网络剧",
+        "互动",
+        "短视频",
+        "出海"
+      ],
+      "overseas_ability_level": "中高",
+      "comprehensive_ranking": 50,
+      "annual_growth_rate": 0.0491,
+      "high_growth": false,
+      "main_investors": [
+        "欢瑞世纪"
+      ]
+    },
+    "extra_info": {
+      "key_events": [
+        "enable bleeding-edge partnerships",
+        "unleash B2C synergies"
+      ],
+      "partners": {
+        "media_companies": [
+          "华策"
+        ],
+        "tech_support": "腾讯云"
+      }
+    }
+  },
+  {
+    "city_id": 30,
+    "city_name": "Jasonfort",
+    "location": {
+      "latitude": 36.46734079047363,
+      "longitude": 110.6055502311744
+    },
+    "political_cultural_center": false,
+    "resource_talent_reserve": "Lead soon property write.",
+    "industry_profile": {
+      "year": 2025,
+      "quarter": "Q2",
+      "comprehensive_score": 80.69,
+      "production_strength": 80.3,
+      "overseas_market_share": 41.43,
+      "government_support": false,
+      "active_platform_count": 7,
+      "micro_drama_tags": [
+        "影视",
+        "产业升级",
+        "文化",
+        "资本"
+      ],
+      "overseas_ability_level": "中高",
+      "comprehensive_ranking": 77,
+      "annual_growth_rate": 0.0595,
+      "high_growth": false,
+      "main_investors": [
+        "腾讯",
+        "欢瑞世纪"
+      ]
+    },
+    "extra_info": {
+      "key_events": [
+        "architect ubiquitous relationships",
+        "streamline compelling web services",
+        "synthesize vertical synergies"
+      ],
+      "partners": {
+        "media_companies": [
+          "腾讯视频"
+        ],
+        "tech_support": "阿里云"
+      }
+    }
+  },
+  {
+    "city_id": 31,
+    "city_name": "Wilkersonmouth",
+    "location": {
+      "latitude": 24.073360677035744,
+      "longitude": 122.6588596273684
+    },
+    "political_cultural_center": false,
+    "resource_talent_reserve": "Fish sense kind spring throughout interview trade knowledge.",
+    "industry_profile": {
+      "year": 2025,
+      "quarter": "Q1",
+      "comprehensive_score": 82.58,
+      "production_strength": 84.52,
+      "overseas_market_share": 39.78,
+      "government_support": false,
+      "active_platform_count": 10,
+      "micro_drama_tags": [
+        "年轻",
+        "短视频",
+        "引流",
+        "出海",
+        "多元"
+      ],
+      "overseas_ability_level": "中低",
+      "comprehensive_ranking": 63,
+      "annual_growth_rate": 0.0515,
+      "high_growth": false,
+      "main_investors": [
+        "字节跳动",
+        "华策",
+        "欢瑞世纪"
+      ]
+    },
+    "extra_info": {
+      "key_events": [
+        "incubate transparent synergies"
+      ],
+      "partners": {
+        "media_companies": [
+          "芒果TV",
+          "腾讯视频",
+          "欢瑞世纪"
+        ],
+        "tech_support": "华为云"
+      }
+    }
+  },
+  {
+    "city_id": 32,
+    "city_name": "West Donald",
+    "location": {
+      "latitude": 21.764218685010746,
+      "longitude": 102.77993705765378
+    },
+    "political_cultural_center": false,
+    "resource_talent_reserve": "Season listen else easy.",
+    "industry_profile": {
+      "year": 2025,
+      "quarter": "Q3",
+      "comprehensive_score": 79.82,
+      "production_strength": 81.41,
+      "overseas_market_share": 43.79,
+      "government_support": false,
+      "active_platform_count": 7,
+      "micro_drama_tags": [
+        "技术",
+        "创新"
+      ],
+      "overseas_ability_level": "中高",
+      "comprehensive_ranking": 83,
+      "annual_growth_rate": 0.0243,
+      "high_growth": false,
+      "main_investors": [
+        "字节跳动",
+        "腾讯"
+      ]
+    },
+    "extra_info": {
+      "key_events": [
+        "utilize efficient users",
+        "envisioneer vertical mindshare"
+      ],
+      "partners": {
+        "media_companies": [
+          "华策"
+        ],
+        "tech_support": "腾讯云"
+      }
+    }
+  },
+  {
+    "city_id": 33,
+    "city_name": "Juliechester",
+    "location": {
+      "latitude": 36.06048195515789,
+      "longitude": 112.31562760727148
+    },
+    "political_cultural_center": false,
+    "resource_talent_reserve": "She miss phone ever back.",
+    "industry_profile": {
+      "year": 2025,
+      "quarter": "Q4",
+      "comprehensive_score": 84.01,
+      "production_strength": 85.33,
+      "overseas_market_share": 57.35,
+      "government_support": false,
+      "active_platform_count": 11,
+      "micro_drama_tags": [
+        "引流",
+        "IP"
+      ],
+      "overseas_ability_level": "中高",
+      "comprehensive_ranking": 55,
+      "annual_growth_rate": 0.0699,
+      "high_growth": true,
+      "main_investors": [
+        "欢瑞世纪",
+        "阿里巴巴"
+      ]
+    },
+    "extra_info": {
+      "key_events": [
+        "transition user-centric ROI",
+        "transform mission-critical deliverables"
+      ],
+      "partners": {
+        "media_companies": [
+          "华策"
+        ],
+        "tech_support": "华为云"
+      }
+    }
+  },
+  {
+    "city_id": 34,
+    "city_name": "Coxberg",
+    "location": {
+      "latitude": 20.662782763540545,
+      "longitude": 100.28384111918548
+    },
+    "political_cultural_center": false,
+    "resource_talent_reserve": null,
+    "industry_profile": {
+      "year": 2025,
+      "quarter": "Q4",
+      "comprehensive_score": 89.44,
+      "production_strength": 90.58,
+      "overseas_market_share": 68.89,
+      "government_support": false,
+      "active_platform_count": 10,
+      "micro_drama_tags": [
+        "技术",
+        "IP",
+        "文化"
+      ],
+      "overseas_ability_level": "高",
+      "comprehensive_ranking": 17,
+      "annual_growth_rate": 0.0401,
+      "high_growth": false,
+      "main_investors": [
+        "腾讯",
+        "字节跳动"
+      ]
+    },
+    "extra_info": {
+      "key_events": [
+        "orchestrate web-enabled solutions",
+        "re-intermediate dot-com convergence"
+      ],
+      "partners": {
+        "media_companies": [
+          "优酷"
+        ],
+        "tech_support": "阿里云"
+      }
+    }
+  },
+  {
+    "city_id": 35,
+    "city_name": "Daviston",
+    "location": {
+      "latitude": 34.64438953183658,
+      "longitude": 111.71651604985315
+    },
+    "political_cultural_center": true,
+    "resource_talent_reserve": "Doctor from throw ball character.",
+    "industry_profile": {
+      "year": 2025,
+      "quarter": "Q3",
+      "comprehensive_score": 73.94,
+      "production_strength": 79.08,
+      "overseas_market_share": 25.88,
+      "government_support": true,
+      "active_platform_count": 4,
+      "micro_drama_tags": [
+        "文化",
+        "互动"
+      ],
+      "overseas_ability_level": "中低",
+      "comprehensive_ranking": 95,
+      "annual_growth_rate": 0.0189,
+      "high_growth": false,
+      "main_investors": [
+        "欢瑞世纪"
+      ]
+    },
+    "extra_info": {
+      "key_events": [
+        "empower impactful infrastructures"
+      ],
+      "partners": {
+        "media_companies": [
+          "优酷"
+        ],
+        "tech_support": "腾讯云"
+      }
+    }
+  },
+  {
+    "city_id": 36,
+    "city_name": "East Courtneychester",
+    "location": {
+      "latitude": 43.50575603562394,
+      "longitude": 101.40758189204594
+    },
+    "political_cultural_center": false,
+    "resource_talent_reserve": "Really relationship ask imagine my indeed.",
+    "industry_profile": {
+      "year": 2025,
+      "quarter": "Q4",
+      "comprehensive_score": 84.36,
+      "production_strength": 86.2,
+      "overseas_market_share": 56.38,
+      "government_support": false,
+      "active_platform_count": 6,
+      "micro_drama_tags": [
+        "出海",
+        "网络剧",
+        "互动",
+        "创新",
+        "IP"
+      ],
+      "overseas_ability_level": "中高",
+      "comprehensive_ranking": 52,
+      "annual_growth_rate": 0.0414,
+      "high_growth": false,
+      "main_investors": [
+        "阿里巴巴",
+        "华策",
+        "欢瑞世纪"
+      ]
+    },
+    "extra_info": {
+      "key_events": [
+        "disintermediate wireless bandwidth"
+      ],
+      "partners": {
+        "media_companies": [
+          "华策"
+        ],
+        "tech_support": "华为云"
+      }
+    }
+  },
+  {
+    "city_id": 37,
+    "city_name": "South Patrickmouth",
+    "location": {
+      "latitude": 34.386854446896976,
+      "longitude": 102.97044790670179
+    },
+    "political_cultural_center": false,
+    "resource_talent_reserve": "Strategy hope show watch affect.",
+    "industry_profile": {
+      "year": 2025,
+      "quarter": "Q4",
+      "comprehensive_score": 90.28,
+      "production_strength": 83.56,
+      "overseas_market_share": 86.89,
+      "government_support": false,
+      "active_platform_count": 14,
+      "micro_drama_tags": [
+        "IP",
+        "出海"
+      ],
+      "overseas_ability_level": "高",
+      "comprehensive_ranking": 14,
+      "annual_growth_rate": 0.08,
+      "high_growth": true,
+      "main_investors": [
+        "华策"
+      ]
+    },
+    "extra_info": {
+      "key_events": [
+        "maximize interactive e-services",
+        "monetize strategic experiences",
+        "iterate robust infrastructures"
+      ],
+      "partners": {
+        "media_companies": [
+          "优酷",
+          "欢瑞世纪",
+          "芒果TV"
+        ],
+        "tech_support": "华为云"
+      }
+    }
+  },
+  {
+    "city_id": 38,
+    "city_name": "Tashatown",
+    "location": {
+      "latitude": 29.70424815516305,
+      "longitude": 102.93815616942763
+    },
+    "political_cultural_center": false,
+    "resource_talent_reserve": "Herself accept goal send table well industry.",
+    "industry_profile": {
+      "year": 2025,
+      "quarter": "Q1",
+      "comprehensive_score": 82.56,
+      "production_strength": 76.5,
+      "overseas_market_share": 36.01,
+      "government_support": true,
+      "active_platform_count": 9,
+      "micro_drama_tags": [
+        "技术",
+        "IP",
+        "年轻",
+        "原创"
+      ],
+      "overseas_ability_level": "中低",
+      "comprehensive_ranking": 64,
+      "annual_growth_rate": 0.067,
+      "high_growth": true,
+      "main_investors": [
+        "华策",
+        "腾讯",
+        "欢瑞世纪"
+      ]
+    },
+    "extra_info": {
+      "key_events": [
+        "strategize enterprise architectures",
+        "engage collaborative markets"
+      ],
+      "partners": {
+        "media_companies": [
+          "芒果TV",
+          "腾讯视频"
+        ],
+        "tech_support": "腾讯云"
+      }
+    }
+  },
+  {
+    "city_id": 39,
+    "city_name": "Lake Nicoleview",
+    "location": {
+      "latitude": 36.082205461058834,
+      "longitude": 116.23025755290159
+    },
+    "political_cultural_center": false,
+    "resource_talent_reserve": "Son today major event magazine home protect.",
+    "industry_profile": {
+      "year": 2025,
+      "quarter": "Q3",
+      "comprehensive_score": 86.12,
+      "production_strength": 87.63,
+      "overseas_market_share": 86.43,
+      "government_support": false,
+      "active_platform_count": 19,
+      "micro_drama_tags": [
+        "文化",
+        "引流",
+        "多元",
+        "创新"
+      ],
+      "overseas_ability_level": "高",
+      "comprehensive_ranking": 36,
+      "annual_growth_rate": 0.043,
+      "high_growth": false,
+      "main_investors": [
+        "欢瑞世纪",
+        "华策"
+      ]
+    },
+    "extra_info": {
+      "key_events": [
+        "whiteboard value-added communities",
+        "evolve rich e-commerce",
+        "visualize open-source networks"
+      ],
+      "partners": {
+        "media_companies": [
+          "华策",
+          "优酷",
+          "腾讯视频"
+        ],
+        "tech_support": "百度云"
+      }
+    }
+  },
+  {
+    "city_id": 40,
+    "city_name": "Danielchester",
+    "location": {
+      "latitude": 31.456322262287916,
+      "longitude": 118.65112198163558
+    },
+    "political_cultural_center": false,
+    "resource_talent_reserve": "Right subject try wonder move trade.",
+    "industry_profile": {
+      "year": 2025,
+      "quarter": "Q2",
+      "comprehensive_score": 90.27,
+      "production_strength": 91.62,
+      "overseas_market_share": 61.84,
+      "government_support": true,
+      "active_platform_count": 13,
+      "micro_drama_tags": [
+        "出海",
+        "技术",
+        "引流",
+        "互动"
+      ],
+      "overseas_ability_level": "高",
+      "comprehensive_ranking": 15,
+      "annual_growth_rate": 0.043,
+      "high_growth": false,
+      "main_investors": [
+        "字节跳动",
+        "华策",
+        "阿里巴巴"
+      ]
+    },
+    "extra_info": {
+      "key_events": [
+        "iterate mission-critical deliverables",
+        "redefine revolutionary e-services"
+      ],
+      "partners": {
+        "media_companies": [
+          "华策",
+          "欢瑞世纪",
+          "优酷"
+        ],
+        "tech_support": "百度云"
+      }
+    }
+  },
+  {
+    "city_id": 41,
+    "city_name": "South Aaron",
+    "location": {
+      "latitude": 33.64041973289837,
+      "longitude": 114.584219127429
+    },
+    "political_cultural_center": false,
+    "resource_talent_reserve": "North agree poor career left anyone here deep.",
+    "industry_profile": {
+      "year": 2025,
+      "quarter": "Q1",
+      "comprehensive_score": 80.77,
+      "production_strength": 81.56,
+      "overseas_market_share": 51.83,
+      "government_support": true,
+      "active_platform_count": 8,
+      "micro_drama_tags": [
+        "资本",
+        "IP"
+      ],
+      "overseas_ability_level": "中高",
+      "comprehensive_ranking": 76,
+      "annual_growth_rate": 0.0436,
+      "high_growth": false,
+      "main_investors": [
+        "华策",
+        "阿里巴巴",
+        "腾讯"
+      ]
+    },
+    "extra_info": {
+      "key_events": [
+        "architect collaborative niches",
+        "integrate intuitive methodologies",
+        "re-contextualize efficient users"
+      ],
+      "partners": {
+        "media_companies": [
+          "欢瑞世纪"
+        ],
+        "tech_support": "阿里云"
+      }
+    }
+  },
+  {
+    "city_id": 42,
+    "city_name": "Teresaburgh",
+    "location": {
+      "latitude": 43.53662021941313,
+      "longitude": 124.05431371186354
+    },
+    "political_cultural_center": false,
+    "resource_talent_reserve": "Front they everything week instead strong.",
+    "industry_profile": {
+      "year": 2025,
+      "quarter": "Q3",
+      "comprehensive_score": 75.34,
+      "production_strength": 77.56,
+      "overseas_market_share": 27.91,
+      "government_support": false,
+      "active_platform_count": 5,
+      "micro_drama_tags": [
+        "资本",
+        "IP",
+        "出海",
+        "产业升级"
+      ],
+      "overseas_ability_level": "中低",
+      "comprehensive_ranking": 93,
+      "annual_growth_rate": 0.0915,
+      "high_growth": true,
+      "main_investors": [
+        "字节跳动",
+        "阿里巴巴"
+      ]
+    },
+    "extra_info": {
+      "key_events": [
+        "maximize robust ROI",
+        "re-contextualize turn-key web-readiness"
+      ],
+      "partners": {
+        "media_companies": [
+          "优酷",
+          "腾讯视频"
+        ],
+        "tech_support": "腾讯云"
+      }
+    }
+  },
+  {
+    "city_id": 43,
+    "city_name": "Port Colleenhaven",
+    "location": {
+      "latitude": 29.652565945019354,
+      "longitude": 109.3717644880926
+    },
+    "political_cultural_center": false,
+    "resource_talent_reserve": "Affect much yourself glass practice sit prepare.",
+    "industry_profile": {
+      "year": 2025,
+      "quarter": "Q1",
+      "comprehensive_score": 87.71,
+      "production_strength": 87.6,
+      "overseas_market_share": 54.6,
+      "government_support": true,
+      "active_platform_count": 11,
+      "micro_drama_tags": [
+        "引流",
+        "年轻",
+        "技术"
+      ],
+      "overseas_ability_level": "中高",
+      "comprehensive_ranking": 27,
+      "annual_growth_rate": 0.0576,
+      "high_growth": false,
+      "main_investors": [
+        "欢瑞世纪",
+        "华策",
+        "阿里巴巴"
+      ]
+    },
+    "extra_info": {
+      "key_events": [
+        "architect B2B interfaces"
+      ],
+      "partners": {
+        "media_companies": [
+          "芒果TV"
+        ],
+        "tech_support": "腾讯云"
+      }
+    }
+  },
+  {
+    "city_id": 44,
+    "city_name": "East Nathaniel",
+    "location": {
+      "latitude": 44.029764095597855,
+      "longitude": 107.14280215704652
+    },
+    "political_cultural_center": false,
+    "resource_talent_reserve": "Wear current after.",
+    "industry_profile": {
+      "year": 2025,
+      "quarter": "Q2",
+      "comprehensive_score": 79.82,
+      "production_strength": 81.56,
+      "overseas_market_share": 21.93,
+      "government_support": false,
+      "active_platform_count": 2,
+      "micro_drama_tags": [
+        "出海",
+        "技术",
+        "互动"
+      ],
+      "overseas_ability_level": "中低",
+      "comprehensive_ranking": 84,
+      "annual_growth_rate": 0.0586,
+      "high_growth": false,
+      "main_investors": [
+        "腾讯",
+        "华策",
+        "阿里巴巴"
+      ]
+    },
+    "extra_info": {
+      "key_events": [
+        "re-contextualize intuitive content",
+        "leverage web-enabled networks",
+        "e-enable integrated methodologies"
+      ],
+      "partners": {
+        "media_companies": [
+          "华策",
+          "欢瑞世纪"
+        ],
+        "tech_support": "腾讯云"
+      }
+    }
+  },
+  {
+    "city_id": 45,
+    "city_name": "New Stephanie",
+    "location": {
+      "latitude": 42.63376604890159,
+      "longitude": 121.71497820473651
+    },
+    "political_cultural_center": false,
+    "resource_talent_reserve": "Draw list boy way.",
+    "industry_profile": {
+      "year": 2025,
+      "quarter": "Q2",
+      "comprehensive_score": 87.1,
+      "production_strength": 91.75,
+      "overseas_market_share": 84.69,
+      "government_support": false,
+      "active_platform_count": 20,
+      "micro_drama_tags": [
+        "产业升级",
+        "年轻"
+      ],
+      "overseas_ability_level": "高",
+      "comprehensive_ranking": 29,
+      "annual_growth_rate": 0.0706,
+      "high_growth": true,
+      "main_investors": [
+        "字节跳动"
+      ]
+    },
+    "extra_info": {
+      "key_events": [
+        "productize open-source architectures",
+        "engineer global infrastructures",
+        "deliver cross-media markets"
+      ],
+      "partners": {
+        "media_companies": [
+          "欢瑞世纪",
+          "腾讯视频",
+          "华策"
+        ],
+        "tech_support": "百度云"
+      }
+    }
+  },
+  {
+    "city_id": 46,
+    "city_name": "New Mariotown",
+    "location": {
+      "latitude": 24.89477836973241,
+      "longitude": 105.58989596298632
+    },
+    "political_cultural_center": false,
+    "resource_talent_reserve": "Record short cold parent security boy standard.",
+    "industry_profile": {
+      "year": 2025,
+      "quarter": "Q3",
+      "comprehensive_score": 77.04,
+      "production_strength": 75.65,
+      "overseas_market_share": 68.79,
+      "government_support": false,
+      "active_platform_count": 16,
+      "micro_drama_tags": [
+        "创新",
+        "原创",
+        "年轻",
+        "网络剧",
+        "短视频"
+      ],
+      "overseas_ability_level": "高",
+      "comprehensive_ranking": 90,
+      "annual_growth_rate": 0.0548,
+      "high_growth": false,
+      "main_investors": [
+        "欢瑞世纪",
+        "华策",
+        "阿里巴巴"
+      ]
+    },
+    "extra_info": {
+      "key_events": [
+        "transform user-centric e-services",
+        "e-enable intuitive supply-chains",
+        "expedite impactful vortals"
+      ],
+      "partners": {
+        "media_companies": [
+          "芒果TV"
+        ],
+        "tech_support": "百度云"
+      }
+    }
+  },
+  {
+    "city_id": 47,
+    "city_name": "West Natashaport",
+    "location": {
+      "latitude": 21.734032521879136,
+      "longitude": 124.08056348601528
+    },
+    "political_cultural_center": false,
+    "resource_talent_reserve": "Blue agent find quality when.",
+    "industry_profile": {
+      "year": 2025,
+      "quarter": "Q2",
+      "comprehensive_score": 93.13,
+      "production_strength": 95.64,
+      "overseas_market_share": 87.9,
+      "government_support": true,
+      "active_platform_count": 17,
+      "micro_drama_tags": [
+        "短视频",
+        "产业升级"
+      ],
+      "overseas_ability_level": "高",
+      "comprehensive_ranking": 8,
+      "annual_growth_rate": 0.0448,
+      "high_growth": false,
+      "main_investors": [
+        "字节跳动",
+        "阿里巴巴"
+      ]
+    },
+    "extra_info": {
+      "key_events": [
+        "utilize real-time systems"
+      ],
+      "partners": {
+        "media_companies": [
+          "欢瑞世纪"
+        ],
+        "tech_support": "腾讯云"
+      }
+    }
+  },
+  {
+    "city_id": 48,
+    "city_name": "North John",
+    "location": {
+      "latitude": 22.519450034435668,
+      "longitude": 100.3038618672454
+    },
+    "political_cultural_center": true,
+    "resource_talent_reserve": "Walk cup option store drug recent.",
+    "industry_profile": {
+      "year": 2025,
+      "quarter": "Q1",
+      "comprehensive_score": 73.61,
+      "production_strength": 78.4,
+      "overseas_market_share": 21.37,
+      "government_support": true,
+      "active_platform_count": 4,
+      "micro_drama_tags": [
+        "原创",
+        "影视"
+      ],
+      "overseas_ability_level": "中低",
+      "comprehensive_ranking": 96,
+      "annual_growth_rate": 0.0461,
+      "high_growth": false,
+      "main_investors": [
+        "字节跳动",
+        "阿里巴巴",
+        "华策"
+      ]
+    },
+    "extra_info": {
+      "key_events": [
+        "synthesize bleeding-edge convergence",
+        "engage enterprise e-commerce",
+        "reinvent enterprise infrastructures"
+      ],
+      "partners": {
+        "media_companies": [
+          "优酷",
+          "芒果TV",
+          "欢瑞世纪"
+        ],
+        "tech_support": "阿里云"
+      }
+    }
+  },
+  {
+    "city_id": 49,
+    "city_name": "North Jessicaland",
+    "location": {
+      "latitude": 20.455545641288744,
+      "longitude": 124.24697066769097
+    },
+    "political_cultural_center": false,
+    "resource_talent_reserve": "Sure outside building worker site.",
+    "industry_profile": {
+      "year": 2025,
+      "quarter": "Q2",
+      "comprehensive_score": 93.64,
+      "production_strength": 88.93,
+      "overseas_market_share": 66.42,
+      "government_support": false,
+      "active_platform_count": 14,
+      "micro_drama_tags": [
+        "资本",
+        "原创",
+        "技术",
+        "出海",
+        "引流"
+      ],
+      "overseas_ability_level": "高",
+      "comprehensive_ranking": 7,
+      "annual_growth_rate": 0.0486,
+      "high_growth": false,
+      "main_investors": [
+        "华策"
+      ]
+    },
+    "extra_info": {
+      "key_events": [
+        "revolutionize distributed action-items",
+        "unleash intuitive infrastructures"
+      ],
+      "partners": {
+        "media_companies": [
+          "芒果TV",
+          "腾讯视频",
+          "欢瑞世纪"
+        ],
+        "tech_support": "华为云"
+      }
+    }
+  },
+  {
+    "city_id": 50,
+    "city_name": "East Donna",
+    "location": {
+      "latitude": 22.36107401889821,
+      "longitude": 101.0789977987644
+    },
+    "political_cultural_center": false,
+    "resource_talent_reserve": "Mouth product attention positive actually information.",
+    "industry_profile": {
+      "year": 2025,
+      "quarter": "Q1",
+      "comprehensive_score": 84.14,
+      "production_strength": 84.08,
+      "overseas_market_share": 60.21,
+      "government_support": false,
+      "active_platform_count": 8,
+      "micro_drama_tags": [
+        "IP",
+        "多元",
+        "出海"
+      ],
+      "overseas_ability_level": "高",
+      "comprehensive_ranking": 54,
+      "annual_growth_rate": 0.0493,
+      "high_growth": false,
+      "main_investors": [
+        "欢瑞世纪",
+        "华策",
+        "腾讯"
+      ]
+    },
+    "extra_info": {
+      "key_events": [
+        "empower B2C architectures",
+        "unleash B2C architectures"
+      ],
+      "partners": {
+        "media_companies": [
+          "优酷"
+        ],
+        "tech_support": "阿里云"
+      }
+    }
+  },
+  {
+    "city_id": 51,
+    "city_name": "West Allison",
+    "location": {
+      "latitude": 37.07516933540892,
+      "longitude": 122.27857784245178
+    },
+    "political_cultural_center": false,
+    "resource_talent_reserve": null,
+    "industry_profile": {
+      "year": 2025,
+      "quarter": "Q1",
+      "comprehensive_score": 86.5,
+      "production_strength": 85.0,
+      "overseas_market_share": 35.56,
+      "government_support": false,
+      "active_platform_count": 7,
+      "micro_drama_tags": [
+        "网络剧",
+        "出海",
+        "产业升级"
+      ],
+      "overseas_ability_level": "中低",
+      "comprehensive_ranking": 32,
+      "annual_growth_rate": 0.0646,
+      "high_growth": true,
+      "main_investors": [
+        "华策"
+      ]
+    },
+    "extra_info": {
+      "key_events": [
+        "harness bricks-and-clicks platforms",
+        "evolve clicks-and-mortar content"
+      ],
+      "partners": {
+        "media_companies": [
+          "芒果TV",
+          "优酷",
+          "华策"
+        ],
+        "tech_support": "阿里云"
+      }
+    }
+  },
+  {
+    "city_id": 52,
+    "city_name": "Brandtside",
+    "location": {
+      "latitude": 21.779716211505725,
+      "longitude": 113.1925277271575
+    },
+    "political_cultural_center": false,
+    "resource_talent_reserve": "Black whether player stock religious itself safe.",
+    "industry_profile": {
+      "year": 2025,
+      "quarter": "Q2",
+      "comprehensive_score": -9.84,
+      "production_strength": -4.18,
+      "overseas_market_share": 124.75,
+      "government_support": false,
+      "active_platform_count": 24,
+      "micro_drama_tags": [
+        "短视频",
+        "出海",
+        "技术",
+        "影视",
+        "互动"
+      ],
+      "overseas_ability_level": "高",
+      "comprehensive_ranking": 100,
+      "annual_growth_rate": 0.051,
+      "high_growth": false,
+      "main_investors": [
+        "阿里巴巴"
+      ]
+    },
+    "extra_info": {
+      "key_events": [
+        "grow bricks-and-clicks niches"
+      ],
+      "partners": {
+        "media_companies": [
+          "优酷",
+          "华策",
+          "芒果TV"
+        ],
+        "tech_support": "腾讯云"
+      }
+    }
+  },
+  {
+    "city_id": 53,
+    "city_name": "Lake Larry",
+    "location": {
+      "latitude": 27.974390757344032,
+      "longitude": 124.82411990298252
+    },
+    "political_cultural_center": false,
+    "resource_talent_reserve": "Pattern try simple let stay.",
+    "industry_profile": {
+      "year": 2025,
+      "quarter": "Q3",
+      "comprehensive_score": 88.22,
+      "production_strength": 89.27,
+      "overseas_market_share": 58.64,
+      "government_support": false,
+      "active_platform_count": 10,
+      "micro_drama_tags": [
+        "文化",
+        "IP",
+        "资本",
+        "年轻"
+      ],
+      "overseas_ability_level": "中高",
+      "comprehensive_ranking": 24,
+      "annual_growth_rate": 0.0647,
+      "high_growth": true,
+      "main_investors": [
+        "腾讯"
+      ]
+    },
+    "extra_info": {
+      "key_events": [
+        "transform end-to-end infrastructures",
+        "reinvent user-centric systems",
+        "engage transparent platforms"
+      ],
+      "partners": {
+        "media_companies": [
+          "欢瑞世纪"
+        ],
+        "tech_support": "华为云"
+      }
+    }
+  },
+  {
+    "city_id": 54,
+    "city_name": "Samuelhaven",
+    "location": {
+      "latitude": 41.12188277423637,
+      "longitude": 101.84491411838498
+    },
+    "political_cultural_center": false,
+    "resource_talent_reserve": null,
+    "industry_profile": {
+      "year": 2025,
+      "quarter": "Q4",
+      "comprehensive_score": 92.07,
+      "production_strength": 89.52,
+      "overseas_market_share": 53.85,
+      "government_support": false,
+      "active_platform_count": 10,
+      "micro_drama_tags": [
+        "互动",
+        "出海",
+        "多元",
+        "原创",
+        "短视频"
+      ],
+      "overseas_ability_level": "中高",
+      "comprehensive_ranking": 10,
+      "annual_growth_rate": 0.0484,
+      "high_growth": false,
+      "main_investors": [
+        "阿里巴巴"
+      ]
+    },
+    "extra_info": {
+      "key_events": [
+        "utilize e-business convergence",
+        "engage e-business metrics",
+        "expedite world-class architectures"
+      ],
+      "partners": {
+        "media_companies": [
+          "腾讯视频",
+          "芒果TV",
+          "华策"
+        ],
+        "tech_support": "华为云"
+      }
+    }
+  },
+  {
+    "city_id": 55,
+    "city_name": "Martinezbury",
+    "location": {
+      "latitude": 20.581798393395648,
+      "longitude": 113.84635711003303
+    },
+    "political_cultural_center": false,
+    "resource_talent_reserve": "Environmental system store beautiful think during let particular.",
+    "industry_profile": {
+      "year": 2025,
+      "quarter": "Q2",
+      "comprehensive_score": 85.88,
+      "production_strength": 90.46,
+      "overseas_market_share": 40.0,
+      "government_support": false,
+      "active_platform_count": 12,
+      "micro_drama_tags": [
+        "原创",
+        "年轻",
+        "创新"
+      ],
+      "overseas_ability_level": "中高",
+      "comprehensive_ranking": 39,
+      "annual_growth_rate": 0.0516,
+      "high_growth": false,
+      "main_investors": [
+        "欢瑞世纪",
+        "腾讯"
+      ]
+    },
+    "extra_info": {
+      "key_events": [
+        "implement distributed e-markets",
+        "synergize strategic schemas",
+        "productize interactive networks"
+      ],
+      "partners": {
+        "media_companies": [
+          "华策",
+          "腾讯视频"
+        ],
+        "tech_support": "腾讯云"
+      }
+    }
+  },
+  {
+    "city_id": 56,
+    "city_name": "West Andrewside",
+    "location": {
+      "latitude": 40.36171206472339,
+      "longitude": 124.23256339047748
+    },
+    "political_cultural_center": false,
+    "resource_talent_reserve": "From management foot maintain great election.",
+    "industry_profile": {
+      "year": 2025,
+      "quarter": "Q1",
+      "comprehensive_score": 86.1,
+      "production_strength": 83.82,
+      "overseas_market_share": 61.2,
+      "government_support": true,
+      "active_platform_count": 14,
+      "micro_drama_tags": [
+        "产业升级",
+        "短视频",
+        "创新"
+      ],
+      "overseas_ability_level": "高",
+      "comprehensive_ranking": 37,
+      "annual_growth_rate": 0.01,
+      "high_growth": false,
+      "main_investors": [
+        "字节跳动",
+        "阿里巴巴"
+      ]
+    },
+    "extra_info": {
+      "key_events": [
+        "mesh frictionless methodologies",
+        "synergize frictionless channels"
+      ],
+      "partners": {
+        "media_companies": [
+          "芒果TV",
+          "华策"
+        ],
+        "tech_support": "百度云"
+      }
+    }
+  },
+  {
+    "city_id": 57,
+    "city_name": "New Jeffrey",
+    "location": {
+      "latitude": 27.046369369334997,
+      "longitude": 113.07744610425372
+    },
+    "political_cultural_center": false,
+    "resource_talent_reserve": "They red everybody act way.",
+    "industry_profile": {
+      "year": 2025,
+      "quarter": "Q1",
+      "comprehensive_score": 85.77,
+      "production_strength": 88.03,
+      "overseas_market_share": 64.11,
+      "government_support": false,
+      "active_platform_count": 12,
+      "micro_drama_tags": [
+        "影视",
+        "IP"
+      ],
+      "overseas_ability_level": "高",
+      "comprehensive_ranking": 40,
+      "annual_growth_rate": 0.0683,
+      "high_growth": true,
+      "main_investors": [
+        "字节跳动",
+        "欢瑞世纪",
+        "阿里巴巴"
+      ]
+    },
+    "extra_info": {
+      "key_events": [
+        "empower seamless niches",
+        "synthesize B2B partnerships"
+      ],
+      "partners": {
+        "media_companies": [
+          "腾讯视频",
+          "芒果TV"
+        ],
+        "tech_support": "华为云"
+      }
+    }
+  },
+  {
+    "city_id": 58,
+    "city_name": "Lake Crystalbury",
+    "location": {
+      "latitude": 22.954120690541405,
+      "longitude": 115.73496595338156
+    },
+    "political_cultural_center": false,
+    "resource_talent_reserve": "Drop image new drive.",
+    "industry_profile": {
+      "year": 2025,
+      "quarter": "Q2",
+      "comprehensive_score": 112.21,
+      "production_strength": 115.74,
+      "overseas_market_share": 114.67,
+      "government_support": false,
+      "active_platform_count": 24,
+      "micro_drama_tags": [
+        "短视频",
+        "原创"
+      ],
+      "overseas_ability_level": "高",
+      "comprehensive_ranking": 2,
+      "annual_growth_rate": 0.0569,
+      "high_growth": false,
+      "main_investors": [
+        "阿里巴巴"
+      ]
+    },
+    "extra_info": {
+      "key_events": [
+        "leverage user-centric niches",
+        "deploy seamless info-mediaries",
+        "generate intuitive relationships"
+      ],
+      "partners": {
+        "media_companies": [
+          "腾讯视频"
+        ],
+        "tech_support": "阿里云"
+      }
+    }
+  },
+  {
+    "city_id": 59,
+    "city_name": "North Micheleland",
+    "location": {
+      "latitude": 37.41842913410377,
+      "longitude": 117.39371722461543
+    },
+    "political_cultural_center": false,
+    "resource_talent_reserve": "Position make society behavior develop reality fill.",
+    "industry_profile": {
+      "year": 2025,
+      "quarter": "Q3",
+      "comprehensive_score": 82.92,
+      "production_strength": 82.15,
+      "overseas_market_share": 37.37,
+      "government_support": false,
+      "active_platform_count": 10,
+      "micro_drama_tags": [
+        "资本",
+        "年轻"
+      ],
+      "overseas_ability_level": "中低",
+      "comprehensive_ranking": 61,
+      "annual_growth_rate": 0.07,
+      "high_growth": true,
+      "main_investors": [
+        "腾讯",
+        "欢瑞世纪",
+        "阿里巴巴"
+      ]
+    },
+    "extra_info": {
+      "key_events": [
+        "morph interactive functionalities",
+        "synthesize 24/365 bandwidth"
+      ],
+      "partners": {
+        "media_companies": [
+          "芒果TV",
+          "华策"
+        ],
+        "tech_support": "华为云"
+      }
+    }
+  },
+  {
+    "city_id": 60,
+    "city_name": "West Elizabeth",
+    "location": {
+      "latitude": 35.7235711694971,
+      "longitude": 111.36352661919433
+    },
+    "political_cultural_center": false,
+    "resource_talent_reserve": "Hard network gas you nearly goal law fill.",
+    "industry_profile": {
+      "year": 2025,
+      "quarter": "Q3",
+      "comprehensive_score": 84.94,
+      "production_strength": 85.89,
+      "overseas_market_share": 48.5,
+      "government_support": true,
+      "active_platform_count": 12,
+      "micro_drama_tags": [
+        "出海",
+        "短视频"
+      ],
+      "overseas_ability_level": "中高",
+      "comprehensive_ranking": 48,
+      "annual_growth_rate": -0.0079,
+      "high_growth": false,
+      "main_investors": [
+        "阿里巴巴"
+      ]
+    },
+    "extra_info": {
+      "key_events": [
+        "transform global content",
+        "implement impactful supply-chains",
+        "e-enable enterprise supply-chains"
+      ],
+      "partners": {
+        "media_companies": [
+          "优酷"
+        ],
+        "tech_support": "华为云"
+      }
+    }
+  },
+  {
+    "city_id": 61,
+    "city_name": "New David",
+    "location": {
+      "latitude": 41.936800338176326,
+      "longitude": 115.68895200210159
+    },
+    "political_cultural_center": false,
+    "resource_talent_reserve": "Building court build movie several.",
+    "industry_profile": {
+      "year": 2025,
+      "quarter": "Q1",
+      "comprehensive_score": 89.08,
+      "production_strength": 86.49,
+      "overseas_market_share": 68.19,
+      "government_support": false,
+      "active_platform_count": 14,
+      "micro_drama_tags": [
+        "IP",
+        "多元",
+        "短视频",
+        "出海"
+      ],
+      "overseas_ability_level": "高",
+      "comprehensive_ranking": 20,
+      "annual_growth_rate": 0.0918,
+      "high_growth": true,
+      "main_investors": [
+        "欢瑞世纪",
+        "字节跳动",
+        "腾讯"
+      ]
+    },
+    "extra_info": {
+      "key_events": [
+        "grow open-source e-commerce",
+        "transition global content"
+      ],
+      "partners": {
+        "media_companies": [
+          "欢瑞世纪"
+        ],
+        "tech_support": "腾讯云"
+      }
+    }
+  },
+  {
+    "city_id": 62,
+    "city_name": "Sanchezfort",
+    "location": {
+      "latitude": 38.37677609509714,
+      "longitude": 114.6078577980775
+    },
+    "political_cultural_center": false,
+    "resource_talent_reserve": "Course school everybody operation.",
+    "industry_profile": {
+      "year": 2025,
+      "quarter": "Q1",
+      "comprehensive_score": 85.16,
+      "production_strength": 84.15,
+      "overseas_market_share": 35.41,
+      "government_support": false,
+      "active_platform_count": 6,
+      "micro_drama_tags": [
+        "影视",
+        "产业升级",
+        "资本"
+      ],
+      "overseas_ability_level": "中低",
+      "comprehensive_ranking": 46,
+      "annual_growth_rate": 0.0472,
+      "high_growth": false,
+      "main_investors": [
+        "阿里巴巴",
+        "腾讯",
+        "欢瑞世纪"
+      ]
+    },
+    "extra_info": {
+      "key_events": [
+        "harness 24/365 info-mediaries",
+        "harness virtual interfaces",
+        "harness distributed functionalities"
+      ],
+      "partners": {
+        "media_companies": [
+          "腾讯视频",
+          "华策"
+        ],
+        "tech_support": "百度云"
+      }
+    }
+  },
+  {
+    "city_id": 63,
+    "city_name": "Leeville",
+    "location": {
+      "latitude": 40.08702325962122,
+      "longitude": 122.52895026227472
+    },
+    "political_cultural_center": false,
+    "resource_talent_reserve": "Others wonder strategy fast guess few remain.",
+    "industry_profile": {
+      "year": 2025,
+      "quarter": "Q3",
+      "comprehensive_score": 80.27,
+      "production_strength": 86.53,
+      "overseas_market_share": 43.54,
+      "government_support": true,
+      "active_platform_count": 10,
+      "micro_drama_tags": [
+        "短视频",
+        "技术",
+        "多元",
+        "文化",
+        "互动"
+      ],
+      "overseas_ability_level": "中高",
+      "comprehensive_ranking": 79,
+      "annual_growth_rate": 0.0722,
+      "high_growth": true,
+      "main_investors": [
+        "字节跳动"
+      ]
+    },
+    "extra_info": {
+      "key_events": [
+        "synthesize interactive vortals",
+        "synergize efficient interfaces"
+      ],
+      "partners": {
+        "media_companies": [
+          "欢瑞世纪",
+          "芒果TV",
+          "优酷"
+        ],
+        "tech_support": "华为云"
+      }
+    }
+  },
+  {
+    "city_id": 64,
+    "city_name": "Gomezchester",
+    "location": {
+      "latitude": 27.050864314282663,
+      "longitude": 101.13615950853645
+    },
+    "political_cultural_center": true,
+    "resource_talent_reserve": "Ever window network recently.",
+    "industry_profile": {
+      "year": 2025,
+      "quarter": "Q4",
+      "comprehensive_score": 88.54,
+      "production_strength": 90.73,
+      "overseas_market_share": 74.56,
+      "government_support": false,
+      "active_platform_count": 16,
+      "micro_drama_tags": [
+        "原创",
+        "IP"
+      ],
+      "overseas_ability_level": "高",
+      "comprehensive_ranking": 23,
+      "annual_growth_rate": 0.0292,
+      "high_growth": false,
+      "main_investors": [
+        "欢瑞世纪",
+        "华策",
+        "阿里巴巴"
+      ]
+    },
+    "extra_info": {
+      "key_events": [
+        "disintermediate one-to-one networks"
+      ],
+      "partners": {
+        "media_companies": [
+          "优酷"
+        ],
+        "tech_support": "百度云"
+      }
+    }
+  },
+  {
+    "city_id": 65,
+    "city_name": "Shieldston",
+    "location": {
+      "latitude": 24.43598859449307,
+      "longitude": 107.02407973980576
+    },
+    "political_cultural_center": false,
+    "resource_talent_reserve": "Point sell bill activity.",
+    "industry_profile": {
+      "year": 2025,
+      "quarter": "Q2",
+      "comprehensive_score": 91.28,
+      "production_strength": 89.1,
+      "overseas_market_share": 57.18,
+      "government_support": false,
+      "active_platform_count": 13,
+      "micro_drama_tags": [
+        "年轻",
+        "文化",
+        "资本",
+        "多元",
+        "创新"
+      ],
+      "overseas_ability_level": "中高",
+      "comprehensive_ranking": 13,
+      "annual_growth_rate": 0.0623,
+      "high_growth": true,
+      "main_investors": [
+        "欢瑞世纪",
+        "字节跳动",
+        "华策"
+      ]
+    },
+    "extra_info": {
+      "key_events": [
+        "aggregate viral methodologies",
+        "revolutionize proactive bandwidth",
+        "unleash best-of-breed systems"
+      ],
+      "partners": {
+        "media_companies": [
+          "芒果TV"
+        ],
+        "tech_support": "阿里云"
+      }
+    }
+  },
+  {
+    "city_id": 66,
+    "city_name": "North Richardmouth",
+    "location": {
+      "latitude": 38.76536879102146,
+      "longitude": 123.76028710191397
+    },
+    "political_cultural_center": false,
+    "resource_talent_reserve": "Light key continue anything wait.",
+    "industry_profile": {
+      "year": 2025,
+      "quarter": "Q1",
+      "comprehensive_score": 86.28,
+      "production_strength": 84.04,
+      "overseas_market_share": 76.09,
+      "government_support": true,
+      "active_platform_count": 16,
+      "micro_drama_tags": [
+        "创新",
+        "文化"
+      ],
+      "overseas_ability_level": "高",
+      "comprehensive_ranking": 34,
+      "annual_growth_rate": 0.0289,
+      "high_growth": false,
+      "main_investors": [
+        "阿里巴巴",
+        "字节跳动"
+      ]
+    },
+    "extra_info": {
+      "key_events": [
+        "exploit distributed partnerships",
+        "transition transparent methodologies",
+        "synthesize global functionalities"
+      ],
+      "partners": {
+        "media_companies": [
+          "华策",
+          "欢瑞世纪"
+        ],
+        "tech_support": "阿里云"
+      }
+    }
+  },
+  {
+    "city_id": 67,
+    "city_name": "East Jamesside",
+    "location": {
+      "latitude": 40.1708684816816,
+      "longitude": 122.25659459727291
+    },
+    "political_cultural_center": false,
+    "resource_talent_reserve": "Box assume man officer rather charge specific.",
+    "industry_profile": {
+      "year": 2025,
+      "quarter": "Q1",
+      "comprehensive_score": 95.77,
+      "production_strength": 92.71,
+      "overseas_market_share": 53.35,
+      "government_support": true,
+      "active_platform_count": 13,
+      "micro_drama_tags": [
+        "技术",
+        "资本",
+        "原创",
+        "短视频"
+      ],
+      "overseas_ability_level": "中高",
+      "comprehensive_ranking": 5,
+      "annual_growth_rate": 0.0375,
+      "high_growth": false,
+      "main_investors": [
+        "华策",
+        "阿里巴巴"
+      ]
+    },
+    "extra_info": {
+      "key_events": [
+        "monetize web-enabled portals",
+        "repurpose B2C e-commerce"
+      ],
+      "partners": {
+        "media_companies": [
+          "欢瑞世纪"
+        ],
+        "tech_support": "华为云"
+      }
+    }
+  },
+  {
+    "city_id": 68,
+    "city_name": "Taylorburgh",
+    "location": {
+      "latitude": 44.76262855001683,
+      "longitude": 111.39141881964282
+    },
+    "political_cultural_center": false,
+    "resource_talent_reserve": "Be easy newspaper indicate other.",
+    "industry_profile": {
+      "year": 2025,
+      "quarter": "Q3",
+      "comprehensive_score": 77.39,
+      "production_strength": 81.05,
+      "overseas_market_share": 28.68,
+      "government_support": false,
+      "active_platform_count": 5,
+      "micro_drama_tags": [
+        "短视频",
+        "出海",
+        "多元"
+      ],
+      "overseas_ability_level": "中低",
+      "comprehensive_ranking": 89,
+      "annual_growth_rate": 0.0883,
+      "high_growth": true,
+      "main_investors": [
+        "华策",
+        "字节跳动",
+        "欢瑞世纪"
+      ]
+    },
+    "extra_info": {
+      "key_events": [
+        "generate enterprise partnerships",
+        "grow compelling applications",
+        "strategize next-generation users"
+      ],
+      "partners": {
+        "media_companies": [
+          "优酷",
+          "芒果TV"
+        ],
+        "tech_support": "华为云"
+      }
+    }
+  },
+  {
+    "city_id": 69,
+    "city_name": "Stevenland",
+    "location": {
+      "latitude": 30.315441922785663,
+      "longitude": 115.50331494503843
+    },
+    "political_cultural_center": false,
+    "resource_talent_reserve": "Difficult mission late kind team wrong figure perform.",
+    "industry_profile": {
+      "year": 2025,
+      "quarter": "Q2",
+      "comprehensive_score": 81.52,
+      "production_strength": 88.92,
+      "overseas_market_share": 33.13,
+      "government_support": true,
+      "active_platform_count": 9,
+      "micro_drama_tags": [
+        "文化",
+        "引流",
+        "网络剧"
+      ],
+      "overseas_ability_level": "中低",
+      "comprehensive_ranking": 67,
+      "annual_growth_rate": 0.0462,
+      "high_growth": false,
+      "main_investors": [
+        "华策"
+      ]
+    },
+    "extra_info": {
+      "key_events": [
+        "integrate bricks-and-clicks users",
+        "expedite strategic platforms"
+      ],
+      "partners": {
+        "media_companies": [
+          "欢瑞世纪",
+          "腾讯视频"
+        ],
+        "tech_support": "百度云"
+      }
+    }
+  },
+  {
+    "city_id": 70,
+    "city_name": "Mortonside",
+    "location": {
+      "latitude": 29.30045214481958,
+      "longitude": 106.93452957452831
+    },
+    "political_cultural_center": false,
+    "resource_talent_reserve": null,
+    "industry_profile": {
+      "year": 2025,
+      "quarter": "Q3",
+      "comprehensive_score": 85.34,
+      "production_strength": 77.02,
+      "overseas_market_share": 19.8,
+      "government_support": false,
+      "active_platform_count": 4,
+      "micro_drama_tags": [
+        "短视频",
+        "资本",
+        "原创",
+        "多元",
+        "出海"
+      ],
+      "overseas_ability_level": "低",
+      "comprehensive_ranking": 44,
+      "annual_growth_rate": 0.0543,
+      "high_growth": false,
+      "main_investors": [
+        "腾讯",
+        "华策"
+      ]
+    },
+    "extra_info": {
+      "key_events": [
+        "revolutionize interactive web services",
+        "repurpose synergistic communities"
+      ],
+      "partners": {
+        "media_companies": [
+          "优酷"
+        ],
+        "tech_support": "百度云"
+      }
+    }
+  },
+  {
+    "city_id": 71,
+    "city_name": "North Deniseside",
+    "location": {
+      "latitude": 39.41032401854992,
+      "longitude": 104.70302899309404
+    },
+    "political_cultural_center": false,
+    "resource_talent_reserve": "Whether between several personal enough ball dream necessary.",
+    "industry_profile": {
+      "year": 2025,
+      "quarter": "Q2",
+      "comprehensive_score": 86.18,
+      "production_strength": 84.4,
+      "overseas_market_share": 55.64,
+      "government_support": true,
+      "active_platform_count": 15,
+      "micro_drama_tags": [
+        "创新",
+        "IP"
+      ],
+      "overseas_ability_level": "中高",
+      "comprehensive_ranking": 35,
+      "annual_growth_rate": 0.0674,
+      "high_growth": true,
+      "main_investors": [
+        "华策"
+      ]
+    },
+    "extra_info": {
+      "key_events": [
+        "visualize revolutionary networks"
+      ],
+      "partners": {
+        "media_companies": [
+          "腾讯视频",
+          "芒果TV"
+        ],
+        "tech_support": "腾讯云"
+      }
+    }
+  },
+  {
+    "city_id": 72,
+    "city_name": "North Sarabury",
+    "location": {
+      "latitude": 28.520088506325447,
+      "longitude": 111.59246012349955
+    },
+    "political_cultural_center": false,
+    "resource_talent_reserve": "Able late order fact.",
+    "industry_profile": {
+      "year": 2025,
+      "quarter": "Q2",
+      "comprehensive_score": 87.29,
+      "production_strength": 90.01,
+      "overseas_market_share": 52.11,
+      "government_support": false,
+      "active_platform_count": 9,
+      "micro_drama_tags": [
+        "原创",
+        "技术"
+      ],
+      "overseas_ability_level": "中高",
+      "comprehensive_ranking": 28,
+      "annual_growth_rate": 0.0599,
+      "high_growth": false,
+      "main_investors": [
+        "华策",
+        "腾讯"
+      ]
+    },
+    "extra_info": {
+      "key_events": [
+        "visualize wireless supply-chains"
+      ],
+      "partners": {
+        "media_companies": [
+          "芒果TV",
+          "腾讯视频"
+        ],
+        "tech_support": "百度云"
+      }
+    }
+  },
+  {
+    "city_id": 73,
+    "city_name": "South Todd",
+    "location": {
+      "latitude": 43.26893314008912,
+      "longitude": 108.83380570065133
+    },
+    "political_cultural_center": false,
+    "resource_talent_reserve": "Explain executive teacher author do.",
+    "industry_profile": {
+      "year": 2025,
+      "quarter": "Q2",
+      "comprehensive_score": 79.83,
+      "production_strength": 82.67,
+      "overseas_market_share": 50.59,
+      "government_support": true,
+      "active_platform_count": 14,
+      "micro_drama_tags": [
+        "引流",
+        "文化",
+        "多元"
+      ],
+      "overseas_ability_level": "中高",
+      "comprehensive_ranking": 82,
+      "annual_growth_rate": 0.053,
+      "high_growth": false,
+      "main_investors": [
+        "阿里巴巴"
+      ]
+    },
+    "extra_info": {
+      "key_events": [
+        "generate user-centric platforms",
+        "implement mission-critical portals"
+      ],
+      "partners": {
+        "media_companies": [
+          "腾讯视频",
+          "芒果TV",
+          "欢瑞世纪"
+        ],
+        "tech_support": "华为云"
+      }
+    }
+  },
+  {
+    "city_id": 74,
+    "city_name": "Port Richard",
+    "location": {
+      "latitude": 41.4603187960753,
+      "longitude": 114.59140279627181
+    },
+    "political_cultural_center": false,
+    "resource_talent_reserve": null,
+    "industry_profile": {
+      "year": 2025,
+      "quarter": "Q1",
+      "comprehensive_score": 95.84,
+      "production_strength": 93.51,
+      "overseas_market_share": 81.23,
+      "government_support": false,
+      "active_platform_count": 17,
+      "micro_drama_tags": [
+        "短视频",
+        "资本",
+        "文化",
+        "创新",
+        "引流"
+      ],
+      "overseas_ability_level": "高",
+      "comprehensive_ranking": 4,
+      "annual_growth_rate": 0.0573,
+      "high_growth": false,
+      "main_investors": [
+        "字节跳动"
+      ]
+    },
+    "extra_info": {
+      "key_events": [
+        "enhance magnetic systems",
+        "disintermediate impactful bandwidth"
+      ],
+      "partners": {
+        "media_companies": [
+          "欢瑞世纪",
+          "优酷"
+        ],
+        "tech_support": "华为云"
+      }
+    }
+  },
+  {
+    "city_id": 75,
+    "city_name": "East Nicholasfurt",
+    "location": {
+      "latitude": 30.72485068437546,
+      "longitude": 101.94336592412462
+    },
+    "political_cultural_center": false,
+    "resource_talent_reserve": "Skin person product value interesting.",
+    "industry_profile": {
+      "year": 2025,
+      "quarter": "Q4",
+      "comprehensive_score": 74.69,
+      "production_strength": 77.98,
+      "overseas_market_share": 11.91,
+      "government_support": false,
+      "active_platform_count": 1,
+      "micro_drama_tags": [
+        "创新",
+        "文化",
+        "网络剧",
+        "多元",
+        "技术"
+      ],
+      "overseas_ability_level": "低",
+      "comprehensive_ranking": 94,
+      "annual_growth_rate": 0.0981,
+      "high_growth": true,
+      "main_investors": [
+        "阿里巴巴",
+        "欢瑞世纪",
+        "腾讯"
+      ]
+    },
+    "extra_info": {
+      "key_events": [
+        "revolutionize B2C convergence"
+      ],
+      "partners": {
+        "media_companies": [
+          "华策",
+          "芒果TV"
+        ],
+        "tech_support": "华为云"
+      }
+    }
+  },
+  {
+    "city_id": 76,
+    "city_name": "Saramouth",
+    "location": {
+      "latitude": 38.771776694787434,
+      "longitude": 124.35987019165417
+    },
+    "political_cultural_center": false,
+    "resource_talent_reserve": "Different chance enter central arrive society organization.",
+    "industry_profile": {
+      "year": 2025,
+      "quarter": "Q3",
+      "comprehensive_score": 89.48,
+      "production_strength": 91.14,
+      "overseas_market_share": 78.35,
+      "government_support": false,
+      "active_platform_count": 15,
+      "micro_drama_tags": [
+        "影视",
+        "互动",
+        "技术",
+        "出海",
+        "IP"
+      ],
+      "overseas_ability_level": "高",
+      "comprehensive_ranking": 16,
+      "annual_growth_rate": 0.0488,
+      "high_growth": false,
+      "main_investors": [
+        "字节跳动",
+        "华策"
+      ]
+    },
+    "extra_info": {
+      "key_events": [
+        "utilize compelling platforms",
+        "envisioneer next-generation infrastructures",
+        "embrace B2B convergence"
+      ],
+      "partners": {
+        "media_companies": [
+          "腾讯视频",
+          "欢瑞世纪"
+        ],
+        "tech_support": "华为云"
+      }
+    }
+  },
+  {
+    "city_id": 77,
+    "city_name": "Rodneyside",
+    "location": {
+      "latitude": 38.86357185211706,
+      "longitude": 124.65526861199007
+    },
+    "political_cultural_center": false,
+    "resource_talent_reserve": null,
+    "industry_profile": {
+      "year": 2025,
+      "quarter": "Q4",
+      "comprehensive_score": 79.95,
+      "production_strength": 80.1,
+      "overseas_market_share": 38.09,
+      "government_support": false,
+      "active_platform_count": 7,
+      "micro_drama_tags": [
+        "引流",
+        "短视频",
+        "网络剧",
+        "资本",
+        "创新"
+      ],
+      "overseas_ability_level": "中低",
+      "comprehensive_ranking": 81,
+      "annual_growth_rate": 0.054,
+      "high_growth": false,
+      "main_investors": [
+        "字节跳动",
+        "欢瑞世纪",
+        "腾讯"
+      ]
+    },
+    "extra_info": {
+      "key_events": [
+        "monetize cross-platform bandwidth"
+      ],
+      "partners": {
+        "media_companies": [
+          "优酷"
+        ],
+        "tech_support": "腾讯云"
+      }
+    }
+  },
+  {
+    "city_id": 78,
+    "city_name": "Mooreport",
+    "location": {
+      "latitude": 22.578096720898316,
+      "longitude": 117.45404285049364
+    },
+    "political_cultural_center": true,
+    "resource_talent_reserve": "Tv keep light fight I evening music.",
+    "industry_profile": {
+      "year": 2025,
+      "quarter": "Q3",
+      "comprehensive_score": 91.84,
+      "production_strength": 90.24,
+      "overseas_market_share": 46.44,
+      "government_support": true,
+      "active_platform_count": 10,
+      "micro_drama_tags": [
+        "影视",
+        "年轻"
+      ],
+      "overseas_ability_level": "中高",
+      "comprehensive_ranking": 11,
+      "annual_growth_rate": 0.071,
+      "high_growth": true,
+      "main_investors": [
+        "字节跳动"
+      ]
+    },
+    "extra_info": {
+      "key_events": [
+        "generate best-of-breed deliverables"
+      ],
+      "partners": {
+        "media_companies": [
+          "华策",
+          "腾讯视频"
+        ],
+        "tech_support": "阿里云"
+      }
+    }
+  },
+  {
+    "city_id": 79,
+    "city_name": "North Beth",
+    "location": {
+      "latitude": 42.56382266698917,
+      "longitude": 113.402409158603
+    },
+    "political_cultural_center": false,
+    "resource_talent_reserve": "Ball always it focus economy before.",
+    "industry_profile": {
+      "year": 2025,
+      "quarter": "Q2",
+      "comprehensive_score": 85.71,
+      "production_strength": 87.97,
+      "overseas_market_share": 45.51,
+      "government_support": false,
+      "active_platform_count": 10,
+      "micro_drama_tags": [
+        "创新",
+        "产业升级"
+      ],
+      "overseas_ability_level": "中高",
+      "comprehensive_ranking": 41,
+      "annual_growth_rate": 0.0721,
+      "high_growth": true,
+      "main_investors": [
+        "欢瑞世纪",
+        "腾讯"
+      ]
+    },
+    "extra_info": {
+      "key_events": [
+        "syndicate cross-media info-mediaries",
+        "transform visionary systems",
+        "harness innovative content"
+      ],
+      "partners": {
+        "media_companies": [
+          "腾讯视频"
+        ],
+        "tech_support": "百度云"
+      }
+    }
+  },
+  {
+    "city_id": 80,
+    "city_name": "Lake Leeton",
+    "location": {
+      "latitude": 32.63130931119643,
+      "longitude": 107.7381904071582
+    },
+    "political_cultural_center": false,
+    "resource_talent_reserve": "Onto again share start office several compare.",
+    "industry_profile": {
+      "year": 2025,
+      "quarter": "Q1",
+      "comprehensive_score": 77.41,
+      "production_strength": 79.56,
+      "overseas_market_share": 45.19,
+      "government_support": true,
+      "active_platform_count": 8,
+      "micro_drama_tags": [
+        "出海",
+        "资本",
+        "互动",
+        "引流",
+        "创新"
+      ],
+      "overseas_ability_level": "中高",
+      "comprehensive_ranking": 88,
+      "annual_growth_rate": 0.0737,
+      "high_growth": true,
+      "main_investors": [
+        "字节跳动",
+        "欢瑞世纪",
+        "腾讯"
+      ]
+    },
+    "extra_info": {
+      "key_events": [
+        "integrate one-to-one web-readiness"
+      ],
+      "partners": {
+        "media_companies": [
+          "芒果TV",
+          "优酷"
+        ],
+        "tech_support": "华为云"
+      }
+    }
+  },
+  {
+    "city_id": 81,
+    "city_name": "Shawhaven",
+    "location": {
+      "latitude": 40.66143665269354,
+      "longitude": 120.34487549267371
+    },
+    "political_cultural_center": false,
+    "resource_talent_reserve": "Prepare trouble consider one play man before.",
+    "industry_profile": {
+      "year": 2025,
+      "quarter": "Q4",
+      "comprehensive_score": 80.27,
+      "production_strength": 82.71,
+      "overseas_market_share": 47.82,
+      "government_support": true,
+      "active_platform_count": 10,
+      "micro_drama_tags": [
+        "资本",
+        "引流"
+      ],
+      "overseas_ability_level": "中高",
+      "comprehensive_ranking": 78,
+      "annual_growth_rate": 0.0628,
+      "high_growth": true,
+      "main_investors": [
+        "华策",
+        "字节跳动"
+      ]
+    },
+    "extra_info": {
+      "key_events": [
+        "iterate cross-platform experiences",
+        "transform frictionless action-items",
+        "mesh virtual schemas"
+      ],
+      "partners": {
+        "media_companies": [
+          "芒果TV"
+        ],
+        "tech_support": "华为云"
+      }
+    }
+  },
+  {
+    "city_id": 82,
+    "city_name": "North Susan",
+    "location": {
+      "latitude": 28.00124002576529,
+      "longitude": 117.11827931384698
+    },
+    "political_cultural_center": false,
+    "resource_talent_reserve": "Impact fly bit claim in many.",
+    "industry_profile": {
+      "year": 2025,
+      "quarter": "Q1",
+      "comprehensive_score": 87.97,
+      "production_strength": 87.63,
+      "overseas_market_share": 57.06,
+      "government_support": true,
+      "active_platform_count": 16,
+      "micro_drama_tags": [
+        "产业升级",
+        "原创"
+      ],
+      "overseas_ability_level": "中高",
+      "comprehensive_ranking": 25,
+      "annual_growth_rate": 0.0271,
+      "high_growth": false,
+      "main_investors": [
+        "欢瑞世纪",
+        "阿里巴巴"
+      ]
+    },
+    "extra_info": {
+      "key_events": [
+        "leverage open-source schemas",
+        "brand plug-and-play e-services"
+      ],
+      "partners": {
+        "media_companies": [
+          "腾讯视频",
+          "华策",
+          "芒果TV"
+        ],
+        "tech_support": "阿里云"
+      }
+    }
+  },
+  {
+    "city_id": 83,
+    "city_name": "Port Jacobland",
+    "location": {
+      "latitude": 42.388080712405014,
+      "longitude": 104.06542348362228
+    },
+    "political_cultural_center": false,
+    "resource_talent_reserve": "Spend nearly lawyer fire follow wife.",
+    "industry_profile": {
+      "year": 2025,
+      "quarter": "Q3",
+      "comprehensive_score": 84.01,
+      "production_strength": 81.66,
+      "overseas_market_share": 58.6,
+      "government_support": false,
+      "active_platform_count": 15,
+      "micro_drama_tags": [
+        "文化",
+        "原创",
+        "产业升级"
+      ],
+      "overseas_ability_level": "中高",
+      "comprehensive_ranking": 56,
+      "annual_growth_rate": 0.0827,
+      "high_growth": true,
+      "main_investors": [
+        "阿里巴巴",
+        "华策"
+      ]
+    },
+    "extra_info": {
+      "key_events": [
+        "exploit wireless functionalities"
+      ],
+      "partners": {
+        "media_companies": [
+          "芒果TV",
+          "欢瑞世纪",
+          "优酷"
+        ],
+        "tech_support": "阿里云"
+      }
+    }
+  },
+  {
+    "city_id": 84,
+    "city_name": "South David",
+    "location": {
+      "latitude": 29.73004196835408,
+      "longitude": 122.77317961234607
+    },
+    "political_cultural_center": false,
+    "resource_talent_reserve": "Ten stay ability thank left approach.",
+    "industry_profile": {
+      "year": 2025,
+      "quarter": "Q1",
+      "comprehensive_score": 81.37,
+      "production_strength": 83.38,
+      "overseas_market_share": 30.8,
+      "government_support": false,
+      "active_platform_count": 7,
+      "micro_drama_tags": [
+        "产业升级",
+        "互动",
+        "创新"
+      ],
+      "overseas_ability_level": "中低",
+      "comprehensive_ranking": 70,
+      "annual_growth_rate": 0.0271,
+      "high_growth": false,
+      "main_investors": [
+        "字节跳动",
+        "腾讯"
+      ]
+    },
+    "extra_info": {
+      "key_events": [
+        "reinvent viral functionalities",
+        "repurpose user-centric interfaces"
+      ],
+      "partners": {
+        "media_companies": [
+          "华策"
+        ],
+        "tech_support": "华为云"
+      }
+    }
+  },
+  {
+    "city_id": 85,
+    "city_name": "New Brooke",
+    "location": {
+      "latitude": 20.27094128700746,
+      "longitude": 120.56343107307923
+    },
+    "political_cultural_center": false,
+    "resource_talent_reserve": "Gun series personal service data near until.",
+    "industry_profile": {
+      "year": 2025,
+      "quarter": "Q1",
+      "comprehensive_score": 87.8,
+      "production_strength": 88.27,
+      "overseas_market_share": 46.03,
+      "government_support": false,
+      "active_platform_count": 9,
+      "micro_drama_tags": [
+        "文化",
+        "IP"
+      ],
+      "overseas_ability_level": "中高",
+      "comprehensive_ranking": 26,
+      "annual_growth_rate": 0.0561,
+      "high_growth": false,
+      "main_investors": [
+        "华策",
+        "字节跳动"
+      ]
+    },
+    "extra_info": {
+      "key_events": [
+        "utilize 24/365 systems"
+      ],
+      "partners": {
+        "media_companies": [
+          "芒果TV",
+          "华策",
+          "腾讯视频"
+        ],
+        "tech_support": "腾讯云"
+      }
+    }
+  },
+  {
+    "city_id": 86,
+    "city_name": "South Dianeshire",
+    "location": {
+      "latitude": 42.63454941048159,
+      "longitude": 123.7449978322981
+    },
+    "political_cultural_center": false,
+    "resource_talent_reserve": "Thing machine ahead picture son report.",
+    "industry_profile": {
+      "year": 2025,
+      "quarter": "Q4",
+      "comprehensive_score": 85.97,
+      "production_strength": 82.59,
+      "overseas_market_share": 44.83,
+      "government_support": false,
+      "active_platform_count": 9,
+      "micro_drama_tags": [
+        "互动",
+        "网络剧",
+        "短视频",
+        "IP"
+      ],
+      "overseas_ability_level": "中高",
+      "comprehensive_ranking": 38,
+      "annual_growth_rate": 0.0349,
+      "high_growth": false,
+      "main_investors": [
+        "阿里巴巴",
+        "字节跳动",
+        "腾讯"
+      ]
+    },
+    "extra_info": {
+      "key_events": [
+        "benchmark cutting-edge architectures"
+      ],
+      "partners": {
+        "media_companies": [
+          "芒果TV",
+          "优酷"
+        ],
+        "tech_support": "华为云"
+      }
+    }
+  },
+  {
+    "city_id": 87,
+    "city_name": "Sarahborough",
+    "location": {
+      "latitude": 22.28216691965334,
+      "longitude": 118.142987709709
+    },
+    "political_cultural_center": false,
+    "resource_talent_reserve": "Nearly need behavior yeah tree.",
+    "industry_profile": {
+      "year": 2025,
+      "quarter": "Q2",
+      "comprehensive_score": 80.07,
+      "production_strength": 78.72,
+      "overseas_market_share": 24.69,
+      "government_support": true,
+      "active_platform_count": 6,
+      "micro_drama_tags": [
+        "短视频",
+        "网络剧",
+        "文化",
+        "引流"
+      ],
+      "overseas_ability_level": "中低",
+      "comprehensive_ranking": 80,
+      "annual_growth_rate": 0.0487,
+      "high_growth": false,
+      "main_investors": [
+        "欢瑞世纪",
+        "腾讯",
+        "阿里巴巴"
+      ]
+    },
+    "extra_info": {
+      "key_events": [
+        "implement killer e-tailers"
+      ],
+      "partners": {
+        "media_companies": [
+          "优酷"
+        ],
+        "tech_support": "华为云"
+      }
+    }
+  },
+  {
+    "city_id": 88,
+    "city_name": "Johnfurt",
+    "location": {
+      "latitude": 27.982840939760372,
+      "longitude": 115.33537989839475
+    },
+    "political_cultural_center": false,
+    "resource_talent_reserve": "Water positive child usually factor relate indeed.",
+    "industry_profile": {
+      "year": 2025,
+      "quarter": "Q1",
+      "comprehensive_score": 79.1,
+      "production_strength": 76.39,
+      "overseas_market_share": 26.67,
+      "government_support": false,
+      "active_platform_count": 3,
+      "micro_drama_tags": [
+        "多元",
+        "年轻",
+        "技术",
+        "原创"
+      ],
+      "overseas_ability_level": "中低",
+      "comprehensive_ranking": 85,
+      "annual_growth_rate": 0.0566,
+      "high_growth": false,
+      "main_investors": [
+        "欢瑞世纪",
+        "腾讯",
+        "字节跳动"
+      ]
+    },
+    "extra_info": {
+      "key_events": [
+        "empower innovative networks",
+        "transform viral relationships",
+        "harness 24/365 bandwidth"
+      ],
+      "partners": {
+        "media_companies": [
+          "欢瑞世纪",
+          "优酷",
+          "华策"
+        ],
+        "tech_support": "阿里云"
+      }
+    }
+  },
+  {
+    "city_id": 89,
+    "city_name": "Lake Debbie",
+    "location": {
+      "latitude": 43.751549176270125,
+      "longitude": 110.45607590726547
+    },
+    "political_cultural_center": false,
+    "resource_talent_reserve": "Woman during necessary himself two meet these.",
+    "industry_profile": {
+      "year": 2025,
+      "quarter": "Q2",
+      "comprehensive_score": 88.87,
+      "production_strength": 89.27,
+      "overseas_market_share": 65.27,
+      "government_support": false,
+      "active_platform_count": 13,
+      "micro_drama_tags": [
+        "多元",
+        "产业升级"
+      ],
+      "overseas_ability_level": "高",
+      "comprehensive_ranking": 21,
+      "annual_growth_rate": 0.0564,
+      "high_growth": false,
+      "main_investors": [
+        "字节跳动",
+        "阿里巴巴",
+        "欢瑞世纪"
+      ]
+    },
+    "extra_info": {
+      "key_events": [
+        "embrace back-end web services",
+        "cultivate holistic deliverables",
+        "whiteboard turn-key metrics"
+      ],
+      "partners": {
+        "media_companies": [
+          "优酷",
+          "欢瑞世纪"
+        ],
+        "tech_support": "华为云"
+      }
+    }
+  },
+  {
+    "city_id": 90,
+    "city_name": "Stewartland",
+    "location": {
+      "latitude": 43.7651786734389,
+      "longitude": 123.31821208385033
+    },
+    "political_cultural_center": false,
+    "resource_talent_reserve": "Everybody so increase various.",
+    "industry_profile": {
+      "year": 2025,
+      "quarter": "Q3",
+      "comprehensive_score": 78.9,
+      "production_strength": 80.2,
+      "overseas_market_share": 42.19,
+      "government_support": false,
+      "active_platform_count": 5,
+      "micro_drama_tags": [
+        "原创",
+        "出海"
+      ],
+      "overseas_ability_level": "中高",
+      "comprehensive_ranking": 86,
+      "annual_growth_rate": 0.0584,
+      "high_growth": false,
+      "main_investors": [
+        "腾讯"
+      ]
+    },
+    "extra_info": {
+      "key_events": [
+        "synergize impactful applications",
+        "embrace cross-media convergence",
+        "iterate ubiquitous e-business"
+      ],
+      "partners": {
+        "media_companies": [
+          "欢瑞世纪"
+        ],
+        "tech_support": "华为云"
+      }
+    }
+  },
+  {
+    "city_id": 91,
+    "city_name": "South Christineshire",
+    "location": {
+      "latitude": 34.335947203082156,
+      "longitude": 121.6515972375102
+    },
+    "political_cultural_center": false,
+    "resource_talent_reserve": "Environment able rise study oil process tend.",
+    "industry_profile": {
+      "year": 2025,
+      "quarter": "Q1",
+      "comprehensive_score": 81.09,
+      "production_strength": 79.64,
+      "overseas_market_share": 30.04,
+      "government_support": true,
+      "active_platform_count": 7,
+      "micro_drama_tags": [
+        "出海",
+        "网络剧",
+        "引流"
+      ],
+      "overseas_ability_level": "中低",
+      "comprehensive_ranking": 73,
+      "annual_growth_rate": 0.0823,
+      "high_growth": true,
+      "main_investors": [
+        "字节跳动",
+        "华策"
+      ]
+    },
+    "extra_info": {
+      "key_events": [
+        "reinvent seamless e-business",
+        "benchmark strategic methodologies",
+        "enable turn-key initiatives"
+      ],
+      "partners": {
+        "media_companies": [
+          "腾讯视频",
+          "芒果TV"
+        ],
+        "tech_support": "阿里云"
+      }
+    }
+  },
+  {
+    "city_id": 92,
+    "city_name": "North Amandahaven",
+    "location": {
+      "latitude": 35.79593030424498,
+      "longitude": 101.13046675265474
+    },
+    "political_cultural_center": false,
+    "resource_talent_reserve": "Mrs generation necessary myself lay focus country.",
+    "industry_profile": {
+      "year": 2025,
+      "quarter": "Q4",
+      "comprehensive_score": 88.85,
+      "production_strength": 82.02,
+      "overseas_market_share": 49.76,
+      "government_support": false,
+      "active_platform_count": 11,
+      "micro_drama_tags": [
+        "互动",
+        "原创",
+        "短视频",
+        "年轻"
+      ],
+      "overseas_ability_level": "中高",
+      "comprehensive_ranking": 22,
+      "annual_growth_rate": 0.0591,
+      "high_growth": false,
+      "main_investors": [
+        "字节跳动"
+      ]
+    },
+    "extra_info": {
+      "key_events": [
+        "incentivize extensible initiatives",
+        "reinvent out-of-the-box eyeballs"
+      ],
+      "partners": {
+        "media_companies": [
+          "优酷",
+          "欢瑞世纪"
+        ],
+        "tech_support": "阿里云"
+      }
+    }
+  },
+  {
+    "city_id": 93,
+    "city_name": "Davidstad",
+    "location": {
+      "latitude": 31.211138049457993,
+      "longitude": 100.6591743624313
+    },
+    "political_cultural_center": false,
+    "resource_talent_reserve": "Occur do simply analysis seat.",
+    "industry_profile": {
+      "year": 2025,
+      "quarter": "Q3",
+      "comprehensive_score": 86.41,
+      "production_strength": 84.88,
+      "overseas_market_share": 58.83,
+      "government_support": false,
+      "active_platform_count": 11,
+      "micro_drama_tags": [
+        "引流",
+        "多元",
+        "出海",
+        "影视"
+      ],
+      "overseas_ability_level": "中高",
+      "comprehensive_ranking": 33,
+      "annual_growth_rate": 0.0451,
+      "high_growth": false,
+      "main_investors": [
+        "华策",
+        "字节跳动"
+      ]
+    },
+    "extra_info": {
+      "key_events": [
+        "deliver integrated e-markets",
+        "expedite global networks"
+      ],
+      "partners": {
+        "media_companies": [
+          "优酷",
+          "芒果TV"
+        ],
+        "tech_support": "华为云"
+      }
+    }
+  },
+  {
+    "city_id": 94,
+    "city_name": "East Mikeburgh",
+    "location": {
+      "latitude": 27.330269292451614,
+      "longitude": 109.41158417195123
+    },
+    "political_cultural_center": false,
+    "resource_talent_reserve": "History professional star wonder manager already.",
+    "industry_profile": {
+      "year": 2025,
+      "quarter": "Q3",
+      "comprehensive_score": 85.35,
+      "production_strength": 82.19,
+      "overseas_market_share": 60.97,
+      "government_support": true,
+      "active_platform_count": 15,
+      "micro_drama_tags": [
+        "产业升级",
+        "技术",
+        "IP",
+        "出海"
+      ],
+      "overseas_ability_level": "高",
+      "comprehensive_ranking": 43,
+      "annual_growth_rate": 0.0693,
+      "high_growth": true,
+      "main_investors": [
+        "字节跳动",
+        "华策"
+      ]
+    },
+    "extra_info": {
+      "key_events": [
+        "synergize cutting-edge ROI",
+        "synthesize virtual schemas",
+        "leverage holistic technologies"
+      ],
+      "partners": {
+        "media_companies": [
+          "腾讯视频",
+          "芒果TV"
+        ],
+        "tech_support": "百度云"
+      }
+    }
+  },
+  {
+    "city_id": 95,
+    "city_name": "Bassport",
+    "location": {
+      "latitude": 28.2166136342479,
+      "longitude": 120.26383326954583
+    },
+    "political_cultural_center": false,
+    "resource_talent_reserve": "Whole forward beyond suddenly between treat address.",
+    "industry_profile": {
+      "year": 2025,
+      "quarter": "Q4",
+      "comprehensive_score": 83.3,
+      "production_strength": 91.58,
+      "overseas_market_share": 37.54,
+      "government_support": true,
+      "active_platform_count": 5,
+      "micro_drama_tags": [
+        "IP",
+        "资本"
+      ],
+      "overseas_ability_level": "中低",
+      "comprehensive_ranking": 57,
+      "annual_growth_rate": 0.0738,
+      "high_growth": true,
+      "main_investors": [
+        "字节跳动"
+      ]
+    },
+    "extra_info": {
+      "key_events": [
+        "enable viral vortals",
+        "e-enable customized e-business"
+      ],
+      "partners": {
+        "media_companies": [
+          "华策",
+          "欢瑞世纪"
+        ],
+        "tech_support": "华为云"
+      }
+    }
+  },
+  {
+    "city_id": 96,
+    "city_name": "Lake Lisaport",
+    "location": {
+      "latitude": 36.81296140192596,
+      "longitude": 124.68190323287361
+    },
+    "political_cultural_center": false,
+    "resource_talent_reserve": null,
+    "industry_profile": {
+      "year": 2025,
+      "quarter": "Q1",
+      "comprehensive_score": -0.21,
+      "production_strength": -5.29,
+      "overseas_market_share": -7.99,
+      "government_support": false,
+      "active_platform_count": 1,
+      "micro_drama_tags": [
+        "互动",
+        "IP",
+        "原创",
+        "引流"
+      ],
+      "overseas_ability_level": "低",
+      "comprehensive_ranking": 98,
+      "annual_growth_rate": 0.0254,
+      "high_growth": false,
+      "main_investors": [
+        "欢瑞世纪"
+      ]
+    },
+    "extra_info": {
+      "key_events": [
+        "streamline synergistic synergies",
+        "synthesize global solutions",
+        "transition integrated schemas"
+      ],
+      "partners": {
+        "media_companies": [
+          "优酷",
+          "芒果TV"
+        ],
+        "tech_support": "腾讯云"
+      }
+    }
+  },
+  {
+    "city_id": 97,
+    "city_name": "East Josephville",
+    "location": {
+      "latitude": 38.809363235942,
+      "longitude": 103.7604222775882
+    },
+    "political_cultural_center": false,
+    "resource_talent_reserve": "Improve pressure child light.",
+    "industry_profile": {
+      "year": 2025,
+      "quarter": "Q1",
+      "comprehensive_score": 80.92,
+      "production_strength": 81.05,
+      "overseas_market_share": 58.49,
+      "government_support": false,
+      "active_platform_count": 12,
+      "micro_drama_tags": [
+        "原创",
+        "互动",
+        "影视",
+        "出海"
+      ],
+      "overseas_ability_level": "中高",
+      "comprehensive_ranking": 75,
+      "annual_growth_rate": 0.0619,
+      "high_growth": true,
+      "main_investors": [
+        "华策"
+      ]
+    },
+    "extra_info": {
+      "key_events": [
+        "deliver rich e-markets"
+      ],
+      "partners": {
+        "media_companies": [
+          "腾讯视频",
+          "芒果TV",
+          "华策"
+        ],
+        "tech_support": "阿里云"
+      }
+    }
+  },
+  {
+    "city_id": 98,
+    "city_name": "West Juan",
+    "location": {
+      "latitude": 39.78947609314621,
+      "longitude": 114.85326788380338
+    },
+    "political_cultural_center": false,
+    "resource_talent_reserve": "Full realize power system system.",
+    "industry_profile": {
+      "year": 2025,
+      "quarter": "Q3",
+      "comprehensive_score": 84.48,
+      "production_strength": 87.74,
+      "overseas_market_share": 51.51,
+      "government_support": true,
+      "active_platform_count": 12,
+      "micro_drama_tags": [
+        "网络剧",
+        "互动",
+        "产业升级"
+      ],
+      "overseas_ability_level": "中高",
+      "comprehensive_ranking": 51,
+      "annual_growth_rate": 0.064,
+      "high_growth": true,
+      "main_investors": [
+        "腾讯"
+      ]
+    },
+    "extra_info": {
+      "key_events": [
+        "innovate holistic e-markets",
+        "unleash visionary models",
+        "leverage strategic networks"
+      ],
+      "partners": {
+        "media_companies": [
+          "腾讯视频",
+          "芒果TV",
+          "华策"
+        ],
+        "tech_support": "腾讯云"
+      }
+    }
+  },
+  {
+    "city_id": 99,
+    "city_name": "Lake Matthew",
+    "location": {
+      "latitude": 39.740453569863845,
+      "longitude": 109.52227141577553
+    },
+    "political_cultural_center": false,
+    "resource_talent_reserve": "Here first responsibility service their along attention.",
+    "industry_profile": {
+      "year": 2025,
+      "quarter": "Q1",
+      "comprehensive_score": 81.99,
+      "production_strength": 83.34,
+      "overseas_market_share": 47.26,
+      "government_support": false,
+      "active_platform_count": 13,
+      "micro_drama_tags": [
+        "影视",
+        "年轻",
+        "短视频"
+      ],
+      "overseas_ability_level": "中高",
+      "comprehensive_ranking": 66,
+      "annual_growth_rate": 0.044,
+      "high_growth": false,
+      "main_investors": [
+        "腾讯",
+        "欢瑞世纪",
+        "字节跳动"
+      ]
+    },
+    "extra_info": {
+      "key_events": [
+        "utilize magnetic technologies"
+      ],
+      "partners": {
+        "media_companies": [
+          "欢瑞世纪",
+          "芒果TV",
+          "腾讯视频"
+        ],
+        "tech_support": "百度云"
+      }
+    }
+  },
+  {
+    "city_id": 100,
+    "city_name": "Williamview",
+    "location": {
+      "latitude": 22.280152576217258,
+      "longitude": 124.24785994536508
+    },
+    "political_cultural_center": false,
+    "resource_talent_reserve": "Range explain dinner bed within set region beyond.",
+    "industry_profile": {
+      "year": 2025,
+      "quarter": "Q2",
+      "comprehensive_score": 82.94,
+      "production_strength": 82.45,
+      "overseas_market_share": 48.8,
+      "government_support": true,
+      "active_platform_count": 9,
+      "micro_drama_tags": [
+        "出海",
+        "多元",
+        "网络剧",
+        "创新"
+      ],
+      "overseas_ability_level": "中高",
+      "comprehensive_ranking": 60,
+      "annual_growth_rate": 0.0775,
+      "high_growth": true,
+      "main_investors": [
+        "腾讯"
+      ]
+    },
+    "extra_info": {
+      "key_events": [
+        "integrate efficient e-services",
+        "incubate front-end communities",
+        "revolutionize ubiquitous networks"
+      ],
+      "partners": {
+        "media_companies": [
+          "华策"
+        ],
+        "tech_support": "腾讯云"
+      }
+    }
+  }
+]

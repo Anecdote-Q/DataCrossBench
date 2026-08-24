@@ -1,0 +1,1554 @@
+[
+  {
+    "fund_manager": "Nicholas Torres",
+    "fund_id": "FUND0000",
+    "profile": {
+      "performance": 0.604,
+      "fans": 410,
+      "interests": [
+        "计算机",
+        "电子",
+        "消费"
+      ],
+      "is_star_manager": false
+    }
+  },
+  {
+    "fund_manager": "Jennifer Moran",
+    "fund_id": "FUND0001",
+    "profile": {
+      "performance": 0.61,
+      "fans": 11,
+      "interests": [
+        "电子",
+        "计算机",
+        "计算机",
+        "电子",
+        "能源",
+        "科技"
+      ],
+      "is_star_manager": false
+    }
+  },
+  {
+    "fund_manager": "David Hess",
+    "fund_id": "FUND0002",
+    "profile": {
+      "performance": 0.643,
+      "fans": 3,
+      "interests": [
+        "消费",
+        "能源",
+        "医疗",
+        "消费",
+        "电子"
+      ],
+      "is_star_manager": false
+    }
+  },
+  {
+    "fund_manager": "Mr. Nicholas Richmond MD",
+    "fund_id": "FUND0003",
+    "profile": {
+      "performance": 0.61,
+      "fans": 425,
+      "interests": [
+        "能源",
+        "科技",
+        "金融",
+        "消费",
+        "电子"
+      ],
+      "is_star_manager": false
+    }
+  },
+  {
+    "fund_manager": "Kelly Simon",
+    "fund_id": "FUND0004",
+    "profile": {
+      "performance": 0.379,
+      "fans": 1,
+      "interests": [
+        "电子",
+        "能源",
+        "能源",
+        "医疗",
+        "消费",
+        "消费"
+      ],
+      "is_star_manager": false
+    }
+  },
+  {
+    "fund_manager": "Mrs. Nicole Mcdonald DDS",
+    "fund_id": "FUND0005",
+    "profile": {
+      "performance": 0.468,
+      "fans": 648,
+      "interests": [
+        "消费",
+        "消费",
+        "计算机",
+        "金融",
+        "金融"
+      ],
+      "is_star_manager": false
+    }
+  },
+  {
+    "fund_manager": "Brittany Lewis",
+    "fund_id": "FUND0006",
+    "profile": {
+      "performance": 0.49,
+      "fans": 37,
+      "interests": [
+        "计算机",
+        "科技",
+        "金融",
+        "科技",
+        "电子"
+      ],
+      "is_star_manager": false
+    }
+  },
+  {
+    "fund_manager": "Anthony Bailey",
+    "fund_id": "FUND0007",
+    "profile": {
+      "performance": 0.648,
+      "fans": 901,
+      "interests": [
+        "能源",
+        "医疗",
+        "医疗",
+        "消费",
+        "能源"
+      ],
+      "is_star_manager": false
+    }
+  },
+  {
+    "fund_manager": "Caleb Paul",
+    "fund_id": "FUND0008",
+    "profile": {
+      "performance": 0.445,
+      "fans": 524,
+      "interests": [
+        "计算机",
+        "医疗",
+        "电子"
+      ],
+      "is_star_manager": false
+    }
+  },
+  {
+    "fund_manager": "Jeanette Reed",
+    "fund_id": "FUND0009",
+    "profile": {
+      "performance": 0.704,
+      "fans": 204,
+      "interests": [
+        "科技",
+        "能源",
+        "医疗",
+        "科技",
+        "能源"
+      ],
+      "is_star_manager": false
+    }
+  },
+  {
+    "fund_manager": "Jeffery Stewart",
+    "fund_id": "FUND0010",
+    "profile": {
+      "performance": 0.574,
+      "fans": 223,
+      "interests": [
+        "金融",
+        "医疗",
+        "消费",
+        "金融",
+        "消费",
+        "科技"
+      ],
+      "is_star_manager": false
+    }
+  },
+  {
+    "fund_manager": "Sean Perez",
+    "fund_id": "FUND0011",
+    "profile": {
+      "performance": 0.513,
+      "fans": 164,
+      "interests": [
+        "能源",
+        "医疗",
+        "电子",
+        "电子",
+        "科技"
+      ],
+      "is_star_manager": true
+    }
+  },
+  {
+    "fund_manager": "Danny Smith",
+    "fund_id": "FUND0012",
+    "profile": {
+      "performance": 0.555,
+      "fans": 3,
+      "interests": [
+        "消费",
+        "金融",
+        "金融",
+        "科技"
+      ],
+      "is_star_manager": false
+    }
+  },
+  {
+    "fund_manager": "Sarah Flores",
+    "fund_id": "FUND0013",
+    "profile": {
+      "performance": 0.419,
+      "fans": 1054,
+      "interests": [
+        "计算机",
+        "消费",
+        "消费"
+      ],
+      "is_star_manager": false
+    }
+  },
+  {
+    "fund_manager": "Regina Fisher",
+    "fund_id": "FUND0014",
+    "profile": {
+      "performance": 0.449,
+      "fans": 1234,
+      "interests": [
+        "科技",
+        "消费",
+        "金融"
+      ],
+      "is_star_manager": false
+    }
+  },
+  {
+    "fund_manager": "Samuel Lawson",
+    "fund_id": "FUND0015",
+    "profile": {
+      "performance": 0.57,
+      "fans": 51,
+      "interests": [
+        "能源",
+        "消费",
+        "能源",
+        "消费",
+        "能源"
+      ],
+      "is_star_manager": true
+    }
+  },
+  {
+    "fund_manager": "Zachary Diaz",
+    "fund_id": "FUND0016",
+    "profile": {
+      "performance": 0.499,
+      "fans": 1082,
+      "interests": [
+        "科技",
+        "医疗",
+        "消费",
+        "金融",
+        "科技"
+      ],
+      "is_star_manager": false
+    }
+  },
+  {
+    "fund_manager": "Johnny Copeland",
+    "fund_id": "FUND0017",
+    "profile": {
+      "performance": 0.552,
+      "fans": 85,
+      "interests": [
+        "消费",
+        "医疗",
+        "计算机",
+        "金融",
+        "消费",
+        "电子"
+      ],
+      "is_star_manager": false
+    }
+  },
+  {
+    "fund_manager": "James Rogers",
+    "fund_id": "FUND0018",
+    "profile": {
+      "performance": 0.486,
+      "fans": 53,
+      "interests": [
+        "能源",
+        "电子",
+        "电子",
+        "医疗",
+        "医疗",
+        "电子"
+      ],
+      "is_star_manager": false
+    }
+  },
+  {
+    "fund_manager": "Yvonne Marshall",
+    "fund_id": "FUND0019",
+    "profile": {
+      "performance": 0.541,
+      "fans": 918,
+      "interests": [
+        "消费",
+        "科技",
+        "医疗",
+        "科技",
+        "科技"
+      ],
+      "is_star_manager": false
+    }
+  },
+  {
+    "fund_manager": "Michael Callahan",
+    "fund_id": "FUND0020",
+    "profile": {
+      "performance": 0.496,
+      "fans": 107,
+      "interests": [
+        "能源",
+        "科技",
+        "消费"
+      ],
+      "is_star_manager": false
+    }
+  },
+  {
+    "fund_manager": "Daniel Parks",
+    "fund_id": "FUND0021",
+    "profile": {
+      "performance": 0.33,
+      "fans": 482,
+      "interests": [
+        "能源",
+        "科技",
+        "电子",
+        "科技",
+        "消费"
+      ],
+      "is_star_manager": false
+    }
+  },
+  {
+    "fund_manager": "Ryan Smith",
+    "fund_id": "FUND0022",
+    "profile": {
+      "performance": 0.482,
+      "fans": 1,
+      "interests": [
+        "消费",
+        "金融",
+        "金融",
+        "计算机"
+      ],
+      "is_star_manager": false
+    }
+  },
+  {
+    "fund_manager": "Michael Bell",
+    "fund_id": "FUND0023",
+    "profile": {
+      "performance": 0.55,
+      "fans": 819,
+      "interests": [
+        "科技",
+        "金融",
+        "科技"
+      ],
+      "is_star_manager": false
+    }
+  },
+  {
+    "fund_manager": "Robert Allen",
+    "fund_id": "FUND0024",
+    "profile": {
+      "performance": 0.525,
+      "fans": 144,
+      "interests": [
+        "金融",
+        "计算机",
+        "科技",
+        "消费",
+        "金融"
+      ],
+      "is_star_manager": false
+    }
+  },
+  {
+    "fund_manager": "Dennis Mills",
+    "fund_id": "FUND0025",
+    "profile": {
+      "performance": 0.578,
+      "fans": 72,
+      "interests": [
+        "科技",
+        "能源",
+        "医疗",
+        "消费",
+        "消费",
+        "电子"
+      ],
+      "is_star_manager": false
+    }
+  },
+  {
+    "fund_manager": "William Harris",
+    "fund_id": "FUND0026",
+    "profile": {
+      "performance": 0.472,
+      "fans": 606,
+      "interests": [
+        "金融",
+        "能源",
+        "能源",
+        "医疗",
+        "计算机",
+        "计算机"
+      ],
+      "is_star_manager": false
+    }
+  },
+  {
+    "fund_manager": "Eric Taylor",
+    "fund_id": "FUND0027",
+    "profile": {
+      "performance": 0.444,
+      "fans": 278,
+      "interests": [
+        "能源",
+        "消费",
+        "计算机",
+        "科技"
+      ],
+      "is_star_manager": false
+    }
+  },
+  {
+    "fund_manager": "Danielle Garcia",
+    "fund_id": "FUND0028",
+    "profile": {
+      "performance": 0.602,
+      "fans": 28,
+      "interests": [
+        "医疗",
+        "计算机",
+        "电子",
+        "消费",
+        "医疗"
+      ],
+      "is_star_manager": true
+    }
+  },
+  {
+    "fund_manager": "Craig Price",
+    "fund_id": "FUND0029",
+    "profile": {
+      "performance": 0.504,
+      "fans": 16,
+      "interests": [
+        "消费",
+        "消费",
+        "科技",
+        "科技",
+        "电子",
+        "科技"
+      ],
+      "is_star_manager": false
+    }
+  },
+  {
+    "fund_manager": "Courtney Gomez",
+    "fund_id": "FUND0030",
+    "profile": {
+      "performance": 0.405,
+      "fans": 311,
+      "interests": [
+        "医疗",
+        "能源",
+        "科技"
+      ],
+      "is_star_manager": false
+    }
+  },
+  {
+    "fund_manager": "Rebecca Riley",
+    "fund_id": "FUND0031",
+    "profile": {
+      "performance": 0.479,
+      "fans": 91,
+      "interests": [
+        "金融",
+        "消费",
+        "消费",
+        "金融",
+        "消费"
+      ],
+      "is_star_manager": false
+    }
+  },
+  {
+    "fund_manager": "Kimberly Mayer",
+    "fund_id": "FUND0032",
+    "profile": {
+      "performance": 0.672,
+      "fans": 202,
+      "interests": [
+        "金融",
+        "计算机",
+        "消费",
+        "医疗",
+        "金融",
+        "能源"
+      ],
+      "is_star_manager": false
+    }
+  },
+  {
+    "fund_manager": "Madeline Wilson",
+    "fund_id": "FUND0033",
+    "profile": {
+      "performance": 0.518,
+      "fans": 973,
+      "interests": [
+        "能源",
+        "电子",
+        "金融",
+        "计算机",
+        "科技",
+        "计算机"
+      ],
+      "is_star_manager": false
+    }
+  },
+  {
+    "fund_manager": "Calvin Gallegos",
+    "fund_id": "FUND0034",
+    "profile": {
+      "performance": 0.595,
+      "fans": 44,
+      "interests": [
+        "金融",
+        "金融",
+        "科技",
+        "电子"
+      ],
+      "is_star_manager": false
+    }
+  },
+  {
+    "fund_manager": "Lisa Miller",
+    "fund_id": "FUND0035",
+    "profile": {
+      "performance": 0.564,
+      "fans": 248,
+      "interests": [
+        "消费",
+        "医疗",
+        "医疗",
+        "医疗",
+        "电子",
+        "能源"
+      ],
+      "is_star_manager": false
+    }
+  },
+  {
+    "fund_manager": "Cynthia Silva",
+    "fund_id": "FUND0036",
+    "profile": {
+      "performance": 0.414,
+      "fans": 284,
+      "interests": [
+        "电子",
+        "电子",
+        "医疗",
+        "消费",
+        "电子"
+      ],
+      "is_star_manager": false
+    }
+  },
+  {
+    "fund_manager": "Carla Martinez",
+    "fund_id": "FUND0037",
+    "profile": {
+      "performance": 0.548,
+      "fans": 131,
+      "interests": [
+        "电子",
+        "金融",
+        "医疗",
+        "医疗",
+        "金融",
+        "计算机"
+      ],
+      "is_star_manager": false
+    }
+  },
+  {
+    "fund_manager": "Tony Hoffman",
+    "fund_id": "FUND0038",
+    "profile": {
+      "performance": 0.511,
+      "fans": 3,
+      "interests": [
+        "能源",
+        "消费",
+        "计算机"
+      ],
+      "is_star_manager": false
+    }
+  },
+  {
+    "fund_manager": "Lynn Larson DDS",
+    "fund_id": "FUND0039",
+    "profile": {
+      "performance": 0.591,
+      "fans": 55,
+      "interests": [
+        "消费",
+        "能源",
+        "科技",
+        "医疗",
+        "科技",
+        "科技"
+      ],
+      "is_star_manager": false
+    }
+  },
+  {
+    "fund_manager": "Emily Martinez",
+    "fund_id": "FUND0040",
+    "profile": {
+      "performance": 0.535,
+      "fans": 535,
+      "interests": [
+        "能源",
+        "计算机",
+        "电子",
+        "金融"
+      ],
+      "is_star_manager": false
+    }
+  },
+  {
+    "fund_manager": "Antonio Reid",
+    "fund_id": "FUND0041",
+    "profile": {
+      "performance": 0.346,
+      "fans": 181,
+      "interests": [
+        "医疗",
+        "消费",
+        "金融",
+        "计算机"
+      ],
+      "is_star_manager": false
+    }
+  },
+  {
+    "fund_manager": "Lisa Clark",
+    "fund_id": "FUND0042",
+    "profile": {
+      "performance": 0.316,
+      "fans": 1,
+      "interests": [
+        "金融",
+        "医疗",
+        "电子",
+        "医疗"
+      ],
+      "is_star_manager": false
+    }
+  },
+  {
+    "fund_manager": "Connor Lopez",
+    "fund_id": "FUND0043",
+    "profile": {
+      "performance": 0.544,
+      "fans": 112,
+      "interests": [
+        "金融",
+        "科技",
+        "医疗",
+        "能源",
+        "电子",
+        "科技"
+      ],
+      "is_star_manager": false
+    }
+  },
+  {
+    "fund_manager": "Nicholas Walters",
+    "fund_id": "FUND0044",
+    "profile": {
+      "performance": 0.509,
+      "fans": 448,
+      "interests": [
+        "计算机",
+        "能源",
+        "能源",
+        "计算机"
+      ],
+      "is_star_manager": false
+    }
+  },
+  {
+    "fund_manager": "Renee Robinson",
+    "fund_id": "FUND0045",
+    "profile": {
+      "performance": 0.483,
+      "fans": 622,
+      "interests": [
+        "金融",
+        "医疗",
+        "科技",
+        "计算机",
+        "科技"
+      ],
+      "is_star_manager": false
+    }
+  },
+  {
+    "fund_manager": "Joan Barnes",
+    "fund_id": "FUND0046",
+    "profile": {
+      "performance": 0.477,
+      "fans": 14,
+      "interests": [
+        "能源",
+        "计算机",
+        "消费",
+        "医疗"
+      ],
+      "is_star_manager": false
+    }
+  },
+  {
+    "fund_manager": "Sonya Martin",
+    "fund_id": "FUND0047",
+    "profile": {
+      "performance": 0.389,
+      "fans": 1355,
+      "interests": [
+        "电子",
+        "计算机",
+        "科技",
+        "消费",
+        "金融"
+      ],
+      "is_star_manager": false
+    }
+  },
+  {
+    "fund_manager": "Paul Kelly",
+    "fund_id": "FUND0048",
+    "profile": {
+      "performance": 0.561,
+      "fans": 276,
+      "interests": [
+        "能源",
+        "计算机",
+        "电子",
+        "科技"
+      ],
+      "is_star_manager": false
+    }
+  },
+  {
+    "fund_manager": "Barbara Leonard",
+    "fund_id": "FUND0049",
+    "profile": {
+      "performance": 0.405,
+      "fans": 633,
+      "interests": [
+        "科技",
+        "消费",
+        "能源",
+        "消费"
+      ],
+      "is_star_manager": false
+    }
+  },
+  {
+    "fund_manager": "Nicole Barnes",
+    "fund_id": "FUND0050",
+    "profile": {
+      "performance": 0.509,
+      "fans": 169,
+      "interests": [
+        "医疗",
+        "科技",
+        "能源",
+        "计算机",
+        "科技",
+        "金融"
+      ],
+      "is_star_manager": false
+    }
+  },
+  {
+    "fund_manager": "Cindy Marshall",
+    "fund_id": "FUND0051",
+    "profile": {
+      "performance": 0.49,
+      "fans": 14,
+      "interests": [
+        "计算机",
+        "医疗",
+        "消费",
+        "科技",
+        "金融"
+      ],
+      "is_star_manager": false
+    }
+  },
+  {
+    "fund_manager": "Robert Reynolds Jr.",
+    "fund_id": "FUND0052",
+    "profile": {
+      "performance": 0.591,
+      "fans": 171,
+      "interests": [
+        "消费",
+        "电子",
+        "电子"
+      ],
+      "is_star_manager": false
+    }
+  },
+  {
+    "fund_manager": "William Hurley",
+    "fund_id": "FUND0053",
+    "profile": {
+      "performance": 0.455,
+      "fans": 228,
+      "interests": [
+        "消费",
+        "能源",
+        "金融",
+        "消费",
+        "计算机",
+        "计算机"
+      ],
+      "is_star_manager": false
+    }
+  },
+  {
+    "fund_manager": "Nicholas Perez",
+    "fund_id": "FUND0054",
+    "profile": {
+      "performance": 0.787,
+      "fans": 210,
+      "interests": [
+        "医疗",
+        "科技",
+        "金融",
+        "能源",
+        "能源"
+      ],
+      "is_star_manager": false
+    }
+  },
+  {
+    "fund_manager": "Samantha Mathis",
+    "fund_id": "FUND0055",
+    "profile": {
+      "performance": 0.401,
+      "fans": 732,
+      "interests": [
+        "科技",
+        "计算机",
+        "科技",
+        "医疗"
+      ],
+      "is_star_manager": false
+    }
+  },
+  {
+    "fund_manager": "Stephen Thompson",
+    "fund_id": "FUND0056",
+    "profile": {
+      "performance": 0.439,
+      "fans": 12,
+      "interests": [
+        "能源",
+        "计算机",
+        "计算机",
+        "消费",
+        "金融"
+      ],
+      "is_star_manager": false
+    }
+  },
+  {
+    "fund_manager": "Elizabeth Hendricks",
+    "fund_id": "FUND0057",
+    "profile": {
+      "performance": 0.447,
+      "fans": 94,
+      "interests": [
+        "科技",
+        "科技",
+        "能源",
+        "电子",
+        "电子",
+        "计算机"
+      ],
+      "is_star_manager": false
+    }
+  },
+  {
+    "fund_manager": "Jack Owens MD",
+    "fund_id": "FUND0058",
+    "profile": {
+      "performance": 0.713,
+      "fans": 71,
+      "interests": [
+        "科技",
+        "医疗",
+        "电子"
+      ],
+      "is_star_manager": false
+    }
+  },
+  {
+    "fund_manager": "Gabriel Johnson Jr.",
+    "fund_id": "FUND0059",
+    "profile": {
+      "performance": 0.377,
+      "fans": 557,
+      "interests": [
+        "计算机",
+        "计算机",
+        "金融",
+        "计算机",
+        "消费",
+        "金融"
+      ],
+      "is_star_manager": false
+    }
+  },
+  {
+    "fund_manager": "Mark White",
+    "fund_id": "FUND0060",
+    "profile": {
+      "performance": 0.467,
+      "fans": 1179,
+      "interests": [
+        "能源",
+        "科技",
+        "金融",
+        "能源"
+      ],
+      "is_star_manager": false
+    }
+  },
+  {
+    "fund_manager": "Amy Graham",
+    "fund_id": "FUND0061",
+    "profile": {
+      "performance": 0.624,
+      "fans": 256,
+      "interests": [
+        "金融",
+        "能源",
+        "电子",
+        "金融"
+      ],
+      "is_star_manager": false
+    }
+  },
+  {
+    "fund_manager": "Thomas Case",
+    "fund_id": "FUND0062",
+    "profile": {
+      "performance": 0.363,
+      "fans": 745,
+      "interests": [
+        "金融",
+        "医疗",
+        "能源",
+        "金融"
+      ],
+      "is_star_manager": false
+    }
+  },
+  {
+    "fund_manager": "Evan Kane",
+    "fund_id": "FUND0063",
+    "profile": {
+      "performance": 0.646,
+      "fans": 449,
+      "interests": [
+        "电子",
+        "计算机",
+        "计算机",
+        "金融"
+      ],
+      "is_star_manager": false
+    }
+  },
+  {
+    "fund_manager": "Keith Rodriguez",
+    "fund_id": "FUND0064",
+    "profile": {
+      "performance": 0.489,
+      "fans": 4,
+      "interests": [
+        "计算机",
+        "消费",
+        "金融",
+        "金融"
+      ],
+      "is_star_manager": false
+    }
+  },
+  {
+    "fund_manager": "Kyle Hale",
+    "fund_id": "FUND0065",
+    "profile": {
+      "performance": 0.304,
+      "fans": 7,
+      "interests": [
+        "金融",
+        "能源",
+        "计算机"
+      ],
+      "is_star_manager": false
+    }
+  },
+  {
+    "fund_manager": "Christopher Hall",
+    "fund_id": "FUND0066",
+    "profile": {
+      "performance": 0.567,
+      "fans": 10,
+      "interests": [
+        "消费",
+        "计算机",
+        "金融",
+        "能源",
+        "电子",
+        "计算机"
+      ],
+      "is_star_manager": false
+    }
+  },
+  {
+    "fund_manager": "Caleb Gray",
+    "fund_id": "FUND0067",
+    "profile": {
+      "performance": 0.376,
+      "fans": 45,
+      "interests": [
+        "电子",
+        "医疗",
+        "科技"
+      ],
+      "is_star_manager": false
+    }
+  },
+  {
+    "fund_manager": "Jill Kramer",
+    "fund_id": "FUND0068",
+    "profile": {
+      "performance": 0.66,
+      "fans": 34,
+      "interests": [
+        "消费",
+        "金融",
+        "计算机"
+      ],
+      "is_star_manager": false
+    }
+  },
+  {
+    "fund_manager": "Tammy Arnold",
+    "fund_id": "FUND0069",
+    "profile": {
+      "performance": 0.59,
+      "fans": 68,
+      "interests": [
+        "金融",
+        "电子",
+        "电子"
+      ],
+      "is_star_manager": false
+    }
+  },
+  {
+    "fund_manager": "Stephanie Hill",
+    "fund_id": "FUND0070",
+    "profile": {
+      "performance": 0.462,
+      "fans": 238,
+      "interests": [
+        "计算机",
+        "医疗",
+        "计算机"
+      ],
+      "is_star_manager": false
+    }
+  },
+  {
+    "fund_manager": "Mark Sullivan",
+    "fund_id": "FUND0071",
+    "profile": {
+      "performance": 0.622,
+      "fans": 50,
+      "interests": [
+        "医疗",
+        "能源",
+        "医疗",
+        "金融"
+      ],
+      "is_star_manager": false
+    }
+  },
+  {
+    "fund_manager": "Emily Boyd",
+    "fund_id": "FUND0072",
+    "profile": {
+      "performance": 0.64,
+      "fans": 492,
+      "interests": [
+        "医疗",
+        "医疗",
+        "医疗",
+        "金融",
+        "计算机"
+      ],
+      "is_star_manager": false
+    }
+  },
+  {
+    "fund_manager": "Richard Howard",
+    "fund_id": "FUND0073",
+    "profile": {
+      "performance": 0.462,
+      "fans": 10,
+      "interests": [
+        "计算机",
+        "能源",
+        "消费",
+        "科技",
+        "能源",
+        "电子"
+      ],
+      "is_star_manager": false
+    }
+  },
+  {
+    "fund_manager": "John Parker",
+    "fund_id": "FUND0074",
+    "profile": {
+      "performance": 0.34,
+      "fans": 486,
+      "interests": [
+        "能源",
+        "金融",
+        "科技",
+        "金融"
+      ],
+      "is_star_manager": false
+    }
+  },
+  {
+    "fund_manager": "Melissa Lee",
+    "fund_id": "FUND0075",
+    "profile": {
+      "performance": 0.661,
+      "fans": 468,
+      "interests": [
+        "科技",
+        "消费",
+        "医疗",
+        "医疗",
+        "计算机",
+        "金融"
+      ],
+      "is_star_manager": false
+    }
+  },
+  {
+    "fund_manager": "Amy James",
+    "fund_id": "FUND0076",
+    "profile": {
+      "performance": 0.608,
+      "fans": 1461,
+      "interests": [
+        "金融",
+        "金融",
+        "科技",
+        "电子",
+        "消费",
+        "计算机"
+      ],
+      "is_star_manager": false
+    }
+  },
+  {
+    "fund_manager": "Deborah Holmes",
+    "fund_id": "FUND0077",
+    "profile": {
+      "performance": 0.759,
+      "fans": 29,
+      "interests": [
+        "金融",
+        "医疗",
+        "电子",
+        "消费",
+        "能源",
+        "计算机"
+      ],
+      "is_star_manager": false
+    }
+  },
+  {
+    "fund_manager": "Dominique Medina",
+    "fund_id": "FUND0078",
+    "profile": {
+      "performance": 0.393,
+      "fans": 398,
+      "interests": [
+        "科技",
+        "科技",
+        "金融"
+      ],
+      "is_star_manager": false
+    }
+  },
+  {
+    "fund_manager": "Pamela Wagner",
+    "fund_id": "FUND0079",
+    "profile": {
+      "performance": 0.719,
+      "fans": 481,
+      "interests": [
+        "金融",
+        "金融",
+        "医疗",
+        "计算机",
+        "科技"
+      ],
+      "is_star_manager": false
+    }
+  },
+  {
+    "fund_manager": "Douglas Wright",
+    "fund_id": "FUND0080",
+    "profile": {
+      "performance": 0.525,
+      "fans": 451,
+      "interests": [
+        "消费",
+        "消费",
+        "金融",
+        "消费"
+      ],
+      "is_star_manager": false
+    }
+  },
+  {
+    "fund_manager": "Nancy Finley",
+    "fund_id": "FUND0081",
+    "profile": {
+      "performance": 0.416,
+      "fans": 856,
+      "interests": [
+        "计算机",
+        "计算机",
+        "科技",
+        "金融",
+        "医疗"
+      ],
+      "is_star_manager": true
+    }
+  },
+  {
+    "fund_manager": "Susan Castillo",
+    "fund_id": "FUND0082",
+    "profile": {
+      "performance": 0.426,
+      "fans": 517,
+      "interests": [
+        "医疗",
+        "能源",
+        "电子",
+        "计算机"
+      ],
+      "is_star_manager": false
+    }
+  },
+  {
+    "fund_manager": "Andre Newman",
+    "fund_id": "FUND0083",
+    "profile": {
+      "performance": 0.492,
+      "fans": 857,
+      "interests": [
+        "计算机",
+        "电子",
+        "医疗"
+      ],
+      "is_star_manager": false
+    }
+  },
+  {
+    "fund_manager": "Nicole Berger",
+    "fund_id": "FUND0084",
+    "profile": {
+      "performance": 0.379,
+      "fans": 321,
+      "interests": [
+        "电子",
+        "电子",
+        "计算机",
+        "金融"
+      ],
+      "is_star_manager": false
+    }
+  },
+  {
+    "fund_manager": "Logan Lee",
+    "fund_id": "FUND0085",
+    "profile": {
+      "performance": 0.617,
+      "fans": 46,
+      "interests": [
+        "金融",
+        "电子",
+        "消费",
+        "能源",
+        "消费",
+        "金融"
+      ],
+      "is_star_manager": false
+    }
+  },
+  {
+    "fund_manager": "Tina Chang",
+    "fund_id": "FUND0086",
+    "profile": {
+      "performance": 0.487,
+      "fans": 1220,
+      "interests": [
+        "能源",
+        "医疗",
+        "消费",
+        "金融"
+      ],
+      "is_star_manager": false
+    }
+  },
+  {
+    "fund_manager": "Robert Schroeder",
+    "fund_id": "FUND0087",
+    "profile": {
+      "performance": 0.405,
+      "fans": 212,
+      "interests": [
+        "电子",
+        "电子",
+        "电子"
+      ],
+      "is_star_manager": false
+    }
+  },
+  {
+    "fund_manager": "Kelly David",
+    "fund_id": "FUND0088",
+    "profile": {
+      "performance": 0.606,
+      "fans": 404,
+      "interests": [
+        "计算机",
+        "医疗",
+        "金融",
+        "消费",
+        "金融"
+      ],
+      "is_star_manager": true
+    }
+  },
+  {
+    "fund_manager": "Carol Klein",
+    "fund_id": "FUND0089",
+    "profile": {
+      "performance": 0.474,
+      "fans": 275,
+      "interests": [
+        "计算机",
+        "能源",
+        "消费",
+        "医疗"
+      ],
+      "is_star_manager": false
+    }
+  },
+  {
+    "fund_manager": "Andrea Martinez",
+    "fund_id": "FUND0090",
+    "profile": {
+      "performance": 0.658,
+      "fans": 56,
+      "interests": [
+        "金融",
+        "计算机",
+        "能源",
+        "金融"
+      ],
+      "is_star_manager": true
+    }
+  },
+  {
+    "fund_manager": "Bianca Cruz",
+    "fund_id": "FUND0091",
+    "profile": {
+      "performance": 0.495,
+      "fans": 26,
+      "interests": [
+        "科技",
+        "计算机",
+        "金融",
+        "能源"
+      ],
+      "is_star_manager": false
+    }
+  },
+  {
+    "fund_manager": "Sandra Garcia",
+    "fund_id": "FUND0092",
+    "profile": {
+      "performance": 0.602,
+      "fans": 1584,
+      "interests": [
+        "能源",
+        "医疗",
+        "医疗",
+        "计算机"
+      ],
+      "is_star_manager": false
+    }
+  },
+  {
+    "fund_manager": "Cynthia Phillips",
+    "fund_id": "FUND0093",
+    "profile": {
+      "performance": 0.482,
+      "fans": 1467,
+      "interests": [
+        "医疗",
+        "科技",
+        "计算机"
+      ],
+      "is_star_manager": false
+    }
+  },
+  {
+    "fund_manager": "Ruth Conrad",
+    "fund_id": "FUND0094",
+    "profile": {
+      "performance": 0.513,
+      "fans": 842,
+      "interests": [
+        "医疗",
+        "科技",
+        "金融",
+        "医疗",
+        "医疗",
+        "能源"
+      ],
+      "is_star_manager": false
+    }
+  },
+  {
+    "fund_manager": "Brian Anderson",
+    "fund_id": "FUND0095",
+    "profile": {
+      "performance": 0.376,
+      "fans": 1371,
+      "interests": [
+        "金融",
+        "计算机",
+        "金融",
+        "科技"
+      ],
+      "is_star_manager": false
+    }
+  },
+  {
+    "fund_manager": "Mark Cook",
+    "fund_id": "FUND0096",
+    "profile": {
+      "performance": 0.462,
+      "fans": 1002,
+      "interests": [
+        "消费",
+        "能源",
+        "计算机",
+        "医疗"
+      ],
+      "is_star_manager": false
+    }
+  },
+  {
+    "fund_manager": "Cynthia Morrison",
+    "fund_id": "FUND0097",
+    "profile": {
+      "performance": 0.453,
+      "fans": 656,
+      "interests": [
+        "能源",
+        "金融",
+        "电子"
+      ],
+      "is_star_manager": false
+    }
+  },
+  {
+    "fund_manager": "Keith Jackson",
+    "fund_id": "FUND0098",
+    "profile": {
+      "performance": 0.495,
+      "fans": 29,
+      "interests": [
+        "电子",
+        "金融",
+        "电子"
+      ],
+      "is_star_manager": false
+    }
+  },
+  {
+    "fund_manager": "Deanna Hobbs",
+    "fund_id": "FUND0099",
+    "profile": {
+      "performance": 0.518,
+      "fans": 66,
+      "interests": [
+        "科技",
+        "金融",
+        "金融"
+      ],
+      "is_star_manager": false
+    }
+  }
+]

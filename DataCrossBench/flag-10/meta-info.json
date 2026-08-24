@@ -1,0 +1,20 @@
+{
+    "goal": "比较中国金融科技生态与非洲、拉美等新兴市场的融资发展差异。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 金融科技在推动国家科技、产业与金融良性循环中的重要作用愈加凸显，预计会形成数据资产化、资本化的有效实践。",
+        "Comparison: 中国与非洲、拉美等新兴市场的金融科技发展速度存在明显分化，后者在融资规模上表现出较大增长潜力。",
+        "Extreme: 2022年全球金融科技投融资总额为770亿美元，较2021年下降45%，反映出全球市场的低迷。",
+        "Attribution: 金融科技的深入应用，能优化资金投向结构，推动金融服务个性化与精细化，提升资金融通效率。"
+    ],
+    "summary": "本报告探讨了全球金融科技市场的发展态势，分析了关键技术的进展及其在金融行业中的应用场景，展望了金融科技生态的发展前景。",
+    "flag_id": "flag-10",
+    "classifier": "FinTech",
+    "classifier_cn": "金融科技",
+    "input_files": [
+        "output/background.txt",
+        "output/dimension_data.db",
+        "output/transactions.png",
+        "output/user_profiles.json"
+    ]
+}

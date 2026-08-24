@@ -1,0 +1,20 @@
+{
+    "goal": "评估韩束品牌在抖音电商中与头部达人和腰肩部达人的合作效果对销售的影响。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 抖音电商护肤品行业在2021-2023年实现大规模增长，尤其在双十一和618大促期间，销售额达到全年高峰。",
+        "Comparison: 面部护肤在护肤品行业中占据88%的市场规模，显示出其相较于其他护肤品类别的绝对优势。",
+        "Extreme: 短剧视频曝光量在2023年2月开始大幅增长，并在618、七夕和双11期间达到高峰，显示出品牌营销策略的成功。",
+        "Attribution: 品牌在2023年降低了对头部达人的合作深度，加大了与腰肩部达人的合作力度，因其内容创作能力较强且性价比更高。"
+    ],
+    "summary": "本报告深入分析了韩束品牌在抖音电商中的市场表现，揭示了其成功的关键因素和未来的发展趋势。",
+    "flag_id": "flag-113",
+    "classifier": "Internet Dev.",
+    "classifier_cn": "互联网发展",
+    "input_files": [
+        "output/background.txt",
+        "output/dimension_data.db",
+        "output/sales_data.png",
+        "output/user_profiles.json"
+    ]
+}

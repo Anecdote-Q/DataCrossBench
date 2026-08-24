@@ -1,0 +1,20 @@
+{
+    "goal": "分析短剧行业在2023年备案量增长9%的原因及其对行业发展的影响。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 短剧行业在快速发展中，生产规模和消费规模进入全新阶段，预计将实现高质量增长，增幅达到35%。",
+        "Comparison: 短剧行业的参与制作公司超过500家，显示出传统与新兴影视公司在短剧制作中的积极参与。",
+        "Extreme: 短剧行业面临的挑战包括题材单一、受众局限和盈利模式单一，专家建议通过多元化发展来应对这些挑战。",
+        "Attribution: 由于短剧市场的不断扩大和成熟，受众群体的年龄层和职业背景也应得到更多关注，生成式人工智能技术将辅助提升短剧的生产效率与内容质量。"
+    ],
+    "summary": "尽管短剧行业在2023年取得了显著的成就，但仍面临题材单一和盈利模式单一等挑战，未来需通过多元化发展来实现可持续增长。",
+    "flag_id": "flag-147",
+    "classifier": "Short-form Drama",
+    "classifier_cn": "短剧/微短剧内容",
+    "input_files": [
+        "output/background.txt",
+        "output/dimension_data.db",
+        "output/short_drama_fact.png",
+        "output/user_profiles.json"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "goal": "分析湘财股份实业板块收入下降24%的原因及其对整体盈利能力的影响。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 湘财股份的营业总收入预计在2025年达到27.29亿元，2026年30.26亿元，2027年33.07亿元，显示出持续增长的趋势。",
+        "Comparison: 湘财证券的经纪业务收入在2024年为5.29亿元，占比32%，而实业板块收入仅为4.36亿元，占比21%。",
+        "Extreme: 2024年湘财股份的实业板块收入下降幅度达到24.45%，是其各业务板块中下降最为显著的。",
+        "Attribution: 湘财股份的业绩下滑主要是由于实业板块收入下降和未决诉讼预计负债计提影响，归母净利润的下降与湘财证券持有的金融资产公允价值下降直接相关。"
+    ],
+    "summary": "湘财股份计划收购大智慧以提升盈利能力，预计未来几年的营业收入和净利润将显著增长，但面临实业板块收入下降的挑战。",
+    "flag_id": "flag-119",
+    "classifier": "Fund Analysis",
+    "classifier_cn": "基金分析",
+    "input_files": [
+        "output/business_background.txt",
+        "output/dimension_data.db",
+        "output/investor_type_vs_success_rate.png",
+        "output/success_rate_by_trade_type.png",
+        "output/trade_amount_distribution.png",
+        "output/trade_amount_vs_fee.png",
+        "output/transaction_fact.csv",
+        "output/user_profiles.json"
+    ]
+}

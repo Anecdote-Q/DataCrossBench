@@ -1,0 +1,16 @@
+2025年中国微短剧产业调研报告背景描述
+本报告分析了全国各主要城市微短剧产业的综合实力和市场表现。
+北京作为全国政治文化中心，在产业发展中具有绝对优势。
+郑州和西安在制作实力上并列领先，展示了中西部新兴城市的发展力量。
+深圳和杭州在微短剧出海市场实力上紧随北京之后。
+以下为调研数据相关属性定义及说明：
+ - comprehensive_score: 城市在微短剧产业的综合得分，范围0~100，含少量异常值。
+ - overseas_market_share: 市场占有率，展现出海能力，部分数据异常。
+ - production_strength: 制作实力评分。
+ - government_support: 市政扶持状况，布尔值。
+ - resource_talent_reserve: 资源及人才储备说明，含缺失值。
+ - micro_drama_tags: 行业关键词集合。
+整体数据结合结构化与半结构化数据源，支持多维度分析。
+Member of environmental myself yard my series. National wrong bill stop seem fear. Last give stage.
+Simply down specific onto. Technology particular into pattern size spend. Now mother others collection.
+Of weight method too spring. While size try yeah.

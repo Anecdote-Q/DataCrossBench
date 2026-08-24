@@ -1,0 +1,24 @@
+{
+    "goal": "比较体外诊断与整体医药行业的表现差异，探讨其增长潜力的驱动因素。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 体外诊断在本周上涨1.5%，与整体行业表现形成鲜明对比，显示出特定子行业的增长潜力。",
+        "Comparison: 稳健组合下跌3.0%，科创板组合小幅上涨0.3%，表明市场对不同投资策略的反应不同。",
+        "Extreme: 长春高新（000661）期初收盘价128.3元，最新收盘价126.0元，涨跌幅-1.8%，显示出个别公司的波动情况。",
+        "Attribution: 由于多款产品将步入收获期，赛诺医疗业绩表现稳健，显示出市场对新产品的期待。"
+    ],
+    "summary": "本周医药行业整体表现不佳，医药生物指数下跌2.13%，但AI医疗投资热情再度点燃，未来有结构性机会。多个公司在新产品和股权激励的推动下展现出增长潜力。",
+    "flag_id": "flag-59",
+    "classifier": "AI Healthcare",
+    "classifier_cn": "AI 医疗健康",
+    "input_files": [
+        "output/average_weekly_change_by_sector.png",
+        "output/background.txt",
+        "output/dimension_data.db",
+        "output/distribution_initial_latest_prices.png",
+        "output/market_performance.csv",
+        "output/strategy_change_by_company.png",
+        "output/strategy_change_vs_initial_price.png",
+        "output/user_profiles.json"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "goal": "分析上证综指编制规则优化对市场表征准确性的具体影响。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 上证综指的编制规则优化于2020年6月19日和7月22日实施，旨在提升市场表征的准确性，反映出市场对规则优化的需求。",
+        "Comparison: 新上证综指的夏普比最高达到0.41，优于旧上证综指，表明其在风险调整后的收益表现更佳。",
+        "Extreme: 上证综指样本中包含85只风险警示股票，显示出市场中存在的潜在风险。",
+        "Attribution: 由于证券市场股票数量增多，基本面分化，导致指数编制方法有待优化，反映出市场对更高效编制规则的需求。"
+    ],
+    "summary": "本报告探讨了上证综指的编制规则优化及其对市场表征准确性的提升，分析了其投资价值及相关风险。",
+    "flag_id": "flag-108",
+    "classifier": "Fund Analysis",
+    "classifier_cn": "基金分析",
+    "input_files": [
+        "output/background.txt",
+        "output/company_profiles.json",
+        "output/dimension_data.db",
+        "output/zh_index_trades.png"
+    ]
+}

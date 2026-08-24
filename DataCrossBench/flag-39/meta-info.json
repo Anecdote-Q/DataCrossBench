@@ -1,0 +1,20 @@
+{
+    "goal": "比较短剧APP与小程序短剧的商业模型差异及其对净利率的影响。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 微短剧市场规模在2023年达到373.9亿，同比增长267.65%，预计到2027年将达到856.5亿，年均增长率为19.2%。",
+        "Comparison: 抖音小程序活跃用户规模为8324万，远超微信小程序的1229万，显示出抖音在短剧市场的领先地位。",
+        "Extreme: 2023年微短剧市场规模为373.9亿，预计到2027年将超过1000亿，显示出市场的极大潜力。",
+        "Attribution: 小程序短剧的转型为APP是由于用户留存率和商业模型的健康性需求，平台倒逼短剧方独立的趋势也促使了这一转型。"
+    ],
+    "summary": "短剧市场在过去几年经历了显著的增长，尤其是微短剧的市场规模和用户基础不断扩大。随着政策的支持和市场需求的变化，短剧行业正朝着更加规范化和商业化的方向发展。",
+    "flag_id": "flag-39",
+    "classifier": "Short-form Drama",
+    "classifier_cn": "短剧/微短剧内容",
+    "input_files": [
+        "output/business_models.db",
+        "output/industry_background.txt",
+        "output/short_drama_market.csv",
+        "output/user_profiles.json"
+    ]
+}

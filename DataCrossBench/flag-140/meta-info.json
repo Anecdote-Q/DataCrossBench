@@ -1,0 +1,20 @@
+{
+    "goal": "分析2024年美团营收增长18%的驱动因素。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 预计2024年美团营收将达到3269亿元，同比增长18%，2025年将增长至3823亿元，2026年达到4424亿元，显示出持续的增长趋势。",
+        "Comparison: 美团与抖音的市场份额比例为2:1，抖音本地生活核销前交易额超过1000亿元，同比增长超100%。",
+        "Extreme: 2023年美团到店酒旅GTV同比增长超过100%，显示出其在低线城市的强劲表现。",
+        "Attribution: 美团的营收增长与核心高价值用户资产的累积及年轻群体的即时性需求驱动密切相关。"
+    ],
+    "summary": "本报告分析了美团在服务与即时零售领域的增长潜力，探讨了其与抖音的竞争格局及未来发展方向，预计未来三年营收和净利润将持续增长。",
+    "flag_id": "flag-140",
+    "classifier": "Internet Firms",
+    "classifier_cn": "互联网公司研究",
+    "input_files": [
+        "output/background.txt",
+        "output/dimension_data.db",
+        "output/fact_orders.csv",
+        "output/user_profiles.json"
+    ]
+}

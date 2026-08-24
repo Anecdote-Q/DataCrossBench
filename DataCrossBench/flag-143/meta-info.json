@@ -1,0 +1,20 @@
+{
+    "goal": "评估湘财证券投行业务净收入下降的原因及其对整体业绩的影响。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 2024年湘财证券的投行业务净收入预计为0.85亿元，同比-46.18%，反映出市场竞争加剧的压力。",
+        "Comparison: 与东方财富证券相比，湘财证券的市占率在逐步提升，反映出其市场份额的增长潜力。",
+        "Extreme: 2022年湘财证券自营投资业务收入同比下降96.20%至0.22亿元，显示出极端的业绩波动。",
+        "Attribution: 金融科技赋能是湘财证券业务发展的重要驱动力，推动了其在经纪业务和投顾产品的创新。"
+    ],
+    "summary": "湘财证券通过金融科技和轻资产模型推动业务发展，尽管面临市场低迷，仍展现出良好的增长潜力，特别是在经纪业务和投顾产品方面。",
+    "flag_id": "flag-143",
+    "classifier": "FinTech",
+    "classifier_cn": "金融科技",
+    "input_files": [
+        "output/background.txt",
+        "output/dimension_data.db",
+        "output/trade_fact.csv",
+        "output/user_profiles.json"
+    ]
+}

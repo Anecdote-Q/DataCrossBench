@@ -1,0 +1,20 @@
+{
+    "goal": "分析韩束品牌在2023年GMV增长的关键因素，特别是红蛮腰产品的贡献。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 在2021-2023年间，韩束品牌的GMV显著增长，2023年红蛮腰产品贡献了约75%的GMV，显示出品牌成功转型的趋势。",
+        "Comparison: 2023年，韩束在抖音电商美妆护肤行业的GMV达到30亿，营收贡献47.4%，显示出其在行业中的领先地位。",
+        "Extreme: 2023年，韩束的明星单品红蛮腰礼盒在抖音电商中占据了96%的GMV，显示出其在市场中的强大影响力。",
+        "Attribution: 韩束的成功源于对消费者娱乐需求的精准把握，结合了内外部因素的共同作用，特别是与明星达人的合作和情感营销策略。"
+    ],
+    "summary": "本报告深入分析了韩束品牌在抖音电商中的市场表现，揭示了其成功的关键因素和未来的发展趋势。",
+    "flag_id": "flag-112",
+    "classifier": "Internet Firms",
+    "classifier_cn": "互联网公司研究",
+    "input_files": [
+        "output/background.txt",
+        "output/brand_performance_fact.png",
+        "output/dimension_data.db",
+        "output/user_profiles.json"
+    ]
+}

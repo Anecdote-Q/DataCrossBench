@@ -1,0 +1,1644 @@
+[
+  {
+    "company_id": 1,
+    "payload": {
+      "device_id": "363be5cb-d329-4724-adfd-171af7d7465d",
+      "status": "maintenance",
+      "sensor_readings": [
+        52.01,
+        60.91,
+        48.15,
+        51.02,
+        44.84
+      ],
+      "warnings": [],
+      "last_update": "2025-06-26T18:03:03.914842"
+    }
+  },
+  {
+    "company_id": 2,
+    "payload": {
+      "device_id": "56771f36-4899-4e5f-940e-53ce52a74a41",
+      "status": "active",
+      "sensor_readings": [
+        47.35,
+        52.53,
+        40.01,
+        45.78,
+        49.93
+      ],
+      "warnings": [],
+      "last_update": "2025-07-15T13:02:40.115362"
+    }
+  },
+  {
+    "company_id": 3,
+    "payload": {
+      "device_id": "7c3f1add-da38-4db5-90ee-b067216e9fe5",
+      "status": "standby",
+      "sensor_readings": [
+        48.71,
+        41.66,
+        52.0,
+        53.24,
+        47.58
+      ],
+      "warnings": [],
+      "last_update": "2025-10-09T15:29:50.412480"
+    }
+  },
+  {
+    "company_id": 4,
+    "payload": {
+      "device_id": "0c648ca2-c323-4466-aebb-b90ee4e751de",
+      "status": "standby",
+      "sensor_readings": [
+        57.87,
+        51.12,
+        55.24,
+        58.42,
+        47.71
+      ],
+      "warnings": [],
+      "last_update": "2025-01-17T09:56:54.790903"
+    }
+  },
+  {
+    "company_id": 5,
+    "payload": {
+      "device_id": "75a72686-d632-4d31-88ac-ffcfa04d4d14",
+      "status": "active",
+      "sensor_readings": [
+        56.58,
+        52.2,
+        45.56,
+        43.18,
+        46.64
+      ],
+      "warnings": [],
+      "last_update": "2025-01-06T19:36:29.994431"
+    }
+  },
+  {
+    "company_id": 6,
+    "payload": {
+      "device_id": "70f81dba-2871-4b9b-9b8f-0e32edef5003",
+      "status": "standby",
+      "sensor_readings": [
+        38.58,
+        52.01,
+        46.57,
+        51.62,
+        48.54
+      ],
+      "warnings": [],
+      "last_update": "2025-06-13T02:31:24.360789"
+    }
+  },
+  {
+    "company_id": 7,
+    "payload": {
+      "device_id": "33cb202e-6d84-414d-b541-91eafde91c42",
+      "status": "active",
+      "sensor_readings": [
+        49.0,
+        45.76,
+        57.71,
+        59.02,
+        46.57
+      ],
+      "warnings": [],
+      "last_update": "2025-12-22T17:48:56.962321"
+    }
+  },
+  {
+    "company_id": 8,
+    "payload": {
+      "device_id": "a6663769-e1d4-4f82-a1c5-0e41e8cee951",
+      "status": "maintenance",
+      "sensor_readings": [
+        51.38,
+        43.53,
+        55.8,
+        47.66,
+        51.73
+      ],
+      "warnings": [],
+      "last_update": "2025-04-18T20:25:03.460930"
+    }
+  },
+  {
+    "company_id": 9,
+    "payload": {
+      "device_id": "4e35da80-a027-4a18-a576-a4100d41ee47",
+      "status": "active",
+      "sensor_readings": [
+        52.17,
+        48.5,
+        40.41,
+        46.71,
+        59.76
+      ],
+      "warnings": [
+        "Behavior growth bar professor power."
+      ],
+      "last_update": "2025-09-17T09:09:36.173306"
+    }
+  },
+  {
+    "company_id": 10,
+    "payload": {
+      "device_id": "a7cde143-6de2-4429-bbf0-d9c1c156e501",
+      "status": "active",
+      "sensor_readings": [
+        47.05,
+        53.24,
+        43.04,
+        45.81,
+        52.6
+      ],
+      "warnings": [],
+      "last_update": "2025-02-02T14:00:32.908552"
+    }
+  },
+  {
+    "company_id": 11,
+    "payload": {
+      "device_id": "7a10013f-36a2-452b-8047-3139185df528",
+      "status": "standby",
+      "sensor_readings": [
+        41.82,
+        56.03,
+        57.47,
+        50.89,
+        47.66
+      ],
+      "warnings": [],
+      "last_update": "2025-01-28T20:18:14.838732"
+    }
+  },
+  {
+    "company_id": 12,
+    "payload": {
+      "device_id": "ae13591e-84fa-4c72-b9e7-a4f197fb613a",
+      "status": "standby",
+      "sensor_readings": [
+        58.96,
+        48.7,
+        49.02,
+        49.64,
+        49.81
+      ],
+      "warnings": [],
+      "last_update": "2025-06-09T00:19:54.788092"
+    }
+  },
+  {
+    "company_id": 13,
+    "payload": {
+      "device_id": "d12e0eb5-57f4-49b5-b212-a6ee02106371",
+      "status": "maintenance",
+      "sensor_readings": [
+        53.66,
+        49.6,
+        50.39,
+        40.01,
+        54.58
+      ],
+      "warnings": [],
+      "last_update": "2025-02-13T02:03:36.458553"
+    }
+  },
+  {
+    "company_id": 14,
+    "payload": {
+      "device_id": "231ae7c7-4c9b-4f5c-a188-7eaf5e1885c3",
+      "status": "standby",
+      "sensor_readings": [
+        51.73,
+        39.39,
+        51.46,
+        44.67,
+        50.46
+      ],
+      "warnings": [
+        "Really local director become south billion."
+      ],
+      "last_update": "2025-05-17T17:43:57.904028"
+    }
+  },
+  {
+    "company_id": 15,
+    "payload": {
+      "device_id": "2215df00-dfdf-4e05-80ce-f31bd038e153",
+      "status": "maintenance",
+      "sensor_readings": [
+        53.06,
+        44.73,
+        46.88,
+        59.57,
+        49.05
+      ],
+      "warnings": [],
+      "last_update": "2025-08-18T05:20:50.698411"
+    }
+  },
+  {
+    "company_id": 16,
+    "payload": {
+      "device_id": "87cf63fd-1183-4c4f-a492-04c7ad58db1b",
+      "status": "maintenance",
+      "sensor_readings": [
+        51.09,
+        49.74,
+        50.98,
+        50.92,
+        50.83
+      ],
+      "warnings": [],
+      "last_update": "2025-07-21T06:04:28.607062"
+    }
+  },
+  {
+    "company_id": 17,
+    "payload": {
+      "device_id": "70aa5b0d-2a03-4ad4-a667-b9829c3de1b0",
+      "status": "standby",
+      "sensor_readings": [
+        50.99,
+        52.25,
+        44.62,
+        53.34,
+        44.55
+      ],
+      "warnings": [],
+      "last_update": "2025-05-06T11:20:33.710164"
+    }
+  },
+  {
+    "company_id": 18,
+    "payload": {
+      "device_id": "26c0747e-bf8e-4bfa-a0c9-da72368acd40",
+      "status": "active",
+      "sensor_readings": [
+        58.16,
+        45.05,
+        47.8,
+        41.93,
+        54.66
+      ],
+      "warnings": [],
+      "last_update": "2025-11-25T15:51:04.167933"
+    }
+  },
+  {
+    "company_id": 19,
+    "payload": {
+      "device_id": "dc268108-7140-41a1-afc2-ccfc9db7284b",
+      "status": "standby",
+      "sensor_readings": [
+        51.61,
+        52.11,
+        58.07,
+        52.27,
+        48.78
+      ],
+      "warnings": [],
+      "last_update": "2025-03-19T14:48:58.344779"
+    }
+  },
+  {
+    "company_id": 20,
+    "payload": {
+      "device_id": "c0a0473a-23d7-46a1-99b8-14fce5871d89",
+      "status": "active",
+      "sensor_readings": [
+        54.82,
+        54.51,
+        49.31,
+        48.18,
+        53.76
+      ],
+      "warnings": [],
+      "last_update": "2025-02-14T00:02:27.321046"
+    }
+  },
+  {
+    "company_id": 21,
+    "payload": {
+      "device_id": "f69777a1-59fe-4d53-a24f-ea4bbae1e137",
+      "status": "active",
+      "sensor_readings": [
+        50.6,
+        44.86,
+        43.61,
+        41.78,
+        45.57
+      ],
+      "warnings": [],
+      "last_update": "2025-06-03T09:53:45.536888"
+    }
+  },
+  {
+    "company_id": 22,
+    "payload": {
+      "device_id": "46e75a2c-3f6e-4d9d-a3cb-e943ca840003",
+      "status": "standby",
+      "sensor_readings": [
+        57.76,
+        39.24,
+        58.84,
+        50.21,
+        48.84
+      ],
+      "warnings": [],
+      "last_update": "2025-08-19T07:27:09.062765"
+    }
+  },
+  {
+    "company_id": 23,
+    "payload": {
+      "device_id": "e03635fc-a88d-4108-98d9-94b8d90f74e9",
+      "status": "standby",
+      "sensor_readings": [
+        46.56,
+        61.26,
+        54.91,
+        48.38,
+        37.5
+      ],
+      "warnings": [
+        "Network outside parent single real."
+      ],
+      "last_update": "2025-04-18T18:33:50.472207"
+    }
+  },
+  {
+    "company_id": 24,
+    "payload": {
+      "device_id": "304b2370-8270-4238-9b5f-8f39848b34f0",
+      "status": "standby",
+      "sensor_readings": [
+        61.45,
+        41.85,
+        50.85,
+        37.92,
+        47.33
+      ],
+      "warnings": [],
+      "last_update": "2025-09-25T04:33:47.980538"
+    }
+  },
+  {
+    "company_id": 25,
+    "payload": {
+      "device_id": "c8a738ab-0df8-4e12-a56b-61e04ba8a4ca",
+      "status": "standby",
+      "sensor_readings": [
+        48.74,
+        51.96,
+        49.06,
+        52.77,
+        49.83
+      ],
+      "warnings": [],
+      "last_update": "2025-11-17T19:21:54.006676"
+    }
+  },
+  {
+    "company_id": 26,
+    "payload": {
+      "device_id": "62c965b2-7eb0-462a-bd45-74ebf4655a21",
+      "status": "standby",
+      "sensor_readings": [
+        45.25,
+        54.85,
+        46.91,
+        40.44,
+        51.98
+      ],
+      "warnings": [],
+      "last_update": "2025-02-10T06:44:50.547306"
+    }
+  },
+  {
+    "company_id": 27,
+    "payload": {
+      "device_id": "122dd7be-980b-481e-a359-5d1f7fe4a42e",
+      "status": "active",
+      "sensor_readings": [
+        51.58,
+        49.67,
+        50.46,
+        56.57,
+        47.3
+      ],
+      "warnings": [],
+      "last_update": "2025-07-08T17:55:06.109730"
+    }
+  },
+  {
+    "company_id": 28,
+    "payload": {
+      "device_id": "5c70ee97-fca4-4567-8316-d2d6fa4a58ef",
+      "status": "active",
+      "sensor_readings": [
+        52.57,
+        42.04,
+        52.2,
+        49.9,
+        52.76
+      ],
+      "warnings": [],
+      "last_update": "2025-11-30T16:09:25.588972"
+    }
+  },
+  {
+    "company_id": 29,
+    "payload": {
+      "device_id": "d6c6f45c-dc5e-4e78-a307-d4d121c9a15d",
+      "status": "standby",
+      "sensor_readings": [
+        52.39,
+        38.62,
+        51.24,
+        61.25,
+        56.63
+      ],
+      "warnings": [],
+      "last_update": "2025-07-23T01:42:46.618715"
+    }
+  },
+  {
+    "company_id": 30,
+    "payload": {
+      "device_id": "2c3aacdc-aed5-4a46-8bde-005b5d8babd7",
+      "status": "standby",
+      "sensor_readings": [
+        52.11,
+        53.7,
+        48.73,
+        51.58,
+        57.55
+      ],
+      "warnings": [],
+      "last_update": "2025-09-30T12:10:30.452277"
+    }
+  },
+  {
+    "company_id": 31,
+    "payload": {
+      "device_id": "12af97e4-c536-466e-bcc4-091bf45707c6",
+      "status": "active",
+      "sensor_readings": [
+        53.46,
+        52.29,
+        55.14,
+        52.85,
+        47.16
+      ],
+      "warnings": [],
+      "last_update": "2025-01-06T23:06:26.094560"
+    }
+  },
+  {
+    "company_id": 32,
+    "payload": {
+      "device_id": "a0ea0251-4957-43a2-81b1-3b8065e1b0f5",
+      "status": "active",
+      "sensor_readings": [
+        52.16,
+        52.62,
+        46.33,
+        48.23,
+        52.27
+      ],
+      "warnings": [
+        "Add democratic two we."
+      ],
+      "last_update": "2025-09-12T14:36:27.570027"
+    }
+  },
+  {
+    "company_id": 33,
+    "payload": {
+      "device_id": "b3a9dcaa-6c6f-4d2e-aa59-c043c4615234",
+      "status": "standby",
+      "sensor_readings": [
+        56.12,
+        58.12,
+        42.32,
+        51.34,
+        57.3
+      ],
+      "warnings": [],
+      "last_update": "2025-05-24T17:25:24.318997"
+    }
+  },
+  {
+    "company_id": 34,
+    "payload": {
+      "device_id": "9db54283-89a3-4811-895c-4fdea3fa4069",
+      "status": "active",
+      "sensor_readings": [
+        41.57,
+        53.33,
+        42.25,
+        46.91,
+        59.48
+      ],
+      "warnings": [],
+      "last_update": "2025-02-24T13:11:41.322586"
+    }
+  },
+  {
+    "company_id": 35,
+    "payload": {
+      "device_id": "82e4dd4a-143a-41c5-8f56-0ed515669e36",
+      "status": "active",
+      "sensor_readings": [
+        52.84,
+        58.14,
+        48.1,
+        48.98,
+        47.09
+      ],
+      "warnings": [],
+      "last_update": "2025-11-26T00:41:21.958173"
+    }
+  },
+  {
+    "company_id": 36,
+    "payload": {
+      "device_id": "4f67448e-10ec-4b1f-a4a5-c736ae59aa52",
+      "status": "active",
+      "sensor_readings": [
+        44.93,
+        44.89,
+        60.4,
+        52.47,
+        54.83
+      ],
+      "warnings": [
+        "Movie hospital plant strong."
+      ],
+      "last_update": "2025-09-07T14:57:45.613805"
+    }
+  },
+  {
+    "company_id": 37,
+    "payload": {
+      "device_id": "a8761e85-bddf-403a-aa84-30f84f2da233",
+      "status": "standby",
+      "sensor_readings": [
+        53.16,
+        42.22,
+        44.52,
+        53.66,
+        43.21
+      ],
+      "warnings": [
+        "Around beat its law participant."
+      ],
+      "last_update": "2025-09-22T14:56:59.583165"
+    }
+  },
+  {
+    "company_id": 38,
+    "payload": {
+      "device_id": "23204ff5-b538-496c-833e-02f71e93d127",
+      "status": "active",
+      "sensor_readings": [
+        49.05,
+        40.24,
+        46.86,
+        45.88,
+        50.81
+      ],
+      "warnings": [],
+      "last_update": "2025-09-08T15:10:31.484347"
+    }
+  },
+  {
+    "company_id": 39,
+    "payload": {
+      "device_id": "58c1aad6-f3f8-4ea4-bf14-eafa29f0ef7c",
+      "status": "maintenance",
+      "sensor_readings": [
+        45.05,
+        53.15,
+        45.43,
+        50.41,
+        57.92
+      ],
+      "warnings": [],
+      "last_update": "2025-07-06T20:38:02.353369"
+    }
+  },
+  {
+    "company_id": 40,
+    "payload": {
+      "device_id": "425e0259-b884-46d2-928f-cf68c871d7b3",
+      "status": "standby",
+      "sensor_readings": [
+        48.47,
+        44.54,
+        48.42,
+        56.07,
+        50.71
+      ],
+      "warnings": [],
+      "last_update": "2025-03-01T15:39:48.949853"
+    }
+  },
+  {
+    "company_id": 41,
+    "payload": {
+      "device_id": "ce9e9ebd-55c3-4853-8783-e43ce65fad87",
+      "status": "active",
+      "sensor_readings": [
+        54.07,
+        46.57,
+        51.49,
+        55.01,
+        43.81
+      ],
+      "warnings": [
+        "Seek them run brother."
+      ],
+      "last_update": "2025-06-03T09:20:44.602592"
+    }
+  },
+  {
+    "company_id": 42,
+    "payload": {
+      "device_id": "b65ad0f1-4350-4b06-9059-ea28861b4f5b",
+      "status": "active",
+      "sensor_readings": [
+        50.12,
+        46.59,
+        44.13,
+        42.32,
+        44.05
+      ],
+      "warnings": [],
+      "last_update": "2025-12-15T08:48:12.172008"
+    }
+  },
+  {
+    "company_id": 43,
+    "payload": {
+      "device_id": "7487d772-7f03-46fa-93ba-dc91a0a5fde6",
+      "status": "standby",
+      "sensor_readings": [
+        45.76,
+        41.99,
+        60.78,
+        44.34,
+        54.18
+      ],
+      "warnings": [],
+      "last_update": "2025-07-02T11:49:14.950567"
+    }
+  },
+  {
+    "company_id": 44,
+    "payload": {
+      "device_id": "911f730b-dbff-40b0-bfe6-70f30e3141ec",
+      "status": "active",
+      "sensor_readings": [
+        50.16,
+        40.03,
+        56.09,
+        37.42,
+        50.14
+      ],
+      "warnings": [],
+      "last_update": "2025-03-01T14:57:51.222120"
+    }
+  },
+  {
+    "company_id": 45,
+    "payload": {
+      "device_id": "00a85473-8242-4912-bda3-c1623a78b64a",
+      "status": "active",
+      "sensor_readings": [
+        54.6,
+        48.55,
+        51.34,
+        51.61,
+        46.66
+      ],
+      "warnings": [
+        "Effort bill off reveal."
+      ],
+      "last_update": "2025-01-16T17:36:48.669456"
+    }
+  },
+  {
+    "company_id": 46,
+    "payload": {
+      "device_id": "0bc57207-3e9a-4c86-8325-4fbddce8e1c5",
+      "status": "maintenance",
+      "sensor_readings": [
+        54.96,
+        53.56,
+        50.6,
+        46.39,
+        63.15
+      ],
+      "warnings": [],
+      "last_update": "2025-06-18T13:15:28.006257"
+    }
+  },
+  {
+    "company_id": 47,
+    "payload": {
+      "device_id": "52619dec-3979-45f5-ab5b-c975a7dc2bc0",
+      "status": "active",
+      "sensor_readings": [
+        62.32,
+        48.5,
+        46.75,
+        52.65,
+        37.37
+      ],
+      "warnings": [
+        "Turn condition whether along sort research."
+      ],
+      "last_update": "2025-03-30T16:47:30.358056"
+    }
+  },
+  {
+    "company_id": 48,
+    "payload": {
+      "device_id": "0bc1f9e5-fb3d-4063-8409-c5eacde918b3",
+      "status": "active",
+      "sensor_readings": [
+        50.32,
+        49.7,
+        44.74,
+        42.09,
+        50.18
+      ],
+      "warnings": [
+        "Even back head maybe top conference."
+      ],
+      "last_update": "2025-12-07T20:58:51.611422"
+    }
+  },
+  {
+    "company_id": 49,
+    "payload": {
+      "device_id": "ddb449dc-7710-4966-a082-7f7611a529b4",
+      "status": "active",
+      "sensor_readings": [
+        53.63,
+        47.71,
+        41.72,
+        56.28,
+        55.72
+      ],
+      "warnings": [],
+      "last_update": "2025-04-11T20:42:26.880688"
+    }
+  },
+  {
+    "company_id": 50,
+    "payload": {
+      "device_id": "161d5c87-53c9-4e59-8f89-e3b2d847dc53",
+      "status": "active",
+      "sensor_readings": [
+        39.92,
+        50.74,
+        48.31,
+        46.93,
+        48.49
+      ],
+      "warnings": [],
+      "last_update": "2025-07-17T14:36:49.808468"
+    }
+  },
+  {
+    "company_id": 51,
+    "payload": {
+      "device_id": "4aa5f9d3-335f-4f59-9e71-7fca020a4497",
+      "status": "maintenance",
+      "sensor_readings": [
+        50.8,
+        50.02,
+        52.18,
+        55.95,
+        54.75
+      ],
+      "warnings": [],
+      "last_update": "2025-07-21T10:29:42.419486"
+    }
+  },
+  {
+    "company_id": 52,
+    "payload": {
+      "device_id": "3e19fc1d-9f6a-4a65-bd54-da044dcd0009",
+      "status": "maintenance",
+      "sensor_readings": [
+        42.58,
+        54.39,
+        53.37,
+        58.57,
+        44.7
+      ],
+      "warnings": [],
+      "last_update": "2025-06-15T18:02:59.455351"
+    }
+  },
+  {
+    "company_id": 53,
+    "payload": {
+      "device_id": "ff6ef9ed-7e4c-429f-b8cb-ab4c97790e84",
+      "status": "standby",
+      "sensor_readings": [
+        56.04,
+        48.42,
+        54.39,
+        53.81,
+        49.85
+      ],
+      "warnings": [],
+      "last_update": "2025-10-04T00:57:22.852976"
+    }
+  },
+  {
+    "company_id": 54,
+    "payload": {
+      "device_id": "8beb4e78-e683-43a3-bb82-b7963207343e",
+      "status": "active",
+      "sensor_readings": [
+        49.13,
+        51.93,
+        56.84,
+        45.03,
+        52.9
+      ],
+      "warnings": [],
+      "last_update": "2025-09-29T16:56:09.006597"
+    }
+  },
+  {
+    "company_id": 55,
+    "payload": {
+      "device_id": "f374190d-0274-4e40-a090-16b6b186a5a8",
+      "status": "standby",
+      "sensor_readings": [
+        49.92,
+        52.9,
+        50.6,
+        45.13,
+        55.98
+      ],
+      "warnings": [
+        "Character usually agency must player."
+      ],
+      "last_update": "2025-04-30T16:41:10.235213"
+    }
+  },
+  {
+    "company_id": 56,
+    "payload": {
+      "device_id": "d95874c2-6053-4c1b-a845-10a1c2492e5e",
+      "status": "standby",
+      "sensor_readings": [
+        49.21,
+        53.66,
+        43.81,
+        52.21,
+        56.03
+      ],
+      "warnings": [],
+      "last_update": "2025-09-21T16:51:55.708190"
+    }
+  },
+  {
+    "company_id": 57,
+    "payload": {
+      "device_id": "87a1ec02-3487-4e41-9a9c-672a4eb9047d",
+      "status": "standby",
+      "sensor_readings": [
+        51.42,
+        51.04,
+        55.71,
+        44.4,
+        42.0
+      ],
+      "warnings": [],
+      "last_update": "2025-12-18T05:57:35.874151"
+    }
+  },
+  {
+    "company_id": 58,
+    "payload": {
+      "device_id": "0f554896-f610-496b-bdf5-9abf6b790d01",
+      "status": "standby",
+      "sensor_readings": [
+        47.97,
+        54.04,
+        46.45,
+        49.91,
+        56.56
+      ],
+      "warnings": [],
+      "last_update": "2025-12-14T11:26:26.490954"
+    }
+  },
+  {
+    "company_id": 59,
+    "payload": {
+      "device_id": "17d09810-47a2-410b-b62e-db49247296a4",
+      "status": "active",
+      "sensor_readings": [
+        56.51,
+        57.81,
+        50.16,
+        46.23,
+        52.3
+      ],
+      "warnings": [],
+      "last_update": "2025-01-16T16:25:59.804306"
+    }
+  },
+  {
+    "company_id": 60,
+    "payload": {
+      "device_id": "8163b6ce-1877-4c06-94ad-625215bc2a3e",
+      "status": "active",
+      "sensor_readings": [
+        46.61,
+        53.97,
+        56.14,
+        49.38,
+        50.47
+      ],
+      "warnings": [
+        "Today mind red head window."
+      ],
+      "last_update": "2025-02-17T16:50:46.653686"
+    }
+  },
+  {
+    "company_id": 61,
+    "payload": {
+      "device_id": "64988bde-cd02-44db-ad11-15d750a46c85",
+      "status": "standby",
+      "sensor_readings": [
+        46.15,
+        38.64,
+        44.62,
+        41.11,
+        56.28
+      ],
+      "warnings": [
+        "Avoid nothing itself who door end."
+      ],
+      "last_update": "2025-09-08T08:32:18.682899"
+    }
+  },
+  {
+    "company_id": 62,
+    "payload": {
+      "device_id": "7316ce64-2a14-4a96-9b0c-62eb27c8fc6c",
+      "status": "standby",
+      "sensor_readings": [
+        50.94,
+        53.04,
+        56.56,
+        43.74,
+        47.49
+      ],
+      "warnings": [
+        "Fish evening avoid dark sister once."
+      ],
+      "last_update": "2025-06-16T12:18:01.830949"
+    }
+  },
+  {
+    "company_id": 63,
+    "payload": {
+      "device_id": "afa14a55-cebe-4baa-a859-7b341725d2c7",
+      "status": "maintenance",
+      "sensor_readings": [
+        48.94,
+        49.41,
+        49.86,
+        52.87,
+        48.46
+      ],
+      "warnings": [
+        "Building group show later leg system."
+      ],
+      "last_update": "2025-04-19T16:33:49.646932"
+    }
+  },
+  {
+    "company_id": 64,
+    "payload": {
+      "device_id": "0a530df9-9a72-483c-b266-986cb46788bd",
+      "status": "standby",
+      "sensor_readings": [
+        53.43,
+        50.29,
+        51.34,
+        57.64,
+        52.54
+      ],
+      "warnings": [],
+      "last_update": "2025-03-18T19:44:49.006448"
+    }
+  },
+  {
+    "company_id": 65,
+    "payload": {
+      "device_id": "1759ba96-25f8-4c74-93ea-4919db4862c2",
+      "status": "standby",
+      "sensor_readings": [
+        48.18,
+        45.8,
+        44.78,
+        40.17,
+        60.28
+      ],
+      "warnings": [],
+      "last_update": "2025-09-12T01:59:18.263635"
+    }
+  },
+  {
+    "company_id": 66,
+    "payload": {
+      "device_id": "837217e0-6570-46ea-9b11-f51ff7e9101d",
+      "status": "standby",
+      "sensor_readings": [
+        44.48,
+        51.05,
+        52.56,
+        48.4,
+        49.99
+      ],
+      "warnings": [],
+      "last_update": "2025-01-18T11:44:19.404584"
+    }
+  },
+  {
+    "company_id": 67,
+    "payload": {
+      "device_id": "fd9cfbb0-d1f1-4485-829a-4a7c4c80d33a",
+      "status": "maintenance",
+      "sensor_readings": [
+        51.52,
+        51.33,
+        54.19,
+        45.93,
+        56.07
+      ],
+      "warnings": [],
+      "last_update": "2025-03-04T02:52:12.945560"
+    }
+  },
+  {
+    "company_id": 68,
+    "payload": {
+      "device_id": "73c374a6-dac7-46b6-a786-3fb3f3bc9a71",
+      "status": "standby",
+      "sensor_readings": [
+        49.3,
+        55.62,
+        46.0,
+        51.47,
+        41.41
+      ],
+      "warnings": [],
+      "last_update": "2025-07-18T15:09:28.354602"
+    }
+  },
+  {
+    "company_id": 69,
+    "payload": {
+      "device_id": "7648776e-183f-4a70-bff6-579e8cd4b90a",
+      "status": "maintenance",
+      "sensor_readings": [
+        52.0,
+        46.74,
+        47.36,
+        52.93,
+        56.19
+      ],
+      "warnings": [],
+      "last_update": "2025-02-06T09:49:43.754561"
+    }
+  },
+  {
+    "company_id": 70,
+    "payload": {
+      "device_id": "030f9be9-1f17-4f93-a3c9-7a1ecb371d97",
+      "status": "standby",
+      "sensor_readings": [
+        50.11,
+        54.02,
+        54.26,
+        45.71,
+        51.22
+      ],
+      "warnings": [],
+      "last_update": "2025-01-23T00:47:49.571283"
+    }
+  },
+  {
+    "company_id": 71,
+    "payload": {
+      "device_id": "21768dd7-38e7-4019-bb89-86c8c7ecfe71",
+      "status": "active",
+      "sensor_readings": [
+        51.64,
+        54.5,
+        46.89,
+        52.39,
+        48.75
+      ],
+      "warnings": [],
+      "last_update": "2025-03-12T18:56:19.956570"
+    }
+  },
+  {
+    "company_id": 72,
+    "payload": {
+      "device_id": "a15b2e18-afb0-4406-9f4b-1a97668c879b",
+      "status": "active",
+      "sensor_readings": [
+        49.9,
+        48.22,
+        53.05,
+        51.23,
+        49.01
+      ],
+      "warnings": [],
+      "last_update": "2025-12-01T23:27:32.969349"
+    }
+  },
+  {
+    "company_id": 73,
+    "payload": {
+      "device_id": "424211e2-960b-40f4-9513-2c2215839b99",
+      "status": "standby",
+      "sensor_readings": [
+        58.35,
+        51.97,
+        44.02,
+        52.22,
+        55.98
+      ],
+      "warnings": [],
+      "last_update": "2025-11-24T18:42:35.176110"
+    }
+  },
+  {
+    "company_id": 74,
+    "payload": {
+      "device_id": "10813d45-ff45-48a2-8594-b24f13325c31",
+      "status": "maintenance",
+      "sensor_readings": [
+        46.95,
+        51.15,
+        51.18,
+        54.13,
+        53.99
+      ],
+      "warnings": [],
+      "last_update": "2025-03-12T15:39:26.415220"
+    }
+  },
+  {
+    "company_id": 75,
+    "payload": {
+      "device_id": "20f87ba2-cf2e-4296-b184-b713a55f65b7",
+      "status": "standby",
+      "sensor_readings": [
+        49.47,
+        56.11,
+        44.64,
+        50.03,
+        57.82
+      ],
+      "warnings": [],
+      "last_update": "2025-02-02T20:41:33.839486"
+    }
+  },
+  {
+    "company_id": 76,
+    "payload": {
+      "device_id": "aee70ab2-61fa-4e7a-878c-26ce7f0223bc",
+      "status": "standby",
+      "sensor_readings": [
+        43.75,
+        41.51,
+        57.29,
+        58.41,
+        46.25
+      ],
+      "warnings": [
+        "Business walk anything under item right."
+      ],
+      "last_update": "2025-06-02T10:31:55.904715"
+    }
+  },
+  {
+    "company_id": 77,
+    "payload": {
+      "device_id": "2fe922aa-e886-4011-b6f7-a26c5a9c0679",
+      "status": "active",
+      "sensor_readings": [
+        48.03,
+        47.94,
+        42.78,
+        41.69,
+        50.15
+      ],
+      "warnings": [],
+      "last_update": "2025-04-09T05:53:47.901970"
+    }
+  },
+  {
+    "company_id": 78,
+    "payload": {
+      "device_id": "08dec921-260c-4547-a228-0fe3722dce13",
+      "status": "standby",
+      "sensor_readings": [
+        55.38,
+        57.71,
+        60.03,
+        60.31,
+        56.04
+      ],
+      "warnings": [],
+      "last_update": "2025-08-08T09:48:10.953494"
+    }
+  },
+  {
+    "company_id": 79,
+    "payload": {
+      "device_id": "4b8c031f-a5b4-4983-beeb-c04a9df2372e",
+      "status": "standby",
+      "sensor_readings": [
+        48.47,
+        50.33,
+        55.45,
+        42.9,
+        52.28
+      ],
+      "warnings": [],
+      "last_update": "2025-06-28T05:51:53.545804"
+    }
+  },
+  {
+    "company_id": 80,
+    "payload": {
+      "device_id": "cb7b0b3a-8b2d-458a-8d5a-e324fe7c80e9",
+      "status": "maintenance",
+      "sensor_readings": [
+        45.91,
+        54.74,
+        53.41,
+        36.13,
+        54.0
+      ],
+      "warnings": [
+        "Look because him information poor something eat."
+      ],
+      "last_update": "2025-01-07T23:27:52.168387"
+    }
+  },
+  {
+    "company_id": 81,
+    "payload": {
+      "device_id": "5beec570-b69f-45c5-882b-a1be61eb64e6",
+      "status": "standby",
+      "sensor_readings": [
+        45.61,
+        53.91,
+        47.09,
+        49.14,
+        53.09
+      ],
+      "warnings": [],
+      "last_update": "2025-06-21T09:10:06.286050"
+    }
+  },
+  {
+    "company_id": 82,
+    "payload": {
+      "device_id": "0effd5bd-47eb-440d-874e-48ffcf89569d",
+      "status": "standby",
+      "sensor_readings": [
+        53.49,
+        44.88,
+        59.27,
+        56.11,
+        52.91
+      ],
+      "warnings": [
+        "General not focus establish ago others ahead."
+      ],
+      "last_update": "2025-10-16T21:59:42.825283"
+    }
+  },
+  {
+    "company_id": 83,
+    "payload": {
+      "device_id": "c44fc4b8-5b80-48d1-8788-dfed78c04ed8",
+      "status": "maintenance",
+      "sensor_readings": [
+        51.52,
+        43.12,
+        53.59,
+        58.38,
+        58.4
+      ],
+      "warnings": [],
+      "last_update": "2025-07-28T15:33:07.254256"
+    }
+  },
+  {
+    "company_id": 84,
+    "payload": {
+      "device_id": "19a2676f-28dd-4bfd-b956-be953b964c74",
+      "status": "standby",
+      "sensor_readings": [
+        53.67,
+        55.16,
+        49.03,
+        48.16,
+        52.01
+      ],
+      "warnings": [],
+      "last_update": "2025-03-30T13:18:33.527827"
+    }
+  },
+  {
+    "company_id": 85,
+    "payload": {
+      "device_id": "d0f81063-889f-4107-843b-1d0f3dbc3093",
+      "status": "active",
+      "sensor_readings": [
+        50.78,
+        51.66,
+        47.57,
+        50.71,
+        48.63
+      ],
+      "warnings": [],
+      "last_update": "2025-10-10T16:39:06.600869"
+    }
+  },
+  {
+    "company_id": 86,
+    "payload": {
+      "device_id": "ff138c80-c398-4332-8e50-0785bcaff931",
+      "status": "standby",
+      "sensor_readings": [
+        45.0,
+        49.5,
+        48.98,
+        45.61,
+        45.87
+      ],
+      "warnings": [],
+      "last_update": "2025-12-05T15:09:28.724904"
+    }
+  },
+  {
+    "company_id": 87,
+    "payload": {
+      "device_id": "5bd93609-b297-4782-bcf4-74aace63cb1a",
+      "status": "standby",
+      "sensor_readings": [
+        54.57,
+        45.98,
+        57.46,
+        48.64,
+        49.89
+      ],
+      "warnings": [
+        "Suffer something great stuff suddenly compare or."
+      ],
+      "last_update": "2025-11-23T13:08:20.844304"
+    }
+  },
+  {
+    "company_id": 88,
+    "payload": {
+      "device_id": "303014d0-f2c8-4743-9027-e7702460d0d2",
+      "status": "maintenance",
+      "sensor_readings": [
+        46.26,
+        37.88,
+        54.42,
+        53.68,
+        48.59
+      ],
+      "warnings": [
+        "Region goal nothing."
+      ],
+      "last_update": "2025-10-26T22:27:22.468317"
+    }
+  },
+  {
+    "company_id": 89,
+    "payload": {
+      "device_id": "7e02921d-f86b-443a-a1b2-43cccf767343",
+      "status": "active",
+      "sensor_readings": [
+        50.33,
+        52.58,
+        42.19,
+        47.35,
+        53.97
+      ],
+      "warnings": [],
+      "last_update": "2025-07-13T16:34:35.225454"
+    }
+  },
+  {
+    "company_id": 90,
+    "payload": {
+      "device_id": "54ec84ce-002c-4b25-ba5d-7c8286c5547c",
+      "status": "standby",
+      "sensor_readings": [
+        43.73,
+        52.33,
+        49.82,
+        41.92,
+        55.82
+      ],
+      "warnings": [
+        "Make bed discussion despite."
+      ],
+      "last_update": "2025-11-24T22:43:09.683267"
+    }
+  },
+  {
+    "company_id": 91,
+    "payload": {
+      "device_id": "573bfc17-2167-435e-8e73-34f233932b6c",
+      "status": "standby",
+      "sensor_readings": [
+        46.96,
+        58.15,
+        51.32,
+        47.05,
+        51.87
+      ],
+      "warnings": [],
+      "last_update": "2025-09-14T03:33:08.648978"
+    }
+  },
+  {
+    "company_id": 92,
+    "payload": {
+      "device_id": "de4379cb-d823-4076-8d6b-b03beb3537a0",
+      "status": "standby",
+      "sensor_readings": [
+        50.18,
+        57.19,
+        51.05,
+        60.87,
+        54.7
+      ],
+      "warnings": [],
+      "last_update": "2025-04-26T14:41:21.460731"
+    }
+  },
+  {
+    "company_id": 93,
+    "payload": {
+      "device_id": "b466fab6-962c-44dd-a5d0-7461059c1574",
+      "status": "maintenance",
+      "sensor_readings": [
+        43.67,
+        49.71,
+        47.76,
+        60.05,
+        58.85
+      ],
+      "warnings": [],
+      "last_update": "2025-11-24T16:57:24.490371"
+    }
+  },
+  {
+    "company_id": 94,
+    "payload": {
+      "device_id": "86bb42c7-d8b2-48b6-9c65-4aa2c63ce21d",
+      "status": "maintenance",
+      "sensor_readings": [
+        44.83,
+        56.99,
+        50.29,
+        46.76,
+        49.71
+      ],
+      "warnings": [],
+      "last_update": "2025-11-04T12:00:54.822374"
+    }
+  },
+  {
+    "company_id": 95,
+    "payload": {
+      "device_id": "b45c9a54-5fa3-4531-9291-6e60f5e72daf",
+      "status": "active",
+      "sensor_readings": [
+        50.64,
+        55.33,
+        53.98,
+        54.04,
+        45.13
+      ],
+      "warnings": [],
+      "last_update": "2025-12-03T12:44:41.366168"
+    }
+  },
+  {
+    "company_id": 96,
+    "payload": {
+      "device_id": "5628ddcd-19dd-4e8c-9605-30356545c030",
+      "status": "active",
+      "sensor_readings": [
+        52.3,
+        51.59,
+        49.84,
+        49.69,
+        46.32
+      ],
+      "warnings": [],
+      "last_update": "2025-04-18T19:33:25.730965"
+    }
+  },
+  {
+    "company_id": 97,
+    "payload": {
+      "device_id": "bb7b6c05-2852-4ca2-b9d2-014a22ee7f07",
+      "status": "maintenance",
+      "sensor_readings": [
+        56.32,
+        47.68,
+        45.98,
+        39.35,
+        45.93
+      ],
+      "warnings": [],
+      "last_update": "2025-12-05T22:47:54.715652"
+    }
+  },
+  {
+    "company_id": 98,
+    "payload": {
+      "device_id": "7cb923f5-f5ed-4382-a3a6-ef83cab63107",
+      "status": "active",
+      "sensor_readings": [
+        48.97,
+        50.57,
+        42.81,
+        54.6,
+        46.66
+      ],
+      "warnings": [],
+      "last_update": "2025-08-20T22:33:02.623465"
+    }
+  },
+  {
+    "company_id": 99,
+    "payload": {
+      "device_id": "8fddbebc-f7ff-48d4-b509-f08a2c988bca",
+      "status": "active",
+      "sensor_readings": [
+        55.25,
+        43.1,
+        36.2,
+        55.32,
+        43.86
+      ],
+      "warnings": [],
+      "last_update": "2025-09-05T19:05:55.467835"
+    }
+  },
+  {
+    "company_id": 100,
+    "payload": {
+      "device_id": "5b58eb49-c978-4b52-9d1c-0838edc8cca8",
+      "status": "maintenance",
+      "sensor_readings": [
+        51.06,
+        48.67,
+        52.42,
+        47.27,
+        47.42
+      ],
+      "warnings": [],
+      "last_update": "2025-03-21T18:12:02.282890"
+    }
+  }
+]

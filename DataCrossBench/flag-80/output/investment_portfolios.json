@@ -1,0 +1,7827 @@
+[
+  {
+    "fund_id": "FUND0001",
+    "fund_name": "Young-Mercer基金",
+    "asset_allocation": {
+      "股票": 0.05,
+      "债券": 0.23,
+      "现金": 0.38,
+      "商品": 0.23,
+      "另类投资": 0.10999999999999999
+    },
+    "risk_factor": 0.128,
+    "holdings": [
+      {
+        "stock_symbol": "EPFS776",
+        "market_value": 14.47,
+        "weight_pct": 0.047
+      },
+      {
+        "stock_symbol": "GVMK746",
+        "market_value": 12.51,
+        "weight_pct": 0.041
+      },
+      {
+        "stock_symbol": "OIBU888",
+        "market_value": 4.52,
+        "weight_pct": 0.115
+      },
+      {
+        "stock_symbol": "MSWD218",
+        "market_value": 17.42,
+        "weight_pct": 0.147
+      },
+      {
+        "stock_symbol": "UQMS143",
+        "market_value": 15.37,
+        "weight_pct": 0.065
+      },
+      {
+        "stock_symbol": "IFLI220",
+        "market_value": 18.15,
+        "weight_pct": 0.067
+      },
+      {
+        "stock_symbol": "FTTZ266",
+        "market_value": 16.96,
+        "weight_pct": 0.055
+      },
+      {
+        "stock_symbol": "YUKC872",
+        "market_value": 13.23,
+        "weight_pct": 0.119
+      },
+      {
+        "stock_symbol": "GMDJ610",
+        "market_value": 16.81,
+        "weight_pct": 0.03
+      },
+      {
+        "stock_symbol": "KIYZ477",
+        "market_value": 17.29,
+        "weight_pct": 0.106
+      },
+      {
+        "stock_symbol": "TDYP68",
+        "market_value": 2.41,
+        "weight_pct": 0.128
+      },
+      {
+        "stock_symbol": "ADSJ84",
+        "market_value": 4.32,
+        "weight_pct": 0.05
+      },
+      {
+        "stock_symbol": "SPMW680",
+        "market_value": 19.45,
+        "weight_pct": 0.038
+      }
+    ]
+  },
+  {
+    "fund_id": "FUND0002",
+    "fund_name": "Mosley, Garcia and Wood基金",
+    "asset_allocation": {
+      "股票": 0.02,
+      "债券": 0.29,
+      "现金": 0.53,
+      "商品": 0.12,
+      "另类投资": 0.039999999999999925
+    },
+    "risk_factor": 0.304,
+    "holdings": [
+      {
+        "stock_symbol": "HOTN508",
+        "market_value": 4.76,
+        "weight_pct": 0.037
+      },
+      {
+        "stock_symbol": "KNFJ720",
+        "market_value": 17.88,
+        "weight_pct": 0.016
+      },
+      {
+        "stock_symbol": "XRJT974",
+        "market_value": 12.85,
+        "weight_pct": 0.027
+      },
+      {
+        "stock_symbol": "BDVX630",
+        "market_value": 18.51,
+        "weight_pct": 0.143
+      },
+      {
+        "stock_symbol": "EMUE89",
+        "market_value": 2.94,
+        "weight_pct": 0.025
+      },
+      {
+        "stock_symbol": "YOZQ610",
+        "market_value": 2.61,
+        "weight_pct": 0.035
+      },
+      {
+        "stock_symbol": "SAHE107",
+        "market_value": 12.89,
+        "weight_pct": 0.097
+      },
+      {
+        "stock_symbol": "QFFE191",
+        "market_value": 9.72,
+        "weight_pct": 0.048
+      },
+      {
+        "stock_symbol": "LLSV410",
+        "market_value": 11.93,
+        "weight_pct": 0.073
+      },
+      {
+        "stock_symbol": "KSWE408",
+        "market_value": 4.34,
+        "weight_pct": 0.035
+      },
+      {
+        "stock_symbol": "LAIA229",
+        "market_value": 15.17,
+        "weight_pct": 0.069
+      },
+      {
+        "stock_symbol": "ZFMM826",
+        "market_value": 1.47,
+        "weight_pct": 0.056
+      }
+    ]
+  },
+  {
+    "fund_id": "FUND0003",
+    "fund_name": "Sparks-Jones基金",
+    "asset_allocation": {
+      "股票": 0.19,
+      "债券": 0.04,
+      "现金": 0.31,
+      "商品": 0.07,
+      "另类投资": 0.3899999999999999
+    },
+    "risk_factor": 0.246,
+    "holdings": [
+      {
+        "stock_symbol": "ZYGT231",
+        "market_value": 12.29,
+        "weight_pct": 0.025
+      },
+      {
+        "stock_symbol": "ULYD26",
+        "market_value": 17.3,
+        "weight_pct": 0.053
+      },
+      {
+        "stock_symbol": "XMJM445",
+        "market_value": 18.91,
+        "weight_pct": 0.096
+      },
+      {
+        "stock_symbol": "EUDL979",
+        "market_value": 4.02,
+        "weight_pct": 0.109
+      },
+      {
+        "stock_symbol": "BLAX963",
+        "market_value": 5.83,
+        "weight_pct": 0.026
+      },
+      {
+        "stock_symbol": "OOFP442",
+        "market_value": 2.5,
+        "weight_pct": 0.094
+      },
+      {
+        "stock_symbol": "SLEG1",
+        "market_value": 10.53,
+        "weight_pct": 0.038
+      },
+      {
+        "stock_symbol": "NKOE661",
+        "market_value": 18.54,
+        "weight_pct": 0.087
+      },
+      {
+        "stock_symbol": "TXHJ653",
+        "market_value": 2.67,
+        "weight_pct": 0.066
+      },
+      {
+        "stock_symbol": "HNFV825",
+        "market_value": 7.48,
+        "weight_pct": 0.069
+      },
+      {
+        "stock_symbol": "MIYR199",
+        "market_value": 9.63,
+        "weight_pct": 0.086
+      },
+      {
+        "stock_symbol": "GVFK138",
+        "market_value": 13.22,
+        "weight_pct": 0.05
+      },
+      {
+        "stock_symbol": "NYTN475",
+        "market_value": 12.35,
+        "weight_pct": 0.052
+      },
+      {
+        "stock_symbol": "QKHE913",
+        "market_value": 18.27,
+        "weight_pct": 0.077
+      }
+    ]
+  },
+  {
+    "fund_id": "FUND0004",
+    "fund_name": "Bailey-Jenkins基金",
+    "asset_allocation": {
+      "股票": 0.21,
+      "债券": 0.07,
+      "现金": 0.31,
+      "商品": 0.26,
+      "另类投资": 0.1499999999999999
+    },
+    "risk_factor": 0.216,
+    "holdings": [
+      {
+        "stock_symbol": "PJBS137",
+        "market_value": 2.48,
+        "weight_pct": 0.096
+      },
+      {
+        "stock_symbol": "ETYT261",
+        "market_value": 1.14,
+        "weight_pct": 0.1
+      },
+      {
+        "stock_symbol": "GWEW445",
+        "market_value": 3.77,
+        "weight_pct": 0.11
+      },
+      {
+        "stock_symbol": "VBDP134",
+        "market_value": 15.12,
+        "weight_pct": 0.12
+      },
+      {
+        "stock_symbol": "PQFP169",
+        "market_value": 6.26,
+        "weight_pct": 0.136
+      },
+      {
+        "stock_symbol": "VYKC134",
+        "market_value": 7.1,
+        "weight_pct": 0.056
+      },
+      {
+        "stock_symbol": "SOTA286",
+        "market_value": 7.95,
+        "weight_pct": 0.09
+      },
+      {
+        "stock_symbol": "EUGW562",
+        "market_value": 3.07,
+        "weight_pct": 0.07
+      },
+      {
+        "stock_symbol": "ODDR259",
+        "market_value": 0.99,
+        "weight_pct": 0.096
+      },
+      {
+        "stock_symbol": "CLKM284",
+        "market_value": 14.4,
+        "weight_pct": 0.075
+      }
+    ]
+  },
+  {
+    "fund_id": "FUND0005",
+    "fund_name": "Rogers LLC基金",
+    "asset_allocation": {
+      "股票": 0.36,
+      "债券": 0.39,
+      "现金": 0.16,
+      "商品": 0.04,
+      "另类投资": 0.04999999999999993
+    },
+    "risk_factor": 0.294,
+    "holdings": [
+      {
+        "stock_symbol": "PXQR291",
+        "market_value": 4.15,
+        "weight_pct": 0.101
+      },
+      {
+        "stock_symbol": "MJMY67",
+        "market_value": 10.4,
+        "weight_pct": 0.146
+      },
+      {
+        "stock_symbol": "OFLI7",
+        "market_value": 3.25,
+        "weight_pct": 0.026
+      },
+      {
+        "stock_symbol": "BTTS85",
+        "market_value": 13.59,
+        "weight_pct": 0.075
+      },
+      {
+        "stock_symbol": "FNTG653",
+        "market_value": 13.42,
+        "weight_pct": 0.102
+      },
+      {
+        "stock_symbol": "QMPR690",
+        "market_value": 14.68,
+        "weight_pct": 0.076
+      },
+      {
+        "stock_symbol": "GQII144",
+        "market_value": 12.64,
+        "weight_pct": 0.121
+      },
+      {
+        "stock_symbol": "GIBA324",
+        "market_value": 15.14,
+        "weight_pct": 0.037
+      },
+      {
+        "stock_symbol": "YUNZ103",
+        "market_value": 15.83,
+        "weight_pct": 0.099
+      },
+      {
+        "stock_symbol": "KKRD14",
+        "market_value": 9.32,
+        "weight_pct": 0.115
+      },
+      {
+        "stock_symbol": "XDWL8",
+        "market_value": 14.85,
+        "weight_pct": 0.093
+      },
+      {
+        "stock_symbol": "UKQL131",
+        "market_value": 16.79,
+        "weight_pct": 0.081
+      },
+      {
+        "stock_symbol": "RYMK464",
+        "market_value": 14.68,
+        "weight_pct": 0.139
+      },
+      {
+        "stock_symbol": "WZVQ837",
+        "market_value": 1.98,
+        "weight_pct": 0.048
+      },
+      {
+        "stock_symbol": "UDQN370",
+        "market_value": 1.87,
+        "weight_pct": 0.135
+      }
+    ]
+  },
+  {
+    "fund_id": "FUND0006",
+    "fund_name": "Stafford, Jones and Stephens基金",
+    "asset_allocation": {
+      "股票": 0.37,
+      "债券": 0.02,
+      "现金": 0.36,
+      "商品": 0.06,
+      "另类投资": 0.18999999999999995
+    },
+    "risk_factor": 0.317,
+    "holdings": [
+      {
+        "stock_symbol": "MTUU281",
+        "market_value": 13.04,
+        "weight_pct": 0.111
+      },
+      {
+        "stock_symbol": "JQXA880",
+        "market_value": 10.73,
+        "weight_pct": 0.14
+      },
+      {
+        "stock_symbol": "SLTE822",
+        "market_value": 0.8,
+        "weight_pct": 0.018
+      },
+      {
+        "stock_symbol": "IZGN799",
+        "market_value": 1.98,
+        "weight_pct": 0.145
+      },
+      {
+        "stock_symbol": "VGXZ86",
+        "market_value": 10.71,
+        "weight_pct": 0.088
+      },
+      {
+        "stock_symbol": "CGAV521",
+        "market_value": 15.31,
+        "weight_pct": 0.071
+      },
+      {
+        "stock_symbol": "QGAU782",
+        "market_value": 17.42,
+        "weight_pct": 0.047
+      },
+      {
+        "stock_symbol": "AXGL149",
+        "market_value": 4.58,
+        "weight_pct": 0.019
+      },
+      {
+        "stock_symbol": "ULUC3",
+        "market_value": 15.26,
+        "weight_pct": 0.135
+      },
+      {
+        "stock_symbol": "EMWF483",
+        "market_value": 16.66,
+        "weight_pct": 0.143
+      },
+      {
+        "stock_symbol": "PUKN394",
+        "market_value": 10.68,
+        "weight_pct": 0.125
+      },
+      {
+        "stock_symbol": "XQSG760",
+        "market_value": 4.32,
+        "weight_pct": 0.077
+      },
+      {
+        "stock_symbol": "SZDK934",
+        "market_value": 16.77,
+        "weight_pct": 0.106
+      },
+      {
+        "stock_symbol": "KRKL586",
+        "market_value": 12.92,
+        "weight_pct": 0.112
+      }
+    ]
+  },
+  {
+    "fund_id": "FUND0007",
+    "fund_name": "Perez PLC基金",
+    "asset_allocation": {
+      "股票": 0.11,
+      "债券": 0.27,
+      "现金": 0.12,
+      "商品": 0.0,
+      "另类投资": 0.5
+    },
+    "risk_factor": 0.132,
+    "holdings": [
+      {
+        "stock_symbol": "DDRC506",
+        "market_value": 2.89,
+        "weight_pct": 0.037
+      },
+      {
+        "stock_symbol": "NUCP477",
+        "market_value": 14.55,
+        "weight_pct": 0.089
+      },
+      {
+        "stock_symbol": "KLXI588",
+        "market_value": 6.74,
+        "weight_pct": 0.096
+      },
+      {
+        "stock_symbol": "GEFU947",
+        "market_value": 8.57,
+        "weight_pct": 0.081
+      },
+      {
+        "stock_symbol": "TJHZ707",
+        "market_value": 18.31,
+        "weight_pct": 0.091
+      },
+      {
+        "stock_symbol": "FORL643",
+        "market_value": 18.93,
+        "weight_pct": 0.121
+      },
+      {
+        "stock_symbol": "IXCR903",
+        "market_value": 6.36,
+        "weight_pct": 0.141
+      },
+      {
+        "stock_symbol": "ZFMF290",
+        "market_value": 9.04,
+        "weight_pct": 0.082
+      },
+      {
+        "stock_symbol": "CMOH515",
+        "market_value": 14.53,
+        "weight_pct": 0.12
+      },
+      {
+        "stock_symbol": "DCZO607",
+        "market_value": 13.81,
+        "weight_pct": 0.104
+      },
+      {
+        "stock_symbol": "WQEC409",
+        "market_value": 3.45,
+        "weight_pct": 0.144
+      },
+      {
+        "stock_symbol": "NIWI726",
+        "market_value": 7.16,
+        "weight_pct": 0.145
+      },
+      {
+        "stock_symbol": "LTLN776",
+        "market_value": 1.35,
+        "weight_pct": 0.068
+      },
+      {
+        "stock_symbol": "EFBZ607",
+        "market_value": 3.23,
+        "weight_pct": 0.039
+      }
+    ]
+  },
+  {
+    "fund_id": "FUND0008",
+    "fund_name": "Buckley-Phillips基金",
+    "asset_allocation": {
+      "股票": 0.19,
+      "债券": 0.1,
+      "现金": 0.03,
+      "商品": 0.47,
+      "另类投资": 0.20999999999999996
+    },
+    "risk_factor": 0.42,
+    "holdings": [
+      {
+        "stock_symbol": "WCAC238",
+        "market_value": 17.2,
+        "weight_pct": 0.132
+      },
+      {
+        "stock_symbol": "PLMA752",
+        "market_value": 17.69,
+        "weight_pct": 0.059
+      },
+      {
+        "stock_symbol": "THCU529",
+        "market_value": 16.76,
+        "weight_pct": 0.116
+      },
+      {
+        "stock_symbol": "JKOZ153",
+        "market_value": 2.31,
+        "weight_pct": 0.114
+      },
+      {
+        "stock_symbol": "RWRU637",
+        "market_value": 7.59,
+        "weight_pct": 0.119
+      },
+      {
+        "stock_symbol": "WKWT135",
+        "market_value": 8.01,
+        "weight_pct": 0.11
+      },
+      {
+        "stock_symbol": "EVAZ715",
+        "market_value": 11.99,
+        "weight_pct": 0.094
+      },
+      {
+        "stock_symbol": "MRKF662",
+        "market_value": 1.66,
+        "weight_pct": 0.04
+      },
+      {
+        "stock_symbol": "IQWQ9",
+        "market_value": 11.7,
+        "weight_pct": 0.022
+      },
+      {
+        "stock_symbol": "GGMW178",
+        "market_value": 12.84,
+        "weight_pct": 0.061
+      },
+      {
+        "stock_symbol": "OAQI404",
+        "market_value": 1.72,
+        "weight_pct": 0.034
+      }
+    ]
+  },
+  {
+    "fund_id": "FUND0009",
+    "fund_name": "Warner and Sons基金",
+    "asset_allocation": {
+      "股票": 0.4,
+      "债券": 0.13,
+      "现金": 0.04,
+      "商品": 0.37,
+      "另类投资": 0.05999999999999994
+    },
+    "risk_factor": 0.499,
+    "holdings": [
+      {
+        "stock_symbol": "SGWD685",
+        "market_value": 15.23,
+        "weight_pct": 0.11
+      },
+      {
+        "stock_symbol": "OXXM235",
+        "market_value": 0.84,
+        "weight_pct": 0.099
+      },
+      {
+        "stock_symbol": "RJBW915",
+        "market_value": 17.42,
+        "weight_pct": 0.108
+      },
+      {
+        "stock_symbol": "JYZC243",
+        "market_value": 13.35,
+        "weight_pct": 0.139
+      },
+      {
+        "stock_symbol": "HHAJ432",
+        "market_value": 7.47,
+        "weight_pct": 0.017
+      },
+      {
+        "stock_symbol": "HMZZ894",
+        "market_value": 4.19,
+        "weight_pct": 0.036
+      },
+      {
+        "stock_symbol": "GMPN15",
+        "market_value": 14.95,
+        "weight_pct": 0.021
+      },
+      {
+        "stock_symbol": "AMBP320",
+        "market_value": 15.59,
+        "weight_pct": 0.123
+      },
+      {
+        "stock_symbol": "PXTN39",
+        "market_value": 11.0,
+        "weight_pct": 0.044
+      },
+      {
+        "stock_symbol": "TKBI86",
+        "market_value": 2.4,
+        "weight_pct": 0.07
+      },
+      {
+        "stock_symbol": "UCCV847",
+        "market_value": 13.2,
+        "weight_pct": 0.081
+      },
+      {
+        "stock_symbol": "WXPV914",
+        "market_value": 9.86,
+        "weight_pct": 0.149
+      },
+      {
+        "stock_symbol": "CJDT181",
+        "market_value": 10.24,
+        "weight_pct": 0.148
+      },
+      {
+        "stock_symbol": "OFFH948",
+        "market_value": 6.32,
+        "weight_pct": 0.111
+      },
+      {
+        "stock_symbol": "WJAO506",
+        "market_value": 16.82,
+        "weight_pct": 0.018
+      }
+    ]
+  },
+  {
+    "fund_id": "FUND0010",
+    "fund_name": "Phillips, Schroeder and Burnett基金",
+    "asset_allocation": {
+      "股票": 0.14,
+      "债券": 0.08,
+      "现金": 0.47,
+      "商品": 0.11,
+      "另类投资": 0.20000000000000007
+    },
+    "risk_factor": 0.143,
+    "holdings": [
+      {
+        "stock_symbol": "XIDF32",
+        "market_value": 2.96,
+        "weight_pct": 0.108
+      },
+      {
+        "stock_symbol": "NFKF768",
+        "market_value": 9.2,
+        "weight_pct": 0.131
+      },
+      {
+        "stock_symbol": "FTAV107",
+        "market_value": 8.22,
+        "weight_pct": 0.109
+      },
+      {
+        "stock_symbol": "RVLE440",
+        "market_value": 12.19,
+        "weight_pct": 0.121
+      },
+      {
+        "stock_symbol": "GULY611",
+        "market_value": 11.53,
+        "weight_pct": 0.075
+      },
+      {
+        "stock_symbol": "JCZF192",
+        "market_value": 19.36,
+        "weight_pct": 0.133
+      },
+      {
+        "stock_symbol": "XKBZ570",
+        "market_value": 6.97,
+        "weight_pct": 0.07
+      },
+      {
+        "stock_symbol": "SKQP818",
+        "market_value": 18.16,
+        "weight_pct": 0.141
+      },
+      {
+        "stock_symbol": "IMZJ435",
+        "market_value": 9.99,
+        "weight_pct": 0.051
+      },
+      {
+        "stock_symbol": "RIBA463",
+        "market_value": 15.42,
+        "weight_pct": 0.062
+      },
+      {
+        "stock_symbol": "UACA730",
+        "market_value": 18.91,
+        "weight_pct": 0.131
+      },
+      {
+        "stock_symbol": "NRGA3",
+        "market_value": 18.46,
+        "weight_pct": 0.113
+      }
+    ]
+  },
+  {
+    "fund_id": "FUND0011",
+    "fund_name": "Snow, Bennett and Nguyen基金",
+    "asset_allocation": {
+      "股票": 0.17,
+      "债券": 0.01,
+      "现金": 0.31,
+      "商品": 0.13,
+      "另类投资": 0.38
+    },
+    "risk_factor": 0.437,
+    "holdings": [
+      {
+        "stock_symbol": "ABPY283",
+        "market_value": 0.8,
+        "weight_pct": 0.07
+      },
+      {
+        "stock_symbol": "XCWL326",
+        "market_value": 14.54,
+        "weight_pct": 0.061
+      },
+      {
+        "stock_symbol": "LKYL805",
+        "market_value": 12.78,
+        "weight_pct": 0.076
+      },
+      {
+        "stock_symbol": "CAER908",
+        "market_value": 17.96,
+        "weight_pct": 0.037
+      },
+      {
+        "stock_symbol": "JGXT2",
+        "market_value": 17.05,
+        "weight_pct": 0.025
+      },
+      {
+        "stock_symbol": "TKJK381",
+        "market_value": 14.21,
+        "weight_pct": 0.078
+      },
+      {
+        "stock_symbol": "KYAT758",
+        "market_value": 3.19,
+        "weight_pct": 0.138
+      },
+      {
+        "stock_symbol": "ZNZM730",
+        "market_value": 10.6,
+        "weight_pct": 0.068
+      },
+      {
+        "stock_symbol": "SNSG162",
+        "market_value": 2.03,
+        "weight_pct": 0.064
+      },
+      {
+        "stock_symbol": "YYKB960",
+        "market_value": 6.55,
+        "weight_pct": 0.148
+      },
+      {
+        "stock_symbol": "QPPI995",
+        "market_value": 3.27,
+        "weight_pct": 0.052
+      },
+      {
+        "stock_symbol": "CLBS567",
+        "market_value": 11.18,
+        "weight_pct": 0.096
+      }
+    ]
+  },
+  {
+    "fund_id": "FUND0012",
+    "fund_name": "Green, Griffith and Haley基金",
+    "asset_allocation": {
+      "股票": 0.2,
+      "债券": 0.18,
+      "现金": 0.38,
+      "商品": 0.0,
+      "另类投资": 0.24
+    },
+    "risk_factor": 0.133,
+    "holdings": [
+      {
+        "stock_symbol": "DJVY397",
+        "market_value": 7.94,
+        "weight_pct": 0.119
+      },
+      {
+        "stock_symbol": "JVSL866",
+        "market_value": 14.02,
+        "weight_pct": 0.133
+      },
+      {
+        "stock_symbol": "JRVJ220",
+        "market_value": 3.51,
+        "weight_pct": 0.092
+      },
+      {
+        "stock_symbol": "TXFW153",
+        "market_value": 12.72,
+        "weight_pct": 0.109
+      },
+      {
+        "stock_symbol": "MZJG321",
+        "market_value": 6.96,
+        "weight_pct": 0.073
+      },
+      {
+        "stock_symbol": "OSKD877",
+        "market_value": 15.78,
+        "weight_pct": 0.149
+      },
+      {
+        "stock_symbol": "AJEB354",
+        "market_value": 17.39,
+        "weight_pct": 0.051
+      },
+      {
+        "stock_symbol": "HEJF830",
+        "market_value": 15.9,
+        "weight_pct": 0.032
+      },
+      {
+        "stock_symbol": "MWAP89",
+        "market_value": 2.37,
+        "weight_pct": 0.099
+      },
+      {
+        "stock_symbol": "LVLX309",
+        "market_value": 3.43,
+        "weight_pct": 0.144
+      },
+      {
+        "stock_symbol": "PBNP81",
+        "market_value": 11.95,
+        "weight_pct": 0.125
+      },
+      {
+        "stock_symbol": "SIAD873",
+        "market_value": 2.46,
+        "weight_pct": 0.036
+      },
+      {
+        "stock_symbol": "DKRI920",
+        "market_value": 1.44,
+        "weight_pct": 0.05
+      }
+    ]
+  },
+  {
+    "fund_id": "FUND0013",
+    "fund_name": "Solomon-Mendoza基金",
+    "asset_allocation": {
+      "股票": 0.25,
+      "债券": 0.48,
+      "现金": 0.04,
+      "商品": 0.03,
+      "另类投资": 0.19999999999999996
+    },
+    "risk_factor": 0.223,
+    "holdings": [
+      {
+        "stock_symbol": "XISH77",
+        "market_value": 12.87,
+        "weight_pct": 0.021
+      },
+      {
+        "stock_symbol": "CRHC57",
+        "market_value": 10.52,
+        "weight_pct": 0.096
+      },
+      {
+        "stock_symbol": "ECJA996",
+        "market_value": 3.46,
+        "weight_pct": 0.019
+      },
+      {
+        "stock_symbol": "HRQT620",
+        "market_value": 14.13,
+        "weight_pct": 0.045
+      },
+      {
+        "stock_symbol": "NIVR656",
+        "market_value": 6.19,
+        "weight_pct": 0.081
+      },
+      {
+        "stock_symbol": "MNTU687",
+        "market_value": 19.8,
+        "weight_pct": 0.03
+      },
+      {
+        "stock_symbol": "NZBW635",
+        "market_value": 8.36,
+        "weight_pct": 0.036
+      },
+      {
+        "stock_symbol": "YLPA886",
+        "market_value": 10.64,
+        "weight_pct": 0.053
+      },
+      {
+        "stock_symbol": "QWRW510",
+        "market_value": 14.2,
+        "weight_pct": 0.107
+      },
+      {
+        "stock_symbol": "DLMO491",
+        "market_value": 15.81,
+        "weight_pct": 0.082
+      },
+      {
+        "stock_symbol": "IGBO199",
+        "market_value": 15.73,
+        "weight_pct": 0.069
+      },
+      {
+        "stock_symbol": "JKXA128",
+        "market_value": 16.67,
+        "weight_pct": 0.126
+      },
+      {
+        "stock_symbol": "GYDX574",
+        "market_value": 15.39,
+        "weight_pct": 0.118
+      },
+      {
+        "stock_symbol": "FURL836",
+        "market_value": 17.95,
+        "weight_pct": 0.096
+      },
+      {
+        "stock_symbol": "RXBV236",
+        "market_value": 7.89,
+        "weight_pct": 0.107
+      }
+    ]
+  },
+  {
+    "fund_id": "FUND0014",
+    "fund_name": "Sandoval-Harrington基金",
+    "asset_allocation": {
+      "股票": 0.21,
+      "债券": 0.25,
+      "现金": 0.2,
+      "商品": 0.18,
+      "另类投资": 0.16000000000000014
+    },
+    "risk_factor": 0.166,
+    "holdings": [
+      {
+        "stock_symbol": "MHZF241",
+        "market_value": 9.7,
+        "weight_pct": 0.069
+      },
+      {
+        "stock_symbol": "FNOJ672",
+        "market_value": 5.66,
+        "weight_pct": 0.09
+      },
+      {
+        "stock_symbol": "BCOW78",
+        "market_value": 18.36,
+        "weight_pct": 0.127
+      },
+      {
+        "stock_symbol": "OTCC670",
+        "market_value": 13.68,
+        "weight_pct": 0.14
+      },
+      {
+        "stock_symbol": "PFVH340",
+        "market_value": 6.62,
+        "weight_pct": 0.131
+      },
+      {
+        "stock_symbol": "IEZD874",
+        "market_value": 13.58,
+        "weight_pct": 0.063
+      },
+      {
+        "stock_symbol": "AIGA905",
+        "market_value": 16.05,
+        "weight_pct": 0.047
+      },
+      {
+        "stock_symbol": "HBOF46",
+        "market_value": 2.43,
+        "weight_pct": 0.138
+      },
+      {
+        "stock_symbol": "ASEZ103",
+        "market_value": 12.18,
+        "weight_pct": 0.114
+      },
+      {
+        "stock_symbol": "PAUX275",
+        "market_value": 17.16,
+        "weight_pct": 0.12
+      },
+      {
+        "stock_symbol": "NBRC285",
+        "market_value": 13.61,
+        "weight_pct": 0.071
+      },
+      {
+        "stock_symbol": "XCPO884",
+        "market_value": 15.85,
+        "weight_pct": 0.085
+      },
+      {
+        "stock_symbol": "CEOM642",
+        "market_value": 17.1,
+        "weight_pct": 0.072
+      },
+      {
+        "stock_symbol": "VSZC145",
+        "market_value": 5.29,
+        "weight_pct": 0.118
+      },
+      {
+        "stock_symbol": "ABDX148",
+        "market_value": 8.08,
+        "weight_pct": 0.14
+      }
+    ]
+  },
+  {
+    "fund_id": "FUND0015",
+    "fund_name": "Meyer, Spencer and Cole基金",
+    "asset_allocation": {
+      "股票": 0.27,
+      "债券": 0.4,
+      "现金": 0.26,
+      "商品": 0.03,
+      "另类投资": 0.039999999999999925
+    },
+    "risk_factor": 0.266,
+    "holdings": [
+      {
+        "stock_symbol": "QWNE610",
+        "market_value": 3.71,
+        "weight_pct": 0.144
+      },
+      {
+        "stock_symbol": "FVSA938",
+        "market_value": 19.55,
+        "weight_pct": 0.074
+      },
+      {
+        "stock_symbol": "JIYT578",
+        "market_value": 16.46,
+        "weight_pct": 0.085
+      },
+      {
+        "stock_symbol": "WWCN360",
+        "market_value": 15.06,
+        "weight_pct": 0.063
+      },
+      {
+        "stock_symbol": "CHVA704",
+        "market_value": 4.55,
+        "weight_pct": 0.017
+      },
+      {
+        "stock_symbol": "LCWZ935",
+        "market_value": 12.46,
+        "weight_pct": 0.023
+      },
+      {
+        "stock_symbol": "EAGV295",
+        "market_value": 8.89,
+        "weight_pct": 0.05
+      },
+      {
+        "stock_symbol": "JUAB680",
+        "market_value": 2.42,
+        "weight_pct": 0.068
+      },
+      {
+        "stock_symbol": "OAKQ220",
+        "market_value": 3.77,
+        "weight_pct": 0.149
+      },
+      {
+        "stock_symbol": "LQDZ478",
+        "market_value": 6.33,
+        "weight_pct": 0.122
+      },
+      {
+        "stock_symbol": "QWTD734",
+        "market_value": 14.39,
+        "weight_pct": 0.148
+      },
+      {
+        "stock_symbol": "TIXL489",
+        "market_value": 6.55,
+        "weight_pct": 0.119
+      }
+    ]
+  },
+  {
+    "fund_id": "FUND0016",
+    "fund_name": "Hernandez Inc基金",
+    "asset_allocation": {
+      "股票": 0.77,
+      "债券": 0.08,
+      "现金": 0.06,
+      "商品": 0.07,
+      "另类投资": 0.020000000000000018
+    },
+    "risk_factor": 0.363,
+    "holdings": [
+      {
+        "stock_symbol": "DWFN475",
+        "market_value": 13.71,
+        "weight_pct": 0.118
+      },
+      {
+        "stock_symbol": "GIRL387",
+        "market_value": 11.88,
+        "weight_pct": 0.118
+      },
+      {
+        "stock_symbol": "EGWK603",
+        "market_value": 2.45,
+        "weight_pct": 0.121
+      },
+      {
+        "stock_symbol": "EJIF689",
+        "market_value": 9.91,
+        "weight_pct": 0.105
+      },
+      {
+        "stock_symbol": "HCTZ573",
+        "market_value": 19.81,
+        "weight_pct": 0.067
+      },
+      {
+        "stock_symbol": "BMZS775",
+        "market_value": 5.22,
+        "weight_pct": 0.081
+      },
+      {
+        "stock_symbol": "EBQY45",
+        "market_value": 13.29,
+        "weight_pct": 0.032
+      },
+      {
+        "stock_symbol": "HSRL68",
+        "market_value": 19.22,
+        "weight_pct": 0.094
+      },
+      {
+        "stock_symbol": "VVNS631",
+        "market_value": 8.34,
+        "weight_pct": 0.053
+      },
+      {
+        "stock_symbol": "WLYC886",
+        "market_value": 13.13,
+        "weight_pct": 0.145
+      },
+      {
+        "stock_symbol": "MNFT784",
+        "market_value": 2.51,
+        "weight_pct": 0.095
+      },
+      {
+        "stock_symbol": "NPDV559",
+        "market_value": 15.61,
+        "weight_pct": 0.102
+      }
+    ]
+  },
+  {
+    "fund_id": "FUND0017",
+    "fund_name": "Walters, King and Wilson基金",
+    "asset_allocation": {
+      "股票": 0.16,
+      "债券": 0.28,
+      "现金": 0.05,
+      "商品": 0.33,
+      "另类投资": 0.17999999999999994
+    },
+    "risk_factor": 0.321,
+    "holdings": [
+      {
+        "stock_symbol": "TUMW497",
+        "market_value": 14.62,
+        "weight_pct": 0.113
+      },
+      {
+        "stock_symbol": "YADQ324",
+        "market_value": 10.7,
+        "weight_pct": 0.102
+      },
+      {
+        "stock_symbol": "URJD218",
+        "market_value": 11.6,
+        "weight_pct": 0.098
+      },
+      {
+        "stock_symbol": "KDAO315",
+        "market_value": 10.58,
+        "weight_pct": 0.057
+      },
+      {
+        "stock_symbol": "QPFQ851",
+        "market_value": 10.0,
+        "weight_pct": 0.131
+      },
+      {
+        "stock_symbol": "AJEE172",
+        "market_value": 12.54,
+        "weight_pct": 0.113
+      },
+      {
+        "stock_symbol": "JXWK495",
+        "market_value": 12.87,
+        "weight_pct": 0.071
+      },
+      {
+        "stock_symbol": "AAZV949",
+        "market_value": 5.27,
+        "weight_pct": 0.082
+      },
+      {
+        "stock_symbol": "JXIV729",
+        "market_value": 16.56,
+        "weight_pct": 0.024
+      },
+      {
+        "stock_symbol": "VKNM209",
+        "market_value": 1.38,
+        "weight_pct": 0.103
+      },
+      {
+        "stock_symbol": "OHQS657",
+        "market_value": 15.95,
+        "weight_pct": 0.067
+      }
+    ]
+  },
+  {
+    "fund_id": "FUND0018",
+    "fund_name": "Espinoza, Harmon and Miller基金",
+    "asset_allocation": {
+      "股票": 0.05,
+      "债券": 0.07,
+      "现金": 0.18,
+      "商品": 0.45,
+      "另类投资": 0.25
+    },
+    "risk_factor": 0.262,
+    "holdings": [
+      {
+        "stock_symbol": "ABGS822",
+        "market_value": 6.05,
+        "weight_pct": 0.146
+      },
+      {
+        "stock_symbol": "OSTX432",
+        "market_value": 11.4,
+        "weight_pct": 0.1
+      },
+      {
+        "stock_symbol": "JBNB62",
+        "market_value": 6.47,
+        "weight_pct": 0.107
+      },
+      {
+        "stock_symbol": "GQQA439",
+        "market_value": 8.14,
+        "weight_pct": 0.103
+      },
+      {
+        "stock_symbol": "GDGU552",
+        "market_value": 13.01,
+        "weight_pct": 0.116
+      },
+      {
+        "stock_symbol": "NULJ125",
+        "market_value": 2.03,
+        "weight_pct": 0.046
+      },
+      {
+        "stock_symbol": "WXLE120",
+        "market_value": 6.38,
+        "weight_pct": 0.093
+      },
+      {
+        "stock_symbol": "ZSTR927",
+        "market_value": 16.0,
+        "weight_pct": 0.065
+      },
+      {
+        "stock_symbol": "BLCW702",
+        "market_value": 10.84,
+        "weight_pct": 0.101
+      },
+      {
+        "stock_symbol": "IGZQ115",
+        "market_value": 4.47,
+        "weight_pct": 0.11
+      },
+      {
+        "stock_symbol": "YOJG454",
+        "market_value": 16.95,
+        "weight_pct": 0.121
+      },
+      {
+        "stock_symbol": "ZIPL576",
+        "market_value": 19.89,
+        "weight_pct": 0.143
+      },
+      {
+        "stock_symbol": "DKPF933",
+        "market_value": 19.55,
+        "weight_pct": 0.13
+      },
+      {
+        "stock_symbol": "MPAN830",
+        "market_value": 14.78,
+        "weight_pct": 0.113
+      }
+    ]
+  },
+  {
+    "fund_id": "FUND0019",
+    "fund_name": "Merritt, Gonzalez and Webb基金",
+    "asset_allocation": {
+      "股票": 0.44,
+      "债券": 0.05,
+      "现金": 0.41,
+      "商品": 0.03,
+      "另类投资": 0.07000000000000006
+    },
+    "risk_factor": 0.298,
+    "holdings": [
+      {
+        "stock_symbol": "SXXL631",
+        "market_value": 11.66,
+        "weight_pct": 0.125
+      },
+      {
+        "stock_symbol": "FYLV879",
+        "market_value": 15.89,
+        "weight_pct": 0.021
+      },
+      {
+        "stock_symbol": "ELCH974",
+        "market_value": 16.68,
+        "weight_pct": 0.132
+      },
+      {
+        "stock_symbol": "UICM73",
+        "market_value": 14.68,
+        "weight_pct": 0.027
+      },
+      {
+        "stock_symbol": "KZFA575",
+        "market_value": 7.13,
+        "weight_pct": 0.026
+      },
+      {
+        "stock_symbol": "ZDQE392",
+        "market_value": 10.27,
+        "weight_pct": 0.064
+      },
+      {
+        "stock_symbol": "CARF151",
+        "market_value": 10.45,
+        "weight_pct": 0.033
+      },
+      {
+        "stock_symbol": "JPPA56",
+        "market_value": 9.36,
+        "weight_pct": 0.049
+      },
+      {
+        "stock_symbol": "BMPK947",
+        "market_value": 7.87,
+        "weight_pct": 0.096
+      },
+      {
+        "stock_symbol": "XGRN753",
+        "market_value": 10.82,
+        "weight_pct": 0.075
+      },
+      {
+        "stock_symbol": "XSMW238",
+        "market_value": 5.92,
+        "weight_pct": 0.105
+      },
+      {
+        "stock_symbol": "QROS145",
+        "market_value": 2.49,
+        "weight_pct": 0.053
+      },
+      {
+        "stock_symbol": "MZXI443",
+        "market_value": 2.5,
+        "weight_pct": 0.113
+      },
+      {
+        "stock_symbol": "GHUR849",
+        "market_value": 11.98,
+        "weight_pct": 0.095
+      },
+      {
+        "stock_symbol": "JCGB556",
+        "market_value": 5.68,
+        "weight_pct": 0.133
+      }
+    ]
+  },
+  {
+    "fund_id": "FUND0020",
+    "fund_name": "Stephenson, Patton and Brown基金",
+    "asset_allocation": {
+      "股票": 0.39,
+      "债券": 0.21,
+      "现金": 0.19,
+      "商品": 0.07,
+      "另类投资": 0.1399999999999999
+    },
+    "risk_factor": 0.336,
+    "holdings": [
+      {
+        "stock_symbol": "PQMP337",
+        "market_value": 1.95,
+        "weight_pct": 0.134
+      },
+      {
+        "stock_symbol": "GCHT262",
+        "market_value": 10.85,
+        "weight_pct": 0.126
+      },
+      {
+        "stock_symbol": "RNFZ656",
+        "market_value": 11.69,
+        "weight_pct": 0.095
+      },
+      {
+        "stock_symbol": "HPEB485",
+        "market_value": 3.69,
+        "weight_pct": 0.109
+      },
+      {
+        "stock_symbol": "NPLA670",
+        "market_value": 11.95,
+        "weight_pct": 0.02
+      },
+      {
+        "stock_symbol": "KXNK908",
+        "market_value": 7.72,
+        "weight_pct": 0.049
+      },
+      {
+        "stock_symbol": "BYQQ344",
+        "market_value": 18.92,
+        "weight_pct": 0.139
+      },
+      {
+        "stock_symbol": "ILFV467",
+        "market_value": 14.96,
+        "weight_pct": 0.117
+      },
+      {
+        "stock_symbol": "IBJW822",
+        "market_value": 3.44,
+        "weight_pct": 0.078
+      },
+      {
+        "stock_symbol": "YKVE541",
+        "market_value": 15.66,
+        "weight_pct": 0.022
+      },
+      {
+        "stock_symbol": "WFMG733",
+        "market_value": 5.15,
+        "weight_pct": 0.044
+      },
+      {
+        "stock_symbol": "LWJB681",
+        "market_value": 9.35,
+        "weight_pct": 0.112
+      },
+      {
+        "stock_symbol": "CLDP684",
+        "market_value": 10.58,
+        "weight_pct": 0.017
+      },
+      {
+        "stock_symbol": "WKQX312",
+        "market_value": 4.07,
+        "weight_pct": 0.068
+      },
+      {
+        "stock_symbol": "IXYK751",
+        "market_value": 18.26,
+        "weight_pct": 0.143
+      }
+    ]
+  },
+  {
+    "fund_id": "FUND0021",
+    "fund_name": "Parks-Schultz基金",
+    "asset_allocation": {
+      "股票": 0.25,
+      "债券": 0.14,
+      "现金": 0.07,
+      "商品": 0.3,
+      "另类投资": 0.24
+    },
+    "risk_factor": 0.12,
+    "holdings": [
+      {
+        "stock_symbol": "RNVE36",
+        "market_value": 2.94,
+        "weight_pct": 0.082
+      },
+      {
+        "stock_symbol": "CJVN267",
+        "market_value": 16.53,
+        "weight_pct": 0.113
+      },
+      {
+        "stock_symbol": "CPRT246",
+        "market_value": 8.94,
+        "weight_pct": 0.124
+      },
+      {
+        "stock_symbol": "KVMY505",
+        "market_value": 14.83,
+        "weight_pct": 0.119
+      },
+      {
+        "stock_symbol": "EGDT187",
+        "market_value": 8.06,
+        "weight_pct": 0.105
+      },
+      {
+        "stock_symbol": "YSYH857",
+        "market_value": 10.1,
+        "weight_pct": 0.032
+      },
+      {
+        "stock_symbol": "AAFF49",
+        "market_value": 0.79,
+        "weight_pct": 0.043
+      },
+      {
+        "stock_symbol": "AYBE243",
+        "market_value": 15.89,
+        "weight_pct": 0.132
+      },
+      {
+        "stock_symbol": "OFNH681",
+        "market_value": 17.67,
+        "weight_pct": 0.149
+      },
+      {
+        "stock_symbol": "LXXL994",
+        "market_value": 2.17,
+        "weight_pct": 0.101
+      },
+      {
+        "stock_symbol": "ZANW635",
+        "market_value": 13.87,
+        "weight_pct": 0.077
+      },
+      {
+        "stock_symbol": "TTXD56",
+        "market_value": 19.59,
+        "weight_pct": 0.04
+      },
+      {
+        "stock_symbol": "YOBJ185",
+        "market_value": 6.84,
+        "weight_pct": 0.026
+      },
+      {
+        "stock_symbol": "TWSP608",
+        "market_value": 17.01,
+        "weight_pct": 0.06
+      }
+    ]
+  },
+  {
+    "fund_id": "FUND0022",
+    "fund_name": "Gibbs Group基金",
+    "asset_allocation": {
+      "股票": 0.36,
+      "债券": 0.09,
+      "现金": 0.18,
+      "商品": 0.23,
+      "另类投资": 0.14000000000000012
+    },
+    "risk_factor": 0.418,
+    "holdings": [
+      {
+        "stock_symbol": "CEUW20",
+        "market_value": 18.21,
+        "weight_pct": 0.126
+      },
+      {
+        "stock_symbol": "UQAI820",
+        "market_value": 8.88,
+        "weight_pct": 0.135
+      },
+      {
+        "stock_symbol": "VDSD247",
+        "market_value": 19.36,
+        "weight_pct": 0.059
+      },
+      {
+        "stock_symbol": "WCDQ557",
+        "market_value": 13.53,
+        "weight_pct": 0.082
+      },
+      {
+        "stock_symbol": "GREV691",
+        "market_value": 5.25,
+        "weight_pct": 0.085
+      },
+      {
+        "stock_symbol": "DTOQ47",
+        "market_value": 15.64,
+        "weight_pct": 0.059
+      },
+      {
+        "stock_symbol": "LXPV140",
+        "market_value": 13.13,
+        "weight_pct": 0.065
+      },
+      {
+        "stock_symbol": "YGWX995",
+        "market_value": 3.88,
+        "weight_pct": 0.102
+      },
+      {
+        "stock_symbol": "ZRND248",
+        "market_value": 2.32,
+        "weight_pct": 0.145
+      },
+      {
+        "stock_symbol": "JKGS349",
+        "market_value": 15.13,
+        "weight_pct": 0.102
+      },
+      {
+        "stock_symbol": "UWAY319",
+        "market_value": 10.11,
+        "weight_pct": 0.119
+      },
+      {
+        "stock_symbol": "PADZ105",
+        "market_value": 17.59,
+        "weight_pct": 0.051
+      }
+    ]
+  },
+  {
+    "fund_id": "FUND0023",
+    "fund_name": "Hebert Ltd基金",
+    "asset_allocation": {
+      "股票": 0.08,
+      "债券": 0.23,
+      "现金": 0.16,
+      "商品": 0.26,
+      "另类投资": 0.27
+    },
+    "risk_factor": 0.344,
+    "holdings": [
+      {
+        "stock_symbol": "DYKZ734",
+        "market_value": 17.88,
+        "weight_pct": 0.061
+      },
+      {
+        "stock_symbol": "BXAN698",
+        "market_value": 2.46,
+        "weight_pct": 0.047
+      },
+      {
+        "stock_symbol": "RYLH877",
+        "market_value": 18.87,
+        "weight_pct": 0.122
+      },
+      {
+        "stock_symbol": "DWDO725",
+        "market_value": 8.93,
+        "weight_pct": 0.055
+      },
+      {
+        "stock_symbol": "BFNW228",
+        "market_value": 17.96,
+        "weight_pct": 0.043
+      },
+      {
+        "stock_symbol": "HLXD105",
+        "market_value": 15.4,
+        "weight_pct": 0.098
+      },
+      {
+        "stock_symbol": "GYDX966",
+        "market_value": 2.93,
+        "weight_pct": 0.136
+      },
+      {
+        "stock_symbol": "XFHB594",
+        "market_value": 8.93,
+        "weight_pct": 0.067
+      },
+      {
+        "stock_symbol": "MJNG24",
+        "market_value": 7.99,
+        "weight_pct": 0.035
+      },
+      {
+        "stock_symbol": "FBTC549",
+        "market_value": 10.29,
+        "weight_pct": 0.058
+      },
+      {
+        "stock_symbol": "VPNS333",
+        "market_value": 2.2,
+        "weight_pct": 0.111
+      },
+      {
+        "stock_symbol": "IRDM144",
+        "market_value": 13.08,
+        "weight_pct": 0.016
+      },
+      {
+        "stock_symbol": "OPGI857",
+        "market_value": 1.68,
+        "weight_pct": 0.018
+      }
+    ]
+  },
+  {
+    "fund_id": "FUND0024",
+    "fund_name": "Davis, Schwartz and Montgomery基金",
+    "asset_allocation": {
+      "股票": 0.21,
+      "债券": 0.49,
+      "现金": 0.17,
+      "商品": 0.03,
+      "另类投资": 0.09999999999999998
+    },
+    "risk_factor": 0.436,
+    "holdings": [
+      {
+        "stock_symbol": "FLAD350",
+        "market_value": 6.87,
+        "weight_pct": 0.149
+      },
+      {
+        "stock_symbol": "NFWL812",
+        "market_value": 13.93,
+        "weight_pct": 0.018
+      },
+      {
+        "stock_symbol": "BQTN254",
+        "market_value": 15.84,
+        "weight_pct": 0.021
+      },
+      {
+        "stock_symbol": "YBPS512",
+        "market_value": 16.95,
+        "weight_pct": 0.086
+      },
+      {
+        "stock_symbol": "DIYB979",
+        "market_value": 2.53,
+        "weight_pct": 0.136
+      },
+      {
+        "stock_symbol": "MKQT728",
+        "market_value": 16.73,
+        "weight_pct": 0.133
+      },
+      {
+        "stock_symbol": "XUQV118",
+        "market_value": 15.14,
+        "weight_pct": 0.037
+      },
+      {
+        "stock_symbol": "INAP686",
+        "market_value": 2.84,
+        "weight_pct": 0.082
+      },
+      {
+        "stock_symbol": "RCAO493",
+        "market_value": 9.76,
+        "weight_pct": 0.036
+      },
+      {
+        "stock_symbol": "OQXT722",
+        "market_value": 19.71,
+        "weight_pct": 0.055
+      },
+      {
+        "stock_symbol": "HZRP479",
+        "market_value": 13.32,
+        "weight_pct": 0.066
+      },
+      {
+        "stock_symbol": "GPNC32",
+        "market_value": 7.4,
+        "weight_pct": 0.123
+      },
+      {
+        "stock_symbol": "XKMT812",
+        "market_value": 17.94,
+        "weight_pct": 0.01
+      },
+      {
+        "stock_symbol": "EODJ90",
+        "market_value": 7.63,
+        "weight_pct": 0.059
+      }
+    ]
+  },
+  {
+    "fund_id": "FUND0025",
+    "fund_name": "West-Johnson基金",
+    "asset_allocation": {
+      "股票": 0.35,
+      "债券": 0.11,
+      "现金": 0.13,
+      "商品": 0.09,
+      "另类投资": 0.32000000000000006
+    },
+    "risk_factor": 0.421,
+    "holdings": [
+      {
+        "stock_symbol": "DUIH903",
+        "market_value": 5.04,
+        "weight_pct": 0.146
+      },
+      {
+        "stock_symbol": "VGNZ19",
+        "market_value": 2.79,
+        "weight_pct": 0.049
+      },
+      {
+        "stock_symbol": "XVLC344",
+        "market_value": 13.24,
+        "weight_pct": 0.054
+      },
+      {
+        "stock_symbol": "ZAHY557",
+        "market_value": 13.84,
+        "weight_pct": 0.085
+      },
+      {
+        "stock_symbol": "STFK792",
+        "market_value": 10.13,
+        "weight_pct": 0.143
+      },
+      {
+        "stock_symbol": "CMRB259",
+        "market_value": 3.45,
+        "weight_pct": 0.077
+      },
+      {
+        "stock_symbol": "BICX966",
+        "market_value": 13.82,
+        "weight_pct": 0.068
+      },
+      {
+        "stock_symbol": "ZIZI651",
+        "market_value": 17.55,
+        "weight_pct": 0.018
+      },
+      {
+        "stock_symbol": "BBUQ949",
+        "market_value": 19.53,
+        "weight_pct": 0.039
+      },
+      {
+        "stock_symbol": "UVUT877",
+        "market_value": 1.86,
+        "weight_pct": 0.034
+      },
+      {
+        "stock_symbol": "XEWX426",
+        "market_value": 14.96,
+        "weight_pct": 0.051
+      }
+    ]
+  },
+  {
+    "fund_id": "FUND0026",
+    "fund_name": "Moss, Haas and Duncan基金",
+    "asset_allocation": {
+      "股票": 0.18,
+      "债券": 0.02,
+      "现金": 0.13,
+      "商品": 0.32,
+      "另类投资": 0.3500000000000001
+    },
+    "risk_factor": 0.142,
+    "holdings": [
+      {
+        "stock_symbol": "DYGE599",
+        "market_value": 16.29,
+        "weight_pct": 0.012
+      },
+      {
+        "stock_symbol": "NGXN806",
+        "market_value": 4.75,
+        "weight_pct": 0.017
+      },
+      {
+        "stock_symbol": "UVOZ672",
+        "market_value": 8.85,
+        "weight_pct": 0.094
+      },
+      {
+        "stock_symbol": "ISGW481",
+        "market_value": 18.41,
+        "weight_pct": 0.042
+      },
+      {
+        "stock_symbol": "KTRV754",
+        "market_value": 19.77,
+        "weight_pct": 0.106
+      },
+      {
+        "stock_symbol": "SEZV397",
+        "market_value": 19.49,
+        "weight_pct": 0.124
+      },
+      {
+        "stock_symbol": "ENJM345",
+        "market_value": 4.93,
+        "weight_pct": 0.144
+      },
+      {
+        "stock_symbol": "OSOF184",
+        "market_value": 15.87,
+        "weight_pct": 0.145
+      },
+      {
+        "stock_symbol": "KOUH80",
+        "market_value": 18.7,
+        "weight_pct": 0.11
+      },
+      {
+        "stock_symbol": "QAKC773",
+        "market_value": 19.32,
+        "weight_pct": 0.148
+      }
+    ]
+  },
+  {
+    "fund_id": "FUND0027",
+    "fund_name": "Walker-Vaughan基金",
+    "asset_allocation": {
+      "股票": 0.67,
+      "债券": 0.2,
+      "现金": 0.05,
+      "商品": 0.06,
+      "另类投资": 0.019999999999999796
+    },
+    "risk_factor": 0.319,
+    "holdings": [
+      {
+        "stock_symbol": "DWKX429",
+        "market_value": 9.39,
+        "weight_pct": 0.032
+      },
+      {
+        "stock_symbol": "QBFS937",
+        "market_value": 18.74,
+        "weight_pct": 0.048
+      },
+      {
+        "stock_symbol": "GHKH332",
+        "market_value": 6.57,
+        "weight_pct": 0.112
+      },
+      {
+        "stock_symbol": "DOYI345",
+        "market_value": 6.03,
+        "weight_pct": 0.103
+      },
+      {
+        "stock_symbol": "LHAO578",
+        "market_value": 5.18,
+        "weight_pct": 0.027
+      },
+      {
+        "stock_symbol": "HAQW287",
+        "market_value": 13.6,
+        "weight_pct": 0.13
+      },
+      {
+        "stock_symbol": "LPKB366",
+        "market_value": 7.06,
+        "weight_pct": 0.096
+      },
+      {
+        "stock_symbol": "VXWS650",
+        "market_value": 15.94,
+        "weight_pct": 0.071
+      },
+      {
+        "stock_symbol": "NPMO451",
+        "market_value": 16.32,
+        "weight_pct": 0.126
+      },
+      {
+        "stock_symbol": "KLBR993",
+        "market_value": 15.81,
+        "weight_pct": 0.08
+      },
+      {
+        "stock_symbol": "TNZF992",
+        "market_value": 8.6,
+        "weight_pct": 0.133
+      },
+      {
+        "stock_symbol": "RITS359",
+        "market_value": 4.57,
+        "weight_pct": 0.107
+      },
+      {
+        "stock_symbol": "UWWH417",
+        "market_value": 9.8,
+        "weight_pct": 0.014
+      }
+    ]
+  },
+  {
+    "fund_id": "FUND0028",
+    "fund_name": "Petty Group基金",
+    "asset_allocation": {
+      "股票": 0.48,
+      "债券": 0.21,
+      "现金": 0.21,
+      "商品": 0.02,
+      "另类投资": 0.08000000000000007
+    },
+    "risk_factor": 0.329,
+    "holdings": [
+      {
+        "stock_symbol": "AESN109",
+        "market_value": 4.45,
+        "weight_pct": 0.146
+      },
+      {
+        "stock_symbol": "KYAI711",
+        "market_value": 16.68,
+        "weight_pct": 0.15
+      },
+      {
+        "stock_symbol": "TBKE984",
+        "market_value": 5.27,
+        "weight_pct": 0.105
+      },
+      {
+        "stock_symbol": "ROEU225",
+        "market_value": 19.0,
+        "weight_pct": 0.099
+      },
+      {
+        "stock_symbol": "OBHL126",
+        "market_value": 8.35,
+        "weight_pct": 0.136
+      },
+      {
+        "stock_symbol": "MYGC620",
+        "market_value": 14.15,
+        "weight_pct": 0.123
+      },
+      {
+        "stock_symbol": "EIKU909",
+        "market_value": 1.25,
+        "weight_pct": 0.107
+      },
+      {
+        "stock_symbol": "CDSD531",
+        "market_value": 2.01,
+        "weight_pct": 0.081
+      },
+      {
+        "stock_symbol": "QACZ262",
+        "market_value": 5.35,
+        "weight_pct": 0.042
+      },
+      {
+        "stock_symbol": "ZVCK430",
+        "market_value": 3.76,
+        "weight_pct": 0.137
+      },
+      {
+        "stock_symbol": "BHPY350",
+        "market_value": 2.18,
+        "weight_pct": 0.096
+      },
+      {
+        "stock_symbol": "WPNF311",
+        "market_value": 7.03,
+        "weight_pct": 0.056
+      },
+      {
+        "stock_symbol": "FHRO226",
+        "market_value": 14.02,
+        "weight_pct": 0.078
+      }
+    ]
+  },
+  {
+    "fund_id": "FUND0029",
+    "fund_name": "Neal, Willis and Hansen基金",
+    "asset_allocation": {
+      "股票": 0.06,
+      "债券": 0.15,
+      "现金": 0.3,
+      "商品": 0.1,
+      "另类投资": 0.39
+    },
+    "risk_factor": 0.29,
+    "holdings": [
+      {
+        "stock_symbol": "XHAE21",
+        "market_value": 1.1,
+        "weight_pct": 0.097
+      },
+      {
+        "stock_symbol": "GEGZ795",
+        "market_value": 2.01,
+        "weight_pct": 0.131
+      },
+      {
+        "stock_symbol": "YKGG451",
+        "market_value": 3.23,
+        "weight_pct": 0.049
+      },
+      {
+        "stock_symbol": "PAXF939",
+        "market_value": 15.73,
+        "weight_pct": 0.018
+      },
+      {
+        "stock_symbol": "LAJI636",
+        "market_value": 12.65,
+        "weight_pct": 0.147
+      },
+      {
+        "stock_symbol": "KFWH986",
+        "market_value": 17.4,
+        "weight_pct": 0.041
+      },
+      {
+        "stock_symbol": "RJZD526",
+        "market_value": 18.63,
+        "weight_pct": 0.13
+      },
+      {
+        "stock_symbol": "RSNN73",
+        "market_value": 15.49,
+        "weight_pct": 0.047
+      },
+      {
+        "stock_symbol": "ZXEL610",
+        "market_value": 15.1,
+        "weight_pct": 0.04
+      },
+      {
+        "stock_symbol": "ALQA234",
+        "market_value": 10.91,
+        "weight_pct": 0.013
+      },
+      {
+        "stock_symbol": "RUHW76",
+        "market_value": 14.96,
+        "weight_pct": 0.053
+      },
+      {
+        "stock_symbol": "ZURF120",
+        "market_value": 14.12,
+        "weight_pct": 0.027
+      },
+      {
+        "stock_symbol": "MWJE289",
+        "market_value": 16.79,
+        "weight_pct": 0.12
+      },
+      {
+        "stock_symbol": "VQMC544",
+        "market_value": 5.27,
+        "weight_pct": 0.108
+      },
+      {
+        "stock_symbol": "QUEA600",
+        "market_value": 19.81,
+        "weight_pct": 0.131
+      }
+    ]
+  },
+  {
+    "fund_id": "FUND0030",
+    "fund_name": "Jones-Reid基金",
+    "asset_allocation": {
+      "股票": 0.62,
+      "债券": 0.06,
+      "现金": 0.14,
+      "商品": 0.07,
+      "另类投资": 0.1100000000000001
+    },
+    "risk_factor": 0.417,
+    "holdings": [
+      {
+        "stock_symbol": "ZBBE338",
+        "market_value": 17.25,
+        "weight_pct": 0.108
+      },
+      {
+        "stock_symbol": "MUDS718",
+        "market_value": 8.04,
+        "weight_pct": 0.069
+      },
+      {
+        "stock_symbol": "UHPB827",
+        "market_value": 8.08,
+        "weight_pct": 0.034
+      },
+      {
+        "stock_symbol": "QPGX711",
+        "market_value": 10.5,
+        "weight_pct": 0.144
+      },
+      {
+        "stock_symbol": "ZNEV107",
+        "market_value": 9.24,
+        "weight_pct": 0.103
+      },
+      {
+        "stock_symbol": "HRTM723",
+        "market_value": 5.12,
+        "weight_pct": 0.129
+      },
+      {
+        "stock_symbol": "MWMQ840",
+        "market_value": 15.89,
+        "weight_pct": 0.042
+      },
+      {
+        "stock_symbol": "TWOD719",
+        "market_value": 12.45,
+        "weight_pct": 0.036
+      },
+      {
+        "stock_symbol": "DRKT253",
+        "market_value": 13.25,
+        "weight_pct": 0.049
+      },
+      {
+        "stock_symbol": "QSCP376",
+        "market_value": 13.15,
+        "weight_pct": 0.113
+      },
+      {
+        "stock_symbol": "RGNA183",
+        "market_value": 13.87,
+        "weight_pct": 0.034
+      },
+      {
+        "stock_symbol": "QNEM64",
+        "market_value": 19.5,
+        "weight_pct": 0.018
+      }
+    ]
+  },
+  {
+    "fund_id": "FUND0031",
+    "fund_name": "Frazier, Jennings and Terry基金",
+    "asset_allocation": {
+      "股票": 0.51,
+      "债券": 0.02,
+      "现金": 0.06,
+      "商品": 0.03,
+      "另类投资": 0.3799999999999999
+    },
+    "risk_factor": 0.126,
+    "holdings": [
+      {
+        "stock_symbol": "WBFG686",
+        "market_value": 10.37,
+        "weight_pct": 0.035
+      },
+      {
+        "stock_symbol": "XNOU693",
+        "market_value": 8.13,
+        "weight_pct": 0.148
+      },
+      {
+        "stock_symbol": "UKRV544",
+        "market_value": 6.86,
+        "weight_pct": 0.082
+      },
+      {
+        "stock_symbol": "XBNU820",
+        "market_value": 18.12,
+        "weight_pct": 0.147
+      },
+      {
+        "stock_symbol": "VDDL132",
+        "market_value": 17.6,
+        "weight_pct": 0.101
+      },
+      {
+        "stock_symbol": "JTLC493",
+        "market_value": 13.79,
+        "weight_pct": 0.031
+      },
+      {
+        "stock_symbol": "LIKW204",
+        "market_value": 13.4,
+        "weight_pct": 0.011
+      },
+      {
+        "stock_symbol": "MIQO261",
+        "market_value": 10.44,
+        "weight_pct": 0.047
+      },
+      {
+        "stock_symbol": "MRXE199",
+        "market_value": 17.27,
+        "weight_pct": 0.025
+      },
+      {
+        "stock_symbol": "AJUQ778",
+        "market_value": 14.11,
+        "weight_pct": 0.075
+      }
+    ]
+  },
+  {
+    "fund_id": "FUND0032",
+    "fund_name": "Greene, Cortez and Morgan基金",
+    "asset_allocation": {
+      "股票": 0.05,
+      "债券": 0.42,
+      "现金": 0.27,
+      "商品": 0.24,
+      "另类投资": 0.020000000000000018
+    },
+    "risk_factor": 0.274,
+    "holdings": [
+      {
+        "stock_symbol": "LZCS112",
+        "market_value": 9.9,
+        "weight_pct": 0.103
+      },
+      {
+        "stock_symbol": "LITC816",
+        "market_value": 2.75,
+        "weight_pct": 0.029
+      },
+      {
+        "stock_symbol": "RXMX388",
+        "market_value": 15.53,
+        "weight_pct": 0.015
+      },
+      {
+        "stock_symbol": "RMJP93",
+        "market_value": 14.79,
+        "weight_pct": 0.049
+      },
+      {
+        "stock_symbol": "IMBX699",
+        "market_value": 16.81,
+        "weight_pct": 0.147
+      },
+      {
+        "stock_symbol": "QBSH94",
+        "market_value": 8.46,
+        "weight_pct": 0.141
+      },
+      {
+        "stock_symbol": "JGAA787",
+        "market_value": 6.28,
+        "weight_pct": 0.018
+      },
+      {
+        "stock_symbol": "UOMQ880",
+        "market_value": 15.09,
+        "weight_pct": 0.117
+      },
+      {
+        "stock_symbol": "ANZN637",
+        "market_value": 19.22,
+        "weight_pct": 0.024
+      },
+      {
+        "stock_symbol": "USAS343",
+        "market_value": 11.21,
+        "weight_pct": 0.071
+      },
+      {
+        "stock_symbol": "FDAU285",
+        "market_value": 15.37,
+        "weight_pct": 0.052
+      },
+      {
+        "stock_symbol": "HOPW24",
+        "market_value": 8.38,
+        "weight_pct": 0.043
+      },
+      {
+        "stock_symbol": "TPOQ312",
+        "market_value": 11.96,
+        "weight_pct": 0.073
+      },
+      {
+        "stock_symbol": "UPBM87",
+        "market_value": 1.2,
+        "weight_pct": 0.117
+      }
+    ]
+  },
+  {
+    "fund_id": "FUND0033",
+    "fund_name": "Lane, Mahoney and Charles基金",
+    "asset_allocation": {
+      "股票": 0.42,
+      "债券": 0.13,
+      "现金": 0.11,
+      "商品": 0.09,
+      "另类投资": 0.25
+    },
+    "risk_factor": 0.258,
+    "holdings": [
+      {
+        "stock_symbol": "YKPQ6",
+        "market_value": 9.53,
+        "weight_pct": 0.013
+      },
+      {
+        "stock_symbol": "JZOL564",
+        "market_value": 19.58,
+        "weight_pct": 0.041
+      },
+      {
+        "stock_symbol": "OULD558",
+        "market_value": 11.35,
+        "weight_pct": 0.054
+      },
+      {
+        "stock_symbol": "GMBS247",
+        "market_value": 11.64,
+        "weight_pct": 0.14
+      },
+      {
+        "stock_symbol": "PKNL494",
+        "market_value": 19.45,
+        "weight_pct": 0.083
+      },
+      {
+        "stock_symbol": "MVDM490",
+        "market_value": 13.54,
+        "weight_pct": 0.046
+      },
+      {
+        "stock_symbol": "PCVV874",
+        "market_value": 8.56,
+        "weight_pct": 0.029
+      },
+      {
+        "stock_symbol": "FYFL391",
+        "market_value": 14.52,
+        "weight_pct": 0.146
+      },
+      {
+        "stock_symbol": "NHCY451",
+        "market_value": 9.39,
+        "weight_pct": 0.02
+      },
+      {
+        "stock_symbol": "FUHM817",
+        "market_value": 9.16,
+        "weight_pct": 0.148
+      },
+      {
+        "stock_symbol": "KGKS716",
+        "market_value": 6.85,
+        "weight_pct": 0.011
+      },
+      {
+        "stock_symbol": "FCZX21",
+        "market_value": 17.69,
+        "weight_pct": 0.128
+      },
+      {
+        "stock_symbol": "LVPS416",
+        "market_value": 8.89,
+        "weight_pct": 0.053
+      },
+      {
+        "stock_symbol": "DLLL441",
+        "market_value": 0.93,
+        "weight_pct": 0.052
+      }
+    ]
+  },
+  {
+    "fund_id": "FUND0034",
+    "fund_name": "Sanders-Jones基金",
+    "asset_allocation": {
+      "股票": 0.04,
+      "债券": 0.08,
+      "现金": 0.32,
+      "商品": 0.53,
+      "另类投资": 0.030000000000000027
+    },
+    "risk_factor": 0.4,
+    "holdings": [
+      {
+        "stock_symbol": "JJNE926",
+        "market_value": 14.56,
+        "weight_pct": 0.034
+      },
+      {
+        "stock_symbol": "PHHQ180",
+        "market_value": 13.32,
+        "weight_pct": 0.022
+      },
+      {
+        "stock_symbol": "YGDD743",
+        "market_value": 9.72,
+        "weight_pct": 0.025
+      },
+      {
+        "stock_symbol": "GBDD930",
+        "market_value": 7.4,
+        "weight_pct": 0.045
+      },
+      {
+        "stock_symbol": "GHBI663",
+        "market_value": 4.32,
+        "weight_pct": 0.118
+      },
+      {
+        "stock_symbol": "UZIU34",
+        "market_value": 8.37,
+        "weight_pct": 0.092
+      },
+      {
+        "stock_symbol": "ZUOK895",
+        "market_value": 12.6,
+        "weight_pct": 0.097
+      },
+      {
+        "stock_symbol": "XKVE716",
+        "market_value": 2.45,
+        "weight_pct": 0.079
+      },
+      {
+        "stock_symbol": "YVJM535",
+        "market_value": 5.39,
+        "weight_pct": 0.114
+      },
+      {
+        "stock_symbol": "VDKC394",
+        "market_value": 15.56,
+        "weight_pct": 0.042
+      },
+      {
+        "stock_symbol": "KKUX86",
+        "market_value": 19.98,
+        "weight_pct": 0.128
+      },
+      {
+        "stock_symbol": "EGYQ708",
+        "market_value": 16.69,
+        "weight_pct": 0.144
+      }
+    ]
+  },
+  {
+    "fund_id": "FUND0035",
+    "fund_name": "Rodriguez, Arellano and Sims基金",
+    "asset_allocation": {
+      "股票": 0.4,
+      "债券": 0.13,
+      "现金": 0.06,
+      "商品": 0.07,
+      "另类投资": 0.33999999999999986
+    },
+    "risk_factor": 0.121,
+    "holdings": [
+      {
+        "stock_symbol": "YKOE74",
+        "market_value": 16.63,
+        "weight_pct": 0.137
+      },
+      {
+        "stock_symbol": "QBEX682",
+        "market_value": 2.13,
+        "weight_pct": 0.096
+      },
+      {
+        "stock_symbol": "HKNH288",
+        "market_value": 9.52,
+        "weight_pct": 0.077
+      },
+      {
+        "stock_symbol": "PVDU165",
+        "market_value": 12.63,
+        "weight_pct": 0.095
+      },
+      {
+        "stock_symbol": "YTAJ123",
+        "market_value": 11.78,
+        "weight_pct": 0.126
+      },
+      {
+        "stock_symbol": "PNMV239",
+        "market_value": 19.63,
+        "weight_pct": 0.079
+      },
+      {
+        "stock_symbol": "EOWK768",
+        "market_value": 5.79,
+        "weight_pct": 0.145
+      },
+      {
+        "stock_symbol": "DTSM706",
+        "market_value": 6.55,
+        "weight_pct": 0.101
+      },
+      {
+        "stock_symbol": "YADE786",
+        "market_value": 3.24,
+        "weight_pct": 0.108
+      },
+      {
+        "stock_symbol": "NYPO698",
+        "market_value": 10.61,
+        "weight_pct": 0.073
+      }
+    ]
+  },
+  {
+    "fund_id": "FUND0036",
+    "fund_name": "Norris Group基金",
+    "asset_allocation": {
+      "股票": 0.13,
+      "债券": 0.29,
+      "现金": 0.07,
+      "商品": 0.24,
+      "另类投资": 0.27
+    },
+    "risk_factor": 0.456,
+    "holdings": [
+      {
+        "stock_symbol": "IGHS903",
+        "market_value": 2.97,
+        "weight_pct": 0.06
+      },
+      {
+        "stock_symbol": "RIHC967",
+        "market_value": 11.28,
+        "weight_pct": 0.03
+      },
+      {
+        "stock_symbol": "LRYG56",
+        "market_value": 18.59,
+        "weight_pct": 0.128
+      },
+      {
+        "stock_symbol": "WJYU699",
+        "market_value": 8.88,
+        "weight_pct": 0.083
+      },
+      {
+        "stock_symbol": "UQES469",
+        "market_value": 15.77,
+        "weight_pct": 0.03
+      },
+      {
+        "stock_symbol": "DEOY638",
+        "market_value": 15.15,
+        "weight_pct": 0.086
+      },
+      {
+        "stock_symbol": "JFZG316",
+        "market_value": 13.48,
+        "weight_pct": 0.014
+      },
+      {
+        "stock_symbol": "UJYQ144",
+        "market_value": 12.86,
+        "weight_pct": 0.024
+      },
+      {
+        "stock_symbol": "BJLY548",
+        "market_value": 9.85,
+        "weight_pct": 0.112
+      },
+      {
+        "stock_symbol": "ERQI109",
+        "market_value": 15.03,
+        "weight_pct": 0.037
+      }
+    ]
+  },
+  {
+    "fund_id": "FUND0037",
+    "fund_name": "Ross-Lindsey基金",
+    "asset_allocation": {
+      "股票": 0.11,
+      "债券": 0.11,
+      "现金": 0.14,
+      "商品": 0.25,
+      "另类投资": 0.39
+    },
+    "risk_factor": 0.286,
+    "holdings": [
+      {
+        "stock_symbol": "SDIT45",
+        "market_value": 13.1,
+        "weight_pct": 0.021
+      },
+      {
+        "stock_symbol": "KJSM379",
+        "market_value": 19.49,
+        "weight_pct": 0.03
+      },
+      {
+        "stock_symbol": "PHGZ51",
+        "market_value": 4.87,
+        "weight_pct": 0.049
+      },
+      {
+        "stock_symbol": "IGZL581",
+        "market_value": 4.8,
+        "weight_pct": 0.052
+      },
+      {
+        "stock_symbol": "EEDN674",
+        "market_value": 9.75,
+        "weight_pct": 0.054
+      },
+      {
+        "stock_symbol": "FTQW689",
+        "market_value": 16.67,
+        "weight_pct": 0.032
+      },
+      {
+        "stock_symbol": "SVYN899",
+        "market_value": 17.22,
+        "weight_pct": 0.116
+      },
+      {
+        "stock_symbol": "NAFA62",
+        "market_value": 15.52,
+        "weight_pct": 0.139
+      },
+      {
+        "stock_symbol": "WXRV429",
+        "market_value": 15.08,
+        "weight_pct": 0.034
+      },
+      {
+        "stock_symbol": "WMPU511",
+        "market_value": 10.5,
+        "weight_pct": 0.144
+      },
+      {
+        "stock_symbol": "PZRZ799",
+        "market_value": 8.96,
+        "weight_pct": 0.139
+      },
+      {
+        "stock_symbol": "PEEY626",
+        "market_value": 6.89,
+        "weight_pct": 0.11
+      },
+      {
+        "stock_symbol": "BTGJ867",
+        "market_value": 17.64,
+        "weight_pct": 0.144
+      }
+    ]
+  },
+  {
+    "fund_id": "FUND0038",
+    "fund_name": "Roman-Brown基金",
+    "asset_allocation": {
+      "股票": 0.19,
+      "债券": 0.17,
+      "现金": 0.07,
+      "商品": 0.23,
+      "另类投资": 0.33999999999999997
+    },
+    "risk_factor": 0.484,
+    "holdings": [
+      {
+        "stock_symbol": "VFQT688",
+        "market_value": 9.07,
+        "weight_pct": 0.145
+      },
+      {
+        "stock_symbol": "WCVJ974",
+        "market_value": 15.13,
+        "weight_pct": 0.041
+      },
+      {
+        "stock_symbol": "JOIO85",
+        "market_value": 12.86,
+        "weight_pct": 0.046
+      },
+      {
+        "stock_symbol": "SPKS399",
+        "market_value": 8.76,
+        "weight_pct": 0.011
+      },
+      {
+        "stock_symbol": "LRMF877",
+        "market_value": 17.86,
+        "weight_pct": 0.097
+      },
+      {
+        "stock_symbol": "QGOI24",
+        "market_value": 6.32,
+        "weight_pct": 0.021
+      },
+      {
+        "stock_symbol": "ZLRU469",
+        "market_value": 19.85,
+        "weight_pct": 0.107
+      },
+      {
+        "stock_symbol": "JYDS274",
+        "market_value": 2.16,
+        "weight_pct": 0.058
+      },
+      {
+        "stock_symbol": "YCAS797",
+        "market_value": 15.63,
+        "weight_pct": 0.028
+      },
+      {
+        "stock_symbol": "WIFI334",
+        "market_value": 15.77,
+        "weight_pct": 0.019
+      },
+      {
+        "stock_symbol": "UURQ819",
+        "market_value": 15.77,
+        "weight_pct": 0.1
+      },
+      {
+        "stock_symbol": "BQHE75",
+        "market_value": 13.39,
+        "weight_pct": 0.057
+      },
+      {
+        "stock_symbol": "MSFP654",
+        "market_value": 15.23,
+        "weight_pct": 0.123
+      },
+      {
+        "stock_symbol": "CQJC75",
+        "market_value": 14.82,
+        "weight_pct": 0.117
+      },
+      {
+        "stock_symbol": "WUQL249",
+        "market_value": 1.39,
+        "weight_pct": 0.11
+      }
+    ]
+  },
+  {
+    "fund_id": "FUND0039",
+    "fund_name": "Morgan-Roberts基金",
+    "asset_allocation": {
+      "股票": 0.01,
+      "债券": 0.29,
+      "现金": 0.14,
+      "商品": 0.4,
+      "另类投资": 0.15999999999999992
+    },
+    "risk_factor": 0.455,
+    "holdings": [
+      {
+        "stock_symbol": "BRWK264",
+        "market_value": 15.83,
+        "weight_pct": 0.15
+      },
+      {
+        "stock_symbol": "AIJH314",
+        "market_value": 16.24,
+        "weight_pct": 0.068
+      },
+      {
+        "stock_symbol": "NYDG21",
+        "market_value": 13.71,
+        "weight_pct": 0.064
+      },
+      {
+        "stock_symbol": "MWXR144",
+        "market_value": 11.16,
+        "weight_pct": 0.107
+      },
+      {
+        "stock_symbol": "BSYB815",
+        "market_value": 3.32,
+        "weight_pct": 0.079
+      },
+      {
+        "stock_symbol": "NXWX830",
+        "market_value": 6.82,
+        "weight_pct": 0.084
+      },
+      {
+        "stock_symbol": "LVCB499",
+        "market_value": 2.47,
+        "weight_pct": 0.036
+      },
+      {
+        "stock_symbol": "NBRI543",
+        "market_value": 15.83,
+        "weight_pct": 0.112
+      },
+      {
+        "stock_symbol": "KECB164",
+        "market_value": 8.15,
+        "weight_pct": 0.142
+      },
+      {
+        "stock_symbol": "AYHI875",
+        "market_value": 3.22,
+        "weight_pct": 0.055
+      },
+      {
+        "stock_symbol": "RWZH907",
+        "market_value": 9.99,
+        "weight_pct": 0.064
+      },
+      {
+        "stock_symbol": "TRBD229",
+        "market_value": 7.18,
+        "weight_pct": 0.025
+      },
+      {
+        "stock_symbol": "FXEQ87",
+        "market_value": 18.16,
+        "weight_pct": 0.016
+      },
+      {
+        "stock_symbol": "CBVX981",
+        "market_value": 13.89,
+        "weight_pct": 0.134
+      }
+    ]
+  },
+  {
+    "fund_id": "FUND0040",
+    "fund_name": "Harrington and Sons基金",
+    "asset_allocation": {
+      "股票": 0.24,
+      "债券": 0.1,
+      "现金": 0.29,
+      "商品": 0.06,
+      "另类投资": 0.31000000000000005
+    },
+    "risk_factor": 0.187,
+    "holdings": [
+      {
+        "stock_symbol": "VYDU142",
+        "market_value": 13.35,
+        "weight_pct": 0.1
+      },
+      {
+        "stock_symbol": "SDOG262",
+        "market_value": 15.86,
+        "weight_pct": 0.033
+      },
+      {
+        "stock_symbol": "UOGZ112",
+        "market_value": 11.72,
+        "weight_pct": 0.047
+      },
+      {
+        "stock_symbol": "SIWP269",
+        "market_value": 19.26,
+        "weight_pct": 0.091
+      },
+      {
+        "stock_symbol": "XGCG273",
+        "market_value": 9.44,
+        "weight_pct": 0.109
+      },
+      {
+        "stock_symbol": "ABQD274",
+        "market_value": 18.29,
+        "weight_pct": 0.085
+      },
+      {
+        "stock_symbol": "TLCM972",
+        "market_value": 6.64,
+        "weight_pct": 0.047
+      },
+      {
+        "stock_symbol": "FZLT439",
+        "market_value": 9.35,
+        "weight_pct": 0.062
+      },
+      {
+        "stock_symbol": "DFWW418",
+        "market_value": 11.1,
+        "weight_pct": 0.11
+      },
+      {
+        "stock_symbol": "VNKH947",
+        "market_value": 19.34,
+        "weight_pct": 0.063
+      },
+      {
+        "stock_symbol": "KHUJ537",
+        "market_value": 16.32,
+        "weight_pct": 0.107
+      },
+      {
+        "stock_symbol": "OZRN416",
+        "market_value": 14.89,
+        "weight_pct": 0.061
+      },
+      {
+        "stock_symbol": "DLWW679",
+        "market_value": 5.36,
+        "weight_pct": 0.102
+      }
+    ]
+  },
+  {
+    "fund_id": "FUND0041",
+    "fund_name": "Bray, Elliott and Brewer基金",
+    "asset_allocation": {
+      "股票": 0.31,
+      "债券": 0.23,
+      "现金": 0.11,
+      "商品": 0.34,
+      "另类投资": 0.010000000000000009
+    },
+    "risk_factor": 0.441,
+    "holdings": [
+      {
+        "stock_symbol": "IUVH785",
+        "market_value": 1.4,
+        "weight_pct": 0.018
+      },
+      {
+        "stock_symbol": "HHXJ990",
+        "market_value": 18.32,
+        "weight_pct": 0.042
+      },
+      {
+        "stock_symbol": "JBZY8",
+        "market_value": 18.38,
+        "weight_pct": 0.114
+      },
+      {
+        "stock_symbol": "YWSI825",
+        "market_value": 9.72,
+        "weight_pct": 0.054
+      },
+      {
+        "stock_symbol": "IQPS617",
+        "market_value": 12.68,
+        "weight_pct": 0.075
+      },
+      {
+        "stock_symbol": "NDUA123",
+        "market_value": 10.63,
+        "weight_pct": 0.144
+      },
+      {
+        "stock_symbol": "SIPO705",
+        "market_value": 9.19,
+        "weight_pct": 0.08
+      },
+      {
+        "stock_symbol": "BKGQ113",
+        "market_value": 15.11,
+        "weight_pct": 0.037
+      },
+      {
+        "stock_symbol": "RMYS350",
+        "market_value": 4.1,
+        "weight_pct": 0.054
+      },
+      {
+        "stock_symbol": "PYRP794",
+        "market_value": 6.3,
+        "weight_pct": 0.041
+      },
+      {
+        "stock_symbol": "BVOH802",
+        "market_value": 8.89,
+        "weight_pct": 0.027
+      },
+      {
+        "stock_symbol": "GRHW332",
+        "market_value": 19.36,
+        "weight_pct": 0.062
+      },
+      {
+        "stock_symbol": "BUGG438",
+        "market_value": 3.9,
+        "weight_pct": 0.062
+      }
+    ]
+  },
+  {
+    "fund_id": "FUND0042",
+    "fund_name": "Holmes, Rosales and Rodriguez基金",
+    "asset_allocation": {
+      "股票": 0.11,
+      "债券": 0.04,
+      "现金": 0.58,
+      "商品": 0.02,
+      "另类投资": 0.25
+    },
+    "risk_factor": 0.264,
+    "holdings": [
+      {
+        "stock_symbol": "NVSC943",
+        "market_value": 16.59,
+        "weight_pct": 0.037
+      },
+      {
+        "stock_symbol": "SADZ537",
+        "market_value": 7.63,
+        "weight_pct": 0.052
+      },
+      {
+        "stock_symbol": "QLQJ395",
+        "market_value": 3.98,
+        "weight_pct": 0.107
+      },
+      {
+        "stock_symbol": "AZRO212",
+        "market_value": 15.9,
+        "weight_pct": 0.093
+      },
+      {
+        "stock_symbol": "MEGS287",
+        "market_value": 2.83,
+        "weight_pct": 0.055
+      },
+      {
+        "stock_symbol": "VSLV672",
+        "market_value": 9.48,
+        "weight_pct": 0.045
+      },
+      {
+        "stock_symbol": "TGEM635",
+        "market_value": 13.29,
+        "weight_pct": 0.014
+      },
+      {
+        "stock_symbol": "NBNB365",
+        "market_value": 7.26,
+        "weight_pct": 0.026
+      },
+      {
+        "stock_symbol": "FRKJ620",
+        "market_value": 11.77,
+        "weight_pct": 0.054
+      },
+      {
+        "stock_symbol": "WODU176",
+        "market_value": 15.4,
+        "weight_pct": 0.111
+      },
+      {
+        "stock_symbol": "DTIW588",
+        "market_value": 2.5,
+        "weight_pct": 0.029
+      },
+      {
+        "stock_symbol": "JMQZ169",
+        "market_value": 17.28,
+        "weight_pct": 0.023
+      },
+      {
+        "stock_symbol": "XLZI239",
+        "market_value": 9.11,
+        "weight_pct": 0.076
+      },
+      {
+        "stock_symbol": "RWGF233",
+        "market_value": 3.18,
+        "weight_pct": 0.067
+      },
+      {
+        "stock_symbol": "PDJH86",
+        "market_value": 15.36,
+        "weight_pct": 0.063
+      }
+    ]
+  },
+  {
+    "fund_id": "FUND0043",
+    "fund_name": "Ellison and Sons基金",
+    "asset_allocation": {
+      "股票": 0.26,
+      "债券": 0.25,
+      "现金": 0.24,
+      "商品": 0.02,
+      "另类投资": 0.22999999999999998
+    },
+    "risk_factor": 0.498,
+    "holdings": [
+      {
+        "stock_symbol": "KHGH561",
+        "market_value": 0.81,
+        "weight_pct": 0.088
+      },
+      {
+        "stock_symbol": "HJWP337",
+        "market_value": 19.13,
+        "weight_pct": 0.133
+      },
+      {
+        "stock_symbol": "OUCL64",
+        "market_value": 14.28,
+        "weight_pct": 0.064
+      },
+      {
+        "stock_symbol": "RZSP295",
+        "market_value": 2.4,
+        "weight_pct": 0.032
+      },
+      {
+        "stock_symbol": "GOTF450",
+        "market_value": 12.01,
+        "weight_pct": 0.134
+      },
+      {
+        "stock_symbol": "QOVY621",
+        "market_value": 11.83,
+        "weight_pct": 0.031
+      },
+      {
+        "stock_symbol": "GHDC940",
+        "market_value": 4.1,
+        "weight_pct": 0.1
+      },
+      {
+        "stock_symbol": "FBUJ799",
+        "market_value": 11.97,
+        "weight_pct": 0.059
+      },
+      {
+        "stock_symbol": "TUFH24",
+        "market_value": 12.55,
+        "weight_pct": 0.147
+      },
+      {
+        "stock_symbol": "MWSG818",
+        "market_value": 16.18,
+        "weight_pct": 0.068
+      }
+    ]
+  },
+  {
+    "fund_id": "FUND0044",
+    "fund_name": "Dunlap PLC基金",
+    "asset_allocation": {
+      "股票": 0.34,
+      "债券": 0.1,
+      "现金": 0.08,
+      "商品": 0.06,
+      "另类投资": 0.41999999999999993
+    },
+    "risk_factor": 0.127,
+    "holdings": [
+      {
+        "stock_symbol": "TYRW669",
+        "market_value": 18.93,
+        "weight_pct": 0.125
+      },
+      {
+        "stock_symbol": "UXMG216",
+        "market_value": 0.8,
+        "weight_pct": 0.11
+      },
+      {
+        "stock_symbol": "SSNP325",
+        "market_value": 6.96,
+        "weight_pct": 0.035
+      },
+      {
+        "stock_symbol": "GFQN571",
+        "market_value": 14.45,
+        "weight_pct": 0.019
+      },
+      {
+        "stock_symbol": "BHHJ212",
+        "market_value": 16.74,
+        "weight_pct": 0.126
+      },
+      {
+        "stock_symbol": "DHGA763",
+        "market_value": 11.89,
+        "weight_pct": 0.119
+      },
+      {
+        "stock_symbol": "ZXWA735",
+        "market_value": 7.35,
+        "weight_pct": 0.026
+      },
+      {
+        "stock_symbol": "IFDO642",
+        "market_value": 19.14,
+        "weight_pct": 0.11
+      },
+      {
+        "stock_symbol": "RXJW670",
+        "market_value": 11.62,
+        "weight_pct": 0.018
+      },
+      {
+        "stock_symbol": "JEOG680",
+        "market_value": 2.45,
+        "weight_pct": 0.084
+      },
+      {
+        "stock_symbol": "YQII681",
+        "market_value": 17.57,
+        "weight_pct": 0.029
+      },
+      {
+        "stock_symbol": "DPAL605",
+        "market_value": 16.56,
+        "weight_pct": 0.094
+      },
+      {
+        "stock_symbol": "FUEO570",
+        "market_value": 10.41,
+        "weight_pct": 0.058
+      },
+      {
+        "stock_symbol": "NTEN94",
+        "market_value": 4.61,
+        "weight_pct": 0.09
+      }
+    ]
+  },
+  {
+    "fund_id": "FUND0045",
+    "fund_name": "Fox-Bartlett基金",
+    "asset_allocation": {
+      "股票": 0.03,
+      "债券": 0.16,
+      "现金": 0.02,
+      "商品": 0.53,
+      "另类投资": 0.26
+    },
+    "risk_factor": 0.442,
+    "holdings": [
+      {
+        "stock_symbol": "AYGY87",
+        "market_value": 7.87,
+        "weight_pct": 0.055
+      },
+      {
+        "stock_symbol": "DLPV902",
+        "market_value": 1.86,
+        "weight_pct": 0.111
+      },
+      {
+        "stock_symbol": "JYQC429",
+        "market_value": 12.2,
+        "weight_pct": 0.081
+      },
+      {
+        "stock_symbol": "NOUZ330",
+        "market_value": 7.45,
+        "weight_pct": 0.128
+      },
+      {
+        "stock_symbol": "GMSB542",
+        "market_value": 12.63,
+        "weight_pct": 0.031
+      },
+      {
+        "stock_symbol": "SXMC547",
+        "market_value": 7.47,
+        "weight_pct": 0.106
+      },
+      {
+        "stock_symbol": "ZVQX698",
+        "market_value": 3.03,
+        "weight_pct": 0.127
+      },
+      {
+        "stock_symbol": "DZPK377",
+        "market_value": 8.31,
+        "weight_pct": 0.127
+      },
+      {
+        "stock_symbol": "OKTK184",
+        "market_value": 3.1,
+        "weight_pct": 0.068
+      },
+      {
+        "stock_symbol": "FRGB31",
+        "market_value": 18.01,
+        "weight_pct": 0.149
+      },
+      {
+        "stock_symbol": "LUKS985",
+        "market_value": 16.87,
+        "weight_pct": 0.056
+      },
+      {
+        "stock_symbol": "FGVE1",
+        "market_value": 6.43,
+        "weight_pct": 0.131
+      },
+      {
+        "stock_symbol": "EAKU188",
+        "market_value": 5.25,
+        "weight_pct": 0.014
+      },
+      {
+        "stock_symbol": "WZJK355",
+        "market_value": 12.02,
+        "weight_pct": 0.044
+      },
+      {
+        "stock_symbol": "WLFJ362",
+        "market_value": 4.63,
+        "weight_pct": 0.098
+      }
+    ]
+  },
+  {
+    "fund_id": "FUND0046",
+    "fund_name": "Bowers, Morales and Hamilton基金",
+    "asset_allocation": {
+      "股票": 0.17,
+      "债券": 0.11,
+      "现金": 0.08,
+      "商品": 0.14,
+      "另类投资": 0.5
+    },
+    "risk_factor": 0.111,
+    "holdings": [
+      {
+        "stock_symbol": "EBYS189",
+        "market_value": 6.01,
+        "weight_pct": 0.083
+      },
+      {
+        "stock_symbol": "PBBZ328",
+        "market_value": 2.64,
+        "weight_pct": 0.042
+      },
+      {
+        "stock_symbol": "BSCS528",
+        "market_value": 12.42,
+        "weight_pct": 0.133
+      },
+      {
+        "stock_symbol": "XZTP382",
+        "market_value": 4.68,
+        "weight_pct": 0.076
+      },
+      {
+        "stock_symbol": "XADX575",
+        "market_value": 9.65,
+        "weight_pct": 0.056
+      },
+      {
+        "stock_symbol": "TDBO897",
+        "market_value": 9.44,
+        "weight_pct": 0.013
+      },
+      {
+        "stock_symbol": "YKRS37",
+        "market_value": 5.34,
+        "weight_pct": 0.149
+      },
+      {
+        "stock_symbol": "KFLB290",
+        "market_value": 16.55,
+        "weight_pct": 0.071
+      },
+      {
+        "stock_symbol": "BUWA183",
+        "market_value": 5.23,
+        "weight_pct": 0.015
+      },
+      {
+        "stock_symbol": "EPNF793",
+        "market_value": 2.37,
+        "weight_pct": 0.09
+      },
+      {
+        "stock_symbol": "IUNF895",
+        "market_value": 12.18,
+        "weight_pct": 0.055
+      },
+      {
+        "stock_symbol": "UMTV600",
+        "market_value": 14.78,
+        "weight_pct": 0.08
+      }
+    ]
+  },
+  {
+    "fund_id": "FUND0047",
+    "fund_name": "Reynolds and Sons基金",
+    "asset_allocation": {
+      "股票": 0.09,
+      "债券": 0.27,
+      "现金": 0.14,
+      "商品": 0.47,
+      "另类投资": 0.030000000000000027
+    },
+    "risk_factor": 0.488,
+    "holdings": [
+      {
+        "stock_symbol": "BIHF703",
+        "market_value": 14.38,
+        "weight_pct": 0.025
+      },
+      {
+        "stock_symbol": "CXGY951",
+        "market_value": 13.98,
+        "weight_pct": 0.044
+      },
+      {
+        "stock_symbol": "HXBA701",
+        "market_value": 10.59,
+        "weight_pct": 0.054
+      },
+      {
+        "stock_symbol": "KABF867",
+        "market_value": 4.93,
+        "weight_pct": 0.026
+      },
+      {
+        "stock_symbol": "WSMO551",
+        "market_value": 3.42,
+        "weight_pct": 0.114
+      },
+      {
+        "stock_symbol": "DWAF238",
+        "market_value": 6.53,
+        "weight_pct": 0.04
+      },
+      {
+        "stock_symbol": "GHIH757",
+        "market_value": 16.18,
+        "weight_pct": 0.061
+      },
+      {
+        "stock_symbol": "TDZJ958",
+        "market_value": 6.1,
+        "weight_pct": 0.111
+      },
+      {
+        "stock_symbol": "DBKW356",
+        "market_value": 15.07,
+        "weight_pct": 0.126
+      },
+      {
+        "stock_symbol": "RWIH564",
+        "market_value": 14.07,
+        "weight_pct": 0.117
+      },
+      {
+        "stock_symbol": "SJSY312",
+        "market_value": 9.47,
+        "weight_pct": 0.132
+      },
+      {
+        "stock_symbol": "IWGM383",
+        "market_value": 1.74,
+        "weight_pct": 0.065
+      },
+      {
+        "stock_symbol": "VQOG225",
+        "market_value": 0.61,
+        "weight_pct": 0.066
+      },
+      {
+        "stock_symbol": "FEVC18",
+        "market_value": 8.35,
+        "weight_pct": 0.081
+      }
+    ]
+  },
+  {
+    "fund_id": "FUND0048",
+    "fund_name": "Mays Group基金",
+    "asset_allocation": {
+      "股票": 0.17,
+      "债券": 0.25,
+      "现金": 0.21,
+      "商品": 0.27,
+      "另类投资": 0.09999999999999998
+    },
+    "risk_factor": 0.129,
+    "holdings": [
+      {
+        "stock_symbol": "LCVK740",
+        "market_value": 0.81,
+        "weight_pct": 0.02
+      },
+      {
+        "stock_symbol": "ZMFI990",
+        "market_value": 4.62,
+        "weight_pct": 0.061
+      },
+      {
+        "stock_symbol": "RSNU438",
+        "market_value": 10.23,
+        "weight_pct": 0.079
+      },
+      {
+        "stock_symbol": "VBVU675",
+        "market_value": 9.48,
+        "weight_pct": 0.112
+      },
+      {
+        "stock_symbol": "LZJF959",
+        "market_value": 5.7,
+        "weight_pct": 0.142
+      },
+      {
+        "stock_symbol": "ECTG26",
+        "market_value": 11.61,
+        "weight_pct": 0.106
+      },
+      {
+        "stock_symbol": "TWSQ972",
+        "market_value": 14.1,
+        "weight_pct": 0.04
+      },
+      {
+        "stock_symbol": "BHJV907",
+        "market_value": 11.75,
+        "weight_pct": 0.138
+      },
+      {
+        "stock_symbol": "NSLD870",
+        "market_value": 13.8,
+        "weight_pct": 0.069
+      },
+      {
+        "stock_symbol": "TNMH869",
+        "market_value": 18.5,
+        "weight_pct": 0.063
+      },
+      {
+        "stock_symbol": "SJGM144",
+        "market_value": 9.68,
+        "weight_pct": 0.025
+      }
+    ]
+  },
+  {
+    "fund_id": "FUND0049",
+    "fund_name": "Hicks, Blevins and Lynch基金",
+    "asset_allocation": {
+      "股票": 0.19,
+      "债券": 0.02,
+      "现金": 0.26,
+      "商品": 0.1,
+      "另类投资": 0.43000000000000005
+    },
+    "risk_factor": 0.348,
+    "holdings": [
+      {
+        "stock_symbol": "FYZV368",
+        "market_value": 16.82,
+        "weight_pct": 0.081
+      },
+      {
+        "stock_symbol": "EWME677",
+        "market_value": 16.84,
+        "weight_pct": 0.139
+      },
+      {
+        "stock_symbol": "ZLBZ211",
+        "market_value": 19.67,
+        "weight_pct": 0.058
+      },
+      {
+        "stock_symbol": "IUHH769",
+        "market_value": 7.96,
+        "weight_pct": 0.141
+      },
+      {
+        "stock_symbol": "EAEM953",
+        "market_value": 1.88,
+        "weight_pct": 0.045
+      },
+      {
+        "stock_symbol": "VDEA843",
+        "market_value": 7.81,
+        "weight_pct": 0.051
+      },
+      {
+        "stock_symbol": "PYQJ223",
+        "market_value": 17.26,
+        "weight_pct": 0.078
+      },
+      {
+        "stock_symbol": "VHXS281",
+        "market_value": 13.4,
+        "weight_pct": 0.141
+      },
+      {
+        "stock_symbol": "YCKO790",
+        "market_value": 8.8,
+        "weight_pct": 0.083
+      },
+      {
+        "stock_symbol": "JTMV676",
+        "market_value": 10.79,
+        "weight_pct": 0.13
+      },
+      {
+        "stock_symbol": "YXDG363",
+        "market_value": 9.6,
+        "weight_pct": 0.053
+      },
+      {
+        "stock_symbol": "HXGR836",
+        "market_value": 2.98,
+        "weight_pct": 0.083
+      },
+      {
+        "stock_symbol": "MQCV203",
+        "market_value": 13.26,
+        "weight_pct": 0.023
+      },
+      {
+        "stock_symbol": "QAET656",
+        "market_value": 16.01,
+        "weight_pct": 0.075
+      },
+      {
+        "stock_symbol": "OKPS313",
+        "market_value": 4.74,
+        "weight_pct": 0.081
+      }
+    ]
+  },
+  {
+    "fund_id": "FUND0050",
+    "fund_name": "Cabrera Group基金",
+    "asset_allocation": {
+      "股票": 0.2,
+      "债券": 0.07,
+      "现金": 0.09,
+      "商品": 0.55,
+      "另类投资": 0.08999999999999997
+    },
+    "risk_factor": 0.293,
+    "holdings": [
+      {
+        "stock_symbol": "QBSB39",
+        "market_value": 14.16,
+        "weight_pct": 0.049
+      },
+      {
+        "stock_symbol": "UVXE189",
+        "market_value": 8.88,
+        "weight_pct": 0.103
+      },
+      {
+        "stock_symbol": "EUUH258",
+        "market_value": 5.32,
+        "weight_pct": 0.086
+      },
+      {
+        "stock_symbol": "FZBJ891",
+        "market_value": 19.96,
+        "weight_pct": 0.011
+      },
+      {
+        "stock_symbol": "IUCR810",
+        "market_value": 7.34,
+        "weight_pct": 0.011
+      },
+      {
+        "stock_symbol": "PODW273",
+        "market_value": 14.96,
+        "weight_pct": 0.061
+      },
+      {
+        "stock_symbol": "MKJY5",
+        "market_value": 14.5,
+        "weight_pct": 0.019
+      },
+      {
+        "stock_symbol": "CNFI956",
+        "market_value": 18.33,
+        "weight_pct": 0.024
+      },
+      {
+        "stock_symbol": "SITV909",
+        "market_value": 18.67,
+        "weight_pct": 0.018
+      },
+      {
+        "stock_symbol": "WPDA953",
+        "market_value": 3.23,
+        "weight_pct": 0.126
+      },
+      {
+        "stock_symbol": "JYPH653",
+        "market_value": 5.95,
+        "weight_pct": 0.087
+      },
+      {
+        "stock_symbol": "FJRQ28",
+        "market_value": 9.42,
+        "weight_pct": 0.078
+      },
+      {
+        "stock_symbol": "ETJH781",
+        "market_value": 8.4,
+        "weight_pct": 0.047
+      },
+      {
+        "stock_symbol": "IDZO336",
+        "market_value": 6.3,
+        "weight_pct": 0.093
+      }
+    ]
+  },
+  {
+    "fund_id": "FUND0051",
+    "fund_name": "Oconnor-Larson基金",
+    "asset_allocation": {
+      "股票": 0.06,
+      "债券": 0.21,
+      "现金": 0.1,
+      "商品": 0.38,
+      "另类投资": 0.25
+    },
+    "risk_factor": 0.294,
+    "holdings": [
+      {
+        "stock_symbol": "HHLH290",
+        "market_value": 3.87,
+        "weight_pct": 0.117
+      },
+      {
+        "stock_symbol": "SMUD885",
+        "market_value": 14.16,
+        "weight_pct": 0.125
+      },
+      {
+        "stock_symbol": "LAMN382",
+        "market_value": 1.6,
+        "weight_pct": 0.076
+      },
+      {
+        "stock_symbol": "PUEP146",
+        "market_value": 8.54,
+        "weight_pct": 0.103
+      },
+      {
+        "stock_symbol": "CMZR344",
+        "market_value": 9.25,
+        "weight_pct": 0.133
+      },
+      {
+        "stock_symbol": "IIHE643",
+        "market_value": 15.97,
+        "weight_pct": 0.026
+      },
+      {
+        "stock_symbol": "VQTF320",
+        "market_value": 4.32,
+        "weight_pct": 0.086
+      },
+      {
+        "stock_symbol": "FYQP924",
+        "market_value": 17.38,
+        "weight_pct": 0.124
+      },
+      {
+        "stock_symbol": "NPCU179",
+        "market_value": 7.44,
+        "weight_pct": 0.105
+      },
+      {
+        "stock_symbol": "ZUVR810",
+        "market_value": 16.81,
+        "weight_pct": 0.104
+      },
+      {
+        "stock_symbol": "NZIR511",
+        "market_value": 5.53,
+        "weight_pct": 0.027
+      },
+      {
+        "stock_symbol": "RLTP850",
+        "market_value": 14.46,
+        "weight_pct": 0.042
+      },
+      {
+        "stock_symbol": "VULO210",
+        "market_value": 16.7,
+        "weight_pct": 0.01
+      },
+      {
+        "stock_symbol": "CYSM38",
+        "market_value": 6.83,
+        "weight_pct": 0.064
+      },
+      {
+        "stock_symbol": "LNUL822",
+        "market_value": 14.91,
+        "weight_pct": 0.133
+      }
+    ]
+  },
+  {
+    "fund_id": "FUND0052",
+    "fund_name": "Lam, Snow and Hall基金",
+    "asset_allocation": {
+      "股票": 0.02,
+      "债券": 0.57,
+      "现金": 0.27,
+      "商品": 0.01,
+      "另类投资": 0.13
+    },
+    "risk_factor": 0.27,
+    "holdings": [
+      {
+        "stock_symbol": "IMHX435",
+        "market_value": 17.89,
+        "weight_pct": 0.039
+      },
+      {
+        "stock_symbol": "TDKX437",
+        "market_value": 14.39,
+        "weight_pct": 0.029
+      },
+      {
+        "stock_symbol": "ZYXF507",
+        "market_value": 5.58,
+        "weight_pct": 0.059
+      },
+      {
+        "stock_symbol": "MOWU157",
+        "market_value": 17.32,
+        "weight_pct": 0.137
+      },
+      {
+        "stock_symbol": "BBGN192",
+        "market_value": 2.06,
+        "weight_pct": 0.077
+      },
+      {
+        "stock_symbol": "VXHZ307",
+        "market_value": 18.77,
+        "weight_pct": 0.024
+      },
+      {
+        "stock_symbol": "QPDS230",
+        "market_value": 5.27,
+        "weight_pct": 0.027
+      },
+      {
+        "stock_symbol": "HNYJ825",
+        "market_value": 19.98,
+        "weight_pct": 0.099
+      },
+      {
+        "stock_symbol": "VESN520",
+        "market_value": 14.36,
+        "weight_pct": 0.142
+      },
+      {
+        "stock_symbol": "TTYH997",
+        "market_value": 18.74,
+        "weight_pct": 0.064
+      },
+      {
+        "stock_symbol": "YDJB439",
+        "market_value": 3.82,
+        "weight_pct": 0.107
+      },
+      {
+        "stock_symbol": "KOSH187",
+        "market_value": 4.29,
+        "weight_pct": 0.083
+      },
+      {
+        "stock_symbol": "GWES605",
+        "market_value": 16.99,
+        "weight_pct": 0.103
+      },
+      {
+        "stock_symbol": "OGPT941",
+        "market_value": 9.53,
+        "weight_pct": 0.028
+      },
+      {
+        "stock_symbol": "INBA989",
+        "market_value": 6.24,
+        "weight_pct": 0.06
+      }
+    ]
+  },
+  {
+    "fund_id": "FUND0053",
+    "fund_name": "Buchanan-Moore基金",
+    "asset_allocation": {
+      "股票": 0.03,
+      "债券": 0.0,
+      "现金": 0.17,
+      "商品": 0.34,
+      "另类投资": 0.45999999999999996
+    },
+    "risk_factor": 0.438,
+    "holdings": [
+      {
+        "stock_symbol": "LKJK136",
+        "market_value": 18.74,
+        "weight_pct": 0.058
+      },
+      {
+        "stock_symbol": "MMDS950",
+        "market_value": 15.93,
+        "weight_pct": 0.108
+      },
+      {
+        "stock_symbol": "FJIC5",
+        "market_value": 4.67,
+        "weight_pct": 0.117
+      },
+      {
+        "stock_symbol": "IBBC124",
+        "market_value": 15.52,
+        "weight_pct": 0.051
+      },
+      {
+        "stock_symbol": "MJRB560",
+        "market_value": 11.38,
+        "weight_pct": 0.035
+      },
+      {
+        "stock_symbol": "SGGB474",
+        "market_value": 7.89,
+        "weight_pct": 0.046
+      },
+      {
+        "stock_symbol": "XRJF626",
+        "market_value": 3.5,
+        "weight_pct": 0.024
+      },
+      {
+        "stock_symbol": "NQNX464",
+        "market_value": 4.01,
+        "weight_pct": 0.149
+      },
+      {
+        "stock_symbol": "AUBV300",
+        "market_value": 8.27,
+        "weight_pct": 0.055
+      },
+      {
+        "stock_symbol": "RZPZ867",
+        "market_value": 19.12,
+        "weight_pct": 0.115
+      },
+      {
+        "stock_symbol": "XAVH952",
+        "market_value": 11.42,
+        "weight_pct": 0.01
+      },
+      {
+        "stock_symbol": "GTED892",
+        "market_value": 14.46,
+        "weight_pct": 0.068
+      },
+      {
+        "stock_symbol": "EJHV751",
+        "market_value": 11.67,
+        "weight_pct": 0.099
+      },
+      {
+        "stock_symbol": "GBBP536",
+        "market_value": 0.96,
+        "weight_pct": 0.036
+      },
+      {
+        "stock_symbol": "ZBHT205",
+        "market_value": 7.92,
+        "weight_pct": 0.044
+      }
+    ]
+  },
+  {
+    "fund_id": "FUND0054",
+    "fund_name": "Espinoza, Perry and Castillo基金",
+    "asset_allocation": {
+      "股票": 0.0,
+      "债券": 0.03,
+      "现金": 0.57,
+      "商品": 0.32,
+      "另类投资": 0.08000000000000007
+    },
+    "risk_factor": 0.466,
+    "holdings": [
+      {
+        "stock_symbol": "YEDM89",
+        "market_value": 10.44,
+        "weight_pct": 0.071
+      },
+      {
+        "stock_symbol": "KXEY886",
+        "market_value": 5.19,
+        "weight_pct": 0.056
+      },
+      {
+        "stock_symbol": "TGYG929",
+        "market_value": 8.67,
+        "weight_pct": 0.073
+      },
+      {
+        "stock_symbol": "EOWP262",
+        "market_value": 8.69,
+        "weight_pct": 0.15
+      },
+      {
+        "stock_symbol": "WGNA598",
+        "market_value": 1.17,
+        "weight_pct": 0.094
+      },
+      {
+        "stock_symbol": "NPVX412",
+        "market_value": 11.51,
+        "weight_pct": 0.071
+      },
+      {
+        "stock_symbol": "MHAG217",
+        "market_value": 1.42,
+        "weight_pct": 0.078
+      },
+      {
+        "stock_symbol": "TUKB114",
+        "market_value": 5.63,
+        "weight_pct": 0.142
+      },
+      {
+        "stock_symbol": "ZYGQ320",
+        "market_value": 9.37,
+        "weight_pct": 0.072
+      },
+      {
+        "stock_symbol": "TLFL763",
+        "market_value": 12.71,
+        "weight_pct": 0.139
+      },
+      {
+        "stock_symbol": "GFIV877",
+        "market_value": 12.61,
+        "weight_pct": 0.082
+      },
+      {
+        "stock_symbol": "AVIF384",
+        "market_value": 2.09,
+        "weight_pct": 0.149
+      },
+      {
+        "stock_symbol": "MRKU261",
+        "market_value": 3.18,
+        "weight_pct": 0.044
+      },
+      {
+        "stock_symbol": "RAUZ715",
+        "market_value": 12.03,
+        "weight_pct": 0.025
+      }
+    ]
+  },
+  {
+    "fund_id": "FUND0055",
+    "fund_name": "Ward, Richardson and Cruz基金",
+    "asset_allocation": {
+      "股票": 0.18,
+      "债券": 0.07,
+      "现金": 0.47,
+      "商品": 0.27,
+      "另类投资": 0.010000000000000009
+    },
+    "risk_factor": 0.393,
+    "holdings": [
+      {
+        "stock_symbol": "UZEV654",
+        "market_value": 11.69,
+        "weight_pct": 0.029
+      },
+      {
+        "stock_symbol": "ECVH605",
+        "market_value": 1.23,
+        "weight_pct": 0.102
+      },
+      {
+        "stock_symbol": "FDML366",
+        "market_value": 4.71,
+        "weight_pct": 0.115
+      },
+      {
+        "stock_symbol": "TEZH206",
+        "market_value": 16.56,
+        "weight_pct": 0.047
+      },
+      {
+        "stock_symbol": "UWLY837",
+        "market_value": 0.72,
+        "weight_pct": 0.032
+      },
+      {
+        "stock_symbol": "WNOX936",
+        "market_value": 3.83,
+        "weight_pct": 0.024
+      },
+      {
+        "stock_symbol": "OCKD786",
+        "market_value": 19.79,
+        "weight_pct": 0.015
+      },
+      {
+        "stock_symbol": "TZIW603",
+        "market_value": 13.91,
+        "weight_pct": 0.124
+      },
+      {
+        "stock_symbol": "QFLC868",
+        "market_value": 2.17,
+        "weight_pct": 0.096
+      },
+      {
+        "stock_symbol": "AKGT56",
+        "market_value": 15.73,
+        "weight_pct": 0.144
+      },
+      {
+        "stock_symbol": "SXOM945",
+        "market_value": 10.0,
+        "weight_pct": 0.066
+      },
+      {
+        "stock_symbol": "DWXV554",
+        "market_value": 13.59,
+        "weight_pct": 0.086
+      },
+      {
+        "stock_symbol": "LVND539",
+        "market_value": 6.54,
+        "weight_pct": 0.109
+      }
+    ]
+  },
+  {
+    "fund_id": "FUND0056",
+    "fund_name": "Camacho-Allen基金",
+    "asset_allocation": {
+      "股票": 0.28,
+      "债券": 0.34,
+      "现金": 0.09,
+      "商品": 0.13,
+      "另类投资": 0.15999999999999992
+    },
+    "risk_factor": 0.44,
+    "holdings": [
+      {
+        "stock_symbol": "EPII292",
+        "market_value": 15.22,
+        "weight_pct": 0.143
+      },
+      {
+        "stock_symbol": "FORI585",
+        "market_value": 5.83,
+        "weight_pct": 0.148
+      },
+      {
+        "stock_symbol": "LVCK997",
+        "market_value": 10.06,
+        "weight_pct": 0.113
+      },
+      {
+        "stock_symbol": "ALUM624",
+        "market_value": 16.76,
+        "weight_pct": 0.055
+      },
+      {
+        "stock_symbol": "UBWE381",
+        "market_value": 19.05,
+        "weight_pct": 0.053
+      },
+      {
+        "stock_symbol": "OTZJ892",
+        "market_value": 10.28,
+        "weight_pct": 0.129
+      },
+      {
+        "stock_symbol": "TKDN427",
+        "market_value": 1.23,
+        "weight_pct": 0.076
+      },
+      {
+        "stock_symbol": "IJDG843",
+        "market_value": 18.05,
+        "weight_pct": 0.083
+      },
+      {
+        "stock_symbol": "BVLR561",
+        "market_value": 8.61,
+        "weight_pct": 0.135
+      },
+      {
+        "stock_symbol": "BQOK554",
+        "market_value": 5.62,
+        "weight_pct": 0.016
+      },
+      {
+        "stock_symbol": "CNQO803",
+        "market_value": 2.34,
+        "weight_pct": 0.143
+      }
+    ]
+  },
+  {
+    "fund_id": "FUND0057",
+    "fund_name": "Mcintosh-Stanley基金",
+    "asset_allocation": {
+      "股票": 0.16,
+      "债券": 0.04,
+      "现金": 0.4,
+      "商品": 0.15,
+      "另类投资": 0.2499999999999999
+    },
+    "risk_factor": 0.111,
+    "holdings": [
+      {
+        "stock_symbol": "MBRT638",
+        "market_value": 3.59,
+        "weight_pct": 0.077
+      },
+      {
+        "stock_symbol": "FHGW214",
+        "market_value": 16.97,
+        "weight_pct": 0.022
+      },
+      {
+        "stock_symbol": "EUXX583",
+        "market_value": 17.59,
+        "weight_pct": 0.044
+      },
+      {
+        "stock_symbol": "BQRK20",
+        "market_value": 13.57,
+        "weight_pct": 0.089
+      },
+      {
+        "stock_symbol": "SITP522",
+        "market_value": 4.55,
+        "weight_pct": 0.045
+      },
+      {
+        "stock_symbol": "UOAB581",
+        "market_value": 7.35,
+        "weight_pct": 0.073
+      },
+      {
+        "stock_symbol": "DLUZ652",
+        "market_value": 14.95,
+        "weight_pct": 0.116
+      },
+      {
+        "stock_symbol": "LTXT770",
+        "market_value": 4.81,
+        "weight_pct": 0.044
+      },
+      {
+        "stock_symbol": "SOBZ794",
+        "market_value": 1.87,
+        "weight_pct": 0.149
+      },
+      {
+        "stock_symbol": "JWIK159",
+        "market_value": 19.34,
+        "weight_pct": 0.048
+      },
+      {
+        "stock_symbol": "EEUF846",
+        "market_value": 12.52,
+        "weight_pct": 0.076
+      },
+      {
+        "stock_symbol": "RGJD204",
+        "market_value": 13.17,
+        "weight_pct": 0.049
+      },
+      {
+        "stock_symbol": "TELL920",
+        "market_value": 4.78,
+        "weight_pct": 0.026
+      }
+    ]
+  },
+  {
+    "fund_id": "FUND0058",
+    "fund_name": "Frederick-Williams基金",
+    "asset_allocation": {
+      "股票": 0.22,
+      "债券": 0.37,
+      "现金": 0.13,
+      "商品": 0.02,
+      "另类投资": 0.26
+    },
+    "risk_factor": 0.312,
+    "holdings": [
+      {
+        "stock_symbol": "REQS16",
+        "market_value": 8.62,
+        "weight_pct": 0.128
+      },
+      {
+        "stock_symbol": "RNFL751",
+        "market_value": 6.16,
+        "weight_pct": 0.147
+      },
+      {
+        "stock_symbol": "XLWW809",
+        "market_value": 18.79,
+        "weight_pct": 0.071
+      },
+      {
+        "stock_symbol": "CXZH360",
+        "market_value": 16.61,
+        "weight_pct": 0.094
+      },
+      {
+        "stock_symbol": "EHJK385",
+        "market_value": 18.59,
+        "weight_pct": 0.097
+      },
+      {
+        "stock_symbol": "RKLL108",
+        "market_value": 17.28,
+        "weight_pct": 0.106
+      },
+      {
+        "stock_symbol": "HFBY718",
+        "market_value": 18.08,
+        "weight_pct": 0.086
+      },
+      {
+        "stock_symbol": "ZGAT191",
+        "market_value": 15.27,
+        "weight_pct": 0.133
+      },
+      {
+        "stock_symbol": "WQSZ885",
+        "market_value": 13.12,
+        "weight_pct": 0.06
+      },
+      {
+        "stock_symbol": "JLKZ829",
+        "market_value": 4.35,
+        "weight_pct": 0.016
+      },
+      {
+        "stock_symbol": "CAUL20",
+        "market_value": 11.56,
+        "weight_pct": 0.118
+      },
+      {
+        "stock_symbol": "FEOY467",
+        "market_value": 2.91,
+        "weight_pct": 0.095
+      }
+    ]
+  },
+  {
+    "fund_id": "FUND0059",
+    "fund_name": "Martin Inc基金",
+    "asset_allocation": {
+      "股票": 0.17,
+      "债券": 0.15,
+      "现金": 0.26,
+      "商品": 0.03,
+      "另类投资": 0.3899999999999999
+    },
+    "risk_factor": 0.236,
+    "holdings": [
+      {
+        "stock_symbol": "XBNX849",
+        "market_value": 10.31,
+        "weight_pct": 0.028
+      },
+      {
+        "stock_symbol": "RCXY979",
+        "market_value": 5.69,
+        "weight_pct": 0.019
+      },
+      {
+        "stock_symbol": "KTGX218",
+        "market_value": 4.02,
+        "weight_pct": 0.047
+      },
+      {
+        "stock_symbol": "LOWK592",
+        "market_value": 18.0,
+        "weight_pct": 0.012
+      },
+      {
+        "stock_symbol": "PXJT686",
+        "market_value": 17.37,
+        "weight_pct": 0.063
+      },
+      {
+        "stock_symbol": "YEXZ936",
+        "market_value": 16.77,
+        "weight_pct": 0.018
+      },
+      {
+        "stock_symbol": "RBNJ838",
+        "market_value": 1.48,
+        "weight_pct": 0.012
+      },
+      {
+        "stock_symbol": "XCVB982",
+        "market_value": 12.41,
+        "weight_pct": 0.012
+      },
+      {
+        "stock_symbol": "FEYB174",
+        "market_value": 17.39,
+        "weight_pct": 0.024
+      },
+      {
+        "stock_symbol": "XZVE345",
+        "market_value": 3.7,
+        "weight_pct": 0.07
+      },
+      {
+        "stock_symbol": "IQTO815",
+        "market_value": 8.02,
+        "weight_pct": 0.074
+      },
+      {
+        "stock_symbol": "FOYP367",
+        "market_value": 7.54,
+        "weight_pct": 0.062
+      },
+      {
+        "stock_symbol": "BHYH387",
+        "market_value": 18.19,
+        "weight_pct": 0.034
+      },
+      {
+        "stock_symbol": "TOLM84",
+        "market_value": 14.05,
+        "weight_pct": 0.039
+      }
+    ]
+  },
+  {
+    "fund_id": "FUND0060",
+    "fund_name": "Nguyen-Williams基金",
+    "asset_allocation": {
+      "股票": 0.04,
+      "债券": 0.17,
+      "现金": 0.6,
+      "商品": 0.05,
+      "另类投资": 0.1399999999999999
+    },
+    "risk_factor": 0.465,
+    "holdings": [
+      {
+        "stock_symbol": "HTSV667",
+        "market_value": 17.86,
+        "weight_pct": 0.09
+      },
+      {
+        "stock_symbol": "BNIN33",
+        "market_value": 17.54,
+        "weight_pct": 0.104
+      },
+      {
+        "stock_symbol": "KYCA653",
+        "market_value": 6.02,
+        "weight_pct": 0.037
+      },
+      {
+        "stock_symbol": "SRVH867",
+        "market_value": 16.11,
+        "weight_pct": 0.017
+      },
+      {
+        "stock_symbol": "LXNI734",
+        "market_value": 9.17,
+        "weight_pct": 0.129
+      },
+      {
+        "stock_symbol": "UNPK288",
+        "market_value": 13.19,
+        "weight_pct": 0.074
+      },
+      {
+        "stock_symbol": "MEQR105",
+        "market_value": 3.26,
+        "weight_pct": 0.138
+      },
+      {
+        "stock_symbol": "PISO857",
+        "market_value": 17.81,
+        "weight_pct": 0.077
+      },
+      {
+        "stock_symbol": "NVQQ387",
+        "market_value": 8.68,
+        "weight_pct": 0.073
+      },
+      {
+        "stock_symbol": "QWQY289",
+        "market_value": 19.88,
+        "weight_pct": 0.042
+      },
+      {
+        "stock_symbol": "VZAI363",
+        "market_value": 15.18,
+        "weight_pct": 0.076
+      },
+      {
+        "stock_symbol": "XREH982",
+        "market_value": 14.89,
+        "weight_pct": 0.135
+      }
+    ]
+  },
+  {
+    "fund_id": "FUND0061",
+    "fund_name": "Francis and Sons基金",
+    "asset_allocation": {
+      "股票": 0.48,
+      "债券": 0.03,
+      "现金": 0.3,
+      "商品": 0.14,
+      "另类投资": 0.04999999999999993
+    },
+    "risk_factor": 0.341,
+    "holdings": [
+      {
+        "stock_symbol": "ZASU74",
+        "market_value": 7.55,
+        "weight_pct": 0.147
+      },
+      {
+        "stock_symbol": "QGBF401",
+        "market_value": 5.4,
+        "weight_pct": 0.023
+      },
+      {
+        "stock_symbol": "GXFL574",
+        "market_value": 9.34,
+        "weight_pct": 0.105
+      },
+      {
+        "stock_symbol": "YKOH42",
+        "market_value": 10.87,
+        "weight_pct": 0.046
+      },
+      {
+        "stock_symbol": "IMLX958",
+        "market_value": 12.25,
+        "weight_pct": 0.065
+      },
+      {
+        "stock_symbol": "BHPK398",
+        "market_value": 18.85,
+        "weight_pct": 0.09
+      },
+      {
+        "stock_symbol": "ZCLY525",
+        "market_value": 11.59,
+        "weight_pct": 0.023
+      },
+      {
+        "stock_symbol": "RPDA314",
+        "market_value": 17.89,
+        "weight_pct": 0.029
+      },
+      {
+        "stock_symbol": "HVOT431",
+        "market_value": 9.93,
+        "weight_pct": 0.107
+      },
+      {
+        "stock_symbol": "JRKU988",
+        "market_value": 14.34,
+        "weight_pct": 0.074
+      },
+      {
+        "stock_symbol": "ZTKC919",
+        "market_value": 5.84,
+        "weight_pct": 0.056
+      },
+      {
+        "stock_symbol": "BOSC827",
+        "market_value": 17.77,
+        "weight_pct": 0.124
+      },
+      {
+        "stock_symbol": "BYWH388",
+        "market_value": 1.6,
+        "weight_pct": 0.14
+      },
+      {
+        "stock_symbol": "GJGI258",
+        "market_value": 8.69,
+        "weight_pct": 0.083
+      },
+      {
+        "stock_symbol": "XNBE197",
+        "market_value": 0.77,
+        "weight_pct": 0.122
+      }
+    ]
+  },
+  {
+    "fund_id": "FUND0062",
+    "fund_name": "Warner, George and Dickerson基金",
+    "asset_allocation": {
+      "股票": 0.2,
+      "债券": 0.05,
+      "现金": 0.15,
+      "商品": 0.32,
+      "另类投资": 0.28
+    },
+    "risk_factor": 0.302,
+    "holdings": [
+      {
+        "stock_symbol": "MJLR260",
+        "market_value": 9.88,
+        "weight_pct": 0.015
+      },
+      {
+        "stock_symbol": "ITTG809",
+        "market_value": 0.72,
+        "weight_pct": 0.097
+      },
+      {
+        "stock_symbol": "QTZJ279",
+        "market_value": 11.58,
+        "weight_pct": 0.129
+      },
+      {
+        "stock_symbol": "ILZN656",
+        "market_value": 15.17,
+        "weight_pct": 0.091
+      },
+      {
+        "stock_symbol": "MDGK544",
+        "market_value": 10.03,
+        "weight_pct": 0.056
+      },
+      {
+        "stock_symbol": "IAGD805",
+        "market_value": 17.9,
+        "weight_pct": 0.053
+      },
+      {
+        "stock_symbol": "LKII236",
+        "market_value": 14.75,
+        "weight_pct": 0.133
+      },
+      {
+        "stock_symbol": "DWAL687",
+        "market_value": 2.86,
+        "weight_pct": 0.047
+      },
+      {
+        "stock_symbol": "IWZV27",
+        "market_value": 4.44,
+        "weight_pct": 0.028
+      },
+      {
+        "stock_symbol": "NXWH367",
+        "market_value": 1.14,
+        "weight_pct": 0.117
+      },
+      {
+        "stock_symbol": "MLHY325",
+        "market_value": 17.51,
+        "weight_pct": 0.104
+      },
+      {
+        "stock_symbol": "UXRD186",
+        "market_value": 18.57,
+        "weight_pct": 0.141
+      }
+    ]
+  },
+  {
+    "fund_id": "FUND0063",
+    "fund_name": "Cervantes, Davis and Webb基金",
+    "asset_allocation": {
+      "股票": 0.11,
+      "债券": 0.66,
+      "现金": 0.01,
+      "商品": 0.0,
+      "另类投资": 0.21999999999999997
+    },
+    "risk_factor": 0.197,
+    "holdings": [
+      {
+        "stock_symbol": "XOGS993",
+        "market_value": 15.48,
+        "weight_pct": 0.131
+      },
+      {
+        "stock_symbol": "AIXZ940",
+        "market_value": 18.15,
+        "weight_pct": 0.117
+      },
+      {
+        "stock_symbol": "YEVU913",
+        "market_value": 14.83,
+        "weight_pct": 0.043
+      },
+      {
+        "stock_symbol": "EIHM277",
+        "market_value": 18.3,
+        "weight_pct": 0.064
+      },
+      {
+        "stock_symbol": "MEFM822",
+        "market_value": 14.37,
+        "weight_pct": 0.088
+      },
+      {
+        "stock_symbol": "QWNJ557",
+        "market_value": 20.0,
+        "weight_pct": 0.072
+      },
+      {
+        "stock_symbol": "HRYX506",
+        "market_value": 1.38,
+        "weight_pct": 0.078
+      },
+      {
+        "stock_symbol": "XPCA235",
+        "market_value": 17.94,
+        "weight_pct": 0.045
+      },
+      {
+        "stock_symbol": "WUFB330",
+        "market_value": 14.5,
+        "weight_pct": 0.048
+      },
+      {
+        "stock_symbol": "EVWW621",
+        "market_value": 0.85,
+        "weight_pct": 0.077
+      },
+      {
+        "stock_symbol": "DEWN393",
+        "market_value": 9.81,
+        "weight_pct": 0.022
+      },
+      {
+        "stock_symbol": "JDHI833",
+        "market_value": 1.16,
+        "weight_pct": 0.141
+      },
+      {
+        "stock_symbol": "CJFQ429",
+        "market_value": 12.38,
+        "weight_pct": 0.115
+      }
+    ]
+  },
+  {
+    "fund_id": "FUND0064",
+    "fund_name": "Diaz-Shelton基金",
+    "asset_allocation": {
+      "股票": 0.0,
+      "债券": 0.31,
+      "现金": 0.02,
+      "商品": 0.06,
+      "另类投资": 0.61
+    },
+    "risk_factor": 0.289,
+    "holdings": [
+      {
+        "stock_symbol": "CQJV627",
+        "market_value": 11.17,
+        "weight_pct": 0.018
+      },
+      {
+        "stock_symbol": "YIOQ732",
+        "market_value": 3.83,
+        "weight_pct": 0.109
+      },
+      {
+        "stock_symbol": "ZWCE823",
+        "market_value": 2.42,
+        "weight_pct": 0.058
+      },
+      {
+        "stock_symbol": "TIVI959",
+        "market_value": 8.38,
+        "weight_pct": 0.084
+      },
+      {
+        "stock_symbol": "CDAB486",
+        "market_value": 0.86,
+        "weight_pct": 0.06
+      },
+      {
+        "stock_symbol": "UQLK728",
+        "market_value": 4.32,
+        "weight_pct": 0.016
+      },
+      {
+        "stock_symbol": "ZYYH995",
+        "market_value": 15.25,
+        "weight_pct": 0.029
+      },
+      {
+        "stock_symbol": "BMED663",
+        "market_value": 11.71,
+        "weight_pct": 0.082
+      },
+      {
+        "stock_symbol": "BONX550",
+        "market_value": 4.47,
+        "weight_pct": 0.025
+      },
+      {
+        "stock_symbol": "ODYC253",
+        "market_value": 18.54,
+        "weight_pct": 0.042
+      },
+      {
+        "stock_symbol": "DJCZ954",
+        "market_value": 18.98,
+        "weight_pct": 0.098
+      },
+      {
+        "stock_symbol": "VHER118",
+        "market_value": 18.91,
+        "weight_pct": 0.038
+      },
+      {
+        "stock_symbol": "QZLX174",
+        "market_value": 1.23,
+        "weight_pct": 0.081
+      }
+    ]
+  },
+  {
+    "fund_id": "FUND0065",
+    "fund_name": "Olsen-Fields基金",
+    "asset_allocation": {
+      "股票": 0.14,
+      "债券": 0.82,
+      "现金": 0.0,
+      "商品": 0.02,
+      "另类投资": 0.020000000000000018
+    },
+    "risk_factor": 0.212,
+    "holdings": [
+      {
+        "stock_symbol": "ZSDD334",
+        "market_value": 11.15,
+        "weight_pct": 0.038
+      },
+      {
+        "stock_symbol": "CFRK13",
+        "market_value": 8.81,
+        "weight_pct": 0.062
+      },
+      {
+        "stock_symbol": "GOQS993",
+        "market_value": 5.64,
+        "weight_pct": 0.147
+      },
+      {
+        "stock_symbol": "OSOG571",
+        "market_value": 10.43,
+        "weight_pct": 0.073
+      },
+      {
+        "stock_symbol": "MZGW879",
+        "market_value": 17.75,
+        "weight_pct": 0.105
+      },
+      {
+        "stock_symbol": "CWAX385",
+        "market_value": 4.27,
+        "weight_pct": 0.11
+      },
+      {
+        "stock_symbol": "XXGO128",
+        "market_value": 9.09,
+        "weight_pct": 0.048
+      },
+      {
+        "stock_symbol": "JMPU759",
+        "market_value": 17.53,
+        "weight_pct": 0.131
+      },
+      {
+        "stock_symbol": "NXIN504",
+        "market_value": 2.21,
+        "weight_pct": 0.115
+      },
+      {
+        "stock_symbol": "DXFL558",
+        "market_value": 4.24,
+        "weight_pct": 0.087
+      },
+      {
+        "stock_symbol": "IDOR667",
+        "market_value": 11.74,
+        "weight_pct": 0.124
+      },
+      {
+        "stock_symbol": "GOMN348",
+        "market_value": 7.27,
+        "weight_pct": 0.135
+      },
+      {
+        "stock_symbol": "LIWH887",
+        "market_value": 3.97,
+        "weight_pct": 0.091
+      }
+    ]
+  },
+  {
+    "fund_id": "FUND0066",
+    "fund_name": "Carroll, Johnson and Reid基金",
+    "asset_allocation": {
+      "股票": 0.13,
+      "债券": 0.45,
+      "现金": 0.19,
+      "商品": 0.07,
+      "另类投资": 0.15999999999999992
+    },
+    "risk_factor": 0.113,
+    "holdings": [
+      {
+        "stock_symbol": "MUQR812",
+        "market_value": 12.95,
+        "weight_pct": 0.094
+      },
+      {
+        "stock_symbol": "GXGQ785",
+        "market_value": 13.98,
+        "weight_pct": 0.101
+      },
+      {
+        "stock_symbol": "HRGT361",
+        "market_value": 5.23,
+        "weight_pct": 0.102
+      },
+      {
+        "stock_symbol": "SOFA787",
+        "market_value": 6.82,
+        "weight_pct": 0.103
+      },
+      {
+        "stock_symbol": "ICZW152",
+        "market_value": 12.62,
+        "weight_pct": 0.023
+      },
+      {
+        "stock_symbol": "XAZW834",
+        "market_value": 4.82,
+        "weight_pct": 0.028
+      },
+      {
+        "stock_symbol": "PTQP733",
+        "market_value": 13.38,
+        "weight_pct": 0.079
+      },
+      {
+        "stock_symbol": "YIRS518",
+        "market_value": 16.37,
+        "weight_pct": 0.029
+      },
+      {
+        "stock_symbol": "OGFQ69",
+        "market_value": 6.54,
+        "weight_pct": 0.084
+      },
+      {
+        "stock_symbol": "DATV780",
+        "market_value": 17.46,
+        "weight_pct": 0.145
+      },
+      {
+        "stock_symbol": "SWFT73",
+        "market_value": 14.74,
+        "weight_pct": 0.132
+      },
+      {
+        "stock_symbol": "BSMT117",
+        "market_value": 11.58,
+        "weight_pct": 0.094
+      },
+      {
+        "stock_symbol": "EAYZ119",
+        "market_value": 15.08,
+        "weight_pct": 0.139
+      },
+      {
+        "stock_symbol": "MLFG175",
+        "market_value": 15.6,
+        "weight_pct": 0.057
+      }
+    ]
+  },
+  {
+    "fund_id": "FUND0067",
+    "fund_name": "Tucker-Obrien基金",
+    "asset_allocation": {
+      "股票": 0.13,
+      "债券": 0.11,
+      "现金": 0.07,
+      "商品": 0.35,
+      "另类投资": 0.3400000000000001
+    },
+    "risk_factor": 0.42,
+    "holdings": [
+      {
+        "stock_symbol": "QVNX406",
+        "market_value": 12.84,
+        "weight_pct": 0.101
+      },
+      {
+        "stock_symbol": "JAVS347",
+        "market_value": 15.49,
+        "weight_pct": 0.084
+      },
+      {
+        "stock_symbol": "CXOV404",
+        "market_value": 13.72,
+        "weight_pct": 0.069
+      },
+      {
+        "stock_symbol": "NZZF509",
+        "market_value": 0.63,
+        "weight_pct": 0.038
+      },
+      {
+        "stock_symbol": "RDUO330",
+        "market_value": 1.04,
+        "weight_pct": 0.137
+      },
+      {
+        "stock_symbol": "BYUP931",
+        "market_value": 14.12,
+        "weight_pct": 0.115
+      },
+      {
+        "stock_symbol": "UXWY760",
+        "market_value": 1.26,
+        "weight_pct": 0.076
+      },
+      {
+        "stock_symbol": "LDBS251",
+        "market_value": 2.87,
+        "weight_pct": 0.047
+      },
+      {
+        "stock_symbol": "CVQD392",
+        "market_value": 12.82,
+        "weight_pct": 0.021
+      },
+      {
+        "stock_symbol": "YYZB331",
+        "market_value": 17.61,
+        "weight_pct": 0.038
+      },
+      {
+        "stock_symbol": "ELYE820",
+        "market_value": 15.87,
+        "weight_pct": 0.054
+      },
+      {
+        "stock_symbol": "HAXL229",
+        "market_value": 14.7,
+        "weight_pct": 0.032
+      }
+    ]
+  },
+  {
+    "fund_id": "FUND0068",
+    "fund_name": "Bradley Group基金",
+    "asset_allocation": {
+      "股票": 0.2,
+      "债券": 0.19,
+      "现金": 0.38,
+      "商品": 0.17,
+      "另类投资": 0.05999999999999994
+    },
+    "risk_factor": 0.383,
+    "holdings": [
+      {
+        "stock_symbol": "ZCHG66",
+        "market_value": 15.71,
+        "weight_pct": 0.022
+      },
+      {
+        "stock_symbol": "QYGX914",
+        "market_value": 0.81,
+        "weight_pct": 0.042
+      },
+      {
+        "stock_symbol": "ZGNR120",
+        "market_value": 12.28,
+        "weight_pct": 0.136
+      },
+      {
+        "stock_symbol": "VZYO772",
+        "market_value": 14.75,
+        "weight_pct": 0.125
+      },
+      {
+        "stock_symbol": "USCT509",
+        "market_value": 9.27,
+        "weight_pct": 0.088
+      },
+      {
+        "stock_symbol": "UCNU830",
+        "market_value": 10.39,
+        "weight_pct": 0.021
+      },
+      {
+        "stock_symbol": "VRPR777",
+        "market_value": 11.51,
+        "weight_pct": 0.141
+      },
+      {
+        "stock_symbol": "ZTMV620",
+        "market_value": 15.5,
+        "weight_pct": 0.114
+      },
+      {
+        "stock_symbol": "AULY854",
+        "market_value": 11.04,
+        "weight_pct": 0.057
+      },
+      {
+        "stock_symbol": "NFXW770",
+        "market_value": 13.21,
+        "weight_pct": 0.065
+      },
+      {
+        "stock_symbol": "GFGS744",
+        "market_value": 13.05,
+        "weight_pct": 0.099
+      },
+      {
+        "stock_symbol": "CDMR54",
+        "market_value": 1.42,
+        "weight_pct": 0.139
+      },
+      {
+        "stock_symbol": "TRAH922",
+        "market_value": 13.08,
+        "weight_pct": 0.017
+      }
+    ]
+  },
+  {
+    "fund_id": "FUND0069",
+    "fund_name": "Perez-Perez基金",
+    "asset_allocation": {
+      "股票": 0.45,
+      "债券": 0.08,
+      "现金": 0.06,
+      "商品": 0.06,
+      "另类投资": 0.34999999999999987
+    },
+    "risk_factor": 0.195,
+    "holdings": [
+      {
+        "stock_symbol": "JUXB303",
+        "market_value": 9.32,
+        "weight_pct": 0.139
+      },
+      {
+        "stock_symbol": "HMHR748",
+        "market_value": 4.09,
+        "weight_pct": 0.032
+      },
+      {
+        "stock_symbol": "DOVV969",
+        "market_value": 19.12,
+        "weight_pct": 0.074
+      },
+      {
+        "stock_symbol": "ZRYN783",
+        "market_value": 19.58,
+        "weight_pct": 0.111
+      },
+      {
+        "stock_symbol": "ENPC607",
+        "market_value": 17.13,
+        "weight_pct": 0.047
+      },
+      {
+        "stock_symbol": "CIGJ173",
+        "market_value": 13.58,
+        "weight_pct": 0.112
+      },
+      {
+        "stock_symbol": "KWJQ648",
+        "market_value": 19.88,
+        "weight_pct": 0.13
+      },
+      {
+        "stock_symbol": "BHJE560",
+        "market_value": 9.88,
+        "weight_pct": 0.04
+      },
+      {
+        "stock_symbol": "XDGD319",
+        "market_value": 13.45,
+        "weight_pct": 0.113
+      },
+      {
+        "stock_symbol": "CGZT412",
+        "market_value": 2.55,
+        "weight_pct": 0.102
+      }
+    ]
+  },
+  {
+    "fund_id": "FUND0070",
+    "fund_name": "Flores, Simpson and Riley基金",
+    "asset_allocation": {
+      "股票": 0.11,
+      "债券": 0.11,
+      "现金": 0.71,
+      "商品": 0.06,
+      "另类投资": 0.010000000000000009
+    },
+    "risk_factor": 0.485,
+    "holdings": [
+      {
+        "stock_symbol": "WNCX875",
+        "market_value": 11.04,
+        "weight_pct": 0.095
+      },
+      {
+        "stock_symbol": "YOZT253",
+        "market_value": 3.13,
+        "weight_pct": 0.065
+      },
+      {
+        "stock_symbol": "RGGO761",
+        "market_value": 7.71,
+        "weight_pct": 0.074
+      },
+      {
+        "stock_symbol": "SKYF321",
+        "market_value": 18.77,
+        "weight_pct": 0.078
+      },
+      {
+        "stock_symbol": "MKZB367",
+        "market_value": 8.39,
+        "weight_pct": 0.04
+      },
+      {
+        "stock_symbol": "IZIA388",
+        "market_value": 11.48,
+        "weight_pct": 0.093
+      },
+      {
+        "stock_symbol": "JRAB256",
+        "market_value": 2.47,
+        "weight_pct": 0.141
+      },
+      {
+        "stock_symbol": "TUGH55",
+        "market_value": 2.23,
+        "weight_pct": 0.116
+      },
+      {
+        "stock_symbol": "LXPA728",
+        "market_value": 19.2,
+        "weight_pct": 0.011
+      },
+      {
+        "stock_symbol": "SDQL658",
+        "market_value": 13.15,
+        "weight_pct": 0.108
+      },
+      {
+        "stock_symbol": "KLUN396",
+        "market_value": 13.71,
+        "weight_pct": 0.083
+      },
+      {
+        "stock_symbol": "RWNN319",
+        "market_value": 2.07,
+        "weight_pct": 0.037
+      },
+      {
+        "stock_symbol": "RQOF514",
+        "market_value": 17.85,
+        "weight_pct": 0.132
+      },
+      {
+        "stock_symbol": "ITET55",
+        "market_value": 10.55,
+        "weight_pct": 0.128
+      },
+      {
+        "stock_symbol": "GTHI419",
+        "market_value": 5.66,
+        "weight_pct": 0.117
+      }
+    ]
+  },
+  {
+    "fund_id": "FUND0071",
+    "fund_name": "Gomez, Lawrence and Erickson基金",
+    "asset_allocation": {
+      "股票": 0.46,
+      "债券": 0.12,
+      "现金": 0.19,
+      "商品": 0.17,
+      "另类投资": 0.05999999999999994
+    },
+    "risk_factor": 0.21,
+    "holdings": [
+      {
+        "stock_symbol": "AOLX609",
+        "market_value": 17.04,
+        "weight_pct": 0.022
+      },
+      {
+        "stock_symbol": "KNTI665",
+        "market_value": 12.19,
+        "weight_pct": 0.044
+      },
+      {
+        "stock_symbol": "UOTU224",
+        "market_value": 7.09,
+        "weight_pct": 0.11
+      },
+      {
+        "stock_symbol": "PQIQ760",
+        "market_value": 17.37,
+        "weight_pct": 0.131
+      },
+      {
+        "stock_symbol": "OEZN900",
+        "market_value": 18.95,
+        "weight_pct": 0.046
+      },
+      {
+        "stock_symbol": "NGPF504",
+        "market_value": 11.44,
+        "weight_pct": 0.07
+      },
+      {
+        "stock_symbol": "YPDN145",
+        "market_value": 5.27,
+        "weight_pct": 0.07
+      },
+      {
+        "stock_symbol": "NICC161",
+        "market_value": 19.24,
+        "weight_pct": 0.142
+      },
+      {
+        "stock_symbol": "QHVB239",
+        "market_value": 11.29,
+        "weight_pct": 0.049
+      },
+      {
+        "stock_symbol": "RUDM648",
+        "market_value": 12.86,
+        "weight_pct": 0.029
+      },
+      {
+        "stock_symbol": "XBQC971",
+        "market_value": 8.27,
+        "weight_pct": 0.033
+      }
+    ]
+  },
+  {
+    "fund_id": "FUND0072",
+    "fund_name": "Bennett PLC基金",
+    "asset_allocation": {
+      "股票": 0.12,
+      "债券": 0.07,
+      "现金": 0.46,
+      "商品": 0.21,
+      "另类投资": 0.14
+    },
+    "risk_factor": 0.173,
+    "holdings": [
+      {
+        "stock_symbol": "HWYQ344",
+        "market_value": 3.15,
+        "weight_pct": 0.019
+      },
+      {
+        "stock_symbol": "FKBV880",
+        "market_value": 4.39,
+        "weight_pct": 0.147
+      },
+      {
+        "stock_symbol": "RYLM931",
+        "market_value": 10.79,
+        "weight_pct": 0.107
+      },
+      {
+        "stock_symbol": "YEZP219",
+        "market_value": 6.5,
+        "weight_pct": 0.088
+      },
+      {
+        "stock_symbol": "WKAJ575",
+        "market_value": 11.97,
+        "weight_pct": 0.035
+      },
+      {
+        "stock_symbol": "NNYY388",
+        "market_value": 13.52,
+        "weight_pct": 0.07
+      },
+      {
+        "stock_symbol": "AVJL961",
+        "market_value": 2.53,
+        "weight_pct": 0.085
+      },
+      {
+        "stock_symbol": "EJHV311",
+        "market_value": 13.92,
+        "weight_pct": 0.075
+      },
+      {
+        "stock_symbol": "AKOS263",
+        "market_value": 6.46,
+        "weight_pct": 0.119
+      },
+      {
+        "stock_symbol": "NQEL954",
+        "market_value": 9.17,
+        "weight_pct": 0.125
+      },
+      {
+        "stock_symbol": "PAKO831",
+        "market_value": 11.25,
+        "weight_pct": 0.097
+      },
+      {
+        "stock_symbol": "XWLM84",
+        "market_value": 10.15,
+        "weight_pct": 0.066
+      },
+      {
+        "stock_symbol": "KXRA443",
+        "market_value": 10.26,
+        "weight_pct": 0.032
+      },
+      {
+        "stock_symbol": "NVYV859",
+        "market_value": 6.21,
+        "weight_pct": 0.042
+      },
+      {
+        "stock_symbol": "DXEC183",
+        "market_value": 7.96,
+        "weight_pct": 0.021
+      }
+    ]
+  },
+  {
+    "fund_id": "FUND0073",
+    "fund_name": "Ramirez-Cruz基金",
+    "asset_allocation": {
+      "股票": 0.02,
+      "债券": 0.0,
+      "现金": 0.35,
+      "商品": 0.28,
+      "另类投资": 0.35
+    },
+    "risk_factor": 0.236,
+    "holdings": [
+      {
+        "stock_symbol": "TWOV972",
+        "market_value": 3.09,
+        "weight_pct": 0.019
+      },
+      {
+        "stock_symbol": "KZNI442",
+        "market_value": 15.96,
+        "weight_pct": 0.136
+      },
+      {
+        "stock_symbol": "WVIQ217",
+        "market_value": 7.04,
+        "weight_pct": 0.082
+      },
+      {
+        "stock_symbol": "RTLK744",
+        "market_value": 9.26,
+        "weight_pct": 0.099
+      },
+      {
+        "stock_symbol": "RTDZ708",
+        "market_value": 10.4,
+        "weight_pct": 0.032
+      },
+      {
+        "stock_symbol": "DPSN534",
+        "market_value": 5.41,
+        "weight_pct": 0.098
+      },
+      {
+        "stock_symbol": "DEYF135",
+        "market_value": 5.66,
+        "weight_pct": 0.114
+      },
+      {
+        "stock_symbol": "AVFA480",
+        "market_value": 6.03,
+        "weight_pct": 0.053
+      },
+      {
+        "stock_symbol": "KFHQ663",
+        "market_value": 14.85,
+        "weight_pct": 0.018
+      },
+      {
+        "stock_symbol": "QUHD643",
+        "market_value": 14.3,
+        "weight_pct": 0.145
+      },
+      {
+        "stock_symbol": "YZVM161",
+        "market_value": 8.35,
+        "weight_pct": 0.079
+      },
+      {
+        "stock_symbol": "EMCX700",
+        "market_value": 18.78,
+        "weight_pct": 0.085
+      },
+      {
+        "stock_symbol": "ABPZ865",
+        "market_value": 3.99,
+        "weight_pct": 0.041
+      }
+    ]
+  },
+  {
+    "fund_id": "FUND0074",
+    "fund_name": "Stanley-Frazier基金",
+    "asset_allocation": {
+      "股票": 0.08,
+      "债券": 0.06,
+      "现金": 0.53,
+      "商品": 0.08,
+      "另类投资": 0.25
+    },
+    "risk_factor": 0.485,
+    "holdings": [
+      {
+        "stock_symbol": "IAJO329",
+        "market_value": 9.03,
+        "weight_pct": 0.035
+      },
+      {
+        "stock_symbol": "NXRQ143",
+        "market_value": 4.55,
+        "weight_pct": 0.08
+      },
+      {
+        "stock_symbol": "MIDU689",
+        "market_value": 19.93,
+        "weight_pct": 0.078
+      },
+      {
+        "stock_symbol": "OWQJ965",
+        "market_value": 6.14,
+        "weight_pct": 0.147
+      },
+      {
+        "stock_symbol": "UZRD748",
+        "market_value": 4.93,
+        "weight_pct": 0.046
+      },
+      {
+        "stock_symbol": "HUID703",
+        "market_value": 12.88,
+        "weight_pct": 0.058
+      },
+      {
+        "stock_symbol": "TOQO577",
+        "market_value": 17.61,
+        "weight_pct": 0.106
+      },
+      {
+        "stock_symbol": "CDBL153",
+        "market_value": 4.04,
+        "weight_pct": 0.119
+      },
+      {
+        "stock_symbol": "PGUS305",
+        "market_value": 17.34,
+        "weight_pct": 0.131
+      },
+      {
+        "stock_symbol": "KQUJ441",
+        "market_value": 16.23,
+        "weight_pct": 0.103
+      },
+      {
+        "stock_symbol": "BVEX360",
+        "market_value": 19.14,
+        "weight_pct": 0.015
+      },
+      {
+        "stock_symbol": "BGFB223",
+        "market_value": 16.32,
+        "weight_pct": 0.142
+      },
+      {
+        "stock_symbol": "RAXT563",
+        "market_value": 2.84,
+        "weight_pct": 0.128
+      }
+    ]
+  },
+  {
+    "fund_id": "FUND0075",
+    "fund_name": "Smith-Richardson基金",
+    "asset_allocation": {
+      "股票": 0.18,
+      "债券": 0.01,
+      "现金": 0.34,
+      "商品": 0.4,
+      "另类投资": 0.06999999999999995
+    },
+    "risk_factor": 0.495,
+    "holdings": [
+      {
+        "stock_symbol": "YVLN493",
+        "market_value": 10.25,
+        "weight_pct": 0.137
+      },
+      {
+        "stock_symbol": "XOUU207",
+        "market_value": 15.87,
+        "weight_pct": 0.068
+      },
+      {
+        "stock_symbol": "QHMT121",
+        "market_value": 13.1,
+        "weight_pct": 0.031
+      },
+      {
+        "stock_symbol": "EIXY47",
+        "market_value": 2.88,
+        "weight_pct": 0.065
+      },
+      {
+        "stock_symbol": "ARKG176",
+        "market_value": 19.75,
+        "weight_pct": 0.119
+      },
+      {
+        "stock_symbol": "MANC786",
+        "market_value": 11.39,
+        "weight_pct": 0.022
+      },
+      {
+        "stock_symbol": "ASVT392",
+        "market_value": 8.97,
+        "weight_pct": 0.095
+      },
+      {
+        "stock_symbol": "ENJR93",
+        "market_value": 6.86,
+        "weight_pct": 0.13
+      },
+      {
+        "stock_symbol": "ZMXT683",
+        "market_value": 15.77,
+        "weight_pct": 0.117
+      },
+      {
+        "stock_symbol": "ITJQ95",
+        "market_value": 11.18,
+        "weight_pct": 0.056
+      },
+      {
+        "stock_symbol": "DITW25",
+        "market_value": 3.86,
+        "weight_pct": 0.064
+      },
+      {
+        "stock_symbol": "EVXR352",
+        "market_value": 15.79,
+        "weight_pct": 0.119
+      }
+    ]
+  },
+  {
+    "fund_id": "FUND0076",
+    "fund_name": "Clayton, Smith and Henderson基金",
+    "asset_allocation": {
+      "股票": 0.05,
+      "债券": 0.37,
+      "现金": 0.12,
+      "商品": 0.29,
+      "另类投资": 0.16999999999999993
+    },
+    "risk_factor": 0.456,
+    "holdings": [
+      {
+        "stock_symbol": "GSDH616",
+        "market_value": 1.49,
+        "weight_pct": 0.047
+      },
+      {
+        "stock_symbol": "ECDB666",
+        "market_value": 2.76,
+        "weight_pct": 0.098
+      },
+      {
+        "stock_symbol": "SULC158",
+        "market_value": 14.65,
+        "weight_pct": 0.031
+      },
+      {
+        "stock_symbol": "ERKU394",
+        "market_value": 1.11,
+        "weight_pct": 0.054
+      },
+      {
+        "stock_symbol": "PYQL393",
+        "market_value": 6.18,
+        "weight_pct": 0.027
+      },
+      {
+        "stock_symbol": "XXDY573",
+        "market_value": 5.91,
+        "weight_pct": 0.056
+      },
+      {
+        "stock_symbol": "CEPZ588",
+        "market_value": 4.54,
+        "weight_pct": 0.014
+      },
+      {
+        "stock_symbol": "LFHH353",
+        "market_value": 5.63,
+        "weight_pct": 0.028
+      },
+      {
+        "stock_symbol": "OLJA934",
+        "market_value": 17.43,
+        "weight_pct": 0.129
+      },
+      {
+        "stock_symbol": "IOBD751",
+        "market_value": 10.49,
+        "weight_pct": 0.148
+      },
+      {
+        "stock_symbol": "HVPK964",
+        "market_value": 15.93,
+        "weight_pct": 0.041
+      },
+      {
+        "stock_symbol": "TJQU649",
+        "market_value": 9.79,
+        "weight_pct": 0.143
+      },
+      {
+        "stock_symbol": "OZAX101",
+        "market_value": 16.22,
+        "weight_pct": 0.039
+      },
+      {
+        "stock_symbol": "YIWJ164",
+        "market_value": 8.89,
+        "weight_pct": 0.037
+      },
+      {
+        "stock_symbol": "EYPQ633",
+        "market_value": 16.82,
+        "weight_pct": 0.038
+      }
+    ]
+  },
+  {
+    "fund_id": "FUND0077",
+    "fund_name": "Johnson-Herring基金",
+    "asset_allocation": {
+      "股票": 0.07,
+      "债券": 0.38,
+      "现金": 0.1,
+      "商品": 0.3,
+      "另类投资": 0.1499999999999999
+    },
+    "risk_factor": 0.439,
+    "holdings": [
+      {
+        "stock_symbol": "IDKH386",
+        "market_value": 8.87,
+        "weight_pct": 0.132
+      },
+      {
+        "stock_symbol": "CGQJ971",
+        "market_value": 7.61,
+        "weight_pct": 0.074
+      },
+      {
+        "stock_symbol": "OHWA359",
+        "market_value": 15.91,
+        "weight_pct": 0.079
+      },
+      {
+        "stock_symbol": "SPXY691",
+        "market_value": 18.55,
+        "weight_pct": 0.146
+      },
+      {
+        "stock_symbol": "CVOO308",
+        "market_value": 15.9,
+        "weight_pct": 0.084
+      },
+      {
+        "stock_symbol": "FEJK568",
+        "market_value": 6.81,
+        "weight_pct": 0.118
+      },
+      {
+        "stock_symbol": "VOXI14",
+        "market_value": 4.8,
+        "weight_pct": 0.119
+      },
+      {
+        "stock_symbol": "HLJH934",
+        "market_value": 14.27,
+        "weight_pct": 0.127
+      },
+      {
+        "stock_symbol": "GWUM635",
+        "market_value": 8.31,
+        "weight_pct": 0.104
+      },
+      {
+        "stock_symbol": "EDLW622",
+        "market_value": 1.66,
+        "weight_pct": 0.012
+      },
+      {
+        "stock_symbol": "EWKM36",
+        "market_value": 15.32,
+        "weight_pct": 0.089
+      },
+      {
+        "stock_symbol": "JLPJ426",
+        "market_value": 1.56,
+        "weight_pct": 0.102
+      },
+      {
+        "stock_symbol": "RHFZ547",
+        "market_value": 12.24,
+        "weight_pct": 0.051
+      },
+      {
+        "stock_symbol": "PILH807",
+        "market_value": 2.37,
+        "weight_pct": 0.094
+      }
+    ]
+  },
+  {
+    "fund_id": "FUND0078",
+    "fund_name": "Allen, Williamson and Suarez基金",
+    "asset_allocation": {
+      "股票": 0.21,
+      "债券": 0.3,
+      "现金": 0.08,
+      "商品": 0.41,
+      "另类投资": 0.0
+    },
+    "risk_factor": 0.106,
+    "holdings": [
+      {
+        "stock_symbol": "AIOF531",
+        "market_value": 10.8,
+        "weight_pct": 0.134
+      },
+      {
+        "stock_symbol": "CDVD395",
+        "market_value": 19.61,
+        "weight_pct": 0.03
+      },
+      {
+        "stock_symbol": "QLDK133",
+        "market_value": 4.91,
+        "weight_pct": 0.12
+      },
+      {
+        "stock_symbol": "OPXN723",
+        "market_value": 2.58,
+        "weight_pct": 0.135
+      },
+      {
+        "stock_symbol": "KDLL694",
+        "market_value": 1.49,
+        "weight_pct": 0.027
+      },
+      {
+        "stock_symbol": "TIOZ762",
+        "market_value": 15.26,
+        "weight_pct": 0.104
+      },
+      {
+        "stock_symbol": "VDLA614",
+        "market_value": 14.08,
+        "weight_pct": 0.021
+      },
+      {
+        "stock_symbol": "AVGL239",
+        "market_value": 1.97,
+        "weight_pct": 0.095
+      },
+      {
+        "stock_symbol": "KBQT775",
+        "market_value": 7.19,
+        "weight_pct": 0.08
+      },
+      {
+        "stock_symbol": "OHNX964",
+        "market_value": 16.84,
+        "weight_pct": 0.089
+      }
+    ]
+  },
+  {
+    "fund_id": "FUND0079",
+    "fund_name": "Harris, Wright and Nelson基金",
+    "asset_allocation": {
+      "股票": 0.08,
+      "债券": 0.16,
+      "现金": 0.02,
+      "商品": 0.37,
+      "另类投资": 0.37
+    },
+    "risk_factor": 0.342,
+    "holdings": [
+      {
+        "stock_symbol": "EZPE335",
+        "market_value": 14.39,
+        "weight_pct": 0.022
+      },
+      {
+        "stock_symbol": "DGZT268",
+        "market_value": 16.25,
+        "weight_pct": 0.13
+      },
+      {
+        "stock_symbol": "XHMX501",
+        "market_value": 10.05,
+        "weight_pct": 0.086
+      },
+      {
+        "stock_symbol": "JWCB609",
+        "market_value": 16.37,
+        "weight_pct": 0.017
+      },
+      {
+        "stock_symbol": "UQKR719",
+        "market_value": 7.89,
+        "weight_pct": 0.077
+      },
+      {
+        "stock_symbol": "LQZO457",
+        "market_value": 8.39,
+        "weight_pct": 0.021
+      },
+      {
+        "stock_symbol": "NZCL924",
+        "market_value": 9.25,
+        "weight_pct": 0.014
+      },
+      {
+        "stock_symbol": "QTAR609",
+        "market_value": 3.14,
+        "weight_pct": 0.132
+      },
+      {
+        "stock_symbol": "IPGT957",
+        "market_value": 7.16,
+        "weight_pct": 0.022
+      },
+      {
+        "stock_symbol": "AJGH313",
+        "market_value": 16.32,
+        "weight_pct": 0.149
+      },
+      {
+        "stock_symbol": "UFFT130",
+        "market_value": 8.08,
+        "weight_pct": 0.073
+      },
+      {
+        "stock_symbol": "GNPB546",
+        "market_value": 19.59,
+        "weight_pct": 0.036
+      },
+      {
+        "stock_symbol": "BXDH85",
+        "market_value": 6.94,
+        "weight_pct": 0.023
+      },
+      {
+        "stock_symbol": "GCCE937",
+        "market_value": 7.82,
+        "weight_pct": 0.033
+      }
+    ]
+  },
+  {
+    "fund_id": "FUND0080",
+    "fund_name": "Campbell-Stanley基金",
+    "asset_allocation": {
+      "股票": 0.12,
+      "债券": 0.11,
+      "现金": 0.1,
+      "商品": 0.54,
+      "另类投资": 0.13
+    },
+    "risk_factor": 0.359,
+    "holdings": [
+      {
+        "stock_symbol": "OBHG361",
+        "market_value": 6.29,
+        "weight_pct": 0.108
+      },
+      {
+        "stock_symbol": "FRNX49",
+        "market_value": 6.4,
+        "weight_pct": 0.07
+      },
+      {
+        "stock_symbol": "WZFU772",
+        "market_value": 11.98,
+        "weight_pct": 0.139
+      },
+      {
+        "stock_symbol": "VQQG568",
+        "market_value": 18.04,
+        "weight_pct": 0.085
+      },
+      {
+        "stock_symbol": "BXRZ471",
+        "market_value": 5.64,
+        "weight_pct": 0.123
+      },
+      {
+        "stock_symbol": "JSWO433",
+        "market_value": 1.23,
+        "weight_pct": 0.145
+      },
+      {
+        "stock_symbol": "HKYE404",
+        "market_value": 12.65,
+        "weight_pct": 0.102
+      },
+      {
+        "stock_symbol": "NFJW128",
+        "market_value": 13.47,
+        "weight_pct": 0.062
+      },
+      {
+        "stock_symbol": "TYLC413",
+        "market_value": 16.56,
+        "weight_pct": 0.057
+      },
+      {
+        "stock_symbol": "DIML565",
+        "market_value": 6.93,
+        "weight_pct": 0.029
+      },
+      {
+        "stock_symbol": "AJPV343",
+        "market_value": 16.54,
+        "weight_pct": 0.098
+      },
+      {
+        "stock_symbol": "KCHG376",
+        "market_value": 18.39,
+        "weight_pct": 0.069
+      },
+      {
+        "stock_symbol": "DFTX222",
+        "market_value": 10.15,
+        "weight_pct": 0.029
+      }
+    ]
+  },
+  {
+    "fund_id": "FUND0081",
+    "fund_name": "Vasquez Inc基金",
+    "asset_allocation": {
+      "股票": 0.01,
+      "债券": 0.5,
+      "现金": 0.25,
+      "商品": 0.09,
+      "另类投资": 0.15000000000000002
+    },
+    "risk_factor": 0.321,
+    "holdings": [
+      {
+        "stock_symbol": "NLRP138",
+        "market_value": 13.86,
+        "weight_pct": 0.015
+      },
+      {
+        "stock_symbol": "KTYL720",
+        "market_value": 4.02,
+        "weight_pct": 0.147
+      },
+      {
+        "stock_symbol": "TGHX299",
+        "market_value": 13.08,
+        "weight_pct": 0.076
+      },
+      {
+        "stock_symbol": "TYLR660",
+        "market_value": 4.66,
+        "weight_pct": 0.114
+      },
+      {
+        "stock_symbol": "ENHV220",
+        "market_value": 7.31,
+        "weight_pct": 0.052
+      },
+      {
+        "stock_symbol": "ZPKD498",
+        "market_value": 13.46,
+        "weight_pct": 0.024
+      },
+      {
+        "stock_symbol": "NBKW278",
+        "market_value": 11.86,
+        "weight_pct": 0.122
+      },
+      {
+        "stock_symbol": "UDQI6",
+        "market_value": 4.6,
+        "weight_pct": 0.112
+      },
+      {
+        "stock_symbol": "SQTK105",
+        "market_value": 12.25,
+        "weight_pct": 0.09
+      },
+      {
+        "stock_symbol": "BUBC378",
+        "market_value": 1.75,
+        "weight_pct": 0.117
+      },
+      {
+        "stock_symbol": "XSAB360",
+        "market_value": 5.06,
+        "weight_pct": 0.071
+      },
+      {
+        "stock_symbol": "GBYO157",
+        "market_value": 15.17,
+        "weight_pct": 0.056
+      }
+    ]
+  },
+  {
+    "fund_id": "FUND0082",
+    "fund_name": "Jones-Drake基金",
+    "asset_allocation": {
+      "股票": 0.23,
+      "债券": 0.03,
+      "现金": 0.62,
+      "商品": 0.02,
+      "另类投资": 0.09999999999999998
+    },
+    "risk_factor": 0.231,
+    "holdings": [
+      {
+        "stock_symbol": "TAMG866",
+        "market_value": 14.32,
+        "weight_pct": 0.033
+      },
+      {
+        "stock_symbol": "WLBD193",
+        "market_value": 18.29,
+        "weight_pct": 0.022
+      },
+      {
+        "stock_symbol": "DNZD516",
+        "market_value": 4.54,
+        "weight_pct": 0.097
+      },
+      {
+        "stock_symbol": "ZWHR137",
+        "market_value": 18.12,
+        "weight_pct": 0.088
+      },
+      {
+        "stock_symbol": "ZSVJ401",
+        "market_value": 4.48,
+        "weight_pct": 0.053
+      },
+      {
+        "stock_symbol": "CFQI266",
+        "market_value": 2.35,
+        "weight_pct": 0.11
+      },
+      {
+        "stock_symbol": "NUHL334",
+        "market_value": 1.25,
+        "weight_pct": 0.024
+      },
+      {
+        "stock_symbol": "DEYG305",
+        "market_value": 2.87,
+        "weight_pct": 0.077
+      },
+      {
+        "stock_symbol": "KMUE10",
+        "market_value": 3.16,
+        "weight_pct": 0.018
+      },
+      {
+        "stock_symbol": "IQSU899",
+        "market_value": 2.71,
+        "weight_pct": 0.141
+      },
+      {
+        "stock_symbol": "FBXO39",
+        "market_value": 2.36,
+        "weight_pct": 0.125
+      },
+      {
+        "stock_symbol": "QLFP811",
+        "market_value": 4.65,
+        "weight_pct": 0.021
+      },
+      {
+        "stock_symbol": "UFSE899",
+        "market_value": 1.25,
+        "weight_pct": 0.055
+      }
+    ]
+  },
+  {
+    "fund_id": "FUND0083",
+    "fund_name": "Pacheco Ltd基金",
+    "asset_allocation": {
+      "股票": 0.09,
+      "债券": 0.23,
+      "现金": 0.28,
+      "商品": 0.39,
+      "另类投资": 0.009999999999999898
+    },
+    "risk_factor": 0.156,
+    "holdings": [
+      {
+        "stock_symbol": "SNCH53",
+        "market_value": 4.86,
+        "weight_pct": 0.049
+      },
+      {
+        "stock_symbol": "SEAJ539",
+        "market_value": 16.01,
+        "weight_pct": 0.136
+      },
+      {
+        "stock_symbol": "XTDN202",
+        "market_value": 8.25,
+        "weight_pct": 0.019
+      },
+      {
+        "stock_symbol": "IAGV332",
+        "market_value": 4.68,
+        "weight_pct": 0.13
+      },
+      {
+        "stock_symbol": "RQCJ755",
+        "market_value": 10.98,
+        "weight_pct": 0.022
+      },
+      {
+        "stock_symbol": "ZGUG171",
+        "market_value": 19.74,
+        "weight_pct": 0.114
+      },
+      {
+        "stock_symbol": "UCZC752",
+        "market_value": 19.05,
+        "weight_pct": 0.085
+      },
+      {
+        "stock_symbol": "KRJA571",
+        "market_value": 18.43,
+        "weight_pct": 0.011
+      },
+      {
+        "stock_symbol": "TIYO73",
+        "market_value": 14.67,
+        "weight_pct": 0.115
+      },
+      {
+        "stock_symbol": "QNXR215",
+        "market_value": 15.03,
+        "weight_pct": 0.046
+      }
+    ]
+  },
+  {
+    "fund_id": "FUND0084",
+    "fund_name": "Blair-Craig基金",
+    "asset_allocation": {
+      "股票": 0.11,
+      "债券": 0.27,
+      "现金": 0.02,
+      "商品": 0.3,
+      "另类投资": 0.30000000000000004
+    },
+    "risk_factor": 0.234,
+    "holdings": [
+      {
+        "stock_symbol": "JRLS937",
+        "market_value": 2.44,
+        "weight_pct": 0.094
+      },
+      {
+        "stock_symbol": "WXWE715",
+        "market_value": 9.83,
+        "weight_pct": 0.021
+      },
+      {
+        "stock_symbol": "PNBA950",
+        "market_value": 17.14,
+        "weight_pct": 0.021
+      },
+      {
+        "stock_symbol": "SKLQ769",
+        "market_value": 11.12,
+        "weight_pct": 0.051
+      },
+      {
+        "stock_symbol": "RWAE830",
+        "market_value": 2.74,
+        "weight_pct": 0.015
+      },
+      {
+        "stock_symbol": "PHKB559",
+        "market_value": 13.16,
+        "weight_pct": 0.149
+      },
+      {
+        "stock_symbol": "DOJP911",
+        "market_value": 16.64,
+        "weight_pct": 0.118
+      },
+      {
+        "stock_symbol": "YLTH171",
+        "market_value": 13.93,
+        "weight_pct": 0.112
+      },
+      {
+        "stock_symbol": "KBUZ838",
+        "market_value": 2.09,
+        "weight_pct": 0.141
+      },
+      {
+        "stock_symbol": "DKDR199",
+        "market_value": 0.97,
+        "weight_pct": 0.058
+      }
+    ]
+  },
+  {
+    "fund_id": "FUND0085",
+    "fund_name": "Mcintosh Inc基金",
+    "asset_allocation": {
+      "股票": 0.05,
+      "债券": 0.15,
+      "现金": 0.08,
+      "商品": 0.65,
+      "另类投资": 0.06999999999999995
+    },
+    "risk_factor": 0.238,
+    "holdings": [
+      {
+        "stock_symbol": "TGSR41",
+        "market_value": 7.91,
+        "weight_pct": 0.097
+      },
+      {
+        "stock_symbol": "WNCS291",
+        "market_value": 16.99,
+        "weight_pct": 0.065
+      },
+      {
+        "stock_symbol": "HHFI830",
+        "market_value": 11.86,
+        "weight_pct": 0.111
+      },
+      {
+        "stock_symbol": "IJZT481",
+        "market_value": 14.51,
+        "weight_pct": 0.079
+      },
+      {
+        "stock_symbol": "JMQD586",
+        "market_value": 19.82,
+        "weight_pct": 0.129
+      },
+      {
+        "stock_symbol": "KURC526",
+        "market_value": 15.5,
+        "weight_pct": 0.106
+      },
+      {
+        "stock_symbol": "PUDI178",
+        "market_value": 7.71,
+        "weight_pct": 0.086
+      },
+      {
+        "stock_symbol": "LUCZ464",
+        "market_value": 13.58,
+        "weight_pct": 0.091
+      },
+      {
+        "stock_symbol": "XFFX521",
+        "market_value": 19.76,
+        "weight_pct": 0.06
+      },
+      {
+        "stock_symbol": "ULXL75",
+        "market_value": 12.12,
+        "weight_pct": 0.138
+      }
+    ]
+  },
+  {
+    "fund_id": "FUND0086",
+    "fund_name": "Robinson LLC基金",
+    "asset_allocation": {
+      "股票": 0.02,
+      "债券": 0.57,
+      "现金": 0.19,
+      "商品": 0.16,
+      "另类投资": 0.05999999999999994
+    },
+    "risk_factor": 0.263,
+    "holdings": [
+      {
+        "stock_symbol": "JYCH486",
+        "market_value": 7.75,
+        "weight_pct": 0.083
+      },
+      {
+        "stock_symbol": "GYSY374",
+        "market_value": 18.65,
+        "weight_pct": 0.086
+      },
+      {
+        "stock_symbol": "JZQT693",
+        "market_value": 13.62,
+        "weight_pct": 0.101
+      },
+      {
+        "stock_symbol": "YTHT612",
+        "market_value": 10.81,
+        "weight_pct": 0.127
+      },
+      {
+        "stock_symbol": "YVJX344",
+        "market_value": 20.0,
+        "weight_pct": 0.053
+      },
+      {
+        "stock_symbol": "XEBI500",
+        "market_value": 8.75,
+        "weight_pct": 0.094
+      },
+      {
+        "stock_symbol": "WQRL12",
+        "market_value": 1.46,
+        "weight_pct": 0.124
+      },
+      {
+        "stock_symbol": "DHMY697",
+        "market_value": 5.13,
+        "weight_pct": 0.143
+      },
+      {
+        "stock_symbol": "NGQD539",
+        "market_value": 13.48,
+        "weight_pct": 0.015
+      },
+      {
+        "stock_symbol": "BXGL610",
+        "market_value": 0.89,
+        "weight_pct": 0.146
+      },
+      {
+        "stock_symbol": "ZDAK286",
+        "market_value": 17.83,
+        "weight_pct": 0.108
+      },
+      {
+        "stock_symbol": "EARM51",
+        "market_value": 12.53,
+        "weight_pct": 0.048
+      },
+      {
+        "stock_symbol": "LXCT211",
+        "market_value": 2.07,
+        "weight_pct": 0.119
+      }
+    ]
+  },
+  {
+    "fund_id": "FUND0087",
+    "fund_name": "Scott-Ellis基金",
+    "asset_allocation": {
+      "股票": 0.09,
+      "债券": 0.48,
+      "现金": 0.04,
+      "商品": 0.02,
+      "另类投资": 0.37
+    },
+    "risk_factor": 0.292,
+    "holdings": [
+      {
+        "stock_symbol": "XXRT103",
+        "market_value": 16.96,
+        "weight_pct": 0.089
+      },
+      {
+        "stock_symbol": "WLPI67",
+        "market_value": 10.9,
+        "weight_pct": 0.129
+      },
+      {
+        "stock_symbol": "JRJH57",
+        "market_value": 14.35,
+        "weight_pct": 0.032
+      },
+      {
+        "stock_symbol": "VILK225",
+        "market_value": 11.24,
+        "weight_pct": 0.068
+      },
+      {
+        "stock_symbol": "YOED944",
+        "market_value": 8.51,
+        "weight_pct": 0.068
+      },
+      {
+        "stock_symbol": "KRMN23",
+        "market_value": 6.4,
+        "weight_pct": 0.103
+      },
+      {
+        "stock_symbol": "XPXB752",
+        "market_value": 0.72,
+        "weight_pct": 0.102
+      },
+      {
+        "stock_symbol": "FPCI224",
+        "market_value": 8.98,
+        "weight_pct": 0.043
+      },
+      {
+        "stock_symbol": "NOED371",
+        "market_value": 14.41,
+        "weight_pct": 0.143
+      },
+      {
+        "stock_symbol": "TXVF480",
+        "market_value": 16.55,
+        "weight_pct": 0.014
+      },
+      {
+        "stock_symbol": "YMYX583",
+        "market_value": 19.23,
+        "weight_pct": 0.026
+      }
+    ]
+  },
+  {
+    "fund_id": "FUND0088",
+    "fund_name": "Anderson-Williams基金",
+    "asset_allocation": {
+      "股票": 0.03,
+      "债券": 0.16,
+      "现金": 0.0,
+      "商品": 0.34,
+      "另类投资": 0.47
+    },
+    "risk_factor": 0.283,
+    "holdings": [
+      {
+        "stock_symbol": "NBBK774",
+        "market_value": 2.26,
+        "weight_pct": 0.062
+      },
+      {
+        "stock_symbol": "YEVM764",
+        "market_value": 15.29,
+        "weight_pct": 0.094
+      },
+      {
+        "stock_symbol": "EBGL948",
+        "market_value": 19.02,
+        "weight_pct": 0.032
+      },
+      {
+        "stock_symbol": "YMXL535",
+        "market_value": 7.92,
+        "weight_pct": 0.123
+      },
+      {
+        "stock_symbol": "BXQT852",
+        "market_value": 3.06,
+        "weight_pct": 0.122
+      },
+      {
+        "stock_symbol": "IOLL600",
+        "market_value": 11.91,
+        "weight_pct": 0.119
+      },
+      {
+        "stock_symbol": "TLLP501",
+        "market_value": 15.49,
+        "weight_pct": 0.108
+      },
+      {
+        "stock_symbol": "FWYK527",
+        "market_value": 1.53,
+        "weight_pct": 0.104
+      },
+      {
+        "stock_symbol": "MICT469",
+        "market_value": 3.9,
+        "weight_pct": 0.013
+      },
+      {
+        "stock_symbol": "ATQI465",
+        "market_value": 10.11,
+        "weight_pct": 0.017
+      },
+      {
+        "stock_symbol": "VHCG514",
+        "market_value": 3.92,
+        "weight_pct": 0.039
+      },
+      {
+        "stock_symbol": "JNBP595",
+        "market_value": 13.4,
+        "weight_pct": 0.114
+      },
+      {
+        "stock_symbol": "DCNM999",
+        "market_value": 10.67,
+        "weight_pct": 0.016
+      }
+    ]
+  },
+  {
+    "fund_id": "FUND0089",
+    "fund_name": "Jones-Lawson基金",
+    "asset_allocation": {
+      "股票": 0.04,
+      "债券": 0.03,
+      "现金": 0.21,
+      "商品": 0.26,
+      "另类投资": 0.45999999999999996
+    },
+    "risk_factor": 0.256,
+    "holdings": [
+      {
+        "stock_symbol": "HGWB870",
+        "market_value": 4.48,
+        "weight_pct": 0.046
+      },
+      {
+        "stock_symbol": "JGNY387",
+        "market_value": 19.97,
+        "weight_pct": 0.141
+      },
+      {
+        "stock_symbol": "KCCY387",
+        "market_value": 13.23,
+        "weight_pct": 0.099
+      },
+      {
+        "stock_symbol": "MKKG66",
+        "market_value": 13.86,
+        "weight_pct": 0.121
+      },
+      {
+        "stock_symbol": "OHXA379",
+        "market_value": 4.37,
+        "weight_pct": 0.145
+      },
+      {
+        "stock_symbol": "HRBD842",
+        "market_value": 19.31,
+        "weight_pct": 0.125
+      },
+      {
+        "stock_symbol": "DAWS108",
+        "market_value": 3.99,
+        "weight_pct": 0.065
+      },
+      {
+        "stock_symbol": "TEYT183",
+        "market_value": 5.73,
+        "weight_pct": 0.103
+      },
+      {
+        "stock_symbol": "PEYS722",
+        "market_value": 7.52,
+        "weight_pct": 0.024
+      },
+      {
+        "stock_symbol": "NNPA843",
+        "market_value": 4.07,
+        "weight_pct": 0.09
+      },
+      {
+        "stock_symbol": "WMZV620",
+        "market_value": 18.75,
+        "weight_pct": 0.091
+      },
+      {
+        "stock_symbol": "OFCT403",
+        "market_value": 19.52,
+        "weight_pct": 0.137
+      },
+      {
+        "stock_symbol": "KQVC918",
+        "market_value": 12.25,
+        "weight_pct": 0.149
+      },
+      {
+        "stock_symbol": "ANNB615",
+        "market_value": 3.09,
+        "weight_pct": 0.044
+      },
+      {
+        "stock_symbol": "DWEJ392",
+        "market_value": 5.58,
+        "weight_pct": 0.091
+      }
+    ]
+  },
+  {
+    "fund_id": "FUND0090",
+    "fund_name": "Dunn-Shields基金",
+    "asset_allocation": {
+      "股票": 0.24,
+      "债券": 0.16,
+      "现金": 0.09,
+      "商品": 0.4,
+      "另类投资": 0.10999999999999999
+    },
+    "risk_factor": 0.465,
+    "holdings": [
+      {
+        "stock_symbol": "UFSA736",
+        "market_value": 11.54,
+        "weight_pct": 0.035
+      },
+      {
+        "stock_symbol": "DVDW129",
+        "market_value": 18.7,
+        "weight_pct": 0.084
+      },
+      {
+        "stock_symbol": "NFIZ608",
+        "market_value": 18.87,
+        "weight_pct": 0.036
+      },
+      {
+        "stock_symbol": "DJBN296",
+        "market_value": 10.7,
+        "weight_pct": 0.062
+      },
+      {
+        "stock_symbol": "ZWTI339",
+        "market_value": 6.46,
+        "weight_pct": 0.033
+      },
+      {
+        "stock_symbol": "LRJC100",
+        "market_value": 1.8,
+        "weight_pct": 0.115
+      },
+      {
+        "stock_symbol": "OVCY237",
+        "market_value": 10.89,
+        "weight_pct": 0.128
+      },
+      {
+        "stock_symbol": "OFQM681",
+        "market_value": 2.32,
+        "weight_pct": 0.118
+      },
+      {
+        "stock_symbol": "WPEZ663",
+        "market_value": 5.5,
+        "weight_pct": 0.066
+      },
+      {
+        "stock_symbol": "DJEZ803",
+        "market_value": 15.78,
+        "weight_pct": 0.057
+      }
+    ]
+  },
+  {
+    "fund_id": "FUND0091",
+    "fund_name": "Dennis, Hansen and Marks基金",
+    "asset_allocation": {
+      "股票": 0.02,
+      "债券": 0.11,
+      "现金": 0.53,
+      "商品": 0.05,
+      "另类投资": 0.2899999999999999
+    },
+    "risk_factor": 0.101,
+    "holdings": [
+      {
+        "stock_symbol": "QXGM531",
+        "market_value": 13.33,
+        "weight_pct": 0.078
+      },
+      {
+        "stock_symbol": "VSHD220",
+        "market_value": 4.88,
+        "weight_pct": 0.051
+      },
+      {
+        "stock_symbol": "CMCM460",
+        "market_value": 11.19,
+        "weight_pct": 0.045
+      },
+      {
+        "stock_symbol": "WVLZ635",
+        "market_value": 7.29,
+        "weight_pct": 0.037
+      },
+      {
+        "stock_symbol": "MTGS657",
+        "market_value": 4.63,
+        "weight_pct": 0.136
+      },
+      {
+        "stock_symbol": "SVDT757",
+        "market_value": 11.69,
+        "weight_pct": 0.15
+      },
+      {
+        "stock_symbol": "JSIR537",
+        "market_value": 6.89,
+        "weight_pct": 0.132
+      },
+      {
+        "stock_symbol": "DESO165",
+        "market_value": 13.17,
+        "weight_pct": 0.037
+      },
+      {
+        "stock_symbol": "ILIC106",
+        "market_value": 12.77,
+        "weight_pct": 0.093
+      },
+      {
+        "stock_symbol": "SVJJ611",
+        "market_value": 7.0,
+        "weight_pct": 0.1
+      },
+      {
+        "stock_symbol": "PKTN403",
+        "market_value": 13.01,
+        "weight_pct": 0.073
+      },
+      {
+        "stock_symbol": "WRHA777",
+        "market_value": 4.73,
+        "weight_pct": 0.029
+      },
+      {
+        "stock_symbol": "VZAT569",
+        "market_value": 3.85,
+        "weight_pct": 0.149
+      },
+      {
+        "stock_symbol": "NRGX997",
+        "market_value": 10.41,
+        "weight_pct": 0.022
+      },
+      {
+        "stock_symbol": "KEWZ624",
+        "market_value": 15.26,
+        "weight_pct": 0.091
+      }
+    ]
+  },
+  {
+    "fund_id": "FUND0092",
+    "fund_name": "Reynolds-Peterson基金",
+    "asset_allocation": {
+      "股票": 0.44,
+      "债券": 0.03,
+      "现金": 0.05,
+      "商品": 0.4,
+      "另类投资": 0.07999999999999996
+    },
+    "risk_factor": 0.44,
+    "holdings": [
+      {
+        "stock_symbol": "CCDX415",
+        "market_value": 19.21,
+        "weight_pct": 0.115
+      },
+      {
+        "stock_symbol": "XONR622",
+        "market_value": 14.6,
+        "weight_pct": 0.016
+      },
+      {
+        "stock_symbol": "XPGI36",
+        "market_value": 1.65,
+        "weight_pct": 0.067
+      },
+      {
+        "stock_symbol": "CZFN714",
+        "market_value": 16.42,
+        "weight_pct": 0.067
+      },
+      {
+        "stock_symbol": "UVTO126",
+        "market_value": 13.12,
+        "weight_pct": 0.061
+      },
+      {
+        "stock_symbol": "ZEMM761",
+        "market_value": 10.48,
+        "weight_pct": 0.031
+      },
+      {
+        "stock_symbol": "SLGG120",
+        "market_value": 8.79,
+        "weight_pct": 0.125
+      },
+      {
+        "stock_symbol": "YVGT624",
+        "market_value": 19.16,
+        "weight_pct": 0.13
+      },
+      {
+        "stock_symbol": "SDEP636",
+        "market_value": 2.14,
+        "weight_pct": 0.098
+      },
+      {
+        "stock_symbol": "BZPQ61",
+        "market_value": 5.11,
+        "weight_pct": 0.044
+      },
+      {
+        "stock_symbol": "YDIL964",
+        "market_value": 12.48,
+        "weight_pct": 0.142
+      },
+      {
+        "stock_symbol": "UQCV678",
+        "market_value": 8.18,
+        "weight_pct": 0.015
+      }
+    ]
+  },
+  {
+    "fund_id": "FUND0093",
+    "fund_name": "Castillo-Lowe基金",
+    "asset_allocation": {
+      "股票": 0.02,
+      "债券": 0.24,
+      "现金": 0.31,
+      "商品": 0.4,
+      "另类投资": 0.029999999999999916
+    },
+    "risk_factor": 0.329,
+    "holdings": [
+      {
+        "stock_symbol": "OEPX281",
+        "market_value": 19.28,
+        "weight_pct": 0.094
+      },
+      {
+        "stock_symbol": "VEQI821",
+        "market_value": 12.59,
+        "weight_pct": 0.129
+      },
+      {
+        "stock_symbol": "CMIV165",
+        "market_value": 16.12,
+        "weight_pct": 0.04
+      },
+      {
+        "stock_symbol": "OJPC736",
+        "market_value": 17.29,
+        "weight_pct": 0.143
+      },
+      {
+        "stock_symbol": "VZJW475",
+        "market_value": 16.16,
+        "weight_pct": 0.062
+      },
+      {
+        "stock_symbol": "PUMJ487",
+        "market_value": 4.77,
+        "weight_pct": 0.122
+      },
+      {
+        "stock_symbol": "ITKR7",
+        "market_value": 10.29,
+        "weight_pct": 0.052
+      },
+      {
+        "stock_symbol": "TUJT625",
+        "market_value": 2.59,
+        "weight_pct": 0.111
+      },
+      {
+        "stock_symbol": "MTKL970",
+        "market_value": 16.87,
+        "weight_pct": 0.025
+      },
+      {
+        "stock_symbol": "ZHRG552",
+        "market_value": 4.64,
+        "weight_pct": 0.108
+      },
+      {
+        "stock_symbol": "CWMY896",
+        "market_value": 13.12,
+        "weight_pct": 0.131
+      }
+    ]
+  },
+  {
+    "fund_id": "FUND0094",
+    "fund_name": "Strickland, Carson and Cook基金",
+    "asset_allocation": {
+      "股票": 0.09,
+      "债券": 0.02,
+      "现金": 0.2,
+      "商品": 0.43,
+      "另类投资": 0.26
+    },
+    "risk_factor": 0.404,
+    "holdings": [
+      {
+        "stock_symbol": "KEBR272",
+        "market_value": 2.86,
+        "weight_pct": 0.149
+      },
+      {
+        "stock_symbol": "JCMB909",
+        "market_value": 9.61,
+        "weight_pct": 0.108
+      },
+      {
+        "stock_symbol": "DXTN217",
+        "market_value": 18.83,
+        "weight_pct": 0.128
+      },
+      {
+        "stock_symbol": "XCNU735",
+        "market_value": 7.92,
+        "weight_pct": 0.034
+      },
+      {
+        "stock_symbol": "KIPB465",
+        "market_value": 8.76,
+        "weight_pct": 0.147
+      },
+      {
+        "stock_symbol": "FQKP127",
+        "market_value": 4.52,
+        "weight_pct": 0.103
+      },
+      {
+        "stock_symbol": "DMSB404",
+        "market_value": 11.35,
+        "weight_pct": 0.148
+      },
+      {
+        "stock_symbol": "FHEQ120",
+        "market_value": 14.91,
+        "weight_pct": 0.085
+      },
+      {
+        "stock_symbol": "RADO564",
+        "market_value": 15.78,
+        "weight_pct": 0.076
+      },
+      {
+        "stock_symbol": "LYHV759",
+        "market_value": 9.17,
+        "weight_pct": 0.142
+      }
+    ]
+  },
+  {
+    "fund_id": "FUND0095",
+    "fund_name": "Garcia LLC基金",
+    "asset_allocation": {
+      "股票": 0.25,
+      "债券": 0.26,
+      "现金": 0.3,
+      "商品": 0.17,
+      "另类投资": 0.019999999999999907
+    },
+    "risk_factor": 0.37,
+    "holdings": [
+      {
+        "stock_symbol": "YUOH966",
+        "market_value": 1.2,
+        "weight_pct": 0.129
+      },
+      {
+        "stock_symbol": "HTJB974",
+        "market_value": 7.65,
+        "weight_pct": 0.04
+      },
+      {
+        "stock_symbol": "PRLD744",
+        "market_value": 5.19,
+        "weight_pct": 0.024
+      },
+      {
+        "stock_symbol": "RHIX408",
+        "market_value": 13.87,
+        "weight_pct": 0.098
+      },
+      {
+        "stock_symbol": "DSPP357",
+        "market_value": 9.8,
+        "weight_pct": 0.055
+      },
+      {
+        "stock_symbol": "KQXR488",
+        "market_value": 12.37,
+        "weight_pct": 0.08
+      },
+      {
+        "stock_symbol": "CFJR98",
+        "market_value": 18.21,
+        "weight_pct": 0.091
+      },
+      {
+        "stock_symbol": "FVHN87",
+        "market_value": 4.81,
+        "weight_pct": 0.113
+      },
+      {
+        "stock_symbol": "RIHD566",
+        "market_value": 10.16,
+        "weight_pct": 0.103
+      },
+      {
+        "stock_symbol": "PESM888",
+        "market_value": 4.5,
+        "weight_pct": 0.054
+      },
+      {
+        "stock_symbol": "CSGC867",
+        "market_value": 10.22,
+        "weight_pct": 0.12
+      },
+      {
+        "stock_symbol": "ZDLN701",
+        "market_value": 9.05,
+        "weight_pct": 0.034
+      },
+      {
+        "stock_symbol": "RRBD579",
+        "market_value": 16.45,
+        "weight_pct": 0.023
+      },
+      {
+        "stock_symbol": "XBRM31",
+        "market_value": 13.25,
+        "weight_pct": 0.146
+      }
+    ]
+  },
+  {
+    "fund_id": "FUND0096",
+    "fund_name": "Pennington, Williams and Alexander基金",
+    "asset_allocation": {
+      "股票": 0.13,
+      "债券": 0.23,
+      "现金": 0.38,
+      "商品": 0.21,
+      "另类投资": 0.050000000000000044
+    },
+    "risk_factor": 0.125,
+    "holdings": [
+      {
+        "stock_symbol": "YYWY283",
+        "market_value": 11.64,
+        "weight_pct": 0.085
+      },
+      {
+        "stock_symbol": "LXZS210",
+        "market_value": 13.57,
+        "weight_pct": 0.126
+      },
+      {
+        "stock_symbol": "VXMK941",
+        "market_value": 19.65,
+        "weight_pct": 0.04
+      },
+      {
+        "stock_symbol": "HEUA163",
+        "market_value": 12.96,
+        "weight_pct": 0.1
+      },
+      {
+        "stock_symbol": "VXBK629",
+        "market_value": 16.96,
+        "weight_pct": 0.12
+      },
+      {
+        "stock_symbol": "APVC402",
+        "market_value": 11.64,
+        "weight_pct": 0.092
+      },
+      {
+        "stock_symbol": "KWSY400",
+        "market_value": 6.75,
+        "weight_pct": 0.13
+      },
+      {
+        "stock_symbol": "TFFJ391",
+        "market_value": 10.33,
+        "weight_pct": 0.07
+      },
+      {
+        "stock_symbol": "IIBV86",
+        "market_value": 3.76,
+        "weight_pct": 0.058
+      },
+      {
+        "stock_symbol": "UZMR992",
+        "market_value": 15.24,
+        "weight_pct": 0.114
+      }
+    ]
+  },
+  {
+    "fund_id": "FUND0097",
+    "fund_name": "Stephens-Miller基金",
+    "asset_allocation": {
+      "股票": 0.17,
+      "债券": 0.13,
+      "现金": 0.33,
+      "商品": 0.34,
+      "另类投资": 0.029999999999999805
+    },
+    "risk_factor": 0.214,
+    "holdings": [
+      {
+        "stock_symbol": "JCZM96",
+        "market_value": 3.16,
+        "weight_pct": 0.014
+      },
+      {
+        "stock_symbol": "BBBP17",
+        "market_value": 16.72,
+        "weight_pct": 0.145
+      },
+      {
+        "stock_symbol": "SKNM291",
+        "market_value": 5.05,
+        "weight_pct": 0.068
+      },
+      {
+        "stock_symbol": "AZYB676",
+        "market_value": 19.55,
+        "weight_pct": 0.029
+      },
+      {
+        "stock_symbol": "LHCV852",
+        "market_value": 17.9,
+        "weight_pct": 0.066
+      },
+      {
+        "stock_symbol": "OLOQ130",
+        "market_value": 14.91,
+        "weight_pct": 0.093
+      },
+      {
+        "stock_symbol": "HHFU538",
+        "market_value": 17.06,
+        "weight_pct": 0.05
+      },
+      {
+        "stock_symbol": "PUSQ200",
+        "market_value": 2.51,
+        "weight_pct": 0.128
+      },
+      {
+        "stock_symbol": "OCHH382",
+        "market_value": 10.52,
+        "weight_pct": 0.062
+      },
+      {
+        "stock_symbol": "ABEV788",
+        "market_value": 16.85,
+        "weight_pct": 0.136
+      },
+      {
+        "stock_symbol": "TKEW45",
+        "market_value": 7.04,
+        "weight_pct": 0.05
+      }
+    ]
+  },
+  {
+    "fund_id": "FUND0098",
+    "fund_name": "Shepherd-Alexander基金",
+    "asset_allocation": {
+      "股票": 0.07,
+      "债券": 0.03,
+      "现金": 0.01,
+      "商品": 0.66,
+      "另类投资": 0.22999999999999998
+    },
+    "risk_factor": 0.273,
+    "holdings": [
+      {
+        "stock_symbol": "ZEEP823",
+        "market_value": 16.73,
+        "weight_pct": 0.046
+      },
+      {
+        "stock_symbol": "JKJU189",
+        "market_value": 1.01,
+        "weight_pct": 0.031
+      },
+      {
+        "stock_symbol": "MIMC845",
+        "market_value": 7.41,
+        "weight_pct": 0.094
+      },
+      {
+        "stock_symbol": "FVOT330",
+        "market_value": 6.97,
+        "weight_pct": 0.109
+      },
+      {
+        "stock_symbol": "YYWB875",
+        "market_value": 13.64,
+        "weight_pct": 0.113
+      },
+      {
+        "stock_symbol": "BMLO114",
+        "market_value": 8.81,
+        "weight_pct": 0.067
+      },
+      {
+        "stock_symbol": "RIER768",
+        "market_value": 8.26,
+        "weight_pct": 0.14
+      },
+      {
+        "stock_symbol": "MQIZ827",
+        "market_value": 13.28,
+        "weight_pct": 0.113
+      },
+      {
+        "stock_symbol": "VDZR537",
+        "market_value": 16.74,
+        "weight_pct": 0.126
+      },
+      {
+        "stock_symbol": "IUQU598",
+        "market_value": 2.17,
+        "weight_pct": 0.047
+      },
+      {
+        "stock_symbol": "BOIO332",
+        "market_value": 13.19,
+        "weight_pct": 0.028
+      },
+      {
+        "stock_symbol": "ENLJ213",
+        "market_value": 15.36,
+        "weight_pct": 0.031
+      },
+      {
+        "stock_symbol": "CUWS627",
+        "market_value": 19.17,
+        "weight_pct": 0.143
+      }
+    ]
+  },
+  {
+    "fund_id": "FUND0099",
+    "fund_name": "Parsons-Nguyen基金",
+    "asset_allocation": {
+      "股票": 0.44,
+      "债券": 0.03,
+      "现金": 0.05,
+      "商品": 0.04,
+      "另类投资": 0.43999999999999995
+    },
+    "risk_factor": 0.322,
+    "holdings": [
+      {
+        "stock_symbol": "LMNH491",
+        "market_value": 5.74,
+        "weight_pct": 0.098
+      },
+      {
+        "stock_symbol": "QNHX382",
+        "market_value": 5.78,
+        "weight_pct": 0.067
+      },
+      {
+        "stock_symbol": "EUAJ774",
+        "market_value": 14.62,
+        "weight_pct": 0.138
+      },
+      {
+        "stock_symbol": "VVYZ395",
+        "market_value": 16.26,
+        "weight_pct": 0.071
+      },
+      {
+        "stock_symbol": "PITE757",
+        "market_value": 13.02,
+        "weight_pct": 0.11
+      },
+      {
+        "stock_symbol": "WPQQ984",
+        "market_value": 17.33,
+        "weight_pct": 0.045
+      },
+      {
+        "stock_symbol": "CSPE396",
+        "market_value": 13.3,
+        "weight_pct": 0.076
+      },
+      {
+        "stock_symbol": "GIEX611",
+        "market_value": 7.3,
+        "weight_pct": 0.111
+      },
+      {
+        "stock_symbol": "GHXE223",
+        "market_value": 3.49,
+        "weight_pct": 0.143
+      },
+      {
+        "stock_symbol": "RGIL818",
+        "market_value": 18.42,
+        "weight_pct": 0.111
+      },
+      {
+        "stock_symbol": "PFMT628",
+        "market_value": 16.0,
+        "weight_pct": 0.051
+      },
+      {
+        "stock_symbol": "FZDN247",
+        "market_value": 3.11,
+        "weight_pct": 0.133
+      },
+      {
+        "stock_symbol": "XZOL372",
+        "market_value": 2.87,
+        "weight_pct": 0.088
+      },
+      {
+        "stock_symbol": "DZHH57",
+        "market_value": 15.72,
+        "weight_pct": 0.121
+      },
+      {
+        "stock_symbol": "TDDG369",
+        "market_value": 15.73,
+        "weight_pct": 0.077
+      }
+    ]
+  },
+  {
+    "fund_id": "FUND0100",
+    "fund_name": "Booker and Sons基金",
+    "asset_allocation": {
+      "股票": 0.05,
+      "债券": 0.38,
+      "现金": 0.28,
+      "商品": 0.28,
+      "另类投资": 0.010000000000000009
+    },
+    "risk_factor": 0.461,
+    "holdings": [
+      {
+        "stock_symbol": "ANUQ724",
+        "market_value": 4.99,
+        "weight_pct": 0.063
+      },
+      {
+        "stock_symbol": "XIVP644",
+        "market_value": 10.98,
+        "weight_pct": 0.118
+      },
+      {
+        "stock_symbol": "IQXF748",
+        "market_value": 15.04,
+        "weight_pct": 0.114
+      },
+      {
+        "stock_symbol": "IRWW154",
+        "market_value": 18.91,
+        "weight_pct": 0.059
+      },
+      {
+        "stock_symbol": "XFBT838",
+        "market_value": 11.31,
+        "weight_pct": 0.097
+      },
+      {
+        "stock_symbol": "SXJH239",
+        "market_value": 1.06,
+        "weight_pct": 0.12
+      },
+      {
+        "stock_symbol": "WFEQ684",
+        "market_value": 13.36,
+        "weight_pct": 0.133
+      },
+      {
+        "stock_symbol": "AMEX33",
+        "market_value": 12.39,
+        "weight_pct": 0.149
+      },
+      {
+        "stock_symbol": "HPLP29",
+        "market_value": 17.6,
+        "weight_pct": 0.139
+      },
+      {
+        "stock_symbol": "FKHC247",
+        "market_value": 3.01,
+        "weight_pct": 0.102
+      },
+      {
+        "stock_symbol": "QGJF850",
+        "market_value": 2.57,
+        "weight_pct": 0.048
+      },
+      {
+        "stock_symbol": "QVQF100",
+        "market_value": 12.92,
+        "weight_pct": 0.092
+      },
+      {
+        "stock_symbol": "ZHEV143",
+        "market_value": 3.91,
+        "weight_pct": 0.087
+      },
+      {
+        "stock_symbol": "AUXS525",
+        "market_value": 15.96,
+        "weight_pct": 0.072
+      }
+    ]
+  }
+]

@@ -1,0 +1,21 @@
+{
+    "goal": "分析余懿接管华商乐享互联基金以来的回报率变化及其影响因素。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 自余懿于2022年9月接管华商乐享互联基金以来，基金回报率保持在13.08%，年化回报达到31.47%。",
+        "Comparison: 华商乐享互联基金的年化回报31.47%在同类基金中排名前2.12%，显示出其优于市场的表现。",
+        "Extreme: 2019年，华商乐享互联基金的全年收益率达到84.18%，为历史最高点。",
+        "Attribution: 余懿的投资风格注重平衡，强调风险与收益的平衡，这一策略帮助基金在市场波动中保持稳定收益。"
+    ],
+    "summary": "本报告分析了华商基金余懿的投资风格，强调其在投资中注重平衡，兼顾逆向和景气的机会，展现出优异的业绩表现和风险控制能力。",
+    "flag_id": "flag-79",
+    "classifier": "Fund Analysis",
+    "classifier_cn": "基金分析",
+    "input_files": [
+        "output/background.txt",
+        "output/dimension_data.db",
+        "output/fact_table.csv",
+        "output/fund_profiles.json",
+        "output/manager_profiles.json"
+    ]
+}

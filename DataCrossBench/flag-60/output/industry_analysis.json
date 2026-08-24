@@ -1,0 +1,345 @@
+[
+  {
+    "analysis_id": 1,
+    "index_name": "生物科技",
+    "index_change": -0.026977190347756908,
+    "analysis_date": "2017-01-01",
+    "related_insights": []
+  },
+  {
+    "analysis_id": 2,
+    "index_name": "医药生物",
+    "index_change": -0.02351522096684717,
+    "analysis_date": "2017-04-01",
+    "related_insights": []
+  },
+  {
+    "analysis_id": 3,
+    "index_name": "医药生物",
+    "index_change": -0.029586580363377947,
+    "analysis_date": "2017-06-30",
+    "related_insights": []
+  },
+  {
+    "analysis_id": 4,
+    "index_name": "医药生物",
+    "index_change": -0.012083652816461525,
+    "analysis_date": "2017-09-28",
+    "related_insights": []
+  },
+  {
+    "analysis_id": 5,
+    "index_name": "医疗器械",
+    "index_change": -0.02066366759631445,
+    "analysis_date": "2017-12-27",
+    "related_insights": [
+      {
+        "insight_id": 12,
+        "insight_description": "AI促进医疗器械创新，降本增效显著",
+        "related_strategy_id": 53,
+        "is_key_insight": true
+      },
+      {
+        "insight_id": 15,
+        "insight_description": "AI促进医疗器械创新，降本增效显著",
+        "related_strategy_id": 45,
+        "is_key_insight": false
+      },
+      {
+        "insight_id": 17,
+        "insight_description": "AI促进医疗器械创新，降本增效显著",
+        "related_strategy_id": 26,
+        "is_key_insight": false
+      }
+    ]
+  },
+  {
+    "analysis_id": 6,
+    "index_name": "康复器械",
+    "index_change": -0.011784859370570461,
+    "analysis_date": "2018-03-27",
+    "related_insights": []
+  },
+  {
+    "analysis_id": 7,
+    "index_name": "医药生物",
+    "index_change": -0.00907796653792063,
+    "analysis_date": "2018-06-25",
+    "related_insights": []
+  },
+  {
+    "analysis_id": 8,
+    "index_name": "医疗器械",
+    "index_change": -0.04304323564086647,
+    "analysis_date": "2018-09-23",
+    "related_insights": [
+      {
+        "insight_id": 12,
+        "insight_description": "AI促进医疗器械创新，降本增效显著",
+        "related_strategy_id": 53,
+        "is_key_insight": true
+      },
+      {
+        "insight_id": 15,
+        "insight_description": "AI促进医疗器械创新，降本增效显著",
+        "related_strategy_id": 45,
+        "is_key_insight": false
+      },
+      {
+        "insight_id": 17,
+        "insight_description": "AI促进医疗器械创新，降本增效显著",
+        "related_strategy_id": 26,
+        "is_key_insight": false
+      }
+    ]
+  },
+  {
+    "analysis_id": 9,
+    "index_name": "中药",
+    "index_change": -0.029005222108341028,
+    "analysis_date": "2018-12-22",
+    "related_insights": []
+  },
+  {
+    "analysis_id": 10,
+    "index_name": "医疗器械",
+    "index_change": -0.027540292936405437,
+    "analysis_date": "2019-03-22",
+    "related_insights": [
+      {
+        "insight_id": 12,
+        "insight_description": "AI促进医疗器械创新，降本增效显著",
+        "related_strategy_id": 53,
+        "is_key_insight": true
+      },
+      {
+        "insight_id": 15,
+        "insight_description": "AI促进医疗器械创新，降本增效显著",
+        "related_strategy_id": 45,
+        "is_key_insight": false
+      },
+      {
+        "insight_id": 17,
+        "insight_description": "AI促进医疗器械创新，降本增效显著",
+        "related_strategy_id": 26,
+        "is_key_insight": false
+      }
+    ]
+  },
+  {
+    "analysis_id": 11,
+    "index_name": "医药生物",
+    "index_change": 0.004413723596887832,
+    "analysis_date": "2019-06-20",
+    "related_insights": []
+  },
+  {
+    "analysis_id": 12,
+    "index_name": "医药生物",
+    "index_change": -0.019809946330996756,
+    "analysis_date": "2019-09-18",
+    "related_insights": []
+  },
+  {
+    "analysis_id": 13,
+    "index_name": "医药生物",
+    "index_change": -0.013174394036369358,
+    "analysis_date": "2019-12-17",
+    "related_insights": []
+  },
+  {
+    "analysis_id": 14,
+    "index_name": "医药生物",
+    "index_change": -0.04010691769274512,
+    "analysis_date": "2020-03-16",
+    "related_insights": []
+  },
+  {
+    "analysis_id": 15,
+    "index_name": "医药生物",
+    "index_change": -0.04470158435959809,
+    "analysis_date": "2020-06-14",
+    "related_insights": []
+  },
+  {
+    "analysis_id": 16,
+    "index_name": "生物科技",
+    "index_change": -0.011517070178837423,
+    "analysis_date": "2020-09-12",
+    "related_insights": []
+  },
+  {
+    "analysis_id": 17,
+    "index_name": "医药生物",
+    "index_change": -0.012680349149398439,
+    "analysis_date": "2020-12-11",
+    "related_insights": []
+  },
+  {
+    "analysis_id": 18,
+    "index_name": "医药生物",
+    "index_change": -0.015066005610836482,
+    "analysis_date": "2021-03-11",
+    "related_insights": []
+  },
+  {
+    "analysis_id": 19,
+    "index_name": "医疗器械",
+    "index_change": -0.021169994935048744,
+    "analysis_date": "2021-06-09",
+    "related_insights": [
+      {
+        "insight_id": 12,
+        "insight_description": "AI促进医疗器械创新，降本增效显著",
+        "related_strategy_id": 53,
+        "is_key_insight": true
+      },
+      {
+        "insight_id": 15,
+        "insight_description": "AI促进医疗器械创新，降本增效显著",
+        "related_strategy_id": 45,
+        "is_key_insight": false
+      },
+      {
+        "insight_id": 17,
+        "insight_description": "AI促进医疗器械创新，降本增效显著",
+        "related_strategy_id": 26,
+        "is_key_insight": false
+      }
+    ]
+  },
+  {
+    "analysis_id": 20,
+    "index_name": "医药生物",
+    "index_change": -0.02068431379374549,
+    "analysis_date": "2021-09-07",
+    "related_insights": []
+  },
+  {
+    "analysis_id": 21,
+    "index_name": "生物科技",
+    "index_change": null,
+    "analysis_date": "2021-12-06",
+    "related_insights": []
+  },
+  {
+    "analysis_id": 22,
+    "index_name": "医疗器械",
+    "index_change": -0.030305328851871434,
+    "analysis_date": "2022-03-06",
+    "related_insights": [
+      {
+        "insight_id": 12,
+        "insight_description": "AI促进医疗器械创新，降本增效显著",
+        "related_strategy_id": 53,
+        "is_key_insight": true
+      },
+      {
+        "insight_id": 15,
+        "insight_description": "AI促进医疗器械创新，降本增效显著",
+        "related_strategy_id": 45,
+        "is_key_insight": false
+      },
+      {
+        "insight_id": 17,
+        "insight_description": "AI促进医疗器械创新，降本增效显著",
+        "related_strategy_id": 26,
+        "is_key_insight": false
+      }
+    ]
+  },
+  {
+    "analysis_id": 23,
+    "index_name": "医药生物",
+    "index_change": -0.018990560436118364,
+    "analysis_date": "2022-06-04",
+    "related_insights": []
+  },
+  {
+    "analysis_id": 24,
+    "index_name": "生物科技",
+    "index_change": -0.028459758069262056,
+    "analysis_date": "2022-09-02",
+    "related_insights": []
+  },
+  {
+    "analysis_id": 25,
+    "index_name": "医疗器械",
+    "index_change": -0.014411617529672151,
+    "analysis_date": "2022-12-01",
+    "related_insights": [
+      {
+        "insight_id": 12,
+        "insight_description": "AI促进医疗器械创新，降本增效显著",
+        "related_strategy_id": 53,
+        "is_key_insight": true
+      },
+      {
+        "insight_id": 15,
+        "insight_description": "AI促进医疗器械创新，降本增效显著",
+        "related_strategy_id": 45,
+        "is_key_insight": false
+      },
+      {
+        "insight_id": 17,
+        "insight_description": "AI促进医疗器械创新，降本增效显著",
+        "related_strategy_id": 26,
+        "is_key_insight": false
+      }
+    ]
+  },
+  {
+    "analysis_id": 26,
+    "index_name": "医疗器械",
+    "index_change": -0.016632174497351375,
+    "analysis_date": "2023-03-01",
+    "related_insights": [
+      {
+        "insight_id": 12,
+        "insight_description": "AI促进医疗器械创新，降本增效显著",
+        "related_strategy_id": 53,
+        "is_key_insight": true
+      },
+      {
+        "insight_id": 15,
+        "insight_description": "AI促进医疗器械创新，降本增效显著",
+        "related_strategy_id": 45,
+        "is_key_insight": false
+      },
+      {
+        "insight_id": 17,
+        "insight_description": "AI促进医疗器械创新，降本增效显著",
+        "related_strategy_id": 26,
+        "is_key_insight": false
+      }
+    ]
+  },
+  {
+    "analysis_id": 27,
+    "index_name": "医药生物",
+    "index_change": -0.007626297452780062,
+    "analysis_date": "2023-05-30",
+    "related_insights": []
+  },
+  {
+    "analysis_id": 28,
+    "index_name": "医药生物",
+    "index_change": -0.01171746173847429,
+    "analysis_date": "2023-08-28",
+    "related_insights": []
+  },
+  {
+    "analysis_id": 29,
+    "index_name": "生物科技",
+    "index_change": -0.01902738590865432,
+    "analysis_date": "2023-11-26",
+    "related_insights": []
+  },
+  {
+    "analysis_id": 30,
+    "index_name": "医药生物",
+    "index_change": -0.01382019565938084,
+    "analysis_date": "2024-02-24",
+    "related_insights": []
+  }
+]

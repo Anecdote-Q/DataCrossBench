@@ -1,0 +1,20 @@
+{
+    "goal": "探讨华商电子行业量化基金超额收益的主要来源及其投资策略的有效性。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 在上涨市场中，该基金的业绩为61.93%，而在下跌市场中业绩为-29.65%，显示出其在不同市场状态下的表现差异。",
+        "Comparison: 华商电子行业量化的机构投资者比例从2019年Q4的4%上升至2024Q2的45%，而华商计算机行业量化的机构投资者比例从3%上升至26%。",
+        "Extreme: 截至2024年三季末，华商电子行业量化基金的最新规模为4.07亿元，显示出其在市场中的吸引力。",
+        "Attribution: 艾定飞能够在电子行业行情到来或市场超跌反弹时把握机会，获取显著优于业绩基准的回报。"
+    ],
+    "summary": "华商电子行业量化基金自成立以来表现优异，累计收益率达到52.31%，显著跑赢沪深300指数，显示出其在市场波动中的抗跌能力和投资策略的有效性。",
+    "flag_id": "flag-93",
+    "classifier": "Fund Analysis",
+    "classifier_cn": "基金分析",
+    "input_files": [
+        "output/business_background.txt",
+        "output/dimension_data.db",
+        "output/fund_manager_profiles.json",
+        "output/trades.csv"
+    ]
+}

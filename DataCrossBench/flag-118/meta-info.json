@@ -1,0 +1,20 @@
+{
+    "goal": "比较亚太地区与中东和北非地区金融科技融资变化的原因及其市场潜力。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 预计到2028年，全球金融科技收入将产生15%的市场份额，尽管当前融资集中度不均。",
+        "Comparison: 中东和北非地区的融资量在2020年至2023年间翻了三番，显示出其增长潜力。",
+        "Extreme: 2023年，数字银行融资额为28亿美元，显示出该子领域的吸引力。",
+        "Attribution: 尽管金融科技融资近期有所放缓，但仍理由保持对该行业长期前景的乐观态度。"
+    ],
+    "summary": "本报告探讨了金融科技行业面临的挑战及其未来发展潜力，强调了政策和市场环境的重要性。",
+    "flag_id": "flag-118",
+    "classifier": "FinTech",
+    "classifier_cn": "金融科技",
+    "input_files": [
+        "output/business_background.txt",
+        "output/company_profiles.json",
+        "output/fintech_dimension.db",
+        "output/fintech_funding.png"
+    ]
+}

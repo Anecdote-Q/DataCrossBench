@@ -1,0 +1,20 @@
+{
+    "goal": "分析医药生物指数自2024年初以来下跌9.99%的原因。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 医药生物指数自2024年初以来下跌9.99%，显示出行业整体疲软的趋势。",
+        "Comparison: 医药行业整体下跌9.99%，而体外诊断上涨1.5%，显示出不同子行业之间的表现差异。",
+        "Extreme: 本周医药行业中，302家股票下跌，176家上涨，整体医药行业指数下跌，显示出市场的极端波动。",
+        "Attribution: 医药行业整体表现不佳与高税收和政策变化有关，导致销售额下降。"
+    ],
+    "summary": "本周医药行业整体表现不佳，医药生物指数下跌2.13%，但AI医疗投资热情再度点燃，未来有结构性机会。多个公司在新产品和股权激励的推动下展现出增长潜力。",
+    "flag_id": "flag-58",
+    "classifier": "Fund Analysis",
+    "classifier_cn": "基金分析",
+    "input_files": [
+        "output/Background_Description.txt",
+        "output/Company_Profiles.json",
+        "output/Pharma_Dimension.db",
+        "output/Pharmaceutical_Industry_Analysis.csv"
+    ]
+}

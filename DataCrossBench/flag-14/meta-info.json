@@ -1,0 +1,20 @@
+{
+    "goal": "分析阿里云未来三年3800亿资本投入对收入增速的具体影响。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 预计阿里云未来三年将投入3800亿于AI与云基础设施，推动收入增速上移至20%+区间。",
+        "Comparison: 阿里云在国内及亚洲市场份额第一，收入增速提升5-20个百分点，领先于AWS和Azure。",
+        "Extreme: 2023年阿里云核心产品价格全线下调15%至50%，是其历史上最大力度的降价。",
+        "Attribution: 由于高资本投入，阿里云确保了在AI时代的领先地位，未来三年AI及云基础设施capex投入将达3800亿元。"
+    ],
+    "summary": "本报告分析了阿里云在AI时代的商业模式、市场地位及其未来发展潜力，强调了其在技术、资本投入及市场份额方面的竞争优势。",
+    "flag_id": "flag-14",
+    "classifier": "Internet Firms",
+    "classifier_cn": "互联网公司研究",
+    "input_files": [
+        "output/background.txt",
+        "output/cloud_investment.csv",
+        "output/market_comparison_extra.json",
+        "output/market_dimension.db"
+    ]
+}

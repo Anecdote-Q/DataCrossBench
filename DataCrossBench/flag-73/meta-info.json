@@ -1,0 +1,22 @@
+{
+    "goal": "比较AI基因组学市场与其他AI医疗领域的增长速度，探讨其CAGR达到39.2%的驱动因素。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: AI药物研发市场在2022年达到15亿美元，预计2032年将增长至209亿美元，年均增长率为30.1%。",
+        "Comparison: 医药板块整体估值为25.62倍PE，相对沪深300的估值溢价率为130%。",
+        "Extreme: 医药（中信）指数在2024年以来累计跌幅达到9.8%，显示出市场的波动性。",
+        "Attribution: 医药板块的刚需属性及人口结构老龄化，导致人们对医疗保健需求不断升级，尽管整体估值下降，但投资价值依然凸显。"
+    ],
+    "summary": "AI医疗市场正在快速增长，预计到2032年将达到700亿美元，政策红利的释放为行业发展提供了强劲动力。尽管医药板块整体估值下降，但创新药物和医疗器械的需求仍在上升。",
+    "flag_id": "flag-73",
+    "classifier": "AI Healthcare",
+    "classifier_cn": "AI 医疗健康",
+    "input_files": [
+        "output/ai_drug_development_market.csv",
+        "output/ai_genomics_market.csv",
+        "output/ai_genomics_tech_details.json",
+        "output/business_background.txt",
+        "output/healthcare_demand_attribution.json",
+        "output/pharmaceutical_valuation.db"
+    ]
+}

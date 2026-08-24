@@ -1,0 +1,20 @@
+{
+    "goal": "比较男性和女性网民数量增长的原因及其对市场的潜在影响。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 用户平均每周收到电子邮件数为5.2封，显示出电子邮件使用的稳定性。",
+        "Comparison: 男性网民数量增长将多于女性，未来半年内性别结构变化不大。",
+        "Extreme: 网络游戏用户半年内购买的虚拟物品平均费用总额为178元，显示出网络游戏消费的活跃。",
+        "Attribution: 随着网络技术的发展，宽带上网逐渐取代拨号上网，改变了用户的上网习惯。"
+    ],
+    "summary": "本报告分析了中国网民的上网行为、目的及其对互联网服务的满意度，揭示了用户在使用互联网时的偏好和需求。",
+    "flag_id": "flag-171",
+    "classifier": "Internet Dev.",
+    "classifier_cn": "互联网发展",
+    "input_files": [
+        "output/internet_usage_background.txt",
+        "output/online_game_expenditure.json",
+        "output/user_email_usage.png",
+        "output/user_gender_dimension.db"
+    ]
+}

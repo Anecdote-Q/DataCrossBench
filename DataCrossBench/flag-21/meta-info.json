@@ -1,0 +1,20 @@
+{
+    "goal": "分析Meta与腾讯在社交广告收入和ARPU方面的差异，以识别提升单用户价值的潜在策略。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 腾讯FY23社交广告收入为12862百万美元，ARPU为10美元，而Meta FY23社交广告收入为133005百万美元，ARPU为34美元，显示出Meta在单用户价值提升方面的优势。",
+        "Comparison: Meta的社交应用组合MAU为41.3亿，远超腾讯的微信MAU 13.8亿，显示出Meta在用户覆盖上的显著优势。",
+        "Extreme: Meta FY23的总收入为133005百万美元，远高于腾讯FY23的37490百万美元，显示出Meta在市场中的强大竞争力。",
+        "Attribution: 腾讯的多元变现策略使其在用户增长和单用户价值提升方面仍有潜力，尤其是在社交电商和游戏领域的创新。"
+    ],
+    "summary": "本报告深入分析了腾讯与Meta在收入结构、用户覆盖及市场策略上的差异，揭示了两者在社交业务中的不同发展轨迹及未来潜力。",
+    "flag_id": "flag-21",
+    "classifier": "Internet Firms",
+    "classifier_cn": "互联网公司研究",
+    "input_files": [
+        "output/background.txt",
+        "output/dimension_data.db",
+        "output/social_advertising_facts.csv",
+        "output/user_profiles.json"
+    ]
+}

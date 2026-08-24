@@ -1,0 +1,152 @@
+[
+  {
+    "manager_id": 1,
+    "bio": "Guy song quickly well central parent. Alone attack sing hand him note.",
+    "investment_style": "保守型",
+    "style_tags": [
+      "稳健",
+      "低波动",
+      "分散"
+    ],
+    "performance_summary": {
+      "avg_annual_return": 5.69,
+      "max_drawdown": 24.3,
+      "years_experience": 16
+    }
+  },
+  {
+    "manager_id": 2,
+    "bio": "Nearly face feel church. Soldier meeting building cut. Door management guess occur.",
+    "investment_style": "平衡型",
+    "style_tags": [
+      "平衡",
+      "行业精选",
+      "组合优化"
+    ],
+    "performance_summary": {
+      "avg_annual_return": 6.89,
+      "max_drawdown": 14.26,
+      "years_experience": 16
+    }
+  },
+  {
+    "manager_id": 3,
+    "bio": "Million fight class various. Generation wait thus suffer economy.",
+    "investment_style": "进取型",
+    "style_tags": [
+      "激进",
+      "高波动",
+      "成长优先"
+    ],
+    "performance_summary": {
+      "avg_annual_return": 16.8,
+      "max_drawdown": 9.61,
+      "years_experience": 8
+    }
+  },
+  {
+    "manager_id": 4,
+    "bio": "Peace air threat nation politics few. Source rate father authority art. Indeed less future century technology floor.",
+    "investment_style": "保守型",
+    "style_tags": [
+      "稳健",
+      "低波动",
+      "分散"
+    ],
+    "performance_summary": {
+      "avg_annual_return": 12.18,
+      "max_drawdown": 21.26,
+      "years_experience": 6
+    }
+  },
+  {
+    "manager_id": 5,
+    "bio": "Level these market bed hotel lead drive. Good anything manager think pressure like Mr suggest. Care enough hand idea and anything.",
+    "investment_style": "保守型",
+    "style_tags": [
+      "稳健",
+      "低波动",
+      "分散"
+    ],
+    "performance_summary": {
+      "avg_annual_return": 5.43,
+      "max_drawdown": 16.07,
+      "years_experience": 3
+    }
+  },
+  {
+    "manager_id": 6,
+    "bio": "Chance throw cause use five hotel pattern. Order medical meeting majority none. Staff happy purpose woman on someone rise.",
+    "investment_style": "平衡型",
+    "style_tags": [
+      "平衡",
+      "行业精选",
+      "组合优化"
+    ],
+    "performance_summary": {
+      "avg_annual_return": 16.85,
+      "max_drawdown": 19.08,
+      "years_experience": 13
+    }
+  },
+  {
+    "manager_id": 7,
+    "bio": "Million night your long. Finish community treatment garden great sign.",
+    "investment_style": "平衡型",
+    "style_tags": [
+      "平衡",
+      "行业精选",
+      "组合优化"
+    ],
+    "performance_summary": {
+      "avg_annual_return": 6.46,
+      "max_drawdown": 16.69,
+      "years_experience": 14
+    }
+  },
+  {
+    "manager_id": 8,
+    "bio": "West source fact explain research get. Pretty section degree still even no. Case past only drug prove.",
+    "investment_style": "平衡型",
+    "style_tags": [
+      "平衡",
+      "行业精选",
+      "组合优化"
+    ],
+    "performance_summary": {
+      "avg_annual_return": 19.2,
+      "max_drawdown": 15.05,
+      "years_experience": 9
+    }
+  },
+  {
+    "manager_id": 9,
+    "bio": "School sure also TV individual study value. Young however many.\nAcross nothing blue. Expect writer myself management voice surface.",
+    "investment_style": "进取型",
+    "style_tags": [
+      "激进",
+      "高波动",
+      "成长优先"
+    ],
+    "performance_summary": {
+      "avg_annual_return": 18.56,
+      "max_drawdown": 5.59,
+      "years_experience": 10
+    }
+  },
+  {
+    "manager_id": 10,
+    "bio": "Continue cell food easy. Himself land environment form old. Activity president realize artist brother fill if.",
+    "investment_style": "保守型",
+    "style_tags": [
+      "稳健",
+      "低波动",
+      "分散"
+    ],
+    "performance_summary": {
+      "avg_annual_return": 9.6,
+      "max_drawdown": 22.85,
+      "years_experience": 9
+    }
+  }
+]

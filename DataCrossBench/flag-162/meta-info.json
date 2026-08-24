@@ -1,0 +1,22 @@
+{
+    "goal": "评估拉丁美洲和加勒比地区在反垄断执法方面与经合组织和非经合组织国家的比较，找出不足之处。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 卡特尔决定数量在2020年为1.6个，2021年为2个，2022年为2.3个，显示出逐年上升的趋势。",
+        "Comparison: 在2015年至2022年期间，只有7个司法管辖区至少有一份宽大处理申请，显示出宽大处理计划的实施不均衡。",
+        "Extreme: TDLC于2020年对两家直升机公司及其高管处以超过600万美元的罚款，显示出该地区在反垄断执法中的高额罚款案例。",
+        "Attribution: 由于缺乏真正的检测威胁和威慑性处罚，企业申请宽大处理的动机不足，影响了宽大处理计划的有效性。"
+    ],
+    "summary": "本报告分析了拉丁美洲和加勒比地区在竞争法和政策实施方面的现状，强调了卡特尔检测工具的应用及其面临的挑战，并探讨了国际合作的重要性。",
+    "flag_id": "flag-162",
+    "classifier": "Internet Dev.",
+    "classifier_cn": "互联网发展",
+    "input_files": [
+        "output/CartelTrends.csv",
+        "output/Fines.csv",
+        "output/LeniencyApplications.csv",
+        "output/background.txt",
+        "output/dimension_data.db",
+        "output/regulatory_reports.json"
+    ]
+}

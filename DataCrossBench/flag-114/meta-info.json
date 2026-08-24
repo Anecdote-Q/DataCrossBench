@@ -1,0 +1,20 @@
+{
+    "goal": "分析金融科技行业在2023年融资下降67%的原因。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 金融科技行业在过去十年中已成为金融服务业不可或缺的一部分，预计到2028年全球金融科技净收入将达到4000亿美元。",
+        "Comparison: 拉丁美洲的融资增长率为92%每年，显著高于美国和加拿大的29%。",
+        "Extreme: 2021年金融科技风险投资资金达到920亿美元，2023年降至300亿美元，下降幅度达到67%。",
+        "Attribution: 融资不均可能阻碍金融科技创新，尤其是在全球VC资金低迷的背景下，MENA和LAC地区的资金显著增长。"
+    ],
+    "summary": "本报告探讨了金融科技行业的创新驱动因素及其融资缺口，分析了不同地区的融资趋势和风险投资的影响。",
+    "flag_id": "flag-114",
+    "classifier": "FinTech",
+    "classifier_cn": "金融科技",
+    "input_files": [
+        "output/background.txt",
+        "output/dimension_data.db",
+        "output/financial_transactions.csv",
+        "output/user_profiles.json"
+    ]
+}

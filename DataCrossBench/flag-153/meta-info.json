@@ -1,0 +1,24 @@
+{
+    "goal": "评估微短剧市场规模增长对整体短视频行业的影响，特别是与传统视频平台的比较。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 红果短剧APP月活跃用户达到1.58亿，同比增长551%，显示出短剧行业的快速发展。",
+        "Comparison: 腾讯视频（3.87亿）和爱奇艺（3.54亿）仍然是短视频平台的领导者，但红果短剧的增长速度更快。",
+        "Extreme: 2024年微短剧市场规模的同比增长率为35.1%，显示出行业的强劲增长势头。",
+        "Attribution: 红果短剧APP的成功归因于其创新的内容和强大的用户增长策略。"
+    ],
+    "summary": "2024年短剧行业经历了显著的市场增长，微短剧成为行业的主要赢家，用户规模和市场规模均大幅提升，同时红果短剧APP的用户增长表现突出。",
+    "flag_id": "flag-153",
+    "classifier": "Short-form Drama",
+    "classifier_cn": "短剧/微短剧内容",
+    "input_files": [
+        "output/app_usage.png",
+        "output/business_background.txt",
+        "output/dimension_data.db",
+        "output/growth_rate_by_promo.png",
+        "output/monthly_active_users.png",
+        "output/user_activity_fact.csv",
+        "output/user_age_distribution.png",
+        "output/user_profiles.json"
+    ]
+}

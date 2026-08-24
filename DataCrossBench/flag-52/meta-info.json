@@ -1,0 +1,20 @@
+{
+    "goal": "分析百度未来几年的盈利能力提升趋势，特别是2024年到2026年的非GAAP归母净利润增长情况。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 预计2024年非GAAP归母净利润为255亿元，2025年为282亿元，2026年为306亿元，显示出盈利能力的逐步提升。",
+        "Comparison: 百度的净现金储备为233亿美元，占其当前总市值的82.0%，为其估值提供了安全边际，显示出其财务健康状况。",
+        "Extreme: 百度智能云在2023年实现收入187亿元，同比增长12.6%，显示出其在云计算领域的快速增长。",
+        "Attribution: 百度的持续投资于AI与自动驾驶等新技术领域，结合其充沛的现金储备，为其未来的增长提供了强有力的支持。"
+    ],
+    "summary": "本报告提供了百度集团未来几年的盈利预测，强调其在AI与自动驾驶等新技术领域的持续投资，并分析了其股价走势及估值。",
+    "flag_id": "flag-52",
+    "classifier": "Internet Firms",
+    "classifier_cn": "互联网公司研究",
+    "input_files": [
+        "output/business_background.txt",
+        "output/dimension_data.db",
+        "output/fact_transactions.png",
+        "output/user_profiles.json"
+    ]
+}

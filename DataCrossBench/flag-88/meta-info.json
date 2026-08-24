@@ -1,0 +1,24 @@
+{
+    "goal": "分析华富强化回报基金在2014年至2015年期间收益增长的驱动因素。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 自2015年以来，华富强化回报基金在市场波动中逐步调整资产配置，2019年实现收益11.94%，2020年实现收益9.40%。",
+        "Comparison: 华富强化回报基金在2019年和2020年分别实现收益11.94%和9.40%，显示出其在不同市场环境中的稳定表现。",
+        "Extreme: 2014年Q4，华富强化回报基金实现最高收益15.85%，而2015年Q2的收益为最低5.66%。",
+        "Attribution: 华富强化回报基金的稳定收益与尹培俊在市场变局中的及时资产配置调整密切相关，尤其是在2015年股市泡沫化过程中，成功降低了转债和股票仓位。"
+    ],
+    "summary": "本报告总结了华富基金尹培俊的资产配置理念及其在不同市场环境中的表现，强调了其长期稳定的业绩和风险控制能力。",
+    "flag_id": "flag-88",
+    "classifier": "Fund Analysis",
+    "classifier_cn": "基金分析",
+    "input_files": [
+        "output/annual_return_trend.png",
+        "output/fund_background.txt",
+        "output/fund_dimension.db",
+        "output/fund_performance.csv",
+        "output/fund_profiles.json",
+        "output/fund_return_distribution.png",
+        "output/return_by_manager.png",
+        "output/return_vs_stocks_allocation.png"
+    ]
+}

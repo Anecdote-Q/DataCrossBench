@@ -1,0 +1,20 @@
+{
+    "goal": "分析2022年中小银行绿色贷款余额增长的主要驱动因素。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 2022年末，我国本外币绿色贷款余额达到22.03万亿元，同比增长38.5%，显示出绿色金融的快速发展。",
+        "Comparison: 与大型银行相比，中小银行在绿色金融产品的创新和市场拓展上仍显不足，绿色信贷余额普遍较低。",
+        "Extreme: 2022年，平安银行绿色金融业务余额为1700.5亿元，较上年末增长49.52%，显示出其在绿色金融市场的强劲增长。",
+        "Attribution: 由于政策支持和市场需求的双重驱动，中小银行在绿色金融领域的创新实践不断推进。"
+    ],
+    "summary": "本报告探讨了中小银行在绿色金融领域的创新实践与发展策略，强调了政策支持和市场需求的双重驱动。",
+    "flag_id": "flag-12",
+    "classifier": "FinTech",
+    "classifier_cn": "金融科技",
+    "input_files": [
+        "output/bank_dimension.db",
+        "output/bank_profiles.json",
+        "output/business_background.txt",
+        "output/green_loan_fact.csv"
+    ]
+}

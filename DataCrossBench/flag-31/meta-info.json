@@ -1,0 +1,20 @@
+{
+    "goal": "比较美洲与欧洲、中东和非洲地区金融科技融资金额变化的原因及其对市场的影响。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 预计到2025年，美国嵌入式金融行业的收入将快速增长至超过2,300亿美元。",
+        "Comparison: 全能型金融科技公司与横向型金融科技公司在市场策略上存在显著差异，前者提供广泛服务，后者专注于特定客户群。",
+        "Extreme: DeFi在整个金融服务生态系统中只占相对较小的份额（50亿美元），反映出其市场渗透率的局限性。",
+        "Attribution: 全球监管机构对金融科技公司实施了更严格的审查和合规要求，导致企业在投资决策中将风险管理和合规融入产品设计。"
+    ],
+    "summary": "本报告分析了金融科技行业的快速发展及其面临的挑战，强调了客户体验、数据隐私和监管合规的重要性，并探讨了未来的商业模式和技术创新。",
+    "flag_id": "flag-31",
+    "classifier": "FinTech",
+    "classifier_cn": "金融科技",
+    "input_files": [
+        "output/business_background.txt",
+        "output/company_profiles.json",
+        "output/dimension_data.db",
+        "output/fintech_fact.csv"
+    ]
+}

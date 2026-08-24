@@ -1,0 +1,20 @@
+{
+    "goal": "比较中国平安保险与蚂蚁集团在大数据和区块链技术专利申请方面的优势与劣势。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 大数据分析与挖掘技术的专利申请量遥遥领先于其他技术分支，显示出其在金融领域的重要性。",
+        "Comparison: 蚂蚁集团在区块链技术领域的专利申请量排名第二，显示出其在该领域的竞争力。",
+        "Extreme: 中国工商银行建成同业规模最大的云计算平台，显示出其在云计算技术应用方面的领先地位。",
+        "Attribution: 金融科技的快速发展与政策支持、市场需求和技术进步密切相关，形成了良性循环。"
+    ],
+    "summary": "本报告分析了中国金融科技领域的主要技术方向及其应用，强调了人工智能、大数据和区块链等技术在行业中的重要性。",
+    "flag_id": "flag-6",
+    "classifier": "FinTech",
+    "classifier_cn": "金融科技",
+    "input_files": [
+        "output/business_background.txt",
+        "output/company_dimension.db",
+        "output/patent_facts.csv",
+        "output/user_profiles.json"
+    ]
+}

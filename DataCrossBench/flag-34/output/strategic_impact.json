@@ -1,0 +1,7002 @@
+[
+  {
+    "id": 1,
+    "strategy_type": "生态优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2021-03-08",
+    "revenue_id": 975
+  },
+  {
+    "id": 2,
+    "strategy_type": "公共云优先",
+    "impact_description": "客户增长加速",
+    "impact_date": "2023-03-02",
+    "revenue_id": 776
+  },
+  {
+    "id": 3,
+    "strategy_type": "技术驱动",
+    "impact_description": "提升收入10%",
+    "impact_date": "2022-10-25",
+    "revenue_id": 907
+  },
+  {
+    "id": 4,
+    "strategy_type": "AI优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2023-06-21",
+    "revenue_id": 68
+  },
+  {
+    "id": 5,
+    "strategy_type": "AI优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2022-07-15",
+    "revenue_id": 967
+  },
+  {
+    "id": 6,
+    "strategy_type": "生态优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2022-02-06",
+    "revenue_id": 17
+  },
+  {
+    "id": 7,
+    "strategy_type": "客户驱动",
+    "impact_description": "运营成本降低",
+    "impact_date": "2021-08-12",
+    "revenue_id": 819
+  },
+  {
+    "id": 8,
+    "strategy_type": "客户驱动",
+    "impact_description": "运营成本降低",
+    "impact_date": "2023-10-12",
+    "revenue_id": 329
+  },
+  {
+    "id": 9,
+    "strategy_type": "AI优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2022-10-22",
+    "revenue_id": 985
+  },
+  {
+    "id": 10,
+    "strategy_type": "公共云优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2023-07-24",
+    "revenue_id": 182
+  },
+  {
+    "id": 11,
+    "strategy_type": "客户驱动",
+    "impact_description": "运营成本降低",
+    "impact_date": "2021-08-26",
+    "revenue_id": 573
+  },
+  {
+    "id": 12,
+    "strategy_type": "公共云优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2023-08-12",
+    "revenue_id": 143
+  },
+  {
+    "id": 13,
+    "strategy_type": "客户驱动",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2021-02-14",
+    "revenue_id": 145
+  },
+  {
+    "id": 14,
+    "strategy_type": "生态优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2021-03-04",
+    "revenue_id": 518
+  },
+  {
+    "id": 15,
+    "strategy_type": "技术驱动",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2021-03-23",
+    "revenue_id": 869
+  },
+  {
+    "id": 16,
+    "strategy_type": "生态优先",
+    "impact_description": "客户增长加速",
+    "impact_date": "2023-07-27",
+    "revenue_id": 928
+  },
+  {
+    "id": 17,
+    "strategy_type": "AI优先",
+    "impact_description": "客户增长加速",
+    "impact_date": "2021-01-25",
+    "revenue_id": 633
+  },
+  {
+    "id": 18,
+    "strategy_type": "生态优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2022-03-18",
+    "revenue_id": 602
+  },
+  {
+    "id": 19,
+    "strategy_type": "AI优先",
+    "impact_description": "客户增长加速",
+    "impact_date": "2023-10-01",
+    "revenue_id": 924
+  },
+  {
+    "id": 20,
+    "strategy_type": "技术驱动",
+    "impact_description": "提升收入10%",
+    "impact_date": "2023-09-04",
+    "revenue_id": 210
+  },
+  {
+    "id": 21,
+    "strategy_type": "技术驱动",
+    "impact_description": "运营成本降低",
+    "impact_date": "2021-05-31",
+    "revenue_id": 193
+  },
+  {
+    "id": 22,
+    "strategy_type": "生态优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2023-11-12",
+    "revenue_id": 527
+  },
+  {
+    "id": 23,
+    "strategy_type": "AI优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2022-03-05",
+    "revenue_id": 260
+  },
+  {
+    "id": 24,
+    "strategy_type": "客户驱动",
+    "impact_description": "新市场开拓",
+    "impact_date": "2023-07-15",
+    "revenue_id": 788
+  },
+  {
+    "id": 25,
+    "strategy_type": "公共云优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2021-05-14",
+    "revenue_id": 878
+  },
+  {
+    "id": 26,
+    "strategy_type": "客户驱动",
+    "impact_description": "提升收入10%",
+    "impact_date": "2023-03-14",
+    "revenue_id": 962
+  },
+  {
+    "id": 27,
+    "strategy_type": "技术驱动",
+    "impact_description": "运营成本降低",
+    "impact_date": "2022-08-03",
+    "revenue_id": 496
+  },
+  {
+    "id": 28,
+    "strategy_type": "技术驱动",
+    "impact_description": "运营成本降低",
+    "impact_date": "2022-06-06",
+    "revenue_id": 677
+  },
+  {
+    "id": 29,
+    "strategy_type": "公共云优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2022-07-30",
+    "revenue_id": 434
+  },
+  {
+    "id": 30,
+    "strategy_type": "客户驱动",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2021-12-31",
+    "revenue_id": 245
+  },
+  {
+    "id": 31,
+    "strategy_type": "客户驱动",
+    "impact_description": "客户增长加速",
+    "impact_date": "2021-04-07",
+    "revenue_id": 34
+  },
+  {
+    "id": 32,
+    "strategy_type": "客户驱动",
+    "impact_description": "客户增长加速",
+    "impact_date": "2021-04-08",
+    "revenue_id": 941
+  },
+  {
+    "id": 33,
+    "strategy_type": "生态优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2021-09-07",
+    "revenue_id": 633
+  },
+  {
+    "id": 34,
+    "strategy_type": "技术驱动",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2022-12-19",
+    "revenue_id": 27
+  },
+  {
+    "id": 35,
+    "strategy_type": "客户驱动",
+    "impact_description": "提升收入10%",
+    "impact_date": "2021-09-09",
+    "revenue_id": 641
+  },
+  {
+    "id": 36,
+    "strategy_type": "公共云优先",
+    "impact_description": "客户增长加速",
+    "impact_date": "2022-05-18",
+    "revenue_id": 911
+  },
+  {
+    "id": 37,
+    "strategy_type": "技术驱动",
+    "impact_description": "客户增长加速",
+    "impact_date": "2022-01-28",
+    "revenue_id": 482
+  },
+  {
+    "id": 38,
+    "strategy_type": "技术驱动",
+    "impact_description": "新市场开拓",
+    "impact_date": "2021-06-08",
+    "revenue_id": 27
+  },
+  {
+    "id": 39,
+    "strategy_type": "AI优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2021-03-07",
+    "revenue_id": 970
+  },
+  {
+    "id": 40,
+    "strategy_type": "公共云优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2023-08-16",
+    "revenue_id": 912
+  },
+  {
+    "id": 41,
+    "strategy_type": "AI优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2023-07-29",
+    "revenue_id": 420
+  },
+  {
+    "id": 42,
+    "strategy_type": "客户驱动",
+    "impact_description": "新市场开拓",
+    "impact_date": "2021-10-27",
+    "revenue_id": 17
+  },
+  {
+    "id": 43,
+    "strategy_type": "公共云优先",
+    "impact_description": "客户增长加速",
+    "impact_date": "2021-09-27",
+    "revenue_id": 411
+  },
+  {
+    "id": 44,
+    "strategy_type": "技术驱动",
+    "impact_description": "客户增长加速",
+    "impact_date": "2022-12-26",
+    "revenue_id": 207
+  },
+  {
+    "id": 45,
+    "strategy_type": "客户驱动",
+    "impact_description": "提升收入10%",
+    "impact_date": "2022-04-09",
+    "revenue_id": 466
+  },
+  {
+    "id": 46,
+    "strategy_type": "技术驱动",
+    "impact_description": "提升收入10%",
+    "impact_date": "2021-12-30",
+    "revenue_id": 302
+  },
+  {
+    "id": 47,
+    "strategy_type": "客户驱动",
+    "impact_description": "运营成本降低",
+    "impact_date": "2022-08-16",
+    "revenue_id": 615
+  },
+  {
+    "id": 48,
+    "strategy_type": "AI优先",
+    "impact_description": "客户增长加速",
+    "impact_date": "2022-06-07",
+    "revenue_id": 570
+  },
+  {
+    "id": 49,
+    "strategy_type": "技术驱动",
+    "impact_description": "运营成本降低",
+    "impact_date": "2022-05-13",
+    "revenue_id": 697
+  },
+  {
+    "id": 50,
+    "strategy_type": "技术驱动",
+    "impact_description": "提升收入10%",
+    "impact_date": "2023-08-18",
+    "revenue_id": 814
+  },
+  {
+    "id": 51,
+    "strategy_type": "生态优先",
+    "impact_description": "客户增长加速",
+    "impact_date": "2021-01-25",
+    "revenue_id": 481
+  },
+  {
+    "id": 52,
+    "strategy_type": "生态优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2023-05-26",
+    "revenue_id": 870
+  },
+  {
+    "id": 53,
+    "strategy_type": "客户驱动",
+    "impact_description": "新市场开拓",
+    "impact_date": "2023-10-21",
+    "revenue_id": 870
+  },
+  {
+    "id": 54,
+    "strategy_type": "技术驱动",
+    "impact_description": "提升收入10%",
+    "impact_date": "2022-05-11",
+    "revenue_id": 200
+  },
+  {
+    "id": 55,
+    "strategy_type": "AI优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2022-04-21",
+    "revenue_id": 106
+  },
+  {
+    "id": 56,
+    "strategy_type": "客户驱动",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2022-11-20",
+    "revenue_id": 15
+  },
+  {
+    "id": 57,
+    "strategy_type": "公共云优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2023-03-15",
+    "revenue_id": 143
+  },
+  {
+    "id": 58,
+    "strategy_type": "公共云优先",
+    "impact_description": "客户增长加速",
+    "impact_date": "2021-07-03",
+    "revenue_id": 811
+  },
+  {
+    "id": 59,
+    "strategy_type": "公共云优先",
+    "impact_description": "客户增长加速",
+    "impact_date": "2023-06-28",
+    "revenue_id": 670
+  },
+  {
+    "id": 60,
+    "strategy_type": "客户驱动",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2023-10-03",
+    "revenue_id": 660
+  },
+  {
+    "id": 61,
+    "strategy_type": "公共云优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2023-05-24",
+    "revenue_id": 23
+  },
+  {
+    "id": 62,
+    "strategy_type": "客户驱动",
+    "impact_description": "客户增长加速",
+    "impact_date": "2021-11-23",
+    "revenue_id": 855
+  },
+  {
+    "id": 63,
+    "strategy_type": "生态优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2022-02-17",
+    "revenue_id": 159
+  },
+  {
+    "id": 64,
+    "strategy_type": "AI优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2022-01-22",
+    "revenue_id": 264
+  },
+  {
+    "id": 65,
+    "strategy_type": "公共云优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2023-05-14",
+    "revenue_id": 743
+  },
+  {
+    "id": 66,
+    "strategy_type": "公共云优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2022-06-12",
+    "revenue_id": 833
+  },
+  {
+    "id": 67,
+    "strategy_type": "技术驱动",
+    "impact_description": "客户增长加速",
+    "impact_date": "2022-01-06",
+    "revenue_id": 237
+  },
+  {
+    "id": 68,
+    "strategy_type": "AI优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2021-05-17",
+    "revenue_id": 781
+  },
+  {
+    "id": 69,
+    "strategy_type": "技术驱动",
+    "impact_description": "提升收入10%",
+    "impact_date": "2021-07-03",
+    "revenue_id": 199
+  },
+  {
+    "id": 70,
+    "strategy_type": "AI优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2022-08-17",
+    "revenue_id": 117
+  },
+  {
+    "id": 71,
+    "strategy_type": "技术驱动",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2021-04-12",
+    "revenue_id": 547
+  },
+  {
+    "id": 72,
+    "strategy_type": "客户驱动",
+    "impact_description": "提升收入10%",
+    "impact_date": "2023-10-03",
+    "revenue_id": 273
+  },
+  {
+    "id": 73,
+    "strategy_type": "技术驱动",
+    "impact_description": "运营成本降低",
+    "impact_date": "2021-09-11",
+    "revenue_id": 196
+  },
+  {
+    "id": 74,
+    "strategy_type": "技术驱动",
+    "impact_description": "客户增长加速",
+    "impact_date": "2023-01-02",
+    "revenue_id": 954
+  },
+  {
+    "id": 75,
+    "strategy_type": "技术驱动",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2022-01-09",
+    "revenue_id": 318
+  },
+  {
+    "id": 76,
+    "strategy_type": "公共云优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2021-06-10",
+    "revenue_id": 635
+  },
+  {
+    "id": 77,
+    "strategy_type": "AI优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2023-05-05",
+    "revenue_id": 683
+  },
+  {
+    "id": 78,
+    "strategy_type": "客户驱动",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2023-01-06",
+    "revenue_id": 964
+  },
+  {
+    "id": 79,
+    "strategy_type": "生态优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2021-03-23",
+    "revenue_id": 121
+  },
+  {
+    "id": 80,
+    "strategy_type": "AI优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2023-03-22",
+    "revenue_id": 814
+  },
+  {
+    "id": 81,
+    "strategy_type": "技术驱动",
+    "impact_description": "客户增长加速",
+    "impact_date": "2021-03-12",
+    "revenue_id": 996
+  },
+  {
+    "id": 82,
+    "strategy_type": "公共云优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2022-02-04",
+    "revenue_id": 625
+  },
+  {
+    "id": 83,
+    "strategy_type": "生态优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2023-05-01",
+    "revenue_id": 473
+  },
+  {
+    "id": 84,
+    "strategy_type": "AI优先",
+    "impact_description": "客户增长加速",
+    "impact_date": "2023-03-26",
+    "revenue_id": 454
+  },
+  {
+    "id": 85,
+    "strategy_type": "生态优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2022-10-01",
+    "revenue_id": 586
+  },
+  {
+    "id": 86,
+    "strategy_type": "技术驱动",
+    "impact_description": "新市场开拓",
+    "impact_date": "2022-10-20",
+    "revenue_id": 697
+  },
+  {
+    "id": 87,
+    "strategy_type": "AI优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2022-01-10",
+    "revenue_id": 138
+  },
+  {
+    "id": 88,
+    "strategy_type": "AI优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2023-01-09",
+    "revenue_id": 664
+  },
+  {
+    "id": 89,
+    "strategy_type": "技术驱动",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2023-09-05",
+    "revenue_id": 728
+  },
+  {
+    "id": 90,
+    "strategy_type": "生态优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2022-04-07",
+    "revenue_id": 362
+  },
+  {
+    "id": 91,
+    "strategy_type": "公共云优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2022-01-12",
+    "revenue_id": 55
+  },
+  {
+    "id": 92,
+    "strategy_type": "公共云优先",
+    "impact_description": "客户增长加速",
+    "impact_date": "2021-09-06",
+    "revenue_id": 573
+  },
+  {
+    "id": 93,
+    "strategy_type": "技术驱动",
+    "impact_description": "运营成本降低",
+    "impact_date": "2023-02-15",
+    "revenue_id": 77
+  },
+  {
+    "id": 94,
+    "strategy_type": "AI优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2022-11-30",
+    "revenue_id": 59
+  },
+  {
+    "id": 95,
+    "strategy_type": "AI优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2021-04-06",
+    "revenue_id": 664
+  },
+  {
+    "id": 96,
+    "strategy_type": "公共云优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2021-08-04",
+    "revenue_id": 674
+  },
+  {
+    "id": 97,
+    "strategy_type": "技术驱动",
+    "impact_description": "客户增长加速",
+    "impact_date": "2021-10-23",
+    "revenue_id": 657
+  },
+  {
+    "id": 98,
+    "strategy_type": "生态优先",
+    "impact_description": "客户增长加速",
+    "impact_date": "2021-10-04",
+    "revenue_id": 452
+  },
+  {
+    "id": 99,
+    "strategy_type": "公共云优先",
+    "impact_description": "客户增长加速",
+    "impact_date": "2022-12-16",
+    "revenue_id": 69
+  },
+  {
+    "id": 100,
+    "strategy_type": "生态优先",
+    "impact_description": "客户增长加速",
+    "impact_date": "2021-11-25",
+    "revenue_id": 900
+  },
+  {
+    "id": 101,
+    "strategy_type": "生态优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2022-07-30",
+    "revenue_id": 164
+  },
+  {
+    "id": 102,
+    "strategy_type": "公共云优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2023-06-11",
+    "revenue_id": 605
+  },
+  {
+    "id": 103,
+    "strategy_type": "公共云优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2023-04-04",
+    "revenue_id": 102
+  },
+  {
+    "id": 104,
+    "strategy_type": "AI优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2022-10-05",
+    "revenue_id": 871
+  },
+  {
+    "id": 105,
+    "strategy_type": "客户驱动",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2023-07-16",
+    "revenue_id": 316
+  },
+  {
+    "id": 106,
+    "strategy_type": "生态优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2022-03-21",
+    "revenue_id": 808
+  },
+  {
+    "id": 107,
+    "strategy_type": "技术驱动",
+    "impact_description": "新市场开拓",
+    "impact_date": "2022-07-21",
+    "revenue_id": 114
+  },
+  {
+    "id": 108,
+    "strategy_type": "客户驱动",
+    "impact_description": "新市场开拓",
+    "impact_date": "2022-06-14",
+    "revenue_id": 849
+  },
+  {
+    "id": 109,
+    "strategy_type": "AI优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2022-06-11",
+    "revenue_id": 373
+  },
+  {
+    "id": 110,
+    "strategy_type": "客户驱动",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2023-06-10",
+    "revenue_id": 829
+  },
+  {
+    "id": 111,
+    "strategy_type": "技术驱动",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2023-12-06",
+    "revenue_id": 590
+  },
+  {
+    "id": 112,
+    "strategy_type": "客户驱动",
+    "impact_description": "新市场开拓",
+    "impact_date": "2023-05-20",
+    "revenue_id": 255
+  },
+  {
+    "id": 113,
+    "strategy_type": "客户驱动",
+    "impact_description": "运营成本降低",
+    "impact_date": "2021-06-26",
+    "revenue_id": 312
+  },
+  {
+    "id": 114,
+    "strategy_type": "生态优先",
+    "impact_description": "客户增长加速",
+    "impact_date": "2022-02-11",
+    "revenue_id": 652
+  },
+  {
+    "id": 115,
+    "strategy_type": "客户驱动",
+    "impact_description": "提升收入10%",
+    "impact_date": "2023-09-18",
+    "revenue_id": 412
+  },
+  {
+    "id": 116,
+    "strategy_type": "技术驱动",
+    "impact_description": "运营成本降低",
+    "impact_date": "2021-11-11",
+    "revenue_id": 360
+  },
+  {
+    "id": 117,
+    "strategy_type": "公共云优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2023-07-22",
+    "revenue_id": 932
+  },
+  {
+    "id": 118,
+    "strategy_type": "AI优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2022-06-16",
+    "revenue_id": 579
+  },
+  {
+    "id": 119,
+    "strategy_type": "生态优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2021-11-11",
+    "revenue_id": 801
+  },
+  {
+    "id": 120,
+    "strategy_type": "生态优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2023-05-19",
+    "revenue_id": 678
+  },
+  {
+    "id": 121,
+    "strategy_type": "公共云优先",
+    "impact_description": "客户增长加速",
+    "impact_date": "2023-07-28",
+    "revenue_id": 869
+  },
+  {
+    "id": 122,
+    "strategy_type": "技术驱动",
+    "impact_description": "运营成本降低",
+    "impact_date": "2021-06-09",
+    "revenue_id": 383
+  },
+  {
+    "id": 123,
+    "strategy_type": "技术驱动",
+    "impact_description": "运营成本降低",
+    "impact_date": "2022-02-19",
+    "revenue_id": 927
+  },
+  {
+    "id": 124,
+    "strategy_type": "生态优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2022-06-08",
+    "revenue_id": 440
+  },
+  {
+    "id": 125,
+    "strategy_type": "客户驱动",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2021-05-23",
+    "revenue_id": 39
+  },
+  {
+    "id": 126,
+    "strategy_type": "技术驱动",
+    "impact_description": "运营成本降低",
+    "impact_date": "2023-09-24",
+    "revenue_id": 870
+  },
+  {
+    "id": 127,
+    "strategy_type": "技术驱动",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2023-12-04",
+    "revenue_id": 711
+  },
+  {
+    "id": 128,
+    "strategy_type": "生态优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2021-08-26",
+    "revenue_id": 123
+  },
+  {
+    "id": 129,
+    "strategy_type": "技术驱动",
+    "impact_description": "客户增长加速",
+    "impact_date": "2022-12-11",
+    "revenue_id": 465
+  },
+  {
+    "id": 130,
+    "strategy_type": "客户驱动",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2023-03-09",
+    "revenue_id": 552
+  },
+  {
+    "id": 131,
+    "strategy_type": "客户驱动",
+    "impact_description": "客户增长加速",
+    "impact_date": "2023-06-28",
+    "revenue_id": 641
+  },
+  {
+    "id": 132,
+    "strategy_type": "AI优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2022-05-02",
+    "revenue_id": 815
+  },
+  {
+    "id": 133,
+    "strategy_type": "客户驱动",
+    "impact_description": "运营成本降低",
+    "impact_date": "2022-10-29",
+    "revenue_id": 958
+  },
+  {
+    "id": 134,
+    "strategy_type": "客户驱动",
+    "impact_description": "运营成本降低",
+    "impact_date": "2023-08-26",
+    "revenue_id": 120
+  },
+  {
+    "id": 135,
+    "strategy_type": "生态优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2022-01-30",
+    "revenue_id": 683
+  },
+  {
+    "id": 136,
+    "strategy_type": "技术驱动",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2023-03-24",
+    "revenue_id": 993
+  },
+  {
+    "id": 137,
+    "strategy_type": "公共云优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2023-05-05",
+    "revenue_id": 541
+  },
+  {
+    "id": 138,
+    "strategy_type": "公共云优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2023-06-15",
+    "revenue_id": 798
+  },
+  {
+    "id": 139,
+    "strategy_type": "AI优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2022-06-12",
+    "revenue_id": 344
+  },
+  {
+    "id": 140,
+    "strategy_type": "技术驱动",
+    "impact_description": "提升收入10%",
+    "impact_date": "2023-07-02",
+    "revenue_id": 466
+  },
+  {
+    "id": 141,
+    "strategy_type": "公共云优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2021-07-12",
+    "revenue_id": 386
+  },
+  {
+    "id": 142,
+    "strategy_type": "客户驱动",
+    "impact_description": "新市场开拓",
+    "impact_date": "2022-09-08",
+    "revenue_id": 527
+  },
+  {
+    "id": 143,
+    "strategy_type": "技术驱动",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2023-06-14",
+    "revenue_id": 811
+  },
+  {
+    "id": 144,
+    "strategy_type": "技术驱动",
+    "impact_description": "客户增长加速",
+    "impact_date": "2023-07-02",
+    "revenue_id": 799
+  },
+  {
+    "id": 145,
+    "strategy_type": "技术驱动",
+    "impact_description": "客户增长加速",
+    "impact_date": "2022-12-17",
+    "revenue_id": 399
+  },
+  {
+    "id": 146,
+    "strategy_type": "技术驱动",
+    "impact_description": "运营成本降低",
+    "impact_date": "2022-10-18",
+    "revenue_id": 444
+  },
+  {
+    "id": 147,
+    "strategy_type": "生态优先",
+    "impact_description": "客户增长加速",
+    "impact_date": "2023-06-29",
+    "revenue_id": 325
+  },
+  {
+    "id": 148,
+    "strategy_type": "AI优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2022-03-19",
+    "revenue_id": 969
+  },
+  {
+    "id": 149,
+    "strategy_type": "客户驱动",
+    "impact_description": "提升收入10%",
+    "impact_date": "2022-09-26",
+    "revenue_id": 864
+  },
+  {
+    "id": 150,
+    "strategy_type": "AI优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2021-11-13",
+    "revenue_id": 630
+  },
+  {
+    "id": 151,
+    "strategy_type": "技术驱动",
+    "impact_description": "运营成本降低",
+    "impact_date": "2022-04-29",
+    "revenue_id": 265
+  },
+  {
+    "id": 152,
+    "strategy_type": "技术驱动",
+    "impact_description": "运营成本降低",
+    "impact_date": "2021-07-02",
+    "revenue_id": 672
+  },
+  {
+    "id": 153,
+    "strategy_type": "生态优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2022-04-06",
+    "revenue_id": 50
+  },
+  {
+    "id": 154,
+    "strategy_type": "公共云优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2021-09-18",
+    "revenue_id": 850
+  },
+  {
+    "id": 155,
+    "strategy_type": "生态优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2023-09-05",
+    "revenue_id": 140
+  },
+  {
+    "id": 156,
+    "strategy_type": "AI优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2021-11-25",
+    "revenue_id": 947
+  },
+  {
+    "id": 157,
+    "strategy_type": "技术驱动",
+    "impact_description": "客户增长加速",
+    "impact_date": "2022-03-20",
+    "revenue_id": 184
+  },
+  {
+    "id": 158,
+    "strategy_type": "客户驱动",
+    "impact_description": "提升收入10%",
+    "impact_date": "2021-02-24",
+    "revenue_id": 147
+  },
+  {
+    "id": 159,
+    "strategy_type": "公共云优先",
+    "impact_description": "客户增长加速",
+    "impact_date": "2021-11-16",
+    "revenue_id": 249
+  },
+  {
+    "id": 160,
+    "strategy_type": "客户驱动",
+    "impact_description": "运营成本降低",
+    "impact_date": "2022-02-19",
+    "revenue_id": 336
+  },
+  {
+    "id": 161,
+    "strategy_type": "技术驱动",
+    "impact_description": "运营成本降低",
+    "impact_date": "2023-06-06",
+    "revenue_id": 136
+  },
+  {
+    "id": 162,
+    "strategy_type": "技术驱动",
+    "impact_description": "新市场开拓",
+    "impact_date": "2022-07-21",
+    "revenue_id": 259
+  },
+  {
+    "id": 163,
+    "strategy_type": "生态优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2021-01-15",
+    "revenue_id": 58
+  },
+  {
+    "id": 164,
+    "strategy_type": "技术驱动",
+    "impact_description": "新市场开拓",
+    "impact_date": "2022-09-13",
+    "revenue_id": 290
+  },
+  {
+    "id": 165,
+    "strategy_type": "客户驱动",
+    "impact_description": "提升收入10%",
+    "impact_date": "2021-12-09",
+    "revenue_id": 317
+  },
+  {
+    "id": 166,
+    "strategy_type": "技术驱动",
+    "impact_description": "新市场开拓",
+    "impact_date": "2022-07-22",
+    "revenue_id": 231
+  },
+  {
+    "id": 167,
+    "strategy_type": "技术驱动",
+    "impact_description": "运营成本降低",
+    "impact_date": "2021-12-28",
+    "revenue_id": 746
+  },
+  {
+    "id": 168,
+    "strategy_type": "公共云优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2023-04-30",
+    "revenue_id": 285
+  },
+  {
+    "id": 169,
+    "strategy_type": "公共云优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2022-02-27",
+    "revenue_id": 349
+  },
+  {
+    "id": 170,
+    "strategy_type": "AI优先",
+    "impact_description": "客户增长加速",
+    "impact_date": "2022-09-10",
+    "revenue_id": 764
+  },
+  {
+    "id": 171,
+    "strategy_type": "生态优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2023-09-29",
+    "revenue_id": 585
+  },
+  {
+    "id": 172,
+    "strategy_type": "技术驱动",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2022-10-28",
+    "revenue_id": 884
+  },
+  {
+    "id": 173,
+    "strategy_type": "技术驱动",
+    "impact_description": "提升收入10%",
+    "impact_date": "2021-12-11",
+    "revenue_id": 925
+  },
+  {
+    "id": 174,
+    "strategy_type": "客户驱动",
+    "impact_description": "运营成本降低",
+    "impact_date": "2023-05-25",
+    "revenue_id": 932
+  },
+  {
+    "id": 175,
+    "strategy_type": "公共云优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2021-12-10",
+    "revenue_id": 564
+  },
+  {
+    "id": 176,
+    "strategy_type": "技术驱动",
+    "impact_description": "新市场开拓",
+    "impact_date": "2021-08-10",
+    "revenue_id": 257
+  },
+  {
+    "id": 177,
+    "strategy_type": "生态优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2021-11-10",
+    "revenue_id": 392
+  },
+  {
+    "id": 178,
+    "strategy_type": "技术驱动",
+    "impact_description": "新市场开拓",
+    "impact_date": "2022-02-22",
+    "revenue_id": 959
+  },
+  {
+    "id": 179,
+    "strategy_type": "客户驱动",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2023-07-21",
+    "revenue_id": 511
+  },
+  {
+    "id": 180,
+    "strategy_type": "客户驱动",
+    "impact_description": "客户增长加速",
+    "impact_date": "2021-07-23",
+    "revenue_id": 96
+  },
+  {
+    "id": 181,
+    "strategy_type": "技术驱动",
+    "impact_description": "客户增长加速",
+    "impact_date": "2021-06-11",
+    "revenue_id": 126
+  },
+  {
+    "id": 182,
+    "strategy_type": "公共云优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2023-05-31",
+    "revenue_id": 958
+  },
+  {
+    "id": 183,
+    "strategy_type": "生态优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2023-03-18",
+    "revenue_id": 158
+  },
+  {
+    "id": 184,
+    "strategy_type": "公共云优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2023-09-21",
+    "revenue_id": 99
+  },
+  {
+    "id": 185,
+    "strategy_type": "客户驱动",
+    "impact_description": "客户增长加速",
+    "impact_date": "2023-06-25",
+    "revenue_id": 977
+  },
+  {
+    "id": 186,
+    "strategy_type": "公共云优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2022-08-02",
+    "revenue_id": 156
+  },
+  {
+    "id": 187,
+    "strategy_type": "客户驱动",
+    "impact_description": "客户增长加速",
+    "impact_date": "2021-05-23",
+    "revenue_id": 821
+  },
+  {
+    "id": 188,
+    "strategy_type": "生态优先",
+    "impact_description": "客户增长加速",
+    "impact_date": "2022-10-08",
+    "revenue_id": 404
+  },
+  {
+    "id": 189,
+    "strategy_type": "技术驱动",
+    "impact_description": "客户增长加速",
+    "impact_date": "2021-11-08",
+    "revenue_id": 844
+  },
+  {
+    "id": 190,
+    "strategy_type": "技术驱动",
+    "impact_description": "新市场开拓",
+    "impact_date": "2021-05-05",
+    "revenue_id": 11
+  },
+  {
+    "id": 191,
+    "strategy_type": "技术驱动",
+    "impact_description": "运营成本降低",
+    "impact_date": "2021-05-09",
+    "revenue_id": 95
+  },
+  {
+    "id": 192,
+    "strategy_type": "生态优先",
+    "impact_description": "客户增长加速",
+    "impact_date": "2022-02-08",
+    "revenue_id": 203
+  },
+  {
+    "id": 193,
+    "strategy_type": "生态优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2021-07-06",
+    "revenue_id": 822
+  },
+  {
+    "id": 194,
+    "strategy_type": "AI优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2021-10-16",
+    "revenue_id": 73
+  },
+  {
+    "id": 195,
+    "strategy_type": "客户驱动",
+    "impact_description": "客户增长加速",
+    "impact_date": "2023-09-06",
+    "revenue_id": 984
+  },
+  {
+    "id": 196,
+    "strategy_type": "AI优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2023-01-11",
+    "revenue_id": 446
+  },
+  {
+    "id": 197,
+    "strategy_type": "生态优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2021-07-30",
+    "revenue_id": 932
+  },
+  {
+    "id": 198,
+    "strategy_type": "AI优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2023-02-26",
+    "revenue_id": 535
+  },
+  {
+    "id": 199,
+    "strategy_type": "客户驱动",
+    "impact_description": "客户增长加速",
+    "impact_date": "2021-09-14",
+    "revenue_id": 690
+  },
+  {
+    "id": 200,
+    "strategy_type": "技术驱动",
+    "impact_description": "新市场开拓",
+    "impact_date": "2022-10-25",
+    "revenue_id": 208
+  },
+  {
+    "id": 201,
+    "strategy_type": "客户驱动",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2022-12-13",
+    "revenue_id": 449
+  },
+  {
+    "id": 202,
+    "strategy_type": "客户驱动",
+    "impact_description": "新市场开拓",
+    "impact_date": "2021-05-25",
+    "revenue_id": 30
+  },
+  {
+    "id": 203,
+    "strategy_type": "技术驱动",
+    "impact_description": "新市场开拓",
+    "impact_date": "2021-09-10",
+    "revenue_id": 659
+  },
+  {
+    "id": 204,
+    "strategy_type": "AI优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2023-09-29",
+    "revenue_id": 533
+  },
+  {
+    "id": 205,
+    "strategy_type": "AI优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2021-03-05",
+    "revenue_id": 121
+  },
+  {
+    "id": 206,
+    "strategy_type": "公共云优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2023-09-19",
+    "revenue_id": 612
+  },
+  {
+    "id": 207,
+    "strategy_type": "客户驱动",
+    "impact_description": "提升收入10%",
+    "impact_date": "2021-01-14",
+    "revenue_id": 854
+  },
+  {
+    "id": 208,
+    "strategy_type": "公共云优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2023-03-12",
+    "revenue_id": 187
+  },
+  {
+    "id": 209,
+    "strategy_type": "技术驱动",
+    "impact_description": "客户增长加速",
+    "impact_date": "2022-08-09",
+    "revenue_id": 258
+  },
+  {
+    "id": 210,
+    "strategy_type": "公共云优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2023-04-02",
+    "revenue_id": 337
+  },
+  {
+    "id": 211,
+    "strategy_type": "技术驱动",
+    "impact_description": "提升收入10%",
+    "impact_date": "2021-01-28",
+    "revenue_id": 332
+  },
+  {
+    "id": 212,
+    "strategy_type": "公共云优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2023-10-29",
+    "revenue_id": 198
+  },
+  {
+    "id": 213,
+    "strategy_type": "公共云优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2023-09-10",
+    "revenue_id": 435
+  },
+  {
+    "id": 214,
+    "strategy_type": "客户驱动",
+    "impact_description": "运营成本降低",
+    "impact_date": "2023-06-03",
+    "revenue_id": 157
+  },
+  {
+    "id": 215,
+    "strategy_type": "技术驱动",
+    "impact_description": "提升收入10%",
+    "impact_date": "2021-08-15",
+    "revenue_id": 827
+  },
+  {
+    "id": 216,
+    "strategy_type": "生态优先",
+    "impact_description": "客户增长加速",
+    "impact_date": "2023-09-11",
+    "revenue_id": 576
+  },
+  {
+    "id": 217,
+    "strategy_type": "公共云优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2022-10-31",
+    "revenue_id": 191
+  },
+  {
+    "id": 218,
+    "strategy_type": "公共云优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2022-04-03",
+    "revenue_id": 168
+  },
+  {
+    "id": 219,
+    "strategy_type": "客户驱动",
+    "impact_description": "提升收入10%",
+    "impact_date": "2021-04-03",
+    "revenue_id": 383
+  },
+  {
+    "id": 220,
+    "strategy_type": "AI优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2023-05-29",
+    "revenue_id": 691
+  },
+  {
+    "id": 221,
+    "strategy_type": "生态优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2021-05-26",
+    "revenue_id": 130
+  },
+  {
+    "id": 222,
+    "strategy_type": "生态优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2021-06-03",
+    "revenue_id": 506
+  },
+  {
+    "id": 223,
+    "strategy_type": "客户驱动",
+    "impact_description": "新市场开拓",
+    "impact_date": "2023-04-29",
+    "revenue_id": 159
+  },
+  {
+    "id": 224,
+    "strategy_type": "客户驱动",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2022-12-04",
+    "revenue_id": 548
+  },
+  {
+    "id": 225,
+    "strategy_type": "AI优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2023-02-07",
+    "revenue_id": 291
+  },
+  {
+    "id": 226,
+    "strategy_type": "客户驱动",
+    "impact_description": "客户增长加速",
+    "impact_date": "2023-02-23",
+    "revenue_id": 845
+  },
+  {
+    "id": 227,
+    "strategy_type": "公共云优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2022-09-29",
+    "revenue_id": 71
+  },
+  {
+    "id": 228,
+    "strategy_type": "技术驱动",
+    "impact_description": "运营成本降低",
+    "impact_date": "2021-07-24",
+    "revenue_id": 354
+  },
+  {
+    "id": 229,
+    "strategy_type": "公共云优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2023-01-17",
+    "revenue_id": 491
+  },
+  {
+    "id": 230,
+    "strategy_type": "技术驱动",
+    "impact_description": "新市场开拓",
+    "impact_date": "2021-06-23",
+    "revenue_id": 282
+  },
+  {
+    "id": 231,
+    "strategy_type": "生态优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2021-04-19",
+    "revenue_id": 777
+  },
+  {
+    "id": 232,
+    "strategy_type": "AI优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2023-10-29",
+    "revenue_id": 158
+  },
+  {
+    "id": 233,
+    "strategy_type": "技术驱动",
+    "impact_description": "提升收入10%",
+    "impact_date": "2023-11-23",
+    "revenue_id": 113
+  },
+  {
+    "id": 234,
+    "strategy_type": "客户驱动",
+    "impact_description": "客户增长加速",
+    "impact_date": "2021-05-04",
+    "revenue_id": 439
+  },
+  {
+    "id": 235,
+    "strategy_type": "AI优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2021-09-15",
+    "revenue_id": 494
+  },
+  {
+    "id": 236,
+    "strategy_type": "公共云优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2021-03-19",
+    "revenue_id": 169
+  },
+  {
+    "id": 237,
+    "strategy_type": "生态优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2022-06-30",
+    "revenue_id": 756
+  },
+  {
+    "id": 238,
+    "strategy_type": "客户驱动",
+    "impact_description": "提升收入10%",
+    "impact_date": "2022-07-18",
+    "revenue_id": 492
+  },
+  {
+    "id": 239,
+    "strategy_type": "公共云优先",
+    "impact_description": "客户增长加速",
+    "impact_date": "2021-10-16",
+    "revenue_id": 129
+  },
+  {
+    "id": 240,
+    "strategy_type": "生态优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2022-05-03",
+    "revenue_id": 498
+  },
+  {
+    "id": 241,
+    "strategy_type": "客户驱动",
+    "impact_description": "运营成本降低",
+    "impact_date": "2021-11-29",
+    "revenue_id": 289
+  },
+  {
+    "id": 242,
+    "strategy_type": "公共云优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2022-04-30",
+    "revenue_id": 674
+  },
+  {
+    "id": 243,
+    "strategy_type": "生态优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2021-02-03",
+    "revenue_id": 684
+  },
+  {
+    "id": 244,
+    "strategy_type": "生态优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2022-12-08",
+    "revenue_id": 877
+  },
+  {
+    "id": 245,
+    "strategy_type": "AI优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2022-03-22",
+    "revenue_id": 3
+  },
+  {
+    "id": 246,
+    "strategy_type": "技术驱动",
+    "impact_description": "运营成本降低",
+    "impact_date": "2021-10-29",
+    "revenue_id": 565
+  },
+  {
+    "id": 247,
+    "strategy_type": "技术驱动",
+    "impact_description": "提升收入10%",
+    "impact_date": "2023-01-15",
+    "revenue_id": 224
+  },
+  {
+    "id": 248,
+    "strategy_type": "技术驱动",
+    "impact_description": "新市场开拓",
+    "impact_date": "2022-03-20",
+    "revenue_id": 101
+  },
+  {
+    "id": 249,
+    "strategy_type": "技术驱动",
+    "impact_description": "新市场开拓",
+    "impact_date": "2021-11-20",
+    "revenue_id": 842
+  },
+  {
+    "id": 250,
+    "strategy_type": "技术驱动",
+    "impact_description": "新市场开拓",
+    "impact_date": "2023-11-07",
+    "revenue_id": 816
+  },
+  {
+    "id": 251,
+    "strategy_type": "生态优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2022-07-09",
+    "revenue_id": 341
+  },
+  {
+    "id": 252,
+    "strategy_type": "技术驱动",
+    "impact_description": "提升收入10%",
+    "impact_date": "2022-11-08",
+    "revenue_id": 699
+  },
+  {
+    "id": 253,
+    "strategy_type": "客户驱动",
+    "impact_description": "新市场开拓",
+    "impact_date": "2021-10-31",
+    "revenue_id": 495
+  },
+  {
+    "id": 254,
+    "strategy_type": "客户驱动",
+    "impact_description": "新市场开拓",
+    "impact_date": "2022-01-10",
+    "revenue_id": 895
+  },
+  {
+    "id": 255,
+    "strategy_type": "技术驱动",
+    "impact_description": "运营成本降低",
+    "impact_date": "2022-12-08",
+    "revenue_id": 89
+  },
+  {
+    "id": 256,
+    "strategy_type": "AI优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2023-06-30",
+    "revenue_id": 446
+  },
+  {
+    "id": 257,
+    "strategy_type": "公共云优先",
+    "impact_description": "客户增长加速",
+    "impact_date": "2022-06-11",
+    "revenue_id": 187
+  },
+  {
+    "id": 258,
+    "strategy_type": "公共云优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2023-06-29",
+    "revenue_id": 604
+  },
+  {
+    "id": 259,
+    "strategy_type": "客户驱动",
+    "impact_description": "运营成本降低",
+    "impact_date": "2021-06-27",
+    "revenue_id": 442
+  },
+  {
+    "id": 260,
+    "strategy_type": "技术驱动",
+    "impact_description": "新市场开拓",
+    "impact_date": "2021-03-10",
+    "revenue_id": 269
+  },
+  {
+    "id": 261,
+    "strategy_type": "生态优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2023-03-26",
+    "revenue_id": 331
+  },
+  {
+    "id": 262,
+    "strategy_type": "客户驱动",
+    "impact_description": "新市场开拓",
+    "impact_date": "2021-07-02",
+    "revenue_id": 424
+  },
+  {
+    "id": 263,
+    "strategy_type": "生态优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2022-05-18",
+    "revenue_id": 71
+  },
+  {
+    "id": 264,
+    "strategy_type": "客户驱动",
+    "impact_description": "新市场开拓",
+    "impact_date": "2022-02-15",
+    "revenue_id": 680
+  },
+  {
+    "id": 265,
+    "strategy_type": "AI优先",
+    "impact_description": "客户增长加速",
+    "impact_date": "2023-09-09",
+    "revenue_id": 613
+  },
+  {
+    "id": 266,
+    "strategy_type": "技术驱动",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2023-06-21",
+    "revenue_id": 950
+  },
+  {
+    "id": 267,
+    "strategy_type": "生态优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2022-08-12",
+    "revenue_id": 921
+  },
+  {
+    "id": 268,
+    "strategy_type": "生态优先",
+    "impact_description": "客户增长加速",
+    "impact_date": "2021-01-04",
+    "revenue_id": 637
+  },
+  {
+    "id": 269,
+    "strategy_type": "公共云优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2022-03-31",
+    "revenue_id": 921
+  },
+  {
+    "id": 270,
+    "strategy_type": "客户驱动",
+    "impact_description": "客户增长加速",
+    "impact_date": "2022-02-26",
+    "revenue_id": 29
+  },
+  {
+    "id": 271,
+    "strategy_type": "生态优先",
+    "impact_description": "客户增长加速",
+    "impact_date": "2021-11-30",
+    "revenue_id": 75
+  },
+  {
+    "id": 272,
+    "strategy_type": "AI优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2023-10-29",
+    "revenue_id": 338
+  },
+  {
+    "id": 273,
+    "strategy_type": "生态优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2022-10-15",
+    "revenue_id": 463
+  },
+  {
+    "id": 274,
+    "strategy_type": "生态优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2021-02-05",
+    "revenue_id": 819
+  },
+  {
+    "id": 275,
+    "strategy_type": "客户驱动",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2021-08-25",
+    "revenue_id": 904
+  },
+  {
+    "id": 276,
+    "strategy_type": "客户驱动",
+    "impact_description": "新市场开拓",
+    "impact_date": "2022-10-05",
+    "revenue_id": 114
+  },
+  {
+    "id": 277,
+    "strategy_type": "生态优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2021-03-31",
+    "revenue_id": 850
+  },
+  {
+    "id": 278,
+    "strategy_type": "生态优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2021-07-31",
+    "revenue_id": 191
+  },
+  {
+    "id": 279,
+    "strategy_type": "技术驱动",
+    "impact_description": "新市场开拓",
+    "impact_date": "2022-12-11",
+    "revenue_id": 186
+  },
+  {
+    "id": 280,
+    "strategy_type": "AI优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2021-05-29",
+    "revenue_id": 516
+  },
+  {
+    "id": 281,
+    "strategy_type": "客户驱动",
+    "impact_description": "运营成本降低",
+    "impact_date": "2022-12-31",
+    "revenue_id": 38
+  },
+  {
+    "id": 282,
+    "strategy_type": "技术驱动",
+    "impact_description": "运营成本降低",
+    "impact_date": "2021-12-10",
+    "revenue_id": 232
+  },
+  {
+    "id": 283,
+    "strategy_type": "公共云优先",
+    "impact_description": "客户增长加速",
+    "impact_date": "2022-10-25",
+    "revenue_id": 687
+  },
+  {
+    "id": 284,
+    "strategy_type": "客户驱动",
+    "impact_description": "客户增长加速",
+    "impact_date": "2021-09-18",
+    "revenue_id": 152
+  },
+  {
+    "id": 285,
+    "strategy_type": "客户驱动",
+    "impact_description": "运营成本降低",
+    "impact_date": "2021-10-16",
+    "revenue_id": 17
+  },
+  {
+    "id": 286,
+    "strategy_type": "客户驱动",
+    "impact_description": "新市场开拓",
+    "impact_date": "2023-04-10",
+    "revenue_id": 542
+  },
+  {
+    "id": 287,
+    "strategy_type": "AI优先",
+    "impact_description": "客户增长加速",
+    "impact_date": "2023-03-16",
+    "revenue_id": 5
+  },
+  {
+    "id": 288,
+    "strategy_type": "AI优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2022-08-09",
+    "revenue_id": 700
+  },
+  {
+    "id": 289,
+    "strategy_type": "技术驱动",
+    "impact_description": "客户增长加速",
+    "impact_date": "2023-08-25",
+    "revenue_id": 235
+  },
+  {
+    "id": 290,
+    "strategy_type": "客户驱动",
+    "impact_description": "新市场开拓",
+    "impact_date": "2022-07-03",
+    "revenue_id": 737
+  },
+  {
+    "id": 291,
+    "strategy_type": "生态优先",
+    "impact_description": "客户增长加速",
+    "impact_date": "2022-03-06",
+    "revenue_id": 375
+  },
+  {
+    "id": 292,
+    "strategy_type": "AI优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2021-03-28",
+    "revenue_id": 965
+  },
+  {
+    "id": 293,
+    "strategy_type": "技术驱动",
+    "impact_description": "新市场开拓",
+    "impact_date": "2021-02-01",
+    "revenue_id": 350
+  },
+  {
+    "id": 294,
+    "strategy_type": "公共云优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2021-06-10",
+    "revenue_id": 189
+  },
+  {
+    "id": 295,
+    "strategy_type": "AI优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2022-10-14",
+    "revenue_id": 579
+  },
+  {
+    "id": 296,
+    "strategy_type": "技术驱动",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2022-03-05",
+    "revenue_id": 59
+  },
+  {
+    "id": 297,
+    "strategy_type": "AI优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2021-10-17",
+    "revenue_id": 49
+  },
+  {
+    "id": 298,
+    "strategy_type": "生态优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2021-02-16",
+    "revenue_id": 787
+  },
+  {
+    "id": 299,
+    "strategy_type": "AI优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2021-01-03",
+    "revenue_id": 665
+  },
+  {
+    "id": 300,
+    "strategy_type": "公共云优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2021-02-16",
+    "revenue_id": 763
+  },
+  {
+    "id": 301,
+    "strategy_type": "公共云优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2022-04-30",
+    "revenue_id": 823
+  },
+  {
+    "id": 302,
+    "strategy_type": "生态优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2021-09-17",
+    "revenue_id": 807
+  },
+  {
+    "id": 303,
+    "strategy_type": "客户驱动",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2022-08-29",
+    "revenue_id": 187
+  },
+  {
+    "id": 304,
+    "strategy_type": "生态优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2021-03-17",
+    "revenue_id": 293
+  },
+  {
+    "id": 305,
+    "strategy_type": "客户驱动",
+    "impact_description": "客户增长加速",
+    "impact_date": "2021-08-06",
+    "revenue_id": 24
+  },
+  {
+    "id": 306,
+    "strategy_type": "生态优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2022-12-06",
+    "revenue_id": 253
+  },
+  {
+    "id": 307,
+    "strategy_type": "公共云优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2021-11-03",
+    "revenue_id": 233
+  },
+  {
+    "id": 308,
+    "strategy_type": "技术驱动",
+    "impact_description": "客户增长加速",
+    "impact_date": "2022-05-23",
+    "revenue_id": 476
+  },
+  {
+    "id": 309,
+    "strategy_type": "AI优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2023-05-30",
+    "revenue_id": 459
+  },
+  {
+    "id": 310,
+    "strategy_type": "技术驱动",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2021-10-26",
+    "revenue_id": 16
+  },
+  {
+    "id": 311,
+    "strategy_type": "AI优先",
+    "impact_description": "客户增长加速",
+    "impact_date": "2023-12-01",
+    "revenue_id": 70
+  },
+  {
+    "id": 312,
+    "strategy_type": "公共云优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2022-10-25",
+    "revenue_id": 830
+  },
+  {
+    "id": 313,
+    "strategy_type": "AI优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2023-03-07",
+    "revenue_id": 561
+  },
+  {
+    "id": 314,
+    "strategy_type": "生态优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2021-10-11",
+    "revenue_id": 711
+  },
+  {
+    "id": 315,
+    "strategy_type": "技术驱动",
+    "impact_description": "新市场开拓",
+    "impact_date": "2021-05-26",
+    "revenue_id": 134
+  },
+  {
+    "id": 316,
+    "strategy_type": "技术驱动",
+    "impact_description": "客户增长加速",
+    "impact_date": "2022-05-01",
+    "revenue_id": 95
+  },
+  {
+    "id": 317,
+    "strategy_type": "技术驱动",
+    "impact_description": "客户增长加速",
+    "impact_date": "2023-10-24",
+    "revenue_id": 498
+  },
+  {
+    "id": 318,
+    "strategy_type": "客户驱动",
+    "impact_description": "提升收入10%",
+    "impact_date": "2022-01-03",
+    "revenue_id": 341
+  },
+  {
+    "id": 319,
+    "strategy_type": "客户驱动",
+    "impact_description": "提升收入10%",
+    "impact_date": "2022-05-21",
+    "revenue_id": 417
+  },
+  {
+    "id": 320,
+    "strategy_type": "生态优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2021-03-03",
+    "revenue_id": 739
+  },
+  {
+    "id": 321,
+    "strategy_type": "生态优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2022-06-25",
+    "revenue_id": 82
+  },
+  {
+    "id": 322,
+    "strategy_type": "生态优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2023-06-19",
+    "revenue_id": 197
+  },
+  {
+    "id": 323,
+    "strategy_type": "技术驱动",
+    "impact_description": "运营成本降低",
+    "impact_date": "2022-08-08",
+    "revenue_id": 935
+  },
+  {
+    "id": 324,
+    "strategy_type": "客户驱动",
+    "impact_description": "客户增长加速",
+    "impact_date": "2022-01-15",
+    "revenue_id": 707
+  },
+  {
+    "id": 325,
+    "strategy_type": "公共云优先",
+    "impact_description": "客户增长加速",
+    "impact_date": "2022-02-18",
+    "revenue_id": 144
+  },
+  {
+    "id": 326,
+    "strategy_type": "技术驱动",
+    "impact_description": "运营成本降低",
+    "impact_date": "2021-12-22",
+    "revenue_id": 1000
+  },
+  {
+    "id": 327,
+    "strategy_type": "AI优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2021-11-19",
+    "revenue_id": 798
+  },
+  {
+    "id": 328,
+    "strategy_type": "公共云优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2023-11-10",
+    "revenue_id": 667
+  },
+  {
+    "id": 329,
+    "strategy_type": "技术驱动",
+    "impact_description": "运营成本降低",
+    "impact_date": "2022-05-23",
+    "revenue_id": 997
+  },
+  {
+    "id": 330,
+    "strategy_type": "AI优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2022-03-10",
+    "revenue_id": 818
+  },
+  {
+    "id": 331,
+    "strategy_type": "客户驱动",
+    "impact_description": "新市场开拓",
+    "impact_date": "2023-03-25",
+    "revenue_id": 348
+  },
+  {
+    "id": 332,
+    "strategy_type": "生态优先",
+    "impact_description": "客户增长加速",
+    "impact_date": "2021-08-25",
+    "revenue_id": 485
+  },
+  {
+    "id": 333,
+    "strategy_type": "生态优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2022-07-01",
+    "revenue_id": 176
+  },
+  {
+    "id": 334,
+    "strategy_type": "AI优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2022-04-12",
+    "revenue_id": 576
+  },
+  {
+    "id": 335,
+    "strategy_type": "技术驱动",
+    "impact_description": "提升收入10%",
+    "impact_date": "2021-11-05",
+    "revenue_id": 536
+  },
+  {
+    "id": 336,
+    "strategy_type": "公共云优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2022-03-22",
+    "revenue_id": 567
+  },
+  {
+    "id": 337,
+    "strategy_type": "公共云优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2021-12-16",
+    "revenue_id": 331
+  },
+  {
+    "id": 338,
+    "strategy_type": "生态优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2022-12-05",
+    "revenue_id": 540
+  },
+  {
+    "id": 339,
+    "strategy_type": "客户驱动",
+    "impact_description": "运营成本降低",
+    "impact_date": "2022-02-12",
+    "revenue_id": 946
+  },
+  {
+    "id": 340,
+    "strategy_type": "公共云优先",
+    "impact_description": "客户增长加速",
+    "impact_date": "2022-01-06",
+    "revenue_id": 67
+  },
+  {
+    "id": 341,
+    "strategy_type": "技术驱动",
+    "impact_description": "客户增长加速",
+    "impact_date": "2023-04-11",
+    "revenue_id": 377
+  },
+  {
+    "id": 342,
+    "strategy_type": "客户驱动",
+    "impact_description": "运营成本降低",
+    "impact_date": "2021-06-13",
+    "revenue_id": 418
+  },
+  {
+    "id": 343,
+    "strategy_type": "AI优先",
+    "impact_description": "客户增长加速",
+    "impact_date": "2022-09-02",
+    "revenue_id": 758
+  },
+  {
+    "id": 344,
+    "strategy_type": "生态优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2023-08-07",
+    "revenue_id": 36
+  },
+  {
+    "id": 345,
+    "strategy_type": "生态优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2022-01-21",
+    "revenue_id": 59
+  },
+  {
+    "id": 346,
+    "strategy_type": "公共云优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2023-11-18",
+    "revenue_id": 721
+  },
+  {
+    "id": 347,
+    "strategy_type": "AI优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2022-01-02",
+    "revenue_id": 426
+  },
+  {
+    "id": 348,
+    "strategy_type": "公共云优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2021-12-12",
+    "revenue_id": 916
+  },
+  {
+    "id": 349,
+    "strategy_type": "技术驱动",
+    "impact_description": "提升收入10%",
+    "impact_date": "2021-02-26",
+    "revenue_id": 85
+  },
+  {
+    "id": 350,
+    "strategy_type": "生态优先",
+    "impact_description": "客户增长加速",
+    "impact_date": "2023-11-22",
+    "revenue_id": 541
+  },
+  {
+    "id": 351,
+    "strategy_type": "客户驱动",
+    "impact_description": "新市场开拓",
+    "impact_date": "2022-02-21",
+    "revenue_id": 91
+  },
+  {
+    "id": 352,
+    "strategy_type": "AI优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2022-01-17",
+    "revenue_id": 638
+  },
+  {
+    "id": 353,
+    "strategy_type": "技术驱动",
+    "impact_description": "提升收入10%",
+    "impact_date": "2021-08-18",
+    "revenue_id": 39
+  },
+  {
+    "id": 354,
+    "strategy_type": "生态优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2023-05-20",
+    "revenue_id": 757
+  },
+  {
+    "id": 355,
+    "strategy_type": "AI优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2023-11-05",
+    "revenue_id": 555
+  },
+  {
+    "id": 356,
+    "strategy_type": "AI优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2021-06-02",
+    "revenue_id": 510
+  },
+  {
+    "id": 357,
+    "strategy_type": "生态优先",
+    "impact_description": "客户增长加速",
+    "impact_date": "2023-08-15",
+    "revenue_id": 472
+  },
+  {
+    "id": 358,
+    "strategy_type": "客户驱动",
+    "impact_description": "提升收入10%",
+    "impact_date": "2021-05-26",
+    "revenue_id": 916
+  },
+  {
+    "id": 359,
+    "strategy_type": "客户驱动",
+    "impact_description": "运营成本降低",
+    "impact_date": "2023-08-27",
+    "revenue_id": 492
+  },
+  {
+    "id": 360,
+    "strategy_type": "客户驱动",
+    "impact_description": "提升收入10%",
+    "impact_date": "2021-09-19",
+    "revenue_id": 141
+  },
+  {
+    "id": 361,
+    "strategy_type": "客户驱动",
+    "impact_description": "运营成本降低",
+    "impact_date": "2021-02-06",
+    "revenue_id": 831
+  },
+  {
+    "id": 362,
+    "strategy_type": "生态优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2023-03-02",
+    "revenue_id": 788
+  },
+  {
+    "id": 363,
+    "strategy_type": "生态优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2023-05-04",
+    "revenue_id": 542
+  },
+  {
+    "id": 364,
+    "strategy_type": "AI优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2023-12-03",
+    "revenue_id": 425
+  },
+  {
+    "id": 365,
+    "strategy_type": "公共云优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2021-02-10",
+    "revenue_id": 103
+  },
+  {
+    "id": 366,
+    "strategy_type": "客户驱动",
+    "impact_description": "新市场开拓",
+    "impact_date": "2022-02-17",
+    "revenue_id": 471
+  },
+  {
+    "id": 367,
+    "strategy_type": "客户驱动",
+    "impact_description": "运营成本降低",
+    "impact_date": "2021-06-15",
+    "revenue_id": 879
+  },
+  {
+    "id": 368,
+    "strategy_type": "技术驱动",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2021-10-20",
+    "revenue_id": 541
+  },
+  {
+    "id": 369,
+    "strategy_type": "客户驱动",
+    "impact_description": "客户增长加速",
+    "impact_date": "2022-07-26",
+    "revenue_id": 926
+  },
+  {
+    "id": 370,
+    "strategy_type": "AI优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2021-12-02",
+    "revenue_id": 600
+  },
+  {
+    "id": 371,
+    "strategy_type": "客户驱动",
+    "impact_description": "新市场开拓",
+    "impact_date": "2023-09-22",
+    "revenue_id": 548
+  },
+  {
+    "id": 372,
+    "strategy_type": "生态优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2021-09-05",
+    "revenue_id": 336
+  },
+  {
+    "id": 373,
+    "strategy_type": "技术驱动",
+    "impact_description": "运营成本降低",
+    "impact_date": "2022-03-12",
+    "revenue_id": 271
+  },
+  {
+    "id": 374,
+    "strategy_type": "客户驱动",
+    "impact_description": "运营成本降低",
+    "impact_date": "2023-03-07",
+    "revenue_id": 333
+  },
+  {
+    "id": 375,
+    "strategy_type": "技术驱动",
+    "impact_description": "运营成本降低",
+    "impact_date": "2022-04-01",
+    "revenue_id": 13
+  },
+  {
+    "id": 376,
+    "strategy_type": "客户驱动",
+    "impact_description": "客户增长加速",
+    "impact_date": "2022-09-23",
+    "revenue_id": 489
+  },
+  {
+    "id": 377,
+    "strategy_type": "公共云优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2021-11-24",
+    "revenue_id": 677
+  },
+  {
+    "id": 378,
+    "strategy_type": "客户驱动",
+    "impact_description": "新市场开拓",
+    "impact_date": "2023-08-13",
+    "revenue_id": 678
+  },
+  {
+    "id": 379,
+    "strategy_type": "客户驱动",
+    "impact_description": "运营成本降低",
+    "impact_date": "2023-08-13",
+    "revenue_id": 569
+  },
+  {
+    "id": 380,
+    "strategy_type": "AI优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2023-06-04",
+    "revenue_id": 746
+  },
+  {
+    "id": 381,
+    "strategy_type": "AI优先",
+    "impact_description": "客户增长加速",
+    "impact_date": "2022-10-01",
+    "revenue_id": 99
+  },
+  {
+    "id": 382,
+    "strategy_type": "客户驱动",
+    "impact_description": "运营成本降低",
+    "impact_date": "2021-04-11",
+    "revenue_id": 54
+  },
+  {
+    "id": 383,
+    "strategy_type": "技术驱动",
+    "impact_description": "提升收入10%",
+    "impact_date": "2021-05-03",
+    "revenue_id": 313
+  },
+  {
+    "id": 384,
+    "strategy_type": "技术驱动",
+    "impact_description": "客户增长加速",
+    "impact_date": "2022-07-13",
+    "revenue_id": 869
+  },
+  {
+    "id": 385,
+    "strategy_type": "AI优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2022-05-25",
+    "revenue_id": 419
+  },
+  {
+    "id": 386,
+    "strategy_type": "客户驱动",
+    "impact_description": "提升收入10%",
+    "impact_date": "2021-05-13",
+    "revenue_id": 55
+  },
+  {
+    "id": 387,
+    "strategy_type": "技术驱动",
+    "impact_description": "运营成本降低",
+    "impact_date": "2022-05-16",
+    "revenue_id": 528
+  },
+  {
+    "id": 388,
+    "strategy_type": "技术驱动",
+    "impact_description": "新市场开拓",
+    "impact_date": "2021-11-10",
+    "revenue_id": 18
+  },
+  {
+    "id": 389,
+    "strategy_type": "生态优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2021-12-09",
+    "revenue_id": 471
+  },
+  {
+    "id": 390,
+    "strategy_type": "客户驱动",
+    "impact_description": "提升收入10%",
+    "impact_date": "2022-06-01",
+    "revenue_id": 938
+  },
+  {
+    "id": 391,
+    "strategy_type": "技术驱动",
+    "impact_description": "新市场开拓",
+    "impact_date": "2023-10-28",
+    "revenue_id": 5
+  },
+  {
+    "id": 392,
+    "strategy_type": "公共云优先",
+    "impact_description": "客户增长加速",
+    "impact_date": "2021-07-24",
+    "revenue_id": 717
+  },
+  {
+    "id": 393,
+    "strategy_type": "客户驱动",
+    "impact_description": "运营成本降低",
+    "impact_date": "2023-07-20",
+    "revenue_id": 477
+  },
+  {
+    "id": 394,
+    "strategy_type": "AI优先",
+    "impact_description": "客户增长加速",
+    "impact_date": "2022-05-27",
+    "revenue_id": 723
+  },
+  {
+    "id": 395,
+    "strategy_type": "生态优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2021-01-20",
+    "revenue_id": 788
+  },
+  {
+    "id": 396,
+    "strategy_type": "客户驱动",
+    "impact_description": "提升收入10%",
+    "impact_date": "2022-12-05",
+    "revenue_id": 342
+  },
+  {
+    "id": 397,
+    "strategy_type": "生态优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2022-03-08",
+    "revenue_id": 620
+  },
+  {
+    "id": 398,
+    "strategy_type": "客户驱动",
+    "impact_description": "客户增长加速",
+    "impact_date": "2022-03-03",
+    "revenue_id": 240
+  },
+  {
+    "id": 399,
+    "strategy_type": "公共云优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2022-10-19",
+    "revenue_id": 587
+  },
+  {
+    "id": 400,
+    "strategy_type": "AI优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2023-03-24",
+    "revenue_id": 228
+  },
+  {
+    "id": 401,
+    "strategy_type": "生态优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2022-06-12",
+    "revenue_id": 854
+  },
+  {
+    "id": 402,
+    "strategy_type": "生态优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2023-02-25",
+    "revenue_id": 141
+  },
+  {
+    "id": 403,
+    "strategy_type": "客户驱动",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2022-10-18",
+    "revenue_id": 379
+  },
+  {
+    "id": 404,
+    "strategy_type": "生态优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2023-06-02",
+    "revenue_id": 154
+  },
+  {
+    "id": 405,
+    "strategy_type": "公共云优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2022-12-31",
+    "revenue_id": 355
+  },
+  {
+    "id": 406,
+    "strategy_type": "公共云优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2023-03-05",
+    "revenue_id": 313
+  },
+  {
+    "id": 407,
+    "strategy_type": "客户驱动",
+    "impact_description": "运营成本降低",
+    "impact_date": "2022-02-13",
+    "revenue_id": 920
+  },
+  {
+    "id": 408,
+    "strategy_type": "AI优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2021-09-22",
+    "revenue_id": 522
+  },
+  {
+    "id": 409,
+    "strategy_type": "生态优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2022-01-17",
+    "revenue_id": 354
+  },
+  {
+    "id": 410,
+    "strategy_type": "公共云优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2023-10-09",
+    "revenue_id": 724
+  },
+  {
+    "id": 411,
+    "strategy_type": "生态优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2021-10-10",
+    "revenue_id": 442
+  },
+  {
+    "id": 412,
+    "strategy_type": "AI优先",
+    "impact_description": "客户增长加速",
+    "impact_date": "2022-06-08",
+    "revenue_id": 922
+  },
+  {
+    "id": 413,
+    "strategy_type": "客户驱动",
+    "impact_description": "运营成本降低",
+    "impact_date": "2021-06-10",
+    "revenue_id": 228
+  },
+  {
+    "id": 414,
+    "strategy_type": "技术驱动",
+    "impact_description": "提升收入10%",
+    "impact_date": "2021-08-16",
+    "revenue_id": 979
+  },
+  {
+    "id": 415,
+    "strategy_type": "AI优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2021-12-15",
+    "revenue_id": 671
+  },
+  {
+    "id": 416,
+    "strategy_type": "生态优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2022-03-06",
+    "revenue_id": 354
+  },
+  {
+    "id": 417,
+    "strategy_type": "公共云优先",
+    "impact_description": "客户增长加速",
+    "impact_date": "2021-10-04",
+    "revenue_id": 455
+  },
+  {
+    "id": 418,
+    "strategy_type": "AI优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2021-10-02",
+    "revenue_id": 457
+  },
+  {
+    "id": 419,
+    "strategy_type": "客户驱动",
+    "impact_description": "提升收入10%",
+    "impact_date": "2022-03-01",
+    "revenue_id": 248
+  },
+  {
+    "id": 420,
+    "strategy_type": "公共云优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2021-08-05",
+    "revenue_id": 900
+  },
+  {
+    "id": 421,
+    "strategy_type": "公共云优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2021-09-05",
+    "revenue_id": 183
+  },
+  {
+    "id": 422,
+    "strategy_type": "技术驱动",
+    "impact_description": "客户增长加速",
+    "impact_date": "2023-01-20",
+    "revenue_id": 85
+  },
+  {
+    "id": 423,
+    "strategy_type": "公共云优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2023-04-08",
+    "revenue_id": 366
+  },
+  {
+    "id": 424,
+    "strategy_type": "AI优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2023-11-03",
+    "revenue_id": 73
+  },
+  {
+    "id": 425,
+    "strategy_type": "客户驱动",
+    "impact_description": "客户增长加速",
+    "impact_date": "2021-11-02",
+    "revenue_id": 464
+  },
+  {
+    "id": 426,
+    "strategy_type": "生态优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2022-06-26",
+    "revenue_id": 164
+  },
+  {
+    "id": 427,
+    "strategy_type": "生态优先",
+    "impact_description": "客户增长加速",
+    "impact_date": "2023-04-21",
+    "revenue_id": 722
+  },
+  {
+    "id": 428,
+    "strategy_type": "客户驱动",
+    "impact_description": "客户增长加速",
+    "impact_date": "2021-07-24",
+    "revenue_id": 650
+  },
+  {
+    "id": 429,
+    "strategy_type": "公共云优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2022-03-30",
+    "revenue_id": 520
+  },
+  {
+    "id": 430,
+    "strategy_type": "公共云优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2023-10-25",
+    "revenue_id": 388
+  },
+  {
+    "id": 431,
+    "strategy_type": "客户驱动",
+    "impact_description": "运营成本降低",
+    "impact_date": "2021-03-16",
+    "revenue_id": 978
+  },
+  {
+    "id": 432,
+    "strategy_type": "技术驱动",
+    "impact_description": "客户增长加速",
+    "impact_date": "2023-02-17",
+    "revenue_id": 487
+  },
+  {
+    "id": 433,
+    "strategy_type": "生态优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2022-10-03",
+    "revenue_id": 596
+  },
+  {
+    "id": 434,
+    "strategy_type": "客户驱动",
+    "impact_description": "客户增长加速",
+    "impact_date": "2023-01-24",
+    "revenue_id": 902
+  },
+  {
+    "id": 435,
+    "strategy_type": "公共云优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2023-07-06",
+    "revenue_id": 320
+  },
+  {
+    "id": 436,
+    "strategy_type": "生态优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2023-11-26",
+    "revenue_id": 98
+  },
+  {
+    "id": 437,
+    "strategy_type": "客户驱动",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2023-08-25",
+    "revenue_id": 414
+  },
+  {
+    "id": 438,
+    "strategy_type": "公共云优先",
+    "impact_description": "客户增长加速",
+    "impact_date": "2021-08-17",
+    "revenue_id": 85
+  },
+  {
+    "id": 439,
+    "strategy_type": "生态优先",
+    "impact_description": "客户增长加速",
+    "impact_date": "2021-11-22",
+    "revenue_id": 887
+  },
+  {
+    "id": 440,
+    "strategy_type": "AI优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2023-12-05",
+    "revenue_id": 171
+  },
+  {
+    "id": 441,
+    "strategy_type": "生态优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2022-09-14",
+    "revenue_id": 337
+  },
+  {
+    "id": 442,
+    "strategy_type": "生态优先",
+    "impact_description": "客户增长加速",
+    "impact_date": "2023-12-03",
+    "revenue_id": 236
+  },
+  {
+    "id": 443,
+    "strategy_type": "生态优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2021-03-13",
+    "revenue_id": 46
+  },
+  {
+    "id": 444,
+    "strategy_type": "客户驱动",
+    "impact_description": "新市场开拓",
+    "impact_date": "2021-10-06",
+    "revenue_id": 549
+  },
+  {
+    "id": 445,
+    "strategy_type": "技术驱动",
+    "impact_description": "新市场开拓",
+    "impact_date": "2023-10-24",
+    "revenue_id": 261
+  },
+  {
+    "id": 446,
+    "strategy_type": "技术驱动",
+    "impact_description": "客户增长加速",
+    "impact_date": "2023-11-03",
+    "revenue_id": 843
+  },
+  {
+    "id": 447,
+    "strategy_type": "AI优先",
+    "impact_description": "客户增长加速",
+    "impact_date": "2021-10-24",
+    "revenue_id": 176
+  },
+  {
+    "id": 448,
+    "strategy_type": "AI优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2023-01-31",
+    "revenue_id": 3
+  },
+  {
+    "id": 449,
+    "strategy_type": "AI优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2022-07-14",
+    "revenue_id": 920
+  },
+  {
+    "id": 450,
+    "strategy_type": "客户驱动",
+    "impact_description": "新市场开拓",
+    "impact_date": "2021-01-17",
+    "revenue_id": 661
+  },
+  {
+    "id": 451,
+    "strategy_type": "AI优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2023-05-29",
+    "revenue_id": 946
+  },
+  {
+    "id": 452,
+    "strategy_type": "技术驱动",
+    "impact_description": "客户增长加速",
+    "impact_date": "2022-07-21",
+    "revenue_id": 210
+  },
+  {
+    "id": 453,
+    "strategy_type": "公共云优先",
+    "impact_description": "客户增长加速",
+    "impact_date": "2022-07-30",
+    "revenue_id": 994
+  },
+  {
+    "id": 454,
+    "strategy_type": "客户驱动",
+    "impact_description": "提升收入10%",
+    "impact_date": "2021-06-22",
+    "revenue_id": 485
+  },
+  {
+    "id": 455,
+    "strategy_type": "技术驱动",
+    "impact_description": "新市场开拓",
+    "impact_date": "2021-12-16",
+    "revenue_id": 195
+  },
+  {
+    "id": 456,
+    "strategy_type": "客户驱动",
+    "impact_description": "新市场开拓",
+    "impact_date": "2023-12-04",
+    "revenue_id": 985
+  },
+  {
+    "id": 457,
+    "strategy_type": "客户驱动",
+    "impact_description": "提升收入10%",
+    "impact_date": "2022-07-02",
+    "revenue_id": 652
+  },
+  {
+    "id": 458,
+    "strategy_type": "技术驱动",
+    "impact_description": "客户增长加速",
+    "impact_date": "2021-11-09",
+    "revenue_id": 724
+  },
+  {
+    "id": 459,
+    "strategy_type": "AI优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2021-08-15",
+    "revenue_id": 869
+  },
+  {
+    "id": 460,
+    "strategy_type": "客户驱动",
+    "impact_description": "运营成本降低",
+    "impact_date": "2022-08-16",
+    "revenue_id": 27
+  },
+  {
+    "id": 461,
+    "strategy_type": "客户驱动",
+    "impact_description": "运营成本降低",
+    "impact_date": "2021-02-19",
+    "revenue_id": 13
+  },
+  {
+    "id": 462,
+    "strategy_type": "客户驱动",
+    "impact_description": "运营成本降低",
+    "impact_date": "2023-01-07",
+    "revenue_id": 667
+  },
+  {
+    "id": 463,
+    "strategy_type": "生态优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2023-10-02",
+    "revenue_id": 873
+  },
+  {
+    "id": 464,
+    "strategy_type": "生态优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2023-10-18",
+    "revenue_id": 813
+  },
+  {
+    "id": 465,
+    "strategy_type": "公共云优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2023-04-01",
+    "revenue_id": 471
+  },
+  {
+    "id": 466,
+    "strategy_type": "公共云优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2021-04-15",
+    "revenue_id": 335
+  },
+  {
+    "id": 467,
+    "strategy_type": "公共云优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2021-08-05",
+    "revenue_id": 394
+  },
+  {
+    "id": 468,
+    "strategy_type": "生态优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2023-10-16",
+    "revenue_id": 990
+  },
+  {
+    "id": 469,
+    "strategy_type": "AI优先",
+    "impact_description": "客户增长加速",
+    "impact_date": "2021-02-19",
+    "revenue_id": 592
+  },
+  {
+    "id": 470,
+    "strategy_type": "AI优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2021-01-20",
+    "revenue_id": 27
+  },
+  {
+    "id": 471,
+    "strategy_type": "AI优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2022-09-09",
+    "revenue_id": 846
+  },
+  {
+    "id": 472,
+    "strategy_type": "生态优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2021-06-27",
+    "revenue_id": 664
+  },
+  {
+    "id": 473,
+    "strategy_type": "公共云优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2022-10-17",
+    "revenue_id": 26
+  },
+  {
+    "id": 474,
+    "strategy_type": "技术驱动",
+    "impact_description": "提升收入10%",
+    "impact_date": "2022-11-24",
+    "revenue_id": 309
+  },
+  {
+    "id": 475,
+    "strategy_type": "公共云优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2022-08-18",
+    "revenue_id": 123
+  },
+  {
+    "id": 476,
+    "strategy_type": "AI优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2023-11-18",
+    "revenue_id": 500
+  },
+  {
+    "id": 477,
+    "strategy_type": "技术驱动",
+    "impact_description": "新市场开拓",
+    "impact_date": "2022-08-19",
+    "revenue_id": 473
+  },
+  {
+    "id": 478,
+    "strategy_type": "客户驱动",
+    "impact_description": "新市场开拓",
+    "impact_date": "2021-12-01",
+    "revenue_id": 880
+  },
+  {
+    "id": 479,
+    "strategy_type": "AI优先",
+    "impact_description": "客户增长加速",
+    "impact_date": "2022-04-18",
+    "revenue_id": 476
+  },
+  {
+    "id": 480,
+    "strategy_type": "AI优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2023-10-29",
+    "revenue_id": 266
+  },
+  {
+    "id": 481,
+    "strategy_type": "公共云优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2022-01-31",
+    "revenue_id": 671
+  },
+  {
+    "id": 482,
+    "strategy_type": "客户驱动",
+    "impact_description": "运营成本降低",
+    "impact_date": "2023-01-13",
+    "revenue_id": 149
+  },
+  {
+    "id": 483,
+    "strategy_type": "客户驱动",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2021-03-16",
+    "revenue_id": 199
+  },
+  {
+    "id": 484,
+    "strategy_type": "客户驱动",
+    "impact_description": "运营成本降低",
+    "impact_date": "2023-05-17",
+    "revenue_id": 692
+  },
+  {
+    "id": 485,
+    "strategy_type": "公共云优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2021-07-30",
+    "revenue_id": 208
+  },
+  {
+    "id": 486,
+    "strategy_type": "客户驱动",
+    "impact_description": "新市场开拓",
+    "impact_date": "2022-09-20",
+    "revenue_id": 855
+  },
+  {
+    "id": 487,
+    "strategy_type": "公共云优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2022-03-11",
+    "revenue_id": 575
+  },
+  {
+    "id": 488,
+    "strategy_type": "公共云优先",
+    "impact_description": "客户增长加速",
+    "impact_date": "2022-06-24",
+    "revenue_id": 267
+  },
+  {
+    "id": 489,
+    "strategy_type": "客户驱动",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2021-04-24",
+    "revenue_id": 608
+  },
+  {
+    "id": 490,
+    "strategy_type": "AI优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2023-04-30",
+    "revenue_id": 717
+  },
+  {
+    "id": 491,
+    "strategy_type": "生态优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2021-11-17",
+    "revenue_id": 344
+  },
+  {
+    "id": 492,
+    "strategy_type": "公共云优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2021-12-30",
+    "revenue_id": 845
+  },
+  {
+    "id": 493,
+    "strategy_type": "客户驱动",
+    "impact_description": "运营成本降低",
+    "impact_date": "2021-12-03",
+    "revenue_id": 571
+  },
+  {
+    "id": 494,
+    "strategy_type": "AI优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2021-02-06",
+    "revenue_id": 879
+  },
+  {
+    "id": 495,
+    "strategy_type": "公共云优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2023-07-15",
+    "revenue_id": 750
+  },
+  {
+    "id": 496,
+    "strategy_type": "客户驱动",
+    "impact_description": "提升收入10%",
+    "impact_date": "2022-08-12",
+    "revenue_id": 113
+  },
+  {
+    "id": 497,
+    "strategy_type": "客户驱动",
+    "impact_description": "客户增长加速",
+    "impact_date": "2023-04-12",
+    "revenue_id": 935
+  },
+  {
+    "id": 498,
+    "strategy_type": "客户驱动",
+    "impact_description": "客户增长加速",
+    "impact_date": "2023-04-29",
+    "revenue_id": 670
+  },
+  {
+    "id": 499,
+    "strategy_type": "客户驱动",
+    "impact_description": "新市场开拓",
+    "impact_date": "2022-12-24",
+    "revenue_id": 477
+  },
+  {
+    "id": 500,
+    "strategy_type": "公共云优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2022-08-10",
+    "revenue_id": 845
+  },
+  {
+    "id": 501,
+    "strategy_type": "AI优先",
+    "impact_description": "客户增长加速",
+    "impact_date": "2022-08-07",
+    "revenue_id": 392
+  },
+  {
+    "id": 502,
+    "strategy_type": "生态优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2022-10-17",
+    "revenue_id": 283
+  },
+  {
+    "id": 503,
+    "strategy_type": "客户驱动",
+    "impact_description": "新市场开拓",
+    "impact_date": "2022-07-31",
+    "revenue_id": 231
+  },
+  {
+    "id": 504,
+    "strategy_type": "AI优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2021-10-12",
+    "revenue_id": 90
+  },
+  {
+    "id": 505,
+    "strategy_type": "公共云优先",
+    "impact_description": "客户增长加速",
+    "impact_date": "2023-10-08",
+    "revenue_id": 317
+  },
+  {
+    "id": 506,
+    "strategy_type": "生态优先",
+    "impact_description": "客户增长加速",
+    "impact_date": "2022-06-15",
+    "revenue_id": 595
+  },
+  {
+    "id": 507,
+    "strategy_type": "公共云优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2023-10-16",
+    "revenue_id": 836
+  },
+  {
+    "id": 508,
+    "strategy_type": "AI优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2021-12-22",
+    "revenue_id": 979
+  },
+  {
+    "id": 509,
+    "strategy_type": "客户驱动",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2022-05-06",
+    "revenue_id": 503
+  },
+  {
+    "id": 510,
+    "strategy_type": "公共云优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2023-07-28",
+    "revenue_id": 127
+  },
+  {
+    "id": 511,
+    "strategy_type": "生态优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2023-03-06",
+    "revenue_id": 685
+  },
+  {
+    "id": 512,
+    "strategy_type": "公共云优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2023-03-11",
+    "revenue_id": 488
+  },
+  {
+    "id": 513,
+    "strategy_type": "技术驱动",
+    "impact_description": "提升收入10%",
+    "impact_date": "2023-12-09",
+    "revenue_id": 459
+  },
+  {
+    "id": 514,
+    "strategy_type": "技术驱动",
+    "impact_description": "提升收入10%",
+    "impact_date": "2023-09-25",
+    "revenue_id": 19
+  },
+  {
+    "id": 515,
+    "strategy_type": "AI优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2022-10-28",
+    "revenue_id": 443
+  },
+  {
+    "id": 516,
+    "strategy_type": "公共云优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2021-10-24",
+    "revenue_id": 446
+  },
+  {
+    "id": 517,
+    "strategy_type": "技术驱动",
+    "impact_description": "新市场开拓",
+    "impact_date": "2021-02-12",
+    "revenue_id": 764
+  },
+  {
+    "id": 518,
+    "strategy_type": "公共云优先",
+    "impact_description": "客户增长加速",
+    "impact_date": "2021-04-15",
+    "revenue_id": 448
+  },
+  {
+    "id": 519,
+    "strategy_type": "生态优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2023-08-02",
+    "revenue_id": 906
+  },
+  {
+    "id": 520,
+    "strategy_type": "公共云优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2023-01-24",
+    "revenue_id": 83
+  },
+  {
+    "id": 521,
+    "strategy_type": "客户驱动",
+    "impact_description": "提升收入10%",
+    "impact_date": "2023-11-21",
+    "revenue_id": 973
+  },
+  {
+    "id": 522,
+    "strategy_type": "客户驱动",
+    "impact_description": "客户增长加速",
+    "impact_date": "2021-12-25",
+    "revenue_id": 38
+  },
+  {
+    "id": 523,
+    "strategy_type": "AI优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2021-08-27",
+    "revenue_id": 874
+  },
+  {
+    "id": 524,
+    "strategy_type": "公共云优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2021-04-21",
+    "revenue_id": 812
+  },
+  {
+    "id": 525,
+    "strategy_type": "AI优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2021-12-05",
+    "revenue_id": 576
+  },
+  {
+    "id": 526,
+    "strategy_type": "AI优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2021-08-15",
+    "revenue_id": 823
+  },
+  {
+    "id": 527,
+    "strategy_type": "AI优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2023-11-06",
+    "revenue_id": 20
+  },
+  {
+    "id": 528,
+    "strategy_type": "技术驱动",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2023-05-12",
+    "revenue_id": 298
+  },
+  {
+    "id": 529,
+    "strategy_type": "公共云优先",
+    "impact_description": "客户增长加速",
+    "impact_date": "2022-01-16",
+    "revenue_id": 783
+  },
+  {
+    "id": 530,
+    "strategy_type": "AI优先",
+    "impact_description": "客户增长加速",
+    "impact_date": "2021-02-02",
+    "revenue_id": 986
+  },
+  {
+    "id": 531,
+    "strategy_type": "客户驱动",
+    "impact_description": "客户增长加速",
+    "impact_date": "2021-04-11",
+    "revenue_id": 215
+  },
+  {
+    "id": 532,
+    "strategy_type": "AI优先",
+    "impact_description": "客户增长加速",
+    "impact_date": "2023-09-30",
+    "revenue_id": 20
+  },
+  {
+    "id": 533,
+    "strategy_type": "AI优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2023-03-02",
+    "revenue_id": 11
+  },
+  {
+    "id": 534,
+    "strategy_type": "公共云优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2022-11-13",
+    "revenue_id": 302
+  },
+  {
+    "id": 535,
+    "strategy_type": "客户驱动",
+    "impact_description": "新市场开拓",
+    "impact_date": "2021-06-06",
+    "revenue_id": 434
+  },
+  {
+    "id": 536,
+    "strategy_type": "AI优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2022-04-16",
+    "revenue_id": 721
+  },
+  {
+    "id": 537,
+    "strategy_type": "公共云优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2022-10-20",
+    "revenue_id": 841
+  },
+  {
+    "id": 538,
+    "strategy_type": "生态优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2022-03-02",
+    "revenue_id": 570
+  },
+  {
+    "id": 539,
+    "strategy_type": "客户驱动",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2021-07-20",
+    "revenue_id": 407
+  },
+  {
+    "id": 540,
+    "strategy_type": "生态优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2021-05-01",
+    "revenue_id": 181
+  },
+  {
+    "id": 541,
+    "strategy_type": "生态优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2023-10-02",
+    "revenue_id": 392
+  },
+  {
+    "id": 542,
+    "strategy_type": "技术驱动",
+    "impact_description": "提升收入10%",
+    "impact_date": "2022-11-24",
+    "revenue_id": 876
+  },
+  {
+    "id": 543,
+    "strategy_type": "AI优先",
+    "impact_description": "客户增长加速",
+    "impact_date": "2021-11-29",
+    "revenue_id": 723
+  },
+  {
+    "id": 544,
+    "strategy_type": "AI优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2021-08-08",
+    "revenue_id": 376
+  },
+  {
+    "id": 545,
+    "strategy_type": "技术驱动",
+    "impact_description": "提升收入10%",
+    "impact_date": "2023-06-20",
+    "revenue_id": 441
+  },
+  {
+    "id": 546,
+    "strategy_type": "生态优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2023-12-10",
+    "revenue_id": 825
+  },
+  {
+    "id": 547,
+    "strategy_type": "客户驱动",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2023-10-18",
+    "revenue_id": 602
+  },
+  {
+    "id": 548,
+    "strategy_type": "AI优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2021-08-20",
+    "revenue_id": 654
+  },
+  {
+    "id": 549,
+    "strategy_type": "客户驱动",
+    "impact_description": "提升收入10%",
+    "impact_date": "2023-11-11",
+    "revenue_id": 741
+  },
+  {
+    "id": 550,
+    "strategy_type": "AI优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2022-04-25",
+    "revenue_id": 558
+  },
+  {
+    "id": 551,
+    "strategy_type": "生态优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2022-10-30",
+    "revenue_id": 332
+  },
+  {
+    "id": 552,
+    "strategy_type": "技术驱动",
+    "impact_description": "客户增长加速",
+    "impact_date": "2023-04-04",
+    "revenue_id": 819
+  },
+  {
+    "id": 553,
+    "strategy_type": "客户驱动",
+    "impact_description": "新市场开拓",
+    "impact_date": "2022-05-21",
+    "revenue_id": 785
+  },
+  {
+    "id": 554,
+    "strategy_type": "AI优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2021-04-23",
+    "revenue_id": 995
+  },
+  {
+    "id": 555,
+    "strategy_type": "客户驱动",
+    "impact_description": "运营成本降低",
+    "impact_date": "2021-03-25",
+    "revenue_id": 23
+  },
+  {
+    "id": 556,
+    "strategy_type": "AI优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2022-05-30",
+    "revenue_id": 873
+  },
+  {
+    "id": 557,
+    "strategy_type": "客户驱动",
+    "impact_description": "新市场开拓",
+    "impact_date": "2023-06-27",
+    "revenue_id": 43
+  },
+  {
+    "id": 558,
+    "strategy_type": "AI优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2022-05-28",
+    "revenue_id": 676
+  },
+  {
+    "id": 559,
+    "strategy_type": "公共云优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2022-12-02",
+    "revenue_id": 120
+  },
+  {
+    "id": 560,
+    "strategy_type": "公共云优先",
+    "impact_description": "客户增长加速",
+    "impact_date": "2023-07-14",
+    "revenue_id": 227
+  },
+  {
+    "id": 561,
+    "strategy_type": "公共云优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2022-01-29",
+    "revenue_id": 180
+  },
+  {
+    "id": 562,
+    "strategy_type": "AI优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2021-04-02",
+    "revenue_id": 648
+  },
+  {
+    "id": 563,
+    "strategy_type": "公共云优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2022-03-15",
+    "revenue_id": 470
+  },
+  {
+    "id": 564,
+    "strategy_type": "技术驱动",
+    "impact_description": "运营成本降低",
+    "impact_date": "2022-01-11",
+    "revenue_id": 524
+  },
+  {
+    "id": 565,
+    "strategy_type": "公共云优先",
+    "impact_description": "客户增长加速",
+    "impact_date": "2021-03-28",
+    "revenue_id": 184
+  },
+  {
+    "id": 566,
+    "strategy_type": "生态优先",
+    "impact_description": "客户增长加速",
+    "impact_date": "2022-10-29",
+    "revenue_id": 809
+  },
+  {
+    "id": 567,
+    "strategy_type": "公共云优先",
+    "impact_description": "客户增长加速",
+    "impact_date": "2022-05-10",
+    "revenue_id": 535
+  },
+  {
+    "id": 568,
+    "strategy_type": "技术驱动",
+    "impact_description": "客户增长加速",
+    "impact_date": "2022-05-09",
+    "revenue_id": 770
+  },
+  {
+    "id": 569,
+    "strategy_type": "公共云优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2022-02-16",
+    "revenue_id": 880
+  },
+  {
+    "id": 570,
+    "strategy_type": "技术驱动",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2023-12-18",
+    "revenue_id": 141
+  },
+  {
+    "id": 571,
+    "strategy_type": "技术驱动",
+    "impact_description": "客户增长加速",
+    "impact_date": "2021-02-08",
+    "revenue_id": 10
+  },
+  {
+    "id": 572,
+    "strategy_type": "公共云优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2023-02-02",
+    "revenue_id": 909
+  },
+  {
+    "id": 573,
+    "strategy_type": "生态优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2022-09-23",
+    "revenue_id": 150
+  },
+  {
+    "id": 574,
+    "strategy_type": "客户驱动",
+    "impact_description": "客户增长加速",
+    "impact_date": "2021-12-22",
+    "revenue_id": 751
+  },
+  {
+    "id": 575,
+    "strategy_type": "AI优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2022-11-08",
+    "revenue_id": 32
+  },
+  {
+    "id": 576,
+    "strategy_type": "技术驱动",
+    "impact_description": "客户增长加速",
+    "impact_date": "2021-06-07",
+    "revenue_id": 554
+  },
+  {
+    "id": 577,
+    "strategy_type": "公共云优先",
+    "impact_description": "客户增长加速",
+    "impact_date": "2021-03-21",
+    "revenue_id": 358
+  },
+  {
+    "id": 578,
+    "strategy_type": "AI优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2023-02-01",
+    "revenue_id": 310
+  },
+  {
+    "id": 579,
+    "strategy_type": "客户驱动",
+    "impact_description": "新市场开拓",
+    "impact_date": "2022-11-29",
+    "revenue_id": 870
+  },
+  {
+    "id": 580,
+    "strategy_type": "技术驱动",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2023-10-13",
+    "revenue_id": 670
+  },
+  {
+    "id": 581,
+    "strategy_type": "AI优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2022-12-22",
+    "revenue_id": 584
+  },
+  {
+    "id": 582,
+    "strategy_type": "AI优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2022-11-30",
+    "revenue_id": 488
+  },
+  {
+    "id": 583,
+    "strategy_type": "公共云优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2023-05-07",
+    "revenue_id": 853
+  },
+  {
+    "id": 584,
+    "strategy_type": "AI优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2021-12-16",
+    "revenue_id": 226
+  },
+  {
+    "id": 585,
+    "strategy_type": "公共云优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2023-04-12",
+    "revenue_id": 322
+  },
+  {
+    "id": 586,
+    "strategy_type": "公共云优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2021-11-03",
+    "revenue_id": 71
+  },
+  {
+    "id": 587,
+    "strategy_type": "技术驱动",
+    "impact_description": "新市场开拓",
+    "impact_date": "2023-02-11",
+    "revenue_id": 969
+  },
+  {
+    "id": 588,
+    "strategy_type": "生态优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2021-07-26",
+    "revenue_id": 356
+  },
+  {
+    "id": 589,
+    "strategy_type": "技术驱动",
+    "impact_description": "提升收入10%",
+    "impact_date": "2022-08-17",
+    "revenue_id": 613
+  },
+  {
+    "id": 590,
+    "strategy_type": "AI优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2023-09-30",
+    "revenue_id": 840
+  },
+  {
+    "id": 591,
+    "strategy_type": "AI优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2021-12-25",
+    "revenue_id": 305
+  },
+  {
+    "id": 592,
+    "strategy_type": "客户驱动",
+    "impact_description": "新市场开拓",
+    "impact_date": "2022-11-03",
+    "revenue_id": 390
+  },
+  {
+    "id": 593,
+    "strategy_type": "AI优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2022-05-24",
+    "revenue_id": 911
+  },
+  {
+    "id": 594,
+    "strategy_type": "生态优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2022-11-04",
+    "revenue_id": 729
+  },
+  {
+    "id": 595,
+    "strategy_type": "AI优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2021-10-06",
+    "revenue_id": 569
+  },
+  {
+    "id": 596,
+    "strategy_type": "AI优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2022-08-26",
+    "revenue_id": 819
+  },
+  {
+    "id": 597,
+    "strategy_type": "生态优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2021-08-28",
+    "revenue_id": 238
+  },
+  {
+    "id": 598,
+    "strategy_type": "公共云优先",
+    "impact_description": "客户增长加速",
+    "impact_date": "2023-09-05",
+    "revenue_id": 581
+  },
+  {
+    "id": 599,
+    "strategy_type": "客户驱动",
+    "impact_description": "新市场开拓",
+    "impact_date": "2023-10-28",
+    "revenue_id": 189
+  },
+  {
+    "id": 600,
+    "strategy_type": "客户驱动",
+    "impact_description": "客户增长加速",
+    "impact_date": "2023-05-08",
+    "revenue_id": 707
+  },
+  {
+    "id": 601,
+    "strategy_type": "生态优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2021-11-10",
+    "revenue_id": 186
+  },
+  {
+    "id": 602,
+    "strategy_type": "技术驱动",
+    "impact_description": "提升收入10%",
+    "impact_date": "2023-01-31",
+    "revenue_id": 166
+  },
+  {
+    "id": 603,
+    "strategy_type": "公共云优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2022-02-16",
+    "revenue_id": 812
+  },
+  {
+    "id": 604,
+    "strategy_type": "技术驱动",
+    "impact_description": "运营成本降低",
+    "impact_date": "2023-01-04",
+    "revenue_id": 217
+  },
+  {
+    "id": 605,
+    "strategy_type": "生态优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2021-08-01",
+    "revenue_id": 204
+  },
+  {
+    "id": 606,
+    "strategy_type": "AI优先",
+    "impact_description": "客户增长加速",
+    "impact_date": "2023-05-06",
+    "revenue_id": 239
+  },
+  {
+    "id": 607,
+    "strategy_type": "客户驱动",
+    "impact_description": "运营成本降低",
+    "impact_date": "2023-11-21",
+    "revenue_id": 114
+  },
+  {
+    "id": 608,
+    "strategy_type": "公共云优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2023-07-30",
+    "revenue_id": 908
+  },
+  {
+    "id": 609,
+    "strategy_type": "客户驱动",
+    "impact_description": "提升收入10%",
+    "impact_date": "2022-05-10",
+    "revenue_id": 726
+  },
+  {
+    "id": 610,
+    "strategy_type": "客户驱动",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2022-12-30",
+    "revenue_id": 607
+  },
+  {
+    "id": 611,
+    "strategy_type": "技术驱动",
+    "impact_description": "客户增长加速",
+    "impact_date": "2021-08-31",
+    "revenue_id": 690
+  },
+  {
+    "id": 612,
+    "strategy_type": "公共云优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2023-09-20",
+    "revenue_id": 798
+  },
+  {
+    "id": 613,
+    "strategy_type": "公共云优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2023-08-24",
+    "revenue_id": 538
+  },
+  {
+    "id": 614,
+    "strategy_type": "公共云优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2021-11-10",
+    "revenue_id": 184
+  },
+  {
+    "id": 615,
+    "strategy_type": "AI优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2023-11-18",
+    "revenue_id": 822
+  },
+  {
+    "id": 616,
+    "strategy_type": "AI优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2023-07-21",
+    "revenue_id": 603
+  },
+  {
+    "id": 617,
+    "strategy_type": "生态优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2023-03-31",
+    "revenue_id": 983
+  },
+  {
+    "id": 618,
+    "strategy_type": "公共云优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2022-06-06",
+    "revenue_id": 212
+  },
+  {
+    "id": 619,
+    "strategy_type": "生态优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2022-01-21",
+    "revenue_id": 538
+  },
+  {
+    "id": 620,
+    "strategy_type": "生态优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2021-04-02",
+    "revenue_id": 322
+  },
+  {
+    "id": 621,
+    "strategy_type": "生态优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2023-04-10",
+    "revenue_id": 13
+  },
+  {
+    "id": 622,
+    "strategy_type": "客户驱动",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2022-06-24",
+    "revenue_id": 997
+  },
+  {
+    "id": 623,
+    "strategy_type": "生态优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2023-08-10",
+    "revenue_id": 769
+  },
+  {
+    "id": 624,
+    "strategy_type": "公共云优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2022-07-21",
+    "revenue_id": 580
+  },
+  {
+    "id": 625,
+    "strategy_type": "技术驱动",
+    "impact_description": "提升收入10%",
+    "impact_date": "2022-06-04",
+    "revenue_id": 884
+  },
+  {
+    "id": 626,
+    "strategy_type": "生态优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2022-06-22",
+    "revenue_id": 694
+  },
+  {
+    "id": 627,
+    "strategy_type": "技术驱动",
+    "impact_description": "提升收入10%",
+    "impact_date": "2022-01-15",
+    "revenue_id": 805
+  },
+  {
+    "id": 628,
+    "strategy_type": "客户驱动",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2022-04-24",
+    "revenue_id": 860
+  },
+  {
+    "id": 629,
+    "strategy_type": "技术驱动",
+    "impact_description": "运营成本降低",
+    "impact_date": "2023-03-28",
+    "revenue_id": 255
+  },
+  {
+    "id": 630,
+    "strategy_type": "技术驱动",
+    "impact_description": "提升收入10%",
+    "impact_date": "2021-12-09",
+    "revenue_id": 171
+  },
+  {
+    "id": 631,
+    "strategy_type": "客户驱动",
+    "impact_description": "新市场开拓",
+    "impact_date": "2021-01-23",
+    "revenue_id": 100
+  },
+  {
+    "id": 632,
+    "strategy_type": "公共云优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2022-02-14",
+    "revenue_id": 239
+  },
+  {
+    "id": 633,
+    "strategy_type": "AI优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2023-01-07",
+    "revenue_id": 722
+  },
+  {
+    "id": 634,
+    "strategy_type": "AI优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2021-02-06",
+    "revenue_id": 579
+  },
+  {
+    "id": 635,
+    "strategy_type": "生态优先",
+    "impact_description": "客户增长加速",
+    "impact_date": "2021-12-27",
+    "revenue_id": 255
+  },
+  {
+    "id": 636,
+    "strategy_type": "技术驱动",
+    "impact_description": "运营成本降低",
+    "impact_date": "2022-03-20",
+    "revenue_id": 797
+  },
+  {
+    "id": 637,
+    "strategy_type": "公共云优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2022-06-03",
+    "revenue_id": 379
+  },
+  {
+    "id": 638,
+    "strategy_type": "技术驱动",
+    "impact_description": "新市场开拓",
+    "impact_date": "2021-07-06",
+    "revenue_id": 801
+  },
+  {
+    "id": 639,
+    "strategy_type": "客户驱动",
+    "impact_description": "运营成本降低",
+    "impact_date": "2021-04-02",
+    "revenue_id": 743
+  },
+  {
+    "id": 640,
+    "strategy_type": "AI优先",
+    "impact_description": "客户增长加速",
+    "impact_date": "2022-11-27",
+    "revenue_id": 25
+  },
+  {
+    "id": 641,
+    "strategy_type": "生态优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2022-05-06",
+    "revenue_id": 875
+  },
+  {
+    "id": 642,
+    "strategy_type": "客户驱动",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2022-06-05",
+    "revenue_id": 26
+  },
+  {
+    "id": 643,
+    "strategy_type": "客户驱动",
+    "impact_description": "新市场开拓",
+    "impact_date": "2022-09-24",
+    "revenue_id": 976
+  },
+  {
+    "id": 644,
+    "strategy_type": "技术驱动",
+    "impact_description": "客户增长加速",
+    "impact_date": "2023-02-10",
+    "revenue_id": 169
+  },
+  {
+    "id": 645,
+    "strategy_type": "公共云优先",
+    "impact_description": "客户增长加速",
+    "impact_date": "2023-06-15",
+    "revenue_id": 857
+  },
+  {
+    "id": 646,
+    "strategy_type": "技术驱动",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2023-12-03",
+    "revenue_id": 708
+  },
+  {
+    "id": 647,
+    "strategy_type": "技术驱动",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2021-08-15",
+    "revenue_id": 304
+  },
+  {
+    "id": 648,
+    "strategy_type": "公共云优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2023-12-01",
+    "revenue_id": 718
+  },
+  {
+    "id": 649,
+    "strategy_type": "客户驱动",
+    "impact_description": "运营成本降低",
+    "impact_date": "2022-12-23",
+    "revenue_id": 148
+  },
+  {
+    "id": 650,
+    "strategy_type": "客户驱动",
+    "impact_description": "运营成本降低",
+    "impact_date": "2021-08-12",
+    "revenue_id": 296
+  },
+  {
+    "id": 651,
+    "strategy_type": "生态优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2023-08-13",
+    "revenue_id": 103
+  },
+  {
+    "id": 652,
+    "strategy_type": "技术驱动",
+    "impact_description": "提升收入10%",
+    "impact_date": "2022-07-08",
+    "revenue_id": 656
+  },
+  {
+    "id": 653,
+    "strategy_type": "技术驱动",
+    "impact_description": "客户增长加速",
+    "impact_date": "2022-06-11",
+    "revenue_id": 920
+  },
+  {
+    "id": 654,
+    "strategy_type": "客户驱动",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2022-10-06",
+    "revenue_id": 157
+  },
+  {
+    "id": 655,
+    "strategy_type": "生态优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2022-06-30",
+    "revenue_id": 168
+  },
+  {
+    "id": 656,
+    "strategy_type": "公共云优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2021-05-04",
+    "revenue_id": 457
+  },
+  {
+    "id": 657,
+    "strategy_type": "技术驱动",
+    "impact_description": "提升收入10%",
+    "impact_date": "2022-02-11",
+    "revenue_id": 888
+  },
+  {
+    "id": 658,
+    "strategy_type": "生态优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2023-08-11",
+    "revenue_id": 292
+  },
+  {
+    "id": 659,
+    "strategy_type": "技术驱动",
+    "impact_description": "提升收入10%",
+    "impact_date": "2021-10-15",
+    "revenue_id": 226
+  },
+  {
+    "id": 660,
+    "strategy_type": "公共云优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2023-09-04",
+    "revenue_id": 106
+  },
+  {
+    "id": 661,
+    "strategy_type": "技术驱动",
+    "impact_description": "客户增长加速",
+    "impact_date": "2022-03-08",
+    "revenue_id": 131
+  },
+  {
+    "id": 662,
+    "strategy_type": "客户驱动",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2021-12-01",
+    "revenue_id": 653
+  },
+  {
+    "id": 663,
+    "strategy_type": "公共云优先",
+    "impact_description": "客户增长加速",
+    "impact_date": "2022-08-02",
+    "revenue_id": 515
+  },
+  {
+    "id": 664,
+    "strategy_type": "公共云优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2021-06-20",
+    "revenue_id": 347
+  },
+  {
+    "id": 665,
+    "strategy_type": "AI优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2023-04-15",
+    "revenue_id": 691
+  },
+  {
+    "id": 666,
+    "strategy_type": "客户驱动",
+    "impact_description": "提升收入10%",
+    "impact_date": "2022-03-11",
+    "revenue_id": 412
+  },
+  {
+    "id": 667,
+    "strategy_type": "AI优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2023-12-11",
+    "revenue_id": 954
+  },
+  {
+    "id": 668,
+    "strategy_type": "客户驱动",
+    "impact_description": "运营成本降低",
+    "impact_date": "2022-04-20",
+    "revenue_id": 667
+  },
+  {
+    "id": 669,
+    "strategy_type": "技术驱动",
+    "impact_description": "提升收入10%",
+    "impact_date": "2021-09-01",
+    "revenue_id": 23
+  },
+  {
+    "id": 670,
+    "strategy_type": "AI优先",
+    "impact_description": "客户增长加速",
+    "impact_date": "2023-07-16",
+    "revenue_id": 758
+  },
+  {
+    "id": 671,
+    "strategy_type": "生态优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2023-06-13",
+    "revenue_id": 414
+  },
+  {
+    "id": 672,
+    "strategy_type": "AI优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2021-11-26",
+    "revenue_id": 617
+  },
+  {
+    "id": 673,
+    "strategy_type": "客户驱动",
+    "impact_description": "运营成本降低",
+    "impact_date": "2023-06-26",
+    "revenue_id": 994
+  },
+  {
+    "id": 674,
+    "strategy_type": "AI优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2022-09-25",
+    "revenue_id": 768
+  },
+  {
+    "id": 675,
+    "strategy_type": "AI优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2023-12-29",
+    "revenue_id": 878
+  },
+  {
+    "id": 676,
+    "strategy_type": "公共云优先",
+    "impact_description": "客户增长加速",
+    "impact_date": "2022-04-12",
+    "revenue_id": 30
+  },
+  {
+    "id": 677,
+    "strategy_type": "技术驱动",
+    "impact_description": "提升收入10%",
+    "impact_date": "2023-03-03",
+    "revenue_id": 101
+  },
+  {
+    "id": 678,
+    "strategy_type": "生态优先",
+    "impact_description": "客户增长加速",
+    "impact_date": "2023-11-26",
+    "revenue_id": 668
+  },
+  {
+    "id": 679,
+    "strategy_type": "公共云优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2022-08-29",
+    "revenue_id": 279
+  },
+  {
+    "id": 680,
+    "strategy_type": "技术驱动",
+    "impact_description": "提升收入10%",
+    "impact_date": "2023-05-31",
+    "revenue_id": 392
+  },
+  {
+    "id": 681,
+    "strategy_type": "生态优先",
+    "impact_description": "客户增长加速",
+    "impact_date": "2021-02-11",
+    "revenue_id": 973
+  },
+  {
+    "id": 682,
+    "strategy_type": "客户驱动",
+    "impact_description": "新市场开拓",
+    "impact_date": "2021-11-21",
+    "revenue_id": 704
+  },
+  {
+    "id": 683,
+    "strategy_type": "技术驱动",
+    "impact_description": "提升收入10%",
+    "impact_date": "2022-08-18",
+    "revenue_id": 844
+  },
+  {
+    "id": 684,
+    "strategy_type": "客户驱动",
+    "impact_description": "运营成本降低",
+    "impact_date": "2021-09-23",
+    "revenue_id": 828
+  },
+  {
+    "id": 685,
+    "strategy_type": "公共云优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2023-09-23",
+    "revenue_id": 788
+  },
+  {
+    "id": 686,
+    "strategy_type": "客户驱动",
+    "impact_description": "新市场开拓",
+    "impact_date": "2023-07-16",
+    "revenue_id": 171
+  },
+  {
+    "id": 687,
+    "strategy_type": "AI优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2022-05-14",
+    "revenue_id": 306
+  },
+  {
+    "id": 688,
+    "strategy_type": "生态优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2022-06-26",
+    "revenue_id": 673
+  },
+  {
+    "id": 689,
+    "strategy_type": "生态优先",
+    "impact_description": "客户增长加速",
+    "impact_date": "2023-10-04",
+    "revenue_id": 814
+  },
+  {
+    "id": 690,
+    "strategy_type": "生态优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2022-03-28",
+    "revenue_id": 715
+  },
+  {
+    "id": 691,
+    "strategy_type": "技术驱动",
+    "impact_description": "新市场开拓",
+    "impact_date": "2021-10-03",
+    "revenue_id": 136
+  },
+  {
+    "id": 692,
+    "strategy_type": "生态优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2023-07-29",
+    "revenue_id": 225
+  },
+  {
+    "id": 693,
+    "strategy_type": "公共云优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2023-06-02",
+    "revenue_id": 494
+  },
+  {
+    "id": 694,
+    "strategy_type": "公共云优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2021-10-12",
+    "revenue_id": 318
+  },
+  {
+    "id": 695,
+    "strategy_type": "AI优先",
+    "impact_description": "客户增长加速",
+    "impact_date": "2021-04-04",
+    "revenue_id": 429
+  },
+  {
+    "id": 696,
+    "strategy_type": "客户驱动",
+    "impact_description": "新市场开拓",
+    "impact_date": "2021-08-25",
+    "revenue_id": 723
+  },
+  {
+    "id": 697,
+    "strategy_type": "客户驱动",
+    "impact_description": "运营成本降低",
+    "impact_date": "2022-12-16",
+    "revenue_id": 699
+  },
+  {
+    "id": 698,
+    "strategy_type": "技术驱动",
+    "impact_description": "运营成本降低",
+    "impact_date": "2021-02-18",
+    "revenue_id": 400
+  },
+  {
+    "id": 699,
+    "strategy_type": "生态优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2022-04-09",
+    "revenue_id": 853
+  },
+  {
+    "id": 700,
+    "strategy_type": "生态优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2022-08-08",
+    "revenue_id": 785
+  },
+  {
+    "id": 701,
+    "strategy_type": "技术驱动",
+    "impact_description": "新市场开拓",
+    "impact_date": "2022-12-06",
+    "revenue_id": 107
+  },
+  {
+    "id": 702,
+    "strategy_type": "公共云优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2021-04-13",
+    "revenue_id": 636
+  },
+  {
+    "id": 703,
+    "strategy_type": "生态优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2023-05-08",
+    "revenue_id": 915
+  },
+  {
+    "id": 704,
+    "strategy_type": "AI优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2023-05-30",
+    "revenue_id": 941
+  },
+  {
+    "id": 705,
+    "strategy_type": "技术驱动",
+    "impact_description": "提升收入10%",
+    "impact_date": "2021-11-19",
+    "revenue_id": 389
+  },
+  {
+    "id": 706,
+    "strategy_type": "客户驱动",
+    "impact_description": "新市场开拓",
+    "impact_date": "2023-06-03",
+    "revenue_id": 735
+  },
+  {
+    "id": 707,
+    "strategy_type": "AI优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2022-03-06",
+    "revenue_id": 702
+  },
+  {
+    "id": 708,
+    "strategy_type": "技术驱动",
+    "impact_description": "提升收入10%",
+    "impact_date": "2022-07-08",
+    "revenue_id": 173
+  },
+  {
+    "id": 709,
+    "strategy_type": "技术驱动",
+    "impact_description": "运营成本降低",
+    "impact_date": "2023-11-22",
+    "revenue_id": 524
+  },
+  {
+    "id": 710,
+    "strategy_type": "客户驱动",
+    "impact_description": "客户增长加速",
+    "impact_date": "2022-01-12",
+    "revenue_id": 545
+  },
+  {
+    "id": 711,
+    "strategy_type": "技术驱动",
+    "impact_description": "客户增长加速",
+    "impact_date": "2021-03-03",
+    "revenue_id": 288
+  },
+  {
+    "id": 712,
+    "strategy_type": "技术驱动",
+    "impact_description": "运营成本降低",
+    "impact_date": "2021-06-27",
+    "revenue_id": 375
+  },
+  {
+    "id": 713,
+    "strategy_type": "技术驱动",
+    "impact_description": "提升收入10%",
+    "impact_date": "2021-06-17",
+    "revenue_id": 42
+  },
+  {
+    "id": 714,
+    "strategy_type": "客户驱动",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2023-09-03",
+    "revenue_id": 540
+  },
+  {
+    "id": 715,
+    "strategy_type": "客户驱动",
+    "impact_description": "客户增长加速",
+    "impact_date": "2023-04-17",
+    "revenue_id": 774
+  },
+  {
+    "id": 716,
+    "strategy_type": "生态优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2022-05-26",
+    "revenue_id": 792
+  },
+  {
+    "id": 717,
+    "strategy_type": "技术驱动",
+    "impact_description": "运营成本降低",
+    "impact_date": "2023-04-28",
+    "revenue_id": 590
+  },
+  {
+    "id": 718,
+    "strategy_type": "技术驱动",
+    "impact_description": "提升收入10%",
+    "impact_date": "2021-11-01",
+    "revenue_id": 234
+  },
+  {
+    "id": 719,
+    "strategy_type": "AI优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2021-08-19",
+    "revenue_id": 153
+  },
+  {
+    "id": 720,
+    "strategy_type": "客户驱动",
+    "impact_description": "提升收入10%",
+    "impact_date": "2022-04-17",
+    "revenue_id": 104
+  },
+  {
+    "id": 721,
+    "strategy_type": "生态优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2023-11-21",
+    "revenue_id": 217
+  },
+  {
+    "id": 722,
+    "strategy_type": "AI优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2023-11-06",
+    "revenue_id": 648
+  },
+  {
+    "id": 723,
+    "strategy_type": "客户驱动",
+    "impact_description": "新市场开拓",
+    "impact_date": "2022-05-06",
+    "revenue_id": 30
+  },
+  {
+    "id": 724,
+    "strategy_type": "技术驱动",
+    "impact_description": "客户增长加速",
+    "impact_date": "2022-06-23",
+    "revenue_id": 770
+  },
+  {
+    "id": 725,
+    "strategy_type": "客户驱动",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2022-05-08",
+    "revenue_id": 33
+  },
+  {
+    "id": 726,
+    "strategy_type": "AI优先",
+    "impact_description": "客户增长加速",
+    "impact_date": "2022-07-11",
+    "revenue_id": 432
+  },
+  {
+    "id": 727,
+    "strategy_type": "生态优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2022-04-08",
+    "revenue_id": 72
+  },
+  {
+    "id": 728,
+    "strategy_type": "公共云优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2022-08-21",
+    "revenue_id": 727
+  },
+  {
+    "id": 729,
+    "strategy_type": "公共云优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2021-06-04",
+    "revenue_id": 935
+  },
+  {
+    "id": 730,
+    "strategy_type": "AI优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2023-07-21",
+    "revenue_id": 107
+  },
+  {
+    "id": 731,
+    "strategy_type": "技术驱动",
+    "impact_description": "客户增长加速",
+    "impact_date": "2021-05-09",
+    "revenue_id": 743
+  },
+  {
+    "id": 732,
+    "strategy_type": "公共云优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2021-06-17",
+    "revenue_id": 500
+  },
+  {
+    "id": 733,
+    "strategy_type": "技术驱动",
+    "impact_description": "提升收入10%",
+    "impact_date": "2023-11-13",
+    "revenue_id": 935
+  },
+  {
+    "id": 734,
+    "strategy_type": "生态优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2022-04-21",
+    "revenue_id": 667
+  },
+  {
+    "id": 735,
+    "strategy_type": "客户驱动",
+    "impact_description": "运营成本降低",
+    "impact_date": "2023-11-09",
+    "revenue_id": 486
+  },
+  {
+    "id": 736,
+    "strategy_type": "公共云优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2022-04-17",
+    "revenue_id": 615
+  },
+  {
+    "id": 737,
+    "strategy_type": "技术驱动",
+    "impact_description": "提升收入10%",
+    "impact_date": "2022-03-18",
+    "revenue_id": 997
+  },
+  {
+    "id": 738,
+    "strategy_type": "生态优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2022-06-02",
+    "revenue_id": 471
+  },
+  {
+    "id": 739,
+    "strategy_type": "技术驱动",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2021-11-21",
+    "revenue_id": 352
+  },
+  {
+    "id": 740,
+    "strategy_type": "AI优先",
+    "impact_description": "客户增长加速",
+    "impact_date": "2021-12-04",
+    "revenue_id": 982
+  },
+  {
+    "id": 741,
+    "strategy_type": "生态优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2022-11-03",
+    "revenue_id": 427
+  },
+  {
+    "id": 742,
+    "strategy_type": "技术驱动",
+    "impact_description": "新市场开拓",
+    "impact_date": "2023-09-30",
+    "revenue_id": 667
+  },
+  {
+    "id": 743,
+    "strategy_type": "客户驱动",
+    "impact_description": "新市场开拓",
+    "impact_date": "2022-02-26",
+    "revenue_id": 560
+  },
+  {
+    "id": 744,
+    "strategy_type": "AI优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2021-01-28",
+    "revenue_id": 299
+  },
+  {
+    "id": 745,
+    "strategy_type": "生态优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2022-11-20",
+    "revenue_id": 334
+  },
+  {
+    "id": 746,
+    "strategy_type": "AI优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2021-03-17",
+    "revenue_id": 140
+  },
+  {
+    "id": 747,
+    "strategy_type": "AI优先",
+    "impact_description": "客户增长加速",
+    "impact_date": "2021-10-04",
+    "revenue_id": 981
+  },
+  {
+    "id": 748,
+    "strategy_type": "公共云优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2021-05-23",
+    "revenue_id": 240
+  },
+  {
+    "id": 749,
+    "strategy_type": "生态优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2022-08-03",
+    "revenue_id": 18
+  },
+  {
+    "id": 750,
+    "strategy_type": "技术驱动",
+    "impact_description": "客户增长加速",
+    "impact_date": "2021-06-08",
+    "revenue_id": 807
+  },
+  {
+    "id": 751,
+    "strategy_type": "技术驱动",
+    "impact_description": "运营成本降低",
+    "impact_date": "2022-12-25",
+    "revenue_id": 489
+  },
+  {
+    "id": 752,
+    "strategy_type": "客户驱动",
+    "impact_description": "客户增长加速",
+    "impact_date": "2021-09-01",
+    "revenue_id": 950
+  },
+  {
+    "id": 753,
+    "strategy_type": "客户驱动",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2022-10-17",
+    "revenue_id": 126
+  },
+  {
+    "id": 754,
+    "strategy_type": "公共云优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2021-11-19",
+    "revenue_id": 731
+  },
+  {
+    "id": 755,
+    "strategy_type": "公共云优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2021-12-09",
+    "revenue_id": 724
+  },
+  {
+    "id": 756,
+    "strategy_type": "技术驱动",
+    "impact_description": "运营成本降低",
+    "impact_date": "2021-03-26",
+    "revenue_id": 93
+  },
+  {
+    "id": 757,
+    "strategy_type": "技术驱动",
+    "impact_description": "提升收入10%",
+    "impact_date": "2022-10-30",
+    "revenue_id": 276
+  },
+  {
+    "id": 758,
+    "strategy_type": "技术驱动",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2023-07-11",
+    "revenue_id": 425
+  },
+  {
+    "id": 759,
+    "strategy_type": "生态优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2023-11-30",
+    "revenue_id": 1
+  },
+  {
+    "id": 760,
+    "strategy_type": "技术驱动",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2023-01-17",
+    "revenue_id": 180
+  },
+  {
+    "id": 761,
+    "strategy_type": "技术驱动",
+    "impact_description": "运营成本降低",
+    "impact_date": "2023-03-17",
+    "revenue_id": 172
+  },
+  {
+    "id": 762,
+    "strategy_type": "公共云优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2023-12-11",
+    "revenue_id": 208
+  },
+  {
+    "id": 763,
+    "strategy_type": "生态优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2022-02-08",
+    "revenue_id": 767
+  },
+  {
+    "id": 764,
+    "strategy_type": "客户驱动",
+    "impact_description": "提升收入10%",
+    "impact_date": "2023-08-31",
+    "revenue_id": 41
+  },
+  {
+    "id": 765,
+    "strategy_type": "客户驱动",
+    "impact_description": "客户增长加速",
+    "impact_date": "2022-12-25",
+    "revenue_id": 204
+  },
+  {
+    "id": 766,
+    "strategy_type": "AI优先",
+    "impact_description": "客户增长加速",
+    "impact_date": "2023-12-24",
+    "revenue_id": 599
+  },
+  {
+    "id": 767,
+    "strategy_type": "公共云优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2021-08-13",
+    "revenue_id": 999
+  },
+  {
+    "id": 768,
+    "strategy_type": "公共云优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2022-02-01",
+    "revenue_id": 465
+  },
+  {
+    "id": 769,
+    "strategy_type": "生态优先",
+    "impact_description": "客户增长加速",
+    "impact_date": "2021-12-18",
+    "revenue_id": 149
+  },
+  {
+    "id": 770,
+    "strategy_type": "客户驱动",
+    "impact_description": "运营成本降低",
+    "impact_date": "2022-05-25",
+    "revenue_id": 812
+  },
+  {
+    "id": 771,
+    "strategy_type": "技术驱动",
+    "impact_description": "新市场开拓",
+    "impact_date": "2021-12-26",
+    "revenue_id": 284
+  },
+  {
+    "id": 772,
+    "strategy_type": "生态优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2022-11-24",
+    "revenue_id": 850
+  },
+  {
+    "id": 773,
+    "strategy_type": "AI优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2023-04-21",
+    "revenue_id": 100
+  },
+  {
+    "id": 774,
+    "strategy_type": "客户驱动",
+    "impact_description": "新市场开拓",
+    "impact_date": "2022-09-21",
+    "revenue_id": 250
+  },
+  {
+    "id": 775,
+    "strategy_type": "技术驱动",
+    "impact_description": "客户增长加速",
+    "impact_date": "2022-08-16",
+    "revenue_id": 405
+  },
+  {
+    "id": 776,
+    "strategy_type": "技术驱动",
+    "impact_description": "提升收入10%",
+    "impact_date": "2023-06-22",
+    "revenue_id": 637
+  },
+  {
+    "id": 777,
+    "strategy_type": "客户驱动",
+    "impact_description": "客户增长加速",
+    "impact_date": "2023-03-28",
+    "revenue_id": 475
+  },
+  {
+    "id": 778,
+    "strategy_type": "生态优先",
+    "impact_description": "客户增长加速",
+    "impact_date": "2021-03-06",
+    "revenue_id": 168
+  },
+  {
+    "id": 779,
+    "strategy_type": "公共云优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2023-03-03",
+    "revenue_id": 353
+  },
+  {
+    "id": 780,
+    "strategy_type": "生态优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2022-12-10",
+    "revenue_id": 463
+  },
+  {
+    "id": 781,
+    "strategy_type": "技术驱动",
+    "impact_description": "新市场开拓",
+    "impact_date": "2023-10-10",
+    "revenue_id": 683
+  },
+  {
+    "id": 782,
+    "strategy_type": "技术驱动",
+    "impact_description": "提升收入10%",
+    "impact_date": "2023-02-09",
+    "revenue_id": 91
+  },
+  {
+    "id": 783,
+    "strategy_type": "客户驱动",
+    "impact_description": "新市场开拓",
+    "impact_date": "2022-01-25",
+    "revenue_id": 224
+  },
+  {
+    "id": 784,
+    "strategy_type": "技术驱动",
+    "impact_description": "新市场开拓",
+    "impact_date": "2023-10-24",
+    "revenue_id": 1
+  },
+  {
+    "id": 785,
+    "strategy_type": "公共云优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2022-09-13",
+    "revenue_id": 420
+  },
+  {
+    "id": 786,
+    "strategy_type": "客户驱动",
+    "impact_description": "提升收入10%",
+    "impact_date": "2023-09-11",
+    "revenue_id": 399
+  },
+  {
+    "id": 787,
+    "strategy_type": "公共云优先",
+    "impact_description": "客户增长加速",
+    "impact_date": "2022-12-09",
+    "revenue_id": 759
+  },
+  {
+    "id": 788,
+    "strategy_type": "AI优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2022-01-21",
+    "revenue_id": 92
+  },
+  {
+    "id": 789,
+    "strategy_type": "客户驱动",
+    "impact_description": "运营成本降低",
+    "impact_date": "2022-08-14",
+    "revenue_id": 825
+  },
+  {
+    "id": 790,
+    "strategy_type": "技术驱动",
+    "impact_description": "客户增长加速",
+    "impact_date": "2021-12-24",
+    "revenue_id": 957
+  },
+  {
+    "id": 791,
+    "strategy_type": "生态优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2022-05-21",
+    "revenue_id": 438
+  },
+  {
+    "id": 792,
+    "strategy_type": "客户驱动",
+    "impact_description": "运营成本降低",
+    "impact_date": "2023-07-12",
+    "revenue_id": 190
+  },
+  {
+    "id": 793,
+    "strategy_type": "客户驱动",
+    "impact_description": "提升收入10%",
+    "impact_date": "2022-05-28",
+    "revenue_id": 806
+  },
+  {
+    "id": 794,
+    "strategy_type": "公共云优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2023-10-08",
+    "revenue_id": 545
+  },
+  {
+    "id": 795,
+    "strategy_type": "技术驱动",
+    "impact_description": "提升收入10%",
+    "impact_date": "2021-10-28",
+    "revenue_id": 68
+  },
+  {
+    "id": 796,
+    "strategy_type": "公共云优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2022-02-19",
+    "revenue_id": 200
+  },
+  {
+    "id": 797,
+    "strategy_type": "公共云优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2022-03-08",
+    "revenue_id": 735
+  },
+  {
+    "id": 798,
+    "strategy_type": "技术驱动",
+    "impact_description": "提升收入10%",
+    "impact_date": "2023-10-05",
+    "revenue_id": 548
+  },
+  {
+    "id": 799,
+    "strategy_type": "生态优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2021-09-02",
+    "revenue_id": 314
+  },
+  {
+    "id": 800,
+    "strategy_type": "客户驱动",
+    "impact_description": "新市场开拓",
+    "impact_date": "2023-10-08",
+    "revenue_id": 797
+  },
+  {
+    "id": 801,
+    "strategy_type": "生态优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2023-08-01",
+    "revenue_id": 123
+  },
+  {
+    "id": 802,
+    "strategy_type": "公共云优先",
+    "impact_description": "客户增长加速",
+    "impact_date": "2023-01-17",
+    "revenue_id": 866
+  },
+  {
+    "id": 803,
+    "strategy_type": "技术驱动",
+    "impact_description": "提升收入10%",
+    "impact_date": "2021-07-13",
+    "revenue_id": 309
+  },
+  {
+    "id": 804,
+    "strategy_type": "技术驱动",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2021-07-22",
+    "revenue_id": 447
+  },
+  {
+    "id": 805,
+    "strategy_type": "客户驱动",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2022-03-17",
+    "revenue_id": 877
+  },
+  {
+    "id": 806,
+    "strategy_type": "公共云优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2021-10-06",
+    "revenue_id": 557
+  },
+  {
+    "id": 807,
+    "strategy_type": "AI优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2022-08-27",
+    "revenue_id": 757
+  },
+  {
+    "id": 808,
+    "strategy_type": "生态优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2021-08-28",
+    "revenue_id": 803
+  },
+  {
+    "id": 809,
+    "strategy_type": "生态优先",
+    "impact_description": "客户增长加速",
+    "impact_date": "2021-07-30",
+    "revenue_id": 510
+  },
+  {
+    "id": 810,
+    "strategy_type": "公共云优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2022-11-18",
+    "revenue_id": 650
+  },
+  {
+    "id": 811,
+    "strategy_type": "技术驱动",
+    "impact_description": "客户增长加速",
+    "impact_date": "2023-04-11",
+    "revenue_id": 49
+  },
+  {
+    "id": 812,
+    "strategy_type": "AI优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2023-07-05",
+    "revenue_id": 933
+  },
+  {
+    "id": 813,
+    "strategy_type": "生态优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2021-05-17",
+    "revenue_id": 353
+  },
+  {
+    "id": 814,
+    "strategy_type": "公共云优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2021-01-28",
+    "revenue_id": 824
+  },
+  {
+    "id": 815,
+    "strategy_type": "客户驱动",
+    "impact_description": "运营成本降低",
+    "impact_date": "2021-11-30",
+    "revenue_id": 295
+  },
+  {
+    "id": 816,
+    "strategy_type": "AI优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2021-09-06",
+    "revenue_id": 36
+  },
+  {
+    "id": 817,
+    "strategy_type": "客户驱动",
+    "impact_description": "运营成本降低",
+    "impact_date": "2023-08-12",
+    "revenue_id": 619
+  },
+  {
+    "id": 818,
+    "strategy_type": "AI优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2023-01-15",
+    "revenue_id": 123
+  },
+  {
+    "id": 819,
+    "strategy_type": "技术驱动",
+    "impact_description": "新市场开拓",
+    "impact_date": "2023-11-15",
+    "revenue_id": 232
+  },
+  {
+    "id": 820,
+    "strategy_type": "客户驱动",
+    "impact_description": "提升收入10%",
+    "impact_date": "2022-09-23",
+    "revenue_id": 499
+  },
+  {
+    "id": 821,
+    "strategy_type": "生态优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2022-08-29",
+    "revenue_id": 350
+  },
+  {
+    "id": 822,
+    "strategy_type": "AI优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2023-03-18",
+    "revenue_id": 97
+  },
+  {
+    "id": 823,
+    "strategy_type": "技术驱动",
+    "impact_description": "客户增长加速",
+    "impact_date": "2023-02-21",
+    "revenue_id": 237
+  },
+  {
+    "id": 824,
+    "strategy_type": "公共云优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2022-09-24",
+    "revenue_id": 384
+  },
+  {
+    "id": 825,
+    "strategy_type": "AI优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2022-02-13",
+    "revenue_id": 180
+  },
+  {
+    "id": 826,
+    "strategy_type": "客户驱动",
+    "impact_description": "新市场开拓",
+    "impact_date": "2022-04-09",
+    "revenue_id": 349
+  },
+  {
+    "id": 827,
+    "strategy_type": "AI优先",
+    "impact_description": "客户增长加速",
+    "impact_date": "2021-02-06",
+    "revenue_id": 328
+  },
+  {
+    "id": 828,
+    "strategy_type": "AI优先",
+    "impact_description": "客户增长加速",
+    "impact_date": "2022-03-19",
+    "revenue_id": 936
+  },
+  {
+    "id": 829,
+    "strategy_type": "客户驱动",
+    "impact_description": "运营成本降低",
+    "impact_date": "2023-03-04",
+    "revenue_id": 677
+  },
+  {
+    "id": 830,
+    "strategy_type": "客户驱动",
+    "impact_description": "新市场开拓",
+    "impact_date": "2022-08-09",
+    "revenue_id": 303
+  },
+  {
+    "id": 831,
+    "strategy_type": "AI优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2023-10-28",
+    "revenue_id": 59
+  },
+  {
+    "id": 832,
+    "strategy_type": "公共云优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2022-05-31",
+    "revenue_id": 918
+  },
+  {
+    "id": 833,
+    "strategy_type": "公共云优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2023-11-29",
+    "revenue_id": 935
+  },
+  {
+    "id": 834,
+    "strategy_type": "客户驱动",
+    "impact_description": "客户增长加速",
+    "impact_date": "2023-10-16",
+    "revenue_id": 652
+  },
+  {
+    "id": 835,
+    "strategy_type": "AI优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2022-04-28",
+    "revenue_id": 319
+  },
+  {
+    "id": 836,
+    "strategy_type": "生态优先",
+    "impact_description": "客户增长加速",
+    "impact_date": "2022-06-08",
+    "revenue_id": 32
+  },
+  {
+    "id": 837,
+    "strategy_type": "公共云优先",
+    "impact_description": "客户增长加速",
+    "impact_date": "2023-03-20",
+    "revenue_id": 190
+  },
+  {
+    "id": 838,
+    "strategy_type": "生态优先",
+    "impact_description": "客户增长加速",
+    "impact_date": "2022-06-16",
+    "revenue_id": 244
+  },
+  {
+    "id": 839,
+    "strategy_type": "生态优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2023-09-11",
+    "revenue_id": 728
+  },
+  {
+    "id": 840,
+    "strategy_type": "技术驱动",
+    "impact_description": "客户增长加速",
+    "impact_date": "2022-09-26",
+    "revenue_id": 809
+  },
+  {
+    "id": 841,
+    "strategy_type": "技术驱动",
+    "impact_description": "运营成本降低",
+    "impact_date": "2022-10-11",
+    "revenue_id": 607
+  },
+  {
+    "id": 842,
+    "strategy_type": "AI优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2021-02-07",
+    "revenue_id": 71
+  },
+  {
+    "id": 843,
+    "strategy_type": "公共云优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2023-05-31",
+    "revenue_id": 465
+  },
+  {
+    "id": 844,
+    "strategy_type": "公共云优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2023-10-12",
+    "revenue_id": 256
+  },
+  {
+    "id": 845,
+    "strategy_type": "AI优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2021-12-11",
+    "revenue_id": 240
+  },
+  {
+    "id": 846,
+    "strategy_type": "客户驱动",
+    "impact_description": "提升收入10%",
+    "impact_date": "2023-11-23",
+    "revenue_id": 744
+  },
+  {
+    "id": 847,
+    "strategy_type": "客户驱动",
+    "impact_description": "客户增长加速",
+    "impact_date": "2023-10-25",
+    "revenue_id": 382
+  },
+  {
+    "id": 848,
+    "strategy_type": "客户驱动",
+    "impact_description": "提升收入10%",
+    "impact_date": "2023-05-27",
+    "revenue_id": 279
+  },
+  {
+    "id": 849,
+    "strategy_type": "客户驱动",
+    "impact_description": "提升收入10%",
+    "impact_date": "2022-09-22",
+    "revenue_id": 615
+  },
+  {
+    "id": 850,
+    "strategy_type": "客户驱动",
+    "impact_description": "提升收入10%",
+    "impact_date": "2021-01-02",
+    "revenue_id": 522
+  },
+  {
+    "id": 851,
+    "strategy_type": "客户驱动",
+    "impact_description": "提升收入10%",
+    "impact_date": "2021-07-05",
+    "revenue_id": 963
+  },
+  {
+    "id": 852,
+    "strategy_type": "AI优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2021-01-18",
+    "revenue_id": 470
+  },
+  {
+    "id": 853,
+    "strategy_type": "技术驱动",
+    "impact_description": "新市场开拓",
+    "impact_date": "2021-01-07",
+    "revenue_id": 122
+  },
+  {
+    "id": 854,
+    "strategy_type": "客户驱动",
+    "impact_description": "提升收入10%",
+    "impact_date": "2021-12-22",
+    "revenue_id": 224
+  },
+  {
+    "id": 855,
+    "strategy_type": "技术驱动",
+    "impact_description": "运营成本降低",
+    "impact_date": "2021-03-11",
+    "revenue_id": 716
+  },
+  {
+    "id": 856,
+    "strategy_type": "AI优先",
+    "impact_description": "客户增长加速",
+    "impact_date": "2021-12-13",
+    "revenue_id": 711
+  },
+  {
+    "id": 857,
+    "strategy_type": "公共云优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2023-10-05",
+    "revenue_id": 915
+  },
+  {
+    "id": 858,
+    "strategy_type": "生态优先",
+    "impact_description": "客户增长加速",
+    "impact_date": "2023-09-07",
+    "revenue_id": 231
+  },
+  {
+    "id": 859,
+    "strategy_type": "客户驱动",
+    "impact_description": "提升收入10%",
+    "impact_date": "2021-07-05",
+    "revenue_id": 460
+  },
+  {
+    "id": 860,
+    "strategy_type": "公共云优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2022-03-30",
+    "revenue_id": 507
+  },
+  {
+    "id": 861,
+    "strategy_type": "客户驱动",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2021-10-17",
+    "revenue_id": 707
+  },
+  {
+    "id": 862,
+    "strategy_type": "客户驱动",
+    "impact_description": "新市场开拓",
+    "impact_date": "2023-06-07",
+    "revenue_id": 785
+  },
+  {
+    "id": 863,
+    "strategy_type": "客户驱动",
+    "impact_description": "运营成本降低",
+    "impact_date": "2022-08-02",
+    "revenue_id": 811
+  },
+  {
+    "id": 864,
+    "strategy_type": "技术驱动",
+    "impact_description": "新市场开拓",
+    "impact_date": "2021-03-10",
+    "revenue_id": 685
+  },
+  {
+    "id": 865,
+    "strategy_type": "客户驱动",
+    "impact_description": "客户增长加速",
+    "impact_date": "2022-06-13",
+    "revenue_id": 994
+  },
+  {
+    "id": 866,
+    "strategy_type": "技术驱动",
+    "impact_description": "提升收入10%",
+    "impact_date": "2023-03-16",
+    "revenue_id": 637
+  },
+  {
+    "id": 867,
+    "strategy_type": "客户驱动",
+    "impact_description": "新市场开拓",
+    "impact_date": "2022-04-04",
+    "revenue_id": 658
+  },
+  {
+    "id": 868,
+    "strategy_type": "客户驱动",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2021-07-06",
+    "revenue_id": 925
+  },
+  {
+    "id": 869,
+    "strategy_type": "技术驱动",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2022-03-27",
+    "revenue_id": 698
+  },
+  {
+    "id": 870,
+    "strategy_type": "技术驱动",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2022-11-26",
+    "revenue_id": 890
+  },
+  {
+    "id": 871,
+    "strategy_type": "客户驱动",
+    "impact_description": "新市场开拓",
+    "impact_date": "2023-06-11",
+    "revenue_id": 677
+  },
+  {
+    "id": 872,
+    "strategy_type": "技术驱动",
+    "impact_description": "新市场开拓",
+    "impact_date": "2021-04-09",
+    "revenue_id": 977
+  },
+  {
+    "id": 873,
+    "strategy_type": "技术驱动",
+    "impact_description": "新市场开拓",
+    "impact_date": "2021-08-09",
+    "revenue_id": 361
+  },
+  {
+    "id": 874,
+    "strategy_type": "客户驱动",
+    "impact_description": "客户增长加速",
+    "impact_date": "2021-08-13",
+    "revenue_id": 590
+  },
+  {
+    "id": 875,
+    "strategy_type": "客户驱动",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2023-03-14",
+    "revenue_id": 675
+  },
+  {
+    "id": 876,
+    "strategy_type": "生态优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2023-05-16",
+    "revenue_id": 492
+  },
+  {
+    "id": 877,
+    "strategy_type": "生态优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2021-03-18",
+    "revenue_id": 792
+  },
+  {
+    "id": 878,
+    "strategy_type": "公共云优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2022-06-28",
+    "revenue_id": 120
+  },
+  {
+    "id": 879,
+    "strategy_type": "技术驱动",
+    "impact_description": "新市场开拓",
+    "impact_date": "2022-02-22",
+    "revenue_id": 452
+  },
+  {
+    "id": 880,
+    "strategy_type": "公共云优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2022-08-18",
+    "revenue_id": 177
+  },
+  {
+    "id": 881,
+    "strategy_type": "客户驱动",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2021-04-25",
+    "revenue_id": 94
+  },
+  {
+    "id": 882,
+    "strategy_type": "客户驱动",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2021-09-02",
+    "revenue_id": 918
+  },
+  {
+    "id": 883,
+    "strategy_type": "公共云优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2022-10-01",
+    "revenue_id": 60
+  },
+  {
+    "id": 884,
+    "strategy_type": "技术驱动",
+    "impact_description": "客户增长加速",
+    "impact_date": "2021-01-12",
+    "revenue_id": 515
+  },
+  {
+    "id": 885,
+    "strategy_type": "技术驱动",
+    "impact_description": "新市场开拓",
+    "impact_date": "2022-05-11",
+    "revenue_id": 292
+  },
+  {
+    "id": 886,
+    "strategy_type": "AI优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2022-03-05",
+    "revenue_id": 666
+  },
+  {
+    "id": 887,
+    "strategy_type": "技术驱动",
+    "impact_description": "运营成本降低",
+    "impact_date": "2021-02-24",
+    "revenue_id": 472
+  },
+  {
+    "id": 888,
+    "strategy_type": "AI优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2022-07-12",
+    "revenue_id": 880
+  },
+  {
+    "id": 889,
+    "strategy_type": "生态优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2023-04-05",
+    "revenue_id": 520
+  },
+  {
+    "id": 890,
+    "strategy_type": "生态优先",
+    "impact_description": "客户增长加速",
+    "impact_date": "2022-03-31",
+    "revenue_id": 388
+  },
+  {
+    "id": 891,
+    "strategy_type": "技术驱动",
+    "impact_description": "提升收入10%",
+    "impact_date": "2023-01-09",
+    "revenue_id": 485
+  },
+  {
+    "id": 892,
+    "strategy_type": "公共云优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2021-07-24",
+    "revenue_id": 204
+  },
+  {
+    "id": 893,
+    "strategy_type": "生态优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2023-10-16",
+    "revenue_id": 809
+  },
+  {
+    "id": 894,
+    "strategy_type": "技术驱动",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2021-01-25",
+    "revenue_id": 902
+  },
+  {
+    "id": 895,
+    "strategy_type": "生态优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2023-04-20",
+    "revenue_id": 44
+  },
+  {
+    "id": 896,
+    "strategy_type": "生态优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2021-10-11",
+    "revenue_id": 6
+  },
+  {
+    "id": 897,
+    "strategy_type": "技术驱动",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2023-05-11",
+    "revenue_id": 3
+  },
+  {
+    "id": 898,
+    "strategy_type": "技术驱动",
+    "impact_description": "运营成本降低",
+    "impact_date": "2021-07-30",
+    "revenue_id": 163
+  },
+  {
+    "id": 899,
+    "strategy_type": "客户驱动",
+    "impact_description": "提升收入10%",
+    "impact_date": "2021-08-19",
+    "revenue_id": 171
+  },
+  {
+    "id": 900,
+    "strategy_type": "公共云优先",
+    "impact_description": "客户增长加速",
+    "impact_date": "2021-11-04",
+    "revenue_id": 206
+  },
+  {
+    "id": 901,
+    "strategy_type": "AI优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2022-07-16",
+    "revenue_id": 764
+  },
+  {
+    "id": 902,
+    "strategy_type": "AI优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2022-02-05",
+    "revenue_id": 300
+  },
+  {
+    "id": 903,
+    "strategy_type": "技术驱动",
+    "impact_description": "运营成本降低",
+    "impact_date": "2023-08-13",
+    "revenue_id": 544
+  },
+  {
+    "id": 904,
+    "strategy_type": "生态优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2023-07-25",
+    "revenue_id": 591
+  },
+  {
+    "id": 905,
+    "strategy_type": "技术驱动",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2022-12-11",
+    "revenue_id": 463
+  },
+  {
+    "id": 906,
+    "strategy_type": "生态优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2023-09-15",
+    "revenue_id": 477
+  },
+  {
+    "id": 907,
+    "strategy_type": "AI优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2022-06-27",
+    "revenue_id": 73
+  },
+  {
+    "id": 908,
+    "strategy_type": "公共云优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2021-04-29",
+    "revenue_id": 594
+  },
+  {
+    "id": 909,
+    "strategy_type": "公共云优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2023-12-13",
+    "revenue_id": 809
+  },
+  {
+    "id": 910,
+    "strategy_type": "公共云优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2021-11-14",
+    "revenue_id": 882
+  },
+  {
+    "id": 911,
+    "strategy_type": "技术驱动",
+    "impact_description": "提升收入10%",
+    "impact_date": "2021-09-27",
+    "revenue_id": 77
+  },
+  {
+    "id": 912,
+    "strategy_type": "客户驱动",
+    "impact_description": "提升收入10%",
+    "impact_date": "2022-07-11",
+    "revenue_id": 909
+  },
+  {
+    "id": 913,
+    "strategy_type": "生态优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2023-06-22",
+    "revenue_id": 190
+  },
+  {
+    "id": 914,
+    "strategy_type": "技术驱动",
+    "impact_description": "提升收入10%",
+    "impact_date": "2023-06-28",
+    "revenue_id": 800
+  },
+  {
+    "id": 915,
+    "strategy_type": "公共云优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2022-04-08",
+    "revenue_id": 919
+  },
+  {
+    "id": 916,
+    "strategy_type": "技术驱动",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2021-05-07",
+    "revenue_id": 994
+  },
+  {
+    "id": 917,
+    "strategy_type": "客户驱动",
+    "impact_description": "提升收入10%",
+    "impact_date": "2022-04-12",
+    "revenue_id": 599
+  },
+  {
+    "id": 918,
+    "strategy_type": "技术驱动",
+    "impact_description": "客户增长加速",
+    "impact_date": "2023-07-27",
+    "revenue_id": 224
+  },
+  {
+    "id": 919,
+    "strategy_type": "生态优先",
+    "impact_description": "客户增长加速",
+    "impact_date": "2023-06-14",
+    "revenue_id": 693
+  },
+  {
+    "id": 920,
+    "strategy_type": "生态优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2023-07-22",
+    "revenue_id": 172
+  },
+  {
+    "id": 921,
+    "strategy_type": "生态优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2021-08-27",
+    "revenue_id": 504
+  },
+  {
+    "id": 922,
+    "strategy_type": "公共云优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2022-03-12",
+    "revenue_id": 137
+  },
+  {
+    "id": 923,
+    "strategy_type": "技术驱动",
+    "impact_description": "运营成本降低",
+    "impact_date": "2023-04-23",
+    "revenue_id": 951
+  },
+  {
+    "id": 924,
+    "strategy_type": "生态优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2022-04-10",
+    "revenue_id": 161
+  },
+  {
+    "id": 925,
+    "strategy_type": "公共云优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2022-12-16",
+    "revenue_id": 346
+  },
+  {
+    "id": 926,
+    "strategy_type": "生态优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2021-01-03",
+    "revenue_id": 801
+  },
+  {
+    "id": 927,
+    "strategy_type": "公共云优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2022-06-23",
+    "revenue_id": 839
+  },
+  {
+    "id": 928,
+    "strategy_type": "技术驱动",
+    "impact_description": "运营成本降低",
+    "impact_date": "2023-05-21",
+    "revenue_id": 846
+  },
+  {
+    "id": 929,
+    "strategy_type": "生态优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2021-01-19",
+    "revenue_id": 53
+  },
+  {
+    "id": 930,
+    "strategy_type": "AI优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2023-10-24",
+    "revenue_id": 145
+  },
+  {
+    "id": 931,
+    "strategy_type": "公共云优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2023-03-10",
+    "revenue_id": 480
+  },
+  {
+    "id": 932,
+    "strategy_type": "公共云优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2021-09-23",
+    "revenue_id": 823
+  },
+  {
+    "id": 933,
+    "strategy_type": "技术驱动",
+    "impact_description": "运营成本降低",
+    "impact_date": "2023-04-04",
+    "revenue_id": 707
+  },
+  {
+    "id": 934,
+    "strategy_type": "公共云优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2022-08-02",
+    "revenue_id": 318
+  },
+  {
+    "id": 935,
+    "strategy_type": "生态优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2022-09-22",
+    "revenue_id": 362
+  },
+  {
+    "id": 936,
+    "strategy_type": "AI优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2023-09-15",
+    "revenue_id": 921
+  },
+  {
+    "id": 937,
+    "strategy_type": "生态优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2023-10-12",
+    "revenue_id": 715
+  },
+  {
+    "id": 938,
+    "strategy_type": "客户驱动",
+    "impact_description": "运营成本降低",
+    "impact_date": "2021-10-18",
+    "revenue_id": 660
+  },
+  {
+    "id": 939,
+    "strategy_type": "公共云优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2021-08-01",
+    "revenue_id": 50
+  },
+  {
+    "id": 940,
+    "strategy_type": "客户驱动",
+    "impact_description": "客户增长加速",
+    "impact_date": "2021-03-19",
+    "revenue_id": 961
+  },
+  {
+    "id": 941,
+    "strategy_type": "生态优先",
+    "impact_description": "客户增长加速",
+    "impact_date": "2021-03-12",
+    "revenue_id": 220
+  },
+  {
+    "id": 942,
+    "strategy_type": "公共云优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2021-06-03",
+    "revenue_id": 216
+  },
+  {
+    "id": 943,
+    "strategy_type": "客户驱动",
+    "impact_description": "提升收入10%",
+    "impact_date": "2022-01-05",
+    "revenue_id": 801
+  },
+  {
+    "id": 944,
+    "strategy_type": "技术驱动",
+    "impact_description": "客户增长加速",
+    "impact_date": "2023-12-22",
+    "revenue_id": 84
+  },
+  {
+    "id": 945,
+    "strategy_type": "公共云优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2023-09-01",
+    "revenue_id": 545
+  },
+  {
+    "id": 946,
+    "strategy_type": "生态优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2021-07-24",
+    "revenue_id": 475
+  },
+  {
+    "id": 947,
+    "strategy_type": "技术驱动",
+    "impact_description": "新市场开拓",
+    "impact_date": "2022-11-29",
+    "revenue_id": 273
+  },
+  {
+    "id": 948,
+    "strategy_type": "公共云优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2021-12-28",
+    "revenue_id": 962
+  },
+  {
+    "id": 949,
+    "strategy_type": "AI优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2023-11-02",
+    "revenue_id": 179
+  },
+  {
+    "id": 950,
+    "strategy_type": "公共云优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2023-04-28",
+    "revenue_id": 462
+  },
+  {
+    "id": 951,
+    "strategy_type": "公共云优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2023-11-26",
+    "revenue_id": 634
+  },
+  {
+    "id": 952,
+    "strategy_type": "公共云优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2023-04-09",
+    "revenue_id": 293
+  },
+  {
+    "id": 953,
+    "strategy_type": "公共云优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2021-03-15",
+    "revenue_id": 863
+  },
+  {
+    "id": 954,
+    "strategy_type": "公共云优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2023-06-24",
+    "revenue_id": 253
+  },
+  {
+    "id": 955,
+    "strategy_type": "AI优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2021-06-11",
+    "revenue_id": 842
+  },
+  {
+    "id": 956,
+    "strategy_type": "客户驱动",
+    "impact_description": "提升收入10%",
+    "impact_date": "2022-10-30",
+    "revenue_id": 127
+  },
+  {
+    "id": 957,
+    "strategy_type": "技术驱动",
+    "impact_description": "提升收入10%",
+    "impact_date": "2022-05-24",
+    "revenue_id": 819
+  },
+  {
+    "id": 958,
+    "strategy_type": "客户驱动",
+    "impact_description": "新市场开拓",
+    "impact_date": "2022-12-16",
+    "revenue_id": 804
+  },
+  {
+    "id": 959,
+    "strategy_type": "生态优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2021-03-06",
+    "revenue_id": 883
+  },
+  {
+    "id": 960,
+    "strategy_type": "客户驱动",
+    "impact_description": "提升收入10%",
+    "impact_date": "2021-10-04",
+    "revenue_id": 398
+  },
+  {
+    "id": 961,
+    "strategy_type": "技术驱动",
+    "impact_description": "客户增长加速",
+    "impact_date": "2023-06-06",
+    "revenue_id": 623
+  },
+  {
+    "id": 962,
+    "strategy_type": "公共云优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2022-10-15",
+    "revenue_id": 714
+  },
+  {
+    "id": 963,
+    "strategy_type": "AI优先",
+    "impact_description": "客户增长加速",
+    "impact_date": "2021-01-08",
+    "revenue_id": 678
+  },
+  {
+    "id": 964,
+    "strategy_type": "AI优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2022-09-29",
+    "revenue_id": 758
+  },
+  {
+    "id": 965,
+    "strategy_type": "生态优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2021-05-03",
+    "revenue_id": 221
+  },
+  {
+    "id": 966,
+    "strategy_type": "客户驱动",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2021-10-09",
+    "revenue_id": 474
+  },
+  {
+    "id": 967,
+    "strategy_type": "公共云优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2021-12-03",
+    "revenue_id": 550
+  },
+  {
+    "id": 968,
+    "strategy_type": "技术驱动",
+    "impact_description": "运营成本降低",
+    "impact_date": "2022-09-20",
+    "revenue_id": 111
+  },
+  {
+    "id": 969,
+    "strategy_type": "客户驱动",
+    "impact_description": "客户增长加速",
+    "impact_date": "2023-04-01",
+    "revenue_id": 76
+  },
+  {
+    "id": 970,
+    "strategy_type": "生态优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2021-04-23",
+    "revenue_id": 816
+  },
+  {
+    "id": 971,
+    "strategy_type": "生态优先",
+    "impact_description": "客户增长加速",
+    "impact_date": "2023-09-30",
+    "revenue_id": 787
+  },
+  {
+    "id": 972,
+    "strategy_type": "技术驱动",
+    "impact_description": "运营成本降低",
+    "impact_date": "2022-02-07",
+    "revenue_id": 869
+  },
+  {
+    "id": 973,
+    "strategy_type": "技术驱动",
+    "impact_description": "运营成本降低",
+    "impact_date": "2022-07-18",
+    "revenue_id": 195
+  },
+  {
+    "id": 974,
+    "strategy_type": "生态优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2022-05-24",
+    "revenue_id": 278
+  },
+  {
+    "id": 975,
+    "strategy_type": "客户驱动",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2023-04-03",
+    "revenue_id": 193
+  },
+  {
+    "id": 976,
+    "strategy_type": "生态优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2021-11-05",
+    "revenue_id": 873
+  },
+  {
+    "id": 977,
+    "strategy_type": "公共云优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2023-03-31",
+    "revenue_id": 98
+  },
+  {
+    "id": 978,
+    "strategy_type": "技术驱动",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2023-04-05",
+    "revenue_id": 729
+  },
+  {
+    "id": 979,
+    "strategy_type": "客户驱动",
+    "impact_description": "新市场开拓",
+    "impact_date": "2023-03-07",
+    "revenue_id": 590
+  },
+  {
+    "id": 980,
+    "strategy_type": "客户驱动",
+    "impact_description": "运营成本降低",
+    "impact_date": "2021-09-22",
+    "revenue_id": 850
+  },
+  {
+    "id": 981,
+    "strategy_type": "生态优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2021-07-25",
+    "revenue_id": 110
+  },
+  {
+    "id": 982,
+    "strategy_type": "公共云优先",
+    "impact_description": "客户增长加速",
+    "impact_date": "2021-06-28",
+    "revenue_id": 380
+  },
+  {
+    "id": 983,
+    "strategy_type": "AI优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2023-03-15",
+    "revenue_id": 810
+  },
+  {
+    "id": 984,
+    "strategy_type": "技术驱动",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2021-01-22",
+    "revenue_id": 542
+  },
+  {
+    "id": 985,
+    "strategy_type": "技术驱动",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2023-09-25",
+    "revenue_id": 230
+  },
+  {
+    "id": 986,
+    "strategy_type": "公共云优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2021-08-31",
+    "revenue_id": 692
+  },
+  {
+    "id": 987,
+    "strategy_type": "技术驱动",
+    "impact_description": "新市场开拓",
+    "impact_date": "2021-07-19",
+    "revenue_id": 766
+  },
+  {
+    "id": 988,
+    "strategy_type": "AI优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2021-03-24",
+    "revenue_id": 864
+  },
+  {
+    "id": 989,
+    "strategy_type": "客户驱动",
+    "impact_description": "运营成本降低",
+    "impact_date": "2023-05-16",
+    "revenue_id": 447
+  },
+  {
+    "id": 990,
+    "strategy_type": "生态优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2022-04-24",
+    "revenue_id": 632
+  },
+  {
+    "id": 991,
+    "strategy_type": "生态优先",
+    "impact_description": "运营成本降低",
+    "impact_date": "2021-06-25",
+    "revenue_id": 191
+  },
+  {
+    "id": 992,
+    "strategy_type": "生态优先",
+    "impact_description": "客户增长加速",
+    "impact_date": "2021-06-25",
+    "revenue_id": 550
+  },
+  {
+    "id": 993,
+    "strategy_type": "客户驱动",
+    "impact_description": "客户增长加速",
+    "impact_date": "2023-08-04",
+    "revenue_id": 125
+  },
+  {
+    "id": 994,
+    "strategy_type": "公共云优先",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2021-10-02",
+    "revenue_id": 350
+  },
+  {
+    "id": 995,
+    "strategy_type": "生态优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2023-03-23",
+    "revenue_id": 60
+  },
+  {
+    "id": 996,
+    "strategy_type": "技术驱动",
+    "impact_description": "客户增长加速",
+    "impact_date": "2023-01-02",
+    "revenue_id": 282
+  },
+  {
+    "id": 997,
+    "strategy_type": "客户驱动",
+    "impact_description": "增强客户粘性",
+    "impact_date": "2023-08-09",
+    "revenue_id": 925
+  },
+  {
+    "id": 998,
+    "strategy_type": "技术驱动",
+    "impact_description": "运营成本降低",
+    "impact_date": "2021-05-06",
+    "revenue_id": 919
+  },
+  {
+    "id": 999,
+    "strategy_type": "公共云优先",
+    "impact_description": "提升收入10%",
+    "impact_date": "2022-06-08",
+    "revenue_id": 692
+  },
+  {
+    "id": 1000,
+    "strategy_type": "公共云优先",
+    "impact_description": "新市场开拓",
+    "impact_date": "2021-10-20",
+    "revenue_id": 966
+  }
+]

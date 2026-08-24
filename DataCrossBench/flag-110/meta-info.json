@@ -1,0 +1,20 @@
+{
+    "goal": "评估非银行贷款市场份额增长的主要驱动因素。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 2006年至2016年间，非银行贷款市场份额从接近0%增长到接近60%。",
+        "Comparison: 在2006年到2016年期间，银行发放了490万笔贷款，而非银行贷方发放了630万笔贷款。",
+        "Extreme: 2016年，非银行贷款人提供了59%的新贷款，显示出其在市场中的主导地位。",
+        "Attribution: 由于监管限制和银行压力测试，银行减少了贷款，金融公司和金融科技贷款机构通过增加贷款来应对市场需求。"
+    ],
+    "summary": "自2008年金融危机以来，小企业贷款市场经历了显著变化，银行贷款的减少被金融公司和金融科技贷款人的崛起所抵消，非银行贷款市场份额显著增加。",
+    "flag_id": "flag-110",
+    "classifier": "FinTech",
+    "classifier_cn": "金融科技",
+    "input_files": [
+        "output/dimension_data.db",
+        "output/loan_market_facts.png",
+        "output/loan_nosql_data.json",
+        "output/market_background.txt"
+    ]
+}

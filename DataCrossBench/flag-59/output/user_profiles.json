@@ -1,0 +1,320 @@
+[
+  {
+    "company_name": "赛诺医疗",
+    "user_id": "UID0001",
+    "executives": [
+      {
+        "name": "张凤英",
+        "age": 54,
+        "position": "市场总监",
+        "tenure_years": 12,
+        "skills": [
+          "能够",
+          "是一",
+          "大小"
+        ]
+      },
+      {
+        "name": "汪淑兰",
+        "age": 47,
+        "position": "CEO",
+        "tenure_years": 12,
+        "skills": [
+          "由于",
+          "责任",
+          "中国"
+        ]
+      },
+      {
+        "name": "刘秀云",
+        "age": 52,
+        "position": "CEO",
+        "tenure_years": 2,
+        "skills": [
+          "增加",
+          "决定",
+          "发生"
+        ]
+      }
+    ],
+    "biography_notes": "电话资源出现网上设计.的人进入政府市场选择.研究那个两个学生解决.",
+    "active_projects": [
+      {
+        "project_name": "Team-oriented intermediate artificial intelligence",
+        "start_date": "2023-08-22",
+        "status": "暂停"
+      }
+    ]
+  },
+  {
+    "company_name": "长春高新",
+    "user_id": "UID0002",
+    "executives": [
+      {
+        "name": "马倩",
+        "age": 56,
+        "position": "CTO",
+        "tenure_years": 8,
+        "skills": [
+          "问题",
+          "成为",
+          "朋友"
+        ]
+      }
+    ],
+    "biography_notes": "法律登录经济日本方法网上社会不能.单位教育产品留言来源以上因为孩子.喜欢不要说明而且市场什么.",
+    "active_projects": [
+      {
+        "project_name": "Focused responsive firmware",
+        "start_date": "2024-02-17",
+        "status": "暂停"
+      },
+      {
+        "project_name": "Inverse incremental groupware",
+        "start_date": "2023-11-12",
+        "status": "进行中"
+      }
+    ]
+  },
+  {
+    "company_name": "华西生物",
+    "user_id": "UID0003",
+    "executives": [
+      {
+        "name": "唐林",
+        "age": 42,
+        "position": "CFO",
+        "tenure_years": 3,
+        "skills": [
+          "朋友",
+          "投资",
+          "表示"
+        ]
+      },
+      {
+        "name": "王瑞",
+        "age": 43,
+        "position": "研发总监",
+        "tenure_years": 9,
+        "skills": [
+          "开始",
+          "具有",
+          "免费"
+        ]
+      }
+    ],
+    "biography_notes": "而且工程正在生产.准备规定继续来源能力.出来如何发现以后解决.",
+    "active_projects": [
+      {
+        "project_name": "Re-contextualized user-facing ability",
+        "start_date": "2023-12-16",
+        "status": "进行中"
+      },
+      {
+        "project_name": "Progressive upward-trending capacity",
+        "start_date": "2023-05-03",
+        "status": "完成"
+      },
+      {
+        "project_name": "Streamlined 3rdgeneration software",
+        "start_date": "2023-03-10",
+        "status": "暂停"
+      }
+    ]
+  },
+  {
+    "company_name": "康泰生物",
+    "user_id": "UID0004",
+    "executives": [
+      {
+        "name": "徐玲",
+        "age": 42,
+        "position": "研发总监",
+        "tenure_years": 13,
+        "skills": [
+          "系列",
+          "她的",
+          "或者"
+        ]
+      }
+    ],
+    "biography_notes": "必须科技是否情况一起今天.经济方法法律不过.",
+    "active_projects": [
+      {
+        "project_name": "Persistent grid-enabled open architecture",
+        "start_date": "2024-12-08",
+        "status": "进行中"
+      }
+    ]
+  },
+  {
+    "company_name": "拓荆科技",
+    "user_id": "UID0005",
+    "executives": [
+      {
+        "name": "赵志强",
+        "age": 51,
+        "position": "CEO",
+        "tenure_years": 6,
+        "skills": [
+          "能够",
+          "公司",
+          "的话"
+        ]
+      },
+      {
+        "name": "孙玉梅",
+        "age": 53,
+        "position": "CFO",
+        "tenure_years": 14,
+        "skills": [
+          "觉得",
+          "网络",
+          "软件"
+        ]
+      },
+      {
+        "name": "杨桂英",
+        "age": 44,
+        "position": "CEO",
+        "tenure_years": 13,
+        "skills": [
+          "无法",
+          "标题",
+          "实现"
+        ]
+      }
+    ],
+    "biography_notes": "地方如果业务作品自己.回复目前销售各种手机你们.这个发表可是解决.",
+    "active_projects": [
+      {
+        "project_name": "Optional asymmetric framework",
+        "start_date": "2025-08-22",
+        "status": "进行中"
+      },
+      {
+        "project_name": "Exclusive coherent help-desk",
+        "start_date": "2024-06-03",
+        "status": "暂停"
+      }
+    ]
+  },
+  {
+    "company_name": "西域资本",
+    "user_id": "UID0006",
+    "executives": [
+      {
+        "name": "李春梅",
+        "age": 45,
+        "position": "CEO",
+        "tenure_years": 6,
+        "skills": [
+          "对于",
+          "游戏",
+          "正在"
+        ]
+      },
+      {
+        "name": "李建华",
+        "age": 58,
+        "position": "CEO",
+        "tenure_years": 7,
+        "skills": [
+          "世界",
+          "需要",
+          "直接"
+        ]
+      }
+    ],
+    "biography_notes": "已经只要控制状态.",
+    "active_projects": [
+      {
+        "project_name": "Automated foreground paradigm",
+        "start_date": "2025-04-01",
+        "status": "暂停"
+      }
+    ]
+  },
+  {
+    "company_name": "赛默飞",
+    "user_id": "UID0007",
+    "executives": [
+      {
+        "name": "王雪梅",
+        "age": 46,
+        "position": "CFO",
+        "tenure_years": 1,
+        "skills": [
+          "学校",
+          "大家",
+          "情况"
+        ]
+      }
+    ],
+    "biography_notes": "标准以后最新觉得使用.搜索手机空间技术文化标准合作决定.这个广告阅读销售一个次数等级.",
+    "active_projects": [
+      {
+        "project_name": "Operative foreground extranet",
+        "start_date": "2024-03-28",
+        "status": "完成"
+      },
+      {
+        "project_name": "Reduced heuristic success",
+        "start_date": "2025-08-13",
+        "status": "进行中"
+      }
+    ]
+  },
+  {
+    "company_name": "恒瑞医药",
+    "user_id": "UID0008",
+    "executives": [
+      {
+        "name": "乐冬梅",
+        "age": 38,
+        "position": "研发总监",
+        "tenure_years": 2,
+        "skills": [
+          "女人",
+          "点击",
+          "搜索"
+        ]
+      },
+      {
+        "name": "车浩",
+        "age": 45,
+        "position": "CEO",
+        "tenure_years": 9,
+        "skills": [
+          "一些",
+          "国家",
+          "发展"
+        ]
+      },
+      {
+        "name": "李玉兰",
+        "age": 42,
+        "position": "CFO",
+        "tenure_years": 5,
+        "skills": [
+          "等级",
+          "特别",
+          "位置"
+        ]
+      }
+    ],
+    "biography_notes": "女人游戏文化国内责任工具这是.运行不会最大那些.",
+    "active_projects": [
+      {
+        "project_name": "Switchable coherent contingency",
+        "start_date": "2023-04-28",
+        "status": "完成"
+      },
+      {
+        "project_name": "Advanced secondary hierarchy",
+        "start_date": "2025-11-01",
+        "status": "暂停"
+      }
+    ]
+  }
+]

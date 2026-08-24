@@ -1,0 +1,102 @@
+{
+  "gen_100": {
+    "factor": "大数据",
+    "priority_level": "高",
+    "features": {
+      "accuracy": 0.96,
+      "scalability": 0.62,
+      "integration": "一般"
+    },
+    "notes": "的人那个用户大小分析基本详细."
+  },
+  "gen_101": {
+    "factor": "大数据",
+    "priority_level": "高",
+    "features": {
+      "accuracy": 0.82,
+      "scalability": 0.62,
+      "integration": "差"
+    },
+    "notes": "不会由于喜欢但是进入人员服务."
+  },
+  "gen_102": {
+    "factor": "机器学习",
+    "priority_level": "中",
+    "features": {
+      "accuracy": 0.95,
+      "scalability": 0.74,
+      "integration": "一般"
+    },
+    "notes": "程序因此历史一种操作."
+  },
+  "gen_103": {
+    "factor": "基因编辑",
+    "priority_level": "中",
+    "features": {
+      "accuracy": 0.75,
+      "scalability": 0.6,
+      "integration": "良好"
+    },
+    "notes": "免费新闻问题点击安全时候法律."
+  },
+  "gen_104": {
+    "factor": "AI分析",
+    "priority_level": "中",
+    "features": {
+      "accuracy": 0.73,
+      "scalability": 0.78,
+      "integration": "一般"
+    },
+    "notes": "虽然都是用户回复成为个人."
+  },
+  "gen_105": {
+    "factor": "生物信息学",
+    "priority_level": "低",
+    "features": {
+      "accuracy": 0.82,
+      "scalability": 0.87,
+      "integration": "差"
+    },
+    "notes": "最后论坛网站没有很多谢谢."
+  },
+  "gen_106": {
+    "factor": "云计算",
+    "priority_level": "高",
+    "features": {
+      "accuracy": 0.94,
+      "scalability": 0.62,
+      "integration": "良好"
+    },
+    "notes": "得到一样男人或者人员操作."
+  },
+  "gen_107": {
+    "factor": "深度学习",
+    "priority_level": "中",
+    "features": {
+      "accuracy": 0.8,
+      "scalability": 0.61,
+      "integration": "差"
+    },
+    "notes": "同时非常什么而且销售."
+  },
+  "gen_108": {
+    "factor": "机器学习",
+    "priority_level": "高",
+    "features": {
+      "accuracy": 0.81,
+      "scalability": 0.63,
+      "integration": "一般"
+    },
+    "notes": "还是建设教育计划准备非常积分留言."
+  },
+  "gen_109": {
+    "factor": "云计算",
+    "priority_level": "高",
+    "features": {
+      "accuracy": 0.84,
+      "scalability": 0.93,
+      "integration": "差"
+    },
+    "notes": "人员要求表示网络."
+  }
+}

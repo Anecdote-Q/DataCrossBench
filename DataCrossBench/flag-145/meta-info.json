@@ -1,0 +1,20 @@
+{
+    "goal": "研究美团经营利润率下降的具体原因，评估补贴政策对成本的影响及其对市场竞争的长期影响。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 美团到店酒旅业务经营利润率自23Q1的48%下跌至23Q4的29%，显示出盈利能力的波动。",
+        "Comparison: 美团本地生活市占90%+，而抖音同比增长100%+，显示出抖音在快速增长的同时，美团则保持了市场份额的稳定。",
+        "Extreme: 美团到店酒旅业务经营利润率在23Q4降至29%，为近几年的最低点。",
+        "Attribution: 抖音的快速增长主要归因于其商家覆盖率和产品创新的提升，尤其是在低线城市的拓展。"
+    ],
+    "summary": "本报告分析了美团与抖音在本地生活市场的竞争动态，特别关注两者在商家覆盖率、经营利润率及市场策略上的差异。",
+    "flag_id": "flag-145",
+    "classifier": "Internet Firms",
+    "classifier_cn": "互联网公司研究",
+    "input_files": [
+        "output/business_background.txt",
+        "output/dimension_data.db",
+        "output/fact_orders.png",
+        "output/user_profiles.json"
+    ]
+}

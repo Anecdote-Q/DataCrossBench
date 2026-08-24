@@ -1,0 +1,20 @@
+{
+    "goal": "分析小鹏汽车2024年销量同比增长34.3%的主要驱动因素。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 小鹏汽车预计2025年销量为52.4万辆，2026年将增长至78.6万辆，2027年达到96.6万辆，显示出强劲的增长趋势。",
+        "Comparison: 小鹏汽车在2024年内销销量为17.1万辆，同比增长28.8%，与出口总量2.3万辆相比，内销市场表现更为强劲。",
+        "Extreme: 2024年9月销量达到21352辆，同比增长39.5%，为小鹏汽车的单月销量峰值。",
+        "Attribution: 销量的增长与新车周期的加速和门店数量的快速扩张直接相关，2023年门店数量从395家激增至690家，增速达74.68%。"
+    ],
+    "summary": "小鹏汽车在港股市场的表现受到销售渠道扩展和门店效率提升的显著影响，预计未来销量和营收将持续增长。",
+    "flag_id": "flag-111",
+    "classifier": "Internet Firms",
+    "classifier_cn": "互联网公司研究",
+    "input_files": [
+        "output/business_background.txt",
+        "output/sales_forecast.json",
+        "output/sales_performance.png",
+        "output/store_dimension.db"
+    ]
+}

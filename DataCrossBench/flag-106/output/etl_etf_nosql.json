@@ -1,0 +1,352 @@
+[
+  {
+    "etf_name": "广发银行ETF",
+    "channel_sales_distribution": [
+      {
+        "channel": "线上",
+        "share": 0.122
+      },
+      {
+        "channel": "线下",
+        "share": 0.125
+      },
+      {
+        "channel": "机构",
+        "share": 0.128
+      },
+      {
+        "channel": "散户",
+        "share": 0.02
+      },
+      {
+        "channel": "第三方平台",
+        "share": 0.605
+      }
+    ],
+    "valuation_history": {
+      "historical_high_valuation": 125.07,
+      "historical_low_valuation": 81.0,
+      "average_volatility_pct": 1.702
+    },
+    "risk_profile": {
+      "market_risk_level": "中",
+      "policy_risk": true,
+      "volatility_risk": true
+    }
+  },
+  {
+    "etf_name": "易方达消费ETF",
+    "channel_sales_distribution": [
+      {
+        "channel": "线上",
+        "share": 0.071
+      },
+      {
+        "channel": "线下",
+        "share": 0.139
+      },
+      {
+        "channel": "机构",
+        "share": 0.031
+      },
+      {
+        "channel": "散户",
+        "share": 0.544
+      },
+      {
+        "channel": "第三方平台",
+        "share": 0.215
+      }
+    ],
+    "valuation_history": {
+      "historical_high_valuation": 142.46,
+      "historical_low_valuation": 69.54,
+      "average_volatility_pct": 2.335
+    },
+    "risk_profile": {
+      "market_risk_level": "低",
+      "policy_risk": false,
+      "volatility_risk": false
+    }
+  },
+  {
+    "etf_name": "华夏成长ETF",
+    "channel_sales_distribution": [
+      {
+        "channel": "线上",
+        "share": 0.664
+      },
+      {
+        "channel": "线下",
+        "share": 0.046
+      },
+      {
+        "channel": "机构",
+        "share": 0.086
+      },
+      {
+        "channel": "散户",
+        "share": 0.119
+      },
+      {
+        "channel": "第三方平台",
+        "share": 0.085
+      }
+    ],
+    "valuation_history": {
+      "historical_high_valuation": 155.12,
+      "historical_low_valuation": 78.03,
+      "average_volatility_pct": 1.692
+    },
+    "risk_profile": {
+      "market_risk_level": "高",
+      "policy_risk": false,
+      "volatility_risk": false
+    }
+  },
+  {
+    "etf_name": "博时信息技术ETF",
+    "channel_sales_distribution": [
+      {
+        "channel": "线上",
+        "share": 0.05
+      },
+      {
+        "channel": "线下",
+        "share": 0.104
+      },
+      {
+        "channel": "机构",
+        "share": 0.16
+      },
+      {
+        "channel": "散户",
+        "share": 0.593
+      },
+      {
+        "channel": "第三方平台",
+        "share": 0.093
+      }
+    ],
+    "valuation_history": {
+      "historical_high_valuation": 160.2,
+      "historical_low_valuation": 61.74,
+      "average_volatility_pct": 3.804
+    },
+    "risk_profile": {
+      "market_risk_level": "低",
+      "policy_risk": false,
+      "volatility_risk": false
+    }
+  },
+  {
+    "etf_name": "国泰中证全指证券公司ETF",
+    "channel_sales_distribution": [
+      {
+        "channel": "线上",
+        "share": 0.072
+      },
+      {
+        "channel": "线下",
+        "share": 0.292
+      },
+      {
+        "channel": "机构",
+        "share": 0.101
+      },
+      {
+        "channel": "散户",
+        "share": 0.053
+      },
+      {
+        "channel": "第三方平台",
+        "share": 0.482
+      }
+    ],
+    "valuation_history": {
+      "historical_high_valuation": 158.24,
+      "historical_low_valuation": 84.17,
+      "average_volatility_pct": 1.586
+    },
+    "risk_profile": {
+      "market_risk_level": "中",
+      "policy_risk": false,
+      "volatility_risk": false
+    }
+  },
+  {
+    "etf_name": "中银证券ETF",
+    "channel_sales_distribution": [
+      {
+        "channel": "线上",
+        "share": 0.058
+      },
+      {
+        "channel": "线下",
+        "share": 0.188
+      },
+      {
+        "channel": "机构",
+        "share": 0.316
+      },
+      {
+        "channel": "散户",
+        "share": 0.116
+      },
+      {
+        "channel": "第三方平台",
+        "share": 0.322
+      }
+    ],
+    "valuation_history": {
+      "historical_high_valuation": 143.38,
+      "historical_low_valuation": 74.08,
+      "average_volatility_pct": 1.97
+    },
+    "risk_profile": {
+      "market_risk_level": "中",
+      "policy_risk": false,
+      "volatility_risk": true
+    }
+  },
+  {
+    "etf_name": "交银医药ETF",
+    "channel_sales_distribution": [
+      {
+        "channel": "线上",
+        "share": 0.161
+      },
+      {
+        "channel": "线下",
+        "share": 0.164
+      },
+      {
+        "channel": "机构",
+        "share": 0.487
+      },
+      {
+        "channel": "散户",
+        "share": 0.037
+      },
+      {
+        "channel": "第三方平台",
+        "share": 0.151
+      }
+    ],
+    "valuation_history": {
+      "historical_high_valuation": 142.93,
+      "historical_low_valuation": 88.99,
+      "average_volatility_pct": 4.274
+    },
+    "risk_profile": {
+      "market_risk_level": "低",
+      "policy_risk": false,
+      "volatility_risk": false
+    }
+  },
+  {
+    "etf_name": "嘉实医药ETF",
+    "channel_sales_distribution": [
+      {
+        "channel": "线上",
+        "share": 0.01
+      },
+      {
+        "channel": "线下",
+        "share": 0.351
+      },
+      {
+        "channel": "机构",
+        "share": 0.16
+      },
+      {
+        "channel": "散户",
+        "share": 0.129
+      },
+      {
+        "channel": "第三方平台",
+        "share": 0.35
+      }
+    ],
+    "valuation_history": {
+      "historical_high_valuation": 169.72,
+      "historical_low_valuation": 63.99,
+      "average_volatility_pct": 4.715
+    },
+    "risk_profile": {
+      "market_risk_level": "高",
+      "policy_risk": false,
+      "volatility_risk": true
+    }
+  },
+  {
+    "etf_name": "国泰上证综指ETF",
+    "channel_sales_distribution": [
+      {
+        "channel": "线上",
+        "share": 0.097
+      },
+      {
+        "channel": "线下",
+        "share": 0.401
+      },
+      {
+        "channel": "机构",
+        "share": 0.089
+      },
+      {
+        "channel": "散户",
+        "share": 0.373
+      },
+      {
+        "channel": "第三方平台",
+        "share": 0.039
+      }
+    ],
+    "valuation_history": {
+      "historical_high_valuation": 156.99,
+      "historical_low_valuation": 89.83,
+      "average_volatility_pct": 2.816
+    },
+    "risk_profile": {
+      "market_risk_level": "高",
+      "policy_risk": false,
+      "volatility_risk": true
+    }
+  },
+  {
+    "etf_name": "南方能源ETF",
+    "channel_sales_distribution": [
+      {
+        "channel": "线上",
+        "share": 0.126
+      },
+      {
+        "channel": "线下",
+        "share": 0.143
+      },
+      {
+        "channel": "机构",
+        "share": 0.299
+      },
+      {
+        "channel": "散户",
+        "share": 0.311
+      },
+      {
+        "channel": "第三方平台",
+        "share": 0.121
+      }
+    ],
+    "valuation_history": {
+      "historical_high_valuation": 171.48,
+      "historical_low_valuation": 74.05,
+      "average_volatility_pct": 3.863
+    },
+    "risk_profile": {
+      "market_risk_level": "高",
+      "policy_risk": false,
+      "volatility_risk": true
+    }
+  }
+]

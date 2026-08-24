@@ -1,0 +1,1695 @@
+[
+  {
+    "user_id": 1,
+    "name": "王丹",
+    "gender": "男",
+    "age": 40,
+    "city": "杭州",
+    "year_reference": 2020,
+    "devices": [
+      {
+        "device_type": "笔记本",
+        "os": "Windows",
+        "last_active": "2025-08-10"
+      },
+      {
+        "device_type": "手机",
+        "os": "macOS",
+        "last_active": "2025-07-22"
+      }
+    ],
+    "shopping_behavior": {
+      "monthly_spending": 2913.03,
+      "preferred_platforms": [
+        "淘宝",
+        "拼多多"
+      ],
+      "likes_flash_sale": false,
+      "average_cart_size": 10
+    },
+    "internet_usage": {
+      "daily_online_hours": 2.7,
+      "favorite_app": "微信",
+      "stocks_invested": true
+    }
+  },
+  {
+    "user_id": 2,
+    "name": "余健",
+    "gender": "女",
+    "age": 23,
+    "city": "杭州",
+    "year_reference": 2017,
+    "devices": [
+      {
+        "device_type": "手机",
+        "os": "macOS",
+        "last_active": "2025-10-11"
+      }
+    ],
+    "shopping_behavior": {
+      "monthly_spending": 1750.88,
+      "preferred_platforms": [
+        "拼多多",
+        "京东",
+        "苏宁易购"
+      ],
+      "likes_flash_sale": false,
+      "average_cart_size": 4
+    },
+    "internet_usage": {
+      "daily_online_hours": 7.0,
+      "favorite_app": "微信",
+      "stocks_invested": false
+    }
+  },
+  {
+    "user_id": 3,
+    "name": "王红霞",
+    "gender": "男",
+    "age": 28,
+    "city": "深圳",
+    "year_reference": 2016,
+    "devices": [
+      {
+        "device_type": "平板",
+        "os": "iOS",
+        "last_active": "2025-08-07"
+      },
+      {
+        "device_type": "笔记本",
+        "os": "Windows",
+        "last_active": "2025-10-13"
+      }
+    ],
+    "shopping_behavior": {
+      "monthly_spending": 4292.83,
+      "preferred_platforms": [
+        "京东"
+      ],
+      "likes_flash_sale": true,
+      "average_cart_size": 6
+    },
+    "internet_usage": {
+      "daily_online_hours": 4.6,
+      "favorite_app": "微信",
+      "stocks_invested": true
+    }
+  },
+  {
+    "user_id": 4,
+    "name": "丁婷婷",
+    "gender": "女",
+    "age": 31,
+    "city": "武汉",
+    "year_reference": 2023,
+    "devices": [
+      {
+        "device_type": "平板",
+        "os": "macOS",
+        "last_active": "2025-08-05"
+      },
+      {
+        "device_type": "手机",
+        "os": "Windows",
+        "last_active": "2025-10-11"
+      }
+    ],
+    "shopping_behavior": {
+      "monthly_spending": 1128.34,
+      "preferred_platforms": [
+        "唯品会",
+        "拼多多",
+        "苏宁易购"
+      ],
+      "likes_flash_sale": false,
+      "average_cart_size": 10
+    },
+    "internet_usage": {
+      "daily_online_hours": 4.6,
+      "favorite_app": "微博",
+      "stocks_invested": false
+    }
+  },
+  {
+    "user_id": 5,
+    "name": "廖晨",
+    "gender": "女",
+    "age": 23,
+    "city": "杭州",
+    "year_reference": 2016,
+    "devices": [
+      {
+        "device_type": "手机",
+        "os": "iOS",
+        "last_active": "2025-10-30"
+      }
+    ],
+    "shopping_behavior": {
+      "monthly_spending": 3323.51,
+      "preferred_platforms": [
+        "苏宁易购",
+        "淘宝",
+        "京东"
+      ],
+      "likes_flash_sale": false,
+      "average_cart_size": 10
+    },
+    "internet_usage": {
+      "daily_online_hours": 10.0,
+      "favorite_app": "知乎",
+      "stocks_invested": true
+    }
+  },
+  {
+    "user_id": 6,
+    "name": "陈红霞",
+    "gender": "男",
+    "age": 25,
+    "city": "武汉",
+    "year_reference": 2022,
+    "devices": [
+      {
+        "device_type": "平板",
+        "os": "Windows",
+        "last_active": "2025-12-16"
+      },
+      {
+        "device_type": "手机",
+        "os": "Windows",
+        "last_active": "2025-08-26"
+      },
+      {
+        "device_type": "平板",
+        "os": "iOS",
+        "last_active": "2025-07-13"
+      }
+    ],
+    "shopping_behavior": {
+      "monthly_spending": 2541.76,
+      "preferred_platforms": [
+        "拼多多",
+        "京东",
+        "唯品会"
+      ],
+      "likes_flash_sale": true,
+      "average_cart_size": 5
+    },
+    "internet_usage": {
+      "daily_online_hours": 8.6,
+      "favorite_app": "知乎",
+      "stocks_invested": false
+    }
+  },
+  {
+    "user_id": 7,
+    "name": "黄红梅",
+    "gender": "女",
+    "age": 28,
+    "city": "成都",
+    "year_reference": 2016,
+    "devices": [
+      {
+        "device_type": "手机",
+        "os": "Windows",
+        "last_active": "2025-10-13"
+      },
+      {
+        "device_type": "平板",
+        "os": "Android",
+        "last_active": "2025-11-19"
+      },
+      {
+        "device_type": "手机",
+        "os": "Windows",
+        "last_active": "2025-11-05"
+      }
+    ],
+    "shopping_behavior": {
+      "monthly_spending": 4454.25,
+      "preferred_platforms": [
+        "京东",
+        "淘宝"
+      ],
+      "likes_flash_sale": true,
+      "average_cart_size": 10
+    },
+    "internet_usage": {
+      "daily_online_hours": 9.5,
+      "favorite_app": "微信",
+      "stocks_invested": false
+    }
+  },
+  {
+    "user_id": 8,
+    "name": "栾淑珍",
+    "gender": "男",
+    "age": 26,
+    "city": "武汉",
+    "year_reference": 2015,
+    "devices": [
+      {
+        "device_type": "笔记本",
+        "os": "iOS",
+        "last_active": "2025-07-11"
+      },
+      {
+        "device_type": "平板",
+        "os": "macOS",
+        "last_active": "2025-08-18"
+      }
+    ],
+    "shopping_behavior": {
+      "monthly_spending": 4839.63,
+      "preferred_platforms": [
+        "京东",
+        "拼多多",
+        "唯品会"
+      ],
+      "likes_flash_sale": false,
+      "average_cart_size": 8
+    },
+    "internet_usage": {
+      "daily_online_hours": 9.1,
+      "favorite_app": "快手",
+      "stocks_invested": true
+    }
+  },
+  {
+    "user_id": 9,
+    "name": "梁波",
+    "gender": "男",
+    "age": 39,
+    "city": "北京",
+    "year_reference": 2017,
+    "devices": [
+      {
+        "device_type": "笔记本",
+        "os": "iOS",
+        "last_active": "2025-07-05"
+      },
+      {
+        "device_type": "笔记本",
+        "os": "iOS",
+        "last_active": "2025-08-07"
+      },
+      {
+        "device_type": "手机",
+        "os": "Android",
+        "last_active": "2025-08-18"
+      }
+    ],
+    "shopping_behavior": {
+      "monthly_spending": 3685.28,
+      "preferred_platforms": [
+        "京东"
+      ],
+      "likes_flash_sale": true,
+      "average_cart_size": 1
+    },
+    "internet_usage": {
+      "daily_online_hours": 8.7,
+      "favorite_app": "微信",
+      "stocks_invested": false
+    }
+  },
+  {
+    "user_id": 10,
+    "name": "万帅",
+    "gender": "女",
+    "age": 31,
+    "city": "成都",
+    "year_reference": 2018,
+    "devices": [
+      {
+        "device_type": "笔记本",
+        "os": "macOS",
+        "last_active": "2025-09-03"
+      }
+    ],
+    "shopping_behavior": {
+      "monthly_spending": 1593.49,
+      "preferred_platforms": [
+        "苏宁易购",
+        "京东"
+      ],
+      "likes_flash_sale": true,
+      "average_cart_size": 2
+    },
+    "internet_usage": {
+      "daily_online_hours": 6.9,
+      "favorite_app": "抖音",
+      "stocks_invested": false
+    }
+  },
+  {
+    "user_id": 11,
+    "name": "曾云",
+    "gender": "男",
+    "age": 59,
+    "city": "武汉",
+    "year_reference": 2021,
+    "devices": [
+      {
+        "device_type": "手机",
+        "os": "macOS",
+        "last_active": "2025-07-26"
+      }
+    ],
+    "shopping_behavior": {
+      "monthly_spending": 3776.96,
+      "preferred_platforms": [
+        "京东"
+      ],
+      "likes_flash_sale": true,
+      "average_cart_size": 4
+    },
+    "internet_usage": {
+      "daily_online_hours": 5.8,
+      "favorite_app": "微博",
+      "stocks_invested": false
+    }
+  },
+  {
+    "user_id": 12,
+    "name": "张玲",
+    "gender": "女",
+    "age": 33,
+    "city": "杭州",
+    "year_reference": 2018,
+    "devices": [
+      {
+        "device_type": "平板",
+        "os": "Android",
+        "last_active": "2025-10-31"
+      }
+    ],
+    "shopping_behavior": {
+      "monthly_spending": 727.65,
+      "preferred_platforms": [
+        "淘宝",
+        "唯品会",
+        "苏宁易购"
+      ],
+      "likes_flash_sale": true,
+      "average_cart_size": 7
+    },
+    "internet_usage": {
+      "daily_online_hours": 5.4,
+      "favorite_app": "微博",
+      "stocks_invested": false
+    }
+  },
+  {
+    "user_id": 13,
+    "name": "邓兵",
+    "gender": "男",
+    "age": 42,
+    "city": "北京",
+    "year_reference": 2014,
+    "devices": [
+      {
+        "device_type": "平板",
+        "os": "macOS",
+        "last_active": "2025-10-01"
+      },
+      {
+        "device_type": "平板",
+        "os": "macOS",
+        "last_active": "2025-08-10"
+      }
+    ],
+    "shopping_behavior": {
+      "monthly_spending": 3634.66,
+      "preferred_platforms": [
+        "唯品会",
+        "苏宁易购",
+        "淘宝"
+      ],
+      "likes_flash_sale": true,
+      "average_cart_size": 5
+    },
+    "internet_usage": {
+      "daily_online_hours": 3.0,
+      "favorite_app": "微信",
+      "stocks_invested": false
+    }
+  },
+  {
+    "user_id": 14,
+    "name": "吴建平",
+    "gender": "男",
+    "age": 38,
+    "city": "北京",
+    "year_reference": 2022,
+    "devices": [
+      {
+        "device_type": "笔记本",
+        "os": "macOS",
+        "last_active": "2025-10-28"
+      }
+    ],
+    "shopping_behavior": {
+      "monthly_spending": 2762.83,
+      "preferred_platforms": [
+        "京东",
+        "淘宝",
+        "拼多多"
+      ],
+      "likes_flash_sale": true,
+      "average_cart_size": 3
+    },
+    "internet_usage": {
+      "daily_online_hours": 1.6,
+      "favorite_app": "微信",
+      "stocks_invested": false
+    }
+  },
+  {
+    "user_id": 15,
+    "name": "刘超",
+    "gender": "女",
+    "age": 25,
+    "city": "成都",
+    "year_reference": 2017,
+    "devices": [
+      {
+        "device_type": "笔记本",
+        "os": "Android",
+        "last_active": "2025-11-18"
+      }
+    ],
+    "shopping_behavior": {
+      "monthly_spending": 3287.22,
+      "preferred_platforms": [
+        "唯品会",
+        "拼多多"
+      ],
+      "likes_flash_sale": false,
+      "average_cart_size": 4
+    },
+    "internet_usage": {
+      "daily_online_hours": 7.0,
+      "favorite_app": "抖音",
+      "stocks_invested": true
+    }
+  },
+  {
+    "user_id": 16,
+    "name": "刘楠",
+    "gender": "男",
+    "age": 60,
+    "city": "武汉",
+    "year_reference": 2020,
+    "devices": [
+      {
+        "device_type": "平板",
+        "os": "Windows",
+        "last_active": "2025-12-08"
+      },
+      {
+        "device_type": "手机",
+        "os": "Android",
+        "last_active": "2025-10-07"
+      }
+    ],
+    "shopping_behavior": {
+      "monthly_spending": 2562.28,
+      "preferred_platforms": [
+        "淘宝",
+        "唯品会",
+        "拼多多"
+      ],
+      "likes_flash_sale": true,
+      "average_cart_size": 9
+    },
+    "internet_usage": {
+      "daily_online_hours": 3.4,
+      "favorite_app": "抖音",
+      "stocks_invested": false
+    }
+  },
+  {
+    "user_id": 17,
+    "name": "张瑜",
+    "gender": "女",
+    "age": 36,
+    "city": "上海",
+    "year_reference": 2017,
+    "devices": [
+      {
+        "device_type": "笔记本",
+        "os": "Windows",
+        "last_active": "2025-09-06"
+      },
+      {
+        "device_type": "笔记本",
+        "os": "Android",
+        "last_active": "2025-12-08"
+      }
+    ],
+    "shopping_behavior": {
+      "monthly_spending": 3505.38,
+      "preferred_platforms": [
+        "拼多多",
+        "淘宝",
+        "苏宁易购"
+      ],
+      "likes_flash_sale": false,
+      "average_cart_size": 2
+    },
+    "internet_usage": {
+      "daily_online_hours": 9.0,
+      "favorite_app": "知乎",
+      "stocks_invested": true
+    }
+  },
+  {
+    "user_id": 18,
+    "name": "李成",
+    "gender": "男",
+    "age": 39,
+    "city": "上海",
+    "year_reference": 2018,
+    "devices": [
+      {
+        "device_type": "笔记本",
+        "os": "Windows",
+        "last_active": "2025-08-10"
+      },
+      {
+        "device_type": "笔记本",
+        "os": "macOS",
+        "last_active": "2025-10-06"
+      },
+      {
+        "device_type": "平板",
+        "os": "Android",
+        "last_active": "2025-08-13"
+      }
+    ],
+    "shopping_behavior": {
+      "monthly_spending": 915.34,
+      "preferred_platforms": [
+        "拼多多",
+        "淘宝"
+      ],
+      "likes_flash_sale": true,
+      "average_cart_size": 6
+    },
+    "internet_usage": {
+      "daily_online_hours": 7.9,
+      "favorite_app": "抖音",
+      "stocks_invested": true
+    }
+  },
+  {
+    "user_id": 19,
+    "name": "颜莹",
+    "gender": "女",
+    "age": 53,
+    "city": "北京",
+    "year_reference": 2021,
+    "devices": [
+      {
+        "device_type": "手机",
+        "os": "iOS",
+        "last_active": "2025-08-31"
+      }
+    ],
+    "shopping_behavior": {
+      "monthly_spending": 2955.16,
+      "preferred_platforms": [
+        "唯品会",
+        "京东"
+      ],
+      "likes_flash_sale": false,
+      "average_cart_size": 3
+    },
+    "internet_usage": {
+      "daily_online_hours": 1.4,
+      "favorite_app": "抖音",
+      "stocks_invested": false
+    }
+  },
+  {
+    "user_id": 20,
+    "name": "林俊",
+    "gender": "女",
+    "age": 31,
+    "city": "武汉",
+    "year_reference": 2014,
+    "devices": [
+      {
+        "device_type": "笔记本",
+        "os": "Android",
+        "last_active": "2025-11-10"
+      }
+    ],
+    "shopping_behavior": {
+      "monthly_spending": 2091.55,
+      "preferred_platforms": [
+        "苏宁易购",
+        "京东",
+        "淘宝"
+      ],
+      "likes_flash_sale": true,
+      "average_cart_size": 3
+    },
+    "internet_usage": {
+      "daily_online_hours": 8.9,
+      "favorite_app": "微信",
+      "stocks_invested": true
+    }
+  },
+  {
+    "user_id": 21,
+    "name": "张晨",
+    "gender": "女",
+    "age": 60,
+    "city": "杭州",
+    "year_reference": 2019,
+    "devices": [
+      {
+        "device_type": "手机",
+        "os": "Windows",
+        "last_active": "2025-11-16"
+      },
+      {
+        "device_type": "手机",
+        "os": "Android",
+        "last_active": "2025-09-10"
+      },
+      {
+        "device_type": "平板",
+        "os": "Android",
+        "last_active": "2025-07-08"
+      }
+    ],
+    "shopping_behavior": {
+      "monthly_spending": 4363.67,
+      "preferred_platforms": [
+        "京东"
+      ],
+      "likes_flash_sale": false,
+      "average_cart_size": 6
+    },
+    "internet_usage": {
+      "daily_online_hours": 3.7,
+      "favorite_app": "微博",
+      "stocks_invested": true
+    }
+  },
+  {
+    "user_id": 22,
+    "name": "唐丹丹",
+    "gender": "女",
+    "age": 39,
+    "city": "广州",
+    "year_reference": 2017,
+    "devices": [
+      {
+        "device_type": "平板",
+        "os": "Windows",
+        "last_active": "2025-09-30"
+      }
+    ],
+    "shopping_behavior": {
+      "monthly_spending": 3386.67,
+      "preferred_platforms": [
+        "唯品会",
+        "拼多多"
+      ],
+      "likes_flash_sale": true,
+      "average_cart_size": 2
+    },
+    "internet_usage": {
+      "daily_online_hours": 8.9,
+      "favorite_app": "抖音",
+      "stocks_invested": true
+    }
+  },
+  {
+    "user_id": 23,
+    "name": "余林",
+    "gender": "男",
+    "age": 24,
+    "city": "成都",
+    "year_reference": 2018,
+    "devices": [
+      {
+        "device_type": "平板",
+        "os": "Windows",
+        "last_active": "2025-10-27"
+      },
+      {
+        "device_type": "平板",
+        "os": "Android",
+        "last_active": "2025-10-01"
+      }
+    ],
+    "shopping_behavior": {
+      "monthly_spending": 2233.38,
+      "preferred_platforms": [
+        "京东",
+        "拼多多",
+        "淘宝"
+      ],
+      "likes_flash_sale": false,
+      "average_cart_size": 1
+    },
+    "internet_usage": {
+      "daily_online_hours": 5.7,
+      "favorite_app": "知乎",
+      "stocks_invested": false
+    }
+  },
+  {
+    "user_id": 24,
+    "name": "陆慧",
+    "gender": "女",
+    "age": 45,
+    "city": "北京",
+    "year_reference": 2017,
+    "devices": [
+      {
+        "device_type": "平板",
+        "os": "Windows",
+        "last_active": "2025-07-17"
+      },
+      {
+        "device_type": "笔记本",
+        "os": "Android",
+        "last_active": "2025-09-13"
+      },
+      {
+        "device_type": "笔记本",
+        "os": "Windows",
+        "last_active": "2025-09-16"
+      }
+    ],
+    "shopping_behavior": {
+      "monthly_spending": 2782.05,
+      "preferred_platforms": [
+        "苏宁易购",
+        "拼多多",
+        "京东"
+      ],
+      "likes_flash_sale": false,
+      "average_cart_size": 9
+    },
+    "internet_usage": {
+      "daily_online_hours": 2.1,
+      "favorite_app": "快手",
+      "stocks_invested": false
+    }
+  },
+  {
+    "user_id": 25,
+    "name": "姬东",
+    "gender": "男",
+    "age": 57,
+    "city": "成都",
+    "year_reference": 2020,
+    "devices": [
+      {
+        "device_type": "平板",
+        "os": "Android",
+        "last_active": "2025-09-26"
+      },
+      {
+        "device_type": "平板",
+        "os": "Windows",
+        "last_active": "2025-07-16"
+      }
+    ],
+    "shopping_behavior": {
+      "monthly_spending": 1445.82,
+      "preferred_platforms": [
+        "唯品会",
+        "拼多多",
+        "京东"
+      ],
+      "likes_flash_sale": false,
+      "average_cart_size": 8
+    },
+    "internet_usage": {
+      "daily_online_hours": 7.1,
+      "favorite_app": "知乎",
+      "stocks_invested": false
+    }
+  },
+  {
+    "user_id": 26,
+    "name": "贺璐",
+    "gender": "男",
+    "age": 36,
+    "city": "成都",
+    "year_reference": 2016,
+    "devices": [
+      {
+        "device_type": "笔记本",
+        "os": "Windows",
+        "last_active": "2025-10-14"
+      },
+      {
+        "device_type": "手机",
+        "os": "iOS",
+        "last_active": "2025-07-24"
+      },
+      {
+        "device_type": "笔记本",
+        "os": "Windows",
+        "last_active": "2025-11-11"
+      }
+    ],
+    "shopping_behavior": {
+      "monthly_spending": 1510.88,
+      "preferred_platforms": [
+        "京东"
+      ],
+      "likes_flash_sale": true,
+      "average_cart_size": 1
+    },
+    "internet_usage": {
+      "daily_online_hours": 3.2,
+      "favorite_app": "快手",
+      "stocks_invested": false
+    }
+  },
+  {
+    "user_id": 27,
+    "name": "唐小红",
+    "gender": "女",
+    "age": 44,
+    "city": "武汉",
+    "year_reference": 2015,
+    "devices": [
+      {
+        "device_type": "手机",
+        "os": "macOS",
+        "last_active": "2025-06-30"
+      },
+      {
+        "device_type": "平板",
+        "os": "macOS",
+        "last_active": "2025-12-11"
+      },
+      {
+        "device_type": "手机",
+        "os": "iOS",
+        "last_active": "2025-12-02"
+      }
+    ],
+    "shopping_behavior": {
+      "monthly_spending": 3452.26,
+      "preferred_platforms": [
+        "淘宝"
+      ],
+      "likes_flash_sale": false,
+      "average_cart_size": 4
+    },
+    "internet_usage": {
+      "daily_online_hours": 2.6,
+      "favorite_app": "知乎",
+      "stocks_invested": false
+    }
+  },
+  {
+    "user_id": 28,
+    "name": "刘秀英",
+    "gender": "男",
+    "age": 25,
+    "city": "深圳",
+    "year_reference": 2022,
+    "devices": [
+      {
+        "device_type": "平板",
+        "os": "Windows",
+        "last_active": "2025-12-02"
+      }
+    ],
+    "shopping_behavior": {
+      "monthly_spending": 4775.18,
+      "preferred_platforms": [
+        "唯品会",
+        "苏宁易购"
+      ],
+      "likes_flash_sale": false,
+      "average_cart_size": 3
+    },
+    "internet_usage": {
+      "daily_online_hours": 7.7,
+      "favorite_app": "快手",
+      "stocks_invested": false
+    }
+  },
+  {
+    "user_id": 29,
+    "name": "李桂芝",
+    "gender": "女",
+    "age": 51,
+    "city": "深圳",
+    "year_reference": 2017,
+    "devices": [
+      {
+        "device_type": "手机",
+        "os": "Windows",
+        "last_active": "2025-11-20"
+      },
+      {
+        "device_type": "平板",
+        "os": "Android",
+        "last_active": "2025-12-20"
+      },
+      {
+        "device_type": "笔记本",
+        "os": "Windows",
+        "last_active": "2025-09-30"
+      }
+    ],
+    "shopping_behavior": {
+      "monthly_spending": 1555.22,
+      "preferred_platforms": [
+        "拼多多",
+        "淘宝"
+      ],
+      "likes_flash_sale": true,
+      "average_cart_size": 3
+    },
+    "internet_usage": {
+      "daily_online_hours": 3.1,
+      "favorite_app": "微博",
+      "stocks_invested": false
+    }
+  },
+  {
+    "user_id": 30,
+    "name": "李淑华",
+    "gender": "女",
+    "age": 44,
+    "city": "广州",
+    "year_reference": 2015,
+    "devices": [
+      {
+        "device_type": "平板",
+        "os": "macOS",
+        "last_active": "2025-12-14"
+      },
+      {
+        "device_type": "手机",
+        "os": "iOS",
+        "last_active": "2025-07-26"
+      },
+      {
+        "device_type": "平板",
+        "os": "macOS",
+        "last_active": "2025-09-29"
+      }
+    ],
+    "shopping_behavior": {
+      "monthly_spending": 4571.77,
+      "preferred_platforms": [
+        "淘宝",
+        "苏宁易购",
+        "京东"
+      ],
+      "likes_flash_sale": true,
+      "average_cart_size": 6
+    },
+    "internet_usage": {
+      "daily_online_hours": 3.7,
+      "favorite_app": "快手",
+      "stocks_invested": false
+    }
+  },
+  {
+    "user_id": 31,
+    "name": "宫杨",
+    "gender": "男",
+    "age": 49,
+    "city": "上海",
+    "year_reference": 2020,
+    "devices": [
+      {
+        "device_type": "平板",
+        "os": "macOS",
+        "last_active": "2025-11-02"
+      },
+      {
+        "device_type": "手机",
+        "os": "macOS",
+        "last_active": "2025-09-06"
+      }
+    ],
+    "shopping_behavior": {
+      "monthly_spending": 2012.58,
+      "preferred_platforms": [
+        "苏宁易购",
+        "京东",
+        "唯品会"
+      ],
+      "likes_flash_sale": true,
+      "average_cart_size": 10
+    },
+    "internet_usage": {
+      "daily_online_hours": 5.8,
+      "favorite_app": "快手",
+      "stocks_invested": false
+    }
+  },
+  {
+    "user_id": 32,
+    "name": "徐欣",
+    "gender": "男",
+    "age": 59,
+    "city": "深圳",
+    "year_reference": 2014,
+    "devices": [
+      {
+        "device_type": "平板",
+        "os": "iOS",
+        "last_active": "2025-07-18"
+      }
+    ],
+    "shopping_behavior": {
+      "monthly_spending": 726.28,
+      "preferred_platforms": [
+        "拼多多",
+        "京东"
+      ],
+      "likes_flash_sale": false,
+      "average_cart_size": 6
+    },
+    "internet_usage": {
+      "daily_online_hours": 4.0,
+      "favorite_app": "快手",
+      "stocks_invested": true
+    }
+  },
+  {
+    "user_id": 33,
+    "name": "王军",
+    "gender": "女",
+    "age": 23,
+    "city": "深圳",
+    "year_reference": 2020,
+    "devices": [
+      {
+        "device_type": "笔记本",
+        "os": "Android",
+        "last_active": "2025-10-10"
+      }
+    ],
+    "shopping_behavior": {
+      "monthly_spending": 4999.59,
+      "preferred_platforms": [
+        "京东",
+        "淘宝"
+      ],
+      "likes_flash_sale": true,
+      "average_cart_size": 1
+    },
+    "internet_usage": {
+      "daily_online_hours": 9.5,
+      "favorite_app": "微博",
+      "stocks_invested": false
+    }
+  },
+  {
+    "user_id": 34,
+    "name": "宋强",
+    "gender": "男",
+    "age": 33,
+    "city": "上海",
+    "year_reference": 2023,
+    "devices": [
+      {
+        "device_type": "笔记本",
+        "os": "Android",
+        "last_active": "2025-07-09"
+      },
+      {
+        "device_type": "笔记本",
+        "os": "iOS",
+        "last_active": "2025-10-18"
+      }
+    ],
+    "shopping_behavior": {
+      "monthly_spending": 2592.65,
+      "preferred_platforms": [
+        "拼多多",
+        "京东"
+      ],
+      "likes_flash_sale": true,
+      "average_cart_size": 3
+    },
+    "internet_usage": {
+      "daily_online_hours": 9.7,
+      "favorite_app": "微信",
+      "stocks_invested": false
+    }
+  },
+  {
+    "user_id": 35,
+    "name": "王超",
+    "gender": "女",
+    "age": 43,
+    "city": "武汉",
+    "year_reference": 2018,
+    "devices": [
+      {
+        "device_type": "手机",
+        "os": "iOS",
+        "last_active": "2025-11-28"
+      }
+    ],
+    "shopping_behavior": {
+      "monthly_spending": 958.56,
+      "preferred_platforms": [
+        "唯品会",
+        "淘宝"
+      ],
+      "likes_flash_sale": true,
+      "average_cart_size": 6
+    },
+    "internet_usage": {
+      "daily_online_hours": 5.8,
+      "favorite_app": "抖音",
+      "stocks_invested": true
+    }
+  },
+  {
+    "user_id": 36,
+    "name": "林萍",
+    "gender": "男",
+    "age": 44,
+    "city": "杭州",
+    "year_reference": 2019,
+    "devices": [
+      {
+        "device_type": "手机",
+        "os": "macOS",
+        "last_active": "2025-10-25"
+      },
+      {
+        "device_type": "平板",
+        "os": "macOS",
+        "last_active": "2025-08-04"
+      }
+    ],
+    "shopping_behavior": {
+      "monthly_spending": 3682.89,
+      "preferred_platforms": [
+        "京东",
+        "拼多多"
+      ],
+      "likes_flash_sale": false,
+      "average_cart_size": 8
+    },
+    "internet_usage": {
+      "daily_online_hours": 4.9,
+      "favorite_app": "知乎",
+      "stocks_invested": true
+    }
+  },
+  {
+    "user_id": 37,
+    "name": "沈淑华",
+    "gender": "男",
+    "age": 35,
+    "city": "深圳",
+    "year_reference": 2017,
+    "devices": [
+      {
+        "device_type": "平板",
+        "os": "macOS",
+        "last_active": "2025-08-09"
+      }
+    ],
+    "shopping_behavior": {
+      "monthly_spending": 2013.78,
+      "preferred_platforms": [
+        "拼多多",
+        "京东"
+      ],
+      "likes_flash_sale": false,
+      "average_cart_size": 4
+    },
+    "internet_usage": {
+      "daily_online_hours": 4.2,
+      "favorite_app": "抖音",
+      "stocks_invested": false
+    }
+  },
+  {
+    "user_id": 38,
+    "name": "熊坤",
+    "gender": "女",
+    "age": 53,
+    "city": "北京",
+    "year_reference": 2023,
+    "devices": [
+      {
+        "device_type": "手机",
+        "os": "Android",
+        "last_active": "2025-07-13"
+      },
+      {
+        "device_type": "手机",
+        "os": "macOS",
+        "last_active": "2025-10-23"
+      },
+      {
+        "device_type": "平板",
+        "os": "iOS",
+        "last_active": "2025-08-29"
+      }
+    ],
+    "shopping_behavior": {
+      "monthly_spending": 3607.74,
+      "preferred_platforms": [
+        "苏宁易购",
+        "唯品会",
+        "淘宝"
+      ],
+      "likes_flash_sale": true,
+      "average_cart_size": 5
+    },
+    "internet_usage": {
+      "daily_online_hours": 3.0,
+      "favorite_app": "微博",
+      "stocks_invested": false
+    }
+  },
+  {
+    "user_id": 39,
+    "name": "马鹏",
+    "gender": "女",
+    "age": 48,
+    "city": "成都",
+    "year_reference": 2023,
+    "devices": [
+      {
+        "device_type": "平板",
+        "os": "macOS",
+        "last_active": "2025-10-26"
+      },
+      {
+        "device_type": "笔记本",
+        "os": "Windows",
+        "last_active": "2025-12-21"
+      },
+      {
+        "device_type": "平板",
+        "os": "macOS",
+        "last_active": "2025-07-14"
+      }
+    ],
+    "shopping_behavior": {
+      "monthly_spending": 1719.12,
+      "preferred_platforms": [
+        "京东",
+        "淘宝"
+      ],
+      "likes_flash_sale": true,
+      "average_cart_size": 6
+    },
+    "internet_usage": {
+      "daily_online_hours": 2.1,
+      "favorite_app": "知乎",
+      "stocks_invested": false
+    }
+  },
+  {
+    "user_id": 40,
+    "name": "姚宁",
+    "gender": "男",
+    "age": 31,
+    "city": "武汉",
+    "year_reference": 2016,
+    "devices": [
+      {
+        "device_type": "平板",
+        "os": "Windows",
+        "last_active": "2025-08-10"
+      },
+      {
+        "device_type": "手机",
+        "os": "iOS",
+        "last_active": "2025-07-31"
+      }
+    ],
+    "shopping_behavior": {
+      "monthly_spending": 1833.11,
+      "preferred_platforms": [
+        "京东",
+        "拼多多"
+      ],
+      "likes_flash_sale": true,
+      "average_cart_size": 9
+    },
+    "internet_usage": {
+      "daily_online_hours": 2.1,
+      "favorite_app": "微信",
+      "stocks_invested": false
+    }
+  },
+  {
+    "user_id": 41,
+    "name": "李博",
+    "gender": "女",
+    "age": 26,
+    "city": "武汉",
+    "year_reference": 2022,
+    "devices": [
+      {
+        "device_type": "手机",
+        "os": "Android",
+        "last_active": "2025-08-16"
+      },
+      {
+        "device_type": "笔记本",
+        "os": "Windows",
+        "last_active": "2025-08-10"
+      }
+    ],
+    "shopping_behavior": {
+      "monthly_spending": 2612.29,
+      "preferred_platforms": [
+        "拼多多",
+        "京东"
+      ],
+      "likes_flash_sale": true,
+      "average_cart_size": 5
+    },
+    "internet_usage": {
+      "daily_online_hours": 9.5,
+      "favorite_app": "快手",
+      "stocks_invested": true
+    }
+  },
+  {
+    "user_id": 42,
+    "name": "徐帅",
+    "gender": "女",
+    "age": 49,
+    "city": "北京",
+    "year_reference": 2015,
+    "devices": [
+      {
+        "device_type": "笔记本",
+        "os": "Android",
+        "last_active": "2025-07-06"
+      },
+      {
+        "device_type": "手机",
+        "os": "iOS",
+        "last_active": "2025-12-23"
+      },
+      {
+        "device_type": "笔记本",
+        "os": "Windows",
+        "last_active": "2025-11-24"
+      }
+    ],
+    "shopping_behavior": {
+      "monthly_spending": 883.31,
+      "preferred_platforms": [
+        "淘宝"
+      ],
+      "likes_flash_sale": false,
+      "average_cart_size": 10
+    },
+    "internet_usage": {
+      "daily_online_hours": 6.4,
+      "favorite_app": "知乎",
+      "stocks_invested": true
+    }
+  },
+  {
+    "user_id": 43,
+    "name": "纪静",
+    "gender": "女",
+    "age": 46,
+    "city": "深圳",
+    "year_reference": 2022,
+    "devices": [
+      {
+        "device_type": "笔记本",
+        "os": "macOS",
+        "last_active": "2025-07-26"
+      },
+      {
+        "device_type": "平板",
+        "os": "Android",
+        "last_active": "2025-09-22"
+      }
+    ],
+    "shopping_behavior": {
+      "monthly_spending": 3243.34,
+      "preferred_platforms": [
+        "淘宝",
+        "京东",
+        "拼多多"
+      ],
+      "likes_flash_sale": true,
+      "average_cart_size": 5
+    },
+    "internet_usage": {
+      "daily_online_hours": 6.9,
+      "favorite_app": "微博",
+      "stocks_invested": true
+    }
+  },
+  {
+    "user_id": 44,
+    "name": "洪飞",
+    "gender": "男",
+    "age": 28,
+    "city": "北京",
+    "year_reference": 2022,
+    "devices": [
+      {
+        "device_type": "平板",
+        "os": "macOS",
+        "last_active": "2025-07-26"
+      },
+      {
+        "device_type": "平板",
+        "os": "Android",
+        "last_active": "2025-06-27"
+      }
+    ],
+    "shopping_behavior": {
+      "monthly_spending": 1541.64,
+      "preferred_platforms": [
+        "拼多多",
+        "苏宁易购",
+        "淘宝"
+      ],
+      "likes_flash_sale": true,
+      "average_cart_size": 5
+    },
+    "internet_usage": {
+      "daily_online_hours": 8.1,
+      "favorite_app": "知乎",
+      "stocks_invested": false
+    }
+  },
+  {
+    "user_id": 45,
+    "name": "刘淑英",
+    "gender": "女",
+    "age": 25,
+    "city": "成都",
+    "year_reference": 2017,
+    "devices": [
+      {
+        "device_type": "笔记本",
+        "os": "iOS",
+        "last_active": "2025-08-17"
+      }
+    ],
+    "shopping_behavior": {
+      "monthly_spending": 4587.85,
+      "preferred_platforms": [
+        "淘宝"
+      ],
+      "likes_flash_sale": true,
+      "average_cart_size": 3
+    },
+    "internet_usage": {
+      "daily_online_hours": 8.1,
+      "favorite_app": "知乎",
+      "stocks_invested": false
+    }
+  },
+  {
+    "user_id": 46,
+    "name": "张英",
+    "gender": "女",
+    "age": 46,
+    "city": "北京",
+    "year_reference": 2023,
+    "devices": [
+      {
+        "device_type": "笔记本",
+        "os": "Windows",
+        "last_active": "2025-08-05"
+      },
+      {
+        "device_type": "笔记本",
+        "os": "macOS",
+        "last_active": "2025-07-07"
+      }
+    ],
+    "shopping_behavior": {
+      "monthly_spending": 4742.04,
+      "preferred_platforms": [
+        "唯品会",
+        "苏宁易购",
+        "京东"
+      ],
+      "likes_flash_sale": true,
+      "average_cart_size": 10
+    },
+    "internet_usage": {
+      "daily_online_hours": 1.4,
+      "favorite_app": "快手",
+      "stocks_invested": false
+    }
+  },
+  {
+    "user_id": 47,
+    "name": "姜华",
+    "gender": "女",
+    "age": 19,
+    "city": "北京",
+    "year_reference": 2023,
+    "devices": [
+      {
+        "device_type": "笔记本",
+        "os": "Android",
+        "last_active": "2025-07-06"
+      }
+    ],
+    "shopping_behavior": {
+      "monthly_spending": 4998.08,
+      "preferred_platforms": [
+        "拼多多",
+        "淘宝",
+        "苏宁易购"
+      ],
+      "likes_flash_sale": false,
+      "average_cart_size": 9
+    },
+    "internet_usage": {
+      "daily_online_hours": 6.9,
+      "favorite_app": "抖音",
+      "stocks_invested": true
+    }
+  },
+  {
+    "user_id": 48,
+    "name": "胡晨",
+    "gender": "女",
+    "age": 58,
+    "city": "杭州",
+    "year_reference": 2023,
+    "devices": [
+      {
+        "device_type": "手机",
+        "os": "macOS",
+        "last_active": "2025-07-07"
+      },
+      {
+        "device_type": "平板",
+        "os": "macOS",
+        "last_active": "2025-09-26"
+      }
+    ],
+    "shopping_behavior": {
+      "monthly_spending": 1999.89,
+      "preferred_platforms": [
+        "淘宝",
+        "京东",
+        "苏宁易购"
+      ],
+      "likes_flash_sale": false,
+      "average_cart_size": 8
+    },
+    "internet_usage": {
+      "daily_online_hours": 3.6,
+      "favorite_app": "快手",
+      "stocks_invested": false
+    }
+  },
+  {
+    "user_id": 49,
+    "name": "王波",
+    "gender": "男",
+    "age": 47,
+    "city": "北京",
+    "year_reference": 2022,
+    "devices": [
+      {
+        "device_type": "平板",
+        "os": "Windows",
+        "last_active": "2025-10-26"
+      },
+      {
+        "device_type": "手机",
+        "os": "macOS",
+        "last_active": "2025-08-08"
+      }
+    ],
+    "shopping_behavior": {
+      "monthly_spending": 4392.1,
+      "preferred_platforms": [
+        "唯品会"
+      ],
+      "likes_flash_sale": false,
+      "average_cart_size": 7
+    },
+    "internet_usage": {
+      "daily_online_hours": 1.5,
+      "favorite_app": "知乎",
+      "stocks_invested": false
+    }
+  },
+  {
+    "user_id": 50,
+    "name": "路艳",
+    "gender": "女",
+    "age": 21,
+    "city": "上海",
+    "year_reference": 2021,
+    "devices": [
+      {
+        "device_type": "笔记本",
+        "os": "iOS",
+        "last_active": "2025-10-09"
+      },
+      {
+        "device_type": "平板",
+        "os": "macOS",
+        "last_active": "2025-07-04"
+      }
+    ],
+    "shopping_behavior": {
+      "monthly_spending": 4463.81,
+      "preferred_platforms": [
+        "淘宝",
+        "唯品会"
+      ],
+      "likes_flash_sale": true,
+      "average_cart_size": 3
+    },
+    "internet_usage": {
+      "daily_online_hours": 3.8,
+      "favorite_app": "微信",
+      "stocks_invested": false
+    }
+  }
+]

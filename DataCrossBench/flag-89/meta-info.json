@@ -1,0 +1,20 @@
+{
+    "goal": "评估管理费用对华富强化回报基金整体收益的影响程度。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 自2020年下半年以来，机构投资者的持有比例显著上升，达到97.05%，表明该基金在专业投资者中的认可度极高。",
+        "Comparison: 与市场基准相比，华富强化回报基金在过去29个季度中，业绩为正的概率为79.31%，超越基准的胜率为68.97%。",
+        "Extreme: 2020年Q4，华富强化回报基金的收益为3.38%，为其在该年度的最低表现。",
+        "Attribution: 由于费用损耗的影响，整体收益受到一定程度的压制，显示出管理费用对基金表现的重要性。"
+    ],
+    "summary": "本报告分析了华富强化回报基金的投资策略，详细拆解了其收益来源及风险提示，强调了债券和股票的贡献。",
+    "flag_id": "flag-89",
+    "classifier": "Fund Analysis",
+    "classifier_cn": "基金分析",
+    "input_files": [
+        "output/dimension_data.db",
+        "output/fund_background.txt",
+        "output/fund_performance_facts.png",
+        "output/institutional_investment_detail.json"
+    ]
+}

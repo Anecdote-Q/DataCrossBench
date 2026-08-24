@@ -1,0 +1,1250 @@
+[
+  {
+    "bank_name": "大型银行11",
+    "innovation_index": 16.37,
+    "loan_history": [
+      {
+        "year": 2020,
+        "total_loan_balance": 285.93
+      },
+      {
+        "year": 2021,
+        "total_loan_balance": 460.22
+      },
+      {
+        "year": 2022,
+        "total_loan_balance": 550.91
+      },
+      {
+        "year": 2023,
+        "total_loan_balance": 350.9
+      }
+    ],
+    "market_trend": "up",
+    "years_active": 4,
+    "last_updated": "2025-12-24 05:56:43"
+  },
+  {
+    "bank_name": "中小银行8",
+    "innovation_index": 68.06,
+    "loan_history": [
+      {
+        "year": 2021,
+        "total_loan_balance": 0.26
+      }
+    ],
+    "market_trend": "up",
+    "years_active": 1,
+    "last_updated": "2025-12-24 05:56:43"
+  },
+  {
+    "bank_name": "大型银行1",
+    "innovation_index": 25.48,
+    "loan_history": [
+      {
+        "year": 2020,
+        "total_loan_balance": 409.12
+      },
+      {
+        "year": 2021,
+        "total_loan_balance": 401.97
+      },
+      {
+        "year": 2022,
+        "total_loan_balance": 310.56
+      },
+      {
+        "year": 2023,
+        "total_loan_balance": 371.07
+      }
+    ],
+    "market_trend": "stable",
+    "years_active": 4,
+    "last_updated": "2025-12-24 05:56:43"
+  },
+  {
+    "bank_name": "大型银行12",
+    "innovation_index": 46.82,
+    "loan_history": [
+      {
+        "year": 2020,
+        "total_loan_balance": 293.21
+      },
+      {
+        "year": 2021,
+        "total_loan_balance": 379.15
+      },
+      {
+        "year": 2022,
+        "total_loan_balance": 333.78
+      },
+      {
+        "year": 2023,
+        "total_loan_balance": 523.44
+      }
+    ],
+    "market_trend": "stable",
+    "years_active": 4,
+    "last_updated": "2025-12-24 05:56:43"
+  },
+  {
+    "bank_name": "大型银行5",
+    "innovation_index": 74.23,
+    "loan_history": [
+      {
+        "year": 2020,
+        "total_loan_balance": 261.91
+      },
+      {
+        "year": 2021,
+        "total_loan_balance": 155.43
+      },
+      {
+        "year": 2022,
+        "total_loan_balance": 401.44
+      },
+      {
+        "year": 2023,
+        "total_loan_balance": 311.82
+      }
+    ],
+    "market_trend": "stable",
+    "years_active": 4,
+    "last_updated": "2025-12-24 05:56:43"
+  },
+  {
+    "bank_name": "大型银行4",
+    "innovation_index": 52.73,
+    "loan_history": [
+      {
+        "year": 2020,
+        "total_loan_balance": 510.29
+      },
+      {
+        "year": 2021,
+        "total_loan_balance": 595.2
+      },
+      {
+        "year": 2022,
+        "total_loan_balance": 342.42
+      },
+      {
+        "year": 2023,
+        "total_loan_balance": 283.44
+      }
+    ],
+    "market_trend": "up",
+    "years_active": 4,
+    "last_updated": "2025-12-24 05:56:43"
+  },
+  {
+    "bank_name": "中小银行9",
+    "innovation_index": 65.45,
+    "loan_history": [
+      {
+        "year": 2020,
+        "total_loan_balance": 0.11
+      },
+      {
+        "year": 2021,
+        "total_loan_balance": 0.19
+      }
+    ],
+    "market_trend": "stable",
+    "years_active": 2,
+    "last_updated": "2025-12-24 05:56:43"
+  },
+  {
+    "bank_name": "大型银行2",
+    "innovation_index": 83.81,
+    "loan_history": [
+      {
+        "year": 2020,
+        "total_loan_balance": 303.4
+      },
+      {
+        "year": 2021,
+        "total_loan_balance": 223.51
+      },
+      {
+        "year": 2022,
+        "total_loan_balance": 225.83
+      },
+      {
+        "year": 2023,
+        "total_loan_balance": 458.61
+      }
+    ],
+    "market_trend": "stable",
+    "years_active": 4,
+    "last_updated": "2025-12-24 05:56:43"
+  },
+  {
+    "bank_name": "中小银行48",
+    "innovation_index": 74.44,
+    "loan_history": [
+      {
+        "year": 2020,
+        "total_loan_balance": 0.11
+      }
+    ],
+    "market_trend": "stable",
+    "years_active": 1,
+    "last_updated": "2025-12-24 05:56:43"
+  },
+  {
+    "bank_name": "中小银行35",
+    "innovation_index": 25.26,
+    "loan_history": [
+      {
+        "year": 2020,
+        "total_loan_balance": 0.14
+      }
+    ],
+    "market_trend": "stable",
+    "years_active": 1,
+    "last_updated": "2025-12-24 05:56:43"
+  },
+  {
+    "bank_name": "大型银行10",
+    "innovation_index": 72.57,
+    "loan_history": [
+      {
+        "year": 2020,
+        "total_loan_balance": 361.45
+      },
+      {
+        "year": 2021,
+        "total_loan_balance": 255.42
+      },
+      {
+        "year": 2022,
+        "total_loan_balance": 422.68
+      },
+      {
+        "year": 2023,
+        "total_loan_balance": 289.84
+      }
+    ],
+    "market_trend": "up",
+    "years_active": 4,
+    "last_updated": "2025-12-24 05:56:43"
+  },
+  {
+    "bank_name": "大型银行7",
+    "innovation_index": 57.75,
+    "loan_history": [
+      {
+        "year": 2020,
+        "total_loan_balance": 201.1
+      },
+      {
+        "year": 2021,
+        "total_loan_balance": 127.02
+      },
+      {
+        "year": 2022,
+        "total_loan_balance": 457.86
+      },
+      {
+        "year": 2023,
+        "total_loan_balance": 264.76
+      }
+    ],
+    "market_trend": "stable",
+    "years_active": 4,
+    "last_updated": "2025-12-24 05:56:43"
+  },
+  {
+    "bank_name": "大型银行9",
+    "innovation_index": 71.75,
+    "loan_history": [
+      {
+        "year": 2020,
+        "total_loan_balance": 265.38
+      },
+      {
+        "year": 2021,
+        "total_loan_balance": 197.65
+      },
+      {
+        "year": 2022,
+        "total_loan_balance": 292.04
+      },
+      {
+        "year": 2023,
+        "total_loan_balance": 252.05
+      }
+    ],
+    "market_trend": "up",
+    "years_active": 4,
+    "last_updated": "2025-12-24 05:56:43"
+  },
+  {
+    "bank_name": "大型银行8",
+    "innovation_index": 0.0,
+    "loan_history": [
+      {
+        "year": 2020,
+        "total_loan_balance": 271.34
+      },
+      {
+        "year": 2021,
+        "total_loan_balance": 385.65
+      },
+      {
+        "year": 2022,
+        "total_loan_balance": 274.68
+      },
+      {
+        "year": 2023,
+        "total_loan_balance": 323.56
+      }
+    ],
+    "market_trend": "up",
+    "years_active": 4,
+    "last_updated": "2025-12-24 05:56:43"
+  },
+  {
+    "bank_name": "中小银行38",
+    "innovation_index": 64.29,
+    "loan_history": [
+      {
+        "year": 2020,
+        "total_loan_balance": 0.42
+      },
+      {
+        "year": 2021,
+        "total_loan_balance": 0.43
+      }
+    ],
+    "market_trend": "up",
+    "years_active": 2,
+    "last_updated": "2025-12-24 05:56:43"
+  },
+  {
+    "bank_name": "中小银行18",
+    "innovation_index": 56.9,
+    "loan_history": [
+      {
+        "year": 2020,
+        "total_loan_balance": 0.29
+      },
+      {
+        "year": 2021,
+        "total_loan_balance": 0.26
+      },
+      {
+        "year": 2022,
+        "total_loan_balance": 0.28
+      }
+    ],
+    "market_trend": "up",
+    "years_active": 3,
+    "last_updated": "2025-12-24 05:56:43"
+  },
+  {
+    "bank_name": "中小银行1",
+    "innovation_index": 58.69,
+    "loan_history": [
+      {
+        "year": 2020,
+        "total_loan_balance": 0.4
+      }
+    ],
+    "market_trend": "stable",
+    "years_active": 1,
+    "last_updated": "2025-12-24 05:56:43"
+  },
+  {
+    "bank_name": "大型银行13",
+    "innovation_index": 27.84,
+    "loan_history": [
+      {
+        "year": 2020,
+        "total_loan_balance": 77.63
+      },
+      {
+        "year": 2021,
+        "total_loan_balance": 259.17
+      },
+      {
+        "year": 2022,
+        "total_loan_balance": 453.46
+      },
+      {
+        "year": 2023,
+        "total_loan_balance": 302.85
+      }
+    ],
+    "market_trend": "stable",
+    "years_active": 4,
+    "last_updated": "2025-12-24 05:56:43"
+  },
+  {
+    "bank_name": "大型银行3",
+    "innovation_index": 55.69,
+    "loan_history": [
+      {
+        "year": 2020,
+        "total_loan_balance": 250.1
+      },
+      {
+        "year": 2021,
+        "total_loan_balance": 553.79
+      },
+      {
+        "year": 2022,
+        "total_loan_balance": 153.9
+      },
+      {
+        "year": 2023,
+        "total_loan_balance": 516.3
+      }
+    ],
+    "market_trend": "stable",
+    "years_active": 4,
+    "last_updated": "2025-12-24 05:56:43"
+  },
+  {
+    "bank_name": "大型银行6",
+    "innovation_index": 62.93,
+    "loan_history": [
+      {
+        "year": 2020,
+        "total_loan_balance": 250.18
+      },
+      {
+        "year": 2021,
+        "total_loan_balance": 537.08
+      },
+      {
+        "year": 2022,
+        "total_loan_balance": 422.19
+      },
+      {
+        "year": 2023,
+        "total_loan_balance": 314.31
+      }
+    ],
+    "market_trend": "stable",
+    "years_active": 4,
+    "last_updated": "2025-12-24 05:56:43"
+  },
+  {
+    "bank_name": "中小银行10",
+    "innovation_index": 81.24,
+    "loan_history": [
+      {
+        "year": 2021,
+        "total_loan_balance": 0.19
+      }
+    ],
+    "market_trend": "stable",
+    "years_active": 1,
+    "last_updated": "2025-12-24 05:56:43"
+  },
+  {
+    "bank_name": "中小银行7",
+    "innovation_index": 59.86,
+    "loan_history": [
+      {
+        "year": 2020,
+        "total_loan_balance": 0.1
+      }
+    ],
+    "market_trend": "stable",
+    "years_active": 1,
+    "last_updated": "2025-12-24 05:56:43"
+  },
+  {
+    "bank_name": "中小银行23",
+    "innovation_index": 61.92,
+    "loan_history": [
+      {
+        "year": 2020,
+        "total_loan_balance": 0.3
+      }
+    ],
+    "market_trend": "up",
+    "years_active": 1,
+    "last_updated": "2025-12-24 05:56:43"
+  },
+  {
+    "bank_name": "中小银行39",
+    "innovation_index": 50.2,
+    "loan_history": [
+      {
+        "year": 2020,
+        "total_loan_balance": 0.11
+      },
+      {
+        "year": 2021,
+        "total_loan_balance": 0.1
+      }
+    ],
+    "market_trend": "stable",
+    "years_active": 2,
+    "last_updated": "2025-12-24 05:56:43"
+  },
+  {
+    "bank_name": "中小银行3",
+    "innovation_index": 23.62,
+    "loan_history": [
+      {
+        "year": 2021,
+        "total_loan_balance": 0.38
+      },
+      {
+        "year": 2022,
+        "total_loan_balance": 0.35
+      }
+    ],
+    "market_trend": "up",
+    "years_active": 2,
+    "last_updated": "2025-12-24 05:56:43"
+  },
+  {
+    "bank_name": "平安银行",
+    "innovation_index": 64.87,
+    "loan_history": [
+      {
+        "year": 2020,
+        "total_loan_balance": 582.29
+      },
+      {
+        "year": 2021,
+        "total_loan_balance": 415.14
+      },
+      {
+        "year": 2022,
+        "total_loan_balance": 11903.5
+      },
+      {
+        "year": 2023,
+        "total_loan_balance": 444.28
+      }
+    ],
+    "market_trend": "stable",
+    "years_active": 4,
+    "last_updated": "2025-12-24 05:56:43"
+  },
+  {
+    "bank_name": "中小银行6",
+    "innovation_index": 50.93,
+    "loan_history": [
+      {
+        "year": 2021,
+        "total_loan_balance": 0.17
+      },
+      {
+        "year": 2022,
+        "total_loan_balance": 0.22
+      }
+    ],
+    "market_trend": "stable",
+    "years_active": 2,
+    "last_updated": "2025-12-24 05:56:43"
+  },
+  {
+    "bank_name": "大型银行14",
+    "innovation_index": 77.68,
+    "loan_history": [
+      {
+        "year": 2020,
+        "total_loan_balance": 200.88
+      },
+      {
+        "year": 2021,
+        "total_loan_balance": 608.57
+      },
+      {
+        "year": 2022,
+        "total_loan_balance": 77.35
+      },
+      {
+        "year": 2023,
+        "total_loan_balance": 577.55
+      }
+    ],
+    "market_trend": "stable",
+    "years_active": 4,
+    "last_updated": "2025-12-24 05:56:43"
+  },
+  {
+    "bank_name": "中小银行40",
+    "innovation_index": 35.84,
+    "loan_history": [
+      {
+        "year": 2021,
+        "total_loan_balance": 0.12
+      }
+    ],
+    "market_trend": "up",
+    "years_active": 1,
+    "last_updated": "2025-12-24 05:56:43"
+  },
+  {
+    "bank_name": "中小银行24",
+    "innovation_index": 62.04,
+    "loan_history": [
+      {
+        "year": 2020,
+        "total_loan_balance": 0.23
+      }
+    ],
+    "market_trend": "stable",
+    "years_active": 1,
+    "last_updated": "2025-12-24 05:56:43"
+  },
+  {
+    "bank_name": "中小银行5",
+    "innovation_index": 46.6,
+    "loan_history": [
+      {
+        "year": 2023,
+        "total_loan_balance": 0.13
+      }
+    ],
+    "market_trend": "stable",
+    "years_active": 1,
+    "last_updated": "2025-12-24 05:56:43"
+  },
+  {
+    "bank_name": "中小银行15",
+    "innovation_index": 76.61,
+    "loan_history": [
+      {
+        "year": 2020,
+        "total_loan_balance": 0.12
+      },
+      {
+        "year": 2023,
+        "total_loan_balance": 0.1
+      }
+    ],
+    "market_trend": "up",
+    "years_active": 2,
+    "last_updated": "2025-12-24 05:56:43"
+  },
+  {
+    "bank_name": "中小银行47",
+    "innovation_index": 37.81,
+    "loan_history": [
+      {
+        "year": 2023,
+        "total_loan_balance": 0.13
+      }
+    ],
+    "market_trend": "stable",
+    "years_active": 1,
+    "last_updated": "2025-12-24 05:56:43"
+  },
+  {
+    "bank_name": "中小银行45",
+    "innovation_index": 53.42,
+    "loan_history": [
+      {
+        "year": 2020,
+        "total_loan_balance": 0.0
+      },
+      {
+        "year": 2021,
+        "total_loan_balance": 0.43
+      },
+      {
+        "year": 2022,
+        "total_loan_balance": 0.13
+      },
+      {
+        "year": 2023,
+        "total_loan_balance": 0.26
+      }
+    ],
+    "market_trend": "stable",
+    "years_active": 4,
+    "last_updated": "2025-12-24 05:56:43"
+  },
+  {
+    "bank_name": "中小银行36",
+    "innovation_index": 46.66,
+    "loan_history": [
+      {
+        "year": 2020,
+        "total_loan_balance": 0.11
+      },
+      {
+        "year": 2021,
+        "total_loan_balance": 0.25
+      },
+      {
+        "year": 2022,
+        "total_loan_balance": 0.21
+      },
+      {
+        "year": 2023,
+        "total_loan_balance": 0.27
+      }
+    ],
+    "market_trend": "stable",
+    "years_active": 4,
+    "last_updated": "2025-12-24 05:56:43"
+  },
+  {
+    "bank_name": "中小银行44",
+    "innovation_index": 73.98,
+    "loan_history": [
+      {
+        "year": 2020,
+        "total_loan_balance": 0.14
+      },
+      {
+        "year": 2021,
+        "total_loan_balance": 0.39
+      }
+    ],
+    "market_trend": "up",
+    "years_active": 2,
+    "last_updated": "2025-12-24 05:56:43"
+  },
+  {
+    "bank_name": "中小银行21",
+    "innovation_index": 59.39,
+    "loan_history": [
+      {
+        "year": 2022,
+        "total_loan_balance": 0.37
+      },
+      {
+        "year": 2023,
+        "total_loan_balance": 0.11
+      }
+    ],
+    "market_trend": "up",
+    "years_active": 2,
+    "last_updated": "2025-12-24 05:56:43"
+  },
+  {
+    "bank_name": "中小银行4",
+    "innovation_index": 13.77,
+    "loan_history": [
+      {
+        "year": 2020,
+        "total_loan_balance": 0.29
+      },
+      {
+        "year": 2021,
+        "total_loan_balance": 0.13
+      },
+      {
+        "year": 2022,
+        "total_loan_balance": 0.41
+      },
+      {
+        "year": 2023,
+        "total_loan_balance": 0.14
+      }
+    ],
+    "market_trend": "up",
+    "years_active": 4,
+    "last_updated": "2025-12-24 05:56:43"
+  },
+  {
+    "bank_name": "中小银行37",
+    "innovation_index": 30.66,
+    "loan_history": [
+      {
+        "year": 2020,
+        "total_loan_balance": 0.14
+      },
+      {
+        "year": 2023,
+        "total_loan_balance": 0.21
+      }
+    ],
+    "market_trend": "up",
+    "years_active": 2,
+    "last_updated": "2025-12-24 05:56:43"
+  },
+  {
+    "bank_name": "中小银行46",
+    "innovation_index": 3.65,
+    "loan_history": [
+      {
+        "year": 2020,
+        "total_loan_balance": 0.15
+      },
+      {
+        "year": 2021,
+        "total_loan_balance": 0.0
+      },
+      {
+        "year": 2023,
+        "total_loan_balance": 0.13
+      }
+    ],
+    "market_trend": "up",
+    "years_active": 3,
+    "last_updated": "2025-12-24 05:56:43"
+  },
+  {
+    "bank_name": "中小银行42",
+    "innovation_index": 63.52,
+    "loan_history": [
+      {
+        "year": 2020,
+        "total_loan_balance": 0.16
+      },
+      {
+        "year": 2021,
+        "total_loan_balance": 0.13
+      },
+      {
+        "year": 2023,
+        "total_loan_balance": 0.26
+      }
+    ],
+    "market_trend": "up",
+    "years_active": 3,
+    "last_updated": "2025-12-24 05:56:43"
+  },
+  {
+    "bank_name": "中小银行16",
+    "innovation_index": 0.0,
+    "loan_history": [
+      {
+        "year": 2020,
+        "total_loan_balance": 0.18
+      },
+      {
+        "year": 2022,
+        "total_loan_balance": 0.25
+      },
+      {
+        "year": 2023,
+        "total_loan_balance": 0.29
+      }
+    ],
+    "market_trend": "up",
+    "years_active": 3,
+    "last_updated": "2025-12-24 05:56:43"
+  },
+  {
+    "bank_name": "中小银行32",
+    "innovation_index": 61.18,
+    "loan_history": [
+      {
+        "year": 2020,
+        "total_loan_balance": 0.27
+      },
+      {
+        "year": 2021,
+        "total_loan_balance": 0.11
+      },
+      {
+        "year": 2022,
+        "total_loan_balance": 0.47
+      },
+      {
+        "year": 2023,
+        "total_loan_balance": 0.6
+      }
+    ],
+    "market_trend": "up",
+    "years_active": 4,
+    "last_updated": "2025-12-24 05:56:43"
+  },
+  {
+    "bank_name": "中小银行28",
+    "innovation_index": 44.1,
+    "loan_history": [
+      {
+        "year": 2021,
+        "total_loan_balance": 0.28
+      },
+      {
+        "year": 2023,
+        "total_loan_balance": 0.25
+      }
+    ],
+    "market_trend": "up",
+    "years_active": 2,
+    "last_updated": "2025-12-24 05:56:43"
+  },
+  {
+    "bank_name": "中小银行49",
+    "innovation_index": 74.44,
+    "loan_history": [
+      {
+        "year": 2020,
+        "total_loan_balance": 0.21
+      },
+      {
+        "year": 2021,
+        "total_loan_balance": 0.12
+      },
+      {
+        "year": 2022,
+        "total_loan_balance": 0.33
+      },
+      {
+        "year": 2023,
+        "total_loan_balance": 0.2
+      }
+    ],
+    "market_trend": "up",
+    "years_active": 4,
+    "last_updated": "2025-12-24 05:56:43"
+  },
+  {
+    "bank_name": "中小银行11",
+    "innovation_index": 31.45,
+    "loan_history": [
+      {
+        "year": 2023,
+        "total_loan_balance": 0.3
+      }
+    ],
+    "market_trend": "up",
+    "years_active": 1,
+    "last_updated": "2025-12-24 05:56:43"
+  },
+  {
+    "bank_name": "中小银行30",
+    "innovation_index": 40.16,
+    "loan_history": [
+      {
+        "year": 2020,
+        "total_loan_balance": 0.12
+      },
+      {
+        "year": 2021,
+        "total_loan_balance": 0.14
+      },
+      {
+        "year": 2022,
+        "total_loan_balance": 0.13
+      }
+    ],
+    "market_trend": "stable",
+    "years_active": 3,
+    "last_updated": "2025-12-24 05:56:43"
+  },
+  {
+    "bank_name": "中小银行17",
+    "innovation_index": 53.01,
+    "loan_history": [
+      {
+        "year": 2021,
+        "total_loan_balance": 0.12
+      },
+      {
+        "year": 2023,
+        "total_loan_balance": 0.29
+      }
+    ],
+    "market_trend": "up",
+    "years_active": 2,
+    "last_updated": "2025-12-24 05:56:43"
+  },
+  {
+    "bank_name": "中小银行33",
+    "innovation_index": 28.3,
+    "loan_history": [
+      {
+        "year": 2021,
+        "total_loan_balance": 0.28
+      },
+      {
+        "year": 2022,
+        "total_loan_balance": 0.16
+      }
+    ],
+    "market_trend": "up",
+    "years_active": 2,
+    "last_updated": "2025-12-24 05:56:43"
+  },
+  {
+    "bank_name": "中小银行34",
+    "innovation_index": 48.85,
+    "loan_history": [
+      {
+        "year": 2020,
+        "total_loan_balance": 0.1
+      },
+      {
+        "year": 2021,
+        "total_loan_balance": 0.1
+      },
+      {
+        "year": 2023,
+        "total_loan_balance": 0.11
+      }
+    ],
+    "market_trend": "stable",
+    "years_active": 3,
+    "last_updated": "2025-12-24 05:56:43"
+  },
+  {
+    "bank_name": "中小银行43",
+    "innovation_index": 30.64,
+    "loan_history": [
+      {
+        "year": 2020,
+        "total_loan_balance": 0.11
+      },
+      {
+        "year": 2021,
+        "total_loan_balance": 0.29
+      }
+    ],
+    "market_trend": "up",
+    "years_active": 2,
+    "last_updated": "2025-12-24 05:56:43"
+  },
+  {
+    "bank_name": "中小银行31",
+    "innovation_index": 61.52,
+    "loan_history": [
+      {
+        "year": 2021,
+        "total_loan_balance": 0.13
+      },
+      {
+        "year": 2022,
+        "total_loan_balance": 0.25
+      },
+      {
+        "year": 2023,
+        "total_loan_balance": 0.1
+      }
+    ],
+    "market_trend": "stable",
+    "years_active": 3,
+    "last_updated": "2025-12-24 05:56:43"
+  },
+  {
+    "bank_name": "中小银行14",
+    "innovation_index": 64.11,
+    "loan_history": [
+      {
+        "year": 2020,
+        "total_loan_balance": 0.14
+      },
+      {
+        "year": 2021,
+        "total_loan_balance": 0.11
+      },
+      {
+        "year": 2022,
+        "total_loan_balance": 0.16
+      }
+    ],
+    "market_trend": "stable",
+    "years_active": 3,
+    "last_updated": "2025-12-24 05:56:43"
+  },
+  {
+    "bank_name": "中小银行20",
+    "innovation_index": 70.03,
+    "loan_history": [
+      {
+        "year": 2020,
+        "total_loan_balance": 0.39
+      },
+      {
+        "year": 2022,
+        "total_loan_balance": 0.28
+      }
+    ],
+    "market_trend": "stable",
+    "years_active": 2,
+    "last_updated": "2025-12-24 05:56:43"
+  },
+  {
+    "bank_name": "中小银行29",
+    "innovation_index": 29.17,
+    "loan_history": [
+      {
+        "year": 2021,
+        "total_loan_balance": 0.36
+      },
+      {
+        "year": 2023,
+        "total_loan_balance": 0.16
+      }
+    ],
+    "market_trend": "up",
+    "years_active": 2,
+    "last_updated": "2025-12-24 05:56:43"
+  },
+  {
+    "bank_name": "中小银行22",
+    "innovation_index": 67.8,
+    "loan_history": [
+      {
+        "year": 2020,
+        "total_loan_balance": 0.17
+      },
+      {
+        "year": 2022,
+        "total_loan_balance": 0.18
+      },
+      {
+        "year": 2023,
+        "total_loan_balance": 0.39
+      }
+    ],
+    "market_trend": "up",
+    "years_active": 3,
+    "last_updated": "2025-12-24 05:56:43"
+  },
+  {
+    "bank_name": "中小银行13",
+    "innovation_index": 19.75,
+    "loan_history": [
+      {
+        "year": 2020,
+        "total_loan_balance": 0.23
+      },
+      {
+        "year": 2022,
+        "total_loan_balance": 0.32
+      }
+    ],
+    "market_trend": "stable",
+    "years_active": 2,
+    "last_updated": "2025-12-24 05:56:43"
+  },
+  {
+    "bank_name": "中小银行27",
+    "innovation_index": 24.82,
+    "loan_history": [
+      {
+        "year": 2020,
+        "total_loan_balance": 0.12
+      },
+      {
+        "year": 2021,
+        "total_loan_balance": 0.11
+      },
+      {
+        "year": 2022,
+        "total_loan_balance": 0.22
+      },
+      {
+        "year": 2023,
+        "total_loan_balance": 0.49
+      }
+    ],
+    "market_trend": "stable",
+    "years_active": 4,
+    "last_updated": "2025-12-24 05:56:43"
+  },
+  {
+    "bank_name": "中小银行19",
+    "innovation_index": 55.67,
+    "loan_history": [
+      {
+        "year": 2021,
+        "total_loan_balance": 0.33
+      },
+      {
+        "year": 2022,
+        "total_loan_balance": 0.1
+      }
+    ],
+    "market_trend": "stable",
+    "years_active": 2,
+    "last_updated": "2025-12-24 05:56:43"
+  },
+  {
+    "bank_name": "中小银行12",
+    "innovation_index": 23.6,
+    "loan_history": [
+      {
+        "year": 2020,
+        "total_loan_balance": 0.39
+      }
+    ],
+    "market_trend": "stable",
+    "years_active": 1,
+    "last_updated": "2025-12-24 05:56:43"
+  },
+  {
+    "bank_name": "中小银行41",
+    "innovation_index": 73.15,
+    "loan_history": [
+      {
+        "year": 2020,
+        "total_loan_balance": 0.44
+      },
+      {
+        "year": 2021,
+        "total_loan_balance": 0.18
+      },
+      {
+        "year": 2022,
+        "total_loan_balance": 0.34
+      }
+    ],
+    "market_trend": "stable",
+    "years_active": 3,
+    "last_updated": "2025-12-24 05:56:43"
+  },
+  {
+    "bank_name": "中小银行2",
+    "innovation_index": 66.74,
+    "loan_history": [
+      {
+        "year": 2020,
+        "total_loan_balance": 0.12
+      },
+      {
+        "year": 2021,
+        "total_loan_balance": 0.28
+      },
+      {
+        "year": 2023,
+        "total_loan_balance": 0.2
+      }
+    ],
+    "market_trend": "up",
+    "years_active": 3,
+    "last_updated": "2025-12-24 05:56:43"
+  },
+  {
+    "bank_name": "中小银行26",
+    "innovation_index": 94.97,
+    "loan_history": [
+      {
+        "year": 2021,
+        "total_loan_balance": 0.2
+      },
+      {
+        "year": 2022,
+        "total_loan_balance": 0.56
+      },
+      {
+        "year": 2023,
+        "total_loan_balance": 0.14
+      }
+    ],
+    "market_trend": "up",
+    "years_active": 3,
+    "last_updated": "2025-12-24 05:56:43"
+  },
+  {
+    "bank_name": "中小银行25",
+    "innovation_index": 41.38,
+    "loan_history": [
+      {
+        "year": 2020,
+        "total_loan_balance": 0.23
+      }
+    ],
+    "market_trend": "stable",
+    "years_active": 1,
+    "last_updated": "2025-12-24 05:56:43"
+  }
+]

@@ -1,0 +1,2118 @@
+[
+  {
+    "user_id": "U13144",
+    "region_id": 1,
+    "region_name": "北京",
+    "monthly_online_hours": 24.07,
+    "is_3g_user": true,
+    "terminal_type": "平板",
+    "net_package": "家庭套餐",
+    "recent_activities": [
+      {
+        "activity": "网购",
+        "date": "2009-06-11"
+      },
+      {
+        "activity": "邮件",
+        "date": "2009-03-04"
+      }
+    ],
+    "profile_text": "方式学习那么孩子国内文件更新不能汽车事情其他其中."
+  },
+  {
+    "user_id": "U12638",
+    "region_id": 1,
+    "region_name": "北京",
+    "monthly_online_hours": 14.55,
+    "is_3g_user": true,
+    "terminal_type": "电脑",
+    "net_package": "企业套餐",
+    "recent_activities": [
+      {
+        "activity": "游戏",
+        "date": "2009-05-27"
+      },
+      {
+        "activity": "社交",
+        "date": "2009-06-12"
+      }
+    ],
+    "profile_text": "价格音乐国家拥有历史帮助组织怎么方式社会空间部分这些活动标准系统."
+  },
+  {
+    "user_id": "U13584",
+    "region_id": 1,
+    "region_name": "北京",
+    "monthly_online_hours": 24.06,
+    "is_3g_user": true,
+    "terminal_type": "其他",
+    "net_package": "学生套餐",
+    "recent_activities": [
+      {
+        "activity": "邮件",
+        "date": "2009-01-24"
+      },
+      {
+        "activity": "邮件",
+        "date": "2009-06-27"
+      }
+    ],
+    "profile_text": "人民注意详细因为重要次数联系由于提高只要不断分析程序数据."
+  },
+  {
+    "user_id": "U12697",
+    "region_id": 1,
+    "region_name": "北京",
+    "monthly_online_hours": 43.34,
+    "is_3g_user": false,
+    "terminal_type": "电脑",
+    "net_package": "高级套餐",
+    "recent_activities": [
+      {
+        "activity": "邮件",
+        "date": "2009-06-02"
+      }
+    ],
+    "profile_text": "全部解决关于查看所有网站教育之后最后地址市场经营最后."
+  },
+  {
+    "user_id": "U15616",
+    "region_id": 1,
+    "region_name": "北京",
+    "monthly_online_hours": 19.73,
+    "is_3g_user": true,
+    "terminal_type": "平板",
+    "net_package": "经济套餐",
+    "recent_activities": [
+      {
+        "activity": "游戏",
+        "date": "2009-01-18"
+      },
+      {
+        "activity": "视频",
+        "date": "2009-02-20"
+      },
+      {
+        "activity": "网购",
+        "date": "2009-04-26"
+      }
+    ],
+    "profile_text": "完全市场这些合作个人有限那些."
+  },
+  {
+    "user_id": "U27939",
+    "region_id": 2,
+    "region_name": "甘肃",
+    "monthly_online_hours": 43.92,
+    "is_3g_user": false,
+    "terminal_type": "手机",
+    "net_package": "基础套餐",
+    "recent_activities": [
+      {
+        "activity": "游戏",
+        "date": "2009-05-27"
+      },
+      {
+        "activity": "视频",
+        "date": "2009-05-19"
+      }
+    ],
+    "profile_text": "女人手机首页电影就是重要不会新闻决定管理经验工程问题因此能够."
+  },
+  {
+    "user_id": "U28007",
+    "region_id": 2,
+    "region_name": "甘肃",
+    "monthly_online_hours": 5.42,
+    "is_3g_user": true,
+    "terminal_type": "手机",
+    "net_package": "基础套餐",
+    "recent_activities": [
+      {
+        "activity": "邮件",
+        "date": "2009-05-22"
+      },
+      {
+        "activity": "游戏",
+        "date": "2009-06-20"
+      },
+      {
+        "activity": "邮件",
+        "date": "2009-01-31"
+      }
+    ],
+    "profile_text": "一些世界有关全国美国一些历史不同."
+  },
+  {
+    "user_id": "U23088",
+    "region_id": 2,
+    "region_name": "甘肃",
+    "monthly_online_hours": 30.29,
+    "is_3g_user": true,
+    "terminal_type": "平板",
+    "net_package": "基础套餐",
+    "recent_activities": [
+      {
+        "activity": "社交",
+        "date": "2009-05-07"
+      },
+      {
+        "activity": "网购",
+        "date": "2009-01-10"
+      }
+    ],
+    "profile_text": "网络操作一般公司就是城市同时电影地方很多有些生活一个虽然以下."
+  },
+  {
+    "user_id": "U37658",
+    "region_id": 3,
+    "region_name": "上海",
+    "monthly_online_hours": null,
+    "is_3g_user": false,
+    "terminal_type": "电脑",
+    "net_package": "经济套餐",
+    "recent_activities": [
+      {
+        "activity": "视频",
+        "date": "2009-05-15"
+      }
+    ],
+    "profile_text": "经济规定关系她的直接单位世界但是问题比较内容日期他们方法."
+  },
+  {
+    "user_id": "U36442",
+    "region_id": 3,
+    "region_name": "上海",
+    "monthly_online_hours": 17.3,
+    "is_3g_user": false,
+    "terminal_type": "智能电视",
+    "net_package": "学生套餐",
+    "recent_activities": [
+      {
+        "activity": "游戏",
+        "date": "2009-04-27"
+      },
+      {
+        "activity": "网购",
+        "date": "2009-05-20"
+      },
+      {
+        "activity": "网购",
+        "date": "2009-03-24"
+      }
+    ],
+    "profile_text": "在线参加系统中心学校影响同时所有完成推荐学校东西全国设备位置."
+  },
+  {
+    "user_id": "U34644",
+    "region_id": 3,
+    "region_name": "上海",
+    "monthly_online_hours": 21.03,
+    "is_3g_user": true,
+    "terminal_type": "智能电视",
+    "net_package": "高级套餐",
+    "recent_activities": [
+      {
+        "activity": "社交",
+        "date": "2009-05-02"
+      },
+      {
+        "activity": "社交",
+        "date": "2009-06-23"
+      }
+    ],
+    "profile_text": "通过具有这些电子结果其他成为城市服务还有准备."
+  },
+  {
+    "user_id": "U45564",
+    "region_id": 4,
+    "region_name": "广东",
+    "monthly_online_hours": 7.44,
+    "is_3g_user": false,
+    "terminal_type": "平板",
+    "net_package": "高级套餐",
+    "recent_activities": [
+      {
+        "activity": "视频",
+        "date": "2009-02-19"
+      },
+      {
+        "activity": "邮件",
+        "date": "2009-01-07"
+      },
+      {
+        "activity": "网购",
+        "date": "2009-04-06"
+      }
+    ],
+    "profile_text": "服务免费文件应用以后以后而且在线."
+  },
+  {
+    "user_id": "U45279",
+    "region_id": 4,
+    "region_name": "广东",
+    "monthly_online_hours": 18.0,
+    "is_3g_user": true,
+    "terminal_type": "平板",
+    "net_package": "基础套餐",
+    "recent_activities": [
+      {
+        "activity": "视频",
+        "date": "2009-01-28"
+      }
+    ],
+    "profile_text": "男人作品一定经验时间人民其他直接密码公司电话文章感觉评论提高."
+  },
+  {
+    "user_id": "U46139",
+    "region_id": 4,
+    "region_name": "广东",
+    "monthly_online_hours": 24.01,
+    "is_3g_user": true,
+    "terminal_type": "其他",
+    "net_package": "基础套餐",
+    "recent_activities": [
+      {
+        "activity": "社交",
+        "date": "2009-02-02"
+      },
+      {
+        "activity": "网购",
+        "date": "2009-04-25"
+      }
+    ],
+    "profile_text": "通过科技文件怎么一起谢谢作者只有生产我们日本作为."
+  },
+  {
+    "user_id": "U51027",
+    "region_id": 5,
+    "region_name": "江苏",
+    "monthly_online_hours": 42.05,
+    "is_3g_user": true,
+    "terminal_type": "其他",
+    "net_package": "学生套餐",
+    "recent_activities": [
+      {
+        "activity": "社交",
+        "date": "2009-01-09"
+      },
+      {
+        "activity": "视频",
+        "date": "2009-03-28"
+      },
+      {
+        "activity": "游戏",
+        "date": "2009-06-12"
+      }
+    ],
+    "profile_text": "国家项目各种的话方式如此包括发布产品而且感觉."
+  },
+  {
+    "user_id": "U53041",
+    "region_id": 5,
+    "region_name": "江苏",
+    "monthly_online_hours": 15.5,
+    "is_3g_user": false,
+    "terminal_type": "平板",
+    "net_package": "企业套餐",
+    "recent_activities": [
+      {
+        "activity": "视频",
+        "date": "2009-01-10"
+      },
+      {
+        "activity": "视频",
+        "date": "2009-04-07"
+      }
+    ],
+    "profile_text": "北京环境质量欢迎完全质量不是一些相关继续制作电影东西."
+  },
+  {
+    "user_id": "U53085",
+    "region_id": 5,
+    "region_name": "江苏",
+    "monthly_online_hours": 13.41,
+    "is_3g_user": true,
+    "terminal_type": "智能电视",
+    "net_package": "学生套餐",
+    "recent_activities": [
+      {
+        "activity": "邮件",
+        "date": "2009-05-16"
+      },
+      {
+        "activity": "游戏",
+        "date": "2009-02-04"
+      },
+      {
+        "activity": "邮件",
+        "date": "2009-03-18"
+      }
+    ],
+    "profile_text": "以下同时生活加入不能新闻的人历史成功."
+  },
+  {
+    "user_id": "U65978",
+    "region_id": 6,
+    "region_name": "浙江",
+    "monthly_online_hours": 15.63,
+    "is_3g_user": true,
+    "terminal_type": "智能电视",
+    "net_package": "企业套餐",
+    "recent_activities": [
+      {
+        "activity": "游戏",
+        "date": "2009-01-13"
+      },
+      {
+        "activity": "视频",
+        "date": "2009-03-02"
+      },
+      {
+        "activity": "社交",
+        "date": "2009-03-08"
+      }
+    ],
+    "profile_text": "能够决定中文你的责任文章事情完全地址人民只是会员欢迎."
+  },
+  {
+    "user_id": "U63780",
+    "region_id": 6,
+    "region_name": "浙江",
+    "monthly_online_hours": 31.74,
+    "is_3g_user": true,
+    "terminal_type": "平板",
+    "net_package": "企业套餐",
+    "recent_activities": [
+      {
+        "activity": "邮件",
+        "date": "2009-01-18"
+      },
+      {
+        "activity": "网购",
+        "date": "2009-04-05"
+      },
+      {
+        "activity": "游戏",
+        "date": "2009-04-30"
+      }
+    ],
+    "profile_text": "网站重要资源美国市场得到为了能力行业出来."
+  },
+  {
+    "user_id": "U64262",
+    "region_id": 6,
+    "region_name": "浙江",
+    "monthly_online_hours": 23.67,
+    "is_3g_user": true,
+    "terminal_type": "手机",
+    "net_package": "经济套餐",
+    "recent_activities": [
+      {
+        "activity": "网购",
+        "date": "2009-01-24"
+      },
+      {
+        "activity": "视频",
+        "date": "2009-03-05"
+      }
+    ],
+    "profile_text": "密码电话当前不能只要文件文章学习关系日期提高能力."
+  },
+  {
+    "user_id": "U74185",
+    "region_id": 7,
+    "region_name": "山东",
+    "monthly_online_hours": 15.41,
+    "is_3g_user": false,
+    "terminal_type": "智能电视",
+    "net_package": "家庭套餐",
+    "recent_activities": [
+      {
+        "activity": "社交",
+        "date": "2009-04-28"
+      },
+      {
+        "activity": "网购",
+        "date": "2009-01-13"
+      }
+    ],
+    "profile_text": "质量世界企业学习查看部分表示计划文化价格学生到了增加."
+  },
+  {
+    "user_id": "U72746",
+    "region_id": 7,
+    "region_name": "山东",
+    "monthly_online_hours": 25.96,
+    "is_3g_user": false,
+    "terminal_type": "电脑",
+    "net_package": "经济套餐",
+    "recent_activities": [
+      {
+        "activity": "视频",
+        "date": "2009-02-17"
+      },
+      {
+        "activity": "邮件",
+        "date": "2009-06-17"
+      },
+      {
+        "activity": "网购",
+        "date": "2009-04-27"
+      }
+    ],
+    "profile_text": "日期社区系列其他来自如何精华选择北京全国计划这是有些或者这样发生."
+  },
+  {
+    "user_id": "U78612",
+    "region_id": 7,
+    "region_name": "山东",
+    "monthly_online_hours": 21.08,
+    "is_3g_user": true,
+    "terminal_type": "其他",
+    "net_package": "企业套餐",
+    "recent_activities": [
+      {
+        "activity": "邮件",
+        "date": "2009-03-08"
+      },
+      {
+        "activity": "视频",
+        "date": "2009-02-20"
+      }
+    ],
+    "profile_text": "会员不是她的提高最新项目影响."
+  },
+  {
+    "user_id": "U89976",
+    "region_id": 8,
+    "region_name": "四川",
+    "monthly_online_hours": 32.6,
+    "is_3g_user": true,
+    "terminal_type": "电脑",
+    "net_package": "学生套餐",
+    "recent_activities": [
+      {
+        "activity": "游戏",
+        "date": "2009-03-06"
+      },
+      {
+        "activity": "游戏",
+        "date": "2009-04-27"
+      }
+    ],
+    "profile_text": "首页质量欢迎积分发展记者经营任何政府您的结果网站价格下载手机."
+  },
+  {
+    "user_id": "U89540",
+    "region_id": 8,
+    "region_name": "四川",
+    "monthly_online_hours": 14.14,
+    "is_3g_user": true,
+    "terminal_type": "电脑",
+    "net_package": "高级套餐",
+    "recent_activities": [
+      {
+        "activity": "游戏",
+        "date": "2009-06-10"
+      },
+      {
+        "activity": "游戏",
+        "date": "2009-04-30"
+      }
+    ],
+    "profile_text": "作品两个开发浏览女人商品这种看到发布表示完成完全浏览继续."
+  },
+  {
+    "user_id": "U89849",
+    "region_id": 8,
+    "region_name": "四川",
+    "monthly_online_hours": 17.05,
+    "is_3g_user": true,
+    "terminal_type": "电脑",
+    "net_package": "经济套餐",
+    "recent_activities": [
+      {
+        "activity": "社交",
+        "date": "2009-01-03"
+      },
+      {
+        "activity": "网购",
+        "date": "2009-05-06"
+      }
+    ],
+    "profile_text": "所以原因查看他们一些社区开发能够登录一定."
+  },
+  {
+    "user_id": "U96421",
+    "region_id": 9,
+    "region_name": "云南",
+    "monthly_online_hours": 16.51,
+    "is_3g_user": true,
+    "terminal_type": "智能电视",
+    "net_package": "基础套餐",
+    "recent_activities": [
+      {
+        "activity": "视频",
+        "date": "2009-03-14"
+      }
+    ],
+    "profile_text": "成为分析不同根据完成回复一起以及国家决定有关城市语言生产继续也是."
+  },
+  {
+    "user_id": "U91320",
+    "region_id": 9,
+    "region_name": "云南",
+    "monthly_online_hours": 9.66,
+    "is_3g_user": false,
+    "terminal_type": "其他",
+    "net_package": "家庭套餐",
+    "recent_activities": [
+      {
+        "activity": "游戏",
+        "date": "2009-06-28"
+      },
+      {
+        "activity": "视频",
+        "date": "2009-04-14"
+      }
+    ],
+    "profile_text": "生产如果经济评论他的是一什么设计留言各种."
+  },
+  {
+    "user_id": "U97865",
+    "region_id": 9,
+    "region_name": "云南",
+    "monthly_online_hours": 23.29,
+    "is_3g_user": true,
+    "terminal_type": "其他",
+    "net_package": "企业套餐",
+    "recent_activities": [
+      {
+        "activity": "社交",
+        "date": "2009-02-25"
+      }
+    ],
+    "profile_text": "阅读人员研究内容威望朋友日本次数."
+  },
+  {
+    "user_id": "U108956",
+    "region_id": 10,
+    "region_name": "湖南",
+    "monthly_online_hours": null,
+    "is_3g_user": true,
+    "terminal_type": "平板",
+    "net_package": "学生套餐",
+    "recent_activities": [
+      {
+        "activity": "社交",
+        "date": "2009-03-18"
+      },
+      {
+        "activity": "社交",
+        "date": "2009-03-02"
+      },
+      {
+        "activity": "邮件",
+        "date": "2009-01-21"
+      }
+    ],
+    "profile_text": "工具类别可能时间为了城市是否."
+  },
+  {
+    "user_id": "U107455",
+    "region_id": 10,
+    "region_name": "湖南",
+    "monthly_online_hours": 20.14,
+    "is_3g_user": true,
+    "terminal_type": "手机",
+    "net_package": "基础套餐",
+    "recent_activities": [
+      {
+        "activity": "社交",
+        "date": "2009-03-12"
+      },
+      {
+        "activity": "社交",
+        "date": "2009-03-03"
+      },
+      {
+        "activity": "游戏",
+        "date": "2009-06-17"
+      }
+    ],
+    "profile_text": "是一比较加入来源单位评论单位朋友合作加入大小语言增加."
+  },
+  {
+    "user_id": "U104467",
+    "region_id": 10,
+    "region_name": "湖南",
+    "monthly_online_hours": null,
+    "is_3g_user": true,
+    "terminal_type": "平板",
+    "net_package": "家庭套餐",
+    "recent_activities": [
+      {
+        "activity": "游戏",
+        "date": "2009-03-14"
+      },
+      {
+        "activity": "视频",
+        "date": "2009-06-09"
+      }
+    ],
+    "profile_text": "详细一起然后直接发展大学很多的人目前一下开发教育以后美国拥有全国."
+  },
+  {
+    "user_id": "U119837",
+    "region_id": 11,
+    "region_name": "湖北",
+    "monthly_online_hours": 9.9,
+    "is_3g_user": true,
+    "terminal_type": "平板",
+    "net_package": "经济套餐",
+    "recent_activities": [
+      {
+        "activity": "网购",
+        "date": "2009-06-12"
+      },
+      {
+        "activity": "社交",
+        "date": "2009-06-22"
+      },
+      {
+        "activity": "网购",
+        "date": "2009-05-09"
+      }
+    ],
+    "profile_text": "广告您的管理拥有网站进行原因工作."
+  },
+  {
+    "user_id": "U114908",
+    "region_id": 11,
+    "region_name": "湖北",
+    "monthly_online_hours": 16.28,
+    "is_3g_user": true,
+    "terminal_type": "手机",
+    "net_package": "企业套餐",
+    "recent_activities": [
+      {
+        "activity": "游戏",
+        "date": "2009-03-02"
+      }
+    ],
+    "profile_text": "到了价格信息自己因为合作起来."
+  },
+  {
+    "user_id": "U113749",
+    "region_id": 11,
+    "region_name": "湖北",
+    "monthly_online_hours": 16.92,
+    "is_3g_user": true,
+    "terminal_type": "手机",
+    "net_package": "经济套餐",
+    "recent_activities": [
+      {
+        "activity": "邮件",
+        "date": "2009-06-02"
+      },
+      {
+        "activity": "游戏",
+        "date": "2009-06-23"
+      }
+    ],
+    "profile_text": "非常大家而且提高只要商品继续生活来自那个."
+  },
+  {
+    "user_id": "U127149",
+    "region_id": 12,
+    "region_name": "辽宁",
+    "monthly_online_hours": 13.45,
+    "is_3g_user": true,
+    "terminal_type": "电脑",
+    "net_package": "基础套餐",
+    "recent_activities": [
+      {
+        "activity": "社交",
+        "date": "2009-01-04"
+      },
+      {
+        "activity": "游戏",
+        "date": "2009-06-03"
+      },
+      {
+        "activity": "邮件",
+        "date": "2009-01-05"
+      }
+    ],
+    "profile_text": "女人当然音乐计划价格然后一种手机规定这样对于."
+  },
+  {
+    "user_id": "U121672",
+    "region_id": 12,
+    "region_name": "辽宁",
+    "monthly_online_hours": null,
+    "is_3g_user": true,
+    "terminal_type": "智能电视",
+    "net_package": "学生套餐",
+    "recent_activities": [
+      {
+        "activity": "邮件",
+        "date": "2009-06-12"
+      },
+      {
+        "activity": "游戏",
+        "date": "2009-01-15"
+      }
+    ],
+    "profile_text": "欢迎起来论坛详细重要进行解决可以全国."
+  },
+  {
+    "user_id": "U127882",
+    "region_id": 12,
+    "region_name": "辽宁",
+    "monthly_online_hours": 24.58,
+    "is_3g_user": false,
+    "terminal_type": "手机",
+    "net_package": "家庭套餐",
+    "recent_activities": [
+      {
+        "activity": "视频",
+        "date": "2009-01-18"
+      },
+      {
+        "activity": "视频",
+        "date": "2009-05-21"
+      }
+    ],
+    "profile_text": "我的参加科技之间各种学习可是报告不过部分是一也是学习关系."
+  },
+  {
+    "user_id": "U139548",
+    "region_id": 13,
+    "region_name": "河北",
+    "monthly_online_hours": 51.58,
+    "is_3g_user": false,
+    "terminal_type": "平板",
+    "net_package": "企业套餐",
+    "recent_activities": [
+      {
+        "activity": "视频",
+        "date": "2009-02-26"
+      },
+      {
+        "activity": "邮件",
+        "date": "2009-03-10"
+      },
+      {
+        "activity": "游戏",
+        "date": "2009-04-22"
+      }
+    ],
+    "profile_text": "最新手机那些美国有关您的一样合作教育今天专业."
+  },
+  {
+    "user_id": "U132419",
+    "region_id": 13,
+    "region_name": "河北",
+    "monthly_online_hours": 21.92,
+    "is_3g_user": true,
+    "terminal_type": "智能电视",
+    "net_package": "经济套餐",
+    "recent_activities": [
+      {
+        "activity": "邮件",
+        "date": "2009-02-04"
+      },
+      {
+        "activity": "视频",
+        "date": "2009-01-09"
+      }
+    ],
+    "profile_text": "免费加入资料以后处理生产中国到了发展系列怎么基本程序工程."
+  },
+  {
+    "user_id": "U139098",
+    "region_id": 13,
+    "region_name": "河北",
+    "monthly_online_hours": 22.85,
+    "is_3g_user": false,
+    "terminal_type": "电脑",
+    "net_package": "家庭套餐",
+    "recent_activities": [
+      {
+        "activity": "游戏",
+        "date": "2009-03-31"
+      }
+    ],
+    "profile_text": "有关公司的是精华手机直接而且感觉状态全部这里为了那么环境."
+  },
+  {
+    "user_id": "U145526",
+    "region_id": 14,
+    "region_name": "河南",
+    "monthly_online_hours": 19.35,
+    "is_3g_user": true,
+    "terminal_type": "其他",
+    "net_package": "经济套餐",
+    "recent_activities": [
+      {
+        "activity": "视频",
+        "date": "2009-04-29"
+      }
+    ],
+    "profile_text": "所有游戏所有投资最大中心个人也是大小正在."
+  },
+  {
+    "user_id": "U144937",
+    "region_id": 14,
+    "region_name": "河南",
+    "monthly_online_hours": 7.7,
+    "is_3g_user": true,
+    "terminal_type": "智能电视",
+    "net_package": "家庭套餐",
+    "recent_activities": [
+      {
+        "activity": "游戏",
+        "date": "2009-06-06"
+      }
+    ],
+    "profile_text": "销售标题威望选择知道这样各种因为企业管理的是如此作为城市相关."
+  },
+  {
+    "user_id": "U144986",
+    "region_id": 14,
+    "region_name": "河南",
+    "monthly_online_hours": 19.82,
+    "is_3g_user": true,
+    "terminal_type": "其他",
+    "net_package": "高级套餐",
+    "recent_activities": [
+      {
+        "activity": "邮件",
+        "date": "2009-02-08"
+      },
+      {
+        "activity": "视频",
+        "date": "2009-04-02"
+      }
+    ],
+    "profile_text": "认为广告项目上海他们计划希望."
+  },
+  {
+    "user_id": "U156419",
+    "region_id": 15,
+    "region_name": "安徽",
+    "monthly_online_hours": 20.7,
+    "is_3g_user": true,
+    "terminal_type": "智能电视",
+    "net_package": "高级套餐",
+    "recent_activities": [
+      {
+        "activity": "社交",
+        "date": "2009-04-26"
+      },
+      {
+        "activity": "社交",
+        "date": "2009-05-30"
+      }
+    ],
+    "profile_text": "看到服务必须管理发布的话会员特别."
+  },
+  {
+    "user_id": "U159779",
+    "region_id": 15,
+    "region_name": "安徽",
+    "monthly_online_hours": 68.83,
+    "is_3g_user": false,
+    "terminal_type": "电脑",
+    "net_package": "经济套餐",
+    "recent_activities": [
+      {
+        "activity": "游戏",
+        "date": "2009-02-26"
+      }
+    ],
+    "profile_text": "你们阅读销售喜欢一次可能当然选择之后."
+  },
+  {
+    "user_id": "U159595",
+    "region_id": 15,
+    "region_name": "安徽",
+    "monthly_online_hours": null,
+    "is_3g_user": true,
+    "terminal_type": "手机",
+    "net_package": "经济套餐",
+    "recent_activities": [
+      {
+        "activity": "游戏",
+        "date": "2009-05-02"
+      },
+      {
+        "activity": "游戏",
+        "date": "2009-05-15"
+      }
+    ],
+    "profile_text": "会员东西为什一直次数要求免费重要在线所以服务一个有关."
+  },
+  {
+    "user_id": "U169751",
+    "region_id": 16,
+    "region_name": "福建",
+    "monthly_online_hours": 23.35,
+    "is_3g_user": true,
+    "terminal_type": "手机",
+    "net_package": "基础套餐",
+    "recent_activities": [
+      {
+        "activity": "社交",
+        "date": "2009-04-16"
+      },
+      {
+        "activity": "视频",
+        "date": "2009-01-17"
+      },
+      {
+        "activity": "网购",
+        "date": "2009-06-03"
+      }
+    ],
+    "profile_text": "广告自己功能图片完全市场设计文件深圳然后觉得价格电话网站发布文件."
+  },
+  {
+    "user_id": "U168690",
+    "region_id": 16,
+    "region_name": "福建",
+    "monthly_online_hours": 19.74,
+    "is_3g_user": true,
+    "terminal_type": "平板",
+    "net_package": "经济套餐",
+    "recent_activities": [
+      {
+        "activity": "视频",
+        "date": "2009-04-26"
+      }
+    ],
+    "profile_text": "市场联系环境您的标准功能因为程序处理."
+  },
+  {
+    "user_id": "U162070",
+    "region_id": 16,
+    "region_name": "福建",
+    "monthly_online_hours": 11.2,
+    "is_3g_user": true,
+    "terminal_type": "手机",
+    "net_package": "企业套餐",
+    "recent_activities": [
+      {
+        "activity": "网购",
+        "date": "2009-01-05"
+      },
+      {
+        "activity": "社交",
+        "date": "2009-05-22"
+      },
+      {
+        "activity": "游戏",
+        "date": "2009-02-05"
+      }
+    ],
+    "profile_text": "更新应该系统工作学生最新一些作者参加实现女人."
+  },
+  {
+    "user_id": "U175066",
+    "region_id": 17,
+    "region_name": "重庆",
+    "monthly_online_hours": 35.57,
+    "is_3g_user": true,
+    "terminal_type": "智能电视",
+    "net_package": "企业套餐",
+    "recent_activities": [
+      {
+        "activity": "社交",
+        "date": "2009-01-22"
+      },
+      {
+        "activity": "视频",
+        "date": "2009-02-16"
+      },
+      {
+        "activity": "视频",
+        "date": "2009-03-06"
+      }
+    ],
+    "profile_text": "准备结果不过工作分析广告操作."
+  },
+  {
+    "user_id": "U178025",
+    "region_id": 17,
+    "region_name": "重庆",
+    "monthly_online_hours": 29.25,
+    "is_3g_user": true,
+    "terminal_type": "其他",
+    "net_package": "基础套餐",
+    "recent_activities": [
+      {
+        "activity": "社交",
+        "date": "2009-06-04"
+      },
+      {
+        "activity": "社交",
+        "date": "2009-01-20"
+      },
+      {
+        "activity": "网购",
+        "date": "2009-04-23"
+      }
+    ],
+    "profile_text": "的人搜索科技应该作者点击任何合作工具人员留言."
+  },
+  {
+    "user_id": "U173847",
+    "region_id": 17,
+    "region_name": "重庆",
+    "monthly_online_hours": 29.83,
+    "is_3g_user": true,
+    "terminal_type": "电脑",
+    "net_package": "基础套餐",
+    "recent_activities": [
+      {
+        "activity": "邮件",
+        "date": "2009-03-06"
+      },
+      {
+        "activity": "游戏",
+        "date": "2009-03-01"
+      }
+    ],
+    "profile_text": "直接看到最大产品现在主要发表得到很多其实一个."
+  },
+  {
+    "user_id": "U185720",
+    "region_id": 18,
+    "region_name": "陕西",
+    "monthly_online_hours": 12.75,
+    "is_3g_user": false,
+    "terminal_type": "智能电视",
+    "net_package": "基础套餐",
+    "recent_activities": [
+      {
+        "activity": "游戏",
+        "date": "2009-05-01"
+      },
+      {
+        "activity": "邮件",
+        "date": "2009-01-20"
+      },
+      {
+        "activity": "社交",
+        "date": "2009-01-11"
+      }
+    ],
+    "profile_text": "只是管理查看方面以上项目他们你的有限功能以后也是软件必须加入."
+  },
+  {
+    "user_id": "U189922",
+    "region_id": 18,
+    "region_name": "陕西",
+    "monthly_online_hours": 40.5,
+    "is_3g_user": true,
+    "terminal_type": "电脑",
+    "net_package": "高级套餐",
+    "recent_activities": [
+      {
+        "activity": "网购",
+        "date": "2009-06-11"
+      }
+    ],
+    "profile_text": "来自可以如何网站出来电话次数解决支持."
+  },
+  {
+    "user_id": "U186039",
+    "region_id": 18,
+    "region_name": "陕西",
+    "monthly_online_hours": 9.96,
+    "is_3g_user": true,
+    "terminal_type": "其他",
+    "net_package": "高级套餐",
+    "recent_activities": [
+      {
+        "activity": "视频",
+        "date": "2009-05-29"
+      },
+      {
+        "activity": "游戏",
+        "date": "2009-01-04"
+      }
+    ],
+    "profile_text": "能力评论威望标题手机这里这种增加显示以后决定."
+  },
+  {
+    "user_id": "U195460",
+    "region_id": 19,
+    "region_name": "江西",
+    "monthly_online_hours": 26.94,
+    "is_3g_user": true,
+    "terminal_type": "智能电视",
+    "net_package": "家庭套餐",
+    "recent_activities": [
+      {
+        "activity": "网购",
+        "date": "2009-01-27"
+      }
+    ],
+    "profile_text": "得到是否资料责任你的一个因此实现那个重要很多."
+  },
+  {
+    "user_id": "U196280",
+    "region_id": 19,
+    "region_name": "江西",
+    "monthly_online_hours": 60.05,
+    "is_3g_user": true,
+    "terminal_type": "手机",
+    "net_package": "基础套餐",
+    "recent_activities": [
+      {
+        "activity": "邮件",
+        "date": "2009-01-08"
+      }
+    ],
+    "profile_text": "是一都是这里进入开发最新世界规定一样设计一次企业法律各种."
+  },
+  {
+    "user_id": "U191339",
+    "region_id": 19,
+    "region_name": "江西",
+    "monthly_online_hours": 12.24,
+    "is_3g_user": false,
+    "terminal_type": "平板",
+    "net_package": "企业套餐",
+    "recent_activities": [
+      {
+        "activity": "视频",
+        "date": "2009-05-16"
+      }
+    ],
+    "profile_text": "建设直接政府标题今天产品更新然后网上今年项目不要."
+  },
+  {
+    "user_id": "U208245",
+    "region_id": 20,
+    "region_name": "黑龙江",
+    "monthly_online_hours": 15.13,
+    "is_3g_user": false,
+    "terminal_type": "电脑",
+    "net_package": "企业套餐",
+    "recent_activities": [
+      {
+        "activity": "视频",
+        "date": "2009-01-18"
+      },
+      {
+        "activity": "视频",
+        "date": "2009-06-06"
+      }
+    ],
+    "profile_text": "公司开始事情当前服务成功文件方面资源系统一下影响详细孩子."
+  },
+  {
+    "user_id": "U206460",
+    "region_id": 20,
+    "region_name": "黑龙江",
+    "monthly_online_hours": 21.11,
+    "is_3g_user": true,
+    "terminal_type": "手机",
+    "net_package": "经济套餐",
+    "recent_activities": [
+      {
+        "activity": "视频",
+        "date": "2009-03-16"
+      },
+      {
+        "activity": "视频",
+        "date": "2009-04-17"
+      }
+    ],
+    "profile_text": "商品基本事情产品进行经营增加准备这么学习提供科技事情不同留言有些."
+  },
+  {
+    "user_id": "U201601",
+    "region_id": 20,
+    "region_name": "黑龙江",
+    "monthly_online_hours": 15.62,
+    "is_3g_user": true,
+    "terminal_type": "平板",
+    "net_package": "高级套餐",
+    "recent_activities": [
+      {
+        "activity": "视频",
+        "date": "2009-05-31"
+      },
+      {
+        "activity": "网购",
+        "date": "2009-02-18"
+      }
+    ],
+    "profile_text": "专业已经知道学生手机新闻行业."
+  },
+  {
+    "user_id": "U219889",
+    "region_id": 21,
+    "region_name": "吉林",
+    "monthly_online_hours": 9.25,
+    "is_3g_user": true,
+    "terminal_type": "手机",
+    "net_package": "经济套餐",
+    "recent_activities": [
+      {
+        "activity": "邮件",
+        "date": "2009-03-29"
+      },
+      {
+        "activity": "视频",
+        "date": "2009-02-22"
+      },
+      {
+        "activity": "社交",
+        "date": "2009-06-16"
+      }
+    ],
+    "profile_text": "积分系统事情东西活动汽车开始只是主要."
+  },
+  {
+    "user_id": "U213146",
+    "region_id": 21,
+    "region_name": "吉林",
+    "monthly_online_hours": 20.79,
+    "is_3g_user": false,
+    "terminal_type": "智能电视",
+    "net_package": "学生套餐",
+    "recent_activities": [
+      {
+        "activity": "网购",
+        "date": "2009-05-29"
+      },
+      {
+        "activity": "邮件",
+        "date": "2009-01-19"
+      }
+    ],
+    "profile_text": "登录质量非常功能发生服务次数一定其他参加程序."
+  },
+  {
+    "user_id": "U213594",
+    "region_id": 21,
+    "region_name": "吉林",
+    "monthly_online_hours": 11.81,
+    "is_3g_user": true,
+    "terminal_type": "手机",
+    "net_package": "企业套餐",
+    "recent_activities": [
+      {
+        "activity": "社交",
+        "date": "2009-06-06"
+      },
+      {
+        "activity": "视频",
+        "date": "2009-05-31"
+      }
+    ],
+    "profile_text": "谢谢价格建设也是这些一样认为特别选择注意地区评论起来表示."
+  },
+  {
+    "user_id": "U223522",
+    "region_id": 22,
+    "region_name": "天津",
+    "monthly_online_hours": 25.45,
+    "is_3g_user": true,
+    "terminal_type": "平板",
+    "net_package": "企业套餐",
+    "recent_activities": [
+      {
+        "activity": "视频",
+        "date": "2009-04-21"
+      },
+      {
+        "activity": "视频",
+        "date": "2009-02-26"
+      },
+      {
+        "activity": "视频",
+        "date": "2009-04-28"
+      }
+    ],
+    "profile_text": "汽车法律威望有些一次最后能够."
+  },
+  {
+    "user_id": "U227284",
+    "region_id": 22,
+    "region_name": "天津",
+    "monthly_online_hours": 12.68,
+    "is_3g_user": true,
+    "terminal_type": "其他",
+    "net_package": "企业套餐",
+    "recent_activities": [
+      {
+        "activity": "网购",
+        "date": "2009-05-26"
+      },
+      {
+        "activity": "视频",
+        "date": "2009-04-20"
+      },
+      {
+        "activity": "邮件",
+        "date": "2009-04-03"
+      }
+    ],
+    "profile_text": "作为东西这是系列重要语言必须有些工程环境."
+  },
+  {
+    "user_id": "U221042",
+    "region_id": 22,
+    "region_name": "天津",
+    "monthly_online_hours": 43.6,
+    "is_3g_user": true,
+    "terminal_type": "平板",
+    "net_package": "企业套餐",
+    "recent_activities": [
+      {
+        "activity": "视频",
+        "date": "2009-01-12"
+      },
+      {
+        "activity": "视频",
+        "date": "2009-05-22"
+      },
+      {
+        "activity": "视频",
+        "date": "2009-02-12"
+      }
+    ],
+    "profile_text": "自己名称有限当然一下阅读用户责任国内名称更新评论生活."
+  },
+  {
+    "user_id": "U239903",
+    "region_id": 23,
+    "region_name": "青海",
+    "monthly_online_hours": 13.58,
+    "is_3g_user": true,
+    "terminal_type": "平板",
+    "net_package": "经济套餐",
+    "recent_activities": [
+      {
+        "activity": "邮件",
+        "date": "2009-04-29"
+      },
+      {
+        "activity": "社交",
+        "date": "2009-03-23"
+      },
+      {
+        "activity": "网购",
+        "date": "2009-03-16"
+      }
+    ],
+    "profile_text": "报告选择事情觉得广告如果城市情况这是影响资源谢谢更多作者."
+  },
+  {
+    "user_id": "U238749",
+    "region_id": 23,
+    "region_name": "青海",
+    "monthly_online_hours": 17.1,
+    "is_3g_user": false,
+    "terminal_type": "智能电视",
+    "net_package": "家庭套餐",
+    "recent_activities": [
+      {
+        "activity": "社交",
+        "date": "2009-01-14"
+      },
+      {
+        "activity": "网购",
+        "date": "2009-02-23"
+      },
+      {
+        "activity": "邮件",
+        "date": "2009-05-28"
+      }
+    ],
+    "profile_text": "可以投资开发结果结果搜索控制计划文章设计下载制作的话."
+  },
+  {
+    "user_id": "U236439",
+    "region_id": 23,
+    "region_name": "青海",
+    "monthly_online_hours": 30.17,
+    "is_3g_user": false,
+    "terminal_type": "智能电视",
+    "net_package": "基础套餐",
+    "recent_activities": [
+      {
+        "activity": "网购",
+        "date": "2009-03-05"
+      },
+      {
+        "activity": "视频",
+        "date": "2009-05-24"
+      },
+      {
+        "activity": "社交",
+        "date": "2009-01-13"
+      }
+    ],
+    "profile_text": "地址内容其实当然这样如何还是次数会员应该网络浏览公司那么合作法律."
+  },
+  {
+    "user_id": "U245342",
+    "region_id": 24,
+    "region_name": "广西",
+    "monthly_online_hours": 10.85,
+    "is_3g_user": true,
+    "terminal_type": "智能电视",
+    "net_package": "学生套餐",
+    "recent_activities": [
+      {
+        "activity": "邮件",
+        "date": "2009-04-06"
+      }
+    ],
+    "profile_text": "全国一直支持阅读提供怎么如何拥有自己介绍不同到了是否提供表示."
+  },
+  {
+    "user_id": "U246188",
+    "region_id": 24,
+    "region_name": "广西",
+    "monthly_online_hours": 22.5,
+    "is_3g_user": true,
+    "terminal_type": "智能电视",
+    "net_package": "企业套餐",
+    "recent_activities": [
+      {
+        "activity": "网购",
+        "date": "2009-01-22"
+      }
+    ],
+    "profile_text": "质量工程问题生产报告到了其实作者免费其中当前他们任何一切责任."
+  },
+  {
+    "user_id": "U245708",
+    "region_id": 24,
+    "region_name": "广西",
+    "monthly_online_hours": 38.61,
+    "is_3g_user": false,
+    "terminal_type": "手机",
+    "net_package": "家庭套餐",
+    "recent_activities": [
+      {
+        "activity": "网购",
+        "date": "2009-01-18"
+      }
+    ],
+    "profile_text": "进行类别要求个人网上一下发布质量一个完全."
+  },
+  {
+    "user_id": "U255906",
+    "region_id": 25,
+    "region_name": "内蒙古",
+    "monthly_online_hours": 8.99,
+    "is_3g_user": false,
+    "terminal_type": "手机",
+    "net_package": "高级套餐",
+    "recent_activities": [
+      {
+        "activity": "游戏",
+        "date": "2009-04-15"
+      }
+    ],
+    "profile_text": "一定是一加入方式很多有限出现责任之后."
+  },
+  {
+    "user_id": "U253385",
+    "region_id": 25,
+    "region_name": "内蒙古",
+    "monthly_online_hours": 22.03,
+    "is_3g_user": true,
+    "terminal_type": "智能电视",
+    "net_package": "企业套餐",
+    "recent_activities": [
+      {
+        "activity": "社交",
+        "date": "2009-05-14"
+      },
+      {
+        "activity": "网购",
+        "date": "2009-05-16"
+      },
+      {
+        "activity": "视频",
+        "date": "2009-01-24"
+      }
+    ],
+    "profile_text": "所以管理一直由于这么方法继续."
+  },
+  {
+    "user_id": "U254945",
+    "region_id": 25,
+    "region_name": "内蒙古",
+    "monthly_online_hours": 22.87,
+    "is_3g_user": true,
+    "terminal_type": "其他",
+    "net_package": "经济套餐",
+    "recent_activities": [
+      {
+        "activity": "游戏",
+        "date": "2009-03-03"
+      }
+    ],
+    "profile_text": "学校那么地址或者因此当然地区这样运行注册准备社区回复文章数据."
+  },
+  {
+    "user_id": "U261153",
+    "region_id": 26,
+    "region_name": "贵州",
+    "monthly_online_hours": 29.69,
+    "is_3g_user": false,
+    "terminal_type": "智能电视",
+    "net_package": "高级套餐",
+    "recent_activities": [
+      {
+        "activity": "社交",
+        "date": "2009-02-10"
+      },
+      {
+        "activity": "视频",
+        "date": "2009-06-11"
+      },
+      {
+        "activity": "邮件",
+        "date": "2009-04-02"
+      }
+    ],
+    "profile_text": "服务系统为什使用生产科技发生专业全部无法那么提高提供."
+  },
+  {
+    "user_id": "U267951",
+    "region_id": 26,
+    "region_name": "贵州",
+    "monthly_online_hours": 10.82,
+    "is_3g_user": true,
+    "terminal_type": "智能电视",
+    "net_package": "高级套餐",
+    "recent_activities": [
+      {
+        "activity": "视频",
+        "date": "2009-03-23"
+      }
+    ],
+    "profile_text": "是否操作日本系列个人那么最后资料."
+  },
+  {
+    "user_id": "U267248",
+    "region_id": 26,
+    "region_name": "贵州",
+    "monthly_online_hours": 10.38,
+    "is_3g_user": true,
+    "terminal_type": "其他",
+    "net_package": "高级套餐",
+    "recent_activities": [
+      {
+        "activity": "网购",
+        "date": "2009-04-15"
+      },
+      {
+        "activity": "视频",
+        "date": "2009-01-12"
+      },
+      {
+        "activity": "网购",
+        "date": "2009-04-20"
+      }
+    ],
+    "profile_text": "资源关系日期日期大家拥有表示方法作者发展学生法律介绍有限."
+  },
+  {
+    "user_id": "U271803",
+    "region_id": 27,
+    "region_name": "西藏",
+    "monthly_online_hours": 26.07,
+    "is_3g_user": false,
+    "terminal_type": "智能电视",
+    "net_package": "高级套餐",
+    "recent_activities": [
+      {
+        "activity": "游戏",
+        "date": "2009-01-25"
+      }
+    ],
+    "profile_text": "搜索的话人员时候不会登录您的网上."
+  },
+  {
+    "user_id": "U274115",
+    "region_id": 27,
+    "region_name": "西藏",
+    "monthly_online_hours": 23.3,
+    "is_3g_user": true,
+    "terminal_type": "电脑",
+    "net_package": "学生套餐",
+    "recent_activities": [
+      {
+        "activity": "网购",
+        "date": "2009-01-20"
+      }
+    ],
+    "profile_text": "当前组织为了女人免费地区网站."
+  },
+  {
+    "user_id": "U278222",
+    "region_id": 27,
+    "region_name": "西藏",
+    "monthly_online_hours": 22.77,
+    "is_3g_user": true,
+    "terminal_type": "平板",
+    "net_package": "学生套餐",
+    "recent_activities": [
+      {
+        "activity": "游戏",
+        "date": "2009-06-06"
+      }
+    ],
+    "profile_text": "为了更多电话美国情况大学的话两个."
+  },
+  {
+    "user_id": "U287807",
+    "region_id": 28,
+    "region_name": "宁夏",
+    "monthly_online_hours": 23.88,
+    "is_3g_user": true,
+    "terminal_type": "电脑",
+    "net_package": "企业套餐",
+    "recent_activities": [
+      {
+        "activity": "邮件",
+        "date": "2009-02-14"
+      },
+      {
+        "activity": "社交",
+        "date": "2009-04-21"
+      }
+    ],
+    "profile_text": "或者运行软件不断之间你的的人男人环境资料时间网上起来看到开始科技."
+  },
+  {
+    "user_id": "U288894",
+    "region_id": 28,
+    "region_name": "宁夏",
+    "monthly_online_hours": 14.3,
+    "is_3g_user": false,
+    "terminal_type": "平板",
+    "net_package": "学生套餐",
+    "recent_activities": [
+      {
+        "activity": "视频",
+        "date": "2009-05-31"
+      },
+      {
+        "activity": "社交",
+        "date": "2009-06-10"
+      }
+    ],
+    "profile_text": "作者无法等级那么在线来自专业."
+  },
+  {
+    "user_id": "U284696",
+    "region_id": 28,
+    "region_name": "宁夏",
+    "monthly_online_hours": 22.56,
+    "is_3g_user": false,
+    "terminal_type": "智能电视",
+    "net_package": "企业套餐",
+    "recent_activities": [
+      {
+        "activity": "视频",
+        "date": "2009-06-06"
+      },
+      {
+        "activity": "游戏",
+        "date": "2009-06-26"
+      }
+    ],
+    "profile_text": "销售制作支持分析他们技术不同只有为什阅读个人电脑都是方式这是."
+  },
+  {
+    "user_id": "U298451",
+    "region_id": 29,
+    "region_name": "新疆",
+    "monthly_online_hours": 23.26,
+    "is_3g_user": true,
+    "terminal_type": "平板",
+    "net_package": "企业套餐",
+    "recent_activities": [
+      {
+        "activity": "游戏",
+        "date": "2009-01-17"
+      },
+      {
+        "activity": "社交",
+        "date": "2009-06-02"
+      }
+    ],
+    "profile_text": "单位登录企业电子组织时间这样免费什么大家一下时间这么所以可能男人."
+  },
+  {
+    "user_id": "U296374",
+    "region_id": 29,
+    "region_name": "新疆",
+    "monthly_online_hours": 14.05,
+    "is_3g_user": false,
+    "terminal_type": "电脑",
+    "net_package": "学生套餐",
+    "recent_activities": [
+      {
+        "activity": "视频",
+        "date": "2009-01-18"
+      }
+    ],
+    "profile_text": "你们合作不会资源一直学习只是如果日期大学精华其中国际电影."
+  },
+  {
+    "user_id": "U295951",
+    "region_id": 29,
+    "region_name": "新疆",
+    "monthly_online_hours": 51.05,
+    "is_3g_user": true,
+    "terminal_type": "手机",
+    "net_package": "经济套餐",
+    "recent_activities": [
+      {
+        "activity": "游戏",
+        "date": "2009-06-20"
+      }
+    ],
+    "profile_text": "主题次数只是程序社会关于我的学习看到系统事情这么."
+  },
+  {
+    "user_id": "U302902",
+    "region_id": 30,
+    "region_name": "海南",
+    "monthly_online_hours": 25.46,
+    "is_3g_user": true,
+    "terminal_type": "其他",
+    "net_package": "经济套餐",
+    "recent_activities": [
+      {
+        "activity": "游戏",
+        "date": "2009-03-05"
+      },
+      {
+        "activity": "邮件",
+        "date": "2009-01-09"
+      }
+    ],
+    "profile_text": "任何积分能力电话能力一起点击因此政府人民."
+  },
+  {
+    "user_id": "U303531",
+    "region_id": 30,
+    "region_name": "海南",
+    "monthly_online_hours": 11.07,
+    "is_3g_user": false,
+    "terminal_type": "手机",
+    "net_package": "家庭套餐",
+    "recent_activities": [
+      {
+        "activity": "游戏",
+        "date": "2009-03-17"
+      },
+      {
+        "activity": "游戏",
+        "date": "2009-06-21"
+      },
+      {
+        "activity": "视频",
+        "date": "2009-05-05"
+      }
+    ],
+    "profile_text": "相关大家所以自己基本如果拥有必须非常起来."
+  },
+  {
+    "user_id": "U304868",
+    "region_id": 30,
+    "region_name": "海南",
+    "monthly_online_hours": 27.89,
+    "is_3g_user": false,
+    "terminal_type": "手机",
+    "net_package": "学生套餐",
+    "recent_activities": [
+      {
+        "activity": "游戏",
+        "date": "2009-02-10"
+      },
+      {
+        "activity": "视频",
+        "date": "2009-06-14"
+      }
+    ],
+    "profile_text": "有关历史起来科技简介很多必须自己进行不同这样生产已经显示来自那么."
+  },
+  {
+    "user_id": "U313001",
+    "region_id": 31,
+    "region_name": "山西",
+    "monthly_online_hours": 12.34,
+    "is_3g_user": false,
+    "terminal_type": "智能电视",
+    "net_package": "基础套餐",
+    "recent_activities": [
+      {
+        "activity": "邮件",
+        "date": "2009-05-06"
+      },
+      {
+        "activity": "网购",
+        "date": "2009-06-24"
+      },
+      {
+        "activity": "社交",
+        "date": "2009-04-05"
+      }
+    ],
+    "profile_text": "而且功能工程注意作者学校建设那个."
+  },
+  {
+    "user_id": "U314362",
+    "region_id": 31,
+    "region_name": "山西",
+    "monthly_online_hours": 29.77,
+    "is_3g_user": true,
+    "terminal_type": "其他",
+    "net_package": "经济套餐",
+    "recent_activities": [
+      {
+        "activity": "社交",
+        "date": "2009-05-05"
+      },
+      {
+        "activity": "社交",
+        "date": "2009-04-06"
+      },
+      {
+        "activity": "网购",
+        "date": "2009-01-28"
+      }
+    ],
+    "profile_text": "有关中文操作最新方法自己内容."
+  },
+  {
+    "user_id": "U313370",
+    "region_id": 31,
+    "region_name": "山西",
+    "monthly_online_hours": 35.85,
+    "is_3g_user": false,
+    "terminal_type": "其他",
+    "net_package": "高级套餐",
+    "recent_activities": [
+      {
+        "activity": "网购",
+        "date": "2009-06-01"
+      }
+    ],
+    "profile_text": "中文实现标题发展工程工作各种一切."
+  },
+  {
+    "user_id": "U326869",
+    "region_id": 32,
+    "region_name": "澳门",
+    "monthly_online_hours": 13.33,
+    "is_3g_user": false,
+    "terminal_type": "电脑",
+    "net_package": "企业套餐",
+    "recent_activities": [
+      {
+        "activity": "社交",
+        "date": "2009-06-25"
+      },
+      {
+        "activity": "网购",
+        "date": "2009-04-23"
+      }
+    ],
+    "profile_text": "位置在线音乐图片如何资料销售深圳工程使用就是这是经济大小地区."
+  },
+  {
+    "user_id": "U327897",
+    "region_id": 32,
+    "region_name": "澳门",
+    "monthly_online_hours": 32.51,
+    "is_3g_user": true,
+    "terminal_type": "手机",
+    "net_package": "家庭套餐",
+    "recent_activities": [
+      {
+        "activity": "邮件",
+        "date": "2009-03-29"
+      },
+      {
+        "activity": "网购",
+        "date": "2009-01-29"
+      }
+    ],
+    "profile_text": "今年任何设备还是为了报告规定虽然学校密码来自等级深圳根据合作之间."
+  },
+  {
+    "user_id": "U324629",
+    "region_id": 32,
+    "region_name": "澳门",
+    "monthly_online_hours": 24.69,
+    "is_3g_user": false,
+    "terminal_type": "手机",
+    "net_package": "学生套餐",
+    "recent_activities": [
+      {
+        "activity": "游戏",
+        "date": "2009-02-16"
+      },
+      {
+        "activity": "网购",
+        "date": "2009-03-04"
+      },
+      {
+        "activity": "视频",
+        "date": "2009-06-14"
+      }
+    ],
+    "profile_text": "就是合作显示没有环境拥有状态两个游戏准备支持选择责任显示是一."
+  },
+  {
+    "user_id": "U337984",
+    "region_id": 33,
+    "region_name": "香港",
+    "monthly_online_hours": 30.3,
+    "is_3g_user": true,
+    "terminal_type": "智能电视",
+    "net_package": "学生套餐",
+    "recent_activities": [
+      {
+        "activity": "网购",
+        "date": "2009-06-11"
+      },
+      {
+        "activity": "邮件",
+        "date": "2009-04-08"
+      }
+    ],
+    "profile_text": "工作教育两个有限等级生活一种日本部分联系关于新闻这是这些不同."
+  },
+  {
+    "user_id": "U333067",
+    "region_id": 33,
+    "region_name": "香港",
+    "monthly_online_hours": 51.85,
+    "is_3g_user": true,
+    "terminal_type": "其他",
+    "net_package": "企业套餐",
+    "recent_activities": [
+      {
+        "activity": "视频",
+        "date": "2009-04-07"
+      },
+      {
+        "activity": "邮件",
+        "date": "2009-01-28"
+      },
+      {
+        "activity": "视频",
+        "date": "2009-04-15"
+      }
+    ],
+    "profile_text": "城市她的设计这些报告她的有些需要这是一样项目."
+  },
+  {
+    "user_id": "U338048",
+    "region_id": 33,
+    "region_name": "香港",
+    "monthly_online_hours": 17.77,
+    "is_3g_user": true,
+    "terminal_type": "手机",
+    "net_package": "学生套餐",
+    "recent_activities": [
+      {
+        "activity": "社交",
+        "date": "2009-02-08"
+      },
+      {
+        "activity": "视频",
+        "date": "2009-03-11"
+      },
+      {
+        "activity": "视频",
+        "date": "2009-05-02"
+      }
+    ],
+    "profile_text": "继续帖子安全生活用户提高今年管理地方介绍那些."
+  },
+  {
+    "user_id": "U348430",
+    "region_id": 34,
+    "region_name": "台湾",
+    "monthly_online_hours": 13.78,
+    "is_3g_user": true,
+    "terminal_type": "手机",
+    "net_package": "高级套餐",
+    "recent_activities": [
+      {
+        "activity": "游戏",
+        "date": "2009-04-10"
+      },
+      {
+        "activity": "社交",
+        "date": "2009-03-26"
+      }
+    ],
+    "profile_text": "品牌经济类别评论一起本站关于次数地址那么点击软件管理更新同时."
+  },
+  {
+    "user_id": "U348770",
+    "region_id": 34,
+    "region_name": "台湾",
+    "monthly_online_hours": 12.87,
+    "is_3g_user": true,
+    "terminal_type": "手机",
+    "net_package": "基础套餐",
+    "recent_activities": [
+      {
+        "activity": "游戏",
+        "date": "2009-06-05"
+      },
+      {
+        "activity": "邮件",
+        "date": "2009-05-27"
+      }
+    ],
+    "profile_text": "音乐软件应用语言解决深圳什么功能."
+  },
+  {
+    "user_id": "U346400",
+    "region_id": 34,
+    "region_name": "台湾",
+    "monthly_online_hours": 13.36,
+    "is_3g_user": true,
+    "terminal_type": "智能电视",
+    "net_package": "高级套餐",
+    "recent_activities": [
+      {
+        "activity": "网购",
+        "date": "2009-03-13"
+      },
+      {
+        "activity": "邮件",
+        "date": "2009-04-17"
+      },
+      {
+        "activity": "游戏",
+        "date": "2009-04-11"
+      }
+    ],
+    "profile_text": "留言还是各种有关我们系统大家威望发生因此由于方式功能这样."
+  }
+]

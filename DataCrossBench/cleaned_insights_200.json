@@ -1,0 +1,4148 @@
+[
+    {
+        "goal": "探讨拼多多在下沉市场的成功渗透对其用户增长的贡献。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 拼多多2017-2023年收入CAGR达128%，表明其收入增长速度远超行业平均水平。",
+            "Comparison: 截至2023年，拼多多的Non-GAAP净利率为27.4%，高于行业平均水平，显示出其盈利能力的优势。",
+            "Extreme: Temu截至2023年12月独立用户数量已达4.67亿，显示出其在国际市场的快速扩张。",
+            "Attribution: 由于高税收，销售额下降的现象在行业竞争激烈的背景下愈发明显，影响了拼多多的广告收入增速。"
+        ],
+        "summary": "本报告深入分析了拼多多自2015年成立以来的快速成长历程，探讨了其低价优势、组织效率及出海策略，并提供了对未来发展的投资建议和风险提示。",
+        "flag_id": "flag-151",
+        "classifier": "Internet Firms",
+        "classifier_cn": "互联网公司研究",
+        "input_files": [
+            "output/business_background.txt",
+            "output/coupon_vs_ad_click.png",
+            "output/dimension_data.db",
+            "output/order_quantity_vs_age.png",
+            "output/orders_fact.csv",
+            "output/total_amount_by_product.png",
+            "output/user_profiles.json",
+            "output/user_type_vs_order_status.png"
+        ]
+    },
+    {
+        "goal": "分析2013年中国网站数量增长率19.4%的原因。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 截至2013年12月，中国网站数量达到320万个，全年增长率为19.4%。",
+            "Comparison: 广东网站数量占网站总数比例为16.7%，北京为13.7%，显示出东部地区在互联网发展中的领先地位。",
+            "Extreme: 截至2013年12月，中国域名总数为1844万个，其中.CN域名数量为1083万，占比58.7%。",
+            "Attribution: 由于国家政策支持，互联网在整体经济社会的地位得到提升，推动了各类互联网应用的发展。"
+        ],
+        "summary": "本报告分析了中国互联网基础资源的增长情况，包括域名、网站数量及其分布，强调了移动互联网和社交应用的快速发展对整体互联网生态的影响。",
+        "flag_id": "flag-194",
+        "classifier": "Internet Dev.",
+        "classifier_cn": "互联网发展",
+        "input_files": [
+            "output/business_background.txt",
+            "output/distribution_of_growth_rate.png",
+            "output/growth_rate_vs_total_websites.png",
+            "output/guangdong_vs_beijing_percentage.png",
+            "output/policy_dimension.db",
+            "output/total_domains_vs_cn_domains.png",
+            "output/user_profiles.json",
+            "output/website_statistics_fact.csv"
+        ]
+    },
+    {
+        "goal": "比较美国与英国在金融科技监管环境下对企业运营的不同影响及其原因。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 金融科技公司计划在未来五年内投资通用用户身份科技，96%的公司对此表示支持，反映出对数据隐私的重视。",
+            "Comparison: 新加坡金融管理局加强金融科技的安全和保障，与其他国家的监管措施形成对比。",
+            "Extreme: 全球86%的中央银行正在研究或试点实施CBDC，反映出各国对数字货币的重视程度。",
+            "Attribution: 监管机构正利用现有的监管和监督权力来应对当前和新兴的风险，促使金融科技公司加强合规性和透明度。"
+        ],
+        "summary": "本报告探讨了金融科技公司在复杂的监管环境中如何应对挑战，强调了合规性、数据安全和客户信任的重要性。",
+        "flag_id": "flag-32",
+        "classifier": "FinTech",
+        "classifier_cn": "金融科技",
+        "input_files": [
+            "output/business_background.txt",
+            "output/company_services.json",
+            "output/compliance_reports.csv",
+            "output/compliance_score_distribution.png",
+            "output/compliance_scores_by_agency.png",
+            "output/dimension_data.db",
+            "output/investment_vs_privacy.png",
+            "output/low_compliance_risk_count.png"
+        ]
+    },
+    {
+        "goal": "比较稳健组合与科创板组合的表现差异，探讨其背后的原因及未来投资策略。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 2024年度投资策略聚焦于医药结构性行情，聚焦“创新+出海、复苏后半程、中特估”三条主线。",
+            "Comparison: 稳健组合与科创板组合的表现差异，前者下跌3.0%，后者小幅上涨0.3%。",
+            "Extreme: 医药生物指数涨幅为-2.13%，显示出行业整体的低迷状态。",
+            "Attribution: 由于AI促进医疗器械创新，降本增效成果显著，未来将成为重点发展领域。"
+        ],
+        "summary": "尽管医药行业面临下行压力，但AI医疗和创新药物的投资热情为行业带来了新的机遇。未来的投资策略应聚焦于结构性机会和创新产品。",
+        "flag_id": "flag-60",
+        "classifier": "Fund Analysis",
+        "classifier_cn": "基金分析",
+        "input_files": [
+            "output/business_background.txt",
+            "output/expected_return_distribution.png",
+            "output/index_change_by_industry.png",
+            "output/industry_analysis.json",
+            "output/investment_dimension.db",
+            "output/key_insights_count.png",
+            "output/performance_comparison.csv",
+            "output/performance_comparison.png"
+        ]
+    },
+    {
+        "goal": "比较美团和腾讯在2025Q2的收入增长差异，探讨影响因素。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 快手预计25-26年收入为1419/1568亿元，同增11.8%/10.5%，显示出其持续增长的趋势。",
+            "Comparison: 横店影视的合理价值为19.15元，而芒果超媒的合理价值为31.44元，后者的市场表现更为强劲。",
+            "Extreme: 2025年9月7日至9月13日的票房累计为2.59亿元，环比减少46.63%，显示出市场的波动性。",
+            "Attribution: 由于高税收，销售额下降，影响了多个公司的财务表现，尤其是在广告和互联网服务领域。"
+        ],
+        "summary": "本报告分析了互联网传媒行业的投资策略，指出了行业内的投资机会与风险，并提供了对多个公司的财务表现和市场动态的深入分析。",
+        "flag_id": "flag-19",
+        "classifier": "Internet Firms",
+        "classifier_cn": "互联网公司研究",
+        "input_files": [
+            "output/business_background.txt",
+            "output/database.db",
+            "output/facts_data.csv",
+            "output/profit_margin_distribution.png",
+            "output/sales_by_market_segment.png",
+            "output/sales_trend_over_time.png",
+            "output/sales_vs_ad_spend.png",
+            "output/user_profiles.json"
+        ]
+    },
+    {
+        "goal": "评估ReelShort在短剧出海市场领先地位的因素及其对行业的影响。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 2023年Q1-Q3上新微短剧705部，较2022年上新数454部增长显著，表明短剧创作活跃度提升。",
+            "Comparison: DramaBox在美国市场的营收贡献占总营收的49%，与FlexTV在泰国市场的表现形成对比，后者下载量维持在Top 50内。",
+            "Extreme: ReelShort的下载量环比增长97.5%，显示出其在短剧市场的快速崛起。",
+            "Attribution: 由于短剧的投流成本高，下游分发方盈利空间较大，促使各平台依据自身特点进行特色化营销投放。"
+        ],
+        "summary": "本报告分析了短剧出海的趋势、市场竞争格局及政策环境，指出短剧出海已成为行业必然选择，面临语言文化差异和版权保护等风险，同时海外市场潜力巨大。",
+        "flag_id": "flag-152",
+        "classifier": "Short-form Drama",
+        "classifier_cn": "短剧/微短剧内容",
+        "input_files": [
+            "output/business_background.txt",
+            "output/correlation_heatmap.png",
+            "output/dimension_tables.db",
+            "output/download_volume_by_market.png",
+            "output/fact_table.csv",
+            "output/profit_vs_cost.png",
+            "output/roi_distribution.png",
+            "output/user_profiles.json"
+        ]
+    },
+    {
+        "goal": "分析湘财股份实业板块收入下降24%的原因及其对整体盈利能力的影响。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 湘财股份的营业总收入预计在2025年达到27.29亿元，2026年30.26亿元，2027年33.07亿元，显示出持续增长的趋势。",
+            "Comparison: 湘财证券的经纪业务收入在2024年为5.29亿元，占比32%，而实业板块收入仅为4.36亿元，占比21%。",
+            "Extreme: 2024年湘财股份的实业板块收入下降幅度达到24.45%，是其各业务板块中下降最为显著的。",
+            "Attribution: 湘财股份的业绩下滑主要是由于实业板块收入下降和未决诉讼预计负债计提影响，归母净利润的下降与湘财证券持有的金融资产公允价值下降直接相关。"
+        ],
+        "summary": "湘财股份计划收购大智慧以提升盈利能力，预计未来几年的营业收入和净利润将显著增长，但面临实业板块收入下降的挑战。",
+        "flag_id": "flag-119",
+        "classifier": "Fund Analysis",
+        "classifier_cn": "基金分析",
+        "input_files": [
+            "output/business_background.txt",
+            "output/dimension_data.db",
+            "output/investor_type_vs_success_rate.png",
+            "output/success_rate_by_trade_type.png",
+            "output/trade_amount_distribution.png",
+            "output/trade_amount_vs_fee.png",
+            "output/transaction_fact.csv",
+            "output/user_profiles.json"
+        ]
+    },
+    {
+        "goal": "研究宽带上网用户增长速度远高于拨号上网用户的原因，评估用户对上网方式的偏好变化。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 拨号上网用户人数增长率为9.2%，显示出传统上网方式的增长速度明显低于宽带用户。",
+            "Comparison: 香港的网民人数为288万，占对应总体641万中的45%，与中国大陆的互联网普及率相比仍有差距。",
+            "Extreme: 宽带上网用户人数1740万，显示出宽带接入的快速增长。",
+            "Attribution: 由于国家主管部门的支持，互联网统计工作得以顺利进行，推动了数据的准确性和及时性。"
+        ],
+        "summary": "本报告分析了中国互联网的快速发展，特别是用户增长、上网方式的变化以及各地区的互联网普及情况，揭示了未来发展的潜力和挑战。",
+        "flag_id": "flag-166",
+        "classifier": "Internet Dev.",
+        "classifier_cn": "互联网发展",
+        "input_files": [
+            "output/background_description.txt",
+            "output/government_support_dimension.db",
+            "output/growth_rate_vs_connection_speed.png",
+            "output/internet_users_fact.csv",
+            "output/total_users_by_region.png",
+            "output/user_count_by_growth_category.png",
+            "output/user_profiles.json",
+            "output/user_type_growth_rate.png"
+        ]
+    },
+    {
+        "goal": "分析医药行业中药饮片跌幅的原因及其市场影响。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 医药（中信）指数自2025年以来累计涨幅3.9%，显示出行业的持续增长。",
+            "Comparison: 医疗服务涨幅居前，CXO涨幅为+9.2%，显示出医疗服务领域的强劲表现。",
+            "Extreme: 维亚生物涨幅为+20.5%，是本周表现最好的个股之一。",
+            "Attribution: 由于高税收，销售额下降，影响了部分企业的业绩表现。"
+        ],
+        "summary": "本周医药行业表现良好，医药指数上涨，成交额占比上升，板块估值提高，提供了多项投资建议。",
+        "flag_id": "flag-70",
+        "classifier": "Fund Analysis",
+        "classifier_cn": "基金分析",
+        "input_files": [
+            "output/company_profiles.json",
+            "output/correlation_heatmap.png",
+            "output/industry_background.txt",
+            "output/performance_vs_sales.png",
+            "output/pharma_dimension.db",
+            "output/pharma_fact.csv",
+            "output/sales_distribution.png",
+            "output/taxes_by_category.png"
+        ]
+    },
+    {
+        "goal": "评估厉骞的管理策略对华商丰利增强基金业绩的影响，特别是在行业轮动和可转债投资方面的成功案例。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 自厉骞接管以来，华商丰利增强累计收益达到120.18%，年化收益为35.94%，显示出持续的业绩增长趋势。",
+            "Comparison: 华商丰利增强基金的年化超额收益近30%，显著高于同类基金同期收益16.22%。",
+            "Extreme: 在持仓的转债中，石英转债的期间收益率高达473.47%，显示出极高的投资回报。",
+            "Attribution: 由于行业轮动节奏加快，华商丰利增强基金通过适当参与股票投资，追求稳定收益的同时，获得超过业绩比较基准的收益。"
+        ],
+        "summary": "华商丰利增强基金在过去三年中表现优异，连续获得同类业绩冠军，尤其在可转债领域展现出强大的收益获取能力和行业配置策略。",
+        "flag_id": "flag-78",
+        "classifier": "Fund Analysis",
+        "classifier_cn": "基金分析",
+        "input_files": [
+            "output/annualized_vs_excess.png",
+            "output/benchmark_vs_annualized.png",
+            "output/business_background.txt",
+            "output/cumulative_return_distribution.png",
+            "output/experience_vs_annualized.png",
+            "output/fund_dimension.db",
+            "output/fund_performance.csv",
+            "output/manager_profiles.json"
+        ]
+    },
+    {
+        "goal": "评估政策变化对短剧行业投资风险的影响。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 短剧行业的CAGR达23.0%，表明行业整体增长势头强劲。",
+            "Comparison: 抖音和快手短剧的用户重合率为33.2%，显示出两者在短剧市场的竞争关系。",
+            "Extreme: 短剧制作周期为2-3个月，显示出短剧行业的快速反应能力和市场适应性。",
+            "Attribution: 由于短剧小程序的去中心化特征，尚未纳入广电部门的监管，导致市场竞争加剧，投资者需关注政策变化带来的风险。"
+        ],
+        "summary": "短剧行业的快速发展为投资者提供了丰富的机会，但同时也伴随着政策风险和市场竞争的挑战。短剧APP的兴起和小程序的转型是未来发展的关键。",
+        "flag_id": "flag-40",
+        "classifier": "Short-form Drama",
+        "classifier_cn": "短剧/微短剧内容",
+        "input_files": [
+            "output/CAGR_vs_User_Overlap_Rate.png",
+            "output/Production_Cycle_Distribution.png",
+            "output/Team_Size_vs_Investment_Amount.png",
+            "output/User_Watch_Hours_Boxplot.png",
+            "output/business_background.txt",
+            "output/short_drama_dimension.db",
+            "output/short_drama_fact.csv",
+            "output/user_watch_logs.json"
+        ]
+    },
+    {
+        "goal": "分析腾讯营业收入在2022年至2026年间的年均增长率及其驱动因素。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 2022年至2026年，腾讯的营业收入预计将从5545.52亿元增长至7648.50亿元，年均增长率显著。",
+            "Comparison: 腾讯的市盈率（PE）预计将从2022年的32.9下降至2026年的14.1，表明市场对其未来增长的信心增强。",
+            "Extreme: 2023年腾讯的营业收入达到2377.6亿元，同比增长56.5%，显示出其在市场中的强劲表现。",
+            "Attribution: 腾讯的营收增长与其在移动互联网流量高速增长背景下的业务扩展密切相关，尤其是在视频和音乐领域的投资。"
+        ],
+        "summary": "腾讯的财务数据表明其在未来几年的营收和净利润将持续增长，反映出公司在市场中的强大竞争力和良好的投资价值。",
+        "flag_id": "flag-104",
+        "classifier": "Internet Firms",
+        "classifier_cn": "互联网公司研究",
+        "input_files": [
+            "output/pe_ratio_distribution.png",
+            "output/revenue_by_investment_focus.png",
+            "output/revenue_growth_rate_over_years.png",
+            "output/revenue_vs_net_profit.png",
+            "output/tencent_background.txt",
+            "output/tencent_financials_facts.csv",
+            "output/tencent_investment_dimension.db",
+            "output/tencent_user_profiles.json"
+        ]
+    },
+    {
+        "goal": "分析华富强化回报基金在2014年至2015年期间收益增长的驱动因素。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 自2015年以来，华富强化回报基金在市场波动中逐步调整资产配置，2019年实现收益11.94%，2020年实现收益9.40%。",
+            "Comparison: 华富强化回报基金在2019年和2020年分别实现收益11.94%和9.40%，显示出其在不同市场环境中的稳定表现。",
+            "Extreme: 2014年Q4，华富强化回报基金实现最高收益15.85%，而2015年Q2的收益为最低5.66%。",
+            "Attribution: 华富强化回报基金的稳定收益与尹培俊在市场变局中的及时资产配置调整密切相关，尤其是在2015年股市泡沫化过程中，成功降低了转债和股票仓位。"
+        ],
+        "summary": "本报告总结了华富基金尹培俊的资产配置理念及其在不同市场环境中的表现，强调了其长期稳定的业绩和风险控制能力。",
+        "flag_id": "flag-88",
+        "classifier": "Fund Analysis",
+        "classifier_cn": "基金分析",
+        "input_files": [
+            "output/annual_return_trend.png",
+            "output/fund_background.txt",
+            "output/fund_dimension.db",
+            "output/fund_performance.csv",
+            "output/fund_profiles.json",
+            "output/fund_return_distribution.png",
+            "output/return_by_manager.png",
+            "output/return_vs_stocks_allocation.png"
+        ]
+    },
+    {
+        "goal": "评估Meta电商平台在社交互动与用户体验结合方面的市场定位与传统电商的竞争力。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: Meta的电商手续费率为2.90%，与Paypal的3.49%相比较具竞争力，显示出其在电商领域的定价策略。",
+            "Comparison: Meta的电商平台与传统电商相比，强调社交互动和用户体验的结合，形成了独特的市场定位。",
+            "Extreme: Meta的电商业务在2024年4月24日后将不再支持没有开通站内结账功能的Shop，显示出其对平台质量的严格把控。",
+            "Attribution: Meta的电商策略需要考虑广告流量与Shop流量之间的平衡，以实现盈利目标。"
+        ],
+        "summary": "本报告探讨了Meta在社交电商领域的进展及其与传统电商的不同之处，分析了未来发展的制约因素。",
+        "flag_id": "flag-24",
+        "classifier": "Internet Firms",
+        "classifier_cn": "互联网公司研究",
+        "input_files": [
+            "output/business_background.txt",
+            "output/dimensions.db",
+            "output/order_amount_by_gender.png",
+            "output/order_amount_vs_discount_rate.png",
+            "output/order_amount_vs_quantity.png",
+            "output/order_count_by_category.png",
+            "output/orders_fact.csv",
+            "output/user_profiles.json"
+        ]
+    },
+    {
+        "goal": "探讨短剧行业面临的题材单一和盈利模式单一的挑战，并评估多元化发展策略的可行性。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 2023年短剧的备案量实现理性增长，备案部数同比上涨9%。",
+            "Comparison: 短剧在长视频平台的有效播放增长中占据主要地位，成为内容品类的重要组成部分。"
+        ],
+        "summary": "尽管短剧行业在2023年取得了显著的成就，但仍面临题材单一和盈利模式单一等挑战，未来需通过多元化发展来实现可持续增长。",
+        "flag_id": "flag-148",
+        "classifier": "Short-form Drama",
+        "classifier_cn": "短剧/微短剧内容",
+        "input_files": [
+            "output/business_background.txt",
+            "output/finished_vs_not_finished.png",
+            "output/play_count_over_time.png",
+            "output/shortdrama_dim.db",
+            "output/shortdrama_fact.csv",
+            "output/user_profiles.json",
+            "output/user_score_by_genre.png",
+            "output/watch_duration_distribution.png"
+        ]
+    },
+    {
+        "goal": "比较城乡地区互联网普及率的差异及其对用户行为的影响。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 手机上网用户占比由2014年的85.8%提升至88.9%，显示出移动互联网的快速增长。",
+            "Comparison: 手机网络购物用户规模达到2.70亿，显示出手机购物市场的快速增长，增速是整体网络购物市场的4.1倍。",
+            "Extreme: 截至2015年6月，网上炒股的用户规模达到5628万，较去年增长了47.4%。",
+            "Attribution: 网络购物市场的繁荣与宏观政策、经济、社会、技术环境良好密切相关，政府的“互联网+”政策促进了网络购物的快速发展。"
+        ],
+        "summary": "本报告总结了中国互联网在用户规模、移动互联网应用、网络购物及社交媒体等方面的发展趋势，揭示了政策、技术和市场环境对互联网行业的影响。",
+        "flag_id": "flag-198",
+        "classifier": "Internet Dev.",
+        "classifier_cn": "互联网发展",
+        "input_files": [
+            "output/business_background.txt",
+            "output/gender_distribution.png",
+            "output/internet_penetration_rate_by_region.png",
+            "output/internet_user_statistics.csv",
+            "output/mobile_internet_user_percentage.png",
+            "output/online_shopping_users.png",
+            "output/urban_rural_internet_penetration.db",
+            "output/user_profiles.json"
+        ]
+    },
+    {
+        "goal": "比较中国与全球医疗保健市场的增长速度，分析其背后的驱动因素。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 全球人工智能解决方案市场预计到2030年将达到14,142亿美元，年复合增长率为34.0%。",
+            "Comparison: 医疗保健市场规模的增长速度（CAGR 35.5%）高于农业（CAGR 34.0%）和美容及化妆品市场（CAGR 34.0%）。",
+            "Extreme: 整体药物研发成功率仅为12.9%，显示出药物研发的高风险性。",
+            "Attribution: 全球药品市场的增长与人口老龄化和经济发展密切相关，推动了对药品的需求上升。"
+        ],
+        "summary": "本报告分析了AI技术在医药生物行业的应用，特别是在药物研发中的重要性和市场增长潜力，强调了AI技术推动产业数字化转型的趋势。",
+        "flag_id": "flag-64",
+        "classifier": "AI Healthcare",
+        "classifier_cn": "AI 医疗健康",
+        "input_files": [
+            "output/background.txt",
+            "output/china_global_growth_comparison.png",
+            "output/china_growth_rate_outliers.png",
+            "output/dimension_data.db",
+            "output/growth_rate_trends.png",
+            "output/market_growth.csv",
+            "output/market_growth_cagr_distribution.png",
+            "output/nested_details.json"
+        ]
+    },
+    {
+        "goal": "比较不同职业用户在互联网使用中的占比，探讨技术行业的主导地位。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 根据第3页数据，家庭人均月收入400元-1000元的用户占比达到39.9%，表明中低收入群体是互联网用户的主要来源。",
+            "Comparison: 第3页的职业分布显示，计算机业职业占比18.8%，而教育职业占比仅7%，表明技术行业在互联网用户中占据重要地位。",
+            "Extreme: 第3页提到，88.9%的用户认为网上速度太慢，显示出这是用户体验中的一个极端问题。",
+            "Attribution: 第2页的问卷调查结果显示，用户对商业资讯和科技信息的需求高达67.2%和43.7%，这与第3页提到的用户对上网费用和速度的关注形成对比，表明用户希望在改善服务的同时获得更多信息。"
+        ],
+        "summary": "本报告总结了中国互联网在用户数量、上网方式、职业分布及用户需求等方面的发展趋势，揭示了互联网发展的障碍及用户对服务的期望。",
+        "flag_id": "flag-189",
+        "classifier": "Internet Dev.",
+        "classifier_cn": "互联网发展",
+        "input_files": [
+            "output/business_background.txt",
+            "output/dimension_data.db",
+            "output/gender_distribution.png",
+            "output/income_vs_fee.png",
+            "output/internet_usage_facts.csv",
+            "output/slow_speed_usage_hours.png",
+            "output/usage_hours_distribution.png",
+            "output/user_profiles.json"
+        ]
+    },
+    {
+        "goal": "分析深圳在微短剧产业中科技创新与政策支持的具体作用。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 深圳在科技赋能与出海浪潮中展现出独特优势，推动微短剧产业的快速发展。",
+            "Comparison: 深圳与京杭西深等地的政策扶持形成了不同的产业发展策略，推动了微短剧产业链的多样化。",
+            "Extreme: 深圳的区位优势和头部企业的支持推动了全球发行引擎的建设，成为行业的标杆。",
+            "Attribution: 深圳的成功与政策支持、技术创新和市场需求的结合密不可分，形成了良好的产业生态。"
+        ],
+        "summary": "深圳凭借其科技创新和政策支持，成为微短剧产业发展的重要基地，推动了产业的集聚与国际化进程。",
+        "flag_id": "flag-135",
+        "classifier": "Short-form Drama",
+        "classifier_cn": "短剧/微短剧内容",
+        "input_files": [
+            "output/avg_tech_innovation_by_city.png",
+            "output/boxplot_tech_innovation_by_policy.png",
+            "output/dimension_city.db",
+            "output/histogram_market_demand_index.png",
+            "output/industry_background.txt",
+            "output/micro_short_drama_fact.csv",
+            "output/policy_details.json",
+            "output/tech_innovation_vs_market_demand.png",
+            "output/user_profiles.json"
+        ]
+    },
+    {
+        "goal": "比较体外诊断与整体医药行业的表现差异，探讨其增长潜力的驱动因素。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 体外诊断在本周上涨1.5%，与整体行业表现形成鲜明对比，显示出特定子行业的增长潜力。",
+            "Comparison: 稳健组合下跌3.0%，科创板组合小幅上涨0.3%，表明市场对不同投资策略的反应不同。",
+            "Extreme: 长春高新（000661）期初收盘价128.3元，最新收盘价126.0元，涨跌幅-1.8%，显示出个别公司的波动情况。",
+            "Attribution: 由于多款产品将步入收获期，赛诺医疗业绩表现稳健，显示出市场对新产品的期待。"
+        ],
+        "summary": "本周医药行业整体表现不佳，医药生物指数下跌2.13%，但AI医疗投资热情再度点燃，未来有结构性机会。多个公司在新产品和股权激励的推动下展现出增长潜力。",
+        "flag_id": "flag-59",
+        "classifier": "AI Healthcare",
+        "classifier_cn": "AI 医疗健康",
+        "input_files": [
+            "output/average_weekly_change_by_sector.png",
+            "output/background.txt",
+            "output/dimension_data.db",
+            "output/distribution_initial_latest_prices.png",
+            "output/market_performance.csv",
+            "output/strategy_change_by_company.png",
+            "output/strategy_change_vs_initial_price.png",
+            "output/user_profiles.json"
+        ]
+    },
+    {
+        "goal": "分析招商证券信息技术人员占员工总数比例高的原因及其对公司业绩的影响。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 招商证券的信息技术人员占员工总数比例为16.3%，在所有券商中最高，显示出其对信息技术的重视。",
+            "Comparison: 中金公司在信息技术投入占营业收入比例方面最高，达到15.2%，而国信证券仅为5.9%。",
+            "Extreme: 中金公司信息技术投入占净利润比例最高，达到51.7%。",
+            "Attribution: 由于部分证券公司信息技术人员储备仍有不足，鼓励有条件的证券公司逐步提升信息科技专业人员比例至企业员工总数的7%。"
+        ],
+        "summary": "本报告分析了证券公司信息技术人员的配置情况，强调了人力资源在信息技术投入中的重要性。",
+        "flag_id": "flag-122",
+        "classifier": "Internet Firms",
+        "classifier_cn": "互联网公司研究",
+        "input_files": [
+            "output/it_investment_vs_net_profit.png",
+            "output/it_percentage_distribution.png",
+            "output/revenue_vs_net_profit.png",
+            "output/securities_background.txt",
+            "output/securities_dim.db",
+            "output/securities_facts.csv",
+            "output/securities_it_assets.json",
+            "output/total_vs_it_employees.png"
+        ]
+    },
+    {
+        "goal": "分析美团未来三年NON-GAAP净利润增长的驱动因素。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 预计2024年NON-GAAP净利润将达到375亿元，2025年将增长至534亿元，2026年达到689亿元，显示出净利润的持续增长。",
+            "Comparison: 美团与阿里巴巴、拼多多等可比公司相比，PE估值较高，显示出市场对美团未来增长的信心。",
+            "Extreme: 2023年美团的总市值为634,989.44百万港元，显示出其在市场中的强劲地位。",
+            "Attribution: 美团的盈利增长与消费恢复不及预期、业务协同进展不及预期等风险因素密切相关，需关注宏观经济环境的变化。"
+        ],
+        "summary": "本报告深入分析了美团未来三年的盈利预测，预计营收和净利润将持续增长，并维持“买入”评级。",
+        "flag_id": "flag-141",
+        "classifier": "Internet Firms",
+        "classifier_cn": "互联网公司研究",
+        "input_files": [
+            "output/average_spending_per_user.png",
+            "output/business_background.txt",
+            "output/dimension_data.db",
+            "output/discounted_price_vs_total_price.png",
+            "output/order_facts.csv",
+            "output/order_status_distribution.png",
+            "output/quantity_vs_total_price.png",
+            "output/user_profiles.json"
+        ]
+    },
+    {
+        "goal": "分析广电运通2024年前三季度归母净利润下降的具体原因。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 广电运通的营业收入从2022年的7526百万元增长到2024年的11002百万元，预计2026年将达到14897百万元，显示出稳定的增长趋势。",
+            "Comparison: 广电运通的流通市值为30,927.39百万元，显示出其在市场中的强劲地位，相较于同行业其他公司，广电运通的市盈率在2024年为28.1倍，明显低于可比公司平均65.7倍，显示出其估值吸引力。",
+            "Extreme: 2023年广电运通的海外业绩同比增长超50%，是其历史上最高的增长率之一。",
+            "Attribution: 归母净利润的下降与2024年前三季度的高销售费用和管理费用有关，尽管营业收入增长，但成本控制未能同步改善。"
+        ],
+        "summary": "广电运通在金融科技和城市智能领域表现出色，预计未来三年将持续增长，尤其是在海外市场和人工智能应用方面。尽管面临一些短期利润压力，但整体业务结构良好，投资评级维持在增持水平。",
+        "flag_id": "flag-54",
+        "classifier": "FinTech",
+        "classifier_cn": "金融科技",
+        "input_files": [
+            "output/background.txt",
+            "output/dimension_data.db",
+            "output/expense_rate_correlation.png",
+            "output/net_profit_vs_revenue.png",
+            "output/pe_ratio_distribution.png",
+            "output/revenue_distribution.png",
+            "output/transaction_fact.csv",
+            "output/user_profiles.json"
+        ]
+    },
+    {
+        "goal": "比较南方上海金ETF与普通黄金ETF的回报中位数差异对投资者决策的影响。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 沪金主力合约突破530元/克，累计涨幅15.6%。",
+            "Comparison: 南方上海金ETF的年化夏普比率为1.47，优于普通黄金ETF的1.31。",
+            "Extreme: 2024年Q1南方上海金ETF的份额增幅为26%，为同类产品中最高。",
+            "Attribution: 在去美元化趋势下，全球央行对黄金的配置需求持续增加，进一步提升了黄金的投资价值。"
+        ],
+        "summary": "黄金市场在不确定性中展现出强大的避险特性，金价突破历史高位的原因包括地缘政治风险和美联储的政策变化。投资者应关注黄金ETF的便捷性和成本效益。",
+        "flag_id": "flag-96",
+        "classifier": "Fund Analysis",
+        "classifier_cn": "基金分析",
+        "input_files": [
+            "output/background.txt",
+            "output/dimension_data.db",
+            "output/etf_performance.png",
+            "output/gold_market_payloads.json",
+            "output/gold_market_trends.csv",
+            "output/gold_price_trend.png",
+            "output/sharpe_ratio_distribution.png",
+            "output/volatility_vs_sharpe.png"
+        ]
+    },
+    {
+        "goal": "分析自2015年以来中国金融科技专利申请量快速增加的原因及其对行业发展的影响。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 自2015年以来，中国金融科技专利申请量快速增加，目前年度专利申请量已赶超美国，进入全球金融科技第一方阵。",
+            "Comparison: 中国在申请量上位列全球第二，但投权率低于全球平均水平，专利投权率为28.98%，全球平均为36.36%。",
+            "Extreme: 中国金融科技领域已公开专利申请约40万件，其中中国专利申请量为81,265件，全球占比20.66%。",
+            "Attribution: 金融科技的发展，始终围绕服务实体经济、改善民生的初心，政策推动是金融科技创新的重要因素。"
+        ],
+        "summary": "本报告分析了中国金融科技领域的专利技术发展现状，强调了政策推动、技术创新和区域差异对行业发展的重要影响。",
+        "flag_id": "flag-3",
+        "classifier": "FinTech",
+        "classifier_cn": "金融科技",
+        "input_files": [
+            "output/analysis_background.txt",
+            "output/annual_patent_application_trend.png",
+            "output/dimension_data.db",
+            "output/fintech_patent_facts.csv",
+            "output/fintech_patent_inventors.json",
+            "output/patent_application_by_policy.png",
+            "output/patent_application_by_type.png",
+            "output/patent_application_vs_complexity.png"
+        ]
+    },
+    {
+        "goal": "评估微短剧市场规模增长对整体短视频行业的影响，特别是与传统视频平台的比较。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 红果短剧APP月活跃用户达到1.58亿，同比增长551%，显示出短剧行业的快速发展。",
+            "Comparison: 腾讯视频（3.87亿）和爱奇艺（3.54亿）仍然是短视频平台的领导者，但红果短剧的增长速度更快。",
+            "Extreme: 2024年微短剧市场规模的同比增长率为35.1%，显示出行业的强劲增长势头。",
+            "Attribution: 红果短剧APP的成功归因于其创新的内容和强大的用户增长策略。"
+        ],
+        "summary": "2024年短剧行业经历了显著的市场增长，微短剧成为行业的主要赢家，用户规模和市场规模均大幅提升，同时红果短剧APP的用户增长表现突出。",
+        "flag_id": "flag-153",
+        "classifier": "Short-form Drama",
+        "classifier_cn": "短剧/微短剧内容",
+        "input_files": [
+            "output/app_usage.png",
+            "output/business_background.txt",
+            "output/dimension_data.db",
+            "output/growth_rate_by_promo.png",
+            "output/monthly_active_users.png",
+            "output/user_activity_fact.csv",
+            "output/user_age_distribution.png",
+            "output/user_profiles.json"
+        ]
+    },
+    {
+        "goal": "分析2022年和2023年AI医疗健康与生命科学领域风险投资交易总值下降的原因。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 自2020年以来，AI驱动的医疗健康与生命科学领域的风险投资活动显著增长，2021年达到220亿美元的峰值，但2022年和2023年交易总值分别下降至165亿美元和101亿美元。",
+            "Comparison: 生物技术领域在192笔交易中筹集了4.9亿美元，医疗技术领域在242笔交易中筹集了2.2亿美元，而健康技术领域在252笔交易中筹集了3.3亿美元，显示出生物技术的投资热度最高。",
+            "Extreme: 2021年医疗风险投资退出总值达到24.3亿美元，涉及52笔退出，显示出当年市场的活跃程度。",
+            "Attribution: 风险投资活动的激增与数据驱动的治疗、诊断和数字健康平台的突破密切相关，尤其是在2021年。"
+        ],
+        "summary": "本报告分析了2025年AI在医疗健康与生命科学领域的风险投资趋势，强调了投资活动的变化、市场机会以及面临的挑战。",
+        "flag_id": "flag-28",
+        "classifier": "AI Healthcare",
+        "classifier_cn": "AI 医疗健康",
+        "input_files": [
+            "output/average_investment_by_sector.png",
+            "output/business_background.txt",
+            "output/distribution_of_total_investment.png",
+            "output/investment_activity.csv",
+            "output/investment_dimensions.db",
+            "output/investment_payloads.json",
+            "output/total_investment_over_time.png",
+            "output/total_investment_vs_number_of_deals.png"
+        ]
+    },
+    {
+        "goal": "比较北京市与郑州市在微短剧传播能力上的差异及其影响因素。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 社媒传播指数在2025年各季度稳步提升，Q3达到全年峰值771.28，表明微短剧在社交媒体上的影响力不断增强。",
+            "Comparison: 郑州、北京和武汉在微短剧传播方面表现强势，郑州市排名94.8，显示出其在传播能力上的优势。",
+            "Extreme: 郑州市短剧话题播放量超过8000万，显示出其在传播方面的强劲表现。",
+            "Attribution: 郑州的传播优势得益于其短剧市场的活跃度和政府的支持政策。"
+        ],
+        "summary": "本报告探讨了2025年中国微短剧的出海实力和传播能力，强调了北京和深圳在出海市场的主导地位，以及郑州在传播方面的强势表现。",
+        "flag_id": "flag-63",
+        "classifier": "Short-form Drama",
+        "classifier_cn": "短剧/微短剧内容",
+        "input_files": [
+            "output/barplot_view_count_by_government_support.png",
+            "output/boxplot_view_count_by_city.png",
+            "output/business_background.txt",
+            "output/city_comparison.db",
+            "output/microshortdrama_compositeinfo.json",
+            "output/microshortdrama_fact.csv",
+            "output/scatter_ranking_vs_strength.png",
+            "output/scatter_view_count_vs_social_media_index.png"
+        ]
+    },
+    {
+        "goal": "探讨全面注册制实施对券商差异化发展格局的影响。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 2023年上半年，市场交投活跃度回暖，日均股基成交额预计稳定在万亿水平，反映出市场情绪的改善。",
+            "Comparison: 2023H1上市券商合计实现营业收入1,377亿元，同比增长37%，显示出券商在市场回暖中的表现优于整体市场。",
+            "Extreme: 2023H1 IPO募资规模同比下降16%，显示出市场在新股发行方面的低迷。",
+            "Attribution: 市场交投情绪升温将支撑券商23H1业绩同比改善，尽管2023Q2自营业务收入可能出现环比下滑。"
+        ],
+        "summary": "本报告分析了科技金融及券商行业的中期策略，强调业绩修复的确定性和行业变革的引领作用，结合政策变化与市场动态，展望未来发展趋势。",
+        "flag_id": "flag-158",
+        "classifier": "Fund Analysis",
+        "classifier_cn": "基金分析",
+        "input_files": [
+            "output/average_daily_trading_volume_vs_broker_revenue.png",
+            "output/background.txt",
+            "output/broker_performance.db",
+            "output/broker_performance_growth_rate_distribution.png",
+            "output/broker_profiles.json",
+            "output/market_activity.csv",
+            "output/market_sentiment_vs_average_daily_trading_volume.png",
+            "output/mean_broker_revenue_over_time.png"
+        ]
+    },
+    {
+        "goal": "分析2009年上半年中国网民规模增长的主要驱动因素。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 截至2009年6月，中国网民规模达到3.38亿人，较2008年底增长4000万人，半年增长率为13.4%。",
+            "Comparison: 北京的互联网用户数量为3,839,778，占比23.6%，而甘肃仅有32,322，占比0.2%。",
+            "Extreme: 截至2009年6月，中国的宽带网民规模为3.2亿人，占网民总体的94.3%，显示出宽带接入的普及。",
+            "Attribution: 网民规模的快速增长得益于政策支持和技术进步，尤其是3G技术的推广使得手机上网更加便利。"
+        ],
+        "summary": "本报告总结了中国互联网在2009年上半年的发展状况，涵盖了网民规模、上网行为、网络安全及电子商务等多个方面，揭示了互联网的快速增长与面临的挑战。",
+        "flag_id": "flag-178",
+        "classifier": "Internet Dev.",
+        "classifier_cn": "互联网发展",
+        "input_files": [
+            "output/background.txt",
+            "output/broadband_users_vs_total_users.png",
+            "output/distribution_of_monthly_online_hours.png",
+            "output/internet_users_dim.db",
+            "output/percentage_of_total_users_by_region.png",
+            "output/regional_internet_users.csv",
+            "output/user_count_by_region.png",
+            "output/user_profiles.json"
+        ]
+    },
+    {
+        "goal": "比较男性和女性网民数量增长的原因及其对市场的潜在影响。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 用户平均每周收到电子邮件数为5.2封，显示出电子邮件使用的稳定性。",
+            "Comparison: 男性网民数量增长将多于女性，未来半年内性别结构变化不大。",
+            "Extreme: 网络游戏用户半年内购买的虚拟物品平均费用总额为178元，显示出网络游戏消费的活跃。",
+            "Attribution: 随着网络技术的发展，宽带上网逐渐取代拨号上网，改变了用户的上网习惯。"
+        ],
+        "summary": "本报告分析了中国网民的上网行为、目的及其对互联网服务的满意度，揭示了用户在使用互联网时的偏好和需求。",
+        "flag_id": "flag-171",
+        "classifier": "Internet Dev.",
+        "classifier_cn": "互联网发展",
+        "input_files": [
+            "output/internet_usage_background.txt",
+            "output/online_game_expenditure.json",
+            "output/user_email_usage.png",
+            "output/user_gender_dimension.db"
+        ]
+    },
+    {
+        "goal": "评估外部竞争加剧和监管风险对阿里集团业务增速放缓的具体影响。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 2021-2024年，阿里集团的组织优化阶段性完成，提升了整体的创新效率。",
+            "Comparison: 阿里巴巴的核心业务在整体营业收入中占比达到80%，显示出其多元化业务布局的成功。",
+            "Extreme: 2025年阿里巴巴的员工数量触底，反映出其在组织调整中的挑战与应对。",
+            "Attribution: 创始团队的回归提升了团队整体信心，理顺了思路，化解了集团内部的症结。"
+        ],
+        "summary": "本报告探讨了阿里巴巴在组织架构和人才战略上的变革，强调了其在AI时代的创新能力与市场适应性。",
+        "flag_id": "flag-35",
+        "classifier": "Internet Firms",
+        "classifier_cn": "互联网公司研究",
+        "input_files": [
+            "output/Alibaba_Organization_Changes.png",
+            "output/background.txt",
+            "output/department_dimension.db",
+            "output/department_profiles.json"
+        ]
+    },
+    {
+        "goal": "评估韩束品牌在抖音电商中与头部达人和腰肩部达人的合作效果对销售的影响。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 抖音电商护肤品行业在2021-2023年实现大规模增长，尤其在双十一和618大促期间，销售额达到全年高峰。",
+            "Comparison: 面部护肤在护肤品行业中占据88%的市场规模，显示出其相较于其他护肤品类别的绝对优势。",
+            "Extreme: 短剧视频曝光量在2023年2月开始大幅增长，并在618、七夕和双11期间达到高峰，显示出品牌营销策略的成功。",
+            "Attribution: 品牌在2023年降低了对头部达人的合作深度，加大了与腰肩部达人的合作力度，因其内容创作能力较强且性价比更高。"
+        ],
+        "summary": "本报告深入分析了韩束品牌在抖音电商中的市场表现，揭示了其成功的关键因素和未来的发展趋势。",
+        "flag_id": "flag-113",
+        "classifier": "Internet Dev.",
+        "classifier_cn": "互联网发展",
+        "input_files": [
+            "output/background.txt",
+            "output/dimension_data.db",
+            "output/sales_data.png",
+            "output/user_profiles.json"
+        ]
+    },
+    {
+        "goal": "分析北证50指数强劲回升的驱动因素，特别是政策扶持和审核效率提升的影响。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 北证50指数自底部反弹以来涨幅达145%，显示出强劲的市场复苏趋势。",
+            "Comparison: 北交所的成交金额在2023年10月仅占三市总成交额的0.1%，但在流动性复苏后迅速修复至2%。",
+            "Extreme: 北交所的成交额在2024年达到峰值占比3.65%，显示出市场活跃度的显著提升。",
+            "Attribution: 北交所的强势回归与政策扶持力度加大、审核效率提升密切相关，形成了“北京—上海—深圳”三足鼎立的资本市场格局。"
+        ],
+        "summary": "本报告探讨了北交所的市场表现及其在多层次资本市场中的角色，强调了北证50指数的强势回归及其投资机会。",
+        "flag_id": "flag-83",
+        "classifier": "Fund Analysis",
+        "classifier_cn": "基金分析",
+        "input_files": [
+            "output/background.txt",
+            "output/dimension_data.db",
+            "output/transactions.png",
+            "output/user_profiles.json"
+        ]
+    },
+    {
+        "goal": "研究二线城市O2O市场综合实力高于全国平均水平的因素及其未来发展潜力。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 2014年，团购用户规模达到1.73亿，较2013年底增加3200万人，增长率为22.7%。",
+            "Comparison: 二线城市O2O市场综合实力高于全国平均水平3.6分，显示出其市场潜力的提升。",
+            "Extreme: 2014年，手机团购用户规模达到1.19亿，增长率为45.7%。",
+            "Attribution: 由于互联网O2O商业模式的发展，越来越多的传统企业正在转向在线销售，推动了市场的快速发展。"
+        ],
+        "summary": "本报告分析了中国O2O市场的发展状况，探讨了不同城市的O2O用户渗透率及市场潜力，提供了相关的统计数据和趋势分析。",
+        "flag_id": "flag-196",
+        "classifier": "Internet Dev.",
+        "classifier_cn": "互联网发展",
+        "input_files": [
+            "output/background.txt",
+            "output/dimension_data.db",
+            "output/o2o_market_analysis.png",
+            "output/user_profiles.json"
+        ]
+    },
+    {
+        "goal": "分析政策变化对传媒行业投资决策的具体影响。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 预计未来1-2个季度政策变化将逐步见成效，反映出政策对行业的积极影响。",
+            "Comparison: 与2025年9月6日的票房数据相比，2025年暑期档电影票房表现出色，达到119.66亿元。",
+            "Extreme: 游族网络的转债赎回总金额为539,029.89元，显示出其在财务管理上的极端情况。",
+            "Attribution: 由于政策的风向变化，长视频平台的商业模式有望优化，推动相关公司的业绩提升。"
+        ],
+        "summary": "本报告分析了传媒行业的投资策略，强调政策变化和市场动态对投资决策的重要性。",
+        "flag_id": "flag-18",
+        "classifier": "Fund Analysis",
+        "classifier_cn": "基金分析",
+        "input_files": [
+            "output/business_background.txt",
+            "output/policies_dimension.db",
+            "output/policy_impact_analysis.png",
+            "output/user_profiles.json"
+        ]
+    },
+    {
+        "goal": "分析上证综指编制规则优化对市场表征准确性的具体影响。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 上证综指的编制规则优化于2020年6月19日和7月22日实施，旨在提升市场表征的准确性，反映出市场对规则优化的需求。",
+            "Comparison: 新上证综指的夏普比最高达到0.41，优于旧上证综指，表明其在风险调整后的收益表现更佳。",
+            "Extreme: 上证综指样本中包含85只风险警示股票，显示出市场中存在的潜在风险。",
+            "Attribution: 由于证券市场股票数量增多，基本面分化，导致指数编制方法有待优化，反映出市场对更高效编制规则的需求。"
+        ],
+        "summary": "本报告探讨了上证综指的编制规则优化及其对市场表征准确性的提升，分析了其投资价值及相关风险。",
+        "flag_id": "flag-108",
+        "classifier": "Fund Analysis",
+        "classifier_cn": "基金分析",
+        "input_files": [
+            "output/background.txt",
+            "output/company_profiles.json",
+            "output/dimension_data.db",
+            "output/zh_index_trades.png"
+        ]
+    },
+    {
+        "goal": "分析华商策略精选基金在2024年4月30日达到31.27%累计收益率的原因。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 华商策略精选基金在2024年4月30日的累计收益率达到31.27%，而沪深300收益率为-9.06%，显示出显著的超额收益。",
+            "Comparison: 华商策略精选基金的累计收益率为31.27%，而同期沪深300的收益率为-9.06%，显示出该基金在市场中的相对优势。",
+            "Extreme: 华商策略精选基金在2024年4月30日的累计收益率31.27%为其历史最高水平。",
+            "Attribution: 基金的优异表现与宽松的货币政策和疫情超预期发展的医药、日常消费等行业的强劲复苏密切相关。"
+        ],
+        "summary": "本报告分析了华商基金及其旗下华商策略精选基金的投资策略、市场表现及行业配置，强调了基金经理王毅文的长期持有理念和对市场变化的敏锐反应。",
+        "flag_id": "flag-90",
+        "classifier": "Fund Analysis",
+        "classifier_cn": "基金分析",
+        "input_files": [
+            "output/business_background.txt",
+            "output/dimension_data.db",
+            "output/fund_performance.png",
+            "output/user_profiles.json"
+        ]
+    },
+    {
+        "goal": "比较中美AI医疗投资中技术驱动型企业与消费应用型企业的市场表现差异。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 预计到2025年底，全国80%左右统筹区基本实现与定点医药机构的高效对接，表明政策推动下的行业整合趋势。",
+            "Comparison: 医药行业整体估值为27倍PE，相对沪深300的估值溢价率为122%，显示出中国市场的投资吸引力。",
+            "Extreme: 医药行业成交额5168亿元，占A股总成交额比例为5.4%，显示出行业的活跃度。",
+            "Attribution: 政策变化如医保政策的推进直接影响了行业的投资机会和企业的市场表现。"
+        ],
+        "summary": "本报告分析了中美在AI医疗领域的投资机会，强调了技术驱动型和消费应用型企业的成功要素，并提供了相关企业推荐。",
+        "flag_id": "flag-69",
+        "classifier": "AI Healthcare",
+        "classifier_cn": "AI 医疗健康",
+        "input_files": [
+            "output/business_background.txt",
+            "output/company_profiles.db",
+            "output/investment_opportunities.png",
+            "output/market_analysis.png",
+            "output/product_lines.json"
+        ]
+    },
+    {
+        "goal": "分析华富成长趋势基金在科技和医药行业重仓占比提升的具体原因。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 自2017年以来，华富成长趋势基金在科技和医药行业的重仓占比显著提升，尤其在2020年上半年计算机行业占股票市值比为34%。",
+            "Comparison: 基金在科技行业的超配幅度为30.78%，在医药生物行业的超配幅度为18.56%，显示出其对这两个行业的重视。",
+            "Extreme: 基金的前十大重仓股占股票市值比在2020Q2为63.83%，显示出其集中投资策略的有效性。",
+            "Attribution: 基金的选股能力被H-M模型验证，显示出其在择时和选股方面的显著优势。"
+        ],
+        "summary": "华富成长趋势基金在科技和医药行业的超配情况显著，显示出其在高成长和高流动性股票的偏好，且重仓行业的占比持续提升。",
+        "flag_id": "flag-87",
+        "classifier": "Fund Analysis",
+        "classifier_cn": "基金分析",
+        "input_files": [
+            "output/fund_investment_analysis.png"
+        ]
+    },
+    {
+        "goal": "比较阿里云与AWS、Azure在毛利率上的差异及其原因。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: FY2025下半年公有云业务基数影响消除，预计回归10-15%双位数增长。",
+            "Comparison: 阿里云毛利率约30%，而海外头部云厂商毛利率通常为60-70%，显示出利润率的明显差距。",
+            "Extreme: 阿里云单集群算力达15 EFLOPS，位列全球前三，显示出其在技术能力上的极端优势。",
+            "Attribution: 阿里云的降价策略通过规模效应降低了单位成本，吸引了更多客户上云，形成了良性循环。"
+        ],
+        "summary": "本报告分析了阿里云在AI时代的商业模式、市场地位及其未来发展潜力，强调了其在技术、资本投入及市场份额方面的竞争优势。",
+        "flag_id": "flag-15",
+        "classifier": "Internet Firms",
+        "classifier_cn": "互联网公司研究",
+        "input_files": [
+            "output/business_background.txt",
+            "output/cloud_data.json",
+            "output/cloud_orders.png",
+            "output/dimension_data.db"
+        ]
+    },
+    {
+        "goal": "分析韩束品牌在2023年GMV增长的关键因素，特别是红蛮腰产品的贡献。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 在2021-2023年间，韩束品牌的GMV显著增长，2023年红蛮腰产品贡献了约75%的GMV，显示出品牌成功转型的趋势。",
+            "Comparison: 2023年，韩束在抖音电商美妆护肤行业的GMV达到30亿，营收贡献47.4%，显示出其在行业中的领先地位。",
+            "Extreme: 2023年，韩束的明星单品红蛮腰礼盒在抖音电商中占据了96%的GMV，显示出其在市场中的强大影响力。",
+            "Attribution: 韩束的成功源于对消费者娱乐需求的精准把握，结合了内外部因素的共同作用，特别是与明星达人的合作和情感营销策略。"
+        ],
+        "summary": "本报告深入分析了韩束品牌在抖音电商中的市场表现，揭示了其成功的关键因素和未来的发展趋势。",
+        "flag_id": "flag-112",
+        "classifier": "Internet Firms",
+        "classifier_cn": "互联网公司研究",
+        "input_files": [
+            "output/background.txt",
+            "output/brand_performance_fact.png",
+            "output/dimension_data.db",
+            "output/user_profiles.json"
+        ]
+    },
+    {
+        "goal": "分析2015年上半年中国网民人均周上网时长减少的原因。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 截至2015年6月，中国网民规模达6.68亿，手机网民规模达5.94亿，互联网普及率为48.8%。",
+            "Comparison: 截至2015年6月，农村地区互联网普及率为30.1%，显著低于城镇地区的64.2%，城乡差距达到34.1个百分点。",
+            "Extreme: 截至2015年6月，中国即时通信用户规模达到6.06亿，手机即时通信用户5.40亿，显示出即时通信的强大市场需求。",
+            "Attribution: 手机网民规模的增长与智能手机价格下降、网络环境的改善及政府对移动上网的扶持密切相关。"
+        ],
+        "summary": "本报告总结了中国互联网在用户规模、移动互联网应用、网络购物及社交媒体等方面的发展趋势，揭示了政策、技术和市场环境对互联网行业的影响。",
+        "flag_id": "flag-197",
+        "classifier": "Internet Dev.",
+        "classifier_cn": "互联网发展",
+        "input_files": [
+            "output/background.txt",
+            "output/dimensions.db",
+            "output/internet_user_statistics.png",
+            "output/user_behavior_profiles.json"
+        ]
+    },
+    {
+        "goal": "探讨手机网上支付用户增长64.5%的原因及其对市场的影响。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 手机网民规模达6.20亿，占整体网民的90.1%。",
+            "Comparison: 农村网民占比28.4%，规模为1.95亿，增幅为9.5%。"
+        ],
+        "summary": "本报告总结了截至2015年12月中国互联网的发展状况，涵盖了网民规模、互联网普及率、企业互联网应用及网络安全等多个方面，揭示了互联网在社会经济中的重要作用。",
+        "flag_id": "flag-200",
+        "classifier": "Internet Dev.",
+        "classifier_cn": "互联网发展",
+        "input_files": [
+            "output/business_background.txt",
+            "output/dimension_table.db",
+            "output/internet_users_fact.png",
+            "output/user_profile_payload.json"
+        ]
+    },
+    {
+        "goal": "研究美团经营利润率下降的具体原因，评估补贴政策对成本的影响及其对市场竞争的长期影响。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 美团到店酒旅业务经营利润率自23Q1的48%下跌至23Q4的29%，显示出盈利能力的波动。",
+            "Comparison: 美团本地生活市占90%+，而抖音同比增长100%+，显示出抖音在快速增长的同时，美团则保持了市场份额的稳定。",
+            "Extreme: 美团到店酒旅业务经营利润率在23Q4降至29%，为近几年的最低点。",
+            "Attribution: 抖音的快速增长主要归因于其商家覆盖率和产品创新的提升，尤其是在低线城市的拓展。"
+        ],
+        "summary": "本报告分析了美团与抖音在本地生活市场的竞争动态，特别关注两者在商家覆盖率、经营利润率及市场策略上的差异。",
+        "flag_id": "flag-145",
+        "classifier": "Internet Firms",
+        "classifier_cn": "互联网公司研究",
+        "input_files": [
+            "output/business_background.txt",
+            "output/dimension_data.db",
+            "output/fact_orders.png",
+            "output/user_profiles.json"
+        ]
+    },
+    {
+        "goal": "分析www.163.net.cn在用户中的广泛接受度及其访问量高的原因。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 第5页和第6页的访问量数据显示，www.163.net.cn以121的访问量排名第一，显示出其在用户中的广泛接受度。",
+            "Comparison: 第5页和第6页的访问量数据对比显示，www.163.net.cn的访问量远高于其他网站，表明其在市场中的领先地位。",
+            "Extreme: 第5页显示，访问量最高的网站www.163.net.cn的访问量为121，显示出其在用户中的极高人气。",
+            "Attribution: 第5页和第6页的访问量数据表明，用户对内容丰富、更新频率高的网站更感兴趣，这与第2页提到的用户对信息流量比例的需求相一致。"
+        ],
+        "summary": "本报告提供了1998年中国互联网各大网站的访问量排名，揭示了用户对不同网站的偏好及互联网使用的趋势。",
+        "flag_id": "flag-191",
+        "classifier": "Internet Dev.",
+        "classifier_cn": "互联网发展",
+        "input_files": [
+            "output/access_logs.png",
+            "output/business_background.txt",
+            "output/dimension_data.db",
+            "output/user_profiles.json"
+        ]
+    },
+    {
+        "goal": "分析百度集团2023年营业收入增长8.4%的主要驱动因素。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 2023年百度集团实现营业收入1,035亿元，同比增长8.4%。预计2024年收入将达到1,324亿元，2025年为1,423亿元，2026年为1,507亿元，显示出持续增长的趋势。",
+            "Comparison: 百度的在线营销收入在2023年占核心总收入的72.5%，而2024年预计将下降至55.7%，显示出广告市场的竞争加剧。",
+            "Extreme: 截至2024年7月28日，百度萝卜快跑的测试和运营里程累计已达到1亿公里，显示出其在自动驾驶领域的领先地位。",
+            "Attribution: 收入增长主要得益于旅游、电子商务和医疗保健等行业的广告需求修复，反映出市场需求的恢复。"
+        ],
+        "summary": "本报告分析了百度集团在AI转型、广告业务和自动驾驶等领域的竞争优势及市场前景，预计未来几年收入和非GAAP归母净利润将增长，主要受广告需求恢复和AI业务推动。",
+        "flag_id": "flag-51",
+        "classifier": "Internet Firms",
+        "classifier_cn": "互联网公司研究",
+        "input_files": [
+            "output/business_background.txt",
+            "output/customer_preferences.json",
+            "output/dimension_data.db",
+            "output/revenue_ad_fact.png"
+        ]
+    },
+    {
+        "goal": "评估华商医药医疗行业基金在2024年2月23日的市场表现与同类基金的比较情况。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 2022年10月，医药板块兼具防疫属性和复苏属性，基金相对沪深300的超额收益达到14.15%。",
+            "Comparison: 2020年基金相对沪深300超额收益为18.85%，而2021年则为-1.90%。",
+            "Extreme: 截至2024年2月23日，医药板块估值为25.22倍，低于过去10年的平均估值37.25倍。",
+            "Attribution: 张晓认为医药行业的悲观预期已充分反映，当前投资具有性价比优势，且医保政策的变化也为行业带来支持。"
+        ],
+        "summary": "本报告分析了华商医药医疗行业基金在张晓的管理下的投资策略、业绩表现及市场趋势，强调了医药行业的长期配置价值和当前的投资机会。",
+        "flag_id": "flag-100",
+        "classifier": "Fund Analysis",
+        "classifier_cn": "基金分析",
+        "input_files": [
+            "output/business_background.txt",
+            "output/fund_performance.db",
+            "output/fund_profiles.json",
+            "output/market_comparison.png"
+        ]
+    },
+    {
+        "goal": "比较迈瑞医疗与祥生医疗在市场信任度和市值上的差异，探讨其背后的原因。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 中国医疗资源短缺，AI医学影像需求大幅增长，预计市场规模将从2022年的4.6亿元增长到2030年的358.9亿，年复合增长率为72.4%。",
+            "Comparison: AI在乳腺癌早期筛查中的应用显示，AI系统处理300个病例仅需半小时，而人类医生需10小时以上，体现了AI的效率优势。",
+            "Extreme: 微创机器人-B在全球首次实施的5G超远程手术成功率为100%，显示出其技术的成熟度。",
+            "Attribution: 国家医保局出台影像检查类收费新规，AI辅助诊断被纳入扩展项，旨在提升医疗机构的诊疗效率并防止患者负担增加。"
+        ],
+        "summary": "本报告分析了人工智能在医疗设备领域的应用及其对行业的影响，强调了市场规模的快速增长和技术的不断进步。",
+        "flag_id": "flag-67",
+        "classifier": "AI Healthcare",
+        "classifier_cn": "AI 医疗健康",
+        "input_files": [
+            "output/ai_efficiency.png",
+            "output/background.txt",
+            "output/company_comparison.json",
+            "output/dimensions.db",
+            "output/market_growth.png"
+        ]
+    },
+    {
+        "goal": "比较中国金融科技生态与非洲、拉美等新兴市场的融资发展差异。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 金融科技在推动国家科技、产业与金融良性循环中的重要作用愈加凸显，预计会形成数据资产化、资本化的有效实践。",
+            "Comparison: 中国与非洲、拉美等新兴市场的金融科技发展速度存在明显分化，后者在融资规模上表现出较大增长潜力。",
+            "Extreme: 2022年全球金融科技投融资总额为770亿美元，较2021年下降45%，反映出全球市场的低迷。",
+            "Attribution: 金融科技的深入应用，能优化资金投向结构，推动金融服务个性化与精细化，提升资金融通效率。"
+        ],
+        "summary": "本报告探讨了全球金融科技市场的发展态势，分析了关键技术的进展及其在金融行业中的应用场景，展望了金融科技生态的发展前景。",
+        "flag_id": "flag-10",
+        "classifier": "FinTech",
+        "classifier_cn": "金融科技",
+        "input_files": [
+            "output/background.txt",
+            "output/dimension_data.db",
+            "output/transactions.png",
+            "output/user_profiles.json"
+        ]
+    },
+    {
+        "goal": "分析自2015年以来中国金融科技专利申请量增长的主要驱动因素。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 自2015年以来，中国金融科技专利申请量快速增加，年度专利申请量已赶超美国，2020年达到顶峰后有所回落。",
+            "Comparison: 中国银行和工商银行的专利申请数量贡献了21.1%的专利，显示出两者在金融科技领域的强大竞争力。",
+            "Extreme: 中国金融科技领域专利授权率为28.98%，低于全球平均专利授权率36.36%。",
+            "Attribution: 金融科技的发展始终围绕着服务实体经济、改善民生的初心，政策支持力度不断加大，推动了绿色金融、普惠金融和养老金融的发展。"
+        ],
+        "summary": "本报告分析了中国金融科技领域的专利技术发展现状，揭示了行业内的技术创新、市场竞争及政策支持对未来发展的重要影响。",
+        "flag_id": "flag-1",
+        "classifier": "FinTech",
+        "classifier_cn": "金融科技",
+        "input_files": [
+            "output/bank_profiles.json",
+            "output/banks_dimension.db",
+            "output/business_background.txt",
+            "output/patent_applications.png"
+        ]
+    },
+    {
+        "goal": "评估京东国际管培生项目的选拔标准对人才质量的影响。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 随着京东业务的拓展，人才培养和管理体系也在不断完善，形成了系统化的人才发展战略。",
+            "Comparison: 京东大学与中欧商学院的合作项目显示出京东在高端人才培养方面的积极探索，旨在打造稳定的团队结构。",
+            "Extreme: TET项目在培养年轻管理者方面取得显著成效，管理者平均年龄比公司同级别管理者年轻5.5岁，体现了其对年轻人才的重视。",
+            "Attribution: 由于业务拓展和规模扩张带来的新岗位，京东重视人才继任项目，以保障优秀管理者的持续供给和提升组织能力。"
+        ],
+        "summary": "本报告总结了京东在人才发展和人力资源管理方面的战略，强调了其快速发展的HR部门、人才培养体系及其对业务发展的重要性。",
+        "flag_id": "flag-26",
+        "classifier": "Internet Firms",
+        "classifier_cn": "互联网公司研究",
+        "input_files": [
+            "output/background.txt",
+            "output/dimension_data.db",
+            "output/talent_management.png",
+            "output/user_profiles.json"
+        ]
+    },
+    {
+        "goal": "分析华商计算机行业量化产品在2022至2024年熊市期间的风险控制能力及其对收益的影响。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 华商计算机行业量化的权益资产配置比例维持在90~95%之间，显示出其在市场中的稳定性。",
+            "Comparison: 华商计算机行业量化的机构投资者比例从2019年Q4的3%上升至2024Q2的26%，显示出市场认可度的提升。",
+            "Extreme: 在2019至2021年的牛市期间，华商计算机行业量化产品表现出色，前十大个股的比例维持在30%~50%之间。",
+            "Attribution: 华商计算机行业量化的高仓位运作不做大幅择时，行业聚焦但持有个股分散，帮助其在市场波动中保持收益弹性。"
+        ],
+        "summary": "华商计算机行业量化产品在市场波动中展现出良好的收益弹性和风险分散策略，管理人员持有情况的增加反映出对基金前景的信心。",
+        "flag_id": "flag-94",
+        "classifier": "Fund Analysis",
+        "classifier_cn": "基金分析",
+        "input_files": [
+            "output/business_background.txt",
+            "output/dimension_data.db",
+            "output/fund_quant_fact_table.png",
+            "output/manager_profiles.json"
+        ]
+    },
+    {
+        "goal": "分析美联储降息预期对有色金属价格上涨的具体影响。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 有色金属价格因美联储降息预期而强势上涨，铝和铜的需求持续增长。",
+            "Comparison: 铝的产能受限，汽车轻量化推动需求增长，与铜市场的供应紧张形成鲜明对比。",
+            "Extreme: 2023年3月铜价因供给端紧缩上涨，成为市场的一个重要转折点。",
+            "Attribution: 美联储的货币政策变化直接影响了有色金属市场的价格走势，尤其是在降息预期增强的背景下。"
+        ],
+        "summary": "本报告探讨了有色金属市场的价格上涨及其背后的多重因素，分析了美联储的货币政策对市场的影响。",
+        "flag_id": "flag-99",
+        "classifier": "Fund Analysis",
+        "classifier_cn": "基金分析",
+        "input_files": [
+            "output/background.txt",
+            "output/dimension_data.db",
+            "output/fact_transactions.png",
+            "output/user_profiles.json"
+        ]
+    },
+    {
+        "goal": "比较联影医疗与迈瑞医疗在AI领域的市场策略及其对各自业务发展的影响。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 随着AI技术的快速发展，医疗终端应用步入效率革命的新时代，推动了医疗服务的转型。",
+            "Comparison: AI在乳腺癌早期筛查的阳性预测值（PPV）在初期试点阶段从19.2%提高到21.1%，而扩展试点阶段从19.7%提高到21.0%，显示出AI技术的有效性。",
+            "Extreme: 天智航-U的PE为-49.5，显示出其在市场中的挑战与压力。",
+            "Attribution: 由于高税收，销售额下降，影响了医疗设备公司的市场表现。"
+        ],
+        "summary": "本报告探讨了AI技术在医疗行业的多种应用场景及其面临的挑战，强调了技术进步与市场需求之间的关系。",
+        "flag_id": "flag-68",
+        "classifier": "AI Healthcare",
+        "classifier_cn": "AI 医疗健康",
+        "input_files": [
+            "output/background.txt",
+            "output/dimension_data.db",
+            "output/sales_data.png",
+            "output/user_profiles.json"
+        ]
+    },
+    {
+        "goal": "评估2022年Q1市场大幅调整对华商策略精选基金表现的影响，并与业绩基准进行比较。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 2022年下半年，基金在新能源、智能电动车等符合中国经济中长期发展方向的产业中增加配置。",
+            "Comparison: 2022年Q1，市场在经济下行压力加大时，华商策略精选基金的表现显著优于业绩基准。",
+            "Extreme: 2023年3月中旬，市场受人工智能驱动开始反弹，标志着市场情绪的极端变化。",
+            "Attribution: 基金经理的调仓策略反映了对市场不确定性的应对，倾向于分散持股以控制回撤。"
+        ],
+        "summary": "本报告探讨了华商基金在不同经济环境下的行业配置策略及其对市场波动的应对，强调了基金经理王毅文的灵活调仓能力。",
+        "flag_id": "flag-91",
+        "classifier": "Fund Analysis",
+        "classifier_cn": "基金分析",
+        "input_files": [
+            "output/fund_dimension_data.db",
+            "output/fund_fact_table.png",
+            "output/manager_profiles.json",
+            "output/report_background.txt"
+        ]
+    },
+    {
+        "goal": "分析中国互联网用户性别比例失衡的原因。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 截至2002年6月30日，我国上网用户人数达到4580万人，较半年增加1210万人，增长率为35.9%。",
+            "Comparison: 男性网民占60.9%，女性网民占39.1%，显示出性别比例的不平衡。",
+            "Extreme: 截至2002年6月30日，我国CN下注册的域名数为126146个，近期出现下降趋势。",
+            "Attribution: 网民数量的快速增长与政府及相关单位的大力支持密切相关。"
+        ],
+        "summary": "本报告总结了中国互联网的快速发展趋势、用户特征及其变化，指出尽管网民数量持续增长，但在性别、年龄和收入等方面仍存在显著差异。",
+        "flag_id": "flag-164",
+        "classifier": "Internet Dev.",
+        "classifier_cn": "互联网发展",
+        "input_files": [
+            "output/business_background.txt",
+            "output/user_profiles.json",
+            "output/users_dimension.db",
+            "output/web_traffic.png"
+        ]
+    },
+    {
+        "goal": "评估华商基金相对沪深300的超额收益表现的原因及其可持续性。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 基金管理数量从成立初期的少量逐步增加至87只，反映出市场认可度的提升。",
+            "Comparison: 在2023年，华商医药医疗行业基金的收益率相对沪深300的超额收益为5.21%。",
+            "Extreme: 管理人员工持有份额在2023年中累计超31万份，显示出对基金前景的信心。",
+            "Attribution: 基金的投资策略与基金经理的投资理念一致，强调自上而下的赛道选择与自下而上的价值挖掘。"
+        ],
+        "summary": "本报告分析了华商基金管理公司的整体市场表现、资产管理规模及投资风险，强调了市场认可度的提升与投资者需关注的风险因素。",
+        "flag_id": "flag-102",
+        "classifier": "Fund Analysis",
+        "classifier_cn": "基金分析",
+        "input_files": [
+            "output/background.txt",
+            "output/dimension_data.db",
+            "output/fund_fact.png",
+            "output/user_profiles.json"
+        ]
+    },
+    {
+        "goal": "分析阿里巴巴云业务收入在FY2026同比增长20%的驱动因素。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 阿里巴巴的云业务收入预计在FY2026将同比增长20%，显示出强劲的市场需求。",
+            "Comparison: 阿里巴巴的云业务EBIT Margin预计为15.7%，高于金山云的3.9%，显示出其在市场中的竞争优势。",
+            "Extreme: 阿里巴巴在FY2025的净利润预计将达到158422亿元，显示出其在市场中的强劲表现。",
+            "Attribution: 阿里巴巴的云业务增长受到AI需求的推动，尤其是在北美市场，云厂商的资本开支增长为其提供了有利的市场环境。"
+        ],
+        "summary": "本报告探讨了阿里巴巴在云业务领域的竞争格局及其盈利能力，强调了AI驱动的增长潜力和市场风险。",
+        "flag_id": "flag-134",
+        "classifier": "Internet Firms",
+        "classifier_cn": "互联网公司研究",
+        "input_files": [
+            "output/alibaba_cloud_business_fact.png",
+            "output/business_background.txt",
+            "output/cloud_competitors.json",
+            "output/customer_profiles.db"
+        ]
+    },
+    {
+        "goal": "分析华商基金在2025年第一季度基金数量增长的驱动因素。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 截至2025年第一季度，华商基金管理的基金数量达到95只，显示出其在市场中的扩张能力。",
+            "Comparison: 华商基金的混合型基金规模为403.20亿元，占比33.0%，显示出其在混合型基金市场的强劲表现。",
+            "Extreme: 华商基金获得《中国证券报》评选的“金牛基金管理公司奖”4次，显示出其在行业中的卓越表现。",
+            "Attribution: 华商基金在管理规模与数量上处于市场前列，显示出市场的认可度不断提高，吸引了更多投资者的关注。"
+        ],
+        "summary": "华商基金管理公司在管理规模和数量上表现优异，资产管理总规模达到1220.2亿元，显示出市场的认可度不断提高。基金的行业配置逐渐均衡，特别是在小盘成长股和科技股方面展现出投资机会。",
+        "flag_id": "flag-84",
+        "classifier": "Fund Analysis",
+        "classifier_cn": "基金分析",
+        "input_files": [
+            "output/business_background.txt",
+            "output/fund_fact_data.png",
+            "output/fund_management_dimension.db",
+            "output/market_trends.json"
+        ]
+    },
+    {
+        "goal": "分析美团和阿里利润拐点的潜在原因及市场反应。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 预计美团和阿里会出现利润的拐点，反映出市场对这两家公司的盈利能力的担忧。",
+            "Comparison: 快手的广告收入为197.65亿元，YoY/QoQ+13%/+10%，而哔哩哔哩的毛利润同比增长46%，显示出不同平台的盈利能力差异。",
+            "Extreme: 吉比特的收盘价为531.99元，显示出其在市场中的高估值。",
+            "Attribution: 由于政策变化，预计在未来1-2个季度逐步见到成效，尤其是在内容制作和审核方面。"
+        ],
+        "summary": "本报告提供了对传媒行业内主要公司的财务分析，揭示了行业内的投资机会和潜在风险，强调了政策变化对市场的影响。",
+        "flag_id": "flag-20",
+        "classifier": "Internet Firms",
+        "classifier_cn": "互联网公司研究",
+        "input_files": [
+            "output/CompanyFinancials.png",
+            "output/background.txt",
+            "output/database.db"
+        ]
+    },
+    {
+        "goal": "比较阿里云与AWS和Azure的盈利能力差异，并探讨其原因。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 国内公有云市场规模年复合增长达38%，但阿里云面临竞争压力，需加大投入以维持市场份额。",
+            "Comparison: 微软2024年收入增速由-3%提升至20%，显示出其在AI领域的快速反弹，与阿里云形成鲜明对比。",
+            "Extreme: 阿里云的EBITAmargin仅为10%，远低于AWS和Azure的经营利润率，显示出盈利能力的极端差异。",
+            "Attribution: 由于地缘政治限制及本地化能力不足，国内云厂商在海外市场份额较低，影响了阿里云的国际扩展。"
+        ],
+        "summary": "本报告探讨了阿里云与海外云厂商在AI浪潮下的竞争格局，分析了各自的收入增长、资本开支及市场策略。",
+        "flag_id": "flag-16",
+        "classifier": "Internet Firms",
+        "classifier_cn": "互联网公司研究",
+        "input_files": [
+            "output/business_background.txt",
+            "output/dimension_data.db",
+            "output/orders.png",
+            "output/user_profiles.json"
+        ]
+    },
+    {
+        "goal": "比较阿里巴巴与淘天集团在电商业务中的市场表现及其影响因素。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 智能云业务的收入预计从FY2025的1170.11亿元增长至FY2027的1629.27亿元，年均增速达到18%。",
+            "Comparison: 与竞争对手相比，阿里巴巴的国际数字商业集团在FY2020-FY2022年经历了超过10%的经调整EBITDA Margin亏损，而预计在FY2023-FY2024年亏损幅度将收窄。",
+            "Extreme: 淘天集团在2020-2023年GMV份额持续下降，反映出市场竞争的激烈程度。",
+            "Attribution: 由于抖快流量红利接近尾声，电商业务面临挑战，这与淘天集团的收入增长放缓相对应。"
+        ],
+        "summary": "本报告分析了阿里巴巴的财务表现、核心业务增长及市场竞争环境，强调了其在电商和智能云业务的潜力，同时指出了面临的挑战与风险。",
+        "flag_id": "flag-137",
+        "classifier": "Internet Firms",
+        "classifier_cn": "互联网公司研究",
+        "input_files": [
+            "output/business_background.txt",
+            "output/business_insights.png",
+            "output/dimension_data.db",
+            "output/financial_performance.png",
+            "output/user_profiles.json"
+        ]
+    },
+    {
+        "goal": "评估红果短剧在短剧市场中的竞争优势，特别是与爱奇艺和腾讯视频的比较。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 2023年中国微短剧市场规模达373.9亿元，同比增长267.65%，预计2024年超500亿元，2027年市场规模超1000亿元。",
+            "Comparison: 2023年付费短剧规模207.4亿，广告规模158亿，分账短剧规模约8亿，显示出红果短剧在多元化收入来源上的优势。",
+            "Extreme: 2022年中国重点网络微短剧上线数目为172部，同比增幅约3倍，显示出市场的快速扩张。",
+            "Attribution: 短剧行业的爆发式增长与红果短剧依托字节流量体系和内容储备的策略直接相关。"
+        ],
+        "summary": "红果短剧平台自2023年推出以来，凭借强大的流量支持和多样化的盈利模式，实现了用户和收益的双重增长，预计未来市场规模将持续扩大。",
+        "flag_id": "flag-124",
+        "classifier": "Short-form Drama",
+        "classifier_cn": "短剧/微短剧内容",
+        "input_files": [
+            "output/business_background.txt",
+            "output/orders_fact.png",
+            "output/user_dimension.db",
+            "output/user_profiles.json"
+        ]
+    },
+    {
+        "goal": "评估管理费用对华富强化回报基金整体收益的影响程度。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 自2020年下半年以来，机构投资者的持有比例显著上升，达到97.05%，表明该基金在专业投资者中的认可度极高。",
+            "Comparison: 与市场基准相比，华富强化回报基金在过去29个季度中，业绩为正的概率为79.31%，超越基准的胜率为68.97%。",
+            "Extreme: 2020年Q4，华富强化回报基金的收益为3.38%，为其在该年度的最低表现。",
+            "Attribution: 由于费用损耗的影响，整体收益受到一定程度的压制，显示出管理费用对基金表现的重要性。"
+        ],
+        "summary": "本报告分析了华富强化回报基金的投资策略，详细拆解了其收益来源及风险提示，强调了债券和股票的贡献。",
+        "flag_id": "flag-89",
+        "classifier": "Fund Analysis",
+        "classifier_cn": "基金分析",
+        "input_files": [
+            "output/dimension_data.db",
+            "output/fund_background.txt",
+            "output/fund_performance_facts.png",
+            "output/institutional_investment_detail.json"
+        ]
+    },
+    {
+        "goal": "比较医疗服务与生物医药的涨幅差异，探讨其背后的驱动因素。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 医疗服务涨幅为+9.3%，生物医药涨幅为+2.5%，表明不同子行业的表现差异。",
+            "Comparison: 中药饮片跌幅为-3.2%，与其他子行业形成鲜明对比，反映出市场对中药的不同看法。",
+            "Extreme: 中药饮片的跌幅为-3.2%，是本周表现最差的子行业。",
+            "Attribution: 随着医疗环节改革的深入，医药价值链也将发生比较大的重构，影响行业未来的发展。"
+        ],
+        "summary": "本周医药行业表现良好，医药指数上涨，成交额占比上升，板块估值提高，提供了多项投资建议。",
+        "flag_id": "flag-71",
+        "classifier": "Fund Analysis",
+        "classifier_cn": "基金分析",
+        "input_files": [
+            "output/industry_background.txt",
+            "output/industry_dimension.db",
+            "output/industry_json_details.json",
+            "output/industry_performance.png"
+        ]
+    },
+    {
+        "goal": "评估经济下行对京东物流未来业绩的潜在影响。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 预计2024年营业收入将达到1808亿元，归母净利润将达到65.26亿元，显示出持续的增长潜力。",
+            "Comparison: 顺丰控股的固定资产总额为539亿元，而京东物流为150亿元，显示出京东的轻资产运营模式。",
+            "Extreme: 2023年京东物流的经营活动产生的现金流量净额为164亿元，显示出良好的现金流状况。",
+            "Attribution: 若经济下行，将影响行业整体需求，从而影响快递包裹量，可能对京东物流的业绩造成压力。"
+        ],
+        "summary": "京东物流在财务表现上展现出强劲的增长趋势，预计未来三年将持续实现营业收入和净利润的稳步增长。公司在资本开支和运营效率方面的优化将进一步提升其市场竞争力。",
+        "flag_id": "flag-139",
+        "classifier": "Internet Firms",
+        "classifier_cn": "互联网公司研究",
+        "input_files": [
+            "output/orders_data.png"
+        ]
+    },
+    {
+        "goal": "分析2022年短剧备案数量增长的主要驱动因素。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 2022年短剧备案数量达3293部，同比增长252.19%，2023年备案数量进一步增长至3574部，同比增长8.53%。",
+            "Comparison: 短剧APP的净利率为23.4%，而小程序短剧的净利率仅为0.7%，显示出APP模式的商业模型更为健康。",
+            "Extreme: 2023年春节期间，抖音短剧广告投放单日峰值破3000万，劳动节期间破4000万，端午节期间破6000万，显示出短剧广告投放的高峰期。",
+            "Attribution: 短剧备案数量的增长与广电总局的政策支持密切相关，尤其是2020年短剧被纳入监管体系后，行业得到了规范化的发展。"
+        ],
+        "summary": "短剧市场在过去几年经历了显著的增长，尤其是微短剧的市场规模和用户基础不断扩大。随着政策的支持和市场需求的变化，短剧行业正朝着更加规范化和商业化的方向发展。",
+        "flag_id": "flag-38",
+        "classifier": "Short-form Drama",
+        "classifier_cn": "短剧/微短剧内容",
+        "input_files": [
+            "output/ad_configs.json",
+            "output/industry_background.txt",
+            "output/short_drama_dimensions.db",
+            "output/short_drama_fact.png",
+            "output/user_profiles.json"
+        ]
+    },
+    {
+        "goal": "评估新加坡政府增加资金用于Startup SG计划对解决企业资金缺口的有效性。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 金融科技行业以16.8%的复合年增长率（CAGR）增长，预计到2024年用户数量将达到54.8亿。",
+            "Comparison: 新加坡在东南亚、东亚和大洋洲的创新经济体中排名前三，显示出其作为FinTech中心的强大实力。",
+            "Extreme: 新加坡计划到2030年发行350亿新元的绿色债券，标志着其在绿色金融方面的重大承诺。",
+            "Attribution: 新加坡政府通过增加高达1.5亿新元的资金用于Startup SG计划，旨在解决企业面临的资金缺口问题。"
+        ],
+        "summary": "新加坡在金融科技领域展现出强劲的增长潜力，尽管面临多重挑战，如人才短缺和监管环境的复杂性。整体来看，金融科技行业在全球经济不确定性中依然保持乐观，尤其是在支付和贷款领域。",
+        "flag_id": "flag-126",
+        "classifier": "FinTech",
+        "classifier_cn": "金融科技",
+        "input_files": [
+            "output/business_background.txt",
+            "output/fintech_dimension.db",
+            "output/fintech_facts.png",
+            "output/user_profiles.json"
+        ]
+    },
+    {
+        "goal": "分析百度未来几年的盈利能力提升趋势，特别是2024年到2026年的非GAAP归母净利润增长情况。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 预计2024年非GAAP归母净利润为255亿元，2025年为282亿元，2026年为306亿元，显示出盈利能力的逐步提升。",
+            "Comparison: 百度的净现金储备为233亿美元，占其当前总市值的82.0%，为其估值提供了安全边际，显示出其财务健康状况。",
+            "Extreme: 百度智能云在2023年实现收入187亿元，同比增长12.6%，显示出其在云计算领域的快速增长。",
+            "Attribution: 百度的持续投资于AI与自动驾驶等新技术领域，结合其充沛的现金储备，为其未来的增长提供了强有力的支持。"
+        ],
+        "summary": "本报告提供了百度集团未来几年的盈利预测，强调其在AI与自动驾驶等新技术领域的持续投资，并分析了其股价走势及估值。",
+        "flag_id": "flag-52",
+        "classifier": "Internet Firms",
+        "classifier_cn": "互联网公司研究",
+        "input_files": [
+            "output/business_background.txt",
+            "output/dimension_data.db",
+            "output/fact_transactions.png",
+            "output/user_profiles.json"
+        ]
+    },
+    {
+        "goal": "比较北京和广东的网民普及率差异及其影响因素。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 2015年，中国新增网民3951万人，网民规模增长率为6.1%。",
+            "Comparison: 广东网民数7768万人，位居全国第一，普及率72.4%。",
+            "Extreme: 2015年，手机网上支付用户规模达到3.58亿，增长率为64.5%。",
+            "Attribution: 由于政策的支持，跨境电商成为网络零售市场新的增长点，推动了整体市场的发展。"
+        ],
+        "summary": "本报告总结了截至2015年12月中国互联网的发展状况，涵盖了网民规模、互联网普及率、企业互联网应用及网络安全等多个方面，揭示了互联网在社会经济中的重要作用。",
+        "flag_id": "flag-199",
+        "classifier": "Internet Dev.",
+        "classifier_cn": "互联网发展",
+        "input_files": [
+            "output/background.txt",
+            "output/dimension_data.db",
+            "output/internet_users.png",
+            "output/user_profiles.json"
+        ]
+    },
+    {
+        "goal": "分析女性在医疗健康和教育科技领域创业的成功因素与挑战。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 截至2024年底，中国女性参与投资的民营法人企业总量突破2300万户，占全部民营法人企业的41.6%。",
+            "Comparison: 全国近80%的女性AI创新创业企业集中在北京、上海、深圳、杭州、广州五大城市，显示出区域发展的不均衡。",
+            "Extreme: 女性主导的AI医疗创新占到女性AI行业应用创企的42%，显示出该领域对女性创新力量的吸引力。",
+            "Attribution: 女性创业意愿与实际行动存在落差，反映出家庭责任与社会偏见对女性创业的影响。"
+        ],
+        "summary": "本报告分析了女性在人工智能领域的创新与创业现状，强调了她们在技术发展中的重要性及面临的挑战，包括性别偏见、融资环境和心理健康问题。",
+        "flag_id": "flag-128",
+        "classifier": "AI Healthcare",
+        "classifier_cn": "AI 医疗健康",
+        "input_files": [
+            "output/background.txt",
+            "output/dimensions.db",
+            "output/investment_facts.png",
+            "output/investor_profiles.json"
+        ]
+    },
+    {
+        "goal": "分析阿里巴巴FY22至FY23期间收入增速降低的具体原因，特别是国内电商竞争加剧的影响。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 阿里巴巴在FY22至FY23期间收入增速降低，主要由于国内电商竞争加剧，但国际商业业务持续增长，预计将成为新的收入增长点。",
+            "Comparison: 阿里巴巴的国际电商收入在FY2024同比增长45.5%，而国内电商收入增速放缓，显示出国际市场的潜力。",
+            "Extreme: FY2025Q1速卖通Choice同比增长32.4%，显示出其在国际市场的强劲表现。",
+            "Attribution: 由于政策限制和电商平台竞争加剧，阿里巴巴积极进行组织变革以应对挑战，实施‘用户为先’战略以提升用户体验。"
+        ],
+        "summary": "本报告探讨了阿里巴巴在面对市场竞争和政策变化时的战略调整，分析了其对未来业务发展的影响。",
+        "flag_id": "flag-57",
+        "classifier": "Internet Firms",
+        "classifier_cn": "互联网公司研究",
+        "input_files": [
+            "output/business_background.txt",
+            "output/dimension_data.db",
+            "output/international_sales.png",
+            "output/user_profiles.json"
+        ]
+    },
+    {
+        "goal": "分析2023H1证券行业归母净利润增长10%的驱动因素。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 2023H1证券行业预计实现归母净利润842亿元，同比增长10%，显示出行业景气度回升的趋势。",
+            "Comparison: 截至2023年7月17日，证券板块PB估值为1.16x，较2018年10月的1.02有所上升，显示出市场对券商的信心逐步恢复。",
+            "Extreme: 2023Q1上市券商业绩显著回升，归母净利润达到450亿元，同比增长78%，为行业的最高峰。",
+            "Attribution: 由于全面注册制的实施，券商差异化发展格局有望加速形成，推动投行业务的增长。"
+        ],
+        "summary": "本报告分析了科技金融及券商行业的中期策略，强调业绩修复的确定性和行业变革的引领作用，结合政策变化与市场动态，展望未来发展趋势。",
+        "flag_id": "flag-157",
+        "classifier": "Fund Analysis",
+        "classifier_cn": "基金分析",
+        "input_files": [
+            "output/background_description.txt",
+            "output/dimension_data.db",
+            "output/industry_policies.json",
+            "output/securities_industry_performance.png"
+        ]
+    },
+    {
+        "goal": "分析政策变化对长视频平台商业模式优化的具体影响。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 预计未来1-2个季度长视频平台商业模式优化将见成效，反映出政策支持的积极影响。",
+            "Comparison: 腾讯游戏《三角洲行动》成为第三大长青游戏，显示出其在市场中的竞争力。",
+            "Extreme: 2025年暑期档电影票房为119.66亿元，显示出市场的高峰表现。",
+            "Attribution: 由于广电总局发文，内容制作到审核周期的缩短将释放创作势能，促进长视频平台的商业模式优化。"
+        ],
+        "summary": "本报告分析了互联网传媒行业的投资机会与风险，强调政策变化对行业的影响及未来几年的市场趋势。",
+        "flag_id": "flag-17",
+        "classifier": "Internet Dev.",
+        "classifier_cn": "互联网发展",
+        "input_files": [
+            "output/BusinessBackground.txt",
+            "output/PolicyImpactAnalysis.png",
+            "output/PolicyRiskDetails.json",
+            "output/VideoPlatformOptimization.db"
+        ]
+    },
+    {
+        "goal": "比较阿里巴巴智能云业务与谷歌云的收入增速及利润率，评估其在市场竞争中的优势。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 智能云业务收入预计在FY2026达到1429.7亿元，同比增长20%。",
+            "Comparison: FY2025淘天集团的收入增速为2.4%，而智能云业务的增速预计为20%，显示出云业务的强劲增长潜力。",
+            "Extreme: FY25Q4淘天集团收入预计为999.08亿元，CMR增速为11.1%，显示出其在电商领域的强劲表现。",
+            "Attribution: 淘天集团的货币化率提升与全站推的渗透率提升直接相关，推动了电商业务的增长。"
+        ],
+        "summary": "本报告分析了阿里巴巴的收入增长、利润率提升及其在云业务市场的竞争格局，预计未来将超出市场预期，尤其是在AI驱动的云业务领域。",
+        "flag_id": "flag-133",
+        "classifier": "Internet Firms",
+        "classifier_cn": "互联网公司研究",
+        "input_files": [
+            "output/business_background.txt",
+            "output/customer_profiles.json",
+            "output/market_analysis.db",
+            "output/revenue_forecast.png"
+        ]
+    },
+    {
+        "goal": "分析湘财股份2023年归母净利润扭亏为盈的具体因素。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 湘财股份2023年归母净利润预计为1.86亿元，较2022年大幅改善，显示出扭亏为盈的趋势。",
+            "Comparison: 湘财股份2022年营业总收入为10.76亿元，较2021年下降，显示出业绩压力，而2023年预计将回升至24.96亿元。",
+            "Extreme: 湘财股份2022年归母净利润为-3.26亿元，显示出其在2022年面临的极大财务压力。",
+            "Attribution: 湘财股份的业绩改善主要归因于市场环境的改善和金融科技的推动，预计将逐步恢复增长。"
+        ],
+        "summary": "湘财股份在经历了2022年的业绩承压后，预计在2023年实现扭亏为盈，未来几年将逐步恢复增长。",
+        "flag_id": "flag-149",
+        "classifier": "Fund Analysis",
+        "classifier_cn": "基金分析",
+        "input_files": [
+            "output/business_background.txt",
+            "output/dimension_data.db",
+            "output/financial_payloads.json",
+            "output/financial_performance.png"
+        ]
+    },
+    {
+        "goal": "比较2021年与2023年、2024年风险投资退出总值的差异及其影响因素。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: AI在医疗技术行业的影响正在重塑医疗服务的交付方式，导致更好的结果和更可及的护理。",
+            "Comparison: 在风险投资退出方面，2021年的退出总值显著高于2023年和2024年的预期退出值，显示出市场的波动性。",
+            "Extreme: AI驱动的创新在生物技术、医疗技术和健康技术领域的商业化面临挑战，尤其是在监管批准和技术整合方面。",
+            "Attribution: AI的推动使得生物技术公司在药物发现和开发方面加速，但仍面临商业化障碍和监管壁垒。"
+        ],
+        "summary": "本报告探讨了AI在医疗健康与生命科学领域的投资机会与面临的挑战，强调了市场动态和技术整合的复杂性。",
+        "flag_id": "flag-29",
+        "classifier": "AI Healthcare",
+        "classifier_cn": "AI 医疗健康",
+        "input_files": [
+            "output/ai_medical_events.png",
+            "output/medical_background.txt",
+            "output/medical_dimensions.db",
+            "output/user_profiles.json"
+        ]
+    },
+    {
+        "goal": "分析京东HR部门快速发展的原因及其对业务扩展的影响。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 京东的HR部门自2009年开始快速发展，到2011年员工人数超过100人，显示出人力资源管理的快速扩张。",
+            "Comparison: 京东与其他企业相比，强调人才在业务发展中的核心地位，持续提供优质人才供给以构建未来的人才体系。",
+            "Extreme: 京东国际管培生项目的录取比例高达100:1，显示出其对人才选拔的严格标准。",
+            "Attribution: 京东的HR使命旨在打造一个吸引和留住优秀人才的职场生态系统，这与其快速发展的业务需求密切相关。"
+        ],
+        "summary": "本报告总结了京东在人才发展和人力资源管理方面的战略，强调了其快速发展的HR部门、人才培养体系及其对业务发展的重要性。",
+        "flag_id": "flag-25",
+        "classifier": "Internet Firms",
+        "classifier_cn": "互联网公司研究",
+        "input_files": [
+            "output/business_background.txt",
+            "output/hr_performance_fact.png",
+            "output/hr_profiles.json",
+            "output/jd_hr_dimension.db"
+        ]
+    },
+    {
+        "goal": "分析华商基金资产管理规模持续增长的驱动因素。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 华商基金的资产管理总规模截至2023年12月31日达到1281.6亿元，显示出持续增长的趋势。",
+            "Comparison: 华商基金的区间总收益率为150.65%，相对沪深300的超额收益为151.93%，显示出其优于市场的表现。",
+            "Extreme: 华商基金的管理费率为1.20%，在行业中属于中等水平，反映出其成本控制的能力。",
+            "Attribution: 华商基金的业绩表现受到市场环境变化的影响，投资者需关注证券市场的波动可能导致的收益波动。"
+        ],
+        "summary": "本报告分析了华商基金管理公司的整体市场表现、资产管理规模及投资风险，强调了市场认可度的提升与投资者需关注的风险因素。",
+        "flag_id": "flag-101",
+        "classifier": "Fund Analysis",
+        "classifier_cn": "基金分析",
+        "input_files": [
+            "output/background.txt",
+            "output/fund_dimension.db",
+            "output/fund_performance.png",
+            "output/fund_risk_narratives.json"
+        ]
+    },
+    {
+        "goal": "比较中国银行和工商银行在金融科技领域的专利申请数量对市场竞争力的影响。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 绿色金融自2016年起成为国际核心议题，2016年绿色金融专利申请量持续增长，2021年之后呈现快速增长趋势。",
+            "Comparison: 北京、深圳和上海在金融科技专利申请量上具有显著优势，广州、杭州、南京、成都等新一线城市与前三者相比差距明显。",
+            "Extreme: 中国平安保险在养老金融领域的专利申请量达到2681件，显示出其在该领域的领先地位。",
+            "Attribution: 由于政策推动，普惠金融市场规模逐步扩大，养老金融发展驶入‘快车道’。"
+        ],
+        "summary": "本报告分析了中国金融科技领域的专利技术发展现状，揭示了行业内的技术创新、市场竞争及政策支持对未来发展的重要影响。",
+        "flag_id": "flag-2",
+        "classifier": "FinTech",
+        "classifier_cn": "金融科技",
+        "input_files": [
+            "output/company_profiles.json",
+            "output/dimensions.db",
+            "output/financial_patent_facts.png",
+            "output/industry_background.txt"
+        ]
+    },
+    {
+        "goal": "评估网络安全问题对电子商务发展的潜在制约因素。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 农村网民规模达到9565万人，较2008年底增长1105万人，增幅为13.1%。"
+        ],
+        "summary": "本报告总结了中国互联网在2009年上半年的发展状况，涵盖了网民规模、上网行为、网络安全及电子商务等多个方面，揭示了互联网的快速增长与面临的挑战。",
+        "flag_id": "flag-180",
+        "classifier": "Internet Dev.",
+        "classifier_cn": "互联网发展",
+        "input_files": [
+            "output/dimension_data.db",
+            "output/internet_user_statistics.png",
+            "output/usage_background.txt",
+            "output/user_profiles.json"
+        ]
+    },
+    {
+        "goal": "评估非银行贷款市场份额增长的主要驱动因素。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 2006年至2016年间，非银行贷款市场份额从接近0%增长到接近60%。",
+            "Comparison: 在2006年到2016年期间，银行发放了490万笔贷款，而非银行贷方发放了630万笔贷款。",
+            "Extreme: 2016年，非银行贷款人提供了59%的新贷款，显示出其在市场中的主导地位。",
+            "Attribution: 由于监管限制和银行压力测试，银行减少了贷款，金融公司和金融科技贷款机构通过增加贷款来应对市场需求。"
+        ],
+        "summary": "自2008年金融危机以来，小企业贷款市场经历了显著变化，银行贷款的减少被金融公司和金融科技贷款人的崛起所抵消，非银行贷款市场份额显著增加。",
+        "flag_id": "flag-110",
+        "classifier": "FinTech",
+        "classifier_cn": "金融科技",
+        "input_files": [
+            "output/dimension_data.db",
+            "output/loan_market_facts.png",
+            "output/loan_nosql_data.json",
+            "output/market_background.txt"
+        ]
+    },
+    {
+        "goal": "分析金融科技公司在客户体验方面重视程度提高的原因及其对业务的影响。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 金融科技公司在客户体验方面的重视程度不断提高，92%的决策者将客户为中心的策略摆在首位。",
+            "Comparison: 美洲地区金融科技融资金额从2022年下半年的289亿美元上升至2023年上半年的1,011亿美元，而欧洲、中东和非洲地区融资金额则从273亿美元下降至112亿美元。",
+            "Extreme: 2022年，Hello Digit因涉嫌提供欺骗性产品承诺被罚款270万美元，显示出行业内的合规风险。",
+            "Attribution: 由于消费者对数据隐私的关注不断增加，86%的受访者表示他们越来越担心数据隐私问题，这直接影响了金融科技公司的产品开发策略。"
+        ],
+        "summary": "本报告分析了金融科技行业的快速发展及其面临的挑战，强调了客户体验、数据隐私和监管合规的重要性，并探讨了未来的商业模式和技术创新。",
+        "flag_id": "flag-30",
+        "classifier": "FinTech",
+        "classifier_cn": "金融科技",
+        "input_files": [
+            "output/business_background.txt",
+            "output/financing_trend.png",
+            "output/fintech_company.db",
+            "output/regulatory_compliance.json"
+        ]
+    },
+    {
+        "goal": "分析医疗保健行业中AI应用对运营效率提升的具体影响。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 第4页显示，72%的企业实现了效率提升，表明AI在医疗保健行业的应用正在逐步提高整体效率。",
+            "Comparison: 第11页提到，医疗组织在谨慎推进人工智能整合的同时，关注患者安全，而第14页则强调，医疗健康行业正在转变为由人工智能驱动的集成健康生态系统，显示出不同组织在AI整合上的不同侧重点。",
+            "Extreme: 第18页提到，医疗保健行业的潜在价值达37亿美元，显示出AI在行业中的巨大经济潜力。",
+            "Attribution: 第20页提到，人工智能通过个性化护理、预测性分析和自动化行政工作，正在重塑患者体验，这与第21页提到的人工智能驱动的虚拟助手和聊天机器人提供按需医疗服务直接相关。"
+        ],
+        "summary": "本报告探讨了医疗保健行业如何通过人工智能提升运营效率、改善患者体验，并分析了当前面临的挑战与未来的机遇。",
+        "flag_id": "flag-130",
+        "classifier": "AI Healthcare",
+        "classifier_cn": "AI 医疗健康",
+        "input_files": [
+            "output/background.txt",
+            "output/devices.json",
+            "output/dimension_data.db",
+            "output/healthcare_ai_fact.png"
+        ]
+    },
+    {
+        "goal": "比较中国金融科技与美国、英国和新加坡的市场增长速度及其原因。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 2023年全球金融科技领域投资稳健增长，尤其是在中国、美国、英国和新加坡等国家，投融资增长依然稳健。",
+            "Comparison: 东南亚市场占比31.3%，北美市场占比22.4%，显示出中国金融科技企业在国际市场的多元化布局。",
+            "Extreme: 2022年中国证券行业金融科技投入显著增长，20家上市券商总投入超过209亿元，华泰证券以27.24亿元的投入稳居首位。",
+            "Attribution: 人工智能技术的崛起推动了金融科技的发展，成为促进金融数字化转型的关键力量，尤其是在文字、语音和图像处理方面表现突出。"
+        ],
+        "summary": "本报告分析了中国金融科技与数字金融的现状、趋势及未来展望，强调了技术创新、市场扩展及政策支持对行业发展的重要性。",
+        "flag_id": "flag-7",
+        "classifier": "FinTech",
+        "classifier_cn": "金融科技",
+        "input_files": [
+            "output/business_background.txt",
+            "output/fintech_investment.png",
+            "output/market_data.db",
+            "output/technology_impact.json"
+        ]
+    },
+    {
+        "goal": "分析京东大学在不同阶段的能力发展对员工职业发展的具体影响。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 京东通过多种战略人才项目提升综合能力，促进职业发展，显示出其在人才培养上的持续投入。",
+            "Comparison: 京东的HIPO项目与其他人才培养计划相比，注重精英人才的甄选和培养，显示出其对高潜力人才的重视。",
+            "Extreme: 京东大学的产品体系涵盖多种培训课程和特色课程，显示出其在人才培养上的广泛覆盖。",
+            "Attribution: 京东通过多样化渠道为员工提供丰富的学习素材，促进学习分享和组织智慧的沉淀，这与其人才培养战略密切相关。"
+        ],
+        "summary": "本报告分析了京东在人才培养方面的多样化战略，包括不同层级的培训项目和国际化人才培养计划。",
+        "flag_id": "flag-27",
+        "classifier": "Internet Firms",
+        "classifier_cn": "互联网公司研究",
+        "input_files": [
+            "output/business_background.txt",
+            "output/dimension_data.db",
+            "output/sales_data.png",
+            "output/user_profiles.json"
+        ]
+    },
+    {
+        "goal": "分析短剧行业在2023年备案量增长9%的原因及其对行业发展的影响。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 短剧行业在快速发展中，生产规模和消费规模进入全新阶段，预计将实现高质量增长，增幅达到35%。",
+            "Comparison: 短剧行业的参与制作公司超过500家，显示出传统与新兴影视公司在短剧制作中的积极参与。",
+            "Extreme: 短剧行业面临的挑战包括题材单一、受众局限和盈利模式单一，专家建议通过多元化发展来应对这些挑战。",
+            "Attribution: 由于短剧市场的不断扩大和成熟，受众群体的年龄层和职业背景也应得到更多关注，生成式人工智能技术将辅助提升短剧的生产效率与内容质量。"
+        ],
+        "summary": "尽管短剧行业在2023年取得了显著的成就，但仍面临题材单一和盈利模式单一等挑战，未来需通过多元化发展来实现可持续增长。",
+        "flag_id": "flag-147",
+        "classifier": "Short-form Drama",
+        "classifier_cn": "短剧/微短剧内容",
+        "input_files": [
+            "output/background.txt",
+            "output/dimension_data.db",
+            "output/short_drama_fact.png",
+            "output/user_profiles.json"
+        ]
+    },
+    {
+        "goal": "比较北京与全国其他省份的互联网普及率差异及其影响。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 农村网民数量达到5262万人，年增长率为127.7%。",
+            "Comparison: 广东省新增网民数为1500万，成为增长最快的省份。",
+            "Extreme: 第4页显示了最高的交易价值5000万美元。",
+            "Attribution: 由于低收入人群开始越来越多地接受互联网，农村上网人群增长较快。"
+        ],
+        "summary": "本报告总结了中国互联网在2007年的发展状况，特别是网民数量的快速增长、互联网普及率的提升以及各省网民的结构特征。",
+        "flag_id": "flag-172",
+        "classifier": "Internet Dev.",
+        "classifier_cn": "互联网发展",
+        "input_files": [
+            "output/background.txt",
+            "output/dimension_data.db",
+            "output/internet_acceptance.json",
+            "output/internet_users.png",
+            "output/transaction_values.png"
+        ]
+    },
+    {
+        "goal": "评估广电运通与华为的合作对其AI和算力项目发展的具体贡献。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 公司在2024年上半年新签合同额超过10亿元，表明其在国际市场的业务拓展持续加速。",
+            "Comparison: 与其他地方国资企业相比，广电运通在数字化转型和技术创新方面的进展更为显著，尤其是在人工智能应用的落地方面。",
+            "Extreme: 2023年，广电运通的营业收入达到12.98亿元，显示出其在市场中的强劲表现。",
+            "Attribution: 公司通过与华为的合作，推动了多项AI和算力项目的发展，进一步增强了其市场竞争力。"
+        ],
+        "summary": "广电运通在数字化转型中取得显著进展，推出多项公共数据产品并参与市场建设，预计将进一步推动其在金融科技和城市智能领域的增长。",
+        "flag_id": "flag-55",
+        "classifier": "AI Healthcare",
+        "classifier_cn": "AI 医疗健康",
+        "input_files": [
+            "output/contracts.png",
+            "output/digital_transformations.db",
+            "output/partnerships.txt",
+            "output/revenue.json"
+        ]
+    },
+    {
+        "goal": "评估香港稳定币监管框架在风险管理和消费者保护方面的有效性。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 过去十年，稳定币的流动性和使用频率显著上升，预计未来十年将成为全球支付基础架构的核心部分。",
+            "Comparison: 在监管方面，香港的稳定币监管框架与其他国家相比，强调了风险管理和消费者保护的重要性。",
+            "Extreme: 算法稳定币TerraUSD的崩盘事件显示了市场对稳定币信心的脆弱性，突显了监管的必要性。",
+            "Attribution: 市场波动、算法设计不当或流动性问题可能导致人们对稳定币失去信心，反映出监管不足的风险。"
+        ],
+        "summary": "本报告探讨了稳定币在金融体系中的作用及其对宏观经济的潜在威胁，强调了监管机构在应对这些挑战中的重要性。",
+        "flag_id": "flag-46",
+        "classifier": "FinTech",
+        "classifier_cn": "金融科技",
+        "input_files": [
+            "output/background.txt",
+            "output/regulatory_impact.db",
+            "output/stablecoin_profiles.json",
+            "output/stablecoin_usage.png"
+        ]
+    },
+    {
+        "goal": "评估ReelShort在北美市场的本土化原创和IAP模式对其市场领导地位的影响。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 随着IAA模式在中国市场的快速增长，市场竞争格局趋于稳定，用户留存率提升。",
+            "Comparison: 中文在线持有Crazy Maple Studio 49.2%股权，显示出其在短剧市场的战略布局。",
+            "Extreme: 2024年FlexTV活跃用户为1000万，北美活跃用户占20.5%，亚太地区占36.5%，显示出其市场渗透率的优势。",
+            "Attribution: 随着短剧平台将剧集剪辑成短视频广告素材，导致其在社交媒体上进行大规模投放，提升了用户增长和盈利闭环。"
+        ],
+        "summary": "短剧市场的竞争格局正在逐渐稳定，头部平台的品牌效应逐步形成，投资机会主要集中在具备跨界潜力的公司和全产业链龙头企业。",
+        "flag_id": "flag-37",
+        "classifier": "Short-form Drama",
+        "classifier_cn": "短剧/微短剧内容",
+        "input_files": [
+            "output/dimension_data.db",
+            "output/orders_fact.png"
+        ]
+    },
+    {
+        "goal": "比较深圳与其他城市在微短剧产业发展策略上的差异及其影响。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 通过资金支持、空间布局和服务优化，深圳的微短剧产业基地正在形成集聚效应。",
+            "Comparison: 在国内城市竞争中，深圳的科技创新能力使其在微短剧产业中脱颖而出。",
+            "Extreme: AI大模型在剧本生成中的应用，提升了产业效率，合规性筛查准确率达到98%。",
+            "Attribution: 通过探索‘微短剧+文化’的精品化路径，深圳推动了文化软实力的提升。"
+        ],
+        "summary": "深圳凭借其科技创新和政策支持，成为微短剧产业发展的重要基地，推动了产业的集聚与国际化进程。",
+        "flag_id": "flag-136",
+        "classifier": "Short-form Drama",
+        "classifier_cn": "短剧/微短剧内容",
+        "input_files": [
+            "output/background.txt",
+            "output/dimension_data.db",
+            "output/microdrama_facts.png",
+            "output/user_profiles.json"
+        ]
+    },
+    {
+        "goal": "比较华商鑫安与华商双驱优选在短、中、长期的业绩表现，以评估其投资策略的有效性。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 2024年，航空公司的收入预计将持续增长，反映出市场复苏的迹象。",
+            "Comparison: 华商鑫安和华商双驱优选在短、中、长期均持续跑赢业绩基准和市场指数，表明其投资策略的成功。",
+            "Extreme: 华商鑫安的历史总收益率为230.56%，相对沪深300超额为201.83%，显示出其长期投资的成功。",
+            "Attribution: 由于加强技术研发，青达环保和洛阳钼业的市场拓展能力增强，推动了其股价的上涨。"
+        ],
+        "summary": "本报告分析了华商基金在市场中的表现及其未来的投资策略，强调了基金经理在不同市场环境下的灵活应对能力。",
+        "flag_id": "flag-82",
+        "classifier": "Fund Analysis",
+        "classifier_cn": "基金分析",
+        "input_files": [
+            "output/dimension_data.db",
+            "output/fact_fund_performance.png"
+        ]
+    },
+    {
+        "goal": "比较2023年上半年优酷与抖音微短剧的景气指数，探讨其差异原因。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 2023年抖音的MAU达到7-8亿，微信的MAU达到10-11亿，显示出短剧内容的消费趋势与用户基数的扩张。",
+            "Comparison: 2023年，抖音的MAU（7-8亿）显著高于长视频平台（4-5亿），显示出短视频平台在用户吸引力上的优势。",
+            "Extreme: 2023年上半年，微短剧的景气指数最高达到1.04，显示出市场对短剧内容的强烈需求。",
+            "Attribution: 由于监管政策的不断出台，行业规范化进程加快，促进了短剧内容的健康发展。"
+        ],
+        "summary": "本报告分析了短剧行业的现状与未来趋势，强调了微短剧的兴起及其对产业链的影响，同时探讨了新渠道和新内容对供需两端的影响。",
+        "flag_id": "flag-155",
+        "classifier": "Short-form Drama",
+        "classifier_cn": "短剧/微短剧内容",
+        "input_files": [
+            "output/business_background.txt",
+            "output/dimension_data.db",
+            "output/streaming_events.png",
+            "output/user_profiles.json"
+        ]
+    },
+    {
+        "goal": "分析小鹏汽车2024年销量同比增长34.3%的主要驱动因素。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 小鹏汽车预计2025年销量为52.4万辆，2026年将增长至78.6万辆，2027年达到96.6万辆，显示出强劲的增长趋势。",
+            "Comparison: 小鹏汽车在2024年内销销量为17.1万辆，同比增长28.8%，与出口总量2.3万辆相比，内销市场表现更为强劲。",
+            "Extreme: 2024年9月销量达到21352辆，同比增长39.5%，为小鹏汽车的单月销量峰值。",
+            "Attribution: 销量的增长与新车周期的加速和门店数量的快速扩张直接相关，2023年门店数量从395家激增至690家，增速达74.68%。"
+        ],
+        "summary": "小鹏汽车在港股市场的表现受到销售渠道扩展和门店效率提升的显著影响，预计未来销量和营收将持续增长。",
+        "flag_id": "flag-111",
+        "classifier": "Internet Firms",
+        "classifier_cn": "互联网公司研究",
+        "input_files": [
+            "output/business_background.txt",
+            "output/sales_forecast.json",
+            "output/sales_performance.png",
+            "output/store_dimension.db"
+        ]
+    },
+    {
+        "goal": "比较亚太地区与中东和北非地区金融科技融资变化的原因及其市场潜力。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 预计到2028年，全球金融科技收入将产生15%的市场份额，尽管当前融资集中度不均。",
+            "Comparison: 中东和北非地区的融资量在2020年至2023年间翻了三番，显示出其增长潜力。",
+            "Extreme: 2023年，数字银行融资额为28亿美元，显示出该子领域的吸引力。",
+            "Attribution: 尽管金融科技融资近期有所放缓，但仍理由保持对该行业长期前景的乐观态度。"
+        ],
+        "summary": "本报告探讨了金融科技行业面临的挑战及其未来发展潜力，强调了政策和市场环境的重要性。",
+        "flag_id": "flag-118",
+        "classifier": "FinTech",
+        "classifier_cn": "金融科技",
+        "input_files": [
+            "output/business_background.txt",
+            "output/company_profiles.json",
+            "output/fintech_dimension.db",
+            "output/fintech_funding.png"
+        ]
+    },
+    {
+        "goal": "评估短剧市场的发展对相关传媒公司估值和财务状况的具体影响。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 新媒股份的EPS为2.66，ROE为6.47%，显示出其在传媒行业中的稳健表现。",
+            "Comparison: 吉比特的合理价值高达248.37元，远超其他公司，显示出其在市场中的独特地位。",
+            "Extreme: 光线传媒的收盘价为9.79元，低于其合理价值，显示出市场对其未来表现的谨慎态度。",
+            "Attribution: 由于短剧市场的快速发展，相关公司的估值和财务状况也受到积极影响，尤其是与短剧相关的公司。"
+        ],
+        "summary": "本报告对多家传媒公司的财务状况进行了深度分析，提供了最新的股票评级和合理价值，揭示了行业内的竞争格局和投资机会。",
+        "flag_id": "flag-43",
+        "classifier": "Short-form Drama",
+        "classifier_cn": "短剧/微短剧内容",
+        "input_files": [
+            "output/business_background.txt",
+            "output/dimension_data.db",
+            "output/fact_data.png",
+            "output/user_profiles.json"
+        ]
+    },
+    {
+        "goal": "比较九江银行与成都银行在绿色金融领域的创新实践和市场表现差异。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 九江银行绿色贷款余额在2022年增长24.03%，反映出中小银行在绿色金融领域的积极响应。",
+            "Comparison: 成都银行的绿色信贷余额为263.1亿元，同比增长145.11%，显示出其在绿色金融领域的突出表现。",
+            "Extreme: 九江银行绿色贷款增幅达到47%，显示出其在绿色金融领域的快速发展。",
+            "Attribution: 九江银行通过设立专门委员会和部门，推动绿色金融的发展，积极响应各类政策。"
+        ],
+        "summary": "本报告探讨了中小银行在绿色金融领域的创新实践与发展策略，强调了政策支持和市场需求的双重驱动。",
+        "flag_id": "flag-13",
+        "classifier": "FinTech",
+        "classifier_cn": "金融科技",
+        "input_files": [
+            "output/business_background.txt",
+            "output/dimension_data.db",
+            "output/green_finance_activities.json",
+            "output/green_loan_fact.png"
+        ]
+    },
+    {
+        "goal": "分析Meta在2023年实现电商全闭环对未来收入增长的影响。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: Meta在2023年实现电商全闭环，标志着其在社交电商领域的战略转型。",
+            "Comparison: Meta与Amazon的合作将其电商业务推向新的高度，然而，Meta的电商市场仍面临来自传统电商的激烈竞争。",
+            "Extreme: Meta在2023年开始的电商全闭环是其战略转型的关键里程碑，可能会对未来的收入增长产生重大影响。",
+            "Attribution: Meta的电商发展受到ATT框架的负面影响，但通过用户同意收集交易历史等信息，增强了其市场竞争力。"
+        ],
+        "summary": "本报告探讨了Meta在社交电商领域的进展及其与传统电商的不同之处，分析了未来发展的制约因素。",
+        "flag_id": "flag-23",
+        "classifier": "Internet Firms",
+        "classifier_cn": "互联网公司研究",
+        "input_files": [
+            "output/business_background.txt",
+            "output/meta_amazon_partnership.png",
+            "output/meta_ecommerce.db",
+            "output/user_profiles.json"
+        ]
+    },
+    {
+        "goal": "分析金融科技行业在2023年融资下降67%的原因。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 金融科技行业在过去十年中已成为金融服务业不可或缺的一部分，预计到2028年全球金融科技净收入将达到4000亿美元。",
+            "Comparison: 拉丁美洲的融资增长率为92%每年，显著高于美国和加拿大的29%。",
+            "Extreme: 2021年金融科技风险投资资金达到920亿美元，2023年降至300亿美元，下降幅度达到67%。",
+            "Attribution: 融资不均可能阻碍金融科技创新，尤其是在全球VC资金低迷的背景下，MENA和LAC地区的资金显著增长。"
+        ],
+        "summary": "本报告探讨了金融科技行业的创新驱动因素及其融资缺口，分析了不同地区的融资趋势和风险投资的影响。",
+        "flag_id": "flag-114",
+        "classifier": "FinTech",
+        "classifier_cn": "金融科技",
+        "input_files": [
+            "output/background.txt",
+            "output/dimension_data.db",
+            "output/financial_transactions.csv",
+            "output/user_profiles.json"
+        ]
+    },
+    {
+        "goal": "探讨腾讯在社交电商和游戏领域的创新如何影响其用户增长和收入结构，以制定未来的市场策略。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 随着微信的上线，腾讯的社交广告收入实现了有效增长，反映出用户偏好的变化对收入结构的影响。",
+            "Comparison: 在广告收入占比方面，Meta FY23广告收入占比高达98%，而腾讯仅为17%，表明两者在收入来源上的根本差异。",
+            "Extreme: Meta在2022年首次出现收入下滑（-1% YoY），而腾讯的收入则保持增长，反映出两者在市场环境中的不同表现。",
+            "Attribution: Meta的收入下滑与IDFA新政、TikTok竞争及宏观经济压力直接相关，显示出外部环境对其收入的影响。"
+        ],
+        "summary": "本报告深入分析了腾讯与Meta在收入结构、用户覆盖及市场策略上的差异，揭示了两者在社交业务中的不同发展轨迹及未来潜力。",
+        "flag_id": "flag-22",
+        "classifier": "Internet Firms",
+        "classifier_cn": "互联网公司研究",
+        "input_files": [
+            "output/background.txt",
+            "output/market_strategy.db",
+            "output/social_media_revenue.csv",
+            "output/user_profiles.json"
+        ]
+    },
+    {
+        "goal": "比较不同能效标准对行业技术应用的影响及其发展趋势。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 第9页提到的绿色可持续发展目标与第10页的技术应用趋势相结合，表明行业正在向更高的能效标准迈进。",
+            "Comparison: 第13页的绿色节能等级与第14页的AI技术应用形成对比，强调了技术与标准的相辅相成。",
+            "Extreme: 第15页提到的通过AI技术实现的节能效果，显示出技术应用的极端效益。",
+            "Attribution: 第17页提到的绿色AI技术与第18页的能效提升直接相关，显示出技术创新对行业发展的重要性。"
+        ],
+        "summary": "本报告探讨了数据中心绿色节能建设的政策背景、技术应用及其对行业未来的影响，强调了政策与技术的协同作用。",
+        "flag_id": "flag-75",
+        "classifier": "AI Healthcare",
+        "classifier_cn": "AI 医疗健康",
+        "input_files": [
+            "output/business_background.txt",
+            "output/device_data.json",
+            "output/dimension_data.db",
+            "output/green_energy_fact.csv"
+        ]
+    },
+    {
+        "goal": "比较杭州与深圳、上海在区块链技术专利申请量上的差异，并探讨其背后的政策和市场因素。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 杭州在区块链技术领域的专利申请量均高于深圳和上海，排名仅次于北京。",
+            "Comparison: 中国银行和工商银行在生物识别技术领域的专利申请量遥遥领先其他创新主体。",
+            "Extreme: 中国银行在量子安全技术的专利申请量位列第一，显示出其在该领域的技术实力。",
+            "Attribution: 政策推动和市场需求是促进各城市金融科技发展的重要因素，尤其是在普惠金融和数字金融领域。"
+        ],
+        "summary": "本报告探讨了中国主要城市在金融科技领域的专利申请情况，揭示了区域间的差异及其对行业发展的影响。",
+        "flag_id": "flag-4",
+        "classifier": "FinTech",
+        "classifier_cn": "金融科技",
+        "input_files": [
+            "output/business_background.txt",
+            "output/dimension_data.db",
+            "output/patent_applications.csv",
+            "output/user_profiles.json"
+        ]
+    },
+    {
+        "goal": "分析2023年小程序短剧市场规模快速增长的原因。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 自2019年快手推出短剧以来，短剧行业逐渐兴起，2023年小程序短剧的市场规模预计将持续快速增长，单日投流消耗从2000万增长至过亿。",
+            "Comparison: 2023年上半年微短剧的景气指数前30名中，优酷的《锁爱三生》以1.04的景气指数领先，抖音的《二十九》以0.789紧随其后。",
+            "Extreme: 2023年小程序短剧的单剧充值从破千万到破亿，显示出用户付费意愿的显著提升。",
+            "Attribution: 微短剧的兴起与供需双端的共振密切相关，内容变短契合消费趋势，载体变迁扩张用户基数，推动了行业的快速发展。"
+        ],
+        "summary": "本报告分析了短剧行业的现状与未来趋势，强调了微短剧的兴起及其对产业链的影响，同时探讨了新渠道和新内容对供需两端的影响。",
+        "flag_id": "flag-154",
+        "classifier": "Short-form Drama",
+        "classifier_cn": "短剧/微短剧内容",
+        "input_files": [
+            "output/business_background.txt",
+            "output/dimension_data.db",
+            "output/short_drama_market.csv",
+            "output/user_profiles.json"
+        ]
+    },
+    {
+        "goal": "评估湘财证券与益盟股份合作对投资咨询业务收入增长的具体影响。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 2024年湘财证券的投行业务收入预计为0.85亿元，占比5%，显示出其业务多元化的趋势。",
+            "Comparison: 截至2024年，湘财证券的投资咨询业务收入实现显著增长，显示出与益盟股份合作的积极成效。",
+            "Extreme: 2022年湘财证券的自营业务收入为4.33亿元，占比26%，显示出其在自营业务上的强劲表现。",
+            "Attribution: 双方的合作有助于湘财证券在投顾服务领域建立领先品牌，进一步增强市场竞争力。"
+        ],
+        "summary": "湘财证券与益盟股份的战略合作旨在提升服务品质与业务能力，推动金融科技的创新与发展。",
+        "flag_id": "flag-120",
+        "classifier": "FinTech",
+        "classifier_cn": "金融科技",
+        "input_files": [
+            "output/business_background.txt",
+            "output/investment_revenue.csv",
+            "output/partnership.db",
+            "output/user_profiles.json"
+        ]
+    },
+    {
+        "goal": "分析2008年中国网民数量增长的主要驱动因素。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 截至2008年6月底，中国网民数量达到2.53亿，同比增长9100万人，增长率为56.2%。",
+            "Comparison: 中国网民数量2.53亿，超过美国的2.18亿，成为世界第一。",
+            "Extreme: 第5页显示截至2008年6月底，中国网民数量达到2.53亿，成为全球第一。",
+            "Attribution: 网民数量的快速增长与上网设备成本的下降和居民收入水平的提高密切相关。"
+        ],
+        "summary": "本报告总结了2008年中国互联网的快速发展，特别是在网民数量、上网方式和网络应用方面的显著变化，强调了互联网对社会和经济的深远影响。",
+        "flag_id": "flag-174",
+        "classifier": "Internet Dev.",
+        "classifier_cn": "互联网发展",
+        "input_files": [
+            "output/background.txt",
+            "output/device_event_logs.json",
+            "output/dimension_data.db",
+            "output/internet_user_statistics.csv"
+        ]
+    },
+    {
+        "goal": "评估即时零售市场的复合增速对阿里巴巴未来收入增长的影响。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 即时零售市场预计到2030年将突破3万亿，复合增速达到25%。",
+            "Comparison: 阿里巴巴的电商业务收入占比52%，而国际数字商业仅占12%，显示出国内市场的强劲表现。",
+            "Extreme: 即时零售业务在2025年第二季度实现收入148亿元，同比增长12%，显示出业务的快速增长。",
+            "Attribution: 由于AI和大模型快速发展的带动，云需求强劲且持续，预计阿里云的收入将持续增长。"
+        ],
+        "summary": "阿里巴巴在消费和云+AI领域的持续投入，尽管面临激烈的市场竞争和利润率压力，但预计未来将实现稳健增长，尤其是在即时零售和云服务方面。",
+        "flag_id": "flag-144",
+        "classifier": "Internet Firms",
+        "classifier_cn": "互联网公司研究",
+        "input_files": [
+            "output/background.txt",
+            "output/dimension_data.db",
+            "output/sales_data.csv",
+            "output/user_profiles.json"
+        ]
+    },
+    {
+        "goal": "分析2008年金融危机对银行贷款市场的具体影响。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 2008年到2010年，银行贷款下降了20%以上，而金融公司贷款在2010年至2016年间增长了55%。",
+            "Comparison: 2016年，非银行贷款人提供了大部分小企业贷款，而银行贷款在同年仅占小企业贷款的40%。",
+            "Extreme: 第4页显示了非银行贷款市场份额增加了6.9个百分点，表明其在小企业贷款中的重要性。",
+            "Attribution: 银行贷款的下降与2008年金融危机的负面冲击直接相关，而非银行贷款的增长则是由于对小企业贷款需求的增加和银行贷款供应的减少所致。"
+        ],
+        "summary": "自2008年金融危机以来，小企业贷款市场经历了显著变化，银行贷款的减少被金融公司和金融科技贷款人的崛起所抵消，非银行贷款市场份额显著增加。",
+        "flag_id": "flag-109",
+        "classifier": "FinTech",
+        "classifier_cn": "金融科技",
+        "input_files": [
+            "output/business_background.txt",
+            "output/dimension_tables.db",
+            "output/loan_market_fact.csv",
+            "output/policy_impact.json"
+        ]
+    },
+    {
+        "goal": "分析北京在微短剧产业中领先地位的原因，包括政治、文化中心的影响及资源和人才储备。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 2025年中国微短剧产业综合实力城市排名显示，北京以91.7分领跑，郑州和西安分别以86.9分和86.6分紧随其后，显示出北京在微短剧产业的持续优势。",
+            "Comparison: 北京在微短剧出海实力方面占据全国50%以上的市场份额，深圳和杭州分别排名第二和第三，显示出三座城市在出海能力上的明显差异。",
+            "Extreme: 北京的综合得分91.7分是所有城市中最高的，显示出其在微短剧产业中的绝对领先地位。",
+            "Attribution: 北京的领先地位得益于其作为全国政治、文化中心的地位，以及强大的资源和人才储备。"
+        ],
+        "summary": "本报告分析了2025年中国微短剧产业在不同城市的表现，揭示了北京在综合实力、出海能力和制作实力方面的领先地位，同时指出郑州和西安在制作实力上的并列第一。",
+        "flag_id": "flag-61",
+        "classifier": "Short-form Drama",
+        "classifier_cn": "短剧/微短剧内容",
+        "input_files": [
+            "output/background.txt",
+            "output/city_profiles.json",
+            "output/dimension_data.db",
+            "output/industry_facts.csv"
+        ]
+    },
+    {
+        "goal": "比较东部和中部地区企业互联网使用率的差异及其原因。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 手机网民规模达5亿，较2012年底增加8009万人，网民中使用手机上网的人群占比由74.5%提升至81.0%。",
+            "Comparison: 北京、上海、广东等省市的互联网普及率超过65%，而江西、云南、贵州等省份的互联网普及率均不到33%。",
+            "Extreme: 2013年，微博用户规模下降2783万人，使用率降低9.2个百分点，显示出社交媒体的挑战。",
+            "Attribution: 手机网民规模的持续增长得益于3G的普及、无线网络的发展和智能手机的价格持续走低。"
+        ],
+        "summary": "本报告总结了中国互联网在2014年的发展状况，涵盖了网民规模、互联网普及率、手机应用的增长以及各地区的互联网使用情况，揭示了政策支持和技术进步对互联网发展的重要影响。",
+        "flag_id": "flag-192",
+        "classifier": "Internet Dev.",
+        "classifier_cn": "互联网发展",
+        "input_files": [
+            "output/dimension_data.db",
+            "output/industry_background.txt",
+            "output/internet_users_fact.csv",
+            "output/user_agents.json"
+        ]
+    },
+    {
+        "goal": "比较华泰证券和国泰海通在信息技术投入上的差异及其对业务发展的影响。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 有七家证券公司信息技术投入同比2023年有所增长，显示出行业整体向好的趋势。",
+            "Comparison: 中金公司在信息技术投入占净利润比例方面最高，达到51.7%，远超其他券商。",
+            "Extreme: 国投证券的信息技术投入占净利润比例最高，达到42%。"
+        ],
+        "summary": "本报告分析了2024年证券公司在信息技术方面的投入情况，显示出头部券商的持续增长趋势，同时也揭示了中小券商的潜在增长机会。",
+        "flag_id": "flag-121",
+        "classifier": "Fund Analysis",
+        "classifier_cn": "基金分析",
+        "input_files": [
+            "output/business_background.txt",
+            "output/company_comparison.json",
+            "output/company_dimension.db",
+            "output/investment_payloads.json",
+            "output/securities_investment.csv"
+        ]
+    },
+    {
+        "goal": "探讨华商电子行业量化基金超额收益的主要来源及其投资策略的有效性。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 在上涨市场中，该基金的业绩为61.93%，而在下跌市场中业绩为-29.65%，显示出其在不同市场状态下的表现差异。",
+            "Comparison: 华商电子行业量化的机构投资者比例从2019年Q4的4%上升至2024Q2的45%，而华商计算机行业量化的机构投资者比例从3%上升至26%。",
+            "Extreme: 截至2024年三季末，华商电子行业量化基金的最新规模为4.07亿元，显示出其在市场中的吸引力。",
+            "Attribution: 艾定飞能够在电子行业行情到来或市场超跌反弹时把握机会，获取显著优于业绩基准的回报。"
+        ],
+        "summary": "华商电子行业量化基金自成立以来表现优异，累计收益率达到52.31%，显著跑赢沪深300指数，显示出其在市场波动中的抗跌能力和投资策略的有效性。",
+        "flag_id": "flag-93",
+        "classifier": "Fund Analysis",
+        "classifier_cn": "基金分析",
+        "input_files": [
+            "output/business_background.txt",
+            "output/dimension_data.db",
+            "output/fund_manager_profiles.json",
+            "output/trades.csv"
+        ]
+    },
+    {
+        "goal": "评估百纳千成电影业务增长300%的原因及其对行业的潜在影响。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 百纳千成预计2023年营业总收入将同比增长19.3%，显示出其在影视项目储备和创新业务推进上的积极影响。",
+            "Comparison: 捷成股份与百纳千成在影视版权运营及服务收入上均有显著增长，分别预计为39.9亿元和5.59亿元。",
+            "Extreme: 华策影视的净利润在2023年预计为4.79亿元，显示出其盈利能力的提升。",
+            "Attribution: 随着经济复苏，广告业务收入预计恢复增长，推动了短剧行业的整体发展。"
+        ],
+        "summary": "本报告探讨了微短剧行业的投资机会与潜在风险，强调了供需共振及行业规范的重要性。",
+        "flag_id": "flag-156",
+        "classifier": "Short-form Drama",
+        "classifier_cn": "短剧/微短剧内容",
+        "input_files": [
+            "output/industry_background.txt",
+            "output/orders_fact.csv",
+            "output/user_dimension.db",
+            "output/user_profiles.json"
+        ]
+    },
+    {
+        "goal": "比较北京与甘肃在互联网用户数量上的差异及其影响因素。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 手机网民规模达到1.55亿人，半年内增长32.1%。",
+            "Comparison: 网络购物用户规模由7400万扩大到8788万，增加了近1400万用户，显示出电子商务在金融危机中的逆势上扬。",
+            "Extreme: 每6个网民中有1个具有上网成瘾的倾向，反映出网络成瘾问题的严重性。",
+            "Attribution: 网络安全问题的严重性，半年内有1.95亿网民遇到病毒和木马攻击，可能制约电子商务和网上支付的发展。"
+        ],
+        "summary": "本报告总结了中国互联网在2009年上半年的发展状况，涵盖了网民规模、上网行为、网络安全及电子商务等多个方面，揭示了互联网的快速增长与面临的挑战。",
+        "flag_id": "flag-179",
+        "classifier": "Internet Dev.",
+        "classifier_cn": "互联网发展",
+        "input_files": [
+            "output/background.txt",
+            "output/dimension_data.db",
+            "output/network_security_events.csv",
+            "output/sales_data.csv",
+            "output/user_profiles.json"
+        ]
+    },
+    {
+        "goal": "评估学而思网校MAU增长158%的原因及其对整体收入增长的影响。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: FY2025-FY2028 Non-GAAP归母净利润CAGR为45%，显示出强劲的增长潜力。",
+            "Comparison: 好未来的FY2025学习服务和其他业务收入为15.4亿美元，同比增长46%，与整体收入增长趋势一致。",
+            "Extreme: 截至2021年2月底，公司正价长期课程的季度平均入学人次达到约470万，显示出双减前的高峰。",
+            "Attribution: 学而思素养和学习机是主要增长驱动，预计未来收入将持续增长。"
+        ],
+        "summary": "好未来在响应国家双减政策后，成功转型为素质教育和教育科技，预计未来收入和净利润将持续增长，尤其是学习服务和智能教育硬件的推动下。",
+        "flag_id": "flag-159",
+        "classifier": "Internet Firms",
+        "classifier_cn": "互联网公司研究",
+        "input_files": [
+            "output/business_background.txt",
+            "output/enrollment_details.json",
+            "output/financial_performance.csv",
+            "output/growth_drivers.db"
+        ]
+    },
+    {
+        "goal": "分析万达电影低ROE的原因及其对公司盈利能力的影响。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 光线传媒的PE为54.39，显示出市场对其未来增长的预期较高，而万达电影的PE高达195.29，反映出其面临的市场压力。",
+            "Comparison: 横店影视的合理价值为20.50元，收盘价为16.47元，显示出其市场估值的潜在上升空间。",
+            "Extreme: 万达电影的ROE仅为1.80%，是所有分析公司中最低的，反映出其盈利能力的不足。",
+            "Attribution: 传媒行业的整体估值受到市场竞争加剧和用户付费意识薄弱的影响，导致多家公司面临盈利压力。"
+        ],
+        "summary": "本报告对多家传媒公司的财务状况进行了深度分析，提供了最新的股票评级和合理价值，揭示了行业内的竞争格局和投资机会。",
+        "flag_id": "flag-42",
+        "classifier": "Fund Analysis",
+        "classifier_cn": "基金分析",
+        "input_files": [
+            "output/background.txt",
+            "output/media_dimension.db",
+            "output/media_transactions.csv",
+            "output/user_profiles.json"
+        ]
+    },
+    {
+        "goal": "比较学而思网校与高途和猿辅导的用户增长策略，找出其竞争优势所在。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 活跃用户30天留存率稳定在16-20%区间，表明用户粘性增强。",
+            "Comparison: 2024年英语天天练App的月活用户数量从不到50万人增长至511万人，增长显著。",
+            "Extreme: 2022年公司总收入为10.2亿美元，显示出双减政策实施后的最低点。",
+            "Attribution: 双减后K12在线教育行业重新洗牌，学而思网校与同行逐渐拉开差距。"
+        ],
+        "summary": "学而思网校在用户增长和市场渗透率方面表现出色，尤其是在推出新产品和响应政策后，活跃用户留存率稳定。",
+        "flag_id": "flag-160",
+        "classifier": "Internet Firms",
+        "classifier_cn": "互联网公司研究",
+        "input_files": [
+            "output/business_background.txt",
+            "output/revenue_market_data.json",
+            "output/user_retention_fact.csv",
+            "output/users_dimension.db"
+        ]
+    },
+    {
+        "goal": "评估短剧行业审查政策收紧对红果短剧盈利能力的影响，特别是制作成本的变化。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 短剧行业的市场规模从2021年的36.8亿元快速增长至2023年的373.9亿元，预计2024年将达到504亿元，同比增长率为35%。",
+            "Comparison: 与光线传媒的合理价值10.52元相比，红果短剧的市场表现更为突出，显示出其在短剧市场中的领先地位。",
+            "Extreme: 短剧用户的付费率约为0.5%-1%，显示出市场对付费内容的接受度仍然较低。",
+            "Attribution: 由于短剧的审查政策收紧和市场竞争加剧，短剧制作成本提升，导致利润率降低，这也影响了红果短剧的盈利能力。"
+        ],
+        "summary": "红果短剧在短剧行业中迅速崛起，市场规模预计达到504亿元，用户活跃度显著提升，IAA短剧成为主要增长动力。通过与多家版权方的合作，红果短剧展现出强大的市场竞争力。",
+        "flag_id": "flag-41",
+        "classifier": "Short-form Drama",
+        "classifier_cn": "短剧/微短剧内容",
+        "input_files": [
+            "output/background.txt",
+            "output/short_drama_market.csv",
+            "output/short_drama_performance.db",
+            "output/user_profiles.json"
+        ]
+    },
+    {
+        "goal": "分析稳定币使用增加对央行货币政策管理能力的影响。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 随着稳定币的使用增加，可能取代主权货币的趋势逐渐显现，影响央行的货币政策管理能力。",
+            "Comparison: 稳定币与比特币等现有虚拟资产相比，波动幅度较小，但仍需超额抵押以确保其稳定性。",
+            "Extreme: 比特币等现有虚拟资产的波动幅度可超过10%，而稳定币的设计旨在减少这种波动性。",
+            "Attribution: 如果某个司法管辖区的公民和企业开始使用稳定币代替主权货币，可能影响央行有效管理财政政策的能力，导致宏观经济的不稳定。"
+        ],
+        "summary": "本报告探讨了稳定币在金融体系中的作用及其对宏观经济的潜在威胁，强调了监管机构在应对这些挑战中的重要性。",
+        "flag_id": "flag-45",
+        "classifier": "FinTech",
+        "classifier_cn": "金融科技",
+        "input_files": [
+            "output/background.txt",
+            "output/dimension_data.db",
+            "output/trade_fact.csv",
+            "output/user_profiles.json"
+        ]
+    },
+    {
+        "goal": "分析阿里巴巴FY2025和FY2026的经调整净利润增长原因及其对未来财务展望的影响。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 阿里巴巴的经调整净利润预计在FY2025达到1703.22亿元，FY2026将增至1934.54亿元，显示出8.2%和13.6%的同比增速。",
+            "Comparison: 阿里巴巴的智能云业务收入增速预计将超过谷歌云的14%利润率，阿里巴巴的AI云EBIT Margin为15.7%。",
+            "Extreme: 阿里巴巴FY25Q3资本开支高达314亿元，同比增长331%，显示出公司对云和AI硬件基础设施的重视。",
+            "Attribution: 阿里巴巴的收入增长提速与AI需求的提升密切相关，尤其是在云业务领域，预计未来三年将投入超过3800亿元用于云和AI硬件基础设施。"
+        ],
+        "summary": "本报告分析了阿里巴巴的收入增长、利润率提升及其在云业务市场的竞争格局，预计未来将超出市场预期，尤其是在AI驱动的云业务领域。",
+        "flag_id": "flag-132",
+        "classifier": "Internet Firms",
+        "classifier_cn": "互联网公司研究",
+        "input_files": [
+            "output/business_background.txt",
+            "output/dimension_data.db",
+            "output/orders_fact.csv",
+            "output/user_profiles.json"
+        ]
+    },
+    {
+        "goal": "比较数字普惠金融与传统金融服务在农村地区的互联网普及率变化及其影响。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 2022年中国大陆海运费达到1.7万亿左右，显示出金融科技在各个领域的广泛应用。",
+            "Comparison: 与传统金融服务相比，数字普惠金融在农村地区的互联网普及率为60.5%，较2022年提升1.7个百分点，显示出数字技术在普惠金融中的重要作用。",
+            "Extreme: 截至2023年上半年，我国网络安全市场规模约为633亿元，同比增长3.1%，反映出数字金融环境的安全需求日益增加。",
+            "Attribution: 数字服务平台赋能中小微企业碳资产管理的数智化发展，体现了金融科技在绿色金融中的应用潜力。"
+        ],
+        "summary": "本报告探讨了金融科技在数字普惠金融中的应用与发展，强调了技术融合与创新对提升服务效率的重要性。",
+        "flag_id": "flag-9",
+        "classifier": "FinTech",
+        "classifier_cn": "金融科技",
+        "input_files": [
+            "output/background.txt",
+            "output/dimension_company.db",
+            "output/financial_tech_trends.csv",
+            "output/user_profiles.json"
+        ]
+    },
+    {
+        "goal": "分析红果短剧平台用户增长的主要驱动因素，特别是与抖音流量池的关系。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 2023年1月至2023年12月，红果短剧月活用户（MAU）从32万增长3040.6%至1005万用户，2024年9月MAU预计达到1.2亿，同比增长1045.9%。",
+            "Comparison: 红果短剧的月活用户已超过5000万，显示出其在短剧市场中的竞争力，远超其他平台如爱奇艺和腾讯视频。",
+            "Extreme: 2024年6月单月总分账过1亿，2024年9月分账持续超过2亿，显示出红果短剧在盈利能力上的显著提升。",
+            "Attribution: 红果短剧的成功与其背靠抖音的流量池、丰富的内容储备以及采取的免费制盈利模式密切相关。"
+        ],
+        "summary": "红果短剧平台自2023年推出以来，凭借强大的流量支持和多样化的盈利模式，实现了用户和收益的双重增长，预计未来市场规模将持续扩大。",
+        "flag_id": "flag-123",
+        "classifier": "Short-form Drama",
+        "classifier_cn": "短剧/微短剧内容",
+        "input_files": [
+            "output/business_background.txt",
+            "output/dimension_data.db",
+            "output/monthly_active_users.csv",
+            "output/platform_comparison.json"
+        ]
+    },
+    {
+        "goal": "分析腾讯营收和净利润预期增长的主要驱动因素。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 腾讯的营收预期从2024年的6613亿元逐年增长至2026年的7649亿元，显示出稳定的增长趋势。",
+            "Comparison: 腾讯的市值增长近500倍，成为中国经济数字化转型的重要推动力量，显示出其在行业中的领先地位。",
+            "Extreme: 腾讯在2023年推出的混元大模型，标志着其在AI领域的重大突破，预计将推动未来的业务增长。",
+            "Attribution: 腾讯的战略升级与移动互联网人口红利消退密切相关，促使其加速向产业互联网转型。"
+        ],
+        "summary": "腾讯在过去二十年中经历了多轮科技浪潮，成功转型为全球科技巨头，未来营收和净利润预期持续增长，展现出强大的市场竞争力。",
+        "flag_id": "flag-103",
+        "classifier": "Internet Firms",
+        "classifier_cn": "互联网公司研究",
+        "input_files": [
+            "output/business_background.txt",
+            "output/dimension_data.db",
+            "output/order_facts.csv",
+            "output/revenue_forecast.csv",
+            "output/strategic_shift.json"
+        ]
+    },
+    {
+        "goal": "分析2004年上半年中国上网用户增长的主要驱动因素。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 截至2004年6月30日，中国上网用户总人数达到8700万，半年增加750万，增长率为9.4%。",
+            "Comparison: 与1997年第一次调查相比，网民人数增长了140.3倍，显示出互联网的快速普及。",
+            "Extreme: 截至2004年6月30日，WWW站点总数为626600个，半年内增加31050个，增长率为5.2%。",
+            "Attribution: 网民人数的显著增长与家庭电脑普及和互联网使用成本降低密切相关。"
+        ],
+        "summary": "本报告分析了中国互联网的快速发展，特别是用户增长、上网方式的变化以及用户特征的演变，揭示了互联网在中国社会中的重要性和影响力。",
+        "flag_id": "flag-168",
+        "classifier": "Internet Dev.",
+        "classifier_cn": "互联网发展",
+        "input_files": [
+            "output/business_background.txt",
+            "output/china_internet_users.csv",
+            "output/user_profiles.json",
+            "output/www_sites.db"
+        ]
+    },
+    {
+        "goal": "分析阿里云未来三年3800亿资本投入对收入增速的具体影响。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 预计阿里云未来三年将投入3800亿于AI与云基础设施，推动收入增速上移至20%+区间。",
+            "Comparison: 阿里云在国内及亚洲市场份额第一，收入增速提升5-20个百分点，领先于AWS和Azure。",
+            "Extreme: 2023年阿里云核心产品价格全线下调15%至50%，是其历史上最大力度的降价。",
+            "Attribution: 由于高资本投入，阿里云确保了在AI时代的领先地位，未来三年AI及云基础设施capex投入将达3800亿元。"
+        ],
+        "summary": "本报告分析了阿里云在AI时代的商业模式、市场地位及其未来发展潜力，强调了其在技术、资本投入及市场份额方面的竞争优势。",
+        "flag_id": "flag-14",
+        "classifier": "Internet Firms",
+        "classifier_cn": "互联网公司研究",
+        "input_files": [
+            "output/background.txt",
+            "output/cloud_investment.csv",
+            "output/market_comparison_extra.json",
+            "output/market_dimension.db"
+        ]
+    },
+    {
+        "goal": "比较迈瑞医疗和联影医疗的技术优势，探讨其在市场中的表现差异。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 行业政策变动可能影响未来的业绩表现，需密切关注。",
+            "Comparison: 与其他企业相比，科伦药业和恩华药业在市场中的表现更为稳定。",
+            "Extreme: 行业政策变动可能导致部分企业面临业绩风险，需谨慎投资。",
+            "Attribution: 行业政策变动直接影响了市场情绪和投资者信心。"
+        ],
+        "summary": "本周推荐的股票组合包括多家医药企业，同时提示了行业政策变动和业绩风险。",
+        "flag_id": "flag-72",
+        "classifier": "Fund Analysis",
+        "classifier_cn": "基金分析",
+        "input_files": [
+            "output/business_background.txt",
+            "output/company_device_data.json",
+            "output/market_analysis_fact.csv",
+            "output/pharmaceutical_companies.db"
+        ]
+    },
+    {
+        "goal": "比较美洲与欧洲、中东和非洲地区金融科技融资金额变化的原因及其对市场的影响。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 预计到2025年，美国嵌入式金融行业的收入将快速增长至超过2,300亿美元。",
+            "Comparison: 全能型金融科技公司与横向型金融科技公司在市场策略上存在显著差异，前者提供广泛服务，后者专注于特定客户群。",
+            "Extreme: DeFi在整个金融服务生态系统中只占相对较小的份额（50亿美元），反映出其市场渗透率的局限性。",
+            "Attribution: 全球监管机构对金融科技公司实施了更严格的审查和合规要求，导致企业在投资决策中将风险管理和合规融入产品设计。"
+        ],
+        "summary": "本报告分析了金融科技行业的快速发展及其面临的挑战，强调了客户体验、数据隐私和监管合规的重要性，并探讨了未来的商业模式和技术创新。",
+        "flag_id": "flag-31",
+        "classifier": "FinTech",
+        "classifier_cn": "金融科技",
+        "input_files": [
+            "output/business_background.txt",
+            "output/company_profiles.json",
+            "output/dimension_data.db",
+            "output/fintech_fact.csv"
+        ]
+    },
+    {
+        "goal": "比较不同地区（如北京、上海、广东）在互联网发展上的差异及其原因。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 宽带上网用户人数增长率为78.7%，显示出宽带接入方式的快速普及。",
+            "Comparison: 北京、上海、广东等地的域名注册数量明显高于其他地区，反映出经济发达地区的互联网发展优势。",
+            "Extreme: 国际出口带宽总容量达到53941M，与半年前相比增加26725M，增长率为98.2%。",
+            "Attribution: 未婚网民的比例增加与年轻网民的增长趋势相符，反映出社会结构的变化。"
+        ],
+        "summary": "本报告分析了中国互联网的快速发展，特别是用户增长、上网方式的变化以及用户特征的演变，揭示了互联网在中国社会中的重要性和影响力。",
+        "flag_id": "flag-169",
+        "classifier": "Internet Dev.",
+        "classifier_cn": "互联网发展",
+        "input_files": [
+            "output/background.txt",
+            "output/bandwidth_statistics.csv",
+            "output/domain_registration.json",
+            "output/user_dimension.db"
+        ]
+    },
+    {
+        "goal": "探讨2013年微博用户规模下降的原因及其对社交媒体的影响。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 2013年，网络购物用户规模增长至3.02亿，年增长率为24.7%。",
+            "Comparison: 手机网络游戏用户数2.15亿，年增长率54.5%，而网络游戏用户规模仅增长234万，显示出手机游戏的快速发展。",
+            "Extreme: 手机视频用户增长率高达83.8%，达到2.47亿，成为移动互联网的重要应用。",
+            "Attribution: 2013年网络购物用户规模的增长得益于电商企业从“价格驱动”转向“服务驱动”，以及整体应用环境的优化。"
+        ],
+        "summary": "本报告总结了中国互联网在2014年的发展状况，涵盖了网民规模、互联网普及率、手机应用的增长以及各地区的互联网使用情况，揭示了政策支持和技术进步对互联网发展的重要影响。",
+        "flag_id": "flag-193",
+        "classifier": "Internet Dev.",
+        "classifier_cn": "互联网发展",
+        "input_files": [
+            "output/background.txt",
+            "output/dimensions.db",
+            "output/orders.csv",
+            "output/user_profiles.json"
+        ]
+    },
+    {
+        "goal": "比较一线和新一线城市学习机渗透率的差异及其对市场策略的影响。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 2025年一季度学习机销量127万台，同比增长29%，表明产品受欢迎程度上升。",
+            "Comparison: 2025年一季度线上渠道销量占比约65-70%，显示出线上销售的强劲增长。",
+            "Extreme: 线下机构压减比例达到95.6%，显示出行业的剧烈变化。",
+            "Attribution: 后“双减”时代，学习平板顺势承载了培训补习需求，对高质量、个性化内容需求加强。"
+        ],
+        "summary": "好未来在教育科技领域的战略方向明确，特别是在AI应用和智能硬件的推出上，展现出强大的市场潜力。",
+        "flag_id": "flag-161",
+        "classifier": "Internet Dev.",
+        "classifier_cn": "互联网发展",
+        "input_files": [
+            "output/background.txt",
+            "output/dimension_data.db",
+            "output/sales_data.csv",
+            "output/user_profiles.json"
+        ]
+    },
+    {
+        "goal": "比较华商计算机行业量化与华商电子行业量化在机构投资者比例上的变化及其市场认可度的差异。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 管理人员工持有华商计算机行业量化的份额在2023年Q2显著增加，反映出对基金表现的信心。",
+            "Comparison: 华商电子行业量化的机构投资者比例在同一时期上升幅度更大，从4%上升至45%。",
+            "Extreme: 在2022至2024年的熊市期间，华商计算机行业量化的表现相对稳定，显示出其风险控制能力。",
+            "Attribution: 管理人员工持有份额的增加反映了基金公司内部员工对基金的前景和表现有信心，表明了该基金经理的内部评价较高。"
+        ],
+        "summary": "华商计算机行业量化产品在市场波动中展现出良好的收益弹性和风险分散策略，管理人员持有情况的增加反映出对基金前景的信心。",
+        "flag_id": "flag-95",
+        "classifier": "Fund Analysis",
+        "classifier_cn": "基金分析",
+        "input_files": [
+            "output/background.txt",
+            "output/dimension_data.db",
+            "output/fund_profiles.json",
+            "output/market_analysis.csv"
+        ]
+    },
+    {
+        "goal": "比较百度与阿里巴巴和腾讯在AI云市场的竞争力，分析其市场份额的变化及影响因素。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 2023年百度的毛利率为51.7%，预计到2026年将保持在51.4%左右，显示出盈利能力的稳定性。",
+            "Comparison: 与阿里巴巴和腾讯相比，百度在AI云市场的份额为32.4%，显示出其在云服务领域的竞争力。",
+            "Extreme: 2024年预计百度的在线营销收入将达到725亿元，显示出其广告业务的强劲复苏。",
+            "Attribution: 广告需求的恢复与AI相关业务的推动是未来收入增长的主要驱动力。"
+        ],
+        "summary": "本报告提供了百度集团未来几年的盈利预测，强调其在AI与自动驾驶等新技术领域的持续投资，并分析了其股价走势及估值。",
+        "flag_id": "flag-53",
+        "classifier": "Internet Firms",
+        "classifier_cn": "互联网公司研究",
+        "input_files": [
+            "output/advertising_fact.csv",
+            "output/business_background.txt",
+            "output/dimension_data.db",
+            "output/user_contacts.json",
+            "output/user_profiles.json"
+        ]
+    },
+    {
+        "goal": "分析2022年中小银行绿色贷款余额增长的主要驱动因素。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 2022年末，我国本外币绿色贷款余额达到22.03万亿元，同比增长38.5%，显示出绿色金融的快速发展。",
+            "Comparison: 与大型银行相比，中小银行在绿色金融产品的创新和市场拓展上仍显不足，绿色信贷余额普遍较低。",
+            "Extreme: 2022年，平安银行绿色金融业务余额为1700.5亿元，较上年末增长49.52%，显示出其在绿色金融市场的强劲增长。",
+            "Attribution: 由于政策支持和市场需求的双重驱动，中小银行在绿色金融领域的创新实践不断推进。"
+        ],
+        "summary": "本报告探讨了中小银行在绿色金融领域的创新实践与发展策略，强调了政策支持和市场需求的双重驱动。",
+        "flag_id": "flag-12",
+        "classifier": "FinTech",
+        "classifier_cn": "金融科技",
+        "input_files": [
+            "output/bank_dimension.db",
+            "output/bank_profiles.json",
+            "output/business_background.txt",
+            "output/green_loan_fact.csv"
+        ]
+    },
+    {
+        "goal": "分析阿里巴巴FY25Q1公有云产品收入双位数增长的驱动因素。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 阿里巴巴在FY25Q1实现公有云产品收入双位数增长，预计FY2025营业收入将达到10125.53亿元，FY2026和FY2027分别为10983.71亿元和11968.13亿元，显示出持续增长的趋势。",
+            "Comparison: 速卖通在2023年GMV为450亿美元，预计2024年上半年将达到300亿美元，显示出其在国际市场的强劲表现。",
+            "Extreme: FY2025归母净利润预计为1045.19亿元，FY2027将增长至1678.78亿元，显示出显著的盈利增长潜力。",
+            "Attribution: 由于宏观消费疲软和电商竞争加剧，阿里巴巴的GMV市场份额受到挤压，尤其是淘天的份额因拼多多与抖快的崛起而下降。"
+        ],
+        "summary": "本报告分析了阿里巴巴在电商和云计算领域的市场表现，强调了其战略调整、收入增长及面临的竞争压力，展望未来的盈利潜力。",
+        "flag_id": "flag-56",
+        "classifier": "Internet Firms",
+        "classifier_cn": "互联网公司研究",
+        "input_files": [
+            "output/AliExpress_Performance.csv",
+            "output/Alibaba_Financials.csv",
+            "output/background.txt",
+            "output/dimension_store.db",
+            "output/user_profiles.json"
+        ]
+    },
+    {
+        "goal": "分析人工智能和大数据在金融科技领域的技术创新对行业发展的具体影响。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 人工智能、通信技术和区块链等新技术的专利申请量持续增长，成为金融科技发展的重点方向。",
+            "Comparison: 中国平安保险在大数据挖掘和分析方面的技术积累显著，领先于其他企业。",
+            "Extreme: 中国在金融科技领域的专利申请量已达到全球第二，显示出其在全球市场中的崛起。",
+            "Attribution: 技术创新是推动金融科技发展的核心动力，尤其是在人工智能和大数据领域的应用。"
+        ],
+        "summary": "本报告分析了中国金融科技领域的主要技术方向及其应用，强调了人工智能、大数据和区块链等技术在行业中的重要性。",
+        "flag_id": "flag-5",
+        "classifier": "FinTech",
+        "classifier_cn": "金融科技",
+        "input_files": [
+            "output/business_background.txt",
+            "output/company_dimension.db",
+            "output/company_user_profiles.json",
+            "output/financial_patent_facts.csv"
+        ]
+    },
+    {
+        "goal": "分析自2022年以来卡特尔官方调查增加的原因及其对竞争监管的影响。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 自2022年以来，卡特尔官方调查显著增加，显示出竞争监管机构在检测卡特尔方面的积极努力。",
+            "Comparison: 智利和墨西哥的市场情报部门在反垄断调查中的应用显示出不同国家在卡特尔检测工具上的差异，智利的情报单位在2022年执行了约25%的反垄断调查。",
+            "Extreme: 在公共采购中，罚金总额约为800万美元，显示出该地区在打击投标操纵方面的高额罚款案例。",
+            "Attribution: 由于拉美地区对竞争法的认识特别有限，竞争当局投资于建立竞争文化，以提高卡特尔发现力。"
+        ],
+        "summary": "本报告探讨了拉丁美洲和加勒比地区在卡特尔检测工具的应用及国际合作方面的努力，强调了数据分析和市场情报的重要性。",
+        "flag_id": "flag-163",
+        "classifier": "Fund Analysis",
+        "classifier_cn": "基金分析",
+        "input_files": [
+            "output/antitrust_investigations.csv",
+            "output/background.txt",
+            "output/dimension_data.db",
+            "output/user_profiles.json"
+        ]
+    },
+    {
+        "goal": "比较2023年国有六大行在金融科技方面的投入与2022年A股市场成交额的增长情况。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 预计2024年9月下旬政策释放后，市场活跃度明显提升，A股市场成交额在2024年9月24-30日达73696亿元，10月8日单日成交额突破34835亿元。",
+            "Comparison: 2024年9月的A股成交额与2022年相比增长显著，2022年A股市场成交额为212万亿元，较2014年增长188%。",
+            "Extreme: 2022年，中国保险业IT解决方案市场规模达到107.6亿元，增长6.3%。",
+            "Attribution: 市场景气度和流动性改善将推动2C券商IT整体收入水平的提高，因政策的支持，股市资金面直接利好。"
+        ],
+        "summary": "本报告分析了金融科技的发展历程、市场情绪及政策支持对行业的影响，揭示了未来投资趋势和风险提示。",
+        "flag_id": "flag-48",
+        "classifier": "FinTech",
+        "classifier_cn": "金融科技",
+        "input_files": [
+            "output/business_background.txt",
+            "output/dimension_data.db",
+            "output/transactions_fact.csv",
+            "output/user_profiles.json"
+        ]
+    },
+    {
+        "goal": "比较华商乐享互联基金与沪深300的收益表现，探讨其超额收益的原因。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 2019年至2022年，基金的年收益率逐年波动，2019年收益率高达84.18%，而2022年则降至11.01%。",
+            "Comparison: 2022年，华商乐享互联基金的收益率相较于沪深300的-21.63%表现出明显的超额收益，达到32.64%。",
+            "Extreme: 2022年，基金的最大回撤控制在-2.46%，显示出良好的风险控制能力。",
+            "Attribution: 由于外部经济冲击如美联储加息和俄乌冲突，2022年的收益相较前几年有所下滑，但余懿的策略依然为投资者提供了相对稳健的回报。"
+        ],
+        "summary": "本报告分析了华商基金余懿的投资风格，强调其在投资中注重平衡，兼顾逆向和景气的机会，展现出优异的业绩表现和风险控制能力。",
+        "flag_id": "flag-80",
+        "classifier": "Fund Analysis",
+        "classifier_cn": "基金分析",
+        "input_files": [
+            "output/business_background.txt",
+            "output/dimension_data.db",
+            "output/fund_facts.csv",
+            "output/investment_portfolios.json"
+        ]
+    },
+    {
+        "goal": "分析2024年短剧市场规模超500亿元的驱动因素。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 2024年短剧市场规模预计超500亿元，显示出行业的持续增长潜力。",
+            "Comparison: 短剧以低成本和快速响应市场需求的优势，导致长视频平台如爱奇艺和腾讯视频的市场份额下降。",
+            "Extreme: 芒果超媒净利润同比下降18.96%，显示出长视频平台在短剧竞争中的压力。",
+            "Attribution: 短剧行业的迅猛发展与长视频平台面临的高成本和长生产周期直接相关，促使其市场份额下降。"
+        ],
+        "summary": "短剧行业正处于快速增长阶段，但也面临内容合规、用户隐私和商业模式可持续性等风险，需谨慎应对。",
+        "flag_id": "flag-125",
+        "classifier": "Short-form Drama",
+        "classifier_cn": "短剧/微短剧内容",
+        "input_files": [
+            "output/background.txt",
+            "output/short_drama_market.csv",
+            "output/user_profiles.json",
+            "output/video_platform.db"
+        ]
+    },
+    {
+        "goal": "分析高管对当前风险管理政策的信任度及其对AI应用的需求。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 69%的高管不相信他们目前的风险管理政策足以应对未来的挑战，显示出对AI在风险管理中应用的迫切需求。",
+            "Comparison: 新加坡在推出AI治理测试框架和工具包方面走在前列，成为全球首个实施此类措施的国家。",
+            "Extreme: 87%的消费者表示如果发生数据泄露，他们愿意放弃服务，显示出网络安全在金融科技中的重要性。",
+            "Attribution: 由于缺乏监督，金融机构面临因计划外后果而产生的风险，这与AI的可解释性和治理的重要性直接相关。"
+        ],
+        "summary": "人工智能在金融科技领域的应用正在迅速改变行业格局，尤其是在风险管理和客户关系方面。尽管面临网络安全和数据保护的挑战，AI的潜力仍然被广泛认可。",
+        "flag_id": "flag-127",
+        "classifier": "FinTech",
+        "classifier_cn": "金融科技",
+        "input_files": [
+            "output/ai_governance_dimension.db",
+            "output/business_background.txt",
+            "output/risk_management_fact.csv",
+            "output/user_profiles.json"
+        ]
+    },
+    {
+        "goal": "分析中小银行在金融科技战略维度得分提升的具体因素。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 2022年度中国银行业报告指出，数字化转型正在迈向高质量发展阶段，显示出中小银行在金融科技领域的持续进步。",
+            "Comparison: 中小银行在绿色金融贷款方面的增长速度高于整体贷款增速，2022年末绿色贷款余额同比增长38.5%。",
+            "Extreme: 2022年，平安银行绿色贷款余额1097.68亿元，同比增长58.8%，显示出其在绿色金融领域的领先地位。",
+            "Attribution: 中小银行的金融科技发展受到政策支持的推动，特别是《金融科技发展规划（2022-2025年）》的实施。"
+        ],
+        "summary": "本报告分析了中小银行在金融科技领域的现状、挑战及未来趋势，强调了政策支持、技术创新和人才培养的重要性。",
+        "flag_id": "flag-11",
+        "classifier": "FinTech",
+        "classifier_cn": "金融科技",
+        "input_files": [
+            "output/bank_profiles.json",
+            "output/banking_dimension.db",
+            "output/banking_facts.csv",
+            "output/business_background.txt"
+        ]
+    },
+    {
+        "goal": "比较不同年龄段网民的比例变化，特别关注18-24岁年轻人群体的主导地位。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 86.6%的网民个人月收入不超过2000元，显示出低收入网民的比例较高。",
+            "Comparison: 未婚网民占我国未婚人口总数的5.7%，已婚网民占我国已婚人口总数的2.3%。",
+            "Extreme: 个人月收入2000元及以下的网民比例从84.1%升至86.6%，显示出低收入网民的增长速度明显高于高收入网民。",
+            "Attribution: 学生比例的显著增加反映了校园网络建设的影响，可能与教育等的兴起有比较大的关系。"
+        ],
+        "summary": "本报告分析了中国互联网用户的性别、年龄、教育程度和职业分布，指出低收入网民仍占主体，且网民的教育背景日益多样化。",
+        "flag_id": "flag-165",
+        "classifier": "Internet Dev.",
+        "classifier_cn": "互联网发展",
+        "input_files": [
+            "output/background.txt",
+            "output/dimension_data.db",
+            "output/income_statistics.csv",
+            "output/internet_users_fact.csv",
+            "output/marital_statistics.csv",
+            "output/user_profiles.json"
+        ]
+    },
+    {
+        "goal": "比较一线城市与二线、三线城市在网络购物用户规模和使用率上的差异。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 2011年手机网民整体规模增速下降，手机网民在手机用户中的渗透率仅为36.5%。",
+            "Comparison: 广东网民数6300万人，普及率60.4%，增长率18.3%，在全国各省中排名第一。",
+            "Extreme: 网络视频用户规模达到3.25亿，年增长率14.6%，显示出强劲的市场需求。",
+            "Attribution: 网络购物用户增速放缓主要由于新网民对网络购物的参与度降低，且老网民转化乏力。"
+        ],
+        "summary": "本报告总结了中国互联网在2011年的发展状况，涵盖了网民规模、互联网普及率、各省市的互联网使用情况及应用趋势等多个方面。",
+        "flag_id": "flag-186",
+        "classifier": "Internet Dev.",
+        "classifier_cn": "互联网发展",
+        "input_files": [
+            "output/background.txt",
+            "output/dimension_data.db",
+            "output/internet_users_fact.csv",
+            "output/user_profiles.json"
+        ]
+    },
+    {
+        "goal": "比较英国与其他国家在开放银行政策下中小企业贷款关系建立的市场竞争力和消费者信任度的差异。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: OB政策实施后，中小企业更有可能与非银行机构建立新的贷款关系，形成新借贷关系的概率显著增加，约25%的样本平均关系形成率为5.3%。",
+            "Comparison: 与2016年之前相比，2017年实施CCDS政策后，具有新的非银行关系的公司利息支出下降，表明新贷款的利率较低。",
+            "Extreme: 2017年，数据共享的第一年，政策实施后，系数转正显著，特别是对于非银行，显示出市场的快速反应。",
+            "Attribution: 由于消费者对金融科技的信任，开放银行政策的采用得以加速，信任的增加与金融科技进入的显著增长密切相关。"
+        ],
+        "summary": "本报告分析了开放银行政策的实施对金融科技投资和中小企业贷款关系的影响，揭示了政策实施后市场竞争和消费者信任的变化。",
+        "flag_id": "flag-105",
+        "classifier": "FinTech",
+        "classifier_cn": "金融科技",
+        "input_files": [
+            "output/business_background.txt",
+            "output/fintech_adoption_profiles.json",
+            "output/sme_information.db",
+            "output/sme_loan_relationships.csv"
+        ]
+    },
+    {
+        "goal": "分析黄金现货价格上涨27%的原因，特别是新冠疫情和地缘冲突对市场的影响。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 由于新冠疫情的全球蔓延及地缘冲突加剧，黄金现货价格上涨约27%，达到1944美元/盎司。",
+            "Comparison: 上海金ETF基金（518680.SH）以不低于90%的仓位投资于黄金现货合约，显示出其在黄金投资中的优势。",
+            "Extreme: 黄金现货价格在历史上达到最高水平1921美元/盎司，当前价格1944美元/盎司显示出强劲的市场需求。",
+            "Attribution: 黄金价格的上涨与美联储的降息周期密切相关，降息导致实际利率下移，推动了黄金的投资需求。"
+        ],
+        "summary": "本报告分析了黄金在不确定经济环境中的配置价值，强调了上海金ETF基金作为投资工具的重要性，并探讨了黄金价格的历史表现及其与经济政策的关系。",
+        "flag_id": "flag-76",
+        "classifier": "Fund Analysis",
+        "classifier_cn": "基金分析",
+        "input_files": [
+            "output/dimension_data.db",
+            "output/gold_price_analysis_background.txt",
+            "output/gold_price_analysis_fact.csv",
+            "output/gold_price_analysis_nosql.json"
+        ]
+    },
+    {
+        "goal": "评估湘财证券投行业务净收入下降的原因及其对整体业绩的影响。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 2024年湘财证券的投行业务净收入预计为0.85亿元，同比-46.18%，反映出市场竞争加剧的压力。",
+            "Comparison: 与东方财富证券相比，湘财证券的市占率在逐步提升，反映出其市场份额的增长潜力。",
+            "Extreme: 2022年湘财证券自营投资业务收入同比下降96.20%至0.22亿元，显示出极端的业绩波动。",
+            "Attribution: 金融科技赋能是湘财证券业务发展的重要驱动力，推动了其在经纪业务和投顾产品的创新。"
+        ],
+        "summary": "湘财证券通过金融科技和轻资产模型推动业务发展，尽管面临市场低迷，仍展现出良好的增长潜力，特别是在经纪业务和投顾产品方面。",
+        "flag_id": "flag-143",
+        "classifier": "FinTech",
+        "classifier_cn": "金融科技",
+        "input_files": [
+            "output/background.txt",
+            "output/dimension_data.db",
+            "output/trade_fact.csv",
+            "output/user_profiles.json"
+        ]
+    },
+    {
+        "goal": "分析2010年中国网民遭遇病毒或木马攻击比例下降的原因。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 2010年，遇到过病毒或木马攻击的网民比例为45.8%，较2009年下降了10.8个百分点。",
+            "Comparison: 与2009年相比，2010年遇到过账号或密码被盗经历的网民比例下降至21.8%。",
+            "Extreme: 2010年共受理钓鱼网站举报23455个，处理钓鱼网站22573个，显示出网络安全治理的加强。",
+            "Attribution: 网络安全问题的改善与政府对网络安全问题集中治理力度的不断加大密切相关。"
+        ],
+        "summary": "本报告分析了2010年中国互联网的安全状况，指出网络安全问题有所改善，但仍需加强。",
+        "flag_id": "flag-184",
+        "classifier": "Internet Dev.",
+        "classifier_cn": "互联网发展",
+        "input_files": [
+            "output/background.txt",
+            "output/security_events.csv",
+            "output/user_profiles.json",
+            "output/users_dimension.db"
+        ]
+    },
+    {
+        "goal": "比较不同平台短剧单集付费价格差异对用户付费意愿的影响。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 短剧的制作周期短，商业验证周期高效，现金回流效率高，推动了行业的快速发展。",
+            "Comparison: 短剧在不同平台的用户分布也有所不同，抖音和快手的用户主要集中在二线及以上城市，而小程序短剧的受众则主要分布在非一二线城市。",
+            "Extreme: 短剧播放量累计突破20亿，反映出短剧在市场中的广泛接受度。",
+            "Attribution: 短剧行业的低门槛和多样化的播出渠道导致内容质量参差不齐，市场同质化现象严重，需加强监管以提升整体质量。"
+        ],
+        "summary": "短剧行业的变现模式日益多样化，主要包括单集付费、广告植入和衍生模式。随着短剧题材的多样化，行业面临着内容质量和制作成本的双重挑战。",
+        "flag_id": "flag-44",
+        "classifier": "Short-form Drama",
+        "classifier_cn": "短剧/微短剧内容",
+        "input_files": [
+            "output/business_background.txt",
+            "output/dimension_data.db",
+            "output/payments.csv",
+            "output/user_payment_profiles.json"
+        ]
+    },
+    {
+        "goal": "分析澳门互联网普及率增长的主要驱动因素。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 澳门互联网普及率从2001年33%增长到2008年66%，显示出持续上升的趋势。",
+            "Comparison: 澳门的网民人数为33.8万，占总人口的66%，显示出较高的互联网普及率。",
+            "Extreme: 澳门的家庭计算机连网率为81%，显示出较高的互联网接入水平。",
+            "Attribution: 澳门互联网的快速发展得益于宽带技术的普及和家庭计算机的增加。"
+        ],
+        "summary": "本报告提供了澳门地区互联网发展的宏观概况，特别关注网民的上网行为和偏好。",
+        "flag_id": "flag-177",
+        "classifier": "Internet Dev.",
+        "classifier_cn": "互联网发展",
+        "input_files": [
+            "output/background.txt",
+            "output/dimension_data.db",
+            "output/internet_usage_statistics.csv",
+            "output/user_profiles.json"
+        ]
+    },
+    {
+        "goal": "分析中国互联网用户数量增长的趋势及其影响因素。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 1997年中国上网用户数达到117.5万，显示出互联网用户的快速增长。",
+            "Comparison: 第2页提到的WWW站点数量约3700个，显示出中国互联网内容的丰富性，而第5页和第6页的访问量排名则显示出用户对特定网站的偏好。",
+            "Extreme: 第4页显示，申请国内域名的用户占比高达72.6%，而申请国际域名的用户仅占11.8%，显示出国内用户对本地化服务的偏好。",
+            "Attribution: 第3页提到的网上速度太慢和收费太贵是影响中国Internet发展的两大障碍，这与第2页提到的用户对信息流量比例的需求密切相关。"
+        ],
+        "summary": "本报告总结了中国互联网在用户数量、上网方式、职业分布及用户需求等方面的发展趋势，揭示了互联网发展的障碍及用户对服务的期望。",
+        "flag_id": "flag-188",
+        "classifier": "Internet Dev.",
+        "classifier_cn": "互联网发展",
+        "input_files": [
+            "output/background.txt",
+            "output/internet_usage_fact.csv",
+            "output/user_dimension.db",
+            "output/user_profiles.json"
+        ]
+    },
+    {
+        "goal": "研究用户对互联网服务的需求与其对上网速度和费用的关注之间的关系。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 第2页显示，21-35岁用户占比高达79.2%，表明年轻人是互联网的主要使用者。"
+        ],
+        "summary": "本报告总结了中国互联网在用户数量、上网方式、职业分布及用户需求等方面的发展趋势，揭示了互联网发展的障碍及用户对服务的期望。",
+        "flag_id": "flag-190",
+        "classifier": "Internet Dev.",
+        "classifier_cn": "互联网发展",
+        "input_files": [
+            "output/background.txt",
+            "output/user_activity_logs.csv",
+            "output/user_demographics.db",
+            "output/user_profiles.json"
+        ]
+    },
+    {
+        "goal": "分析美团在2024年第一季度组织架构调整对运营效率的影响。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 美团在2024年第一季度预计将进行组织架构调整，以提升运营效率和优化商家广告投放方式，反映出其对市场变化的适应能力。",
+            "Comparison: 抖音的商家平均成本高于美团，显示出抖音在吸引大型商家方面的优势，而小商家更适合在美团运营。",
+            "Extreme: 抖音在2024年第一季度前半段，酒旅商家直播场次同比增长70%，显示出直播营销的强劲势头。",
+            "Attribution: 抖音的快速增长与其在产品创新和新业务拓展方面的表现突出直接相关，而美团则通过补贴策略保持市场份额的稳定。"
+        ],
+        "summary": "本报告探讨了美团与抖音在市场策略上的不同，分析了各自的优势与挑战，并展望未来的发展方向。",
+        "flag_id": "flag-146",
+        "classifier": "Internet Firms",
+        "classifier_cn": "互联网公司研究",
+        "input_files": [
+            "output/business_background.txt",
+            "output/market_analysis_fact.csv",
+            "output/merchant_dimension.db",
+            "output/merchant_profiles.json"
+        ]
+    },
+    {
+        "goal": "分析数字普惠金融在过去十年中取得显著进展的具体因素。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 数字普惠金融在过去十年中取得显著进展，尤其是在数字化转型方面，银行卡渗透率从2009年的32%上升至2021年的49.2%。",
+            "Comparison: 数字普惠金融的使用深度不断提高，表现为人均持卡数从2010年的1.81张增长到2022年的6.71张，显示出用户对数字金融服务的依赖加深。",
+            "Extreme: 截至2023年6月，全国共开立单位银行账户9771.34万户，环比增加2.67%，显示出数字普惠金融的快速扩展。",
+            "Attribution: 随着金融行业数字化转型的深入，数字技术在解决普惠金融领域的痛点和难点，取得了显著进展，推动了金融服务的普及。"
+        ],
+        "summary": "本报告探讨了金融科技在数字普惠金融中的应用与发展，强调了技术融合与创新对提升服务效率的重要性。",
+        "flag_id": "flag-8",
+        "classifier": "FinTech",
+        "classifier_cn": "金融科技",
+        "input_files": [
+            "output/background.txt",
+            "output/digital_inclusive_finance_progress.csv",
+            "output/dimension_data.db",
+            "output/user_profiles.json"
+        ]
+    },
+    {
+        "goal": "评估拉丁美洲和加勒比地区在反垄断执法方面与经合组织和非经合组织国家的比较，找出不足之处。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 卡特尔决定数量在2020年为1.6个，2021年为2个，2022年为2.3个，显示出逐年上升的趋势。",
+            "Comparison: 在2015年至2022年期间，只有7个司法管辖区至少有一份宽大处理申请，显示出宽大处理计划的实施不均衡。",
+            "Extreme: TDLC于2020年对两家直升机公司及其高管处以超过600万美元的罚款，显示出该地区在反垄断执法中的高额罚款案例。",
+            "Attribution: 由于缺乏真正的检测威胁和威慑性处罚，企业申请宽大处理的动机不足，影响了宽大处理计划的有效性。"
+        ],
+        "summary": "本报告分析了拉丁美洲和加勒比地区在竞争法和政策实施方面的现状，强调了卡特尔检测工具的应用及其面临的挑战，并探讨了国际合作的重要性。",
+        "flag_id": "flag-162",
+        "classifier": "Internet Dev.",
+        "classifier_cn": "互联网发展",
+        "input_files": [
+            "output/CartelTrends.csv",
+            "output/Fines.csv",
+            "output/LeniencyApplications.csv",
+            "output/background.txt",
+            "output/dimension_data.db",
+            "output/regulatory_reports.json"
+        ]
+    },
+    {
+        "goal": "分析网民平均每周上网时间减少的原因及其对用户行为的影响。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 网民平均每周上网时间为12.3小时，较之前有所减少，反映出用户上网习惯的变化。",
+            "Comparison: 男性网民的比例略有下降，而女性网民的比例有所上升，显示出性别结构的变化。",
+            "Extreme: 网民中，29.3%非常赞成互联网提高工作和学习效率的观点，显示出对互联网的积极态度。",
+            "Attribution: 不懂电脑/网络是非网民不上网的主要原因，反映出教育和技术普及的不足。"
+        ],
+        "summary": "本报告深入分析了中国互联网用户的行为特征，包括上网习惯、使用目的及其对互联网的信任程度，揭示了用户在互联网环境中的变化。",
+        "flag_id": "flag-170",
+        "classifier": "Internet Dev.",
+        "classifier_cn": "互联网发展",
+        "input_files": [
+            "output/business_background.txt",
+            "output/dimension_data.db",
+            "output/internet_user_behavior.csv",
+            "output/user_profiles.json"
+        ]
+    },
+    {
+        "goal": "分析医药行业整体估值下降的主要原因，特别是高税收和医保监管对行业的影响。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 截至2024年3月22日，医药行业成交额3777.7亿元，占全部A股总成交额比例为7.0%，较前一周减少0.5pct。",
+            "Comparison: 医药持股占陆港通总资金的比例为8.1%，显示出投资者对医药行业的关注度。",
+            "Extreme: 医药北上资金环比减少83亿元，显示出资金流出的压力。",
+            "Attribution: 由于高税收和医保监管水平提升，医药行业进入供给侧改革新阶段，导致整体估值回调。"
+        ],
+        "summary": "医药行业面临整体估值回调和资金流出，但创新药物和医疗器械的需求依然强劲。投资者需关注政策变化和市场动态，以把握潜在的投资机会。",
+        "flag_id": "flag-74",
+        "classifier": "Fund Analysis",
+        "classifier_cn": "基金分析",
+        "input_files": [
+            "output/business_background.txt",
+            "output/pharma_products.json",
+            "output/pharmaceutical_dim.db",
+            "output/pharmaceutical_facts.csv"
+        ]
+    },
+    {
+        "goal": "探讨中药材价格回落对中药企业盈利能力的具体影响及未来趋势。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 2022年以来急重症领域需求持续扩大，静丙需求量提升，院内静丙短缺态势难以逆转。"
+        ],
+        "summary": "本报告分析了医药行业的市场动态，特别关注AI医疗、创新药研发及中医药行业的投资机会，同时指出了行业面临的风险和未来趋势。",
+        "flag_id": "flag-66",
+        "classifier": "AI Healthcare",
+        "classifier_cn": "AI 医疗健康",
+        "input_files": [
+            "output/background.txt",
+            "output/dimension_data.db",
+            "output/market_analysis.csv",
+            "output/market_tech_profiles.json"
+        ]
+    },
+    {
+        "goal": "分析2022年华商稳健双利基金收益率下降至-0.25%的原因。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 华商稳健双利基金在2019年、2020年和2021年表现出色，分别实现收益率15.37%、10.35%和8.39%。然而，2022年由于市场环境变化，收益率下降至-0.25%。",
+            "Comparison: 华商稳健双利的年化回报率为6.16%，而华商稳定增利的年化回报率为6.60%，两者在同类基金中均表现优异。",
+            "Extreme: 华商稳健双利的总回报达到90.06%，在同类基金中排名第25/118，显示出其在长期投资中的卓越表现。",
+            "Attribution: 华商稳健双利的超额收益与张永志先生的稳健均衡型投资风格密切相关，尤其是在市场波动时，能够有效控制风险并获取超额收益。"
+        ],
+        "summary": "华商稳健双利基金在过去五年中表现优异，年化回报率达到6.16%，并在多个市场环境中展现出强大的适应能力。基金经理张永志凭借其稳健的投资风格和灵活的策略，成功控制风险并获取超额收益。",
+        "flag_id": "flag-92",
+        "classifier": "Fund Analysis",
+        "classifier_cn": "基金分析",
+        "input_files": [
+            "output/fund_background.txt",
+            "output/fund_transactions.csv",
+            "output/investor_dimension.db",
+            "output/investor_profiles.json"
+        ]
+    },
+    {
+        "goal": "比较中国平安保险与蚂蚁集团在大数据和区块链技术专利申请方面的优势与劣势。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 大数据分析与挖掘技术的专利申请量遥遥领先于其他技术分支，显示出其在金融领域的重要性。",
+            "Comparison: 蚂蚁集团在区块链技术领域的专利申请量排名第二，显示出其在该领域的竞争力。",
+            "Extreme: 中国工商银行建成同业规模最大的云计算平台，显示出其在云计算技术应用方面的领先地位。",
+            "Attribution: 金融科技的快速发展与政策支持、市场需求和技术进步密切相关，形成了良性循环。"
+        ],
+        "summary": "本报告分析了中国金融科技领域的主要技术方向及其应用，强调了人工智能、大数据和区块链等技术在行业中的重要性。",
+        "flag_id": "flag-6",
+        "classifier": "FinTech",
+        "classifier_cn": "金融科技",
+        "input_files": [
+            "output/business_background.txt",
+            "output/company_dimension.db",
+            "output/patent_facts.csv",
+            "output/user_profiles.json"
+        ]
+    },
+    {
+        "goal": "探讨农村网民比例下降的主要原因及提升网络技能的有效策略。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 2011年网络购物用户年增长率为20.8%，尽管增速放缓，但市场潜力依然巨大。",
+            "Comparison: 即时通信在手机用户中的使用率为83.1%，远高于传统电脑用户的使用率。",
+            "Extreme: 农村网民占比下降至26.5%，显示出城乡数字鸿沟的加大。",
+            "Attribution: 农村网民比例低迷主要受城市化和网络技能缺乏影响，提升技能是缩小城乡差距的关键。"
+        ],
+        "summary": "本报告分析了中国互联网应用的使用情况，特别是社交媒体、电子商务和即时通信等领域的变化趋势。",
+        "flag_id": "flag-187",
+        "classifier": "Internet Dev.",
+        "classifier_cn": "互联网发展",
+        "input_files": [
+            "output/business_background.txt",
+            "output/internet_usage_fact.csv",
+            "output/user_dimension.db",
+            "output/user_profiles.json"
+        ]
+    },
+    {
+        "goal": "比较中国大陆与中国台湾在IPv4地址资源上的差异及其原因。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 国际出口带宽在2010年上半年增长15.2%，达到998,217Mbps，显示出基础设施的持续改善。",
+            "Comparison: 北京的域名数量为2,319,472个，占总域名数的20.7%，而广东为1,211,749个，占10.8%。",
+            "Extreme: 在网络安全方面，30.9%的网民账号或密码被盗过，显示出网络安全形势的严峻。",
+            "Attribution: 网络安全问题的频发与网络应用的快速发展密切相关，急需建立更加可信、可靠的网络环境。"
+        ],
+        "summary": "本报告分析了中国互联网的基础设施建设及网络安全问题，强调了IPv4地址资源的紧张和网络安全事件的频发。",
+        "flag_id": "flag-181",
+        "classifier": "Internet Dev.",
+        "classifier_cn": "互联网发展",
+        "input_files": [
+            "output/background.txt",
+            "output/network_facts.csv",
+            "output/user_dimension.db",
+            "output/user_profiles.json"
+        ]
+    },
+    {
+        "goal": "评估湘财证券2024年营业收入增长的主要驱动因素。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 2024年归母净利润预计为1.03亿元，2025年和2026年分别为1.95亿元和2.55亿元，显示出持续增长的趋势。",
+            "Comparison: 湘财证券的经纪业务在2024年贡献42.43%的营收，显示出其在市场中的重要地位。",
+            "Extreme: 2023年自营投资业务收入同比增长1552.25%至3.66亿元，显示出业务的强劲反弹。",
+            "Attribution: 浙江国资入股形成混合所有制结构，优化了股权结构，为湘财股份的未来发展提供了支持。"
+        ],
+        "summary": "湘财股份在金融科技赋能下，预计未来三年将实现稳健增长，尽管面临短期业绩波动，但通过并购和股权结构优化，展现出强大的市场潜力。",
+        "flag_id": "flag-142",
+        "classifier": "FinTech",
+        "classifier_cn": "金融科技",
+        "input_files": [
+            "output/branch_profiles.json",
+            "output/business_background.txt",
+            "output/dimension_data.db",
+            "output/financial_forecast_fact.csv"
+        ]
+    },
+    {
+        "goal": "探讨香港互联网发展与经济水平和信息化建设之间的关系。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 香港的宽带上网计算机数占家庭上网计算机的比例为84%，而澳门的宽带上网计算机数占比为30%。",
+            "Comparison: 香港的网民平均每周上网时间为11.5小时，澳门的网民上网时间未提供具体数据，显示出香港网民的活跃程度。",
+            "Extreme: 香港的网民人数（288万）与澳门（16.2万）相比，显示出两地在互联网发展上的显著差距。",
+            "Attribution: 澳门的互联网发展受到家庭上网设备普及率的限制，影响了整体的网民增长。"
+        ],
+        "summary": "本报告对香港和澳门的互联网发展状况进行了对比，揭示了两地在用户行为、上网方式及普及率方面的差异。",
+        "flag_id": "flag-167",
+        "classifier": "Internet Dev.",
+        "classifier_cn": "互联网发展",
+        "input_files": [
+            "output/background.txt",
+            "output/dimension_data.db",
+            "output/internet_usage_stats.csv",
+            "output/user_profiles.json"
+        ]
+    },
+    {
+        "goal": "分析华富成长趋势基金在2019年和2020年超越沪深300指数的具体因素。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 华富成长趋势基金在2019年和2020年的收益率分别为54.95%和51.73%，显示出持续的增长趋势。",
+            "Comparison: 华富成长趋势基金的年化收益率为18.63%，显著高于同期沪深300指数的表现。",
+            "Extreme: 2019年，华富成长趋势基金的累计收益达到120.32%，显示出其在市场中的强劲表现。",
+            "Attribution: 基金的优异表现主要归因于陈启明自2017年上任以来的有效管理和选股策略。"
+        ],
+        "summary": "华富成长趋势基金在过去两年中表现出色，年化收益率达到18.63%，并且在2019和2020年均超越沪深300指数，显示出其强大的选股能力和稳定的机构持有比例。",
+        "flag_id": "flag-86",
+        "classifier": "Fund Analysis",
+        "classifier_cn": "基金分析",
+        "input_files": [
+            "output/business_background.txt",
+            "output/dimension_data.db",
+            "output/fund_performance_fact.csv",
+            "output/fund_profiles.json"
+        ]
+    },
+    {
+        "goal": "分析域名注册总量增长的驱动因素，特别是市场需求和互联网应用多样化的影响。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 域名注册总量达到1485万个，同比增长61.8%，CN域名数量增长93.5%。",
+            "Comparison: 中国的IPv4地址数量已从世界第三位跃升至第二位，仅次于美国。",
+            "Extreme: 第6页显示中国网站数量达到191.9万个，年增长率为46.3%。",
+            "Attribution: 域名和网站数量的增长与市场需求的增加和互联网应用的多样化密切相关。"
+        ],
+        "summary": "本报告分析了中国互联网基础设施的快速增长，包括域名、网站数量和国际出口带宽的显著提升，反映出互联网应用的多样化和普及化。",
+        "flag_id": "flag-175",
+        "classifier": "Internet Dev.",
+        "classifier_cn": "互联网发展",
+        "input_files": [
+            "output/business_background.txt",
+            "output/dimension_data.db",
+            "output/domain_registration_fact.csv",
+            "output/user_profiles.json"
+        ]
+    },
+    {
+        "goal": "评估政策支持对银行业数智化转型的具体影响及其对金融信息服务行业发展的贡献。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 银行业IT投入规模自2019年起以11.86%的复合增长率稳定增长，预计于2024年突破3000亿元。",
+            "Comparison: 2022年中国保险业IT解决方案市场规模达到107.6亿元，增长6.3%，与金融信息服务行业的增长趋势相呼应。",
+            "Extreme: 2021年证券公司IT人员总数为30952人，同比增长19.7%，显示出行业对技术人才的需求急剧上升。",
+            "Attribution: 金融信息服务的特殊性和客户的敏感性使得企业需要保有较大规模的用户群，才能获得一定数量的收费用户群并形成规模效应。"
+        ],
+        "summary": "本报告探讨了中国金融信息服务行业的发展趋势、市场规模及政策背景，分析了行业的未来潜力与风险。",
+        "flag_id": "flag-50",
+        "classifier": "FinTech",
+        "classifier_cn": "金融科技",
+        "input_files": [
+            "output/financial_background.txt",
+            "output/financial_it_investment.csv",
+            "output/financial_service_dimension.db",
+            "output/insurance_customer_profiles.json",
+            "output/insurance_it_market.csv",
+            "output/securities_it_personnel.csv"
+        ]
+    },
+    {
+        "goal": "研究国际出口带宽增长与网民网络应用多样化之间的关系，评估其对未来基础设施建设的启示。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: IPv4地址数量年增长率保持在30%以上，显示出对互联网资源的持续需求。",
+            "Comparison: 网络游戏用户规模为7815万人，显示出中国在网络娱乐方面的强大市场潜力。",
+            "Extreme: IPv4地址人均拥有水平为6251个/万网民，显示出资源的紧张和需求的迫切。",
+            "Attribution: IPv4地址资源的紧张与网民数量的快速增长形成鲜明对比，促使向IPv6的过渡成为必要。"
+        ],
+        "summary": "本报告分析了中国互联网基础设施的快速增长，包括域名、网站数量和国际出口带宽的显著提升，反映出互联网应用的多样化和普及化。",
+        "flag_id": "flag-176",
+        "classifier": "Internet Dev.",
+        "classifier_cn": "互联网发展",
+        "input_files": [
+            "output/business_background.txt",
+            "output/infrastructure_development.csv",
+            "output/internet_users.csv",
+            "output/ipv4_address_statistics.csv",
+            "output/user_activity_logs.csv",
+            "output/user_dimension.db",
+            "output/user_profiles_extra.json"
+        ]
+    },
+    {
+        "goal": "分析澳门互联网普及率从2001年到2007年增长的具体因素。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 截至2007年，澳门的互联网普及率从2001年的33%上升至64%。",
+            "Comparison: 澳门的互联网普及率在2007年达到64%，与中国大陆的16%形成鲜明对比。",
+            "Extreme: 2007年，澳门的宽带上网比例为96%，显示出显著的宽带普及。",
+            "Attribution: 澳门的互联网普及率提升与宽带上网的主导地位密切相关，家庭上网条件的改善促进了这一增长。"
+        ],
+        "summary": "本报告分析了澳门地区互联网的使用情况，特别是家庭上网计算机的连网情况及其增长趋势。",
+        "flag_id": "flag-173",
+        "classifier": "Internet Dev.",
+        "classifier_cn": "互联网发展",
+        "input_files": [
+            "output/background.txt",
+            "output/dimension_data.db",
+            "output/internet_usage_fact.csv",
+            "output/user_profiles.json"
+        ]
+    },
+    {
+        "goal": "分析医药生物指数自2024年初以来下跌9.99%的原因。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 医药生物指数自2024年初以来下跌9.99%，显示出行业整体疲软的趋势。",
+            "Comparison: 医药行业整体下跌9.99%，而体外诊断上涨1.5%，显示出不同子行业之间的表现差异。",
+            "Extreme: 本周医药行业中，302家股票下跌，176家上涨，整体医药行业指数下跌，显示出市场的极端波动。",
+            "Attribution: 医药行业整体表现不佳与高税收和政策变化有关，导致销售额下降。"
+        ],
+        "summary": "本周医药行业整体表现不佳，医药生物指数下跌2.13%，但AI医疗投资热情再度点燃，未来有结构性机会。多个公司在新产品和股权激励的推动下展现出增长潜力。",
+        "flag_id": "flag-58",
+        "classifier": "Fund Analysis",
+        "classifier_cn": "基金分析",
+        "input_files": [
+            "output/Background_Description.txt",
+            "output/Company_Profiles.json",
+            "output/Pharma_Dimension.db",
+            "output/Pharmaceutical_Industry_Analysis.csv"
+        ]
+    },
+    {
+        "goal": "比较阿里巴巴智能云业务与海外云厂商在AI产业发展中的收入增长差异。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 随着AI产业的推进，云业务收入增长均有所提速，反映出市场对阿里巴巴智能云业务的信心。",
+            "Comparison: 阿里巴巴的Qwen模型在国际上处于领先地位，显示出其在AI领域的竞争优势。",
+            "Extreme: 阿里巴巴国际数字商业集团在FY2020-FY2022年经历了超过10%的经调整EBITDA Margin亏损，反映出其在转型过程中的挑战。",
+            "Attribution: 由于市场忽视了阿里大模型的能力，导致智能云业务的增长潜力被低估。"
+        ],
+        "summary": "本报告探讨了阿里巴巴智能云业务的增长潜力，分析了AI产业的发展对其业务的积极影响，并指出了市场对其未来表现的乐观预期。",
+        "flag_id": "flag-138",
+        "classifier": "Internet Firms",
+        "classifier_cn": "互联网公司研究",
+        "input_files": [
+            "output/background.txt",
+            "output/cloud_business_growth.csv",
+            "output/cloudbusiness_profiles.json",
+            "output/market_comparison.db"
+        ]
+    },
+    {
+        "goal": "分析美联储降息预期对南方中证申万有色金属ETF表现的具体影响。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 自2019年以来，南方中证申万有色金属ETF年化收益为14.89%，显示出稳定的投资回报。",
+            "Comparison: 南方中证申万有色金属ETF的年化超额收益为2.4%，在同类产品中表现优异。",
+            "Extreme: 截至2024年4月15日，沪铜价格突破77000元/吨，显示出铜市场的供应紧张。",
+            "Attribution: 美联储降息预期导致有色金属市场新一轮价格潮，直接推动了南方中证申万有色金属ETF的表现。"
+        ],
+        "summary": "本报告分析了南方中证申万有色金属ETF的投资价值及其在有色金属市场中的表现，强调了美联储降息预期对市场的影响以及铝和铜的供需状况。",
+        "flag_id": "flag-97",
+        "classifier": "Fund Analysis",
+        "classifier_cn": "基金分析",
+        "input_files": [
+            "output/business_background.txt",
+            "output/etf_dimension.db",
+            "output/etf_news_events.json",
+            "output/etf_performance_fact.csv"
+        ]
+    },
+    {
+        "goal": "比较郑州和西安在微短剧制作实力上的优势，探讨其产业链集聚性和政府扶持政策的作用。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 预计至2027年全国微短剧产值规模将突破1000亿元，表明行业正在快速增长。",
+            "Comparison: 郑州和西安在微短剧制作实力上并列第一，而深圳、杭州、上海和广州则位列第二梯队，显示出不同城市在产业链中的分工与合作。",
+            "Extreme: 郑州的微短剧市场规模达38.5亿元，成为制作实力城市中的佼佼者。",
+            "Attribution: 郑州和西安的制作实力优势主要源于其产业链的高度集聚性和政府的扶持政策。"
+        ],
+        "summary": "本报告分析了2025年中国微短剧产业在不同城市的表现，揭示了北京在综合实力、出海能力和制作实力方面的领先地位，同时指出郑州和西安在制作实力上的并列第一。",
+        "flag_id": "flag-62",
+        "classifier": "Short-form Drama",
+        "classifier_cn": "短剧/微短剧内容",
+        "input_files": [
+            "output/business_background.txt",
+            "output/dimension_data.db",
+            "output/micro_short_drama_fact.csv",
+            "output/micro_short_drama_profiles.json"
+        ]
+    },
+    {
+        "goal": "分析一线城市O2O消费由增量向提质转变的原因及其对市场的影响。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 一线城市O2O消费由增量向提质转变，二三线城市进入增量增长阶段，显示出市场发展的不同阶段。",
+            "Comparison: 一线城市O2O用户渗透率为21.7%，而三线城市的渗透率为63.1%，显示出不同城市的市场表现差异。",
+            "Extreme: 一线城市O2O环境得分为67.8分，明显高于二线城市的49.6分，显示出市场发展的不平衡。",
+            "Attribution: 由于一线城市的网络发展水平和信息需求量较大，O2O用户规模增长的红利阶段进入后期。"
+        ],
+        "summary": "本报告分析了中国O2O市场的发展状况，探讨了不同城市的O2O用户渗透率及市场潜力，提供了相关的统计数据和趋势分析。",
+        "flag_id": "flag-195",
+        "classifier": "Internet Dev.",
+        "classifier_cn": "互联网发展",
+        "input_files": [
+            "output/background.txt",
+            "output/dimension_data.db",
+            "output/o2o_market_analysis.csv",
+            "output/user_profiles.json"
+        ]
+    },
+    {
+        "goal": "分析2023年全球金融科技领域风险投资资金降至300亿美元的原因。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 金融科技在VC投资方面平均吸引所有风险投资的12%份额，显示出其在投资市场中的重要性。",
+            "Comparison: 美国和加拿大地区的当地投资者集中度超过85%，而中东和北非地区的比例从2015年的10%上升到2023年的47.5%。",
+            "Extreme: 2023年，全球金融科技领域的风险投资资金降至300亿美元，反映出市场的不确定性。",
+            "Attribution: 风险投资推动了金融科技行业的发展，但势头有所放缓，尤其是在全球经济不确定性增加的情况下。"
+        ],
+        "summary": "本报告分析了风险投资在金融科技领域的影响，探讨了不同地区的投资趋势和挑战。",
+        "flag_id": "flag-116",
+        "classifier": "FinTech",
+        "classifier_cn": "金融科技",
+        "input_files": [
+            "output/business_background.txt",
+            "output/investment_payloads.json",
+            "output/investor_dim.db",
+            "output/venture_investment_fact.csv"
+        ]
+    },
+    {
+        "goal": "分析2010年中国网民规模增长的主要驱动因素。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 截至2010年，中国网民规模达到4.57亿，年增幅19.1%。",
+            "Comparison: 北京的互联网普及率为69.4%，显著高于全国平均水平34.3%。",
+            "Extreme: 截至2010年12月，中国的IPv4地址数量达到2.78亿，尽管网站数量下降，但互联网资源如网页数和字节数却在增长。",
+            "Attribution: 网民规模的增长与国家政策推动信息产品消费直接相关，特别是国家扩内需的政策力度持续加大。"
+        ],
+        "summary": "本报告总结了2010年中国互联网的快速发展，特别是在网民规模、互联网应用和安全防护等方面的显著变化。",
+        "flag_id": "flag-182",
+        "classifier": "Internet Dev.",
+        "classifier_cn": "互联网发展",
+        "input_files": [
+            "output/business_background.txt",
+            "output/usage_logs.csv",
+            "output/user_dimension.db",
+            "output/user_profiles.json"
+        ]
+    },
+    {
+        "goal": "比较讯飞医疗与晶泰科技在不同领域的营收表现及毛利率差异。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 讯飞医疗在2023年前三季度实现营收3.2亿元，同比增长29.0%。"
+        ],
+        "summary": "本报告分析了AI医疗行业的现状、发展趋势及面临的挑战，强调了政策支持和技术突破对行业发展的重要性。",
+        "flag_id": "flag-129",
+        "classifier": "AI Healthcare",
+        "classifier_cn": "AI 医疗健康",
+        "input_files": [
+            "output/background.txt",
+            "output/dimension_data.db",
+            "output/orders.csv",
+            "output/user_profiles.json"
+        ]
+    },
+    {
+        "goal": "比较拉丁美洲和MENA地区在金融科技融资增长方面的驱动因素。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 拉丁美洲和加勒比地区（LAC）融资复合年增长率为37%，而中东和北非（MENA）为33%。",
+            "Comparison: 2023年，MENA地区的金融科技风险投资资金量从6亿美元增至19亿美元，显示出强劲的增长潜力。",
+            "Extreme: 2023年支付子领域融资总额为56亿美元，成为融资的主要方向。",
+            "Attribution: 金融科技公司的成功和发展取决于其获得所需资金以进行创新、扩张和发展业务的能力。"
+        ],
+        "summary": "本报告探讨了金融科技行业的创新驱动因素及其融资缺口，分析了不同地区的融资趋势和风险投资的影响。",
+        "flag_id": "flag-115",
+        "classifier": "FinTech",
+        "classifier_cn": "金融科技",
+        "input_files": [
+            "output/business_background.txt",
+            "output/fintech_dimensions.db",
+            "output/fintech_funding_fact.csv",
+            "output/funding_profiles.json"
+        ]
+    },
+    {
+        "goal": "比较港股SW化学制剂板块与A股SW化学制剂板块的表现差异及其原因。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 中药材价格回落对企业盈利能力的影响逐步显现，SW二级中药指下跌2.86%。",
+            "Comparison: 药店指数下跌3.06%，与沪深300上涨1.00%和创业板指上涨2.99%形成鲜明对比。",
+            "Extreme: 第5页提到静丙需求量提升，反映出急重症领域的需求持续扩大。",
+            "Attribution: 中药材价格回落将逐步体现在中药企业成本端，带来企业盈利能力提升。"
+        ],
+        "summary": "本报告分析了医药行业的市场动态，特别关注AI医疗、创新药研发及中医药行业的投资机会，同时指出了行业面临的风险和未来趋势。",
+        "flag_id": "flag-65",
+        "classifier": "Fund Analysis",
+        "classifier_cn": "基金分析",
+        "input_files": [
+            "output/dimension_data.db",
+            "output/market_analysis_background.txt",
+            "output/market_analysis_facts.csv",
+            "output/market_analysis_payloads.json"
+        ]
+    },
+    {
+        "goal": "分析中国金融信息服务行业市场规模逐年上涨的驱动因素。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 中国金融信息服务行业市场规模逐年上涨，预计到2025年将达到762.26亿元，2018年为340.86亿元，2023年为607.86亿元。",
+            "Comparison: 金融科技投入预计自2019年起至2027年以16.70%的CAGR达到超过700亿元规模，显示出行业的快速发展。",
+            "Extreme: 2024年9月24日金融三部委下调存款准备金率和7天期逆回购利率，政策影响显著。",
+            "Attribution: 由于政策支持，银行业数智化转型得到了加大力度的支持，推动了金融信息服务行业的健康发展。"
+        ],
+        "summary": "本报告探讨了中国金融信息服务行业的发展趋势、市场规模及政策背景，分析了行业的未来潜力与风险。",
+        "flag_id": "flag-49",
+        "classifier": "FinTech",
+        "classifier_cn": "金融科技",
+        "input_files": [
+            "output/business_background.txt",
+            "output/dimension_data.db",
+            "output/trade_facts.csv",
+            "output/user_profiles.json"
+        ]
+    },
+    {
+        "goal": "分析Meta与腾讯在社交广告收入和ARPU方面的差异，以识别提升单用户价值的潜在策略。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 腾讯FY23社交广告收入为12862百万美元，ARPU为10美元，而Meta FY23社交广告收入为133005百万美元，ARPU为34美元，显示出Meta在单用户价值提升方面的优势。",
+            "Comparison: Meta的社交应用组合MAU为41.3亿，远超腾讯的微信MAU 13.8亿，显示出Meta在用户覆盖上的显著优势。",
+            "Extreme: Meta FY23的总收入为133005百万美元，远高于腾讯FY23的37490百万美元，显示出Meta在市场中的强大竞争力。",
+            "Attribution: 腾讯的多元变现策略使其在用户增长和单用户价值提升方面仍有潜力，尤其是在社交电商和游戏领域的创新。"
+        ],
+        "summary": "本报告深入分析了腾讯与Meta在收入结构、用户覆盖及市场策略上的差异，揭示了两者在社交业务中的不同发展轨迹及未来潜力。",
+        "flag_id": "flag-21",
+        "classifier": "Internet Firms",
+        "classifier_cn": "互联网公司研究",
+        "input_files": [
+            "output/background.txt",
+            "output/dimension_data.db",
+            "output/social_advertising_facts.csv",
+            "output/user_profiles.json"
+        ]
+    },
+    {
+        "goal": "比较不同医疗组织在AI整合过程中的侧重点及其对患者安全的影响。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 第5页提到，近三分之一的医疗保健领导者表示，人工智能占其组织全球技术预算的10%以上，显示出对AI投资的重视。",
+            "Comparison: 第15页提到，医疗机构在人工智能转型的启用、嵌入和进化三个阶段，而第16页则强调，领先的医疗保健组织正进入人工智能应用的第三阶段，显示出不同组织在AI应用成熟度上的差异。",
+            "Extreme: 第19页指出，62%的人认为数据质量是一个主要限制因素，显示出在AI实施中的一个显著障碍。",
+            "Attribution: 第22页指出，成功的关键在于利益相关者的合作，这与第23页提到的通过建立信任、协调战略、赋能技术和授权员工来释放人工智能的变革潜力密切相关。"
+        ],
+        "summary": "本报告探讨了医疗保健行业如何通过人工智能提升运营效率、改善患者体验，并分析了当前面临的挑战与未来的机遇。",
+        "flag_id": "flag-131",
+        "classifier": "AI Healthcare",
+        "classifier_cn": "AI 医疗健康",
+        "input_files": [
+            "output/ai_background.txt",
+            "output/ai_healthcare_fact.csv",
+            "output/dimension_data.db",
+            "output/user_profiles.json"
+        ]
+    },
+    {
+        "goal": "评估网上消费欺诈对用户对互联网商务类应用信任度的影响程度。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 有过账号或密码被盗经历的网民达到1.21亿，占24.9%，较2010年底增加3.1个百分点。",
+            "Comparison: 即时通信用户规模为3.85亿，增长率为9.2%，显示出相较于其他应用的稳定增长。",
+            "Extreme: 遇到病毒或木马攻击的网民数量在半年内增加735万人，反映出安全威胁的上升。",
+            "Attribution: 安全的网络消费环境被认为是提高用户使用频率和吸引新用户的重要因素。"
+        ],
+        "summary": "本报告探讨了中国互联网的安全环境，分析了用户在网上消费中的安全问题及其对互联网应用的影响。",
+        "flag_id": "flag-185",
+        "classifier": "Internet Dev.",
+        "classifier_cn": "互联网发展",
+        "input_files": [
+            "output/business_background.txt",
+            "output/dimension_data.db",
+            "output/user_event_fact.csv",
+            "output/user_profiles.json"
+        ]
+    },
+    {
+        "goal": "评估湘财股份未来几年营业总收入增长的可持续性及其影响因素。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 2023年营业总收入预计将下降29%，但2024年和2025年预计将分别增长15%和11%。",
+            "Comparison: 湘财证券的市占率预计在2023-2025年将保持在0.45%-0.50%之间，显示出市场竞争的稳定性。",
+            "Extreme: 湘财股份2023年营业总收入预计为24.96亿元，较2022年大幅回升。",
+            "Attribution: 由于高税收和市场波动，湘财股份在2022年面临的业绩压力显著，未来的增长将依赖于其转型策略的成功实施。"
+        ],
+        "summary": "湘财股份在经历了2022年的业绩承压后，预计在2023年实现扭亏为盈，未来几年将逐步恢复增长。",
+        "flag_id": "flag-150",
+        "classifier": "Fund Analysis",
+        "classifier_cn": "基金分析",
+        "input_files": [
+            "output/business_background.txt",
+            "output/dimension_data.db",
+            "output/fact_data.csv",
+            "output/user_profiles.json"
+        ]
+    },
+    {
+        "goal": "探讨俄乌战争对华商基金投资策略及业绩的具体影响。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 华商鑫安近一年累计收益率为83.18%，显示出其长期投资策略的有效性。",
+            "Comparison: 华商双驱优选在同类灵活配置型基金中的排名为376/2301，显示出其相对竞争力。",
+            "Extreme: 华商鑫安的年化波动率为24.34%，表明其在收益波动方面的风险水平。",
+            "Attribution: 由于俄乌战争导致的铝供应收缩，基金经理调整了重仓个股的赔率，从而影响了投资表现。"
+        ],
+        "summary": "本报告深入分析了华商基金及其基金经理陈恒的投资理念、业绩表现及市场环境的影响，揭示了其在多元成长投资中的独特策略和风险管理能力。",
+        "flag_id": "flag-81",
+        "classifier": "Fund Analysis",
+        "classifier_cn": "基金分析",
+        "input_files": [
+            "output/background.txt",
+            "output/fund_manager.db",
+            "output/fund_performance.csv",
+            "output/manager_profiles.json"
+        ]
+    },
+    {
+        "goal": "分析2023年海外短剧内购收入增长至15亿美元的驱动因素。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 2023年海外短剧内购收入规模不到1亿美元，2024年预计内购收入将达15亿美元，2025年预计内购收入将达38亿美元，显示出市场的快速增长。",
+            "Comparison: 2024年海外电影票房规模为242亿美元，而短剧内购收入预计将达到15亿美元，显示出短剧市场的潜力。",
+            "Extreme: 第4页显示了海外短剧的买量成本约占收入的50%，这在行业中属于较高水平。",
+            "Attribution: 短剧的爆火是中国网文产业历经十年积累后的一次必然延伸与视频化升级，市场需求与供给侧的结构性问题之间的不平衡推动了短剧的快速发展。"
+        ],
+        "summary": "海外短剧市场正在经历爆发式增长，预计到2025年内购收入将达到38亿美元，短剧的商业模式和用户需求正在不断演变，市场竞争格局逐渐稳定。",
+        "flag_id": "flag-36",
+        "classifier": "Short-form Drama",
+        "classifier_cn": "短剧/微短剧内容",
+        "input_files": [
+            "output/business_background.txt",
+            "output/dimension_data.db",
+            "output/overseas_short_drama_revenue.csv",
+            "output/user_profiles.json"
+        ]
+    },
+    {
+        "goal": "比较南方中证申万有色金属ETF与同类产品的年化超额收益，找出其优势所在。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 铝价在2024年年初达到19000元/吨，随后在4月15日升破20000元/吨，反映出铝市场的强劲需求和价格上涨趋势。",
+            "Comparison: 2020年中证申万有色金属指数年化收益率为34.77%，显著跑赢市场宽基指数。",
+            "Extreme: 伦敦金现货突破2300美元/盎司，累计涨幅达到15.5%，成为市场关注的焦点。",
+            "Attribution: 铝价上涨与新能源汽车轻量化需求增加密切相关，反映出市场对铝的强劲需求。"
+        ],
+        "summary": "本报告分析了南方中证申万有色金属ETF的投资价值及其在有色金属市场中的表现，强调了美联储降息预期对市场的影响以及铝和铜的供需状况。",
+        "flag_id": "flag-98",
+        "classifier": "Fund Analysis",
+        "classifier_cn": "基金分析",
+        "input_files": [
+            "output/aluminum_price_trend.csv",
+            "output/commodity_price_extreme.csv",
+            "output/etf_performance_comparison.json",
+            "output/investment_background.txt",
+            "output/market_attribution.db",
+            "output/metal_index_performance.db"
+        ]
+    },
+    {
+        "goal": "分析阿里巴巴AI业务相关产品收入连续七个季度三位数增长的驱动因素。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 阿里巴巴的AI业务相关产品收入实现连续七个季度三位数增长，显示出强劲的市场需求。",
+            "Comparison: 阿里云在公共云IaaS市场占比26.1%，明显高于华为云的13.2%，显示出阿里在云计算领域的领导地位。",
+            "Extreme: 阿里集团在AGI探索过程中预计将实现高速增长，成为行业的领军者。",
+            "Attribution: 由于高端芯片对华出口封锁，阿里巴巴形成了自己的AI产业联盟，推动了国内AI产业的发展。"
+        ],
+        "summary": "本报告分析了阿里巴巴在人工智能和云计算领域的快速增长与潜在风险，强调了其在AGI探索中的独特竞争优势及市场趋势。",
+        "flag_id": "flag-33",
+        "classifier": "Internet Firms",
+        "classifier_cn": "互联网公司研究",
+        "input_files": [
+            "output/AGI_Exploration.db",
+            "output/AI_Alliance.db",
+            "output/AI_Product_Revenue.csv",
+            "output/AI_Product_Revenue_full.csv",
+            "output/Cloud_Market_Share.csv",
+            "output/Cloud_Market_Share_nosql.json",
+            "output/background.txt"
+        ]
+    },
+    {
+        "goal": "比较不同地区（如北京、广东和西藏）网民增长的差异及其原因。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 农村网民规模达到1.25亿，占整体网民的27.3%，同比增长16.9%。",
+            "Comparison: 广东的网民数为5324万人，占全国网民的11.6%。",
+            "Extreme: 2010年，中国网站数量减少到191万个，年降幅41%。",
+            "Attribution: 农村网民的增长与农村互联网接入条件改善、网络硬件设备完备密切相关。"
+        ],
+        "summary": "本报告总结了2010年中国互联网的快速发展，特别是在网民规模、互联网应用和安全防护等方面的显著变化。",
+        "flag_id": "flag-183",
+        "classifier": "Internet Dev.",
+        "classifier_cn": "互联网发展",
+        "input_files": [
+            "output/background.txt",
+            "output/internet_users.csv",
+            "output/user_profiles.json",
+            "output/website_statistics.db"
+        ]
+    },
+    {
+        "goal": "研究上证综指市盈率处于历史低位的原因及其对未来投资价值的影响。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 上证综指的市盈率（TTM）为16.19倍，处于历史低位，表明其投资价值逐渐显现。",
+            "Comparison: 上证综指的市盈率低于沪深300的15.31倍，但高于中证500的34.51倍，显示出其相对价值的吸引力。",
+            "Extreme: 截至2020年9月2日，上证综指成分股中科创板前十大成分股的平均总市值达444.42亿元，显示出科创板的市场活跃度。",
+            "Attribution: 由于风险警示股的剔除，能够降低较差的尾部个股的影响，提高上证综指的代表性，增强其投资吸引力。"
+        ],
+        "summary": "本报告分析了国泰上证综指ETF的投资价值，强调了上证综指的编制规则优化及其市场表现，指出了投资者需关注的风险因素。",
+        "flag_id": "flag-107",
+        "classifier": "Fund Analysis",
+        "classifier_cn": "基金分析",
+        "input_files": [
+            "output/business_background.txt",
+            "output/dimension_data.db",
+            "output/stock_index_components.json",
+            "output/stock_index_facts.csv"
+        ]
+    },
+    {
+        "goal": "分析国泰上证综指ETF发行规模较低的原因，并与其他ETF进行比较。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 自2020年9月9日国泰上证综指ETF上市以来，其发行规模为13.14亿元，显示出市场对该ETF的认可。",
+            "Comparison: 国泰上证综指ETF的规模为12.84亿元，较国泰中证全指证券公司ETF的308.05亿元成交额明显较低，显示出市场对不同ETF的偏好差异。",
+            "Extreme: 新上证综指价格指数的累计涨幅约93.89%，显示出其在新编制规则下的强劲表现。",
+            "Attribution: 上证综指的估值水平处于历史低位，主要由于市场波动和政策影响，投资者应关注这些因素对未来收益的潜在影响。"
+        ],
+        "summary": "本报告分析了国泰上证综指ETF的投资价值，强调了上证综指的编制规则优化及其市场表现，指出了投资者需关注的风险因素。",
+        "flag_id": "flag-106",
+        "classifier": "Fund Analysis",
+        "classifier_cn": "基金分析",
+        "input_files": [
+            "output/business_background.txt",
+            "output/dimension_etf_performance.db",
+            "output/etl_etf_nosql.json",
+            "output/fact_etf_comparison.csv"
+        ]
+    },
+    {
+        "goal": "比较美国和加拿大与中东和北非地区在金融科技投资者集中度上的变化及其影响。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 尽管2022年和2023年年增长率仅为1%，但金融科技行业的长期前景依然乐观，预计净收入年增长率将达到15%。",
+            "Comparison: 欧洲金融科技融资总额截至2023年底达到每年56亿美元，显示出与其他地区的差异。",
+            "Extreme: 蚂蚁集团在2018年的融资金额达到140亿美元，占当年全球金融科技总VC融资的31%。",
+            "Attribution: 本地投资者的增加有助于支持本土金融科技初创企业，满足特定市场需求。"
+        ],
+        "summary": "本报告分析了风险投资在金融科技领域的影响，探讨了不同地区的投资趋势和挑战。",
+        "flag_id": "flag-117",
+        "classifier": "FinTech",
+        "classifier_cn": "金融科技",
+        "input_files": [
+            "output/Fintech_Comparisons.json",
+            "output/Fintech_Investments.csv",
+            "output/Fintech_Trends.json",
+            "output/business_background.txt",
+            "output/dimensions.db"
+        ]
+    },
+    {
+        "goal": "比较上海金ETF基金与传统黄金投资的优势，特别是在管理费率和交易便捷性方面的差异。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 全球黄金储备在过去一年增长16.45%，中国黄金储备增长率高达224.73%。",
+            "Comparison: 与传统黄金投资相比，上海金ETF基金的管理费率和交易费率更低，交易更加便捷。",
+            "Extreme: 中国黄金储备的增长率224.73%是全球最高，显示出中国在黄金市场中的重要地位。",
+            "Attribution: 由于地缘政治的不确定性加大，黄金的避险需求显著上升，尤其是在中美摩擦和英国脱欧的背景下。"
+        ],
+        "summary": "本报告分析了黄金在不确定经济环境中的配置价值，强调了上海金ETF基金作为投资工具的重要性，并探讨了黄金价格的历史表现及其与经济政策的关系。",
+        "flag_id": "flag-77",
+        "classifier": "Fund Analysis",
+        "classifier_cn": "基金分析",
+        "input_files": [
+            "output/background.txt",
+            "output/dimension_data.db",
+            "output/trades.csv",
+            "output/user_profiles.json"
+        ]
+    },
+    {
+        "goal": "比较AI基因组学市场与其他AI医疗领域的增长速度，探讨其CAGR达到39.2%的驱动因素。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: AI药物研发市场在2022年达到15亿美元，预计2032年将增长至209亿美元，年均增长率为30.1%。",
+            "Comparison: 医药板块整体估值为25.62倍PE，相对沪深300的估值溢价率为130%。",
+            "Extreme: 医药（中信）指数在2024年以来累计跌幅达到9.8%，显示出市场的波动性。",
+            "Attribution: 医药板块的刚需属性及人口结构老龄化，导致人们对医疗保健需求不断升级，尽管整体估值下降，但投资价值依然凸显。"
+        ],
+        "summary": "AI医疗市场正在快速增长，预计到2032年将达到700亿美元，政策红利的释放为行业发展提供了强劲动力。尽管医药板块整体估值下降，但创新药物和医疗器械的需求仍在上升。",
+        "flag_id": "flag-73",
+        "classifier": "AI Healthcare",
+        "classifier_cn": "AI 医疗健康",
+        "input_files": [
+            "output/ai_drug_development_market.csv",
+            "output/ai_genomics_market.csv",
+            "output/ai_genomics_tech_details.json",
+            "output/business_background.txt",
+            "output/healthcare_demand_attribution.json",
+            "output/pharmaceutical_valuation.db"
+        ]
+    },
+    {
+        "goal": "分析2024年美团营收增长18%的驱动因素。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 预计2024年美团营收将达到3269亿元，同比增长18%，2025年将增长至3823亿元，2026年达到4424亿元，显示出持续的增长趋势。",
+            "Comparison: 美团与抖音的市场份额比例为2:1，抖音本地生活核销前交易额超过1000亿元，同比增长超100%。",
+            "Extreme: 2023年美团到店酒旅GTV同比增长超过100%，显示出其在低线城市的强劲表现。",
+            "Attribution: 美团的营收增长与核心高价值用户资产的累积及年轻群体的即时性需求驱动密切相关。"
+        ],
+        "summary": "本报告分析了美团在服务与即时零售领域的增长潜力，探讨了其与抖音的竞争格局及未来发展方向，预计未来三年营收和净利润将持续增长。",
+        "flag_id": "flag-140",
+        "classifier": "Internet Firms",
+        "classifier_cn": "互联网公司研究",
+        "input_files": [
+            "output/background.txt",
+            "output/dimension_data.db",
+            "output/fact_orders.csv",
+            "output/user_profiles.json"
+        ]
+    },
+    {
+        "goal": "比较短剧APP与小程序短剧的商业模型差异及其对净利率的影响。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 微短剧市场规模在2023年达到373.9亿，同比增长267.65%，预计到2027年将达到856.5亿，年均增长率为19.2%。",
+            "Comparison: 抖音小程序活跃用户规模为8324万，远超微信小程序的1229万，显示出抖音在短剧市场的领先地位。",
+            "Extreme: 2023年微短剧市场规模为373.9亿，预计到2027年将超过1000亿，显示出市场的极大潜力。",
+            "Attribution: 小程序短剧的转型为APP是由于用户留存率和商业模型的健康性需求，平台倒逼短剧方独立的趋势也促使了这一转型。"
+        ],
+        "summary": "短剧市场在过去几年经历了显著的增长，尤其是微短剧的市场规模和用户基础不断扩大。随着政策的支持和市场需求的变化，短剧行业正朝着更加规范化和商业化的方向发展。",
+        "flag_id": "flag-39",
+        "classifier": "Short-form Drama",
+        "classifier_cn": "短剧/微短剧内容",
+        "input_files": [
+            "output/business_models.db",
+            "output/industry_background.txt",
+            "output/short_drama_market.csv",
+            "output/user_profiles.json"
+        ]
+    },
+    {
+        "goal": "分析2024年9月政策释放后市场活跃度提升的具体因素。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 金融科技发展历史自上世纪70年代以来，经历了'电子化信息化-互联网金融-数智化'的阶段，平均每隔15-20年出现一次较大变革。",
+            "Comparison: 2023年国有六大行在金融科技方面的投入均超过百亿元，其中工商银行金融科技投入272.46亿元，建设银行250.24亿元，农业银行248.5亿元。",
+            "Extreme: 2024年10月8日单日成交额达到34835亿元，显示出市场的极高活跃度。",
+            "Attribution: 由于外部政策推出、互联网带来的流量冲击以及内部IT投入向好趋势，金融IT未来资本开支存在向好预期。"
+        ],
+        "summary": "本报告分析了金融科技的发展历程、市场情绪及政策支持对行业的影响，揭示了未来投资趋势和风险提示。",
+        "flag_id": "flag-47",
+        "classifier": "FinTech",
+        "classifier_cn": "金融科技",
+        "input_files": [
+            "output/business_background.txt",
+            "output/dimension_data.db",
+            "output/transactions_2023-01.csv",
+            "output/transactions_2023-02.csv",
+            "output/transactions_2023-03.csv",
+            "output/transactions_2023-04.csv",
+            "output/transactions_2023-05.csv",
+            "output/transactions_2023-06.csv",
+            "output/transactions_2023-07.csv",
+            "output/transactions_2023-08.csv",
+            "output/transactions_2023-09.csv",
+            "output/transactions_2023-10.csv",
+            "output/transactions_2023-11.csv",
+            "output/transactions_2023-12.csv",
+            "output/transactions_2024-01.csv",
+            "output/transactions_2024-02.csv",
+            "output/transactions_2024-03.csv",
+            "output/transactions_2024-04.csv",
+            "output/transactions_2024-05.csv",
+            "output/transactions_2024-06.csv",
+            "output/transactions_2024-07.csv",
+            "output/transactions_2024-08.csv",
+            "output/transactions_2024-09.csv",
+            "output/transactions_2024-10.csv",
+            "output/transactions_2024-11.csv",
+            "output/transactions_2024-12.csv",
+            "output/transactions_all.csv",
+            "output/user_profiles.json"
+        ]
+    },
+    {
+        "goal": "分析余懿接管华商乐享互联基金以来的回报率变化及其影响因素。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 自余懿于2022年9月接管华商乐享互联基金以来，基金回报率保持在13.08%，年化回报达到31.47%。",
+            "Comparison: 华商乐享互联基金的年化回报31.47%在同类基金中排名前2.12%，显示出其优于市场的表现。",
+            "Extreme: 2019年，华商乐享互联基金的全年收益率达到84.18%，为历史最高点。",
+            "Attribution: 余懿的投资风格注重平衡，强调风险与收益的平衡，这一策略帮助基金在市场波动中保持稳定收益。"
+        ],
+        "summary": "本报告分析了华商基金余懿的投资风格，强调其在投资中注重平衡，兼顾逆向和景气的机会，展现出优异的业绩表现和风险控制能力。",
+        "flag_id": "flag-79",
+        "classifier": "Fund Analysis",
+        "classifier_cn": "基金分析",
+        "input_files": [
+            "output/background.txt",
+            "output/dimension_data.db",
+            "output/fact_table.csv",
+            "output/fund_profiles.json",
+            "output/manager_profiles.json"
+        ]
+    },
+    {
+        "goal": "比较立讯精密与海康威视的市场表现，探讨其在电子行业中的主导地位。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 随着科技产业的发展，行业龙头企业将进一步受益，预计未来将有更高的市场表现。",
+            "Comparison: 苹果产业链的热门概念股数量为13只，显示出其在电子50指数中的重要性。",
+            "Extreme: 中证电子50指数的成分股中，电子制造占比32.5%，半导体占比22.7%，反映出行业结构的多样性。",
+            "Attribution: 政策的出台表明国家对于科技企业的扶持力度加强，直接影响了中证电子50指数的表现。"
+        ],
+        "summary": "本报告深入分析了中证电子50指数的成分股及其在电子行业中的表现，强调了行业龙头企业的盈利能力和成长性。",
+        "flag_id": "flag-85",
+        "classifier": "Fund Analysis",
+        "classifier_cn": "基金分析",
+        "input_files": [
+            "output/background.txt",
+            "output/dimension_data.db",
+            "output/market_performance.csv",
+            "output/user_profiles.json"
+        ]
+    },
+    {
+        "goal": "评估阿里云在公共云IaaS市场的领导地位对其未来增长的影响。",
+        "role": "Data Analyst",
+        "insights": [
+            "Trend: 云智能集团在2025财年实现11%的同比增长，表明云计算与AI的融合正在推动整体业务增长。",
+            "Comparison: 夸克在中国AI应用中位居榜首，全球月活跃用户数接近1.5亿，超越了其他竞争对手。",
+            "Extreme: 钉钉软件订阅ARR突破2亿美元，显示出其在企业服务市场的强劲表现。",
+            "Attribution: AI优先、公共云优先和生态优先战略对于阿里云收入形成了正向反馈，促进了整体业务的增长。"
+        ],
+        "summary": "本报告分析了阿里巴巴在人工智能和云计算领域的快速增长与潜在风险，强调了其在AGI探索中的独特竞争优势及市场趋势。",
+        "flag_id": "flag-34",
+        "classifier": "Internet Firms",
+        "classifier_cn": "互联网公司研究",
+        "input_files": [
+            "output/background.txt",
+            "output/business_growth.csv",
+            "output/dimension_data.db",
+            "output/strategic_impact.json",
+            "output/subscription_revenue.csv"
+        ]
+    }
+]

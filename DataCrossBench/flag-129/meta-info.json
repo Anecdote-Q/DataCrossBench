@@ -1,0 +1,17 @@
+{
+    "goal": "比较讯飞医疗与晶泰科技在不同领域的营收表现及毛利率差异。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 讯飞医疗在2023年前三季度实现营收3.2亿元，同比增长29.0%。"
+    ],
+    "summary": "本报告分析了AI医疗行业的现状、发展趋势及面临的挑战，强调了政策支持和技术突破对行业发展的重要性。",
+    "flag_id": "flag-129",
+    "classifier": "AI Healthcare",
+    "classifier_cn": "AI 医疗健康",
+    "input_files": [
+        "output/background.txt",
+        "output/dimension_data.db",
+        "output/orders.csv",
+        "output/user_profiles.json"
+    ]
+}

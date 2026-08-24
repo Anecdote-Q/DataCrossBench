@@ -1,0 +1,212 @@
+[
+  {
+    "user_id": 1,
+    "name": "刘想",
+    "age": 48,
+    "gender": "男",
+    "city_tier": "高线城市",
+    "membership_level": "银卡",
+    "preferences": {
+      "categories": [
+        "餐饮",
+        "美业"
+      ],
+      "price_sensitivity": "高",
+      "has_children": false
+    },
+    "last_active_date": "2025-11-18",
+    "app_usage": {
+      "daily_sessions": 2,
+      "average_session_length_min": 21.72
+    }
+  },
+  {
+    "user_id": 2,
+    "name": "洪萍",
+    "age": 42,
+    "gender": "男",
+    "city_tier": "高线城市",
+    "membership_level": "钻石",
+    "preferences": {
+      "categories": [
+        "美业",
+        "餐饮"
+      ],
+      "price_sensitivity": "低",
+      "has_children": false
+    },
+    "last_active_date": "2025-11-15",
+    "app_usage": {
+      "daily_sessions": 2,
+      "average_session_length_min": 17.69
+    }
+  },
+  {
+    "user_id": 3,
+    "name": "余玉英",
+    "age": 34,
+    "gender": "男",
+    "city_tier": "低线城市",
+    "membership_level": "银卡",
+    "preferences": {
+      "categories": [
+        "购物",
+        "餐饮"
+      ],
+      "price_sensitivity": "中",
+      "has_children": false
+    },
+    "last_active_date": "2025-12-20",
+    "app_usage": {
+      "daily_sessions": 2,
+      "average_session_length_min": 6.3
+    }
+  },
+  {
+    "user_id": 4,
+    "name": "温秀兰",
+    "age": 35,
+    "gender": "女",
+    "city_tier": "低线城市",
+    "membership_level": "金卡",
+    "preferences": {
+      "categories": [
+        "购物",
+        "餐饮"
+      ],
+      "price_sensitivity": "中",
+      "has_children": false
+    },
+    "last_active_date": "2025-11-05",
+    "app_usage": {
+      "daily_sessions": 1,
+      "average_session_length_min": 5.07
+    }
+  },
+  {
+    "user_id": 5,
+    "name": "王淑兰",
+    "age": 26,
+    "gender": "男",
+    "city_tier": "中线城市",
+    "membership_level": "金卡",
+    "preferences": {
+      "categories": [
+        "美业",
+        "餐饮"
+      ],
+      "price_sensitivity": "低",
+      "has_children": true
+    },
+    "last_active_date": "2025-11-15",
+    "app_usage": {
+      "daily_sessions": 5,
+      "average_session_length_min": 14.48
+    }
+  },
+  {
+    "user_id": 6,
+    "name": "周凤兰",
+    "age": 18,
+    "gender": "女",
+    "city_tier": "中线城市",
+    "membership_level": "钻石",
+    "preferences": {
+      "categories": [
+        "购物",
+        "酒旅"
+      ],
+      "price_sensitivity": "高",
+      "has_children": false
+    },
+    "last_active_date": "2025-11-01",
+    "app_usage": {
+      "daily_sessions": 2,
+      "average_session_length_min": 9.11
+    }
+  },
+  {
+    "user_id": 7,
+    "name": "刘淑兰",
+    "age": 22,
+    "gender": "男",
+    "city_tier": "中线城市",
+    "membership_level": "银卡",
+    "preferences": {
+      "categories": [
+        "美业",
+        "购物"
+      ],
+      "price_sensitivity": "中",
+      "has_children": true
+    },
+    "last_active_date": "2025-10-25",
+    "app_usage": {
+      "daily_sessions": 4,
+      "average_session_length_min": 12.53
+    }
+  },
+  {
+    "user_id": 8,
+    "name": "黄波",
+    "age": 40,
+    "gender": "男",
+    "city_tier": "低线城市",
+    "membership_level": "普通",
+    "preferences": {
+      "categories": [
+        "酒旅",
+        "购物"
+      ],
+      "price_sensitivity": "高",
+      "has_children": true
+    },
+    "last_active_date": "2025-12-21",
+    "app_usage": {
+      "daily_sessions": 1,
+      "average_session_length_min": 10.73
+    }
+  },
+  {
+    "user_id": 9,
+    "name": "韩佳",
+    "age": 24,
+    "gender": "女",
+    "city_tier": "中线城市",
+    "membership_level": "金卡",
+    "preferences": {
+      "categories": [
+        "餐饮",
+        "酒旅"
+      ],
+      "price_sensitivity": "中",
+      "has_children": true
+    },
+    "last_active_date": "2025-12-07",
+    "app_usage": {
+      "daily_sessions": 3,
+      "average_session_length_min": 27.35
+    }
+  },
+  {
+    "user_id": 10,
+    "name": "林桂荣",
+    "age": 21,
+    "gender": "女",
+    "city_tier": "低线城市",
+    "membership_level": "普通",
+    "preferences": {
+      "categories": [
+        "酒旅",
+        "购物"
+      ],
+      "price_sensitivity": "高",
+      "has_children": true
+    },
+    "last_active_date": "2025-11-13",
+    "app_usage": {
+      "daily_sessions": 1,
+      "average_session_length_min": 22.85
+    }
+  }
+]

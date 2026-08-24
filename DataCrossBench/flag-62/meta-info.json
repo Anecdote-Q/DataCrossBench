@@ -1,0 +1,20 @@
+{
+    "goal": "比较郑州和西安在微短剧制作实力上的优势，探讨其产业链集聚性和政府扶持政策的作用。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 预计至2027年全国微短剧产值规模将突破1000亿元，表明行业正在快速增长。",
+        "Comparison: 郑州和西安在微短剧制作实力上并列第一，而深圳、杭州、上海和广州则位列第二梯队，显示出不同城市在产业链中的分工与合作。",
+        "Extreme: 郑州的微短剧市场规模达38.5亿元，成为制作实力城市中的佼佼者。",
+        "Attribution: 郑州和西安的制作实力优势主要源于其产业链的高度集聚性和政府的扶持政策。"
+    ],
+    "summary": "本报告分析了2025年中国微短剧产业在不同城市的表现，揭示了北京在综合实力、出海能力和制作实力方面的领先地位，同时指出郑州和西安在制作实力上的并列第一。",
+    "flag_id": "flag-62",
+    "classifier": "Short-form Drama",
+    "classifier_cn": "短剧/微短剧内容",
+    "input_files": [
+        "output/business_background.txt",
+        "output/dimension_data.db",
+        "output/micro_short_drama_fact.csv",
+        "output/micro_short_drama_profiles.json"
+    ]
+}

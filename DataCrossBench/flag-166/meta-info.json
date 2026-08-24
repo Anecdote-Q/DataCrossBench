@@ -1,0 +1,24 @@
+{
+    "goal": "研究宽带上网用户增长速度远高于拨号上网用户的原因，评估用户对上网方式的偏好变化。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 拨号上网用户人数增长率为9.2%，显示出传统上网方式的增长速度明显低于宽带用户。",
+        "Comparison: 香港的网民人数为288万，占对应总体641万中的45%，与中国大陆的互联网普及率相比仍有差距。",
+        "Extreme: 宽带上网用户人数1740万，显示出宽带接入的快速增长。",
+        "Attribution: 由于国家主管部门的支持，互联网统计工作得以顺利进行，推动了数据的准确性和及时性。"
+    ],
+    "summary": "本报告分析了中国互联网的快速发展，特别是用户增长、上网方式的变化以及各地区的互联网普及情况，揭示了未来发展的潜力和挑战。",
+    "flag_id": "flag-166",
+    "classifier": "Internet Dev.",
+    "classifier_cn": "互联网发展",
+    "input_files": [
+        "output/background_description.txt",
+        "output/government_support_dimension.db",
+        "output/growth_rate_vs_connection_speed.png",
+        "output/internet_users_fact.csv",
+        "output/total_users_by_region.png",
+        "output/user_count_by_growth_category.png",
+        "output/user_profiles.json",
+        "output/user_type_growth_rate.png"
+    ]
+}

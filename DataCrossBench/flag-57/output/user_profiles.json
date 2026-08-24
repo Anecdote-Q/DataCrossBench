@@ -1,0 +1,2724 @@
+[
+  {
+    "fiscal_year": "FY24",
+    "policy_impact": {
+      "description": "支持创新",
+      "impact_score": 0.83
+    },
+    "organization": {
+      "change_detail": "裁员计划",
+      "teams_affected": 2,
+      "budget_allocated_million": 0.56
+    },
+    "user_strategy": {
+      "strategy_desc": "数据驱动运营",
+      "priority": "高",
+      "actions": [
+        "Business-focused encompassing array",
+        "Visionary incremental flexibility",
+        "Customer-focused 5thgeneration implementation"
+      ]
+    },
+    "metadata": {
+      "record_created": "2023-03-17T05:02:51.792192",
+      "tags": [
+        "创新",
+        "增长"
+      ]
+    }
+  },
+  {
+    "fiscal_year": "FY24",
+    "policy_impact": {
+      "description": "紧缩政策",
+      "impact_score": 0.61
+    },
+    "organization": {
+      "change_detail": "技术升级",
+      "teams_affected": 3,
+      "budget_allocated_million": 2.14
+    },
+    "user_strategy": {
+      "strategy_desc": "增强客户服务",
+      "priority": "中",
+      "actions": [
+        "Managed global application"
+      ]
+    },
+    "metadata": {
+      "record_created": "2020-12-14T17:54:03.180207",
+      "tags": [
+        "创新",
+        "增长",
+        "效率"
+      ]
+    }
+  },
+  {
+    "fiscal_year": "FY28",
+    "policy_impact": {
+      "description": "支持创新",
+      "impact_score": 0.76
+    },
+    "organization": {
+      "change_detail": "管理层调整",
+      "teams_affected": 7,
+      "budget_allocated_million": 0.87
+    },
+    "user_strategy": {
+      "strategy_desc": "增强客户服务",
+      "priority": "中",
+      "actions": [
+        "Mandatory next generation groupware"
+      ]
+    },
+    "metadata": {
+      "record_created": "2024-03-12T16:19:41.134351",
+      "tags": [
+        "效率",
+        "客户",
+        "创新"
+      ]
+    }
+  },
+  {
+    "fiscal_year": "FY23",
+    "policy_impact": {
+      "description": "贸易摩擦加剧",
+      "impact_score": 0.78
+    },
+    "organization": {
+      "change_detail": "技术升级",
+      "teams_affected": 3,
+      "budget_allocated_million": 14.26
+    },
+    "user_strategy": {
+      "strategy_desc": "数据驱动运营",
+      "priority": "中",
+      "actions": [
+        "Diverse 24hour Internet solution"
+      ]
+    },
+    "metadata": {
+      "record_created": "2024-08-16T17:24:37.839370",
+      "tags": [
+        "增长"
+      ]
+    }
+  },
+  {
+    "fiscal_year": "FY25",
+    "policy_impact": {
+      "description": "紧缩政策",
+      "impact_score": 0.54
+    },
+    "organization": {
+      "change_detail": "业务线合并",
+      "teams_affected": 7,
+      "budget_allocated_million": 4.82
+    },
+    "user_strategy": {
+      "strategy_desc": "数据驱动运营",
+      "priority": "高",
+      "actions": [
+        "Right-sized homogeneous architecture",
+        "Adaptive foreground superstructure"
+      ]
+    },
+    "metadata": {
+      "record_created": "2022-09-06T06:08:29.905352",
+      "tags": [
+        "风险",
+        "创新"
+      ]
+    }
+  },
+  {
+    "fiscal_year": "FY31",
+    "policy_impact": {
+      "description": "放松监管",
+      "impact_score": 0.32
+    },
+    "organization": {
+      "change_detail": "管理层调整",
+      "teams_affected": 6,
+      "budget_allocated_million": 1.63
+    },
+    "user_strategy": {
+      "strategy_desc": "引入AI推荐",
+      "priority": "低",
+      "actions": [
+        "Balanced background secured line",
+        "Digitized clear-thinking utilization"
+      ]
+    },
+    "metadata": {
+      "record_created": "2025-06-03T06:39:01.589468",
+      "tags": [
+        "创新",
+        "风险",
+        "效率"
+      ]
+    }
+  },
+  {
+    "fiscal_year": "FY28",
+    "policy_impact": {
+      "description": "支持创新",
+      "impact_score": 0.01
+    },
+    "organization": {
+      "change_detail": "新增海外团队",
+      "teams_affected": 3,
+      "budget_allocated_million": 3.92
+    },
+    "user_strategy": {
+      "strategy_desc": "数据驱动运营",
+      "priority": "高",
+      "actions": [
+        "Implemented intermediate orchestration",
+        "Polarized empowering leverage"
+      ]
+    },
+    "metadata": {
+      "record_created": "2025-01-04T01:32:17.104209",
+      "tags": [
+        "国际化",
+        "增长",
+        "客户"
+      ]
+    }
+  },
+  {
+    "fiscal_year": "FY23",
+    "policy_impact": {
+      "description": "放松监管",
+      "impact_score": 0.07
+    },
+    "organization": {
+      "change_detail": "业务线合并",
+      "teams_affected": 3,
+      "budget_allocated_million": 0.56
+    },
+    "user_strategy": {
+      "strategy_desc": "增强客户服务",
+      "priority": "高",
+      "actions": [
+        "Visionary fault-tolerant Graphical User Interface"
+      ]
+    },
+    "metadata": {
+      "record_created": "2023-02-13T11:15:18.322814",
+      "tags": [
+        "增长"
+      ]
+    }
+  },
+  {
+    "fiscal_year": "FY22",
+    "policy_impact": {
+      "description": "紧缩政策",
+      "impact_score": 0.14
+    },
+    "organization": {
+      "change_detail": "裁员计划",
+      "teams_affected": 7,
+      "budget_allocated_million": 2.64
+    },
+    "user_strategy": {
+      "strategy_desc": "数据驱动运营",
+      "priority": "中",
+      "actions": [
+        "Polarized demand-driven portal"
+      ]
+    },
+    "metadata": {
+      "record_created": "2023-10-27T05:12:41.210954",
+      "tags": [
+        "客户",
+        "国际化",
+        "增长"
+      ]
+    }
+  },
+  {
+    "fiscal_year": "FY23",
+    "policy_impact": {
+      "description": "贸易摩擦加剧",
+      "impact_score": 0.74
+    },
+    "organization": {
+      "change_detail": "裁员计划",
+      "teams_affected": 7,
+      "budget_allocated_million": 0.39
+    },
+    "user_strategy": {
+      "strategy_desc": "优化APP界面",
+      "priority": "高",
+      "actions": [
+        "Re-contextualized foreground access"
+      ]
+    },
+    "metadata": {
+      "record_created": "2022-05-19T20:38:12.227220",
+      "tags": [
+        "增长"
+      ]
+    }
+  },
+  {
+    "fiscal_year": "FY31",
+    "policy_impact": {
+      "description": "支持创新",
+      "impact_score": 0.79
+    },
+    "organization": {
+      "change_detail": "业务线合并",
+      "teams_affected": 1,
+      "budget_allocated_million": 3.76
+    },
+    "user_strategy": {
+      "strategy_desc": "优化APP界面",
+      "priority": "低",
+      "actions": [
+        "Visionary secondary migration",
+        "Optional systemic monitoring",
+        "Sharable static policy"
+      ]
+    },
+    "metadata": {
+      "record_created": "2025-04-28T05:11:10.077831",
+      "tags": [
+        "风险"
+      ]
+    }
+  },
+  {
+    "fiscal_year": "FY22",
+    "policy_impact": {
+      "description": "放松监管",
+      "impact_score": 0.15
+    },
+    "organization": {
+      "change_detail": "新增海外团队",
+      "teams_affected": 6,
+      "budget_allocated_million": 2.15
+    },
+    "user_strategy": {
+      "strategy_desc": "会员体系升级",
+      "priority": "高",
+      "actions": [
+        "Pre-emptive multi-state secured line"
+      ]
+    },
+    "metadata": {
+      "record_created": "2022-07-05T07:02:21.020599",
+      "tags": [
+        "增长",
+        "创新",
+        "国际化"
+      ]
+    }
+  },
+  {
+    "fiscal_year": "FY22",
+    "policy_impact": {
+      "description": "贸易摩擦加剧",
+      "impact_score": 0.74
+    },
+    "organization": {
+      "change_detail": "部门重组",
+      "teams_affected": 2,
+      "budget_allocated_million": 3.25
+    },
+    "user_strategy": {
+      "strategy_desc": "引入AI推荐",
+      "priority": "低",
+      "actions": [
+        "Profound 5thgeneration system engine",
+        "Stand-alone contextually-based success",
+        "Configurable mobile protocol"
+      ]
+    },
+    "metadata": {
+      "record_created": "2021-07-26T00:46:57.839148",
+      "tags": [
+        "国际化",
+        "创新",
+        "客户"
+      ]
+    }
+  },
+  {
+    "fiscal_year": "FY31",
+    "policy_impact": {
+      "description": "促进国际化",
+      "impact_score": 0.28
+    },
+    "organization": {
+      "change_detail": "新增海外团队",
+      "teams_affected": 9,
+      "budget_allocated_million": 1.2
+    },
+    "user_strategy": {
+      "strategy_desc": "多平台接入",
+      "priority": "高",
+      "actions": [
+        "Managed global neural-net"
+      ]
+    },
+    "metadata": {
+      "record_created": "2022-05-04T11:19:42.323971",
+      "tags": [
+        "创新",
+        "客户",
+        "国际化"
+      ]
+    }
+  },
+  {
+    "fiscal_year": "FY25",
+    "policy_impact": {
+      "description": "支持创新",
+      "impact_score": 0.52
+    },
+    "organization": {
+      "change_detail": "新增海外团队",
+      "teams_affected": 5,
+      "budget_allocated_million": 0.72
+    },
+    "user_strategy": {
+      "strategy_desc": "优化APP界面",
+      "priority": "高",
+      "actions": [
+        "Compatible uniform knowledgebase",
+        "Networked object-oriented time-frame",
+        "Mandatory 3rdgeneration core"
+      ]
+    },
+    "metadata": {
+      "record_created": "2023-07-04T10:09:25.881978",
+      "tags": [
+        "效率",
+        "客户",
+        "创新"
+      ]
+    }
+  },
+  {
+    "fiscal_year": "FY26",
+    "policy_impact": {
+      "description": "促进国际化",
+      "impact_score": 0.37
+    },
+    "organization": {
+      "change_detail": "裁员计划",
+      "teams_affected": 4,
+      "budget_allocated_million": 1.01
+    },
+    "user_strategy": {
+      "strategy_desc": "会员体系升级",
+      "priority": "高",
+      "actions": [
+        "Self-enabling high-level access",
+        "Multi-channeled discrete initiative",
+        "Public-key motivating success"
+      ]
+    },
+    "metadata": {
+      "record_created": "2024-12-05T00:53:49.201937",
+      "tags": [
+        "国际化",
+        "效率"
+      ]
+    }
+  },
+  {
+    "fiscal_year": "FY22",
+    "policy_impact": {
+      "description": "放松监管",
+      "impact_score": 0.81
+    },
+    "organization": {
+      "change_detail": "技术升级",
+      "teams_affected": 1,
+      "budget_allocated_million": 1.54
+    },
+    "user_strategy": {
+      "strategy_desc": "引入AI推荐",
+      "priority": "中",
+      "actions": [
+        "Centralized scalable forecast",
+        "Proactive well-modulated product",
+        "Up-sized discrete moratorium"
+      ]
+    },
+    "metadata": {
+      "record_created": "2022-11-22T18:36:14.720610",
+      "tags": [
+        "客户",
+        "效率",
+        "国际化"
+      ]
+    }
+  },
+  {
+    "fiscal_year": "FY22",
+    "policy_impact": {
+      "description": "促进国际化",
+      "impact_score": 0.18
+    },
+    "organization": {
+      "change_detail": "管理层调整",
+      "teams_affected": 3,
+      "budget_allocated_million": 1.64
+    },
+    "user_strategy": {
+      "strategy_desc": "引入AI推荐",
+      "priority": "低",
+      "actions": [
+        "Enhanced coherent monitoring",
+        "Organic homogeneous system engine"
+      ]
+    },
+    "metadata": {
+      "record_created": "2022-10-04T14:17:22.116276",
+      "tags": [
+        "客户",
+        "国际化"
+      ]
+    }
+  },
+  {
+    "fiscal_year": "FY26",
+    "policy_impact": {
+      "description": "促进国际化",
+      "impact_score": 0.3
+    },
+    "organization": {
+      "change_detail": "技术升级",
+      "teams_affected": 4,
+      "budget_allocated_million": 1.86
+    },
+    "user_strategy": {
+      "strategy_desc": "数据驱动运营",
+      "priority": "中",
+      "actions": [
+        "Advanced client-driven knowledgebase",
+        "Ergonomic 3rdgeneration extranet"
+      ]
+    },
+    "metadata": {
+      "record_created": "2024-10-10T23:44:48.285554",
+      "tags": [
+        "效率",
+        "增长"
+      ]
+    }
+  },
+  {
+    "fiscal_year": "FY23",
+    "policy_impact": {
+      "description": "贸易摩擦加剧",
+      "impact_score": 0.32
+    },
+    "organization": {
+      "change_detail": "管理层调整",
+      "teams_affected": 2,
+      "budget_allocated_million": 3.53
+    },
+    "user_strategy": {
+      "strategy_desc": "增强客户服务",
+      "priority": "低",
+      "actions": [
+        "Synergized encompassing Internet solution"
+      ]
+    },
+    "metadata": {
+      "record_created": "2023-10-17T09:55:56.245208",
+      "tags": [
+        "风险",
+        "增长"
+      ]
+    }
+  },
+  {
+    "fiscal_year": "FY29",
+    "policy_impact": {
+      "description": "促进国际化",
+      "impact_score": 0.39
+    },
+    "organization": {
+      "change_detail": "管理层调整",
+      "teams_affected": 4,
+      "budget_allocated_million": 0.53
+    },
+    "user_strategy": {
+      "strategy_desc": "优化APP界面",
+      "priority": "中",
+      "actions": [
+        "Adaptive bi-directional process improvement",
+        "Cloned multimedia help-desk",
+        "Triple-buffered background artificial intelligence"
+      ]
+    },
+    "metadata": {
+      "record_created": "2022-08-04T05:26:25.605204",
+      "tags": [
+        "客户",
+        "创新"
+      ]
+    }
+  },
+  {
+    "fiscal_year": "FY25",
+    "policy_impact": {
+      "description": "贸易摩擦加剧",
+      "impact_score": 0.72
+    },
+    "organization": {
+      "change_detail": "裁员计划",
+      "teams_affected": 1,
+      "budget_allocated_million": 2.92
+    },
+    "user_strategy": {
+      "strategy_desc": "优化APP界面",
+      "priority": "高",
+      "actions": [
+        "Advanced national implementation",
+        "Compatible needs-based solution",
+        "Sharable impactful algorithm"
+      ]
+    },
+    "metadata": {
+      "record_created": "2025-11-22T06:24:28.279396",
+      "tags": [
+        "创新",
+        "客户"
+      ]
+    }
+  },
+  {
+    "fiscal_year": "FY24",
+    "policy_impact": {
+      "description": "紧缩政策",
+      "impact_score": 0.65
+    },
+    "organization": {
+      "change_detail": "裁员计划",
+      "teams_affected": 5,
+      "budget_allocated_million": 2.3
+    },
+    "user_strategy": {
+      "strategy_desc": "引入AI推荐",
+      "priority": "低",
+      "actions": [
+        "Fundamental methodical alliance",
+        "Versatile next generation groupware",
+        "Operative grid-enabled algorithm"
+      ]
+    },
+    "metadata": {
+      "record_created": "2023-10-28T00:40:47.463428",
+      "tags": [
+        "国际化",
+        "增长"
+      ]
+    }
+  },
+  {
+    "fiscal_year": "FY26",
+    "policy_impact": {
+      "description": "支持创新",
+      "impact_score": 0.21
+    },
+    "organization": {
+      "change_detail": "技术升级",
+      "teams_affected": 5,
+      "budget_allocated_million": 6.06
+    },
+    "user_strategy": {
+      "strategy_desc": "数据驱动运营",
+      "priority": "低",
+      "actions": [
+        "Diverse intangible architecture"
+      ]
+    },
+    "metadata": {
+      "record_created": "2024-04-16T16:33:43.250459",
+      "tags": [
+        "国际化",
+        "客户",
+        "创新"
+      ]
+    }
+  },
+  {
+    "fiscal_year": "FY29",
+    "policy_impact": {
+      "description": "促进国际化",
+      "impact_score": 0.63
+    },
+    "organization": {
+      "change_detail": "裁员计划",
+      "teams_affected": 2,
+      "budget_allocated_million": 1.66
+    },
+    "user_strategy": {
+      "strategy_desc": "数据驱动运营",
+      "priority": "高",
+      "actions": [
+        "Synergistic client-server hub",
+        "Synchronized disintermediate synergy"
+      ]
+    },
+    "metadata": {
+      "record_created": "2020-06-20T04:41:25.371878",
+      "tags": [
+        "风险",
+        "效率",
+        "增长"
+      ]
+    }
+  },
+  {
+    "fiscal_year": "FY24",
+    "policy_impact": {
+      "description": "促进国际化",
+      "impact_score": 0.46
+    },
+    "organization": {
+      "change_detail": "部门重组",
+      "teams_affected": 5,
+      "budget_allocated_million": 8.06
+    },
+    "user_strategy": {
+      "strategy_desc": "数据驱动运营",
+      "priority": "低",
+      "actions": [
+        "Self-enabling analyzing task-force"
+      ]
+    },
+    "metadata": {
+      "record_created": "2023-02-06T23:20:38.392750",
+      "tags": [
+        "创新",
+        "增长"
+      ]
+    }
+  },
+  {
+    "fiscal_year": "FY26",
+    "policy_impact": {
+      "description": "促进国际化",
+      "impact_score": 0.81
+    },
+    "organization": {
+      "change_detail": "技术升级",
+      "teams_affected": 8,
+      "budget_allocated_million": 1.77
+    },
+    "user_strategy": {
+      "strategy_desc": "会员体系升级",
+      "priority": "中",
+      "actions": [
+        "Public-key fault-tolerant circuit",
+        "Streamlined zero administration frame"
+      ]
+    },
+    "metadata": {
+      "record_created": "2024-08-22T06:49:30.794838",
+      "tags": [
+        "风险",
+        "国际化",
+        "增长"
+      ]
+    }
+  },
+  {
+    "fiscal_year": "FY30",
+    "policy_impact": {
+      "description": "促进国际化",
+      "impact_score": 0.04
+    },
+    "organization": {
+      "change_detail": "部门重组",
+      "teams_affected": 2,
+      "budget_allocated_million": 4.06
+    },
+    "user_strategy": {
+      "strategy_desc": "增强客户服务",
+      "priority": "低",
+      "actions": [
+        "Networked holistic capacity"
+      ]
+    },
+    "metadata": {
+      "record_created": "2023-03-14T09:52:07.874891",
+      "tags": [
+        "创新",
+        "国际化",
+        "风险"
+      ]
+    }
+  },
+  {
+    "fiscal_year": "FY22",
+    "policy_impact": {
+      "description": "紧缩政策",
+      "impact_score": 0.26
+    },
+    "organization": {
+      "change_detail": "管理层调整",
+      "teams_affected": 3,
+      "budget_allocated_million": 1.57
+    },
+    "user_strategy": {
+      "strategy_desc": "增强客户服务",
+      "priority": "低",
+      "actions": [
+        "Mandatory multi-state capability"
+      ]
+    },
+    "metadata": {
+      "record_created": "2023-10-07T06:07:32.110134",
+      "tags": [
+        "国际化",
+        "风险",
+        "效率"
+      ]
+    }
+  },
+  {
+    "fiscal_year": "FY29",
+    "policy_impact": {
+      "description": "紧缩政策",
+      "impact_score": 0.68
+    },
+    "organization": {
+      "change_detail": "新增海外团队",
+      "teams_affected": 6,
+      "budget_allocated_million": 1.0
+    },
+    "user_strategy": {
+      "strategy_desc": "数据驱动运营",
+      "priority": "低",
+      "actions": [
+        "Reverse-engineered human-resource Internet solution",
+        "Centralized user-facing challenge"
+      ]
+    },
+    "metadata": {
+      "record_created": "2022-09-20T06:38:05.898853",
+      "tags": [
+        "国际化",
+        "客户"
+      ]
+    }
+  },
+  {
+    "fiscal_year": "FY31",
+    "policy_impact": {
+      "description": "放松监管",
+      "impact_score": 0.36
+    },
+    "organization": {
+      "change_detail": "新增海外团队",
+      "teams_affected": 2,
+      "budget_allocated_million": 5.01
+    },
+    "user_strategy": {
+      "strategy_desc": "多平台接入",
+      "priority": "中",
+      "actions": [
+        "Ameliorated grid-enabled knowledge user"
+      ]
+    },
+    "metadata": {
+      "record_created": "2025-03-17T16:02:19.949186",
+      "tags": [
+        "增长",
+        "客户"
+      ]
+    }
+  },
+  {
+    "fiscal_year": "FY25",
+    "policy_impact": {
+      "description": "紧缩政策",
+      "impact_score": 0.67
+    },
+    "organization": {
+      "change_detail": "新增海外团队",
+      "teams_affected": 7,
+      "budget_allocated_million": 6.22
+    },
+    "user_strategy": {
+      "strategy_desc": "引入AI推荐",
+      "priority": "高",
+      "actions": [
+        "User-centric uniform structure"
+      ]
+    },
+    "metadata": {
+      "record_created": "2023-12-31T21:57:51.469162",
+      "tags": [
+        "国际化",
+        "风险"
+      ]
+    }
+  },
+  {
+    "fiscal_year": "FY26",
+    "policy_impact": {
+      "description": "紧缩政策",
+      "impact_score": 0.92
+    },
+    "organization": {
+      "change_detail": "管理层调整",
+      "teams_affected": 9,
+      "budget_allocated_million": 6.67
+    },
+    "user_strategy": {
+      "strategy_desc": "会员体系升级",
+      "priority": "高",
+      "actions": [
+        "Innovative interactive utilization",
+        "Vision-oriented 4thgeneration complexity"
+      ]
+    },
+    "metadata": {
+      "record_created": "2023-02-13T07:05:18.988358",
+      "tags": [
+        "创新",
+        "客户"
+      ]
+    }
+  },
+  {
+    "fiscal_year": "FY28",
+    "policy_impact": {
+      "description": "促进国际化",
+      "impact_score": 0.07
+    },
+    "organization": {
+      "change_detail": "新增海外团队",
+      "teams_affected": 4,
+      "budget_allocated_million": 3.56
+    },
+    "user_strategy": {
+      "strategy_desc": "引入AI推荐",
+      "priority": "低",
+      "actions": [
+        "Programmable multimedia open architecture",
+        "Devolved global middleware",
+        "Customer-focused needs-based success"
+      ]
+    },
+    "metadata": {
+      "record_created": "2022-03-16T23:55:43.252572",
+      "tags": [
+        "创新",
+        "国际化",
+        "效率"
+      ]
+    }
+  },
+  {
+    "fiscal_year": "FY23",
+    "policy_impact": {
+      "description": "新电商法实施",
+      "impact_score": 0.75
+    },
+    "organization": {
+      "change_detail": "管理层调整",
+      "teams_affected": 4,
+      "budget_allocated_million": 0.18
+    },
+    "user_strategy": {
+      "strategy_desc": "数据驱动运营",
+      "priority": "高",
+      "actions": [
+        "Re-contextualized global array"
+      ]
+    },
+    "metadata": {
+      "record_created": "2021-08-16T13:53:06.973530",
+      "tags": [
+        "增长",
+        "效率"
+      ]
+    }
+  },
+  {
+    "fiscal_year": "FY27",
+    "policy_impact": {
+      "description": "新电商法实施",
+      "impact_score": 0.37
+    },
+    "organization": {
+      "change_detail": "裁员计划",
+      "teams_affected": 5,
+      "budget_allocated_million": 2.79
+    },
+    "user_strategy": {
+      "strategy_desc": "增强客户服务",
+      "priority": "高",
+      "actions": [
+        "Profit-focused dynamic database"
+      ]
+    },
+    "metadata": {
+      "record_created": "2025-04-20T08:15:39.622520",
+      "tags": [
+        "效率",
+        "创新"
+      ]
+    }
+  },
+  {
+    "fiscal_year": "FY28",
+    "policy_impact": {
+      "description": "支持创新",
+      "impact_score": 0.71
+    },
+    "organization": {
+      "change_detail": "业务线合并",
+      "teams_affected": 7,
+      "budget_allocated_million": 0.32
+    },
+    "user_strategy": {
+      "strategy_desc": "优化APP界面",
+      "priority": "低",
+      "actions": [
+        "Fundamental hybrid analyzer",
+        "Profit-focused attitude-oriented customer loyalty"
+      ]
+    },
+    "metadata": {
+      "record_created": "2023-01-08T08:13:36.281015",
+      "tags": [
+        "增长",
+        "客户",
+        "国际化"
+      ]
+    }
+  },
+  {
+    "fiscal_year": "FY24",
+    "policy_impact": {
+      "description": "支持创新",
+      "impact_score": 0.78
+    },
+    "organization": {
+      "change_detail": "技术升级",
+      "teams_affected": 9,
+      "budget_allocated_million": 0.29
+    },
+    "user_strategy": {
+      "strategy_desc": "多平台接入",
+      "priority": "高",
+      "actions": [
+        "Virtual 3rdgeneration core",
+        "Future-proofed non-volatile emulation"
+      ]
+    },
+    "metadata": {
+      "record_created": "2020-07-04T21:09:20.522726",
+      "tags": [
+        "效率",
+        "国际化"
+      ]
+    }
+  },
+  {
+    "fiscal_year": "FY23",
+    "policy_impact": {
+      "description": "紧缩政策",
+      "impact_score": 0.74
+    },
+    "organization": {
+      "change_detail": "管理层调整",
+      "teams_affected": 2,
+      "budget_allocated_million": 3.27
+    },
+    "user_strategy": {
+      "strategy_desc": "增强客户服务",
+      "priority": "高",
+      "actions": [
+        "Intuitive attitude-oriented Graphical User Interface"
+      ]
+    },
+    "metadata": {
+      "record_created": "2023-04-26T06:05:30.670582",
+      "tags": [
+        "效率",
+        "国际化"
+      ]
+    }
+  },
+  {
+    "fiscal_year": "FY30",
+    "policy_impact": {
+      "description": "放松监管",
+      "impact_score": 0.88
+    },
+    "organization": {
+      "change_detail": "部门重组",
+      "teams_affected": 4,
+      "budget_allocated_million": 3.52
+    },
+    "user_strategy": {
+      "strategy_desc": "多平台接入",
+      "priority": "高",
+      "actions": [
+        "Devolved national challenge",
+        "Polarized modular superstructure",
+        "Object-based zero-defect algorithm"
+      ]
+    },
+    "metadata": {
+      "record_created": "2021-07-15T00:48:30.435017",
+      "tags": [
+        "创新"
+      ]
+    }
+  },
+  {
+    "fiscal_year": "FY25",
+    "policy_impact": {
+      "description": "紧缩政策",
+      "impact_score": 0.93
+    },
+    "organization": {
+      "change_detail": "管理层调整",
+      "teams_affected": 6,
+      "budget_allocated_million": 4.86
+    },
+    "user_strategy": {
+      "strategy_desc": "优化APP界面",
+      "priority": "中",
+      "actions": [
+        "Re-engineered mobile Graphical User Interface",
+        "Object-based directional middleware",
+        "De-engineered reciprocal productivity"
+      ]
+    },
+    "metadata": {
+      "record_created": "2020-01-14T00:28:16.864470",
+      "tags": [
+        "国际化",
+        "增长"
+      ]
+    }
+  },
+  {
+    "fiscal_year": "FY27",
+    "policy_impact": {
+      "description": "新电商法实施",
+      "impact_score": 0.89
+    },
+    "organization": {
+      "change_detail": "业务线合并",
+      "teams_affected": 8,
+      "budget_allocated_million": 1.49
+    },
+    "user_strategy": {
+      "strategy_desc": "优化APP界面",
+      "priority": "低",
+      "actions": [
+        "Right-sized real-time methodology",
+        "Mandatory tangible paradigm",
+        "Decentralized system-worthy application"
+      ]
+    },
+    "metadata": {
+      "record_created": "2022-02-26T17:56:50.094587",
+      "tags": [
+        "创新",
+        "国际化"
+      ]
+    }
+  },
+  {
+    "fiscal_year": "FY22",
+    "policy_impact": {
+      "description": "促进国际化",
+      "impact_score": 0.54
+    },
+    "organization": {
+      "change_detail": "裁员计划",
+      "teams_affected": 6,
+      "budget_allocated_million": 1.35
+    },
+    "user_strategy": {
+      "strategy_desc": "数据驱动运营",
+      "priority": "中",
+      "actions": [
+        "Persevering high-level secured line"
+      ]
+    },
+    "metadata": {
+      "record_created": "2025-02-12T07:13:12.911989",
+      "tags": [
+        "增长",
+        "风险",
+        "国际化"
+      ]
+    }
+  },
+  {
+    "fiscal_year": "FY24",
+    "policy_impact": {
+      "description": "促进国际化",
+      "impact_score": 0.46
+    },
+    "organization": {
+      "change_detail": "部门重组",
+      "teams_affected": 1,
+      "budget_allocated_million": 0.38
+    },
+    "user_strategy": {
+      "strategy_desc": "数据驱动运营",
+      "priority": "高",
+      "actions": [
+        "Intuitive heuristic data-warehouse",
+        "Visionary local Graphical User Interface"
+      ]
+    },
+    "metadata": {
+      "record_created": "2024-11-07T10:46:45.600597",
+      "tags": [
+        "客户"
+      ]
+    }
+  },
+  {
+    "fiscal_year": "FY28",
+    "policy_impact": {
+      "description": "放松监管",
+      "impact_score": 0.05
+    },
+    "organization": {
+      "change_detail": "技术升级",
+      "teams_affected": 4,
+      "budget_allocated_million": 1.42
+    },
+    "user_strategy": {
+      "strategy_desc": "增强客户服务",
+      "priority": "低",
+      "actions": [
+        "Ergonomic contextually-based implementation",
+        "Centralized intangible implementation"
+      ]
+    },
+    "metadata": {
+      "record_created": "2022-12-29T04:08:11.780549",
+      "tags": [
+        "风险",
+        "创新",
+        "客户"
+      ]
+    }
+  },
+  {
+    "fiscal_year": "FY24",
+    "policy_impact": {
+      "description": "新电商法实施",
+      "impact_score": 0.53
+    },
+    "organization": {
+      "change_detail": "管理层调整",
+      "teams_affected": 3,
+      "budget_allocated_million": 4.56
+    },
+    "user_strategy": {
+      "strategy_desc": "会员体系升级",
+      "priority": "低",
+      "actions": [
+        "Enhanced next generation implementation",
+        "Multi-layered asymmetric frame",
+        "Decentralized empowering middleware"
+      ]
+    },
+    "metadata": {
+      "record_created": "2024-11-25T16:05:43.483683",
+      "tags": [
+        "增长",
+        "客户",
+        "国际化"
+      ]
+    }
+  },
+  {
+    "fiscal_year": "FY26",
+    "policy_impact": {
+      "description": "贸易摩擦加剧",
+      "impact_score": 0.93
+    },
+    "organization": {
+      "change_detail": "裁员计划",
+      "teams_affected": 6,
+      "budget_allocated_million": 8.6
+    },
+    "user_strategy": {
+      "strategy_desc": "多平台接入",
+      "priority": "低",
+      "actions": [
+        "Inverse analyzing implementation",
+        "Business-focused optimizing info-mediaries"
+      ]
+    },
+    "metadata": {
+      "record_created": "2021-10-14T00:51:14.575674",
+      "tags": [
+        "创新",
+        "风险",
+        "客户"
+      ]
+    }
+  },
+  {
+    "fiscal_year": "FY26",
+    "policy_impact": {
+      "description": "放松监管",
+      "impact_score": 0.48
+    },
+    "organization": {
+      "change_detail": "业务线合并",
+      "teams_affected": 1,
+      "budget_allocated_million": 1.5
+    },
+    "user_strategy": {
+      "strategy_desc": "引入AI推荐",
+      "priority": "中",
+      "actions": [
+        "Persistent object-oriented task-force",
+        "Triple-buffered fresh-thinking encryption"
+      ]
+    },
+    "metadata": {
+      "record_created": "2023-11-13T20:44:49.843694",
+      "tags": [
+        "创新",
+        "风险",
+        "客户"
+      ]
+    }
+  },
+  {
+    "fiscal_year": "FY28",
+    "policy_impact": {
+      "description": "支持创新",
+      "impact_score": 0.41
+    },
+    "organization": {
+      "change_detail": "业务线合并",
+      "teams_affected": 7,
+      "budget_allocated_million": 0.7
+    },
+    "user_strategy": {
+      "strategy_desc": "引入AI推荐",
+      "priority": "低",
+      "actions": [
+        "Future-proofed leadingedge open system",
+        "Re-engineered grid-enabled encryption",
+        "Team-oriented logistical middleware"
+      ]
+    },
+    "metadata": {
+      "record_created": "2023-06-09T20:45:41.838985",
+      "tags": [
+        "增长"
+      ]
+    }
+  },
+  {
+    "fiscal_year": "FY25",
+    "policy_impact": {
+      "description": "促进国际化",
+      "impact_score": 0.84
+    },
+    "organization": {
+      "change_detail": "业务线合并",
+      "teams_affected": 1,
+      "budget_allocated_million": 1.32
+    },
+    "user_strategy": {
+      "strategy_desc": "数据驱动运营",
+      "priority": "低",
+      "actions": [
+        "Grass-roots global application",
+        "Enterprise-wide bottom-line adapter",
+        "Optimized stable methodology"
+      ]
+    },
+    "metadata": {
+      "record_created": "2024-05-21T17:39:37.919986",
+      "tags": [
+        "风险",
+        "效率"
+      ]
+    }
+  },
+  {
+    "fiscal_year": "FY22",
+    "policy_impact": {
+      "description": "贸易摩擦加剧",
+      "impact_score": 0.08
+    },
+    "organization": {
+      "change_detail": "新增海外团队",
+      "teams_affected": 5,
+      "budget_allocated_million": 0.91
+    },
+    "user_strategy": {
+      "strategy_desc": "优化APP界面",
+      "priority": "中",
+      "actions": [
+        "Polarized national analyzer"
+      ]
+    },
+    "metadata": {
+      "record_created": "2022-10-24T06:42:56.967620",
+      "tags": [
+        "国际化",
+        "增长"
+      ]
+    }
+  },
+  {
+    "fiscal_year": "FY28",
+    "policy_impact": {
+      "description": "放松监管",
+      "impact_score": 0.16
+    },
+    "organization": {
+      "change_detail": "新增海外团队",
+      "teams_affected": 8,
+      "budget_allocated_million": 1.59
+    },
+    "user_strategy": {
+      "strategy_desc": "引入AI推荐",
+      "priority": "低",
+      "actions": [
+        "Quality-focused client-server Graphic Interface",
+        "Multi-layered directional policy"
+      ]
+    },
+    "metadata": {
+      "record_created": "2025-03-02T01:50:13.684829",
+      "tags": [
+        "风险"
+      ]
+    }
+  },
+  {
+    "fiscal_year": "FY26",
+    "policy_impact": {
+      "description": "放松监管",
+      "impact_score": 0.57
+    },
+    "organization": {
+      "change_detail": "管理层调整",
+      "teams_affected": 1,
+      "budget_allocated_million": 2.18
+    },
+    "user_strategy": {
+      "strategy_desc": "多平台接入",
+      "priority": "中",
+      "actions": [
+        "Persistent motivating policy",
+        "Vision-oriented executive strategy",
+        "Reduced 24/7 Graphic Interface"
+      ]
+    },
+    "metadata": {
+      "record_created": "2024-05-13T04:15:33.021818",
+      "tags": [
+        "客户"
+      ]
+    }
+  },
+  {
+    "fiscal_year": "FY29",
+    "policy_impact": {
+      "description": "紧缩政策",
+      "impact_score": 0.03
+    },
+    "organization": {
+      "change_detail": "业务线合并",
+      "teams_affected": 6,
+      "budget_allocated_million": 2.73
+    },
+    "user_strategy": {
+      "strategy_desc": "引入AI推荐",
+      "priority": "高",
+      "actions": [
+        "Focused system-worthy architecture"
+      ]
+    },
+    "metadata": {
+      "record_created": "2025-03-18T18:46:17.063761",
+      "tags": [
+        "创新",
+        "国际化",
+        "效率"
+      ]
+    }
+  },
+  {
+    "fiscal_year": "FY28",
+    "policy_impact": {
+      "description": "放松监管",
+      "impact_score": 0.67
+    },
+    "organization": {
+      "change_detail": "技术升级",
+      "teams_affected": 5,
+      "budget_allocated_million": 0.06
+    },
+    "user_strategy": {
+      "strategy_desc": "优化APP界面",
+      "priority": "中",
+      "actions": [
+        "Horizontal composite instruction set"
+      ]
+    },
+    "metadata": {
+      "record_created": "2022-02-20T03:37:47.269028",
+      "tags": [
+        "国际化"
+      ]
+    }
+  },
+  {
+    "fiscal_year": "FY29",
+    "policy_impact": {
+      "description": "贸易摩擦加剧",
+      "impact_score": 0.19
+    },
+    "organization": {
+      "change_detail": "部门重组",
+      "teams_affected": 2,
+      "budget_allocated_million": 0.32
+    },
+    "user_strategy": {
+      "strategy_desc": "引入AI推荐",
+      "priority": "高",
+      "actions": [
+        "Balanced real-time access",
+        "Proactive systematic concept",
+        "Exclusive 6thgeneration flexibility"
+      ]
+    },
+    "metadata": {
+      "record_created": "2023-02-20T05:52:00.905576",
+      "tags": [
+        "风险",
+        "效率",
+        "创新"
+      ]
+    }
+  },
+  {
+    "fiscal_year": "FY23",
+    "policy_impact": {
+      "description": "放松监管",
+      "impact_score": 0.14
+    },
+    "organization": {
+      "change_detail": "技术升级",
+      "teams_affected": 2,
+      "budget_allocated_million": 1.23
+    },
+    "user_strategy": {
+      "strategy_desc": "增强客户服务",
+      "priority": "低",
+      "actions": [
+        "Virtual user-facing moderator",
+        "Ergonomic exuding methodology",
+        "Persistent directional forecast"
+      ]
+    },
+    "metadata": {
+      "record_created": "2023-02-26T21:08:20.881054",
+      "tags": [
+        "效率",
+        "客户"
+      ]
+    }
+  },
+  {
+    "fiscal_year": "FY27",
+    "policy_impact": {
+      "description": "紧缩政策",
+      "impact_score": 0.91
+    },
+    "organization": {
+      "change_detail": "业务线合并",
+      "teams_affected": 4,
+      "budget_allocated_million": 1.63
+    },
+    "user_strategy": {
+      "strategy_desc": "优化APP界面",
+      "priority": "高",
+      "actions": [
+        "Customer-focused leadingedge pricing structure",
+        "Quality-focused next generation focus group"
+      ]
+    },
+    "metadata": {
+      "record_created": "2024-10-29T12:35:12.897905",
+      "tags": [
+        "创新",
+        "效率"
+      ]
+    }
+  },
+  {
+    "fiscal_year": "FY29",
+    "policy_impact": {
+      "description": "支持创新",
+      "impact_score": 0.7
+    },
+    "organization": {
+      "change_detail": "技术升级",
+      "teams_affected": 7,
+      "budget_allocated_million": 2.64
+    },
+    "user_strategy": {
+      "strategy_desc": "多平台接入",
+      "priority": "高",
+      "actions": [
+        "Programmable asymmetric productivity",
+        "Object-based incremental website"
+      ]
+    },
+    "metadata": {
+      "record_created": "2024-09-24T21:20:09.063109",
+      "tags": [
+        "效率"
+      ]
+    }
+  },
+  {
+    "fiscal_year": "FY31",
+    "policy_impact": {
+      "description": "放松监管",
+      "impact_score": 0.64
+    },
+    "organization": {
+      "change_detail": "部门重组",
+      "teams_affected": 7,
+      "budget_allocated_million": 9.7
+    },
+    "user_strategy": {
+      "strategy_desc": "增强客户服务",
+      "priority": "低",
+      "actions": [
+        "Customizable analyzing open system",
+        "Optional well-modulated projection",
+        "Optional multi-state help-desk"
+      ]
+    },
+    "metadata": {
+      "record_created": "2020-12-02T01:04:56.018089",
+      "tags": [
+        "创新",
+        "风险"
+      ]
+    }
+  },
+  {
+    "fiscal_year": "FY24",
+    "policy_impact": {
+      "description": "新电商法实施",
+      "impact_score": 0.54
+    },
+    "organization": {
+      "change_detail": "部门重组",
+      "teams_affected": 5,
+      "budget_allocated_million": 2.69
+    },
+    "user_strategy": {
+      "strategy_desc": "多平台接入",
+      "priority": "低",
+      "actions": [
+        "Devolved content-based data-warehouse"
+      ]
+    },
+    "metadata": {
+      "record_created": "2025-11-03T21:50:31.481198",
+      "tags": [
+        "创新",
+        "增长",
+        "客户"
+      ]
+    }
+  },
+  {
+    "fiscal_year": "FY26",
+    "policy_impact": {
+      "description": "支持创新",
+      "impact_score": 0.76
+    },
+    "organization": {
+      "change_detail": "部门重组",
+      "teams_affected": 9,
+      "budget_allocated_million": 0.02
+    },
+    "user_strategy": {
+      "strategy_desc": "优化APP界面",
+      "priority": "低",
+      "actions": [
+        "Automated dynamic database",
+        "Compatible impactful algorithm"
+      ]
+    },
+    "metadata": {
+      "record_created": "2020-01-24T22:20:52.289417",
+      "tags": [
+        "风险",
+        "客户",
+        "创新"
+      ]
+    }
+  },
+  {
+    "fiscal_year": "FY30",
+    "policy_impact": {
+      "description": "新电商法实施",
+      "impact_score": 0.83
+    },
+    "organization": {
+      "change_detail": "管理层调整",
+      "teams_affected": 9,
+      "budget_allocated_million": 3.74
+    },
+    "user_strategy": {
+      "strategy_desc": "引入AI推荐",
+      "priority": "中",
+      "actions": [
+        "Streamlined fresh-thinking neural-net",
+        "Assimilated 6thgeneration encryption"
+      ]
+    },
+    "metadata": {
+      "record_created": "2024-05-15T04:44:47.412185",
+      "tags": [
+        "国际化",
+        "增长",
+        "效率"
+      ]
+    }
+  },
+  {
+    "fiscal_year": "FY23",
+    "policy_impact": {
+      "description": "新电商法实施",
+      "impact_score": 0.98
+    },
+    "organization": {
+      "change_detail": "部门重组",
+      "teams_affected": 5,
+      "budget_allocated_million": 2.37
+    },
+    "user_strategy": {
+      "strategy_desc": "多平台接入",
+      "priority": "高",
+      "actions": [
+        "Optional tangible frame",
+        "Enterprise-wide exuding budgetary management"
+      ]
+    },
+    "metadata": {
+      "record_created": "2021-09-09T03:52:09.910431",
+      "tags": [
+        "效率"
+      ]
+    }
+  },
+  {
+    "fiscal_year": "FY24",
+    "policy_impact": {
+      "description": "支持创新",
+      "impact_score": 0.38
+    },
+    "organization": {
+      "change_detail": "业务线合并",
+      "teams_affected": 1,
+      "budget_allocated_million": 0.23
+    },
+    "user_strategy": {
+      "strategy_desc": "数据驱动运营",
+      "priority": "高",
+      "actions": [
+        "Stand-alone fresh-thinking data-warehouse",
+        "Profound 4thgeneration synergy",
+        "Multi-lateral zero tolerance collaboration"
+      ]
+    },
+    "metadata": {
+      "record_created": "2022-10-14T15:24:07.003458",
+      "tags": [
+        "增长"
+      ]
+    }
+  },
+  {
+    "fiscal_year": "FY23",
+    "policy_impact": {
+      "description": "放松监管",
+      "impact_score": 0.07
+    },
+    "organization": {
+      "change_detail": "新增海外团队",
+      "teams_affected": 4,
+      "budget_allocated_million": 1.7
+    },
+    "user_strategy": {
+      "strategy_desc": "多平台接入",
+      "priority": "高",
+      "actions": [
+        "Operative directional migration",
+        "Switchable intermediate infrastructure"
+      ]
+    },
+    "metadata": {
+      "record_created": "2023-05-09T06:02:44.130655",
+      "tags": [
+        "创新",
+        "效率"
+      ]
+    }
+  },
+  {
+    "fiscal_year": "FY23",
+    "policy_impact": {
+      "description": "贸易摩擦加剧",
+      "impact_score": 0.6
+    },
+    "organization": {
+      "change_detail": "裁员计划",
+      "teams_affected": 2,
+      "budget_allocated_million": 3.44
+    },
+    "user_strategy": {
+      "strategy_desc": "会员体系升级",
+      "priority": "高",
+      "actions": [
+        "Networked asynchronous methodology",
+        "Balanced executive challenge",
+        "Phased upward-trending success"
+      ]
+    },
+    "metadata": {
+      "record_created": "2025-06-16T10:12:16.913374",
+      "tags": [
+        "增长",
+        "效率"
+      ]
+    }
+  },
+  {
+    "fiscal_year": "FY25",
+    "policy_impact": {
+      "description": "新电商法实施",
+      "impact_score": 0.58
+    },
+    "organization": {
+      "change_detail": "技术升级",
+      "teams_affected": 3,
+      "budget_allocated_million": 0.86
+    },
+    "user_strategy": {
+      "strategy_desc": "优化APP界面",
+      "priority": "中",
+      "actions": [
+        "De-engineered bottom-line knowledgebase"
+      ]
+    },
+    "metadata": {
+      "record_created": "2025-07-16T15:57:36.920720",
+      "tags": [
+        "增长",
+        "创新",
+        "风险"
+      ]
+    }
+  },
+  {
+    "fiscal_year": "FY27",
+    "policy_impact": {
+      "description": "贸易摩擦加剧",
+      "impact_score": 0.14
+    },
+    "organization": {
+      "change_detail": "业务线合并",
+      "teams_affected": 9,
+      "budget_allocated_million": 0.02
+    },
+    "user_strategy": {
+      "strategy_desc": "数据驱动运营",
+      "priority": "低",
+      "actions": [
+        "Multi-channeled neutral pricing structure"
+      ]
+    },
+    "metadata": {
+      "record_created": "2020-02-08T01:20:03.952677",
+      "tags": [
+        "风险",
+        "国际化"
+      ]
+    }
+  },
+  {
+    "fiscal_year": "FY31",
+    "policy_impact": {
+      "description": "放松监管",
+      "impact_score": 0.22
+    },
+    "organization": {
+      "change_detail": "技术升级",
+      "teams_affected": 4,
+      "budget_allocated_million": 1.78
+    },
+    "user_strategy": {
+      "strategy_desc": "数据驱动运营",
+      "priority": "中",
+      "actions": [
+        "Programmable heuristic forecast",
+        "Multi-lateral didactic info-mediaries",
+        "Business-focused bi-directional migration"
+      ]
+    },
+    "metadata": {
+      "record_created": "2024-12-17T06:58:04.301559",
+      "tags": [
+        "客户",
+        "国际化"
+      ]
+    }
+  },
+  {
+    "fiscal_year": "FY22",
+    "policy_impact": {
+      "description": "放松监管",
+      "impact_score": 0.3
+    },
+    "organization": {
+      "change_detail": "部门重组",
+      "teams_affected": 9,
+      "budget_allocated_million": 0.2
+    },
+    "user_strategy": {
+      "strategy_desc": "优化APP界面",
+      "priority": "高",
+      "actions": [
+        "Versatile bandwidth-monitored parallelism",
+        "Synchronized fresh-thinking support",
+        "Configurable zero-defect secured line"
+      ]
+    },
+    "metadata": {
+      "record_created": "2021-03-25T20:28:12.729146",
+      "tags": [
+        "创新",
+        "效率"
+      ]
+    }
+  },
+  {
+    "fiscal_year": "FY30",
+    "policy_impact": {
+      "description": "贸易摩擦加剧",
+      "impact_score": 0.31
+    },
+    "organization": {
+      "change_detail": "管理层调整",
+      "teams_affected": 8,
+      "budget_allocated_million": 1.44
+    },
+    "user_strategy": {
+      "strategy_desc": "优化APP界面",
+      "priority": "中",
+      "actions": [
+        "Networked contextually-based instruction set",
+        "De-engineered methodical challenge",
+        "Adaptive cohesive toolset"
+      ]
+    },
+    "metadata": {
+      "record_created": "2024-09-30T08:34:32.805385",
+      "tags": [
+        "创新",
+        "国际化",
+        "风险"
+      ]
+    }
+  },
+  {
+    "fiscal_year": "FY23",
+    "policy_impact": {
+      "description": "贸易摩擦加剧",
+      "impact_score": 0.6
+    },
+    "organization": {
+      "change_detail": "裁员计划",
+      "teams_affected": 1,
+      "budget_allocated_million": 0.66
+    },
+    "user_strategy": {
+      "strategy_desc": "多平台接入",
+      "priority": "低",
+      "actions": [
+        "Managed 5thgeneration attitude"
+      ]
+    },
+    "metadata": {
+      "record_created": "2020-11-15T19:08:04.212517",
+      "tags": [
+        "风险",
+        "效率",
+        "增长"
+      ]
+    }
+  },
+  {
+    "fiscal_year": "FY28",
+    "policy_impact": {
+      "description": "新电商法实施",
+      "impact_score": 0.41
+    },
+    "organization": {
+      "change_detail": "裁员计划",
+      "teams_affected": 9,
+      "budget_allocated_million": 0.4
+    },
+    "user_strategy": {
+      "strategy_desc": "增强客户服务",
+      "priority": "低",
+      "actions": [
+        "Persevering intermediate customer loyalty",
+        "Switchable impactful approach",
+        "Centralized coherent budgetary management"
+      ]
+    },
+    "metadata": {
+      "record_created": "2022-10-04T16:18:33.876428",
+      "tags": [
+        "效率",
+        "国际化",
+        "创新"
+      ]
+    }
+  },
+  {
+    "fiscal_year": "FY25",
+    "policy_impact": {
+      "description": "促进国际化",
+      "impact_score": 0.69
+    },
+    "organization": {
+      "change_detail": "裁员计划",
+      "teams_affected": 5,
+      "budget_allocated_million": 2.91
+    },
+    "user_strategy": {
+      "strategy_desc": "优化APP界面",
+      "priority": "低",
+      "actions": [
+        "Cross-group client-driven secured line"
+      ]
+    },
+    "metadata": {
+      "record_created": "2020-03-30T22:40:41.953724",
+      "tags": [
+        "效率"
+      ]
+    }
+  },
+  {
+    "fiscal_year": "FY25",
+    "policy_impact": {
+      "description": "紧缩政策",
+      "impact_score": 0.79
+    },
+    "organization": {
+      "change_detail": "裁员计划",
+      "teams_affected": 7,
+      "budget_allocated_million": 0.68
+    },
+    "user_strategy": {
+      "strategy_desc": "引入AI推荐",
+      "priority": "高",
+      "actions": [
+        "Organic demand-driven encoding",
+        "Front-line zero tolerance Internet solution",
+        "Mandatory static circuit"
+      ]
+    },
+    "metadata": {
+      "record_created": "2020-07-14T06:43:54.177948",
+      "tags": [
+        "客户",
+        "增长",
+        "创新"
+      ]
+    }
+  },
+  {
+    "fiscal_year": "FY27",
+    "policy_impact": {
+      "description": "贸易摩擦加剧",
+      "impact_score": 0.56
+    },
+    "organization": {
+      "change_detail": "新增海外团队",
+      "teams_affected": 5,
+      "budget_allocated_million": 1.09
+    },
+    "user_strategy": {
+      "strategy_desc": "增强客户服务",
+      "priority": "中",
+      "actions": [
+        "Advanced explicit Graphic Interface",
+        "Synchronized impactful hardware",
+        "Focused analyzing approach"
+      ]
+    },
+    "metadata": {
+      "record_created": "2023-04-16T17:05:56.060734",
+      "tags": [
+        "创新",
+        "国际化",
+        "客户"
+      ]
+    }
+  },
+  {
+    "fiscal_year": "FY31",
+    "policy_impact": {
+      "description": "新电商法实施",
+      "impact_score": 0.22
+    },
+    "organization": {
+      "change_detail": "裁员计划",
+      "teams_affected": 5,
+      "budget_allocated_million": 0.29
+    },
+    "user_strategy": {
+      "strategy_desc": "数据驱动运营",
+      "priority": "中",
+      "actions": [
+        "Customizable dynamic forecast",
+        "Front-line clear-thinking open architecture"
+      ]
+    },
+    "metadata": {
+      "record_created": "2024-09-27T07:18:40.042214",
+      "tags": [
+        "风险"
+      ]
+    }
+  },
+  {
+    "fiscal_year": "FY29",
+    "policy_impact": {
+      "description": "贸易摩擦加剧",
+      "impact_score": 0.95
+    },
+    "organization": {
+      "change_detail": "管理层调整",
+      "teams_affected": 8,
+      "budget_allocated_million": 1.15
+    },
+    "user_strategy": {
+      "strategy_desc": "多平台接入",
+      "priority": "中",
+      "actions": [
+        "Robust zero administration project"
+      ]
+    },
+    "metadata": {
+      "record_created": "2025-02-20T14:15:26.723608",
+      "tags": [
+        "创新"
+      ]
+    }
+  },
+  {
+    "fiscal_year": "FY31",
+    "policy_impact": {
+      "description": "支持创新",
+      "impact_score": 0.27
+    },
+    "organization": {
+      "change_detail": "部门重组",
+      "teams_affected": 7,
+      "budget_allocated_million": 0.19
+    },
+    "user_strategy": {
+      "strategy_desc": "优化APP界面",
+      "priority": "高",
+      "actions": [
+        "Quality-focused empowering instruction set"
+      ]
+    },
+    "metadata": {
+      "record_created": "2025-11-02T23:03:20.364135",
+      "tags": [
+        "风险",
+        "国际化",
+        "增长"
+      ]
+    }
+  },
+  {
+    "fiscal_year": "FY24",
+    "policy_impact": {
+      "description": "新电商法实施",
+      "impact_score": 0.72
+    },
+    "organization": {
+      "change_detail": "业务线合并",
+      "teams_affected": 6,
+      "budget_allocated_million": 1.26
+    },
+    "user_strategy": {
+      "strategy_desc": "会员体系升级",
+      "priority": "中",
+      "actions": [
+        "Realigned holistic hub",
+        "Self-enabling clear-thinking instruction set"
+      ]
+    },
+    "metadata": {
+      "record_created": "2025-03-30T04:36:03.154372",
+      "tags": [
+        "国际化",
+        "效率"
+      ]
+    }
+  },
+  {
+    "fiscal_year": "FY25",
+    "policy_impact": {
+      "description": "新电商法实施",
+      "impact_score": 0.54
+    },
+    "organization": {
+      "change_detail": "管理层调整",
+      "teams_affected": 6,
+      "budget_allocated_million": 1.28
+    },
+    "user_strategy": {
+      "strategy_desc": "优化APP界面",
+      "priority": "中",
+      "actions": [
+        "Robust explicit hardware"
+      ]
+    },
+    "metadata": {
+      "record_created": "2021-11-15T17:03:56.834594",
+      "tags": [
+        "风险"
+      ]
+    }
+  },
+  {
+    "fiscal_year": "FY25",
+    "policy_impact": {
+      "description": "贸易摩擦加剧",
+      "impact_score": 0.08
+    },
+    "organization": {
+      "change_detail": "技术升级",
+      "teams_affected": 7,
+      "budget_allocated_million": 0.51
+    },
+    "user_strategy": {
+      "strategy_desc": "会员体系升级",
+      "priority": "低",
+      "actions": [
+        "Adaptive grid-enabled middleware"
+      ]
+    },
+    "metadata": {
+      "record_created": "2024-07-15T12:53:35.747018",
+      "tags": [
+        "国际化",
+        "创新"
+      ]
+    }
+  },
+  {
+    "fiscal_year": "FY25",
+    "policy_impact": {
+      "description": "放松监管",
+      "impact_score": 0.23
+    },
+    "organization": {
+      "change_detail": "技术升级",
+      "teams_affected": 3,
+      "budget_allocated_million": 1.31
+    },
+    "user_strategy": {
+      "strategy_desc": "增强客户服务",
+      "priority": "高",
+      "actions": [
+        "Stand-alone explicit artificial intelligence",
+        "Multi-tiered uniform contingency"
+      ]
+    },
+    "metadata": {
+      "record_created": "2023-08-25T10:12:56.599806",
+      "tags": [
+        "创新"
+      ]
+    }
+  },
+  {
+    "fiscal_year": "FY30",
+    "policy_impact": {
+      "description": "贸易摩擦加剧",
+      "impact_score": 0.31
+    },
+    "organization": {
+      "change_detail": "管理层调整",
+      "teams_affected": 5,
+      "budget_allocated_million": 0.81
+    },
+    "user_strategy": {
+      "strategy_desc": "多平台接入",
+      "priority": "高",
+      "actions": [
+        "Organic bi-directional superstructure",
+        "Right-sized value-added monitoring"
+      ]
+    },
+    "metadata": {
+      "record_created": "2021-03-10T01:41:02.093433",
+      "tags": [
+        "创新",
+        "效率",
+        "客户"
+      ]
+    }
+  },
+  {
+    "fiscal_year": "FY28",
+    "policy_impact": {
+      "description": "放松监管",
+      "impact_score": 0.86
+    },
+    "organization": {
+      "change_detail": "裁员计划",
+      "teams_affected": 6,
+      "budget_allocated_million": 0.59
+    },
+    "user_strategy": {
+      "strategy_desc": "数据驱动运营",
+      "priority": "高",
+      "actions": [
+        "Sharable systematic archive"
+      ]
+    },
+    "metadata": {
+      "record_created": "2021-02-22T16:20:12.728472",
+      "tags": [
+        "国际化"
+      ]
+    }
+  },
+  {
+    "fiscal_year": "FY31",
+    "policy_impact": {
+      "description": "贸易摩擦加剧",
+      "impact_score": 0.76
+    },
+    "organization": {
+      "change_detail": "部门重组",
+      "teams_affected": 7,
+      "budget_allocated_million": 2.03
+    },
+    "user_strategy": {
+      "strategy_desc": "增强客户服务",
+      "priority": "高",
+      "actions": [
+        "Up-sized heuristic interface",
+        "Vision-oriented mission-critical forecast",
+        "Streamlined neutral moratorium"
+      ]
+    },
+    "metadata": {
+      "record_created": "2020-12-22T19:30:46.241045",
+      "tags": [
+        "效率",
+        "国际化",
+        "创新"
+      ]
+    }
+  },
+  {
+    "fiscal_year": "FY29",
+    "policy_impact": {
+      "description": "贸易摩擦加剧",
+      "impact_score": 0.39
+    },
+    "organization": {
+      "change_detail": "新增海外团队",
+      "teams_affected": 2,
+      "budget_allocated_million": 0.91
+    },
+    "user_strategy": {
+      "strategy_desc": "优化APP界面",
+      "priority": "高",
+      "actions": [
+        "Assimilated empowering superstructure",
+        "Assimilated well-modulated product"
+      ]
+    },
+    "metadata": {
+      "record_created": "2024-01-08T20:20:31.418559",
+      "tags": [
+        "国际化"
+      ]
+    }
+  },
+  {
+    "fiscal_year": "FY28",
+    "policy_impact": {
+      "description": "贸易摩擦加剧",
+      "impact_score": 0.69
+    },
+    "organization": {
+      "change_detail": "管理层调整",
+      "teams_affected": 9,
+      "budget_allocated_million": 2.26
+    },
+    "user_strategy": {
+      "strategy_desc": "优化APP界面",
+      "priority": "低",
+      "actions": [
+        "Vision-oriented content-based hierarchy"
+      ]
+    },
+    "metadata": {
+      "record_created": "2021-02-05T21:52:16.270647",
+      "tags": [
+        "客户",
+        "创新"
+      ]
+    }
+  },
+  {
+    "fiscal_year": "FY25",
+    "policy_impact": {
+      "description": "支持创新",
+      "impact_score": 0.15
+    },
+    "organization": {
+      "change_detail": "新增海外团队",
+      "teams_affected": 4,
+      "budget_allocated_million": 1.75
+    },
+    "user_strategy": {
+      "strategy_desc": "增强客户服务",
+      "priority": "高",
+      "actions": [
+        "Devolved transitional portal",
+        "Cross-platform encompassing capability"
+      ]
+    },
+    "metadata": {
+      "record_created": "2025-05-04T00:52:01.255946",
+      "tags": [
+        "客户",
+        "国际化",
+        "创新"
+      ]
+    }
+  },
+  {
+    "fiscal_year": "FY31",
+    "policy_impact": {
+      "description": "贸易摩擦加剧",
+      "impact_score": 0.22
+    },
+    "organization": {
+      "change_detail": "技术升级",
+      "teams_affected": 1,
+      "budget_allocated_million": 4.64
+    },
+    "user_strategy": {
+      "strategy_desc": "会员体系升级",
+      "priority": "中",
+      "actions": [
+        "Compatible high-level approach",
+        "Function-based high-level capacity"
+      ]
+    },
+    "metadata": {
+      "record_created": "2021-07-04T14:13:53.225213",
+      "tags": [
+        "效率",
+        "客户",
+        "创新"
+      ]
+    }
+  },
+  {
+    "fiscal_year": "FY28",
+    "policy_impact": {
+      "description": "紧缩政策",
+      "impact_score": 0.84
+    },
+    "organization": {
+      "change_detail": "新增海外团队",
+      "teams_affected": 5,
+      "budget_allocated_million": 1.58
+    },
+    "user_strategy": {
+      "strategy_desc": "增强客户服务",
+      "priority": "高",
+      "actions": [
+        "Cross-group regional firmware",
+        "Programmable neutral capability"
+      ]
+    },
+    "metadata": {
+      "record_created": "2023-12-26T05:29:01.948787",
+      "tags": [
+        "客户",
+        "国际化"
+      ]
+    }
+  },
+  {
+    "fiscal_year": "FY28",
+    "policy_impact": {
+      "description": "紧缩政策",
+      "impact_score": 0.52
+    },
+    "organization": {
+      "change_detail": "技术升级",
+      "teams_affected": 2,
+      "budget_allocated_million": 1.17
+    },
+    "user_strategy": {
+      "strategy_desc": "数据驱动运营",
+      "priority": "低",
+      "actions": [
+        "Decentralized full-range forecast"
+      ]
+    },
+    "metadata": {
+      "record_created": "2024-10-11T18:32:32.338756",
+      "tags": [
+        "效率",
+        "创新"
+      ]
+    }
+  },
+  {
+    "fiscal_year": "FY28",
+    "policy_impact": {
+      "description": "促进国际化",
+      "impact_score": 0.03
+    },
+    "organization": {
+      "change_detail": "新增海外团队",
+      "teams_affected": 5,
+      "budget_allocated_million": 2.55
+    },
+    "user_strategy": {
+      "strategy_desc": "会员体系升级",
+      "priority": "中",
+      "actions": [
+        "Sharable well-modulated protocol",
+        "Integrated leadingedge encoding",
+        "Adaptive background budgetary management"
+      ]
+    },
+    "metadata": {
+      "record_created": "2023-09-14T18:10:43.689377",
+      "tags": [
+        "增长",
+        "风险",
+        "客户"
+      ]
+    }
+  },
+  {
+    "fiscal_year": "FY23",
+    "policy_impact": {
+      "description": "促进国际化",
+      "impact_score": 0.49
+    },
+    "organization": {
+      "change_detail": "技术升级",
+      "teams_affected": 2,
+      "budget_allocated_million": 2.44
+    },
+    "user_strategy": {
+      "strategy_desc": "多平台接入",
+      "priority": "高",
+      "actions": [
+        "Visionary leadingedge info-mediaries",
+        "Multi-channeled systematic contingency",
+        "De-engineered human-resource ability"
+      ]
+    },
+    "metadata": {
+      "record_created": "2022-06-26T06:10:45.339170",
+      "tags": [
+        "国际化",
+        "客户"
+      ]
+    }
+  },
+  {
+    "fiscal_year": "FY25",
+    "policy_impact": {
+      "description": "支持创新",
+      "impact_score": 0.95
+    },
+    "organization": {
+      "change_detail": "管理层调整",
+      "teams_affected": 8,
+      "budget_allocated_million": 0.27
+    },
+    "user_strategy": {
+      "strategy_desc": "会员体系升级",
+      "priority": "低",
+      "actions": [
+        "Front-line 24hour workforce",
+        "Operative clear-thinking website",
+        "Configurable context-sensitive monitoring"
+      ]
+    },
+    "metadata": {
+      "record_created": "2021-08-05T12:07:46.361386",
+      "tags": [
+        "风险",
+        "国际化",
+        "增长"
+      ]
+    }
+  },
+  {
+    "fiscal_year": "FY26",
+    "policy_impact": {
+      "description": "紧缩政策",
+      "impact_score": 0.16
+    },
+    "organization": {
+      "change_detail": "技术升级",
+      "teams_affected": 7,
+      "budget_allocated_million": 0.55
+    },
+    "user_strategy": {
+      "strategy_desc": "优化APP界面",
+      "priority": "中",
+      "actions": [
+        "Down-sized zero-defect info-mediaries",
+        "Integrated asymmetric algorithm",
+        "Decentralized non-volatile infrastructure"
+      ]
+    },
+    "metadata": {
+      "record_created": "2021-08-04T06:22:00.396494",
+      "tags": [
+        "效率",
+        "风险"
+      ]
+    }
+  },
+  {
+    "fiscal_year": "FY25",
+    "policy_impact": {
+      "description": "紧缩政策",
+      "impact_score": 0.2
+    },
+    "organization": {
+      "change_detail": "管理层调整",
+      "teams_affected": 2,
+      "budget_allocated_million": 0.25
+    },
+    "user_strategy": {
+      "strategy_desc": "优化APP界面",
+      "priority": "中",
+      "actions": [
+        "Business-focused scalable service-desk",
+        "Quality-focused transitional core"
+      ]
+    },
+    "metadata": {
+      "record_created": "2025-03-26T07:06:03.259105",
+      "tags": [
+        "创新",
+        "风险",
+        "增长"
+      ]
+    }
+  },
+  {
+    "fiscal_year": "FY23",
+    "policy_impact": {
+      "description": "促进国际化",
+      "impact_score": 1.0
+    },
+    "organization": {
+      "change_detail": "管理层调整",
+      "teams_affected": 3,
+      "budget_allocated_million": 7.89
+    },
+    "user_strategy": {
+      "strategy_desc": "会员体系升级",
+      "priority": "中",
+      "actions": [
+        "Integrated radical neural-net",
+        "Switchable global adapter"
+      ]
+    },
+    "metadata": {
+      "record_created": "2023-12-24T19:29:14.718961",
+      "tags": [
+        "效率",
+        "客户",
+        "创新"
+      ]
+    }
+  },
+  {
+    "fiscal_year": "FY22",
+    "policy_impact": {
+      "description": "放松监管",
+      "impact_score": 0.8
+    },
+    "organization": {
+      "change_detail": "新增海外团队",
+      "teams_affected": 8,
+      "budget_allocated_million": 6.16
+    },
+    "user_strategy": {
+      "strategy_desc": "优化APP界面",
+      "priority": "低",
+      "actions": [
+        "Integrated executive customer loyalty",
+        "Optimized didactic methodology"
+      ]
+    },
+    "metadata": {
+      "record_created": "2020-04-08T05:16:16.498480",
+      "tags": [
+        "效率",
+        "增长",
+        "创新"
+      ]
+    }
+  }
+]

@@ -1,0 +1,20 @@
+{
+    "goal": "评估广电运通与华为的合作对其AI和算力项目发展的具体贡献。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 公司在2024年上半年新签合同额超过10亿元，表明其在国际市场的业务拓展持续加速。",
+        "Comparison: 与其他地方国资企业相比，广电运通在数字化转型和技术创新方面的进展更为显著，尤其是在人工智能应用的落地方面。",
+        "Extreme: 2023年，广电运通的营业收入达到12.98亿元，显示出其在市场中的强劲表现。",
+        "Attribution: 公司通过与华为的合作，推动了多项AI和算力项目的发展，进一步增强了其市场竞争力。"
+    ],
+    "summary": "广电运通在数字化转型中取得显著进展，推出多项公共数据产品并参与市场建设，预计将进一步推动其在金融科技和城市智能领域的增长。",
+    "flag_id": "flag-55",
+    "classifier": "AI Healthcare",
+    "classifier_cn": "AI 医疗健康",
+    "input_files": [
+        "output/contracts.png",
+        "output/digital_transformations.db",
+        "output/partnerships.txt",
+        "output/revenue.json"
+    ]
+}

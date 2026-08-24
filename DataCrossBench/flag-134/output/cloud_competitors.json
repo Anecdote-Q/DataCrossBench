@@ -1,0 +1,402 @@
+[
+  {
+    "competitor_id": "C_2015_TWhp",
+    "competitor_name": "Competitor_1",
+    "fiscal_year": 2015,
+    "ebit_margin": 5.4815961106760245,
+    "competitor_type": "IT Infrastructure",
+    "recent_deal_info": "[]"
+  },
+  {
+    "competitor_id": "C_2016_SwmT",
+    "competitor_name": "Competitor_2",
+    "fiscal_year": 2016,
+    "ebit_margin": 5.189398974280726,
+    "competitor_type": "Cloud Service",
+    "recent_deal_info": "[]"
+  },
+  {
+    "competitor_id": "C_2017_gjBO",
+    "competitor_name": "Competitor_3",
+    "fiscal_year": 2017,
+    "ebit_margin": 5.367418860639805,
+    "competitor_type": "Cloud Service",
+    "recent_deal_info": "[]"
+  },
+  {
+    "competitor_id": "C_2018_kIQB",
+    "competitor_name": "Competitor_4",
+    "fiscal_year": 2018,
+    "ebit_margin": 5.4542108277792,
+    "competitor_type": "Cloud Service",
+    "recent_deal_info": "[]"
+  },
+  {
+    "competitor_id": "C_2019_Gsqg",
+    "competitor_name": "Competitor_5",
+    "fiscal_year": 2019,
+    "ebit_margin": 5.5563250006960105,
+    "competitor_type": "System Integrator",
+    "recent_deal_info": "[{\"partner\": \"Bishop, Phillips and Riley\", \"deal_value_musd\": 3.49, \"deal_date\": \"2023-07-13\"}]"
+  },
+  {
+    "competitor_id": "C_2020_ShkR",
+    "competitor_name": "Competitor_6",
+    "fiscal_year": 2020,
+    "ebit_margin": 4.996752740415823,
+    "competitor_type": "IT Infrastructure",
+    "recent_deal_info": "[]"
+  },
+  {
+    "competitor_id": "C_2021_IRpt",
+    "competitor_name": "Competitor_7",
+    "fiscal_year": 2021,
+    "ebit_margin": 4.852461370684181,
+    "competitor_type": "SaaS Provider",
+    "recent_deal_info": "[{\"partner\": \"Guzman and Sons\", \"deal_value_musd\": 10.73, \"deal_date\": \"2025-10-30\"}]"
+  },
+  {
+    "competitor_id": "C_2022_IKjV",
+    "competitor_name": "Competitor_8",
+    "fiscal_year": 2022,
+    "ebit_margin": 5.040356962161782,
+    "competitor_type": "SaaS Provider",
+    "recent_deal_info": "[]"
+  },
+  {
+    "competitor_id": "C_2023_DIJO",
+    "competitor_name": "Competitor_9",
+    "fiscal_year": 2023,
+    "ebit_margin": 4.587706169425957,
+    "competitor_type": "System Integrator",
+    "recent_deal_info": "[{\"partner\": \"Tyler, Fields and Clayton\", \"deal_value_musd\": 12.97, \"deal_date\": \"2023-10-08\"}]"
+  },
+  {
+    "competitor_id": "C_2024_DcXw",
+    "competitor_name": "Competitor_10",
+    "fiscal_year": 2024,
+    "ebit_margin": 4.7966865722274195,
+    "competitor_type": "SaaS Provider",
+    "recent_deal_info": "[{\"partner\": \"Smith, Clark and Young\", \"deal_value_musd\": 14.72, \"deal_date\": \"2024-08-31\"}]"
+  },
+  {
+    "competitor_id": "C_2025_BLMf",
+    "competitor_name": "Competitor_11",
+    "fiscal_year": 2025,
+    "ebit_margin": 4.652984708047088,
+    "competitor_type": "SaaS Provider",
+    "recent_deal_info": "[]"
+  },
+  {
+    "competitor_id": "C_2026_iPXz",
+    "competitor_name": "Competitor_12",
+    "fiscal_year": 2026,
+    "ebit_margin": 4.804267742846119,
+    "competitor_type": "IT Infrastructure",
+    "recent_deal_info": "[]"
+  },
+  {
+    "competitor_id": "C_2027_NdqC",
+    "competitor_name": "Competitor_13",
+    "fiscal_year": 2027,
+    "ebit_margin": 4.802597989145871,
+    "competitor_type": "IT Infrastructure",
+    "recent_deal_info": "[{\"partner\": \"Jennings-Wood\", \"deal_value_musd\": 15.02, \"deal_date\": \"2023-10-25\"}]"
+  },
+  {
+    "competitor_id": "C_2028_CZlQ",
+    "competitor_name": "Competitor_14",
+    "fiscal_year": 2028,
+    "ebit_margin": 4.226225698963026,
+    "competitor_type": "System Integrator",
+    "recent_deal_info": "[{\"partner\": \"Hernandez Inc\", \"deal_value_musd\": 14.45, \"deal_date\": \"2024-12-06\"}, {\"partner\": \"Clark, Blackburn and Hull\", \"deal_value_musd\": 7.15, \"deal_date\": \"2023-12-29\"}]"
+  },
+  {
+    "competitor_id": "C_2029_wlPS",
+    "competitor_name": "Competitor_15",
+    "fiscal_year": 2029,
+    "ebit_margin": 4.207903895885005,
+    "competitor_type": "Cloud Service",
+    "recent_deal_info": "[{\"partner\": \"Mitchell-Strickland\", \"deal_value_musd\": 6.1, \"deal_date\": \"2023-09-14\"}]"
+  },
+  {
+    "competitor_id": "C_2030_Icjo",
+    "competitor_name": "Competitor_16",
+    "fiscal_year": 2030,
+    "ebit_margin": 4.2032725205147585,
+    "competitor_type": "Cloud Service",
+    "recent_deal_info": "[{\"partner\": \"Christensen, Barnes and Walton\", \"deal_value_musd\": 10.27, \"deal_date\": \"2023-09-12\"}]"
+  },
+  {
+    "competitor_id": "C_2031_pfeT",
+    "competitor_name": "Competitor_17",
+    "fiscal_year": 2031,
+    "ebit_margin": 4.7883453272592185,
+    "competitor_type": "System Integrator",
+    "recent_deal_info": "[]"
+  },
+  {
+    "competitor_id": "C_2032_xNAR",
+    "competitor_name": "Competitor_18",
+    "fiscal_year": 2032,
+    "ebit_margin": 3.9104230961882216,
+    "competitor_type": "IT Infrastructure",
+    "recent_deal_info": "[{\"partner\": \"Ibarra and Sons\", \"deal_value_musd\": 9.9, \"deal_date\": \"2023-12-31\"}, {\"partner\": \"Morales-Larsen\", \"deal_value_musd\": 5.91, \"deal_date\": \"2023-07-08\"}]"
+  },
+  {
+    "competitor_id": "C_2033_pXTJ",
+    "competitor_name": "Competitor_19",
+    "fiscal_year": 2033,
+    "ebit_margin": 4.291593944511343,
+    "competitor_type": "System Integrator",
+    "recent_deal_info": "[{\"partner\": \"Waters, Miller and Brennan\", \"deal_value_musd\": 6.36, \"deal_date\": \"2023-08-14\"}, {\"partner\": \"Burns-Reed\", \"deal_value_musd\": 9.49, \"deal_date\": \"2023-09-11\"}]"
+  },
+  {
+    "competitor_id": "C_2034_vWIP",
+    "competitor_name": "Competitor_20",
+    "fiscal_year": 2034,
+    "ebit_margin": 4.100910936049524,
+    "competitor_type": "SaaS Provider",
+    "recent_deal_info": "[]"
+  },
+  {
+    "competitor_id": "C_2035_aXop",
+    "competitor_name": "Competitor_21",
+    "fiscal_year": 2035,
+    "ebit_margin": 4.3032355119711045,
+    "competitor_type": "IT Infrastructure",
+    "recent_deal_info": "[{\"partner\": \"Clark and Sons\", \"deal_value_musd\": 16.01, \"deal_date\": \"2025-07-29\"}, {\"partner\": \"Moore-Combs\", \"deal_value_musd\": 8.05, \"deal_date\": \"2024-05-04\"}]"
+  },
+  {
+    "competitor_id": "C_2036_cgJt",
+    "competitor_name": "Competitor_22",
+    "fiscal_year": 2036,
+    "ebit_margin": 4.2626595925305555,
+    "competitor_type": "System Integrator",
+    "recent_deal_info": "[{\"partner\": \"Harris, Wang and Ramos\", \"deal_value_musd\": 3.69, \"deal_date\": \"2024-12-13\"}]"
+  },
+  {
+    "competitor_id": "C_2037_FvXj",
+    "competitor_name": "Competitor_23",
+    "fiscal_year": 2037,
+    "ebit_margin": 3.786544622071092,
+    "competitor_type": "System Integrator",
+    "recent_deal_info": "[{\"partner\": \"Contreras-Pearson\", \"deal_value_musd\": 15.11, \"deal_date\": \"2024-03-06\"}]"
+  },
+  {
+    "competitor_id": "C_2038_LgcA",
+    "competitor_name": "Competitor_24",
+    "fiscal_year": 2038,
+    "ebit_margin": 3.5968091988009365,
+    "competitor_type": "System Integrator",
+    "recent_deal_info": "[{\"partner\": \"Morales-Little\", \"deal_value_musd\": 1.6, \"deal_date\": \"2025-09-01\"}, {\"partner\": \"White-Jenkins\", \"deal_value_musd\": 2.21, \"deal_date\": \"2023-12-17\"}, {\"partner\": \"Lopez-Bartlett\", \"deal_value_musd\": 7.53, \"deal_date\": \"2025-10-27\"}, {\"partner\": \"Long, Rhodes and Warren\", \"deal_value_musd\": 12.77, \"deal_date\": \"2025-06-13\"}]"
+  },
+  {
+    "competitor_id": "C_2039_ioeg",
+    "competitor_name": "Competitor_25",
+    "fiscal_year": 2039,
+    "ebit_margin": 4.0646460635402555,
+    "competitor_type": "System Integrator",
+    "recent_deal_info": "[{\"partner\": \"Gonzalez and Sons\", \"deal_value_musd\": 8.01, \"deal_date\": \"2025-06-13\"}]"
+  },
+  {
+    "competitor_id": "C_2040_sQYB",
+    "competitor_name": "Competitor_26",
+    "fiscal_year": 2040,
+    "ebit_margin": 3.1366897869707975,
+    "competitor_type": "System Integrator",
+    "recent_deal_info": "[{\"partner\": \"Miller LLC\", \"deal_value_musd\": 13.55, \"deal_date\": \"2023-01-14\"}, {\"partner\": \"Romero-Green\", \"deal_value_musd\": 11.3, \"deal_date\": \"2023-06-21\"}]"
+  },
+  {
+    "competitor_id": "C_2041_iAZH",
+    "competitor_name": "Competitor_27",
+    "fiscal_year": 2041,
+    "ebit_margin": 3.6926514687626577,
+    "competitor_type": "IT Infrastructure",
+    "recent_deal_info": "[]"
+  },
+  {
+    "competitor_id": "C_2042_Tgxf",
+    "competitor_name": "Competitor_28",
+    "fiscal_year": 2042,
+    "ebit_margin": 3.248511350501792,
+    "competitor_type": "Cloud Service",
+    "recent_deal_info": "[{\"partner\": \"Cantu and Sons\", \"deal_value_musd\": 12.41, \"deal_date\": \"2024-12-20\"}]"
+  },
+  {
+    "competitor_id": "C_2043_dwOa",
+    "competitor_name": "Competitor_29",
+    "fiscal_year": 2043,
+    "ebit_margin": 3.4888332366074173,
+    "competitor_type": "Cloud Service",
+    "recent_deal_info": "[]"
+  },
+  {
+    "competitor_id": "C_2044_HeRg",
+    "competitor_name": "Competitor_30",
+    "fiscal_year": 2044,
+    "ebit_margin": 3.0660452527234714,
+    "competitor_type": "Cloud Service",
+    "recent_deal_info": "[{\"partner\": \"Allen and Sons\", \"deal_value_musd\": 11.06, \"deal_date\": \"2025-06-02\"}, {\"partner\": \"Garcia-Mccall\", \"deal_value_musd\": 9.37, \"deal_date\": \"2023-03-28\"}]"
+  },
+  {
+    "competitor_id": "C_2045_qiQY",
+    "competitor_name": "Competitor_31",
+    "fiscal_year": 2045,
+    "ebit_margin": 2.8225496392443095,
+    "competitor_type": "System Integrator",
+    "recent_deal_info": "[{\"partner\": \"Snyder, Anderson and Fernandez\", \"deal_value_musd\": 21.35, \"deal_date\": \"2023-10-01\"}]"
+  },
+  {
+    "competitor_id": "C_2046_HBrq",
+    "competitor_name": "Competitor_32",
+    "fiscal_year": 2046,
+    "ebit_margin": 3.607109745179633,
+    "competitor_type": "Cloud Service",
+    "recent_deal_info": "[]"
+  },
+  {
+    "competitor_id": "C_2047_wZHh",
+    "competitor_name": "Competitor_33",
+    "fiscal_year": 2047,
+    "ebit_margin": 2.6738311795316214,
+    "competitor_type": "System Integrator",
+    "recent_deal_info": "[]"
+  },
+  {
+    "competitor_id": "C_2048_OriI",
+    "competitor_name": "Competitor_34",
+    "fiscal_year": 2048,
+    "ebit_margin": 3.3684186531813154,
+    "competitor_type": "Cloud Service",
+    "recent_deal_info": "[{\"partner\": \"Bentley and Sons\", \"deal_value_musd\": 12.01, \"deal_date\": \"2024-02-22\"}]"
+  },
+  {
+    "competitor_id": "C_2049_VTBu",
+    "competitor_name": "Competitor_35",
+    "fiscal_year": 2049,
+    "ebit_margin": 2.684621565350822,
+    "competitor_type": "System Integrator",
+    "recent_deal_info": "[{\"partner\": \"Williamson, Acosta and Campbell\", \"deal_value_musd\": 6.25, \"deal_date\": \"2023-04-19\"}, {\"partner\": \"Huff and Sons\", \"deal_value_musd\": 6.25, \"deal_date\": \"2023-09-12\"}, {\"partner\": \"Espinoza PLC\", \"deal_value_musd\": 2.18, \"deal_date\": \"2023-08-11\"}, {\"partner\": \"Smith and Sons\", \"deal_value_musd\": 5.47, \"deal_date\": \"2023-07-15\"}, {\"partner\": \"Woodward Inc\", \"deal_value_musd\": 19.93, \"deal_date\": \"2025-01-12\"}]"
+  },
+  {
+    "competitor_id": "C_2050_teNn",
+    "competitor_name": "Competitor_36",
+    "fiscal_year": 2050,
+    "ebit_margin": 1.447669182281003,
+    "competitor_type": "Cloud Service",
+    "recent_deal_info": "[{\"partner\": \"Young-Peterson\", \"deal_value_musd\": 7.76, \"deal_date\": \"2023-08-01\"}]"
+  },
+  {
+    "competitor_id": "C_2051_GGso",
+    "competitor_name": "Competitor_37",
+    "fiscal_year": 2051,
+    "ebit_margin": 2.8734167583153716,
+    "competitor_type": "IT Infrastructure",
+    "recent_deal_info": "[{\"partner\": \"Lewis PLC\", \"deal_value_musd\": 22.37, \"deal_date\": \"2025-10-11\"}, {\"partner\": \"Beck, James and Stewart\", \"deal_value_musd\": 4.89, \"deal_date\": \"2024-08-25\"}]"
+  },
+  {
+    "competitor_id": "C_2052_Gost",
+    "competitor_name": "Competitor_38",
+    "fiscal_year": 2052,
+    "ebit_margin": 2.440143960607077,
+    "competitor_type": "System Integrator",
+    "recent_deal_info": "[{\"partner\": \"Henderson-Waller\", \"deal_value_musd\": 10.93, \"deal_date\": \"2025-06-02\"}, {\"partner\": \"Johnson-Hunter\", \"deal_value_musd\": 7.29, \"deal_date\": \"2025-07-21\"}, {\"partner\": \"Jennings, Castillo and Dennis\", \"deal_value_musd\": 5.55, \"deal_date\": \"2025-04-07\"}]"
+  },
+  {
+    "competitor_id": "C_2053_Doim",
+    "competitor_name": "Competitor_39",
+    "fiscal_year": 2053,
+    "ebit_margin": 2.5318615986478643,
+    "competitor_type": "Cloud Service",
+    "recent_deal_info": "[]"
+  },
+  {
+    "competitor_id": "C_2054_gWSO",
+    "competitor_name": "Competitor_40",
+    "fiscal_year": 2054,
+    "ebit_margin": 2.093086498884769,
+    "competitor_type": "IT Infrastructure",
+    "recent_deal_info": "[{\"partner\": \"Manning and Sons\", \"deal_value_musd\": 1.86, \"deal_date\": \"2023-07-18\"}]"
+  },
+  {
+    "competitor_id": "C_2055_opcO",
+    "competitor_name": "Competitor_41",
+    "fiscal_year": 2055,
+    "ebit_margin": 2.5136913737704103,
+    "competitor_type": "System Integrator",
+    "recent_deal_info": "[]"
+  },
+  {
+    "competitor_id": "C_2056_iohj",
+    "competitor_name": "Competitor_42",
+    "fiscal_year": 2056,
+    "ebit_margin": 1.1115122116013763,
+    "competitor_type": "Cloud Service",
+    "recent_deal_info": "[]"
+  },
+  {
+    "competitor_id": "C_2057_ixos",
+    "competitor_name": "Competitor_43",
+    "fiscal_year": 2057,
+    "ebit_margin": 1.8151280851151164,
+    "competitor_type": "Cloud Service",
+    "recent_deal_info": "[{\"partner\": \"Fernandez, Williams and Bell\", \"deal_value_musd\": 0.2, \"deal_date\": \"2023-07-09\"}]"
+  },
+  {
+    "competitor_id": "C_2058_dULB",
+    "competitor_name": "Competitor_44",
+    "fiscal_year": 2058,
+    "ebit_margin": 1.9304846157758557,
+    "competitor_type": "Cloud Service",
+    "recent_deal_info": "[{\"partner\": \"Wilson-Goodman\", \"deal_value_musd\": 8.82, \"deal_date\": \"2025-08-01\"}]"
+  },
+  {
+    "competitor_id": "C_2059_AFFt",
+    "competitor_name": "Competitor_45",
+    "fiscal_year": 2059,
+    "ebit_margin": 2.2503182235888852,
+    "competitor_type": "Cloud Service",
+    "recent_deal_info": "[{\"partner\": \"Lopez, Fernandez and Mathis\", \"deal_value_musd\": 15.97, \"deal_date\": \"2024-01-18\"}]"
+  },
+  {
+    "competitor_id": "C_2060_yiHx",
+    "competitor_name": "Competitor_46",
+    "fiscal_year": 2060,
+    "ebit_margin": 1.0919606074704076,
+    "competitor_type": "IT Infrastructure",
+    "recent_deal_info": "[]"
+  },
+  {
+    "competitor_id": "C_2061_qwby",
+    "competitor_name": "Competitor_47",
+    "fiscal_year": 2061,
+    "ebit_margin": 2.0235270758716877,
+    "competitor_type": "SaaS Provider",
+    "recent_deal_info": "[{\"partner\": \"Wagner Inc\", \"deal_value_musd\": 8.91, \"deal_date\": \"2025-12-17\"}, {\"partner\": \"Bowers-Liu\", \"deal_value_musd\": 9.74, \"deal_date\": \"2023-01-13\"}]"
+  },
+  {
+    "competitor_id": "C_2062_tlWn",
+    "competitor_name": "Competitor_48",
+    "fiscal_year": 2062,
+    "ebit_margin": 1.280263623590461,
+    "competitor_type": "SaaS Provider",
+    "recent_deal_info": "[{\"partner\": \"Guerra-Brock\", \"deal_value_musd\": 21.15, \"deal_date\": \"2024-11-26\"}]"
+  },
+  {
+    "competitor_id": "C_2063_ydSX",
+    "competitor_name": "Competitor_49",
+    "fiscal_year": 2063,
+    "ebit_margin": 1.701927207697956,
+    "competitor_type": "IT Infrastructure",
+    "recent_deal_info": "[{\"partner\": \"Herrera Group\", \"deal_value_musd\": 0.17, \"deal_date\": \"2025-05-18\"}]"
+  },
+  {
+    "competitor_id": "C_2064_TfOI",
+    "competitor_name": "Competitor_50",
+    "fiscal_year": 2064,
+    "ebit_margin": 1.4063185812593841,
+    "competitor_type": "IT Infrastructure",
+    "recent_deal_info": "[{\"partner\": \"Preston LLC\", \"deal_value_musd\": 7.51, \"deal_date\": \"2023-06-03\"}]"
+  }
+]

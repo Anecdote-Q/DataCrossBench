@@ -1,0 +1,22 @@
+{
+    "goal": "比较不同年龄段网民的比例变化，特别关注18-24岁年轻人群体的主导地位。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 86.6%的网民个人月收入不超过2000元，显示出低收入网民的比例较高。",
+        "Comparison: 未婚网民占我国未婚人口总数的5.7%，已婚网民占我国已婚人口总数的2.3%。",
+        "Extreme: 个人月收入2000元及以下的网民比例从84.1%升至86.6%，显示出低收入网民的增长速度明显高于高收入网民。",
+        "Attribution: 学生比例的显著增加反映了校园网络建设的影响，可能与教育等的兴起有比较大的关系。"
+    ],
+    "summary": "本报告分析了中国互联网用户的性别、年龄、教育程度和职业分布，指出低收入网民仍占主体，且网民的教育背景日益多样化。",
+    "flag_id": "flag-165",
+    "classifier": "Internet Dev.",
+    "classifier_cn": "互联网发展",
+    "input_files": [
+        "output/background.txt",
+        "output/dimension_data.db",
+        "output/income_statistics.csv",
+        "output/internet_users_fact.csv",
+        "output/marital_statistics.csv",
+        "output/user_profiles.json"
+    ]
+}

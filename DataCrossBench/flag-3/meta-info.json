@@ -1,0 +1,24 @@
+{
+    "goal": "分析自2015年以来中国金融科技专利申请量快速增加的原因及其对行业发展的影响。",
+    "role": "Data Analyst",
+    "insights": [
+        "Trend: 自2015年以来，中国金融科技专利申请量快速增加，目前年度专利申请量已赶超美国，进入全球金融科技第一方阵。",
+        "Comparison: 中国在申请量上位列全球第二，但投权率低于全球平均水平，专利投权率为28.98%，全球平均为36.36%。",
+        "Extreme: 中国金融科技领域已公开专利申请约40万件，其中中国专利申请量为81,265件，全球占比20.66%。",
+        "Attribution: 金融科技的发展，始终围绕服务实体经济、改善民生的初心，政策推动是金融科技创新的重要因素。"
+    ],
+    "summary": "本报告分析了中国金融科技领域的专利技术发展现状，强调了政策推动、技术创新和区域差异对行业发展的重要影响。",
+    "flag_id": "flag-3",
+    "classifier": "FinTech",
+    "classifier_cn": "金融科技",
+    "input_files": [
+        "output/analysis_background.txt",
+        "output/annual_patent_application_trend.png",
+        "output/dimension_data.db",
+        "output/fintech_patent_facts.csv",
+        "output/fintech_patent_inventors.json",
+        "output/patent_application_by_policy.png",
+        "output/patent_application_by_type.png",
+        "output/patent_application_vs_complexity.png"
+    ]
+}
