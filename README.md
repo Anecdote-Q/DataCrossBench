@@ -1,11 +1,11 @@
 # DataCrossBench
 
-匿名发布快照，包含 benchmark 数据和四维评测代码。数据包含 200 个 `flag`；每个 flag 的 `meta-info.json` 提供分析目标和参考洞察，`output/` 提供参评系统需要分析的数据文件。
+DataCrossBench is a cross-source data analysis benchmark with 200 `flag` tasks and a four-dimensional evaluator. Each flag contains a `meta-info.json` with the analysis goal and reference insights, plus an `output/` directory containing the data files that participants are expected to analyze.
 
-## 文件结构
+## Repository Layout
 
 ```text
-DataCrossBench-anonymous/
+DataCrossBench/
 ├── DataCrossBench/
 │   ├── cleaned_insights_200.json
 │   └── flag-*/
@@ -22,26 +22,26 @@ DataCrossBench-anonymous/
     └── requirements.txt
 ```
 
-`output_csv_origin/` 和 `output/processed/` 已从所有 flag 删除。发布副本不包含评测结果、checkpoint、缓存或其他实验目录。
+The intermediate directories `output_csv_origin/` and `output/processed/` have been removed from every flag. The release does not include evaluation results, checkpoints, caches, or unrelated experiment directories.
 
-## 安装
+## Installation
 
-需要 Python 3.10 或更高版本。
+Python 3.10 or newer is required.
 
 ```bash
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r evaluation/requirements.txt
-export OPENAI_API_KEY="你的 API key"
-export OPENAI_API_URL="https://api.openai.com/v1"  # 可选
-export EVAL_MODEL="gpt-4o"                            # 可选
+export OPENAI_API_KEY="your-api-key"
+export OPENAI_API_URL="https://api.openai.com/v1"  # optional
+export EVAL_MODEL="gpt-4o"                            # optional
 ```
 
-评测需要 OpenAI-compatible Chat Completions（支持 `logprobs`/`top_logprobs`）和 Embeddings API。
+Evaluation requires an OpenAI-compatible Chat Completions endpoint supporting `logprobs` and `top_logprobs`, as well as an Embeddings endpoint.
 
-## 参评输出接口
+## Participant Output Format
 
-参评系统输出一个 JSON 文件即可，不需要复制 GT：
+Participants only need to submit one JSON file containing their predicted insights. They do not need to copy the ground truth:
 
 ```json
 {
@@ -57,9 +57,9 @@ export EVAL_MODEL="gpt-4o"                            # 可选
 }
 ```
 
-也接受 `{"flag-1": ["洞察"]}`，或包含 `flag_id` 和 `pred_insights` 的记录列表。`pred_insights` 必须是字符串列表；GT 和 `goal` 会从 `DataCrossBench/flag-*/meta-info.json` 自动读取。正式评测默认要求覆盖全部 200 个 flag；调试子集时显式加 `--allow-subset`。
+The evaluator also accepts `{"flag-1": ["insight"]}` and a list of records containing `flag_id` and `pred_insights`. `pred_insights` must be a list of strings. Ground-truth insights and the analysis goal are loaded automatically from `DataCrossBench/flag-*/meta-info.json`. A formal evaluation requires predictions for all 200 flags; use `--allow-subset` only when debugging.
 
-## 运行
+## Run Evaluation
 
 ```bash
 python3 evaluation/eval_with_stratification.py \
@@ -67,9 +67,9 @@ python3 evaluation/eval_with_stratification.py \
   --bench ./DataCrossBench
 ```
 
-默认结果写入 `evaluation/results/`（运行时生成，不应提交）。断点恢复使用 `--resume`；更换预测文件或模型时请删除旧 checkpoint，或指定新的输出目录。
+Results are written to `evaluation/results/` at runtime and should not be committed. Use `--resume` to continue from a checkpoint. When changing the prediction file or model, remove the old checkpoint or specify a separate output directory.
 
-无 API 的数据检查：
+To validate the benchmark without making API calls:
 
 ```bash
 python3 evaluation/validate_benchmark.py \
@@ -77,12 +77,12 @@ python3 evaluation/validate_benchmark.py \
   --classification evaluation/flag_classification.json
 ```
 
-## 评分定义与固定处理
+## Scoring and Fixed Processing
 
-四维权重为 Factuality 0.30、Completeness 0.25、Logic 0.20、Insightfulness 0.25，设计目标结果范围为 0–1。Factuality 是数字匹配 hard metric 与 LLM 分数各 50% 的组合；Completeness 是 GT 到预测的单向最大 embedding 相似度平均值，当前未裁剪 cosine 结果。
+The four dimensions use these weights: Factuality 0.30, Completeness 0.25, Logic 0.20, and Insightfulness 0.25. Scores are designed to fall in the range 0-1. Factuality combines a numeric hard metric and an LLM score with equal weights. Completeness is the average one-way maximum embedding similarity from ground-truth insights to predicted insights; cosine values are not clipped by the current implementation.
 
-当前实现会移除每条洞察开头大小写敏感的 `Trend:`、`Comparison:`、`Extreme:`、`Attribution:`。数字匹配默认允许 10% 相对误差，年份/编号也会参与匹配；GT 没有数字时 hard 分数为 1。LLM 解析不到 `<rating>1-10</rating>` 时会回退到响应中的第一个 1–10 数字，找不到则返回 0.5；最终 API 失败返回 0。easy/hard 只按 `output/` 是否有图像文件分层，评测器不会读取这些数据文件来重新计算 GT。
+The evaluator removes the case-sensitive prefixes `Trend:`, `Comparison:`, `Extreme:`, and `Attribution:` from the beginning of each insight. Numeric matching uses a default relative tolerance of 10%; years and identifiers are also treated as numbers. If the ground truth contains no numbers, the hard factuality score is 1. If an LLM response does not contain `<rating>1-10</rating>`, the evaluator falls back to the first standalone number from 1 to 10, or returns 0.5 if no rating can be found; a final API failure returns 0. The easy/hard split is based only on whether `output/` contains image files. The evaluator does not reread those data files to recompute the ground truth.
 
-## 托管建议
+## Hosting Notes
 
-当前快照约 1.0 GB，含约 253 MB SQLite 和约 122 MB CSV，超过 GitHub 普通仓库的单文件 100 MB 限制。GitHub 需要 Git LFS 或 Release 附件；匿名 4open.science 更适合作为匿名只读快照。公开前请确认数据、图像和第三方来源的再分发许可。此目录已是可上传内容，但没有绑定任何远端或作者身份。
+The release is approximately 1.0 GB and includes a SQLite file of about 253 MB and a CSV file of about 122 MB, exceeding GitHub's regular 100 MB per-file limit. Git LFS or release attachments are required for GitHub hosting. Anonymous 4open.science is suitable for an anonymous read-only copy. Confirm that the data, images, and third-party sources are permitted for redistribution before publication.
